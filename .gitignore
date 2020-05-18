@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# specific ignored
+backup/
+model/
+anotated_data/
+

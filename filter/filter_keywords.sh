@@ -1,0 +1,8 @@
+perl -pe 's/([Bb][Aa][Cc][Aa])([^.{}]*)(?<!")/ /g' $@ | perl -pe 's/\\u2022([^.{}]*)(?<!")/ /g' | perl -pe 's/([Ll][Ii][Hh][Aa][Tt]):([^.{}]*)(?<!")/ /g' | grep -ihP 'gempa|tektonik' > output/$@_gempa.txt
+perl -pe 's/([Bb][Aa][Cc][Aa])([^.{}]*)(?<!")/ /g' $@ | perl -pe 's/\\u2022([^.{}]*)(?<!")/ /g' | perl -pe 's/([Ll][Ii][Hh][Aa][Tt]):([^.{}]*)(?<!")/ /g' | grep -ihP 'tsunami' > output/$@_tsunami.txt 
+perl -pe 's/([Bb][Aa][Cc][Aa])([^.{}]*)(?<!")/ /g' $@ | perl -pe 's/\\u2022([^.{}]*)(?<!")/ /g' | perl -pe 's/([Ll][Ii][Hh][Aa][Tt]):([^.{}]*)(?<!")/ /g' | grep -ihP 'vulkanik|erupsi|letusan|awan panas|lava' > output/$@_erupsi.txt 
+perl -pe 's/([Bb][Aa][Cc][Aa])([^.{}]*)(?<!")/ /g' $@ | perl -pe 's/\\u2022([^.{}]*)(?<!")/ /g' | perl -pe 's/([Ll][Ii][Hh][Aa][Tt]):([^.{}]*)(?<!")/ /g' | grep -ihP 'kekeringan' > output/$@_kekeringan.txt 
+perl -pe 's/([Bb][Aa][Cc][Aa])([^.{}]*)(?<!")/ /g' $@ | perl -pe 's/\\u2022([^.{}]*)(?<!")/ /g' | perl -pe 's/([Ll][Ii][Hh][Aa][Tt]):([^.{}]*)(?<!")/ /g' | grep -ihP 'banjir' > output/$@_banjir.txt 
+perl -pe 's/([Bb][Aa][Cc][Aa])([^.{}]*)(?<!")/ /g' $@ | perl -pe 's/\\u2022([^.{}]*)(?<!")/ /g' | perl -pe 's/([Ll][Ii][Hh][Aa][Tt]):([^.{}]*)(?<!")/ /g' | grep -ihP 'badai|puting beliung|angin topan|tornado|angin kencang' > output/$@_angin_topan.txt 
+perl -pe 's/([Bb][Aa][Cc][Aa])([^.{}]*)(?<!")/ /g' $@ | perl -pe 's/\\u2022([^.{}]*)(?<!")/ /g' | perl -pe 's/([Ll][Ii][Hh][Aa][Tt]):([^.{}]*)(?<!")/ /g' | grep -ihP 'longsor' > output/$@_longsor.txt 
+perl -pe 's/([Bb][Aa][Cc][Aa])([^.{}]*)(?<!")/ /g' $@ | perl -pe 's/\\u2022([^.{}]*)(?<!")/ /g' | perl -pe 's/([Ll][Ii][Hh][Aa][Tt]):([^.{}]*)(?<!")/ /g' | grep -ihP 'kebakaran hutan|kebakaran lahan|titik panas' > output/$@_karhutla.txt 
