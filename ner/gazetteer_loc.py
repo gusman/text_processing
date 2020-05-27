@@ -14,32 +14,54 @@ class GazetteerAdmLoc:
         self.df_adm2 = df_adm2.apply(lambda x: x.astype(str).str.lower())
         self.df_adm3 = df_adm3.apply(lambda x: x.astype(str).str.lower())
         
+        self.adm1_keys_filter = []
+        self.adm2_keys_filter = []
+
+    def __proc_match(self, df_match, keys_filter):
+        df_tmp = pd.DataFrame(columns = df_match.columns)
+        df_match = df_match.drop_duplicates()
+        if None != keys_filter and 0 < len(keys_filter):
+            for index, row in df_match.iterrows():
+                id = row.loc['ID']
+                lst_ok = [ k for k in keys_filter if id.startswith(k) ]
+                if 0 < len(lst_ok):
+                    df_tmp = df_tmp.append(row)
+        else:
+            df_tmp = df_match.copy()
+        return df_tmp
+        
     def __search_df_adm(self, words, adm_level, col):
         loc_id = None
         loc_str = None
         len_str = -1
+        len_df = -1
+        keys_filter = None
         
         if 1 == adm_level:
             df_adm = self.df_adm1
+            keys_filter = None
         elif 2 == adm_level:
             df_adm = self.df_adm2
+            keys_filter = self.adm1_keys_filter
         elif 3 == adm_level:
             df_adm = self.df_adm3
+            keys_filter = self.adm2_keys_filter
         
         df_tmp = df_adm[df_adm[col].str.startswith(words)]
 
         if 0 < len(df_tmp.index):
             df_tmp = df_adm[df_adm[col] == words]
-            df_tmp = df_tmp.drop_duplicates()
-            len_str = len(df_tmp.index)
+            len_df = len(df_tmp.index)
 
-            # Need to evaluate below logic
-            if 0 < len_str:
-                loc_str = df_tmp.iloc[0, 1]
-                #loc_str = words
-                loc_id = df_tmp.iloc[0, 0]
-                #print(loc_str)
-        
+        # Need to evaluate below logic
+        if 0 < len_df:
+            df_tmp = self.__proc_match(df_tmp, keys_filter)
+            len_str = len(df_tmp.index)
+            
+        if 0 < len_str:
+            loc_str = df_tmp.iloc[0, 1]
+            loc_id = df_tmp.iloc[0, 0]
+
         return len_str, loc_id, loc_str
 
     def search_gazetteer_by_name(self, n_grams, index, sr_locs, adm_level=1):  
@@ -49,7 +71,7 @@ class GazetteerAdmLoc:
         words = ''
         
         for offset in range(0, n_grams):
-            if 0 == ret_len and index + offset < len(sr_locs.index):
+            if 0 >= ret_len and index + offset < len(sr_locs.index):
                 words += ' ' + sr_locs[index + offset].lower()
                 words = words.strip()
                 ret_len, loc_id, loc_str = self.__search_df_adm(words, adm_level, 'Name')
@@ -63,7 +85,7 @@ class GazetteerAdmLoc:
         words = ''
          
         for offset in range(0, n_grams):
-            if 0 == ret_len and index + offset < len(sr_locs.index):
+            if 0 >= ret_len and index + offset < len(sr_locs.index):
                 words += ' ' + sr_locs[index + offset].lower()
                 words = words.strip()
                 ret_len, loc_id, loc_str = self.__search_df_adm(words, adm_level, 'ID')       
