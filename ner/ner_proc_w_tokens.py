@@ -20,7 +20,7 @@ df_out['raw_ner'] = ''
 df_out['exec_time'] = ''
 
 # Create df only row wit label is 'Y'
-df_data = df_gold[df_gold.label == 'Y'][['id', 'content']]
+df_data = df_gold[df_gold.label == 'Y'][['id', 'title', 'content']]
 
 # Initialize Ner tool
 ner_model = '/home/admin/text_processing/ner/model/idner-model-20k-mdee.ser.gz'
@@ -30,7 +30,7 @@ ner_tool = NerTool(ner_model, ner_app)
 # Ner processing and store output in df_out
 for index, row in df_data.iterrows():
     row_id = row['id']
-    row_text = row['content']
+    row_text = row['title'] + row['content']
     
     start_time = timeit.default_timer()
     w_tokens = word_tokenize(row_text)

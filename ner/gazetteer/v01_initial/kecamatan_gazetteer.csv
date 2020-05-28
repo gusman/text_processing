@@ -1,182 +1,182 @@
 ID,Name
 11.01.01,Bakongan
-11.01.02,Kluet Utara
-11.01.03,Kluet Selatan
-11.01.04,Labuhan Haji
+11.01.02,KluetUtara
+11.01.03,KluetSelatan
+11.01.04,LabuhanHaji
 11.01.05,Meukek
 11.01.06,Samadua
 11.01.07,Sawang
 11.01.08,Tapaktuan
 11.01.09,Trumon
-11.01.10,Pasi Raja
-11.01.11,Labuhan Haji Timur
-11.01.12,Labuhan Haji Barat
-11.01.13,Kluet Tengah
-11.01.14,Kluet Timur
-11.01.15,Bakongan  Timur
-11.01.16,Trumon Timur
-11.01.17,Kota Bahagia
-11.01.18,Trumon Tengah
-11.02.01,Lawe Alas
-11.02.02,Lawe Sigala-Gala
+11.01.10,PasiRaja
+11.01.11,LabuhanHaji Timur
+11.01.12,LabuhanHaji Barat
+11.01.13,KluetTengah
+11.01.14,KluetTimur
+11.01.15,Bakongan Timur
+11.01.16,TrumonTimur
+11.01.17,KotaBahagia
+11.01.18,TrumonTengah
+11.02.01,LaweAlas
+11.02.02,LaweSigala-Gala
 11.02.03,Bambel
 11.02.04,Babussalam
 11.02.05,Badar
-11.02.06,Babul Makmur
-11.02.07,Darul Hasanah
-11.02.08,Lawe Bulan
-11.02.09,Bukit Tusam
+11.02.06,BabulMakmur
+11.02.07,DarulHasanah
+11.02.08,LaweBulan
+11.02.09,BukitTusam
 11.02.10,Semadam
-11.02.11,Babul Rahmah
+11.02.11,BabulRahmah
 11.02.12,Ketambe
-11.02.13,Deleng Pokhkisen
-11.02.14,Lawe Sumur
-11.02.15,Tanoh Alas
+11.02.13,DelengPokhkisen
+11.02.14,LaweSumur
+11.02.15,TanohAlas
 11.02.16,Leuser
-11.03.01,Darul Aman
+11.03.01,DarulAman
 11.03.02,Julok
-11.03.03,Idi Rayeuk
-11.03.04,Birem Bayeun
+11.03.03,IdiRayeuk
+11.03.04,BiremBayeun
 11.03.05,Serbajadi
 11.03.06,Nurussalam
 11.03.07,Peureulak
-11.03.08,Rantau Selamat
-11.03.09,Simpang Ulim
-11.03.10,Rantau Peureulak
-11.03.11,Pante Bidari
+11.03.08,RantauSelamat
+11.03.09,SimpangUlim
+11.03.10,RantauPeureulak
+11.03.11,PanteBidari
 11.03.12,Madat
-11.03.13,Indra Makmu
-11.03.14,Idi Tunong
-11.03.15,Banda Alam
+11.03.13,IndraMakmu
+11.03.14,IdiTunong
+11.03.15,BandaAlam
 11.03.16,Peudawa
-11.03.17,Peureulak  Timur
-11.03.18,Peureulak Barat
-11.03.19,Sungai Raya
-11.03.20,Simpang Jernih
-11.03.21,Darul Ihsan
-11.03.22,Darul Falah
-11.03.23,Idi Timur
+11.03.17,Peureulak Timur
+11.03.18,PeureulakBarat
+11.03.19,SungaiRaya
+11.03.20,SimpangJernih
+11.03.21,DarulIhsan
+11.03.22,DarulFalah
+11.03.23,IdiTimur
 11.03.24,Peunaron
 11.04.01,Linge
-11.04.02,Silih Nara
+11.04.02,SilihNara
 11.04.03,Bebesen
 11.04.07,Pegasing
 11.04.08,Bintang
 11.04.10,Ketol
 11.04.11,Kebayakan
-11.04.12,Kute Panang
+11.04.12,KutePanang
 11.04.13,Celala
-11.04.17,Laut Tawar
-11.04.18,Atu Lintang
-11.04.19,Jagong Jeget
+11.04.17,LautTawar
+11.04.18,AtuLintang
+11.04.19,JagongJeget
 11.04.20,Bies
-11.04.21,Rusip Antara
-11.05.01,Johan Pahwalan
-11.05.02,Kaway XVI
-11.05.03,Sungai Mas
+11.04.21,RusipAntara
+11.05.01,JohanPahwalan
+11.05.02,KawayXVI
+11.05.03,SungaiMas
 11.05.04,Woyla
 11.05.05,Samatiga
 11.05.06,Bubon
-11.05.07,Arongan Lambalek
-11.05.08,Pante Ceureumen
+11.05.07,AronganLambalek
+11.05.08,PanteCeureumen
 11.05.09,Meureubo
-11.05.10,Woyla Barat
-11.05.11,Woyla Timur
-11.05.12,Panton Reu
+11.05.10,WoylaBarat
+11.05.11,WoylaTimur
+11.05.12,PantonReu
 11.06.01,Lhoong
 11.06.02,Lhoknga
 11.06.03,Indrapuri
 11.06.04,Seulimeum
 11.06.05,Montasik
 11.06.06,Sukamakmur
-11.06.07,Darul Imarah
-11.06.08,Peukan Bada
-11.06.09,Mesjid Raya
-11.06.10,Ingin Jaya
-11.06.11,Kuta Baro
+11.06.07,DarulImarah
+11.06.08,PeukanBada
+11.06.09,MesjidRaya
+11.06.10,InginJaya
+11.06.11,KutaBaro
 11.06.12,Darussalam
-11.06.13,Pulo Aceh
-11.06.14,Lembah Seulawah
-11.06.15,Kota Jantho
-11.06.16,Kota Cot Glie
-11.06.17,Kuta Malaka
-11.06.18,Simpang Tiga
-11.06.19,Darul Kamal
+11.06.13,PuloAceh
+11.06.14,LembahSeulawah
+11.06.15,KotaJantho
+11.06.16,KotaCot Glie
+11.06.17,KutaMalaka
+11.06.18,SimpangTiga
+11.06.19,DarulKamal
 11.06.20,Baitussalam
-11.06.21,Krueng Barona Jaya
+11.06.21,KruengBarona Jaya
 11.06.22,Leupung
-11.06.23,Blang Bintang
+11.06.23,BlangBintang
 11.07.03,Batee
 11.07.04,Delima
 11.07.05,Geumpang
-11.07.06,Geulumpang  Tiga
-11.07.07,Indra Jaya
-11.07.08,Kembang Tanjong
-11.07.09,Kota Sigli
+11.07.06,Geulumpang Tiga
+11.07.07,IndraJaya
+11.07.08,KembangTanjong
+11.07.09,KotaSigli
 11.07.11,Mila
-11.07.12,Muara Tiga
+11.07.12,MuaraTiga
 11.07.13,Mutiara
-11.07.14,Padang Tiji
-11.07.15,Peukan Baro
+11.07.14,PadangTiji
+11.07.15,PeukanBaro
 11.07.16,Pidie
 11.07.17,Sakti
-11.07.18,Simpang Tiga
+11.07.18,SimpangTiga
 11.07.19,Tangse
 11.07.21,Tiro/Truseb
 11.07.22,Keumala
-11.07.24,Mutiara Timur
+11.07.24,MutiaraTimur
 11.07.25,Grong-grong
 11.07.27,Mane
-11.07.29,Glumpang  Baro
+11.07.29,Glumpang Baro
 11.07.31,Titeue
 11.08.01,Baktiya
 11.08.02,Dewantara
-11.08.03,Kuta Makmur
+11.08.03,KutaMakmur
 11.08.04,Lhoksukon
 11.08.05,Matangkuli
-11.08.06,Muara Batu
-11.08.07,Meurah Mulia
+11.08.06,MuaraBatu
+11.08.07,MeurahMulia
 11.08.08,Samudera
 11.08.09,Seunuddon
-11.08.10,Syamtalira Aron
-11.08.11,Syamtalira Bayu
-11.08.12,Tanah Luas
-11.08.13,Tanah Pasir
-11.08.14,T. Jambo Aye
+11.08.10,SyamtaliraAron
+11.08.11,SyamtaliraBayu
+11.08.12,TanahLuas
+11.08.13,TanahPasir
+11.08.14,T.Jambo Aye
 11.08.15,Sawang
 11.08.16,Nisam
-11.08.17,Cot Girek
+11.08.17,CotGirek
 11.08.18,Langkahan
-11.08.19,Baktiya Barat
-11.08.20,Paya Bakong
+11.08.19,BaktiyaBarat
+11.08.20,PayaBakong
 11.08.21,Nibong
-11.08.22,Simpang Kramat
+11.08.22,SimpangKramat
 11.08.23,Lapang
-11.08.24,Pirak Timur
-11.08.25,Geuredong Pase
-11.08.26,Banda Baro
-11.08.27,Nisam Antara
-11.09.01,Simeulue Tengah
+11.08.24,PirakTimur
+11.08.25,GeuredongPase
+11.08.26,BandaBaro
+11.08.27,NisamAntara
+11.09.01,SimeulueTengah
 11.09.02,Salang
-11.09.03,Teupah Barat
-11.09.04,Simeulue Timur
-11.09.05,Teluk Dalam
-11.09.06,Simeulue Barat
-11.09.07,Teupah Selatan
+11.09.03,TeupahBarat
+11.09.04,SimeulueTimur
+11.09.05,TelukDalam
+11.09.06,SimeulueBarat
+11.09.07,TeupahSelatan
 11.09.08,Alapan
-11.09.09,Teupah Tengah
-11.09.10,Simeulue Cut
-11.10.01,Pulau Banyak
-11.10.02,Simpang Kanan
+11.09.09,TeupahTengah
+11.09.10,SimeulueCut
+11.10.01,PulauBanyak
+11.10.02,SimpangKanan
 11.10.04,Singkil
-11.10.06,Gunung Meriah
-11.10.09,Kota Baharu
-11.10.10,Singkil Utara
-11.10.11,Danau Paris
-11.10.12,Suro Makmur
+11.10.06,GunungMeriah
+11.10.09,KotaBaharu
+11.10.10,SingkilUtara
+11.10.11,DanauParis
+11.10.12,SuroMakmur
 11.10.13,Singkohor
-11.10.14,Kuala Baru
-11.10.16,Pulau Banyak Barat
+11.10.14,KualaBaru
+11.10.16,PulauBanyak Barat
 11.11.01,Samalanga
 11.11.02,Jeunieb
 11.11.03,Peudada
@@ -187,106 +187,106 @@ ID,Name
 11.11.08,Pandrah
 11.11.09,Juli
 11.11.10,Jangka
-11.11.11,Simpang Mamplam
+11.11.11,SimpangMamplam
 11.11.12,Peulimbang
-11.11.13,Kota Juang
+11.11.13,KotaJuang
 11.11.14,Kuala
-11.11.15,Peusangan Siblah Krueng
-11.11.16,Peusangan  Selatan
-11.11.17,Kuta Blang
-11.12.01,Blang Pidie
+11.11.15,PeusanganSiblah Krueng
+11.11.16,Peusangan Selatan
+11.11.17,KutaBlang
+11.12.01,BlangPidie
 11.12.02,Tangan-Tangan
 11.12.03,Manggeng
 11.12.04,Susoh
-11.12.05,Kuala Batee
-11.12.06,Babah Rot
+11.12.05,KualaBatee
+11.12.06,BabahRot
 11.12.07,Setia
 11.12.08,Jeumpa
-11.12.09,Lembah Sabil
+11.12.09,LembahSabil
 11.13.01,Blangkejeren
 11.13.02,Kutapanjang
-11.13.03,Rikit Gaib
+11.13.03,RikitGaib
 11.13.04,Terangun
 11.13.05,Pining
 11.13.06,Blangpegayon
-11.13.07,Puteri Betung
-11.13.08,Dabun Gelang
+11.13.07,PuteriBetung
+11.13.08,DabunGelang
 11.13.09,Blangjerango
-11.13.10,Teripe Jaya
-11.13.11,Pantan Cuaca
+11.13.10,TeripeJaya
+11.13.11,PantanCuaca
 11.14.01,Teunom
-11.14.02,Krueng Sabee
-11.14.03,Setia Bhakti
+11.14.02,KruengSabee
+11.14.03,SetiaBhakti
 11.14.04,Sampoiniet
 11.14.05,Jaya
 11.14.06,Panga
-11.14.07,Indra Jaya
-11.14.08,Darul Hikmah
-11.14.09,Pasie Raya
+11.14.07,IndraJaya
+11.14.08,DarulHikmah
+11.14.09,PasieRaya
 11.15.01,Kuala
 11.15.02,Seunagan
-11.15.03,Seunagan Timur
+11.15.03,SeunaganTimur
 11.15.04,Beutong
-11.15.05,Darul Makmur
-11.15.06,Suka Makmue
-11.15.07,Kuala Pesisir
-11.15.08,Tadu Raya
-11.15.09,Tripa Makmur
-11.15.10,Beutong Ateuh Banggalang
-11.16.01,Manyak Payed
+11.15.05,DarulMakmur
+11.15.06,SukaMakmue
+11.15.07,KualaPesisir
+11.15.08,TaduRaya
+11.15.09,TripaMakmur
+11.15.10,BeutongAteuh Banggalang
+11.16.01,ManyakPayed
 11.16.02,Bendahara
-11.16.03,Karang Baru
+11.16.03,KarangBaru
 11.16.04,Seruway
-11.16.05,Kota Kualasinpang
-11.16.06,Kejuruan Muda
-11.16.07,Tamiang Hulu
+11.16.05,KotaKualasinpang
+11.16.06,KejuruanMuda
+11.16.07,TamiangHulu
 11.16.08,Rantau
-11.16.09,Banda Mulia
-11.16.10,Bandar Pusaka
+11.16.09,BandaMulia
+11.16.10,BandarPusaka
 11.16.11,Tenggulun
 11.16.12,Sekerak
-11.17.01,Pintu Rime Gayo
+11.17.01,PintuRime Gayo
 11.17.02,Permata
-11.17.03,Syiah Utama
+11.17.03,SyiahUtama
 11.17.04,Bandar
 11.17.05,Bukit
-11.17.06,Wih Pesam
-11.17.07,Timang gajah
-11.17.08,Bener Kelipah
+11.17.06,WihPesam
+11.17.07,Timanggajah
+11.17.08,BenerKelipah
 11.17.09,Mesidah
-11.17.10,Gajah Putih
+11.17.10,GajahPutih
 11.18.01,Meureudu
 11.18.02,Ulim
-11.18.03,Jangka Buaya
-11.18.04,Bandar Dua
-11.18.05,Meurah Dua
-11.18.06,Bandar Baru
+11.18.03,JangkaBuaya
+11.18.04,BandarDua
+11.18.05,MeurahDua
+11.18.06,BandarBaru
 11.18.07,Panteraja
 11.18.08,Trienggadeng
 11.71.01,Baiturrahman
-11.71.02,Kuta Alam
+11.71.02,KutaAlam
 11.71.03,Meuraxa
-11.71.04,Syiah Kuala
-11.71.05,Lueng Bata
-11.71.06,Kuta Raja
-11.71.07,Banda Raya
-11.71.08,Jaya Baru
-11.71.09,Ulee Kareng
+11.71.04,SyiahKuala
+11.71.05,LuengBata
+11.71.06,KutaRaja
+11.71.07,BandaRaya
+11.71.08,JayaBaru
+11.71.09,UleeKareng
 11.72.01,Sukakarya
 11.72.02,Sukajaya
-11.73.01,Muara Dua
-11.73.02,Banda Sakti
-11.73.03,Blang Mangat
-11.73.04,Muara Satu
-11.74.01,Langsa Timur
-11.74.02,Langsa Barat
-11.74.03,Langsa Kota
-11.74.04,Langsa Lama
-11.74.05,Langsa Baro
-11.75.01,Simpang Kiri
+11.73.01,MuaraDua
+11.73.02,BandaSakti
+11.73.03,BlangMangat
+11.73.04,MuaraSatu
+11.74.01,LangsaTimur
+11.74.02,LangsaBarat
+11.74.03,LangsaKota
+11.74.04,LangsaLama
+11.74.05,LangsaBaro
+11.75.01,SimpangKiri
 11.75.02,Penanggalan
 11.75.03,Rundeng
-11.75.04,Sultan Daulat
+11.75.04,SultanDaulat
 11.75.05,Longkib
 12.01.01,Barus
 12.01.02,Sorkam
@@ -294,28 +294,28 @@ ID,Name
 12.01.04,Pinangsori
 12.01.05,Manduamas
 12.01.06,Kolang
-12.01.07,Tapian Nauli
+12.01.07,TapianNauli
 12.01.08,Sibabangun
 12.01.09,Sosorgadong
-12.01.10,Sorkam Barat
+12.01.10,SorkamBarat
 12.01.11,Sirandorung
-12.01.12,Andam Dewi
+12.01.12,AndamDewi
 12.01.13,Sitahuis
 12.01.14,Tukka
 12.01.15,Badiri
-12.01.16,Pasaribu Tobing
-12.01.17,Barus Utara
-12.01.18,Suka Bangun
+12.01.16,PasaribuTobing
+12.01.17,BarusUtara
+12.01.18,SukaBangun
 12.01.19,Lumut
 12.01.20,Sarudik
 12.02.01,Tarutung
-12.02.02,Siatas Barita
-12.02.03,Adian Koting
+12.02.02,SiatasBarita
+12.02.03,AdianKoting
 12.02.04,Sipoholon
-12.02.05,Pahae Julu
-12.02.06,Pahae Jae
+12.02.05,PahaeJulu
+12.02.06,PahaeJae
 12.02.07,Simangumban
-12.02.08,Purba Tua
+12.02.08,PurbaTua
 12.02.09,Siborong-Borong
 12.02.10,Pagaran
 12.02.11,Parmonangan
@@ -323,21 +323,21 @@ ID,Name
 12.02.13,Pangaribuan
 12.02.14,Garoga
 12.02.15,Muara
-12.03.01,Angkola Barat
-12.03.02,Batang Toru
-12.03.03,Angkola Timur
+12.03.01,AngkolaBarat
+12.03.02,BatangToru
+12.03.03,AngkolaTimur
 12.03.04,Sipirok
-12.03.05,Saipar Dolok Hole
-12.03.06,Angkola Selatan
-12.03.07,Batang Angkola
+12.03.05,SaiparDolok Hole
+12.03.06,AngkolaSelatan
+12.03.07,BatangAngkola
 12.03.14,Arse
 12.03.20,Marancar
-12.03.21,Sayur Matinggi
-12.03.22,Aek Bilah
-12.03.29,Muara Batang Toru
-12.03.30,Tano Tombangan Angkola
-12.03.31,Angkola Sangkunur
-12.03.32,Angkola Muara Tais
+12.03.21,SayurMatinggi
+12.03.22,AekBilah
+12.03.29,MuaraBatang Toru
+12.03.30,TanoTombangan Angkola
+12.03.31,AngkolaSangkunur
+12.03.32,AngkolaMuara Tais
 12.04.05,Hiliduho
 12.04.06,Gido
 12.04.10,Idanogawo
@@ -345,32 +345,32 @@ ID,Name
 12.04.20,Hiliserangkai
 12.04.21,Botomuzoi
 12.04.27,Ulugawo
-12.04.28,Ma\u
+12.04.28,Magu
 12.04.29,Somolo-molo
-12.04.35,Sogae\adu
+12.04.35,Sogaegadu
 12.05.01,Bahorok
 12.05.02,Salapian
 12.05.03,Kuala
-12.05.04,Sei Bingei
+12.05.04,SeiBingei
 12.05.05,Binjai
 12.05.06,Selesai
 12.05.07,Stabat
 12.05.08,Wampu
 12.05.09,Secanggang
 12.05.10,Hinai
-12.05.11,Tanjung Pura
-12.05.12,Padang Tualang
+12.05.11,TanjungPura
+12.05.12,PadangTualang
 12.05.13,Gebang
 12.05.14,Babalan
-12.05.15,Pangkalan Susu
+12.05.15,PangkalanSusu
 12.05.16,Besitang
-12.05.17,Sei Lepan
-12.05.18,Berandan Barat
-12.05.19,Batang Serangan
-12.05.20,Sawit Seberang
+12.05.17,SeiLepan
+12.05.18,BerandanBarat
+12.05.19,BatangSerangan
+12.05.20,SawitSeberang
 12.05.21,Sirapit
 12.05.22,Kutambaru
-12.05.23,Pematang Jaya
+12.05.23,PematangJaya
 12.06.01,Kabanjahe
 12.06.02,Berastagi
 12.06.03,Barusjahe
@@ -382,112 +382,112 @@ ID,Name
 12.06.09,Laubaleng
 12.06.10,Mardingding
 12.06.11,Payung
-12.06.12,Simpang Empat
+12.06.12,SimpangEmpat
 12.06.13,Kutabuluh
-12.06.14,Dolat Rayat
+12.06.14,DolatRayat
 12.06.15,Merdeka
-12.06.16,Naman Teran
+12.06.16,NamanTeran
 12.06.17,Tiganderket
-12.07.01,Gunung Meriah
-12.07.02,Tanjung Morawa
+12.07.01,GunungMeriah
+12.07.02,TanjungMorawa
 12.07.03,Sibolangit
 12.07.04,Kutalimbaru
-12.07.05,Pancur Batu
+12.07.05,PancurBatu
 12.07.06,Namorambe
 12.07.07,Sibiru-biru
-12.07.08,STM Hilir
-12.07.09,Bangun Purba
+12.07.08,STMHilir
+12.07.09,BangunPurba
 12.07.19,Galang
-12.07.20,STM Hulu
+12.07.20,STMHulu
 12.07.21,Patumbak
-12.07.22,Deli Tua
+12.07.22,DeliTua
 12.07.23,Sunggal
-12.07.24,Hamparan Perak
-12.07.25,Labuhan Deli
-12.07.26,Percut Sei Tuan
-12.07.27,Batang Kuis
-12.07.28,Lubuk Pakam
-12.07.31,Pagar Merbau
-12.07.32,Pantai Labu
+12.07.24,HamparanPerak
+12.07.25,LabuhanDeli
+12.07.26,PercutSei Tuan
+12.07.27,BatangKuis
+12.07.28,LubukPakam
+12.07.31,PagarMerbau
+12.07.32,PantaiLabu
 12.07.33,Beringin
 12.08.01,Siantar
-12.08.02,Gunung Malela
-12.08.03,Gunung Maligas
+12.08.02,GunungMalela
+12.08.03,GunungMaligas
 12.08.04,Panei
-12.08.05,Panombeian Pane
-12.08.06,Jorlang Hataran
-12.08.07,Raya Kahean
-12.08.08,Bosar Maligas
+12.08.05,PanombeianPane
+12.08.06,JorlangHataran
+12.08.07,RayaKahean
+12.08.08,BosarMaligas
 12.08.09,Sidamanik
-12.08.10,Pematang Sidamanik
-12.08.11,Tanah Jawa
+12.08.10,PematangSidamanik
+12.08.11,TanahJawa
 12.08.12,Hatonduhan
-12.08.13,Dolok Panribuan
+12.08.13,DolokPanribuan
 12.08.14,Purba
-12.08.15,Haranggaol Horison
-12.08.16,Girsang Sipangan Bolon
-12.08.17,Dolok Batu Nanggar
-12.08.18,Huta Bayu Raja
-12.08.19,Jawa Maraja Bah Jambi
-12.08.20,Dolok Pardamean
-12.08.21,Pematang Bandar
-12.08.22,Bandar Huluan
+12.08.15,HaranggaolHorison
+12.08.16,GirsangSipangan Bolon
+12.08.17,DolokBatu Nanggar
+12.08.18,HutaBayu Raja
+12.08.19,JawaMaraja Bah Jambi
+12.08.20,DolokPardamean
+12.08.21,PematangBandar
+12.08.22,BandarHuluan
 12.08.23,Bandar
-12.08.24,Bandar Masilam
+12.08.24,BandarMasilam
 12.08.25,Silimakuta
-12.08.26,Dolok Silau
-12.08.27,Silou Kahean
-12.08.28,Tapian Dolok
+12.08.26,DolokSilau
+12.08.27,SilouKahean
+12.08.28,TapianDolok
 12.08.29,Raya
-12.08.30,Ujung Padang
-12.08.31,Pamatang Silima Huta
-12.08.32,Dolog Masagal
+12.08.30,UjungPadang
+12.08.31,PamatangSilima Huta
+12.08.32,DologMasagal
 12.09.08,Meranti
-12.09.09,Air Joman
-12.09.10,Tanjung Balai
-12.09.11,Sei Kepayang
-12.09.12,Simpang Empat
-12.09.13,Air Batu
-12.09.14,Pulau Rakyat
-12.09.15,Bandar Pulau
-12.09.16,Buntu Pane
-12.09.17,Bandar Pasir Mandoge
-12.09.18,Aek Kuasan
-12.09.19,Kota Kisaran Barat
-12.09.20,Kota Kisaran Timur
-12.09.21,Aek Songsongan
+12.09.09,AirJoman
+12.09.10,TanjungBalai
+12.09.11,SeiKepayang
+12.09.12,SimpangEmpat
+12.09.13,AirBatu
+12.09.14,PulauRakyat
+12.09.15,BandarPulau
+12.09.16,BuntuPane
+12.09.17,BandarPasir Mandoge
+12.09.18,AekKuasan
+12.09.19,KotaKisaran Barat
+12.09.20,KotaKisaran Timur
+12.09.21,AekSongsongan
 12.09.22,Rahunig
-12.09.23,Sei Dadap
-12.09.24,Sei Kepayang Barat
-12.09.25,Sei Kepayang Timur
-12.09.26,Tinggi Raja
-12.09.27,Setia Janji
-12.09.28,Silau Laut
-12.09.29,Rawang Panca Arga
-12.09.30,Pulo Bandring
-12.09.31,Teluk Dalam
-12.09.32,Aek Ledong
-12.10.01,Rantau Utara
-12.10.02,Rantau Selatan
-12.10.07,Bilah Barat
-12.10.08,Bilah Hilir
-12.10.09,Bilah Hulu
+12.09.23,SeiDadap
+12.09.24,SeiKepayang Barat
+12.09.25,SeiKepayang Timur
+12.09.26,TinggiRaja
+12.09.27,SetiaJanji
+12.09.28,SilauLaut
+12.09.29,RawangPanca Arga
+12.09.30,PuloBandring
+12.09.31,TelukDalam
+12.09.32,AekLedong
+12.10.01,RantauUtara
+12.10.02,RantauSelatan
+12.10.07,BilahBarat
+12.10.08,BilahHilir
+12.10.09,BilahHulu
 12.10.14,Pangkatan
-12.10.18,Panai Tengah
-12.10.19,Panai Hilir
-12.10.20,Panai Hulu
+12.10.18,PanaiTengah
+12.10.19,PanaiHilir
+12.10.20,PanaiHulu
 12.11.01,Sidikalang
 12.11.02,Sumbul
 12.11.03,Tigalingga
-12.11.04,Siempat Nempu
-12.11.05,Silima Pungga Pungga
-12.11.06,Tanah Pinem
-12.11.07,Siempat Nempu Hulu
-12.11.08,Siempat Nempu Hilir
-12.11.09,Pegagan Hilir
+12.11.04,SiempatNempu
+12.11.05,SilimaPungga Pungga
+12.11.06,TanahPinem
+12.11.07,SiempatNempu Hulu
+12.11.08,SiempatNempu Hilir
+12.11.09,PegaganHilir
 12.11.10,Parbuluan
-12.11.11,Lae Parira
-12.11.12,Gunung Sitember
+12.11.11,LaeParira
+12.11.12,GunungSitember
 12.11.13,Berampu
 12.11.14,Silahisabungan
 12.11.15,Sitinjo
@@ -495,47 +495,47 @@ ID,Name
 12.12.02,Laguboti
 12.12.03,Silaen
 12.12.04,Habinsaran
-12.12.05,Pintu Pohan Meranti
+12.12.05,PintuPohan Meranti
 12.12.06,Borbor
 12.12.07,Porsea
 12.12.08,Ajibata
-12.12.09,Lumban Julu
+12.12.09,LumbanJulu
 12.12.10,Uluan
 12.12.19,Sigumpar
-12.12.20,Siantar Narumonda
+12.12.20,SiantarNarumonda
 12.12.21,Nassau
 12.12.22,Tampahan
-12.12.23,Bonatua Lunasi
+12.12.23,BonatuaLunasi
 12.12.24,Parmaksian
 12.13.01,Panyabungan
-12.13.02,Panyabungan Utara
-12.13.03,Panyabungan Timur
-12.13.04,Panyabungan Selatan
-12.13.05,Panyabungan Barat
+12.13.02,PanyabunganUtara
+12.13.03,PanyabunganTimur
+12.13.04,PanyabunganSelatan
+12.13.05,PanyabunganBarat
 12.13.06,Siabu
-12.13.07,Bukit Malintang
+12.13.07,BukitMalintang
 12.13.08,Kotanopan
-12.13.09,Lembah Sorik Marapi
+12.13.09,LembahSorik Marapi
 12.13.10,Tambangan
-12.13.11,Ulu Pungkut
-12.13.12,Muara Sipongi
-12.13.13,Batang Natal
-12.13.14,Lingga Bayu
+12.13.11,UluPungkut
+12.13.12,MuaraSipongi
+12.13.13,BatangNatal
+12.13.14,LinggaBayu
 12.13.15,Batahan
 12.13.16,Natal
-12.13.17,Muara Batang Gadis
-12.13.18,Ranto Baek
-12.13.19,Huta Bargot
-12.13.20,Puncak Sorik Marapi
+12.13.17,MuaraBatang Gadis
+12.13.18,RantoBaek
+12.13.19,HutaBargot
+12.13.20,PuncakSorik Marapi
 12.13.21,Pakantan
 12.13.22,Sinunukan
-12.13.23,Naga Juang
+12.13.23,NagaJuang
 12.14.01,Lolomatua
 12.14.02,Gomo
 12.14.03,Lahusa
 12.14.04,Hibala
-12.14.05,Pulau-Pulau Batu
-12.14.06,Teluk Dalam
+12.14.05,Pulau-PulauBatu
+12.14.06,TelukDalam
 12.14.07,Amandraya
 12.14.08,Lolowau
 12.14.09,Susua
@@ -545,1315 +545,1315 @@ ID,Name
 12.14.13,Mazino
 12.14.14,Umbunasi
 12.14.15,Aramo
-12.14.16,Pulau-Pulau Batu Timur
+12.14.16,Pulau-PulauBatu Timur
 12.14.17,Mazo
 12.14.18,Fanayama
 12.14.19,Ulunoyo
 12.14.20,Huruna
-12.14.21,O\o\u
+12.14.21,Ogo\u
 12.14.22,Onohazumba
-12.14.23,Hilisalawa\ahe
+12.14.23,Hilisalawagahe
 12.14.24,Ulususua
-12.14.25,Sidua\ori
+12.14.25,Siduagori
 12.14.26,Somambawa
 12.14.27,Boronadu
 12.14.28,Simuk
-12.14.29,Pulau-Pulau Batu Barat
-12.14.30,Pulau-Pulau Batu Utara
-12.14.31,Tanah Masa
-12.14.32,Luahagundre Maniamolo
+12.14.29,Pulau-PulauBatu Barat
+12.14.30,Pulau-PulauBatu Utara
+12.14.31,TanahMasa
+12.14.32,LuahagundreManiamolo
 12.14.33,Onolalu
-12.14.34,Ulu Idanotae
+12.14.34,UluIdanotae
 12.14.35,Idanotae
-12.15.01,Sitelu Tali Urang Jehe
+12.15.01,SiteluTali Urang Jehe
 12.15.02,Kerajaan
 12.15.03,Salak
-12.15.04,Sitelu Tali Urang Julu
-12.15.05,Pergetteng Getteng Sengkut
+12.15.04,SiteluTali Urang Julu
+12.15.05,PergettengGetteng Sengkut
 12.15.06,Pagindar
 12.15.07,Tinada
-12.15.08,Siempat Rube
+12.15.08,SiempatRube
 12.16.01,Parlilitan
 12.16.02,Pollung
 12.16.03,Baktiraja
 12.16.04,Paranginan
-12.16.05,Lintong Nihuta
-12.16.06,Dolok Sanggul
+12.16.05,LintongNihuta
+12.16.06,DolokSanggul
 12.16.07,Sijamapolang
-12.16.08,Onan Ganjang
+12.16.08,OnanGanjang
 12.16.09,Pakkat
 12.16.10,Tarabintang
 12.17.01,Simanindo
-12.17.02,Onan Runggu
+12.17.02,OnanRunggu
 12.17.03,Nainggolan
 12.17.04,Palipi
 12.17.05,Harian
-12.17.06,Sianjar Mula Mula
-12.17.07,Ronggur Nihuta
+12.17.06,SianjarMula Mula
+12.17.07,RonggurNihuta
 12.17.08,Pangururan
 12.17.09,Sitio-tio
-12.18.01,Pantai Cermin
+12.18.01,PantaiCermin
 12.18.02,Perbaungan
-12.18.03,Teluk Mengkudu
-12.18.04,Sei Rampah
-12.18.05,Tanjung Beringin
-12.18.06,Bandar Khalifah
-12.18.07,Dolok Merawan
+12.18.03,TelukMengkudu
+12.18.04,SeiRampah
+12.18.05,TanjungBeringin
+12.18.06,BandarKhalifah
+12.18.07,DolokMerawan
 12.18.08,Sipispis
-12.18.09,Dolok Masihul
+12.18.09,DolokMasihul
 12.18.10,Kotarih
 12.18.11,Silinda
-12.18.12,Serba Jadi
-12.18.13,Tebing Tinggi
+12.18.12,SerbaJadi
+12.18.13,TebingTinggi
 12.18.14,Pegajahan
-12.18.15,Sei Bamban
-12.18.16,Tebing Syahbandar
-12.18.17,Bintang Bayu
-12.19.01,Medang Deras
-12.19.02,Sei Suka
-12.19.03,Air Putih
-12.19.04,Lima Puluh
+12.18.15,SeiBamban
+12.18.16,TebingSyahbandar
+12.18.17,BintangBayu
+12.19.01,MedangDeras
+12.19.02,SeiSuka
+12.19.03,AirPutih
+12.19.04,LimaPuluh
 12.19.05,Talawi
-12.19.06,Tanjung Tiram
-12.19.07,Sei Balai
-12.19.08,Laut Tador
-12.19.09,Lima Puluh Pesisir
-12.19.10,Datuk Lima Puluh
-12.19.11,Datuk Tanah Datar
-12.19.12,Nibung Hangus
-12.20.01,Dolok Sigompulon
+12.19.06,TanjungTiram
+12.19.07,SeiBalai
+12.19.08,LautTador
+12.19.09,LimaPuluh Pesisir
+12.19.10,DatukLima Puluh
+12.19.11,DatukTanah Datar
+12.19.12,NibungHangus
+12.20.01,DolokSigompulon
 12.20.02,Dolok
 12.20.03,Halongonan
-12.20.04,Padang Bolak
-12.20.05,Padang Bolak Julu
+12.20.04,PadangBolak
+12.20.05,PadangBolak Julu
 12.20.06,Portibi
-12.20.07,Batang Onang
+12.20.07,BatangOnang
 12.20.08,Simangambat
-12.20.09,Hulu Sihapas
-12.20.10,Padang Bolak Tenggara
-12.20.11,Halongonan Timur
-12.20.12,Ujung Batu
+12.20.09,HuluSihapas
+12.20.10,PadangBolak Tenggara
+12.20.11,HalongonanTimur
+12.20.12,UjungBatu
 12.21.01,Sosopan
-12.21.02,Barumun Tengah
+12.21.02,BarumunTengah
 12.21.03,Huristak
-12.21.04,Lubuk Barumun
-12.21.05,Huta Raja Tinggi
-12.21.06,Ulu Barumun
+12.21.04,LubukBarumun
+12.21.05,HutaRaja Tinggi
+12.21.06,UluBarumun
 12.21.07,Barumun
 12.21.08,Sosa
-12.21.09,Batang Lubu Sutam
-12.21.10,Barumun Selatan
-12.21.11,Aek Nabara Barumun
-12.21.12,Sihapas Barumun
+12.21.09,BatangLubu Sutam
+12.21.10,BarumunSelatan
+12.21.11,AekNabara Barumun
+12.21.12,SihapasBarumun
 12.22.01,Kotapinang
-12.22.02,Kampung Rakyat
+12.22.02,KampungRakyat
 12.22.03,Torgamba
-12.22.04,Sungai Kanan
+12.22.04,SungaiKanan
 12.22.05,Silangkitang
-12.23.01,Kualuh Hulu
-12.23.02,Kualuh Leidong
-12.23.03,Kualuh Hilir
-12.23.04,Aek Kuo
+12.23.01,KualuhHulu
+12.23.02,KualuhLeidong
+12.23.03,KualuhHilir
+12.23.04,AekKuo
 12.23.05,Marbau
-12.23.06,Na IX - X
-12.23.07,Aek Natas
-12.23.08,Kualuh Selatan
+12.23.06,NaIX - X
+12.23.07,AekNatas
+12.23.08,KualuhSelatan
 12.24.01,Lotu
 12.24.02,Sawo
 12.24.03,Tuhemberua
-12.24.04,Sitolu Ori
-12.24.05,Namohalu Esiwa
-12.24.06,Alasa Talumuzoi
+12.24.04,SitoluOri
+12.24.05,NamohaluEsiwa
+12.24.06,AlasaTalumuzoi
 12.24.07,Alasa
-12.24.08,Tugala Oyo
+12.24.08,TugalaOyo
 12.24.09,Afulu
 12.24.10,Lahewa
-12.24.11,Lahewa Timur
+12.24.11,LahewaTimur
 12.25.01,Lahomi
 12.25.02,Sirombu
-12.25.03,Mandrehe Barat
-12.25.04,Moro\o
+12.25.03,MandreheBarat
+12.25.04,Morogo
 12.25.05,Mandrehe
-12.25.06,Mandrehe Utara
-12.25.07,Lolofitu Moi
-12.25.08,Ulu Moro\o
-12.71.01,Medan Kota
-12.71.02,Medan Sunggal
-12.71.03,Medan Helvetia
-12.71.04,Medan Denai
-12.71.05,Medan Barat
-12.71.06,Medan Deli
-12.71.07,Medan Tuntungan
-12.71.08,Medan Belawan
-12.71.09,Medan Amplas
-12.71.10,Medan Area
-12.71.11,Medan Johor
-12.71.12,Medan Marelan
-12.71.13,Medan Labuhan
-12.71.14,Medan Tembung
-12.71.15,Medan Maimun
-12.71.16,Medan Polonia
-12.71.17,Medan Baru
-12.71.18,Medan Perjuangan
-12.71.19,Medan Petisah
-12.71.20,Medan Timur
-12.71.21,Medan Selayang
-12.72.01,Siantar Timur
-12.72.02,Siantar Barat
-12.72.03,Siantar Utara
-12.72.04,Siantar Selatan
-12.72.05,Siantar Marihat
-12.72.06,Siantar Martoba
-12.72.07,Siantar Sitalasari
-12.72.08,Siantar Marimbun
-12.73.01,Sibolga Utara
-12.73.02,Sibolga Kota
-12.73.03,Sibolga Selatan
-12.73.04,Sibolga Sambas
-12.74.01,Tanjung Balai Selatan
-12.74.02,Tanjung Balai Utara
-12.74.03,Sei Tualang Raso
-12.74.04,Teluk Nibung
-12.74.05,Datuk Bandar
-12.74.06,Datuk Bandar Timur
-12.75.01,Binjai Utara
-12.75.02,Binjai Kota
-12.75.03,Binjai Barat
-12.75.04,Binjai Timur
-12.75.05,Binjai Selatan
-12.76.01,Padang Hulu
+12.25.06,MandreheUtara
+12.25.07,LolofituMoi
+12.25.08,UluMorogo
+12.71.01,MedanKota
+12.71.02,MedanSunggal
+12.71.03,MedanHelvetia
+12.71.04,MedanDenai
+12.71.05,MedanBarat
+12.71.06,MedanDeli
+12.71.07,MedanTuntungan
+12.71.08,MedanBelawan
+12.71.09,MedanAmplas
+12.71.10,MedanArea
+12.71.11,MedanJohor
+12.71.12,MedanMarelan
+12.71.13,MedanLabuhan
+12.71.14,MedanTembung
+12.71.15,MedanMaimun
+12.71.16,MedanPolonia
+12.71.17,MedanBaru
+12.71.18,MedanPerjuangan
+12.71.19,MedanPetisah
+12.71.20,MedanTimur
+12.71.21,MedanSelayang
+12.72.01,SiantarTimur
+12.72.02,SiantarBarat
+12.72.03,SiantarUtara
+12.72.04,SiantarSelatan
+12.72.05,SiantarMarihat
+12.72.06,SiantarMartoba
+12.72.07,SiantarSitalasari
+12.72.08,SiantarMarimbun
+12.73.01,SibolgaUtara
+12.73.02,SibolgaKota
+12.73.03,SibolgaSelatan
+12.73.04,SibolgaSambas
+12.74.01,TanjungBalai Selatan
+12.74.02,TanjungBalai Utara
+12.74.03,SeiTualang Raso
+12.74.04,TelukNibung
+12.74.05,DatukBandar
+12.74.06,DatukBandar Timur
+12.75.01,BinjaiUtara
+12.75.02,BinjaiKota
+12.75.03,BinjaiBarat
+12.75.04,BinjaiTimur
+12.75.05,BinjaiSelatan
+12.76.01,PadangHulu
 12.76.02,Rambutan
-12.76.03,Padang Hilir
+12.76.03,PadangHilir
 12.76.04,Bajenis
-12.76.05,Tebing Tinggi Kota
-12.77.01,Padangsidimpuan Utara
-12.77.02,Padangsidimpuan Selatan
-12.77.03,Padangsidimpuan Batunadua
-12.77.04,Padangsidimpuan Hutaimbaru
-12.77.05,Padangsidimpuan Tenggara
-12.77.06,Padangsidimpuan Angkola Julu
+12.76.05,TebingTinggi Kota
+12.77.01,PadangsidimpuanUtara
+12.77.02,PadangsidimpuanSelatan
+12.77.03,PadangsidimpuanBatunadua
+12.77.04,PadangsidimpuanHutaimbaru
+12.77.05,PadangsidimpuanTenggara
+12.77.06,PadangsidimpuanAngkola Julu
 12.78.01,Gunungsitoli
-12.78.02,Gunungsitoli Selatan
-12.78.03,Gunungsitoli Utara
-12.78.04,Gunungsitoli Idanoi
-12.78.05,Gunungsitoli Alo\oa
-12.78.06,Gunungsitoli Barat
-13.01.01,Pancung Soal
-13.01.02,Ranah Pesisir
+12.78.02,GunungsitoliSelatan
+12.78.03,GunungsitoliUtara
+12.78.04,GunungsitoliIdanoi
+12.78.05,GunungsitoliAlogoa
+12.78.06,GunungsitoliBarat
+13.01.01,PancungSoal
+13.01.02,RanahPesisir
 13.01.03,Lengayang
-13.01.04,Batang Kapas
-13.01.05,IV Jurai
+13.01.04,BatangKapas
+13.01.05,IVJurai
 13.01.06,Bayang
-13.01.07,Koto XI Tarusan
+13.01.07,KotoXI Tarusan
 13.01.08,Sutera
-13.01.09,Linggo Sari Baganti
+13.01.09,LinggoSari Baganti
 13.01.10,Lunang
-13.01.11,Basa Ampek Balai Tapan
-13.01.12,IV Nagari Bayang Utara
+13.01.11,BasaAmpek Balai Tapan
+13.01.12,IVNagari Bayang Utara
 13.01.13,Airpura
-13.01.14,Ranah Ampek Hulu Tapan
+13.01.14,RanahAmpek Hulu Tapan
 13.01.15,Silaut
-13.02.03,Pantai Cermin
-13.02.04,Lembah Gumanti
-13.02.05,Payung Sekaki
-13.02.06,Lembang Jaya
-13.02.07,Gunung Talang
-13.02.08,Bukit Sundi
-13.02.09,IX Koto Sungai Lasi
+13.02.03,PantaiCermin
+13.02.04,LembahGumanti
+13.02.05,PayungSekaki
+13.02.06,LembangJaya
+13.02.07,GunungTalang
+13.02.08,BukitSundi
+13.02.09,IXKoto Sungai Lasi
 13.02.10,Kubung
-13.02.11,X Koto Singkarak
-13.02.12,X Koto Diatas
-13.02.13,Junjung Sirih
-13.02.17,Hiliran Gumanti
-13.02.18,Tigo Lurah
-13.02.19,Danau Kembar
-13.03.03,Tanjung Gadang
+13.02.11,XKoto Singkarak
+13.02.12,XKoto Diatas
+13.02.13,JunjungSirih
+13.02.17,HiliranGumanti
+13.02.18,TigoLurah
+13.02.19,DanauKembar
+13.03.03,TanjungGadang
 13.03.04,Sijunjung
-13.03.05,IV Nagari
-13.03.06,Kamang Baru
-13.03.07,Lubuak Tarok
-13.03.08,Koto VII
-13.03.09,Sumpur Kudus
+13.03.05,IVNagari
+13.03.06,KamangBaru
+13.03.07,LubuakTarok
+13.03.08,KotoVII
+13.03.09,SumpurKudus
 13.03.10,Kupitan
-13.04.01,X Koto
+13.04.01,XKoto
 13.04.02,Batipuh
 13.04.03,Rambatan
-13.04.04,Lima Kaum
-13.04.05,Tanjung Emas
-13.04.06,Lintau Buo
+13.04.04,LimaKaum
+13.04.05,TanjungEmas
+13.04.06,LintauBuo
 13.04.07,Sungayang
-13.04.08,Sungai Tarab
+13.04.08,SungaiTarab
 13.04.09,Pariangan
 13.04.10,Salimpauang
-13.04.11,Padang Ganting
-13.04.12,Tanjuang Baru
-13.04.13,Lintau Buo Utara
-13.04.14,Batipuah Selatan
-13.05.01,Lubuk Alung
-13.05.02,Batang Anai
-13.05.03,Nan Sabaris
-13.05.04,2 x 11 Enam Lingkuang
-13.05.05,VII Koto Sungai Sarik
-13.05.06,V Koto Kampung Dalam
-13.05.07,Sungai Garingging
-13.05.08,Sungai Limau
-13.05.09,IV Koto Aur Malintang
-13.05.10,Ulakan Tapakih
-13.05.11,Sintuak Toboh Gadang
-13.05.12,Padang Sago
-13.05.13,Batang Gasan
-13.05.14,V Koto Timur
-13.05.15,2 x 11 Kayu Tanam
+13.04.11,PadangGanting
+13.04.12,TanjuangBaru
+13.04.13,LintauBuo Utara
+13.04.14,BatipuahSelatan
+13.05.01,LubukAlung
+13.05.02,BatangAnai
+13.05.03,NanSabaris
+13.05.04,2x 11 Enam Lingkuang
+13.05.05,VIIKoto Sungai Sarik
+13.05.06,VKoto Kampung Dalam
+13.05.07,SungaiGaringging
+13.05.08,SungaiLimau
+13.05.09,IVKoto Aur Malintang
+13.05.10,UlakanTapakih
+13.05.11,SintuakToboh Gadang
+13.05.12,PadangSago
+13.05.13,BatangGasan
+13.05.14,VKoto Timur
+13.05.15,2x 11 Kayu Tanam
 13.05.16,Patamuan
-13.05.17,Enam Lingkung
-13.06.01,Tanjung Mutiara
-13.06.02,Lubuk Basung
-13.06.03,Tanjung Raya
+13.05.17,EnamLingkung
+13.06.01,TanjungMutiara
+13.06.02,LubukBasung
+13.06.03,TanjungRaya
 13.06.04,Matur
-13.06.05,IV Koto
+13.06.05,IVKoto
 13.06.06,Banuhampu
-13.06.07,Ampek Angkek
+13.06.07,AmpekAngkek
 13.06.08,Baso
-13.06.09,Tilatang Kamang
+13.06.09,TilatangKamang
 13.06.10,Palupuh
 13.06.11,Pelembayan
-13.06.12,Sungai Pua
-13.06.13,Ampek Nagari
+13.06.12,SungaiPua
+13.06.13,AmpekNagari
 13.06.14,Candung
-13.06.15,Kamang Magek
+13.06.15,KamangMagek
 13.06.16,Malalak
 13.07.01,Suliki
 13.07.02,Guguak
 13.07.03,Payakumbuh
 13.07.04,Luak
 13.07.05,Harau
-13.07.06,Pangkalan Koto Baru
-13.07.07,Kapur IX
-13.07.08,Gunuang Omeh
-13.07.09,Lareh Sago Halaban
-13.07.10,Situjuah Limo Nagari
+13.07.06,PangkalanKoto Baru
+13.07.07,KapurIX
+13.07.08,GunuangOmeh
+13.07.09,LarehSago Halaban
+13.07.10,SitujuahLimo Nagari
 13.07.11,Mungka
-13.07.12,Bukik Barisan
+13.07.12,BukikBarisan
 13.07.13,Akabiluru
 13.08.04,Bonjol
-13.08.05,Lubuk Sikaping
+13.08.05,LubukSikaping
 13.08.07,Panti
-13.08.08,Mapat Tunggul
-13.08.12,Duo Koto
-13.08.13,Tigo Nagari
+13.08.08,MapatTunggul
+13.08.12,DuoKoto
+13.08.13,TigoNagari
 13.08.14,Rao
-13.08.15,Mapat Tunggul Selatan
-13.08.16,Simpang Alahan Mati
-13.08.17,Padang Gelugur
-13.08.18,Rao Utara
-13.08.19,Rao Selatan
-13.09.01,Pagai Utara
-13.09.02,Sipora Selatan
-13.09.03,Siberut Selatan
-13.09.04,Siberut Utara
-13.09.05,Siberut Barat
-13.09.06,Siberut Barat Daya
-13.09.07,Siberut Tengah
-13.09.08,Sipora Utara
+13.08.15,MapatTunggul Selatan
+13.08.16,SimpangAlahan Mati
+13.08.17,PadangGelugur
+13.08.18,RaoUtara
+13.08.19,RaoSelatan
+13.09.01,PagaiUtara
+13.09.02,SiporaSelatan
+13.09.03,SiberutSelatan
+13.09.04,SiberutUtara
+13.09.05,SiberutBarat
+13.09.06,SiberutBarat Daya
+13.09.07,SiberutTengah
+13.09.08,SiporaUtara
 13.09.09,Sikakap
-13.09.10,Pagai Selatan
-13.10.01,Koto Baru
-13.10.02,Pulau Punjung
-13.10.03,Sungai Rumbai
+13.09.10,PagaiSelatan
+13.10.01,KotoBaru
+13.10.02,PulauPunjung
+13.10.03,SungaiRumbai
 13.10.04,Sitiung
-13.10.05,Sembilan Koto
+13.10.05,SembilanKoto
 13.10.06,Timpeh
-13.10.07,Koto Salak
+13.10.07,KotoSalak
 13.10.08,Tiumang
-13.10.09,Padang Laweh
-13.10.10,Asam Jujuhan
-13.10.11,Koto Besar
+13.10.09,PadangLaweh
+13.10.10,AsamJujuhan
+13.10.11,KotoBesar
 13.11.01,Sangir
-13.11.02,Sungai Pagu
-13.11.03,Koto Parik Gadang Diateh
-13.11.04,Sangir Jujuan
-13.11.05,Sangir Batang Hari
-13.11.06,Pauh Duo
-13.11.07,Sangir Balai Janggo
+13.11.02,SungaiPagu
+13.11.03,KotoParik Gadang Diateh
+13.11.04,SangirJujuan
+13.11.05,SangirBatang Hari
+13.11.06,PauhDuo
+13.11.07,SangirBalai Janggo
 13.12.01,Sungaiberemas
-13.12.02,Lembah Melintang
+13.12.02,LembahMelintang
 13.12.03,Pasaman
 13.12.04,Talamau
 13.12.05,Kinali
 13.12.06,Gunungtuleh
-13.12.07,Ranah Batahan
-13.12.08,Koto Balingka
+13.12.07,RanahBatahan
+13.12.08,KotoBalingka
 13.12.09,Sungaiaur
-13.12.10,Luhak Nan Duo
-13.12.11,Sasak Ranah Pesisir
-13.71.01,Padang Selatan
-13.71.02,Padang Timur
-13.71.03,Padang Barat
-13.71.04,Padang Utara
-13.71.05,Bungus Teluk Kabung
-13.71.06,Lubuk Begalung
-13.71.07,Lubuk Kilangan
+13.12.10,LuhakNan Duo
+13.12.11,SasakRanah Pesisir
+13.71.01,PadangSelatan
+13.71.02,PadangTimur
+13.71.03,PadangBarat
+13.71.04,PadangUtara
+13.71.05,BungusTeluk Kabung
+13.71.06,LubukBegalung
+13.71.07,LubukKilangan
 13.71.08,Pauh
 13.71.09,Kuranji
 13.71.10,Nanggalo
-13.71.11,Koto Tangah
-13.72.01,Lubuk Sikarah
-13.72.02,Tanjung Harapan
-13.73.01,Lembah Segar
+13.71.11,KotoTangah
+13.72.01,LubukSikarah
+13.72.02,TanjungHarapan
+13.73.01,LembahSegar
 13.73.02,Barangin
 13.73.03,Silungkang
 13.73.04,Talawi
-13.74.01,Padang Panjang Timur
-13.74.02,Padang Panjang Barat
-13.75.01,Guguak Panjang
-13.75.02,Mandiangin K. Selayan
-13.75.03,Aur Birugo Tigo Baleh
-13.76.01,Payakumbuh Barat
-13.76.02,Payakumbuh Utara
-13.76.03,Payakumbuh Timur
-13.76.04,Lamposi Tigo Nagori
-13.76.05,Payakumbuh Selatan
-13.77.01,Pariaman Tengah
-13.77.02,Pariaman Utara
-13.77.03,Pariaman Selatan
-13.77.04,Pariaman Timur
-14.01.01,Bangkinang Kota
+13.74.01,PadangPanjang Timur
+13.74.02,PadangPanjang Barat
+13.75.01,GuguakPanjang
+13.75.02,MandianginK. Selayan
+13.75.03,AurBirugo Tigo Baleh
+13.76.01,PayakumbuhBarat
+13.76.02,PayakumbuhUtara
+13.76.03,PayakumbuhTimur
+13.76.04,LamposiTigo Nagori
+13.76.05,PayakumbuhSelatan
+13.77.01,PariamanTengah
+13.77.02,PariamanUtara
+13.77.03,PariamanSelatan
+13.77.04,PariamanTimur
+14.01.01,BangkinangKota
 14.01.02,Kampar
 14.01.03,Tambang
-14.01.04,XIII Koto Kampar
+14.01.04,XIIIKoto Kampar
 14.01.05,Kuok
-14.01.06,Siak Hulu
-14.01.07,Kampar Kiri
-14.01.08,Kampar Kiri Hilir
-14.01.09,Kampar Kiri Hulu
+14.01.06,SiakHulu
+14.01.07,KamparKiri
+14.01.08,KamparKiri Hilir
+14.01.09,KamparKiri Hulu
 14.01.10,Tapung
-14.01.11,Tapung Hilir
-14.01.12,Tapung Hulu
+14.01.11,TapungHilir
+14.01.12,TapungHulu
 14.01.13,Salo
-14.01.14,Rumbio Jaya
+14.01.14,RumbioJaya
 14.01.15,Bangkinang
-14.01.16,Perhentian Raja
+14.01.16,PerhentianRaja
 14.01.17,Kampa
-14.01.18,Kampar Utara
-14.01.19,Kampar Kiri Tengah
-14.01.20,Gunung Sahilan
-14.01.21,Koto Kampar Hulu
+14.01.18,KamparUtara
+14.01.19,KamparKiri Tengah
+14.01.20,GunungSahilan
+14.01.21,KotoKampar Hulu
 14.02.01,Rengat
-14.02.02,Rengat Barat
+14.02.02,RengatBarat
 14.02.03,Kelayang
-14.02.04,Pasir Penyu
+14.02.04,PasirPenyu
 14.02.05,Peranap
 14.02.06,Siberida
-14.02.07,Batang Cenaku
-14.02.08,Batang Gangsal
+14.02.07,BatangCenaku
+14.02.08,BatangGangsal
 14.02.09,Lirik
-14.02.10,Kuala Cenaku
-14.02.11,Sungai Lala
-14.02.12,Lubuk Batu Jaya
-14.02.13,Rakit Kulim
-14.02.14,Batang Peranap
+14.02.10,KualaCenaku
+14.02.11,SungaiLala
+14.02.12,LubukBatu Jaya
+14.02.13,RakitKulim
+14.02.14,BatangPeranap
 14.03.01,Bengkalis
 14.03.02,Bantan
-14.03.03,Bukit Batu
+14.03.03,BukitBatu
 14.03.09,Mandau
 14.03.10,Rupat
-14.03.11,Rupat Utara
-14.03.12,Siak Kecil
+14.03.11,RupatUtara
+14.03.12,SiakKecil
 14.03.13,Pinggir
-14.03.14,Bandar Laksamana
-14.03.15,Talang Muandau
-14.03.16,Bathin Solapan
+14.03.14,BandarLaksamana
+14.03.15,TalangMuandau
+14.03.16,BathinSolapan
 14.04.01,Reteh
 14.04.02,Enok
-14.04.03,Kuala Indragiri
+14.04.03,KualaIndragiri
 14.04.04,Tembilahan
 14.04.05,Tempuling
-14.04.06,Gaung Anak Serka
+14.04.06,GaungAnak Serka
 14.04.07,Mandah
 14.04.08,Kateman
 14.04.09,Keritang
-14.04.10,Tanah Merah
-14.04.11,Batang Tuaka
-14.04.12,Gaung;
-14.04.13,Tembilahan Hulu
+14.04.10,TanahMerah
+14.04.11,BatangTuaka
+14.04.12,Gaung
+14.04.13,TembilahanHulu
 14.04.14,Kemuning
 14.04.15,Pelangiran
-14.04.16,Teluk Belengkong
-14.04.17,Pulau Burung
+14.04.16,TelukBelengkong
+14.04.17,PulauBurung
 14.04.18,Concong
 14.04.19,Kempas
-14.04.20,Sungai Batang
+14.04.20,SungaiBatang
 14.05.01,Ukui
-14.05.02,Pangkalan Kerinci
-14.05.03,Pangkalan Kuras
-14.05.04,Pangkalan Lesung
+14.05.02,PangkalanKerinci
+14.05.03,PangkalanKuras
+14.05.04,PangkalanLesung
 14.05.05,Langgam
 14.05.06,Pelalawan
 14.05.07,Kerumutan
 14.05.08,Bunut
-14.05.09,Teluk Meranti
-14.05.10,Kuala Kampar
-14.05.11,Bandar Sei Kijang
-14.05.12,Bandar Petalangan
-14.06.01,Ujung Batu
-14.06.02,Rokan IV Koto
+14.05.09,TelukMeranti
+14.05.10,KualaKampar
+14.05.11,BandarSei Kijang
+14.05.12,BandarPetalangan
+14.06.01,UjungBatu
+14.06.02,RokanIV Koto
 14.06.03,Rambah
 14.06.04,Tambusai
 14.06.05,Kepenuhan
-14.06.06,Kunto Darussalam
-14.06.07,Rambah Samo
-14.06.08,Rambah Hilir
-14.06.09,Tambusai Utara
-14.06.10,Bangun Purba
+14.06.06,KuntoDarussalam
+14.06.07,RambahSamo
+14.06.08,RambahHilir
+14.06.09,TambusaiUtara
+14.06.10,BangunPurba
 14.06.11,Tandun
 14.06.12,Kabun
-14.06.13,Bonai Darussalam
-14.06.14,Pagaran Tapah Darussalam
-14.06.15,Kepenuhan Hulu
-14.06.16,Pendalian IV Koto
+14.06.13,BonaiDarussalam
+14.06.14,PagaranTapah Darussalam
+14.06.15,KepenuhanHulu
+14.06.16,PendalianIV Koto
 14.07.01,Kubu
 14.07.02,Bangko
-14.07.03,Tanah Putih
-14.07.04,Rimba Melintang
-14.07.05,Bagan Sinembah
-14.07.06,Pasir Limau Kapas
+14.07.03,TanahPutih
+14.07.04,RimbaMelintang
+14.07.05,BaganSinembah
+14.07.06,PasirLimau Kapas
 14.07.07,Sinaboi
 14.07.08,Pujud
-14.07.09,Tanah Putih Tanjung Melawan
-14.07.10,Bangko Pusako
-14.07.11,Simpang Kanan
-14.07.12,Batu Hampar
-14.07.13,Rantau Kopar
+14.07.09,TanahPutih Tanjung Melawan
+14.07.10,BangkoPusako
+14.07.11,SimpangKanan
+14.07.12,BatuHampar
+14.07.13,RantauKopar
 14.07.14,Pekaitan
-14.07.15,Kubu Babussalam
-14.07.16,Tanjung Medan
-14.07.17,Bagan Sinembah Raya
-14.07.18,Balai Jaya
+14.07.15,KubuBabussalam
+14.07.16,TanjungMedan
+14.07.17,BaganSinembah Raya
+14.07.18,BalaiJaya
 14.08.01,Siak
-14.08.02,Sungai Apit
+14.08.02,SungaiApit
 14.08.03,Minas
 14.08.04,Tualang
-14.08.05,Sungai Mandau
+14.08.05,SungaiMandau
 14.08.06,Dayun
-14.08.07,Kerinci Kanan
-14.08.08,Bunga Raya
-14.08.09,Koto Gasib
+14.08.07,KerinciKanan
+14.08.08,BungaRaya
+14.08.09,KotoGasib
 14.08.10,Kandis
-14.08.11,Lubuk Dalam
-14.08.12,Sabak Auh
+14.08.11,LubukDalam
+14.08.12,SabakAuh
 14.08.13,Mempura
 14.08.14,Pusako
-14.09.01,Kuantan Mudik
-14.09.02,Kuantan Tengah
+14.09.01,KuantanMudik
+14.09.02,KuantanTengah
 14.09.03,Singingi
-14.09.04,Kuantan Hilir
+14.09.04,KuantanHilir
 14.09.05,Cerenti
 14.09.06,Benai
 14.09.07,Gunungtoar
-14.09.08,Singingi Hilir
+14.09.08,SingingiHilir
 14.09.09,Pangean
-14.09.10,Logas Tanah Darat
+14.09.10,LogasTanah Darat
 14.09.11,Inuman
-14.09.12,Hulu Kuantan
-14.09.13,Kuantan Hilir Seberang
-14.09.14,Sentajo Raya
-14.09.15,Pucuk Rantau
-14.10.01,Tebing Tinggi
-14.10.02,Rangsang Barat
+14.09.12,HuluKuantan
+14.09.13,KuantanHilir Seberang
+14.09.14,SentajoRaya
+14.09.15,PucukRantau
+14.10.01,TebingTinggi
+14.10.02,RangsangBarat
 14.10.03,Rangsang
-14.10.04,Tebing Tinggi Barat
+14.10.04,TebingTinggi Barat
 14.10.05,Merbau
 14.10.06,Pulaumerbau
-14.10.07,Tebing Tinggi Timur
-14.10.08,Tasik Putri Puyu
-14.10.09,Rangsang Pesisir
+14.10.07,TebingTinggi Timur
+14.10.08,TasikPutri Puyu
+14.10.09,RangsangPesisir
 14.71.01,Sukajadi
-14.71.02,Pekanbaru Kota
+14.71.02,PekanbaruKota
 14.71.03,Sail
-14.71.04,Lima Puluh
+14.71.04,LimaPuluh
 14.71.05,Senapelan
 14.71.06,Rumbai
-14.71.07,Bukit Raya
+14.71.07,BukitRaya
 14.71.08,Tampan
-14.71.09,Marpoyan Damai
-14.71.10,Tenayan Raya
-14.71.11,Payung Sekaki
-14.71.12,Rumbai Pesisir
-14.72.01,Dumai Barat
-14.72.02,Dumai Timur
-14.72.03,Bukit Kapur
-14.72.04,Sungai Sembilan
-14.72.05,Medang Kampai
-14.72.06,Dumai Kota
-14.72.07,Dumai Selatan
-15.01.01,Gunung Raya
-15.01.02,Danau Kerinci
-15.01.04,Sitinjau Laut
-15.01.05,Air Hangat
-15.01.06,Gunung Kerinci
-15.01.07,Batang Merangin
-15.01.08,Keliling Danau
-15.01.09,Kayu Aro
-15.01.11,Air Hangat Timur
-15.01.15,Gunung Tujuh
+14.71.09,MarpoyanDamai
+14.71.10,TenayanRaya
+14.71.11,PayungSekaki
+14.71.12,RumbaiPesisir
+14.72.01,DumaiBarat
+14.72.02,DumaiTimur
+14.72.03,BukitKapur
+14.72.04,SungaiSembilan
+14.72.05,MedangKampai
+14.72.06,DumaiKota
+14.72.07,DumaiSelatan
+15.01.01,GunungRaya
+15.01.02,DanauKerinci
+15.01.04,SitinjauLaut
+15.01.05,AirHangat
+15.01.06,GunungKerinci
+15.01.07,BatangMerangin
+15.01.08,KelilingDanau
+15.01.09,KayuAro
+15.01.11,AirHangat Timur
+15.01.15,GunungTujuh
 15.01.16,Siulak
-15.01.17,Depati Tujuh
-15.01.18,Siulak Mukai
-15.01.19,Kayu Aro Barat
+15.01.17,DepatiTujuh
+15.01.18,SiulakMukai
+15.01.19,KayuAro Barat
 15.01.20,Bukitkerman
-15.01.21,Air Hangat Barat
+15.01.21,AirHangat Barat
 15.02.01,Jangkat
 15.02.02,Bangko
-15.02.03,Muara Siau
-15.02.04,Sungai Manau
+15.02.03,MuaraSiau
+15.02.04,SungaiManau
 15.02.05,Tabir
 15.02.06,Pamenang
-15.02.07,Tabir Ulu
-15.02.08,Tabir Selatan
-15.02.09,Lembah Masurai
-15.02.10,Bangko Barat
-15.02.11,Nalo Tatan
-15.02.12,Batang Masumai
-15.02.13,Pamenang Barat
-15.02.14,Tabir Ilir
-15.02.15,Tabir Timur
-15.02.16,Renah Pembarap
-15.02.17,Pangkalan Jambu
-15.02.18,Jangkat Timur
-15.02.19,Renah Pamenang
-15.02.20,Pamenang Selatan
-15.02.21,Margo Tabir
-15.02.22,Tabir Lintas
-15.02.23,Tabir Barat
-15.02.24,Tiang Pumpung
-15.03.01,Batang Asai
+15.02.07,TabirUlu
+15.02.08,TabirSelatan
+15.02.09,LembahMasurai
+15.02.10,BangkoBarat
+15.02.11,NaloTatan
+15.02.12,BatangMasumai
+15.02.13,PamenangBarat
+15.02.14,TabirIlir
+15.02.15,TabirTimur
+15.02.16,RenahPembarap
+15.02.17,PangkalanJambu
+15.02.18,JangkatTimur
+15.02.19,RenahPamenang
+15.02.20,PamenangSelatan
+15.02.21,MargoTabir
+15.02.22,TabirLintas
+15.02.23,TabirBarat
+15.02.24,TiangPumpung
+15.03.01,BatangAsai
 15.03.02,Limun
 15.03.03,Sarolangun
 15.03.04,Pauh
 15.03.05,Pelawan
 15.03.06,Mandiangin
-15.03.07,Air Hitam
-15.03.08,Bathin VIII
+15.03.07,AirHitam
+15.03.08,BathinVIII
 15.03.09,Singkut
-15.03.10,Cermin Nan Gedang
+15.03.10,CerminNan Gedang
 15.04.01,Mersam
-15.04.02,Muara Tembesi
-15.04.03,Muara Bulian
-15.04.04,Batin XXIV
+15.04.02,MuaraTembesi
+15.04.03,MuaraBulian
+15.04.04,BatinXXIV
 15.04.05,Pemayung
-15.04.06,Maro Sebo Ulu
+15.04.06,MaroSebo Ulu
 15.04.07,Bajubang
-15.04.08,Maro Sebo Ilir
-15.05.01,Jambi Luar Kota
+15.04.08,MaroSebo Ilir
+15.05.01,JambiLuar Kota
 15.05.02,Sekernan
 15.05.03,Kumpeh
-15.05.04,Maro Sebo
+15.05.04,MaroSebo
 15.05.05,Mestong
-15.05.06,Kumpeh Ulu
-15.05.07,Sungai Bahar
-15.05.08,Sungai Gelam
-15.05.09,Bahar Utara
-15.05.10,Bahar Selatan
-15.05.11,Taman Rajo
-15.06.01,Tungkal Ulu
-15.06.02,Tungkal Ilir
+15.05.06,KumpehUlu
+15.05.07,SungaiBahar
+15.05.08,SungaiGelam
+15.05.09,BaharUtara
+15.05.10,BaharSelatan
+15.05.11,TamanRajo
+15.06.01,TungkalUlu
+15.06.02,TungkalIlir
 15.06.03,Pengabuan
 15.06.04,Betara
 15.06.05,Merlung
-15.06.06,Tebing Tinggi
-15.06.07,Batang Asam
-15.06.08,Renah Mendaluh
-15.06.09,Muara Papalik
-15.06.10,Seberang Kota
-15.06.11,Bram Itam
-15.06.12,Kuala Betara
+15.06.06,TebingTinggi
+15.06.07,BatangAsam
+15.06.08,RenahMendaluh
+15.06.09,MuaraPapalik
+15.06.10,SeberangKota
+15.06.11,BramItam
+15.06.12,KualaBetara
 15.06.13,Senyerang
-15.07.01,Muara Sabak Timur
-15.07.02,Nipah Panjang
+15.07.01,MuaraSabak Timur
+15.07.02,NipahPanjang
 15.07.03,Mendahara
-15.07.04,Rantau Rasau
-15.07.05,S a d u
+15.07.04,RantauRasau
+15.07.05,Sa d u
 15.07.06,Dendang
-15.07.07,Muara Sabak Barat
-15.07.08,Kuala Jambi
-15.07.09,Mendahara Ulu
+15.07.07,MuaraSabak Barat
+15.07.08,KualaJambi
+15.07.09,MendaharaUlu
 15.07.10,Geragai
 15.07.11,Berbak
-15.08.01,Tanah Tumbuh
-15.08.02,Rantau Pandan
-15.08.03,Pasar Muaro Bungo
+15.08.01,TanahTumbuh
+15.08.02,RantauPandan
+15.08.03,PasarMuaro Bungo
 15.08.04,Jujuhan
-15.08.05,Tanah Sepenggal
+15.08.05,TanahSepenggal
 15.08.06,Pelepat
-15.08.07,Limbur Lubuk Mengkuang
-15.08.08,Muko-muko Bathin VII
-15.08.09,Pelepat Ilir
-15.08.10,Batin II Babeko
-15.08.11,Bathin III
-15.08.12,Bungo Dani
-15.08.13,Rimbo Tengah
-15.08.14,Bathin III Ulu
-15.08.15,Bathin II Pelayang
-15.08.16,Jujuhan Ilir
-15.08.17,Tanah Sepenggal Lintas
-15.09.01,Tebo Tengah
-15.09.02,Tebo Ilir
-15.09.03,Tebo Ulu
-15.09.04,Rimbo Bujang
+15.08.07,LimburLubuk Mengkuang
+15.08.08,Muko-mukoBathin VII
+15.08.09,PelepatIlir
+15.08.10,BatinII Babeko
+15.08.11,BathinIII
+15.08.12,BungoDani
+15.08.13,RimboTengah
+15.08.14,BathinIII Ulu
+15.08.15,BathinII Pelayang
+15.08.16,JujuhanIlir
+15.08.17,TanahSepenggal Lintas
+15.09.01,TeboTengah
+15.09.02,TeboIlir
+15.09.03,TeboUlu
+15.09.04,RimboBujang
 15.09.05,Sumay
-15.09.06,VII Koto
-15.09.07,Rimbo Ulu
-15.09.08,Rimbo Ilir
-15.09.09,Tengah Ilir
-15.09.10,Serai Serumpun
-15.09.11,VII Koto Ilir
-15.09.12,Muara Tabir
+15.09.06,VIIKoto
+15.09.07,RimboUlu
+15.09.08,RimboIlir
+15.09.09,TengahIlir
+15.09.10,SeraiSerumpun
+15.09.11,VIIKoto Ilir
+15.09.12,MuaraTabir
 15.71.01,Telanaipura
-15.71.02,Jambi Selatan
-15.71.03,Jambi Timur
-15.71.04,Pasar Jambi
+15.71.02,JambiSelatan
+15.71.03,JambiTimur
+15.71.04,PasarJambi
 15.71.05,Pelayangan
-15.71.06,Danau Teluk
-15.71.07,Kota Baru
+15.71.06,DanauTeluk
+15.71.07,KotaBaru
 15.71.08,Jelutung
-15.71.09,Alam Barajo
-15.71.10,Danau Sipin
-15.71.11,Paal Merah
-15.72.01,Sungai Penuh
-15.72.02,Pesisir Bukit
-15.72.03,Hamparan Rawang
-15.72.04,Tanah Kampung
-15.72.05,Kumun Debai
-15.72.06,Pondok Tinggi
-15.72.07,Koto Baru
-15.72.08,Sungai Bungkal
-16.01.07,Sosoh Buay Rayap
+15.71.09,AlamBarajo
+15.71.10,DanauSipin
+15.71.11,PaalMerah
+15.72.01,SungaiPenuh
+15.72.02,PesisirBukit
+15.72.03,HamparanRawang
+15.72.04,TanahKampung
+15.72.05,KumunDebai
+15.72.06,PondokTinggi
+15.72.07,KotoBaru
+15.72.08,SungaiBungkal
+16.01.07,SosohBuay Rayap
 16.01.08,Pengandonan
 16.01.09,Peninjauan
-16.01.13,Baturaja Barat
-16.01.14,Baturaja Timur
-16.01.20,Ulu Ogan
-16.01.21,Semidang Aji
-16.01.22,Lubuk Batang
+16.01.13,BaturajaBarat
+16.01.14,BaturajaTimur
+16.01.20,UluOgan
+16.01.21,SemidangAji
+16.01.22,LubukBatang
 16.01.28,Lengkiti
-16.01.29,Sinar Peninjauan
-16.01.30,Lubuk Raja
-16.01.31,Muara Jaya
-16.01.32,Kedaton Peninjauan Raya
-16.02.02,Tanjung Lubuk
+16.01.29,SinarPeninjauan
+16.01.30,LubukRaja
+16.01.31,MuaraJaya
+16.01.32,KedatonPeninjauan Raya
+16.02.02,TanjungLubuk
 16.02.03,Pedamaran
 16.02.04,Mesuji
-16.02.05,Kayu Agung
-16.02.08,Sirah Pulau Padang
-16.02.11,Tulung Selapan
+16.02.05,KayuAgung
+16.02.08,SirahPulau Padang
+16.02.11,TulungSelapan
 16.02.12,Pampangan
 16.02.13,Lempuing
-16.02.14,Air Sugihan
-16.02.15,Sungai Menang
+16.02.14,AirSugihan
+16.02.15,SungaiMenang
 16.02.17,Jejawi
 16.02.18,Cengal
-16.02.19,Pangkalan Lampam
-16.02.20,Mesuji Makmur
-16.02.21,Mesuji Raya
-16.02.22,Lempuing Jaya
-16.02.23,Teluk Gelam
-16.02.24,Pedamaran Timur
-16.03.01,Tanjung Agung
-16.03.02,Muara Enim
-16.03.03,Rambang Dangku
-16.03.04,Gunung Megang
+16.02.19,PangkalanLampam
+16.02.20,MesujiMakmur
+16.02.21,MesujiRaya
+16.02.22,LempuingJaya
+16.02.23,TelukGelam
+16.02.24,PedamaranTimur
+16.03.01,TanjungAgung
+16.03.02,MuaraEnim
+16.03.03,RambangDangku
+16.03.04,GunungMegang
 16.03.06,Gelumbang
-16.03.07,Lawang Kidul
-16.03.08,Semende Darat Laut
-16.03.09,Semende Darat Tengah
-16.03.10,Semende Darat Ulu
-16.03.11,Ujan Mas
+16.03.07,LawangKidul
+16.03.08,SemendeDarat Laut
+16.03.09,SemendeDarat Tengah
+16.03.10,SemendeDarat Ulu
+16.03.11,UjanMas
 16.03.14,Lubai
 16.03.15,Rambang
-16.03.16,Sungai Rotan
+16.03.16,SungaiRotan
 16.03.17,Lembak
 16.03.19,Benakat
-16.03.21,Empat Petulai Dangku
+16.03.21,EmpatPetulai Dangku
 16.03.21,Kelekar
-16.03.22,Panang Enim
-16.03.22,Muara Belida
+16.03.22,PanangEnim
+16.03.22,MuaraBelida
 16.03.23,Belimbing
-16.03.24,Belida Darat
-16.03.25,Lubai Ulu
-16.04.01,Tanjungsakti Pumu
+16.03.24,BelidaDarat
+16.03.25,LubaiUlu
+16.04.01,TanjungsaktiPumu
 16.04.06,Jarai
-16.04.07,Kota Agung
+16.04.07,KotaAgung
 16.04.08,Pulaupinang
-16.04.09,Merapi Barat
+16.04.09,MerapiBarat
 16.04.10,Lahat
-16.04.12,Pajar Bulan
-16.04.15,Mulak Ulu
-16.04.16,Kikim Selatan
-16.04.17,Kikim Timur
-16.04.18,Kikim Tengah
-16.04.19,Kikim Barat
+16.04.12,PajarBulan
+16.04.15,MulakUlu
+16.04.16,KikimSelatan
+16.04.17,KikimTimur
+16.04.18,KikimTengah
+16.04.19,KikimBarat
 16.04.20,Pseksu
-16.04.21,Gumay Talang
-16.04.22,Pagar Gunung
-16.04.23,Merapi Timur
-16.04.24,Tanjung Sakti Pumi
-16.04.25,Gumay Ulu
-16.04.26,Merapi Selatan
+16.04.21,GumayTalang
+16.04.22,PagarGunung
+16.04.23,MerapiTimur
+16.04.24,TanjungSakti Pumi
+16.04.25,GumayUlu
+16.04.26,MerapiSelatan
 16.04.27,Tanjungtebat
 16.04.28,Muarapayang
 16.04.29,Sukamerindu
-16.04.30,Mulak Sebingkai
-16.04.31,Lahat Selatan
+16.04.30,MulakSebingkai
+16.04.31,LahatSelatan
 16.05.01,Tugumulyo
-16.05.02,Muara Lakitan
-16.05.03,Muara Kelingi
+16.05.02,MuaraLakitan
+16.05.03,MuaraKelingi
 16.05.08,Jayaloka
-16.05.09,Muara Beliti
-16.05.10,STL Ulu Terawas
+16.05.09,MuaraBeliti
+16.05.10,STLUlu Terawas
 16.05.11,Selangit
-16.05.12,Megang Sakti
+16.05.12,MegangSakti
 16.05.13,Purwodadi
-16.05.14,BTS. Ulu
-16.05.18,Tiang Pumpung Kepungut
-16.05.19,Sumber Harta
-16.05.20,Tuah Negeri
-16.05.21,Suka Karya
+16.05.14,BTS.Ulu
+16.05.18,TiangPumpung Kepungut
+16.05.19,SumberHarta
+16.05.20,TuahNegeri
+16.05.21,SukaKarya
 16.06.01,Sekayu
 16.06.02,Lais
-16.06.03,Sungai Keruh
-16.06.04,Batang Hari Leko
-16.06.05,Sanga Desa
-16.06.06,Babat Toman
-16.06.07,Sungai Lilin
+16.06.03,SungaiKeruh
+16.06.04,BatangHari Leko
+16.06.05,SangaDesa
+16.06.06,BabatToman
+16.06.07,SungaiLilin
 16.06.08,Keluang
-16.06.09,Bayung Lencir
-16.06.10,Plakat Tinggi
+16.06.09,BayungLencir
+16.06.10,PlakatTinggi
 16.06.11,Lalan
-16.06.12,Tungkal Jaya
-16.06.13,Lawang Wetan
-16.06.14,Babat Supat
-16.06.15,Jirak Jaya
-16.07.01,Banyuasin I
-16.07.02,Banyuasin II
-16.07.03,Banyuasin III
-16.07.04,Pulau Rimau
+16.06.12,TungkalJaya
+16.06.13,LawangWetan
+16.06.14,BabatSupat
+16.06.15,JirakJaya
+16.07.01,BanyuasinI
+16.07.02,BanyuasinII
+16.07.03,BanyuasinIII
+16.07.04,PulauRimau
 16.07.05,Betung
 16.07.06,Rambutan
-16.07.07,Muara Padang
-16.07.08,Muara Telang
-16.07.09,Makarti Jaya
-16.07.10,Talang Kelapa
-16.07.11,Rantau Bayur
-16.07.12,Tanjung Lago
-16.07.13,Muara Sugihan
-16.07.14,Air Salek
-16.07.15,Tungkal Ilir
-16.07.16,Suak Tapeh
+16.07.07,MuaraPadang
+16.07.08,MuaraTelang
+16.07.09,MakartiJaya
+16.07.10,TalangKelapa
+16.07.11,RantauBayur
+16.07.12,TanjungLago
+16.07.13,MuaraSugihan
+16.07.14,AirSalek
+16.07.15,TungkalIlir
+16.07.16,SuakTapeh
 16.07.17,Sembawa
-16.07.18,Sumber Marga Telang
-16.07.19,Air Kumbang
-16.07.20,Karangagung Ilir
-16.07.21,Selat Panuguan
+16.07.18,SumberMarga Telang
+16.07.19,AirKumbang
+16.07.20,KarangagungIlir
+16.07.21,SelatPanuguan
 16.08.01,Martapura
-16.08.02,Buay Madang
+16.08.02,BuayMadang
 16.08.03,Belitang
 16.08.04,Cempaka
-16.08.05,Buay Pemuka Peliung
-16.08.06,Madang Suku II
-16.08.07,Madang Suku I
-16.08.08,Semendawai Suku III
-16.08.09,Belitang II
-16.08.10,Belitang III
-16.08.11,Bunga Mayang
-16.08.12,Buay Madang Timur
-16.08.13,Madang Suku III
-16.08.14,Semendawai Barat
-16.08.15,Semendawai Timur
+16.08.05,BuayPemuka Peliung
+16.08.06,MadangSuku II
+16.08.07,MadangSuku I
+16.08.08,SemendawaiSuku III
+16.08.09,BelitangII
+16.08.10,BelitangIII
+16.08.11,BungaMayang
+16.08.12,BuayMadang Timur
+16.08.13,MadangSuku III
+16.08.14,SemendawaiBarat
+16.08.15,SemendawaiTimur
 16.08.16,Jayapura
-16.08.17,Belitang Jaya
-16.08.18,Belitang Madang Raya
-16.08.19,Belitang Mulya
-16.08.20,Buay Pemuka Bangsa Raja
-16.09.01,Muara Dua
-16.09.02,Pulau Beringin
-16.09.03,Banding Agung
-16.09.04,Muara Dua Kisam
+16.08.17,BelitangJaya
+16.08.18,BelitangMadang Raya
+16.08.19,BelitangMulya
+16.08.20,BuayPemuka Bangsa Raja
+16.09.01,MuaraDua
+16.09.02,PulauBeringin
+16.09.03,BandingAgung
+16.09.04,MuaraDua Kisam
 16.09.05,Simpang
-16.09.06,Buay Sandang Aji
-16.09.07,Buay Runjung
-16.09.08,Mekakau Ilir
-16.09.09,Buay Pemaca
-16.09.10,Kisam Tinggi
-16.09.11,Kisam Ilir
-16.09.12,Buay Pematang Ribu Ranau Tengah
-16.09.13,Warkuk Ranau Selatan
-16.09.14,Runjung Agung
-16.09.15,Sungai Are
-16.09.16,Sindang Danau
-16.09.17,Buana Pemaca
-16.09.18,Tiga Dihaji
-16.09.19,Buay Rawan
-16.10.01,Muara Kuang
-16.10.02,Tanjung Batu
-16.10.03,Tanjung Raja
+16.09.06,BuaySandang Aji
+16.09.07,BuayRunjung
+16.09.08,MekakauIlir
+16.09.09,BuayPemaca
+16.09.10,KisamTinggi
+16.09.11,KisamIlir
+16.09.12,BuayPematang Ribu Ranau Tengah
+16.09.13,WarkukRanau Selatan
+16.09.14,RunjungAgung
+16.09.15,SungaiAre
+16.09.16,SindangDanau
+16.09.17,BuanaPemaca
+16.09.18,TigaDihaji
+16.09.19,BuayRawan
+16.10.01,MuaraKuang
+16.10.02,TanjungBatu
+16.10.03,TanjungRaja
 16.10.04,Indralaya
 16.10.05,Pemulutan
-16.10.06,Rantau Alai
-16.10.07,Indralaya Utara
-16.10.08,Indralaya Selatan
-16.10.09,Pemulutan Selatan
-16.10.10,Pemulutan Barat
-16.10.11,Rantau Panjang
-16.10.12,Sungai Pinang
+16.10.06,RantauAlai
+16.10.07,IndralayaUtara
+16.10.08,IndralayaSelatan
+16.10.09,PemulutanSelatan
+16.10.10,PemulutanBarat
+16.10.11,RantauPanjang
+16.10.12,SungaiPinang
 16.10.13,Kandis
-16.10.14,Rambang Kuang
-16.10.15,Lubuk Keliat
+16.10.14,RambangKuang
+16.10.15,LubukKeliat
 16.10.16,Payaraman
-16.11.01,Muara Pinang
+16.11.01,MuaraPinang
 16.11.02,Pendopo
-16.11.03,Ulu Musi
-16.11.04,Tebing Tinggi
-16.11.05,Lintang Kanan
-16.11.06,Talang Padang
-16.11.07,Pasemah Air Keruh
-16.11.08,Sikap Dalam
+16.11.03,UluMusi
+16.11.04,TebingTinggi
+16.11.05,LintangKanan
+16.11.06,TalangPadang
+16.11.07,PasemahAir Keruh
+16.11.08,SikapDalam
 16.11.09,Saling
-16.11.10,Pendopo Barat
-16.12.01,Talang Ubi
-16.12.02,Penukal Utara
+16.11.10,PendopoBarat
+16.12.01,TalangUbi
+16.12.02,PenukalUtara
 16.12.03,Penukal
 16.12.04,Abab
-16.12.05,Tanah Abang
+16.12.05,TanahAbang
 16.13.01,Rupit
-16.13.02,Rawas Ulu
+16.13.02,RawasUlu
 16.13.03,Nibung
-16.13.04,Rawas Ilir
-16.13.05,Karang Dapo
-16.13.06,Karang Jaya
-16.13.07,Ulu Rawas
-16.71.01,Ilir Barat II
-16.71.02,Seberang Ulu I
-16.71.03,Seberang Ulu II
-16.71.04,Ilir Barat I
-16.71.05,Ilir Timur I
-16.71.06,Ilir Timur II
+16.13.04,RawasIlir
+16.13.05,KarangDapo
+16.13.06,KarangJaya
+16.13.07,UluRawas
+16.71.01,IlirBarat II
+16.71.02,SeberangUlu I
+16.71.03,SeberangUlu II
+16.71.04,IlirBarat I
+16.71.05,IlirTimur I
+16.71.06,IlirTimur II
 16.71.07,Sukarami
 16.71.08,Sako
 16.71.09,Kemuning
 16.71.10,Kalidoni
-16.71.11,Bukit Kecil
+16.71.11,BukitKecil
 16.71.12,Gandus
 16.71.13,Kertapati
 16.71.14,Plaju
-16.71.15,Alang-alang Lebar
-16.71.16,Sematang Borang
+16.71.15,Alang-alangLebar
+16.71.16,SematangBorang
 16.71.17,Jakabaring
-16.71.18,Ilir Timur Tiga
-16.72.01,Pagar Alam Utara
-16.72.02,Pagar Alam Selatan
-16.72.03,Dempo Utara
-16.72.04,Dempo Selatan
-16.72.05,Dempo Tengah
-16.73.01,Lubuk Linggau Timur I
-16.73.02,Lubuk Linggau Barat I
-16.73.03,Lubuk Linggau Selatan I
-16.73.04,Lubuk Linggau Utara I
-16.73.05,Lubuk Linggau Timur II
-16.73.06,Lubuk Linggau Barat II
-16.73.07,Lubuk Linggau Selatan II
-16.73.08,Lubuk Linggau Utara II
-16.74.01,Prabumulih Barat
-16.74.02,Prabumulih Timur
+16.71.18,IlirTimur Tiga
+16.72.01,PagarAlam Utara
+16.72.02,PagarAlam Selatan
+16.72.03,DempoUtara
+16.72.04,DempoSelatan
+16.72.05,DempoTengah
+16.73.01,LubukLinggau Timur I
+16.73.02,LubukLinggau Barat I
+16.73.03,LubukLinggau Selatan I
+16.73.04,LubukLinggau Utara I
+16.73.05,LubukLinggau Timur II
+16.73.06,LubukLinggau Barat II
+16.73.07,LubukLinggau Selatan II
+16.73.08,LubukLinggau Utara II
+16.74.01,PrabumulihBarat
+16.74.02,PrabumulihTimur
 16.74.03,Cambai
-16.74.04,Rambang Kpk Tengah
-16.74.05,Prabumulih Utara
-16.74.06,Prabumulih Selatan
+16.74.04,RambangKpk Tengah
+16.74.05,PrabumulihUtara
+16.74.06,PrabumulihSelatan
 17.01.01,Kedurang
 17.01.02,Seginim
 17.01.03,Pino
 17.01.04,Manna
-17.01.05,Kota Manna
-17.01.06,Pino Raya
-17.01.07,Kedurang Ilir
-17.01.08,Air Nipis
-17.01.09,Ulu Manna
-17.01.10,Bunga Mas
-17.01.11,Pasar Manna
-17.02.06,Kota Padang
-17.02.07,Padang Ulak Tanding
-17.02.08,Sindang Kelingi
+17.01.05,KotaManna
+17.01.06,PinoRaya
+17.01.07,KedurangIlir
+17.01.08,AirNipis
+17.01.09,UluManna
+17.01.10,BungaMas
+17.01.11,PasarManna
+17.02.06,KotaPadang
+17.02.07,PadangUlak Tanding
+17.02.08,SindangKelingi
 17.02.09,Curup
-17.02.10,Bermani Ulu
-17.02.11,Selupu Rejang
-17.02.16,Curup Utara
-17.02.17,Curup Timur
-17.02.18,Curup Selatan
-17.02.19,Curup Tengah
+17.02.10,BermaniUlu
+17.02.11,SelupuRejang
+17.02.16,CurupUtara
+17.02.17,CurupTimur
+17.02.18,CurupSelatan
+17.02.19,CurupTengah
 17.02.20,Binduriang
-17.02.21,Sindang Beliti Ulu
-17.02.22,Sindang Dataran
-17.02.23,Sindang Beliti Ilir
-17.02.24,Bermani Ulu Raya
+17.02.21,SindangBeliti Ulu
+17.02.22,SindangDataran
+17.02.23,SindangBeliti Ilir
+17.02.24,BermaniUlu Raya
 17.03.01,Enggano
 17.03.06,Kerkap
-17.03.07,Kota Arga Makmur
-17.03.08,Giri Mulya
-17.03.09,Padang Jaya
+17.03.07,KotaArga Makmur
+17.03.08,GiriMulya
+17.03.09,PadangJaya
 17.03.10,Lais
-17.03.11,Batik Nau
+17.03.11,BatikNau
 17.03.12,Ketahun
-17.03.13,Napal Putih
-17.03.14,Putri Hijau
-17.03.15,Air Besi
-17.03.16,Air Napal
-17.03.19,Hulu Palik
-17.03.20,Air Padang
-17.03.21,Arma Jaya
-17.03.22,Tanjung Agung Palik
-17.03.23,Ulok Kupai
-17.03.24,Pinang Raya
-17.03.25,Marga Sakti Sebelat
+17.03.13,NapalPutih
+17.03.14,PutriHijau
+17.03.15,AirBesi
+17.03.16,AirNapal
+17.03.19,HuluPalik
+17.03.20,AirPadang
+17.03.21,ArmaJaya
+17.03.22,TanjungAgung Palik
+17.03.23,UlokKupai
+17.03.24,PinangRaya
+17.03.25,MargaSakti Sebelat
 17.04.01,Kinal
-17.04.02,Tanjung Kemuning
-17.04.03,Kaur Utara
-17.04.04,Kaur Tengah
-17.04.05,Kaur Selatan
+17.04.02,TanjungKemuning
+17.04.03,KaurUtara
+17.04.04,KaurTengah
+17.04.05,KaurSelatan
 17.04.06,Maje
 17.04.07,Nasal
-17.04.08,Semidang Gumay
-17.04.09,Kelam Tengah
+17.04.08,SemidangGumay
+17.04.09,KelamTengah
 17.04.10,Luas
-17.04.11,Muara Sahung
+17.04.11,MuaraSahung
 17.04.12,Tetap
-17.04.13,Lungkang Kule
-17.04.14,Padang Guci Hilir
-17.04.15,Padang Guci Hulu
+17.04.13,LungkangKule
+17.04.14,PadangGuci Hilir
+17.04.15,PadangGuci Hulu
 17.05.01,Sukaraja
 17.05.02,Seluma
 17.05.03,Talo
-17.05.04,Semidang Alas
-17.05.05,Semidang Alas Maras
-17.05.06,Air Periukan
-17.05.07,Lubuk Sandi
-17.05.08,Seluma Barat
-17.05.09,Seluma Timur
-17.05.10,Seluma Utara
-17.05.11,Seluma Selatan
-17.05.12,Talo Kecil
-17.05.13,Ulu Talo
-17.05.14,Ilir Talo
-17.06.01,Lubuk Pinang
-17.06.02,Kota Mukomuko
-17.06.03,Teras Terunjam
-17.06.04,Pondok Suguh
+17.05.04,SemidangAlas
+17.05.05,SemidangAlas Maras
+17.05.06,AirPeriukan
+17.05.07,LubukSandi
+17.05.08,SelumaBarat
+17.05.09,SelumaTimur
+17.05.10,SelumaUtara
+17.05.11,SelumaSelatan
+17.05.12,TaloKecil
+17.05.13,UluTalo
+17.05.14,IlirTalo
+17.06.01,LubukPinang
+17.06.02,KotaMukomuko
+17.06.03,TerasTerunjam
+17.06.04,PondokSuguh
 17.06.05,Ipuh
-17.06.06,Malin Deman
-17.06.07,Air Rami
-17.06.08,Teramang Jaya
-17.06.09,Selagan Raya
+17.06.06,MalinDeman
+17.06.07,AirRami
+17.06.08,TeramangJaya
+17.06.09,SelaganRaya
 17.06.10,Penarik
-17.06.11,XIV Koto
-17.06.12,V Koto
-17.06.13,Air Majunto
-17.06.14,Air Dikit
-17.06.15,Sungai Rumbai
-17.07.01,Lebong Utara
-17.07.02,Lebong Atas
-17.07.03,Lebong Tengah
-17.07.04,Lebong Selatan
-17.07.05,Rimbo Pengadang
+17.06.11,XIVKoto
+17.06.12,VKoto
+17.06.13,AirMajunto
+17.06.14,AirDikit
+17.06.15,SungaiRumbai
+17.07.01,LebongUtara
+17.07.02,LebongAtas
+17.07.03,LebongTengah
+17.07.04,LebongSelatan
+17.07.05,RimboPengadang
 17.07.06,Topos
-17.07.07,Bingin Kuning
-17.07.08,Lebong Sakti
+17.07.07,BinginKuning
+17.07.08,LebongSakti
 17.07.09,Pelabai
 17.07.10,Amen
-17.07.11,Uram Jaya
-17.07.12,Pinang Belapis
-17.08.01,Bermani Ilir
-17.08.02,Ujan Mas
-17.08.03,Tebat Karai
+17.07.11,UramJaya
+17.07.12,PinangBelapis
+17.08.01,BermaniIlir
+17.08.02,UjanMas
+17.08.03,TebatKarai
 17.08.04,Kepahiang
 17.08.05,Merigi
 17.08.06,Kebawetan
-17.08.07,Seberang Musi
-17.08.08,Muara Kemumu
-17.09.01,Karang Tinggi
-17.09.02,Talang Empat
-17.09.03,Pondok Kelapa
-17.09.04,Pematang Tiga
-17.09.05,Pagar Jati
-17.09.06,Taba Penanjung
-17.09.07,Merigi Kelindang
-17.09.08,Merigi Sakti
-17.09.09,Pondok Kubang
-17.09.10,Bang Haji
-17.09.11,Semidang Lagan
+17.08.07,SeberangMusi
+17.08.08,MuaraKemumu
+17.09.01,KarangTinggi
+17.09.02,TalangEmpat
+17.09.03,PondokKelapa
+17.09.04,PematangTiga
+17.09.05,PagarJati
+17.09.06,TabaPenanjung
+17.09.07,MerigiKelindang
+17.09.08,MerigiSakti
+17.09.09,PondokKubang
+17.09.10,BangHaji
+17.09.11,SemidangLagan
 17.71.01,Selebar
-17.71.02,Gading Cempaka
-17.71.03,Teluk Segara
-17.71.04,Muara Bangka Hulu
-17.71.05,Kampung Melayu
-17.71.06,Ratu Agung
-17.71.07,Ratu Samban
-17.71.08,Sungai Serut
-17.71.09,Singaran Pati
+17.71.02,GadingCempaka
+17.71.03,TelukSegara
+17.71.04,MuaraBangka Hulu
+17.71.05,KampungMelayu
+17.71.06,RatuAgung
+17.71.07,RatuSamban
+17.71.08,SungaiSerut
+17.71.09,SingaranPati
 18.01.04,Natar
-18.01.05,Tanjung Bintang
+18.01.05,TanjungBintang
 18.01.06,Kalianda
 18.01.07,Sidomulyo
 18.01.08,Katibung
 18.01.09,Penengahan
 18.01.10,Palas
-18.01.13,Jati Agung
+18.01.13,JatiAgung
 18.01.14,Ketapang
 18.01.15,Sragi
-18.01.16,Raja Basa
+18.01.16,RajaBasa
 18.01.17,Candipuro
-18.01.18,Merbau Mataram
+18.01.18,MerbauMataram
 18.01.21,Bakauheni
-18.01.22,Tanjung Sari
-18.01.23,Way Sulan
-18.01.24,Way Panji
+18.01.22,TanjungSari
+18.01.23,WaySulan
+18.01.24,WayPanji
 18.02.01,Kalirejo
-18.02.02,Bangun Rejo
-18.02.03,Padang Ratu
-18.02.04,Gunung Sugih
+18.02.02,BangunRejo
+18.02.03,PadangRatu
+18.02.04,GunungSugih
 18.02.05,Trimurjo
 18.02.06,Punggur
-18.02.07,Terbanggi Besar
-18.02.08,Seputih Raman
+18.02.07,TerbanggiBesar
+18.02.08,SeputihRaman
 18.02.09,Rumbia
-18.02.10,Seputih Banyak
-18.02.11,Seputih Mataram
-18.02.12,Seputih Surabaya
-18.02.13,Terusan Nunyai
-18.02.14,Bumi Ratu Nuban
+18.02.10,SeputihBanyak
+18.02.11,SeputihMataram
+18.02.12,SeputihSurabaya
+18.02.13,TerusanNunyai
+18.02.14,BumiRatu Nuban
 18.02.15,Bekri
-18.02.16,Seputih Agung
-18.02.17,Way Pangubuan
-18.02.18,Bandar Mataram
+18.02.16,SeputihAgung
+18.02.17,WayPangubuan
+18.02.18,BandarMataram
 18.02.19,Pubian
-18.02.20,Selagai Lingga
-18.02.21,Anak Tuha
-18.02.22,Sendang Agung
-18.02.23,Kota Gajah
-18.02.24,Bumi Nabung
-18.02.25,Way Seputih
-18.02.26,Bandar Surabaya
-18.02.27,Anak Ratu Aji
-18.02.28,Putra Rumbia
-18.03.01,Bukit Kemuning
+18.02.20,SelagaiLingga
+18.02.21,AnakTuha
+18.02.22,SendangAgung
+18.02.23,KotaGajah
+18.02.24,BumiNabung
+18.02.25,WaySeputih
+18.02.26,BandarSurabaya
+18.02.27,AnakRatu Aji
+18.02.28,PutraRumbia
+18.03.01,BukitKemuning
 18.03.02,Kotabumi
-18.03.03,Sungkai Selatan
-18.03.04,Tanjung Raja
-18.03.05,Abung Timur
-18.03.06,Abung Barat
-18.03.07,Abung Selatan
-18.03.08,Sungkai Utara
-18.03.09,Kotabumi Utara
-18.03.10,Kotabumi Selatan
-18.03.11,Abung Tengah
-18.03.12,Abung Tinggi
-18.03.13,Abung Semuli
-18.03.14,Abung Surakarta
-18.03.15,Muara Sungkai
-18.03.16,Bunga Mayang
-18.03.17,Hulu Sungkai
-18.03.18,Sungkai Tengah
-18.03.19,Abung Pekurun
-18.03.20,Sungkai Jaya
-18.03.21,Sungkai Barat
-18.03.22,Abung Kunang
-18.03.23,Blambangan Pagar
-18.04.04,Balik Bukit
-18.04.05,Sumber Jaya
+18.03.03,SungkaiSelatan
+18.03.04,TanjungRaja
+18.03.05,AbungTimur
+18.03.06,AbungBarat
+18.03.07,AbungSelatan
+18.03.08,SungkaiUtara
+18.03.09,KotabumiUtara
+18.03.10,KotabumiSelatan
+18.03.11,AbungTengah
+18.03.12,AbungTinggi
+18.03.13,AbungSemuli
+18.03.14,AbungSurakarta
+18.03.15,MuaraSungkai
+18.03.16,BungaMayang
+18.03.17,HuluSungkai
+18.03.18,SungkaiTengah
+18.03.19,AbungPekurun
+18.03.20,SungkaiJaya
+18.03.21,SungkaiBarat
+18.03.22,AbungKunang
+18.03.23,BlambanganPagar
+18.04.04,BalikBukit
+18.04.05,SumberJaya
 18.04.06,Belalau
-18.04.07,Way Tenong
+18.04.07,WayTenong
 18.04.08,Sekincau
 18.04.09,Suoh
-18.04.10,Batu Brak
+18.04.10,BatuBrak
 18.04.11,Sukau
-18.04.15,Gedung Surian
-18.04.18,Kebun Tebu
-18.04.19,Air Hitam
-18.04.20,Pagar Dewa
-18.04.21,Batu Ketulis
-18.04.22,Lumbok Seminung
-18.04.23,Bandar Negeri Suoh
+18.04.15,GedungSurian
+18.04.18,KebunTebu
+18.04.19,AirHitam
+18.04.20,PagarDewa
+18.04.21,BatuKetulis
+18.04.22,LumbokSeminung
+18.04.23,BandarNegeri Suoh
 18.05.02,Menggala
-18.05.06,Gedung Aji
-18.05.08,Banjar Agung
-18.05.11,Gedung Meneng
-18.05.12,Rawa Jitu Selatan
-18.05.13,Penawar Tama
-18.05.18,Rawa Jitu Timur
-18.05.20,Banjar Margo
-18.05.22,Rawa Pitu
-18.05.23,Penawar Aji
-18.05.25,Dente Teladas
-18.05.26,Meraksa Aji
-18.05.27,Gedung Aji Baru
-18.05.29,Banjar Baru
-18.05.30,Menggala Timur
-18.06.01,Kota Agung
-18.06.02,Talang Padang
+18.05.06,GedungAji
+18.05.08,BanjarAgung
+18.05.11,GedungMeneng
+18.05.12,RawaJitu Selatan
+18.05.13,PenawarTama
+18.05.18,RawaJitu Timur
+18.05.20,BanjarMargo
+18.05.22,RawaPitu
+18.05.23,PenawarAji
+18.05.25,DenteTeladas
+18.05.26,MeraksaAji
+18.05.27,GedungAji Baru
+18.05.29,BanjarBaru
+18.05.30,MenggalaTimur
+18.06.01,KotaAgung
+18.06.02,TalangPadang
 18.06.03,Wonosobo
-18.06.04,Pulau Panggung
-18.06.09,Cukuh Balak
+18.06.04,PulauPanggung
+18.06.09,CukuhBalak
 18.06.11,Pugung
 18.06.12,Semaka
-18.06.13,Sumber Rejo
-18.06.15,Ulu Belu
-18.06.16,Pematang Sawa
+18.06.13,SumberRejo
+18.06.15,UluBelu
+18.06.16,PematangSawa
 18.06.17,Klumbayan
-18.06.18,Kota Agung Barat
-18.06.19,Kota Agung Timur
+18.06.18,KotaAgung Barat
+18.06.19,KotaAgung Timur
 18.06.20,Gisting
-18.06.21,Gunung Alip
+18.06.21,GunungAlip
 18.06.24,Limau
-18.06.25,Bandar Negeri Semuong
-18.06.26,Air Naningan
+18.06.25,BandarNegeri Semuong
+18.06.26,AirNaningan
 18.06.27,Bulok
-18.06.28,Klumbayan Barat
+18.06.28,KlumbayanBarat
 18.07.01,Sukadana
-18.07.02,Labuhan Maringgai
+18.07.02,LabuhanMaringgai
 18.07.03,Jabung
 18.07.04,Pekalongan
 18.07.05,Sekampung
 18.07.06,Batanghari
-18.07.07,Way Jepara
+18.07.07,WayJepara
 18.07.08,Purbolinggo
-18.07.09,Raman Utara
-18.07.10,Metro Kibang
-18.07.11,Marga Tiga
-18.07.12,Sekampung Udik
-18.07.13,Batanghari Nuban
-18.07.14,Bumi Agung
-18.07.15,Bandar Sribhawono
-18.07.16,Mataram Baru
+18.07.09,RamanUtara
+18.07.10,MetroKibang
+18.07.11,MargaTiga
+18.07.12,SekampungUdik
+18.07.13,BatanghariNuban
+18.07.14,BumiAgung
+18.07.15,BandarSribhawono
+18.07.16,MataramBaru
 18.07.17,Melinting
-18.07.18,Gunung Pelindung
-18.07.19,Pasir Sakti
-18.07.20,Waway Karya
-18.07.21,Labuhan Ratu
-18.07.22,Braja Selebah
-18.07.23,Way Bungur
-18.07.24,Marga Sekampung
-18.08.01,Blambangan Umpu
+18.07.18,GunungPelindung
+18.07.19,PasirSakti
+18.07.20,WawayKarya
+18.07.21,LabuhanRatu
+18.07.22,BrajaSelebah
+18.07.23,WayBungur
+18.07.24,MargaSekampung
+18.08.01,BlambanganUmpu
 18.08.02,Kasui
 18.08.03,Banjit
 18.08.04,Baradatu
 18.08.05,Bahuga
-18.08.06,Pakuan Ratu
-18.08.07,Negeri Agung
-18.08.08,Way Tuba
-18.08.09,Rebang Tangkas
-18.08.10,Gunung Labuhan
-18.08.11,Negara Batin
-18.08.12,Negeri Besar
-18.08.13,Buay Bahuga
-18.08.14,Bumi Agung
-18.09.01,Gedong Tataan
-18.09.02,Negeri Katon
+18.08.06,PakuanRatu
+18.08.07,NegeriAgung
+18.08.08,WayTuba
+18.08.09,RebangTangkas
+18.08.10,GunungLabuhan
+18.08.11,NegaraBatin
+18.08.12,NegeriBesar
+18.08.13,BuayBahuga
+18.08.14,BumiAgung
+18.09.01,GedongTataan
+18.09.02,NegeriKaton
 18.09.03,Tegineneng
-18.09.04,Way Lima
-18.09.05,Padang Cermin
-18.09.06,Punduh Pidada
+18.09.04,WayLima
+18.09.05,PadangCermin
+18.09.06,PunduhPidada
 18.09.07,Kedondong
-18.09.08,Marga Punduh
-18.09.09,Way Khilau
-18.09.10,Teluk Pandan
-18.09.11,Way Ratai
+18.09.08,MargaPunduh
+18.09.09,WayKhilau
+18.09.10,TelukPandan
+18.09.11,WayRatai
 18.10.01,Pringsewu
-18.10.02,Gading Rejo
+18.10.02,GadingRejo
 18.10.03,Ambarawa
 18.10.04,Pardasuka
 18.10.05,Pagelaran
 18.10.06,Banyumas
 18.10.07,Adiluwih
 18.10.08,Sukoharjo
-18.10.09,Pagelaran Utara
+18.10.09,PagelaranUtara
 18.11.01,Mesuji
-18.11.02,Mesuji Timur
-18.11.03,Rawa Jitu Utara
-18.11.04,Way Serdang
-18.11.05,Simpang Pematang
-18.11.06,Panca Jaya
-18.11.07,Tanjung Raya
-18.12.01,Tulang Bawang Tengah
+18.11.02,MesujiTimur
+18.11.03,RawaJitu Utara
+18.11.04,WaySerdang
+18.11.05,SimpangPematang
+18.11.06,PancaJaya
+18.11.07,TanjungRaya
+18.12.01,TulangBawang Tengah
 18.12.02,Tumijajar
-18.12.03,Tulang Bawang Udik
-18.12.04,Gunung Terang
-18.12.05,Gunung Agung
-18.12.06,Way Kenanga
-18.12.07,Lambu Kibang
-18.12.08,Pagar Dewa
-18.12.09,Batu Putih
-18.13.01,Pesisir Tengah
-18.13.02,Pesisir Selatan
+18.12.03,TulangBawang Udik
+18.12.04,GunungTerang
+18.12.05,GunungAgung
+18.12.06,WayKenanga
+18.12.07,LambuKibang
+18.12.08,PagarDewa
+18.12.09,BatuPutih
+18.13.01,PesisirTengah
+18.13.02,PesisirSelatan
 18.13.03,Lemong
-18.13.04,Pesisir Utara
-18.13.05,Karya Penggawa
+18.13.04,PesisirUtara
+18.13.05,KaryaPenggawa
 18.13.06,Pulaupisang
-18.13.07,Way Krui
-18.13.08,Krui Selatan
+18.13.07,WayKrui
+18.13.08,KruiSelatan
 18.13.09,Ngambur
 18.13.10,Ngaras
 18.13.11,Bangkunat
 18.71.01,Kedaton
 18.71.02,Sukarame
-18.71.03,Tanjungkarang Barat
+18.71.03,TanjungkarangBarat
 18.71.04,Panjang
-18.71.05,Tanjungkarang Timur
-18.71.06,Tanjungkarang Pusat
-18.71.07,Telukbetung Selatan
-18.71.08,Telukbetung Barat
-18.71.09,Telukbetung Utara
+18.71.05,TanjungkarangTimur
+18.71.06,TanjungkarangPusat
+18.71.07,TelukbetungSelatan
+18.71.08,TelukbetungBarat
+18.71.09,TelukbetungUtara
 18.71.10,Rajabasa
-18.71.11,Tanjung Senang
+18.71.11,TanjungSenang
 18.71.12,Sukabumi
 18.71.13,Kemiling
-18.71.14,Labuhan Ratu
-18.71.15,Way Halim
+18.71.14,LabuhanRatu
+18.71.15,WayHalim
 18.71.16,Langkapura
 18.71.17,Enggal
 18.71.18,Kedamaian
-18.71.19,Telukbetung Timur
-18.71.20,Bumi Waras
-18.72.01,Metro Pusat
-18.72.02,Metro Utara
-18.72.03,Metro Barat
-18.72.04,Metro Timur
-18.72.05,Metro Selatan
+18.71.19,TelukbetungTimur
+18.71.20,BumiWaras
+18.72.01,MetroPusat
+18.72.02,MetroUtara
+18.72.03,MetroBarat
+18.72.04,MetroTimur
+18.72.05,MetroSelatan
 19.01.01,Sungailiat
 19.01.02,Belinyu
 19.01.03,Merawang
-19.01.04,Mendo Barat
+19.01.04,MendoBarat
 19.01.05,Pemali
 19.01.06,Bakam
-19.01.07,Riau Silip
-19.01.08,Puding Besar
-19.02.01,Tanjung Pandan
+19.01.07,RiauSilip
+19.01.08,PudingBesar
+19.02.01,TanjungPandan
 19.02.02,Membalong
-19.02.03,Selat Nasik
+19.02.03,SelatNasik
 19.02.04,Sijuk
 19.02.05,Badau
 19.03.01,Toboali
-19.03.02,Lepar Pongok
-19.03.03,Air Gegas
-19.03.04,Simpang Rimba
+19.03.02,LeparPongok
+19.03.03,AirGegas
+19.03.04,SimpangRimba
 19.03.05,Payung
-19.03.06,Tukak Sadai
+19.03.06,TukakSadai
 19.03.07,Pulaubesar
-19.03.08,Kepulauan Pongok
+19.03.08,KepulauanPongok
 19.04.01,Koba
-19.04.02,Pangkalan Baru
-19.04.03,Sungai Selan
-19.04.04,Simpang Katis
+19.04.02,PangkalanBaru
+19.04.03,SungaiSelan
+19.04.04,SimpangKatis
 19.04.05,Namang
-19.04.06,Lubuk Besar
+19.04.06,LubukBesar
 19.05.01,Mentok
-19.05.02,Simpang Teritip
+19.05.02,SimpangTeritip
 19.05.03,Jebus
 19.05.04,Kelapa
 19.05.05,Tempilang
@@ -1861,123 +1861,123 @@ ID,Name
 19.06.01,Manggar
 19.06.02,Gantung
 19.06.03,Dendang
-19.06.04,Kelapa Kampit
+19.06.04,KelapaKampit
 19.06.05,Damar
-19.06.06,Simpang Renggiang
-19.06.07,Simpang Pesak
+19.06.06,SimpangRenggiang
+19.06.07,SimpangPesak
 19.71.01,Bukitintan
-19.71.02,Taman Sari
-19.71.03,Pangkal Balam
+19.71.02,TamanSari
+19.71.03,PangkalBalam
 19.71.04,Rangkui
 19.71.05,Gerunggang
 19.71.06,Gabek
 19.71.07,Girimaya
-21.01.04,Gunung Kijang
-21.01.06,Bintan Timur
-21.01.07,Bintan Utara
-21.01.08,Teluk Bintan
+21.01.04,GunungKijang
+21.01.06,BintanTimur
+21.01.07,BintanUtara
+21.01.08,TelukBintan
 21.01.09,Tambelan
-21.01.10,Telok Sebong
+21.01.10,TelokSebong
 21.01.12,Toapaya
 21.01.13,Mantang
-21.01.14,Bintan Pesisir
-21.01.15,Seri Kuala Lobam
+21.01.14,BintanPesisir
+21.01.15,SeriKuala Lobam
 21.02.01,Moro
 21.02.02,Kundur
 21.02.03,Karimun
 21.02.04,Meral
 21.02.05,Tebing
 21.02.06,Buru
-21.02.07,Kundur Utara
-21.02.08,Kundur Barat
+21.02.07,KundurUtara
+21.02.08,KundurBarat
 21.02.09,Durai
-21.02.10,Meral Barat
+21.02.10,MeralBarat
 21.02.11,Ungar
 21.02.12,Belat
 21.03.04,Midai
-21.03.05,Bunguran Barat
+21.03.05,BunguranBarat
 21.03.06,Serasan
-21.03.07,Bunguran Timur
-21.03.08,Bunguran Utara
+21.03.07,BunguranTimur
+21.03.08,BunguranUtara
 21.03.09,Subi
-21.03.10,Pulau Laut
-21.03.11,Pulau Tiga
-21.03.11,Katang Bidare
-21.03.12,Temiang Pesisir
-21.03.13,Bakung Serumpun
-21.03.15,Bunguran Timur Laut
-21.03.16,Bunguran Tengah
-21.03.18,Bunguran Selatan
-21.03.19,Serasan Timur
-21.03.20,Bunguran Batubi
-21.03.21,Pulau Tiga Barat
-21.03.22,Suak Midai
+21.03.10,PulauLaut
+21.03.11,PulauTiga
+21.03.11,KatangBidare
+21.03.12,TemiangPesisir
+21.03.13,BakungSerumpun
+21.03.15,BunguranTimur Laut
+21.03.16,BunguranTengah
+21.03.18,BunguranSelatan
+21.03.19,SerasanTimur
+21.03.20,BunguranBatubi
+21.03.21,PulauTiga Barat
+21.03.22,SuakMidai
 21.04.01,Singkep
 21.04.02,Lingga
 21.04.03,Senayang
-21.04.04,Singkep Barat
-21.04.05,Lingga Utara
-21.04.06,Singkep Pesisir
-21.04.07,Lingga Timur
+21.04.04,SingkepBarat
+21.04.05,LinggaUtara
+21.04.06,SingkepPesisir
+21.04.07,LinggaTimur
 21.04.08,Selayar
-21.04.09,Singkep Selatan
-21.04.10,Kepulauan Posek
+21.04.09,SingkepSelatan
+21.04.10,KepulauanPosek
 21.05.01,Siantan
 21.05.02,Palmatak
-21.05.03,Siantan Timur
-21.05.04,Siantan Selatan
-21.05.05,Jemaja Timur
+21.05.03,SiantanTimur
+21.05.04,SiantanSelatan
+21.05.05,JemajaTimur
 21.05.06,Jemaja
-21.05.07,Siantan Tengah
-21.05.08,Siantan Utara
-21.05.09,Jemaja Barat
-21.71.01,Belakang Padang
-21.71.02,Batu Ampar
+21.05.07,SiantanTengah
+21.05.08,SiantanUtara
+21.05.09,JemajaBarat
+21.71.01,BelakangPadang
+21.71.02,BatuAmpar
 21.71.03,Sekupang
 21.71.04,Nongsa
 21.71.05,Bulang
-21.71.06,Lubuk Baja
-21.71.07,Sei Beduk
+21.71.06,LubukBaja
+21.71.07,SeiBeduk
 21.71.08,Galang
 21.71.09,Bengkong
-21.71.10,Batam Kota
+21.71.10,BatamKota
 21.71.11,Sagulung
-21.71.12,Batu Aji
-21.72.01,Tanjung Pinang Barat
-21.72.02,Tanjung Pinang Timur
-21.72.03,Tanjung Pinang Kota
-21.72.04,Bukit Bestari
-31.01.01,Kepulauan Seribu Utara
-31.01.02,Kepulauan Seribu Selatan.
+21.71.12,BatuAji
+21.72.01,TanjungPinang Barat
+21.72.02,TanjungPinang Timur
+21.72.03,TanjungPinang Kota
+21.72.04,BukitBestari
+31.01.01,KepulauanSeribu Utara
+31.01.02,KepulauanSeribu Selatan.
 31.71.01,Gambir
-31.71.02,Sawah Besar
+31.71.02,SawahBesar
 31.71.03,Kemayoran
 31.71.04,Senen
-31.71.05,Cempaka Putih
+31.71.05,CempakaPutih
 31.71.06,Menteng
-31.71.07,Tanah Abang
-31.71.08,Johar Baru
+31.71.07,TanahAbang
+31.71.08,JoharBaru
 31.72.01,Penjaringan
-31.72.02,Tanjung Priok
+31.72.02,TanjungPriok
 31.72.03,Koja
 31.72.04,Cilincing
 31.72.05,Pademangan
-31.72.06,Kelapa Gading
+31.72.06,KelapaGading
 31.73.01,Cengkareng
-31.73.02,Grogol Petamburan
-31.73.03,Taman Sari
+31.73.02,GrogolPetamburan
+31.73.03,TamanSari
 31.73.04,Tambora
-31.73.05,Kebon Jeruk
+31.73.05,KebonJeruk
 31.73.06,Kalideres
-31.73.07,Pal Merah
+31.73.07,PalMerah
 31.73.08,Kembangan
 31.74.01,Tebet
 31.74.02,Setiabudi
-31.74.03,Mampang Prapatan
-31.74.04,Pasar Minggu
-31.74.05,Kebayoran Lama
+31.74.03,MampangPrapatan
+31.74.04,PasarMinggu
+31.74.05,KebayoranLama
 31.74.06,Cilandak
-31.74.07,Kebayoran Baru
+31.74.07,KebayoranBaru
 31.74.08,Pancoran
 31.74.09,Jagakarsa
 31.74.10,Pesanggrahan
@@ -1985,32 +1985,32 @@ ID,Name
 31.75.02,Pulogadung
 31.75.03,Jatinegara
 31.75.04,Kramatjati
-31.75.05,Pasar Rebo
+31.75.05,PasarRebo
 31.75.06,Cakung
-31.75.07,Duren Sawit
+31.75.07,DurenSawit
 31.75.08,Makasar
 31.75.09,Ciracas
 31.75.10,Cipayung
 32.01.01,Cibinong
-32.01.02,Gunung Putri
+32.01.02,GunungPutri
 32.01.03,Citeureup
 32.01.04,Sukaraja
-32.01.05,Babakan Madang
+32.01.05,BabakanMadang
 32.01.06,Jonggol
 32.01.07,Cileungsi
 32.01.08,Cariu
 32.01.09,Sukamakmur
 32.01.10,Parung
-32.01.11,Gunung Sindur
+32.01.11,GunungSindur
 32.01.12,Kemang
-32.01.13,Bojong Gede
+32.01.13,BojongGede
 32.01.14,Leuwiliang
 32.01.15,Ciampea
 32.01.16,Cibungbulang
 32.01.17,Pamijahan
 32.01.18,Rumpin
 32.01.19,Jasinga
-32.01.20,Parung Panjang
+32.01.20,ParungPanjang
 32.01.21,Nanggung
 32.01.22,Cigudeg
 32.01.23,Tenjo
@@ -2024,7 +2024,7 @@ ID,Name
 32.01.31,Tamansari
 32.01.32,Klapanunggal
 32.01.33,Ciseeng
-32.01.34,Ranca Bungur
+32.01.34,RancaBungur
 32.01.35,Sukajaya
 32.01.36,Tanjungsari
 32.01.37,Tajurhalang
@@ -2141,11 +2141,11 @@ ID,Name
 32.04.40,Rancabali
 32.04.44,Cangkuang
 32.04.46,Kutawaringin
-32.05.01,Garut Kota
+32.05.01,GarutKota
 32.05.02,Karangpawitan
 32.05.03,Wanaraja
-32.05.04,Tarogong Kaler
-32.05.05,Tarogong Kidul
+32.05.04,TarogongKaler
+32.05.05,TarogongKidul
 32.05.06,Banyuresmi
 32.05.07,Samarang
 32.05.08,Pasirwangi
@@ -2178,7 +2178,7 @@ ID,Name
 32.05.35,Cisewu
 32.05.36,Caringin
 32.05.37,Talegong
-32.05.38,Bl. Limbangan
+32.05.38,Bl.Limbangan
 32.05.39,Selaawi
 32.05.40,Cibiuk
 32.05.41,Pangatikan
@@ -2203,9 +2203,9 @@ ID,Name
 32.06.18,Salopa
 32.06.19,Jatiwaras
 32.06.20,Cineam
-32.06.21,Karang Jaya
+32.06.21,KarangJaya
 32.06.22,Manonjaya
-32.06.23,Gunung Tanjung
+32.06.23,GunungTanjung
 32.06.24,Singaparna
 32.06.25,Mangunreja
 32.06.26,Sukarame
@@ -2277,9 +2277,9 @@ ID,Name
 32.08.26,Hantara
 32.08.27,Kalimanggis
 32.08.28,Cibeureum
-32.08.29,Karang Kancana
+32.08.29,KarangKancana
 32.08.30,Maleber
-32.08.31,Sindang Agung
+32.08.31,SindangAgung
 32.08.32,Cigandamekar
 32.09.01,Waled
 32.09.02,Ciledug
@@ -2288,7 +2288,7 @@ ID,Name
 32.09.05,Babakan
 32.09.06,Karangsembung
 32.09.07,Lemahabang
-32.09.08,Susukan Lebak
+32.09.08,SusukanLebak
 32.09.09,Sedong
 32.09.10,Astanajapura
 32.09.11,Pangenan
@@ -2301,7 +2301,7 @@ ID,Name
 32.09.18,Plumbon
 32.09.19,Weru
 32.09.20,Kedawung
-32.09.21,Gunung Jati
+32.09.21,GunungJati
 32.09.22,Kapetakan
 32.09.23,Klangenan
 32.09.24,Arjawinangun
@@ -2315,7 +2315,7 @@ ID,Name
 32.09.32,Pasaleman
 32.09.33,Pabuaran
 32.09.34,Karangwareng
-32.09.35,Tengah Tani
+32.09.35,TengahTani
 32.09.36,Plered
 32.09.37,Gempol
 32.09.38,Greged
@@ -2363,8 +2363,8 @@ ID,Name
 32.11.14,Cimanggung
 32.11.15,Jatinangor
 32.11.16,Rancakalong
-32.11.17,Sumedang Selatan
-32.11.18,Sumedang Utara
+32.11.17,SumedangSelatan
+32.11.18,SumedangUtara
 32.11.19,Ganeas
 32.11.20,Tanjungkerta
 32.11.21,Tanjungmedar
@@ -2400,7 +2400,7 @@ ID,Name
 32.12.25,Gantar
 32.12.26,Trisi
 32.12.27,Sukagumiwang
-32.12.28,Kedokan Bunder
+32.12.28,KedokanBunder
 32.12.29,Pasekan
 32.12.30,Tukdana
 32.12.31,Patrol
@@ -2431,7 +2431,7 @@ ID,Name
 32.13.25,Tambakdahan
 32.13.26,Kasomalang
 32.13.27,Dawuan
-32.13.28,Pagaden Barat
+32.13.28,PagadenBarat
 32.13.29,Ciater
 32.13.30,Pusakajaya
 32.14.01,Purwakarta
@@ -2451,9 +2451,9 @@ ID,Name
 32.14.15,Sukasari
 32.14.16,Pondoksalam
 32.14.17,Kiarapedes
-32.15.01,Karawang Barat
+32.15.01,KarawangBarat
 32.15.02,Pangkalan
-32.15.03,Telukjambe Timur
+32.15.03,TelukjambeTimur
 32.15.04,Ciampel
 32.15.05,Klari
 32.15.06,Rengasdengklok
@@ -2465,19 +2465,19 @@ ID,Name
 32.15.12,Pakisjaya
 32.15.13,Cikampek
 32.15.14,Jatisari
-32.15.15,Cilamaya Wetan
+32.15.15,CilamayaWetan
 32.15.16,Tirtamulya
 32.15.17,Telagasari
 32.15.18,Rawamerta
 32.15.19,Lemahabang
-32.15.20,Tempuran;
+32.15.20,Tempuran
 32.15.21,Majalaya
 32.15.22,Jayakerta
-32.15.23,Cilamaya Kulon
+32.15.23,CilamayaKulon
 32.15.24,Banyusari
-32.15.25,Kota Baru
-32.15.26,Karawang Timur
-32.15.27,Telukjambe Barat
+32.15.25,KotaBaru
+32.15.26,KarawangTimur
+32.15.27,TelukjambeBarat
 32.15.28,Tegalwaru
 32.15.29,Purwasari
 32.15.30,Cilebar
@@ -2485,23 +2485,23 @@ ID,Name
 32.16.02,Babelan
 32.16.03,Sukawangi
 32.16.04,Tambelang
-32.16.05,Tambun Utara
-32.16.06,Tambun Selatan
+32.16.05,TambunUtara
+32.16.06,TambunSelatan
 32.16.07,Cibitung
-32.16.08,Cikarang Barat
-32.16.09,Cikarang Utara
-32.16.10,Karang Bahagia
-32.16.11,Cikarang Timur
-32.16.12,Kedung Waringin
+32.16.08,CikarangBarat
+32.16.09,CikarangUtara
+32.16.10,KarangBahagia
+32.16.11,CikarangTimur
+32.16.12,KedungWaringin
 32.16.13,Pebayuran
 32.16.14,Sukakarya
 32.16.15,Sukatani
 32.16.16,Cabangbungin
 32.16.17,Muaragembong
 32.16.18,Setu
-32.16.19,Cikarang Selatan
-32.16.20,Cikarang Pusat
-32.16.21,Serang Baru
+32.16.19,CikarangSelatan
+32.16.20,CikarangPusat
+32.16.21,SerangBaru
 32.16.22,Cibarusah
 32.16.23,Bojongmangu
 32.17.01,Lembang
@@ -2530,12 +2530,12 @@ ID,Name
 32.18.08,Kalipucang
 32.18.09,Pangandaran
 32.18.10,Sidamulih
-32.71.01,Bogor Selatan
-32.71.02,Bogor Timur
-32.71.03,Bogor Tengah
-32.71.04,Bogor Barat
-32.71.05,Bogor Utara
-32.71.06,Tanah Sareal
+32.71.01,BogorSelatan
+32.71.02,BogorTimur
+32.71.03,BogorTengah
+32.71.04,BogorBarat
+32.71.05,BogorUtara
+32.71.06,TanahSareal
 32.72.01,Gunungpuyuh
 32.72.02,Cikole
 32.72.03,Citamiang
@@ -2545,25 +2545,25 @@ ID,Name
 32.72.07,Cibeureum
 32.73.01,Sukasari
 32.73.02,Coblong
-32.73.03,Babakan Ciparay
-32.73.04,Bojongloa Kaler
+32.73.03,BabakanCiparay
+32.73.04,BojongloaKaler
 32.73.05,Andir
 32.73.06,Cicendo
 32.73.07,Sukajadi
 32.73.08,Cidadap
-32.73.09,Bandung Wetan
-32.73.10,Astana Anyar
+32.73.09,BandungWetan
+32.73.10,AstanaAnyar
 32.73.11,Regol
 32.73.12,Batununggal
 32.73.13,Lengkong
-32.73.14,Cibeunying Kidul
-32.73.15,Bandung Kulon
+32.73.14,CibeunyingKidul
+32.73.15,BandungKulon
 32.73.16,Kiaracondong
-32.73.17,Bojongloa Kidul
-32.73.18,Cibeunying Kaler
-32.73.19,Sumur Bandung
+32.73.17,BojongloaKidul
+32.73.18,CibeunyingKaler
+32.73.19,SumurBandung
 32.73.20,Antapani
-32.73.21,Bandung Kidul
+32.73.21,BandungKidul
 32.73.22,Buahbatu
 32.73.23,Rancasari
 32.73.24,Arcamanik
@@ -2574,14 +2574,14 @@ ID,Name
 32.73.29,Cinambo
 32.73.30,Mandalajati
 32.74.01,Kejaksan
-32.74.02,Lemah Wungkuk
+32.74.02,LemahWungkuk
 32.74.03,Harjamukti
 32.74.04,Pekalipan
 32.74.05,Kesambi
-32.75.01,Bekasi Timur
-32.75.02,Bekasi Barat
-32.75.03,Bekasi Utara
-32.75.04,Bekasi Selatan
+32.75.01,BekasiTimur
+32.75.02,BekasiBarat
+32.75.03,BekasiUtara
+32.75.04,BekasiSelatan
 32.75.05,Rawalumbu
 32.75.06,Medansatria
 32.75.07,Bantargebang
@@ -2590,7 +2590,7 @@ ID,Name
 32.75.10,Jatisampurna
 32.75.11,Mustikajaya
 32.75.12,Pondokmelati
-32.76.01,Pancoran Mas
+32.76.01,PancoranMas
 32.76.02,Cimanggis
 32.76.03,Sawangan
 32.76.04,Limo
@@ -2601,9 +2601,9 @@ ID,Name
 32.76.09,Cinere
 32.76.10,Tapos
 32.76.11,Bojongsari
-32.77.01,Cimahi Selatan
-32.77.02,Cimahi Tengah
-32.77.03,Cimahi Utara
+32.77.01,CimahiSelatan
+32.77.02,CimahiTengah
+32.77.03,CimahiUtara
 32.78.01,Cihideung
 32.78.02,Cipedes
 32.78.03,Tawang
@@ -2638,10 +2638,10 @@ ID,Name
 33.01.18,Cipari
 33.01.19,Patimuan
 33.01.20,Bantarsari
-33.01.21,Cilacap Selatan
-33.01.22,Cilacap Tengah
-33.01.23,Cilacap Utara
-33.01.24,Kampung Laut
+33.01.21,CilacapSelatan
+33.01.22,CilacapTengah
+33.01.23,CilacapUtara
+33.01.24,KampungLaut
 33.02.01,Lumbir
 33.02.02,Wangon
 33.02.03,Jatilawang
@@ -2665,10 +2665,10 @@ ID,Name
 33.02.21,Sumbang
 33.02.22,Baturraden
 33.02.23,Kedungbanteng
-33.02.24,Purwokerto Selatan
-33.02.25,Purwokerto Barat
-33.02.26,Purwokerto Timur
-33.02.27,Purwokerto Utara
+33.02.24,PurwokertoSelatan
+33.02.25,PurwokertoBarat
+33.02.26,PurwokertoTimur
+33.02.27,PurwokertoUtara
 33.03.01,Kemangkon
 33.03.02,Bukateja
 33.03.03,Kejobong
@@ -2688,7 +2688,7 @@ ID,Name
 33.03.17,Karangjambu
 33.03.18,Kertanegara
 33.04.01,Susukan
-33.04.02,Purworeja Klampok
+33.04.02,PurworejaKlampok
 33.04.03,Mandiraja
 33.04.04,Purwanegara
 33.04.05,Bawang
@@ -2830,9 +2830,9 @@ ID,Name
 33.10.21,Kemalang
 33.10.22,Ngawen
 33.10.23,Kalikotes
-33.10.24,Klaten Utara
-33.10.25,Klaten Tengah
-33.10.26,Klaten Selatan
+33.10.24,KlatenUtara
+33.10.25,KlatenTengah
+33.10.26,KlatenSelatan
 33.11.01,Weru
 33.11.02,Bulu
 33.11.03,Tawangsari
@@ -2978,7 +2978,7 @@ ID,Name
 33.18.20,Dukuhseti
 33.18.21,Trangkil
 33.19.01,Kaliwungu
-33.19.02,Kota Kudus
+33.19.02,KotaKudus
 33.19.03,Jati
 33.19.04,Undaan
 33.19.05,Mejobo
@@ -2995,12 +2995,12 @@ ID,Name
 33.20.07,Mlonggo
 33.20.08,Bangsri
 33.20.09,Keling
-33.20.10,Karimun Jawa
+33.20.10,KarimunJawa
 33.20.11,Tahunan
 33.20.12,Nalumsari
 33.20.13,Kalinyamatan
 33.20.14,Kembang
-33.20.15,Pakis Aji
+33.20.15,PakisAji
 33.20.16,Donorojo
 33.21.01,Mranggen
 33.21.02,Karangawen
@@ -3032,8 +3032,8 @@ ID,Name
 33.22.15,Pringapus
 33.22.16,Bancak
 33.22.17,Kaliwungu
-33.22.18,Ungaran Barat
-33.22.19,Ungaran Timur
+33.22.18,UngaranBarat
+33.22.19,UngaranTimur
 33.22.20,Bandungan
 33.23.01,Bulu
 33.23.02,Tembarak
@@ -3074,7 +3074,7 @@ ID,Name
 33.24.17,Kangkung
 33.24.18,Ringinarum
 33.24.19,Ngampel
-33.24.20,Kaliwungu Selatan
+33.24.20,KaliwunguSelatan
 33.25.01,Wonotunggal
 33.25.02,Bandar
 33.25.03,Blado
@@ -3158,41 +3158,41 @@ ID,Name
 33.29.15,Larangan
 33.29.16,Ketanggungan
 33.29.17,Banjarharjo
-33.71.01,Magelang Selatan
-33.71.02,Magelang Utara
-33.71.03,Magelang Tengah
+33.71.01,MagelangSelatan
+33.71.02,MagelangUtara
+33.71.03,MagelangTengah
 33.72.01,Laweyan
 33.72.02,Serengan
-33.72.03,Pasar Kliwon
+33.72.03,PasarKliwon
 33.72.04,Jebres
 33.72.05,Banjarsari
 33.73.01,Sidorejo
 33.73.02,Tingkir
 33.73.03,Argomulyo
 33.73.04,Sidomukti
-33.74.01,Semarang Tengah
-33.74.02,Semarang Utara
-33.74.03,Semarang Timur
+33.74.01,SemarangTengah
+33.74.02,SemarangUtara
+33.74.03,SemarangTimur
 33.74.04,Gayamsari
 33.74.05,Genuk
 33.74.06,Pedurungan
-33.74.07,Semarang Selatan
+33.74.07,SemarangSelatan
 33.74.08,Candisari
 33.74.09,Gajahmungkur
 33.74.10,Tembalang
 33.74.11,Banyumanik
 33.74.12,Gunungpati
-33.74.13,Semarang Barat
+33.74.13,SemarangBarat
 33.74.14,Mijen
 33.74.15,Ngaliyan
 33.74.16,Tugu
-33.75.01,Pekalongan Barat
-33.75.02,Pekalongan Timur
-33.75.03,Pekalongan Utara
-33.75.04,Pekalongan Selatan
-33.76.01,Tegal Barat
-33.76.02,Tegal Timur
-33.76.03,Tegal Selatan
+33.75.01,PekalonganBarat
+33.75.02,PekalonganTimur
+33.75.03,PekalonganUtara
+33.75.04,PekalonganSelatan
+33.76.01,TegalBarat
+33.76.02,TegalTimur
+33.76.03,TegalSelatan
 33.76.04,Margadana
 34.01.01,Temon
 34.01.02,Wates
@@ -3383,13 +3383,13 @@ ID,Name
 35.06.21,Kunjang
 35.06.22,Banyakan
 35.06.23,Ringinrejo
-35.06.24,Kayen Kidul
+35.06.24,KayenKidul
 35.06.25,Ngasem
 35.06.26,Badas
 35.07.01,Donomulyo
 35.07.02,Pagak
 35.07.03,Bantur
-35.07.04,Sumbermanjing Wetan
+35.07.04,SumbermanjingWetan
 35.07.05,Dampit
 35.07.06,Ampelgading
 35.07.07,Poncokusumo
@@ -3408,7 +3408,7 @@ ID,Name
 35.07.20,Ngajum
 35.07.21,Wagir
 35.07.22,Dau
-35.07.23,Karang Ploso
+35.07.23,KarangPloso
 35.07.24,Singosari
 35.07.25,Lawang
 35.07.26,Pujon
@@ -3495,7 +3495,7 @@ ID,Name
 35.10.22,Siliragung
 35.10.23,Tegalsari
 35.10.24,Licin
-35.10.25,Blimbingsari;
+35.10.25,Blimbingsari
 35.11.01,Maesan
 35.11.02,Tamanan
 35.11.03,Tlogosari
@@ -3516,9 +3516,9 @@ ID,Name
 35.11.18,Sumberwringin
 35.11.19,Sempol
 35.11.20,Binakal
-35.11.21,Taman Krocok
+35.11.21,TamanKrocok
 35.11.22,Botolinggo
-35.11.23,Jambesari Darus Sholah
+35.11.23,JambesariDarus Sholah
 35.12.01,Jatibanteng
 35.12.02,Besuki
 35.12.03,Suboh
@@ -3661,7 +3661,7 @@ ID,Name
 35.18.18,Ngluyu
 35.18.19,Lengkong
 35.18.20,Jatikalen
-35.19.01,Kebon Sari
+35.19.01,KebonSari
 35.19.02,Dolopo
 35.19.03,Geger
 35.19.04,Dagangan
@@ -3814,11 +3814,11 @@ ID,Name
 35.26.06,Geger
 35.26.07,Klampis
 35.26.08,Sepulu
-35.26.09,Tanjung Bumi
+35.26.09,TanjungBumi
 35.26.10,Kokop
 35.26.11,Kwanyar
 35.26.12,Labang
-35.26.13,Tanah Merah
+35.26.13,TanahMerah
 35.26.14,Tragah
 35.26.15,Blega
 35.26.16,Modung
@@ -3851,7 +3851,7 @@ ID,Name
 35.28.11,Batumarmar
 35.28.12,Kadur
 35.28.13,Pasean
-35.29.01,Kota Sumenep
+35.29.01,KotaSumenep
 35.29.02,Kalianget
 35.29.03,Manding
 35.29.04,Talango
@@ -3866,7 +3866,7 @@ ID,Name
 35.29.13,Pasongsongan
 35.29.14,Dasuk
 35.29.15,Rubaru
-35.29.16,Batang Batang
+35.29.16,BatangBatang
 35.29.17,Batuputih
 35.29.18,Dungkek
 35.29.19,Gapura
@@ -3896,7 +3896,7 @@ ID,Name
 35.74.05,Kedopok
 35.75.01,Gadingrejo
 35.75.02,Purworejo
-35.75.03,Bugul Kidul
+35.75.03,BugulKidul
 35.75.04,Panggungrejo
 35.76.01,Prajuritkulon
 35.76.02,Magersari
@@ -3915,7 +3915,7 @@ ID,Name
 35.78.09,Sukolilo
 35.78.10,Tambaksari
 35.78.11,Simokerto
-35.78.12,Pabean Cantian
+35.78.12,PabeanCantian
 35.78.13,Bubutan
 35.78.14,Tandes
 35.78.15,Krembangan
@@ -3924,14 +3924,14 @@ ID,Name
 35.78.18,Lakarsantri
 35.78.19,Benowo
 35.78.20,Wiyung
-35.78.21,Dukuh Pakis
+35.78.21,DukuhPakis
 35.78.22,Gayungan
 35.78.23,Jambangan
-35.78.24,Tenggilis Mejoyo
-35.78.25,Gunung Anyar
+35.78.24,TenggilisMejoyo
+35.78.25,GunungAnyar
 35.78.26,Mulyorejo
 35.78.27,Sukomanunggal
-35.78.28,Asem Rowo
+35.78.28,AsemRowo
 35.78.29,Bulak
 35.78.30,Pakal
 35.78.31,Sambikerep
@@ -3962,7 +3962,7 @@ ID,Name
 36.01.22,Cadasari
 36.01.23,Cisata
 36.01.24,Patia
-36.01.25,Karang Tanjung
+36.01.25,KarangTanjung
 36.01.26,Cikedal
 36.01.27,Cibitung
 36.01.28,Carita
@@ -3995,7 +3995,7 @@ ID,Name
 36.02.20,Cilograng
 36.02.21,Wanasalam
 36.02.22,Sobang
-36.02.23,Curug bitung
+36.02.23,Curugbitung
 36.02.24,Kalanganyar
 36.02.25,Lebakgedong
 36.02.26,Cihara
@@ -4012,7 +4012,7 @@ ID,Name
 36.03.09,Kemiri
 36.03.10,Sukadiri
 36.03.11,Rajeg
-36.03.12,Pasar Kemis
+36.03.12,PasarKemis
 36.03.13,Teluknaga
 36.03.14,Kosambi
 36.03.15,Pakuhaji
@@ -4024,16 +4024,16 @@ ID,Name
 36.03.22,Pagedangan
 36.03.23,Cisauk
 36.03.27,Sukamulya
-36.03.28,Kelapa Dua
-36.03.29,Sindang Jaya
-36.03.30,Sepatan Timur
+36.03.28,KelapaDua
+36.03.29,SindangJaya
+36.03.30,SepatanTimur
 36.03.31,Solear
-36.03.32,Gunung Kaler
-36.03.33,Mekar Baru
+36.03.32,GunungKaler
+36.03.33,MekarBaru
 36.04.05,Kramatwatu
 36.04.06,Waringinkurung
 36.04.07,Bojonegara
-36.04.08,Pulo Ampel
+36.04.08,PuloAmpel
 36.04.09,Ciruas
 36.04.11,Kragilan
 36.04.12,Pontang
@@ -4044,7 +4044,7 @@ ID,Name
 36.04.17,Carenang
 36.04.18,Binuang
 36.04.19,Petir
-36.04.20,Tunjung Teja
+36.04.20,TunjungTeja
 36.04.22,Baros
 36.04.23,Cikeusal
 36.04.24,Pamarayan
@@ -4056,9 +4056,9 @@ ID,Name
 36.04.30,Anyar
 36.04.31,Cinangka
 36.04.32,Mancak
-36.04.33,Gunung Sari
+36.04.33,GunungSari
 36.04.34,Bandung
-36.04.35,Lebak Wangi
+36.04.35,LebakWangi
 36.71.01,Tangerang
 36.71.02,Jatiuwung
 36.71.03,Batuceper
@@ -4070,7 +4070,7 @@ ID,Name
 36.71.09,Cibodas
 36.71.10,Neglasari
 36.71.11,Pinang
-36.71.12,Karang Tengah
+36.71.12,KarangTengah
 36.71.13,Larangan
 36.72.01,Cibeber
 36.72.02,Cilegon
@@ -4084,13 +4084,13 @@ ID,Name
 36.73.02,Kasemen
 36.73.03,Walantaka
 36.73.04,Curug
-36.73.05,Cipocok Jaya
+36.73.05,CipocokJaya
 36.73.06,Taktakan
 36.74.01,Serpong
-36.74.02,Serpong Utara
-36.74.03,Pondok Aren
+36.74.02,SerpongUtara
+36.74.03,PondokAren
 36.74.04,Ciputat
-36.74.05,Ciputat Timur
+36.74.05,CiputatTimur
 36.74.06,Pamulang
 36.74.07,Setu
 51.01.01,Negara
@@ -4099,8 +4099,8 @@ ID,Name
 51.01.04,Melaya
 51.01.05,Jembrana
 51.02.01,Selemadeg
-51.02.02,Salamadeg Timur
-51.02.03,Salemadeg Barat
+51.02.02,SalamadegTimur
+51.02.03,SalemadegBarat
 51.02.04,Kerambitan
 51.02.05,Tabanan
 51.02.06,Kediri
@@ -4112,8 +4112,8 @@ ID,Name
 51.03.02,Mengwi
 51.03.03,Abiansemal
 51.03.04,Petang
-51.03.05,Kuta Selatan
-51.03.06,Kuta Utara
+51.03.05,KutaSelatan
+51.03.06,KutaUtara
 51.04.01,Sukawati
 51.04.02,Blahbatuh
 51.04.03,Gianyar
@@ -4121,7 +4121,7 @@ ID,Name
 51.04.05,Ubud
 51.04.06,Tegallalang
 51.04.07,Payangan
-51.05.01,Nusa Penida
+51.05.01,NusaPenida
 51.05.02,Banjarangkan
 51.05.03,Klungkung
 51.05.04,Dawan
@@ -4139,17 +4139,17 @@ ID,Name
 51.07.08,Kubu
 51.08.01,Gerokgak
 51.08.02,Seririt
-51.08.03,Busung biu
+51.08.03,Busungbiu
 51.08.04,Banjar
 51.08.05,Sukasada
 51.08.06,Buleleng
 51.08.07,Sawan
 51.08.08,Kubutambahan
 51.08.09,Tejakula
-51.71.01,Denpasar Selatan
-51.71.02,Denpasar Timur
-51.71.03,Denpasar Barat
-51.71.04,Denpasar Utara
+51.71.01,DenpasarSelatan
+51.71.02,DenpasarTimur
+51.71.03,DenpasarBarat
+51.71.04,DenpasarUtara
 52.01.01,Gerung
 52.01.02,Kediri
 52.01.03,Narmada
@@ -4158,20 +4158,20 @@ ID,Name
 52.01.09,Gunungsari
 52.01.12,Lingsar
 52.01.13,Lembar
-52.01.14,Batu Layar
+52.01.14,BatuLayar
 52.01.15,Kuripan
 52.02.01,Praya
 52.02.02,Jonggat
 52.02.03,Batukliang
 52.02.04,Pujut
-52.02.05,Praya Barat
-52.02.06,Praya Timur
+52.02.05,PrayaBarat
+52.02.06,PrayaTimur
 52.02.07,Janapria
 52.02.08,Pringgarata
 52.02.09,Kopang
-52.02.10,Praya Tengah
-52.02.11,Praya Barat Daya
-52.02.12,Batukliang Utara
+52.02.10,PrayaTengah
+52.02.11,PrayaBarat Daya
+52.02.12,BatukliangUtara
 52.03.01,Keruak
 52.03.02,Sakra
 52.03.03,Terara
@@ -4182,44 +4182,44 @@ ID,Name
 52.03.08,Pringgabaya
 52.03.09,Aikmel
 52.03.10,Sambelia
-52.03.11,Montong Gading
+52.03.11,MontongGading
 52.03.12,Pringgasela
 52.03.13,Suralaga
 52.03.14,Wanasaba
 52.03.15,Sembalun
 52.03.16,Suwela
-52.03.17,Labuhan Haji
-52.03.18,Sakra Timur
-52.03.19,Sakra Barat
+52.03.17,LabuhanHaji
+52.03.18,SakraTimur
+52.03.19,SakraBarat
 52.03.20,Jerowaru
 52.03.21,Lenek
 52.04.02,Lunyuk
 52.04.05,Alas
 52.04.06,Utan
-52.04.07,Batu Lanteh
+52.04.07,BatuLanteh
 52.04.08,Sumbawa
-52.04.09,Moyo Hilir
-52.04.10,Moyo Hulu
+52.04.09,MoyoHilir
+52.04.10,MoyoHulu
 52.04.11,Ropang
 52.04.12,Lape
 52.04.13,Plampang
 52.04.14,Empang
-52.04.17,Alas Barat
-52.04.18,Labuhan Badas
+52.04.17,AlasBarat
+52.04.18,LabuhanBadas
 52.04.19,Labangka
 52.04.20,Buer
 52.04.21,Rhee
-52.04.22,Unter Iwes
-52.04.23,Moyo Utara
+52.04.22,UnterIwes
+52.04.23,MoyoUtara
 52.04.24,Maronge
 52.04.25,Tarano
 52.04.26,Lopok
 52.04.27,Lenangguar
-52.04.28,Orong Telu
+52.04.28,OrongTelu
 52.04.29,Lantung
 52.05.01,Dompu
 52.05.02,Kempo
-52.05.03,Hu\u
+52.05.03,Hugu
 52.05.04,Kilo
 52.05.05,Woja
 52.05.06,Pekat
@@ -4247,9 +4247,9 @@ ID,Name
 52.07.02,Taliwang
 52.07.03,Seteluk
 52.07.04,Sekongkang
-52.07.05,Brang Rea
-52.07.06,Poto Tano
-52.07.07,Brang Ene
+52.07.05,BrangRea
+52.07.06,PotoTano
+52.07.07,BrangEne
 52.07.08,Maluk
 52.08.01,Tanjung
 52.08.02,Gangga
@@ -4262,139 +4262,139 @@ ID,Name
 52.71.04,Sekarbela
 52.71.05,Selaprang
 52.71.06,Sandubaya
-52.72.01,RasanaE Barat
-52.72.02,RasanaE Timur
+52.72.01,RasanaEBarat
+52.72.02,RasanaETimur
 52.72.03,Asakota
 52.72.04,Raba
 52.72.05,Mpunda
 53.01.04,Semau
-53.01.05,Kupang Barat
-53.01.06,Kupang Timur
+53.01.05,KupangBarat
+53.01.06,KupangTimur
 53.01.07,Sulamu
-53.01.08,Kupang Tengah
+53.01.08,KupangTengah
 53.01.09,Amarasi
 53.01.10,Fatuleu
 53.01.11,Takari
-53.01.12,Amfoang Selatan
-53.01.13,Amfoang Utara
+53.01.12,AmfoangSelatan
+53.01.13,AmfoangUtara
 53.01.16,Nekamese
-53.01.17,Amarasi Barat
-53.01.18,Amarasi Selatan
-53.01.19,Amarasi Timur
-53.01.20,Amabi Oefeto Timur
-53.01.21,Amfoang Barat Daya
-53.01.22,Amfoang Barat Laut
-53.01.23,Semau Selatan
+53.01.17,AmarasiBarat
+53.01.18,AmarasiSelatan
+53.01.19,AmarasiTimur
+53.01.20,AmabiOefeto Timur
+53.01.21,AmfoangBarat Daya
+53.01.22,AmfoangBarat Laut
+53.01.23,SemauSelatan
 53.01.24,Taebenu
-53.01.25,Amabi Oefeto
-53.01.26,Amfoang Timur
-53.01.27,Fatuleu Barat
-53.01.28,Fatuleu Tengah
-53.01.30,Amfoang Tengah
-53.02.01,Kota Soe
-53.02.02,Mollo Selatan
-53.02.03,Mollo Utara
-53.02.04,Amanuban Timur
-53.02.05,Amanuban Tengah
-53.02.06,Amanuban Selatan
-53.02.07,Amanuban Barat
-53.02.08,Amanatun Selatan
-53.02.09,Amanatun Utara
-53.02.10,KI\E
+53.01.25,AmabiOefeto
+53.01.26,AmfoangTimur
+53.01.27,FatuleuBarat
+53.01.28,FatuleuTengah
+53.01.30,AmfoangTengah
+53.02.01,KotaSoe
+53.02.02,MolloSelatan
+53.02.03,MolloUtara
+53.02.04,AmanubanTimur
+53.02.05,AmanubanTengah
+53.02.06,AmanubanSelatan
+53.02.07,AmanubanBarat
+53.02.08,AmanatunSelatan
+53.02.09,AmanatunUtara
+53.02.10,KIgE
 53.02.11,Kuanfatu
 53.02.12,Fatumnasi
 53.02.13,Polen
-53.02.14,Batu Putih
+53.02.14,BatuPutih
 53.02.15,Boking
 53.02.16,Toianas
 53.02.17,Nunkolo
 53.02.18,Oenino
 53.02.19,Kolbano
-53.02.20,Kot olin
+53.02.20,Kotolin
 53.02.21,Kualin
-53.02.22,Mollo Barat
-53.02.23,Kok Baun
+53.02.22,MolloBarat
+53.02.23,KokBaun
 53.02.24,Noebana
 53.02.25,Santian
 53.02.26,Noebeba
 53.02.27,Kuatnana
 53.02.28,Fautmolo
 53.02.29,Fatukopa
-53.02.30,Mollo Tengah
+53.02.30,MolloTengah
 53.02.31,Tobu
 53.02.32,Nunbena
-53.03.01,Miomafo Timur
-53.03.02,Miomafo Barat
-53.03.03,Biboki Selatan
+53.03.01,MiomafoTimur
+53.03.02,MiomafoBarat
+53.03.03,BibokiSelatan
 53.03.04,Noemuti
-53.03.05,Kota Kefamenanu
-53.03.06,Biboki Utara
-53.03.07,Biboki Anleu
+53.03.05,KotaKefamenanu
+53.03.06,BibokiUtara
+53.03.07,BibokiAnleu
 53.03.08,Insana
-53.03.09,Insana Utara
-53.03.10,Noemuti Timur
-53.03.11,Miomaffo Tengah
+53.03.09,InsanaUtara
+53.03.10,NoemutiTimur
+53.03.11,MiomaffoTengah
 53.03.12,Musi
 53.03.13,Mutis
-53.03.14,Bikomi Selatan
-53.03.15,Bikomi Tengah
-53.03.16,Bikomi Nilulat
-53.03.17,Bikomi Utara
+53.03.14,BikomiSelatan
+53.03.15,BikomiTengah
+53.03.16,BikomiNilulat
+53.03.17,BikomiUtara
 53.03.18,Naibenu
-53.03.19,Insana Fafinesu
-53.03.20,Insana Barat
-53.03.21,Insana Tengah
-53.03.22,Biboki Tan Pah
-53.03.23,Biboki Moenleu
-53.03.24,Biboki Feotleu
+53.03.19,InsanaFafinesu
+53.03.20,InsanaBarat
+53.03.21,InsanaTengah
+53.03.22,BibokiTan Pah
+53.03.23,BibokiMoenleu
+53.03.24,BibokiFeotleu
 53.04.01,Lamaknen
 53.04.02,TasifetoTimur
 53.04.03,Raihat
-53.04.04,Tasifeto Barat
-53.04.05,Kakuluk Mesak
-53.04.12,Kota Atambua
+53.04.04,TasifetoBarat
+53.04.05,KakulukMesak
+53.04.12,KotaAtambua
 53.04.13,Raimanuk
 53.04.17,Lasiolat
-53.04.18,Lamaknen Selatan
-53.04.21,Atambua Barat
-53.04.22,Atambua Selatan
-53.04.23,Nanaet Duabesi
-53.05.01,Teluk Mutiara
-53.05.02,Alor Barat Laut
-53.05.03,Alor Barat Daya
-53.05.04,Alor Selatan
-53.05.05,Alor Timur
+53.04.18,LamaknenSelatan
+53.04.21,AtambuaBarat
+53.04.22,AtambuaSelatan
+53.04.23,NanaetDuabesi
+53.05.01,TelukMutiara
+53.05.02,AlorBarat Laut
+53.05.03,AlorBarat Daya
+53.05.04,AlorSelatan
+53.05.05,AlorTimur
 53.05.06,Pantar
-53.05.07,Alor Tengah Utara
-53.05.08,Alor Timur Laut
-53.05.09,Pantar Barat
+53.05.07,AlorTengah Utara
+53.05.08,AlorTimur Laut
+53.05.09,PantarBarat
 53.05.10,Kabola
-53.05.11,Pulau Pura
+53.05.11,PulauPura
 53.05.12,Mataru
 53.05.13,Pureman
-53.05.14,Pantar Timur
+53.05.14,PantarTimur
 53.05.15,Lembur
-53.05.16,Pantar Tengah
-53.05.17,Pantar Baru Laut
+53.05.16,PantarTengah
+53.05.17,PantarBaru Laut
 53.06.01,Wulanggitang
 53.06.02,Titehena
 53.06.03,Larantuka
-53.06.04,Ile Mandiri
-53.06.05,Tanjung Bunga
-53.06.06,Solor Barat
-53.06.07,Solor Timur
-53.06.08,Adonara Barat
-53.06.09,Wotan Ulumando
-53.06.10,Adonara Timur
+53.06.04,IleMandiri
+53.06.05,TanjungBunga
+53.06.06,SolorBarat
+53.06.07,SolorTimur
+53.06.08,AdonaraBarat
+53.06.09,WotanUlumando
+53.06.10,AdonaraTimur
 53.06.11,Kelubagolit
 53.06.12,Witihama
-53.06.13,Ile Boleng
-53.06.14,Demon Pagong
+53.06.13,IleBoleng
+53.06.14,DemonPagong
 53.06.15,Lewolema
-53.06.16,Ile Bura
+53.06.16,IleBura
 53.06.17,Adonara
-53.06.18,Adonara Tengah
-53.06.19,Solor Selatan
+53.06.18,AdonaraTengah
+53.06.19,SolorSelatan
 53.07.01,Paga
 53.07.02,Mego
 53.07.03,Lela
@@ -4408,18 +4408,18 @@ ID,Name
 53.07.11,Bola
 53.07.12,Magepanda
 53.07.13,Waiblama
-53.07.14,Alok Barat
-53.07.15,Alok Timur
+53.07.14,AlokBarat
+53.07.15,AlokTimur
 53.07.16,Koting
-53.07.17,Tana Wawo
+53.07.17,TanaWawo
 53.07.18,Hewokloang
 53.07.19,Kangae
 53.07.20,Doreng
 53.07.21,Mapitara
 53.08.01,Nangapanda
-53.08.02,Pulau Ende
+53.08.02,PulauEnde
 53.08.03,Ende
-53.08.04,Ende Selatan
+53.08.04,EndeSelatan
 53.08.05,Ndona
 53.08.06,Detusoko
 53.08.07,Wewaria
@@ -4427,183 +4427,183 @@ ID,Name
 53.08.09,Wolojita
 53.08.10,Maurole
 53.08.11,Maukaro
-53.08.12,Lio Timur
-53.08.13,Kota Baru
+53.08.12,LioTimur
+53.08.13,KotaBaru
 53.08.14,Kelimutu
 53.08.15,Detukeli
-53.08.16,Ndona Timur
+53.08.16,NdonaTimur
 53.08.17,Ndori
-53.08.18,Ende Utara
-53.08.19,Ende Tengah
-53.08.20,Ende Timur
-53.08.21,Lepembusu Kelisoke
+53.08.18,EndeUtara
+53.08.19,EndeTengah
+53.08.20,EndeTimur
+53.08.21,LepembusuKelisoke
 53.09.01,Aimere
-53.09.02,Golewa;
+53.09.02,Golewa
 53.09.06,Bajawa
 53.09.07,Soa
 53.09.09,Riung
 53.09.12,Jerebuu
-53.09.14,Riung Barat
-53.09.15,Bajawa Utara
+53.09.14,RiungBarat
+53.09.15,BajawaUtara
 53.09.16,Wolomeze
-53.09.18,Golewa Selatan
-53.09.19,Golewa Barat
+53.09.18,GolewaSelatan
+53.09.19,GolewaBarat
 53.09.20,Inerie
-53.10.01,Wae Rii
+53.10.01,WaeRii
 53.10.03,Ruteng
-53.10.05,Satar Mese
+53.10.05,SatarMese
 53.10.06,Cibal
 53.10.11,Reok
-53.10.12,Langke Rembong
-53.10.13,Satar Mese Barat
-53.10.14,Rahong Utara
+53.10.12,LangkeRembong
+53.10.13,SatarMese Barat
+53.10.14,RahongUtara
 53.10.15,Lelak
-53.10.16,Reok Barat
-53.10.17,Cibal barat
-53.10.18,Satar Mese Utara
-53.11.01,Kota Waingapu
+53.10.16,ReokBarat
+53.10.17,Cibalbarat
+53.10.18,SatarMese Utara
+53.11.01,KotaWaingapu
 53.11.02,Haharu
 53.11.03,Lewa
-53.11.04,Nggaha Ori Angu
+53.11.04,NggahaOri Angu
 53.11.05,Tabundung
-53.11.06,Pinu Pahar
+53.11.06,PinuPahar
 53.11.07,Pandawai
 53.11.08,Umalulu
 53.11.09,Rindi
-53.11.10,Pahunga Lodu
-53.11.11,Wulla Waijelu
+53.11.10,PahungaLodu
+53.11.11,WullaWaijelu
 53.11.12,Paberiwai
 53.11.13,Karera
-53.11.14,Kahaungu Eti
-53.11.15,Matawai La Pawu
+53.11.14,KahaunguEti
+53.11.15,MatawaiLa Pawu
 53.11.16,Kambera
-53.11.17,Kambata Mapambuhang
-53.11.18,Lewa Tidahu
-53.11.19,Katala Hamu Lingu
+53.11.17,KambataMapambuhang
+53.11.18,LewaTidahu
+53.11.19,KatalaHamu Lingu
 53.11.20,Kanatang
-53.11.21,Ngadu Ngala
+53.11.21,NgaduNgala
 53.11.22,Mahu
-53.12.04,Tana Righu
+53.12.04,TanaRighu
 53.12.10,Loli
 53.12.11,Wanokaka
 53.12.12,Lamboya
-53.12.15,Kota Waikabubak
-53.12.18,Laboya Barat
-53.13.01,Naga Wutung
+53.12.15,KotaWaikabubak
+53.12.18,LaboyaBarat
+53.13.01,NagaWutung
 53.13.02,Atadei
-53.13.03,Ile Ape
+53.13.03,IleApe
 53.13.04,Lebatukan
 53.13.05,Nubatukan
 53.13.06,Omesuri
 53.13.07,Buyasuri
 53.13.08,Wulandoni
-53.13.09,Ile Ape Timur
-53.14.01,Rote Barat Daya
-53.14.02,Rote Barat Laut
+53.13.09,IleApe Timur
+53.14.01,RoteBarat Daya
+53.14.02,RoteBarat Laut
 53.14.03,Lobalain
-53.14.04,Rote Tengah
-53.14.05,Pantai Baru
-53.14.06,Rote Timur
-53.14.07,Rote Barat
-53.14.08,Rote Selatan
-53.14.09,Ndao Nuse
-53.14.10,Landu Leko
-53.15.01,Macang Pacar
+53.14.04,RoteTengah
+53.14.05,PantaiBaru
+53.14.06,RoteTimur
+53.14.07,RoteBarat
+53.14.08,RoteSelatan
+53.14.09,NdaoNuse
+53.14.10,LanduLeko
+53.15.01,MacangPacar
 53.15.02,Kuwus
 53.15.03,Lembor
-53.15.04,Sano Nggoang
+53.15.04,SanoNggoang
 53.15.05,Komodo
 53.15.06,Boleng
 53.15.07,Welak
 53.15.08,Ndoso
-53.15.09,Lembor Selatan
+53.15.09,LemborSelatan
 53.15.10,Mbeliling
 53.15.11,Pacar
-53.15.12,Kuwus Barat
+53.15.12,KuwusBarat
 53.16.01,Aesesa
 53.16.02,Nangaroro
 53.16.03,Boawae
 53.16.04,Mauponggo
 53.16.05,Wolowae
-53.16.06,Keo Tengah
-53.16.07,Aesesa Selatan
-53.17.01,Katiku Tana
-53.17.02,Umbu Ratu Nggay Barat
+53.16.06,KeoTengah
+53.16.07,AesesaSelatan
+53.17.01,KatikuTana
+53.17.02,UmbuRatu Nggay Barat
 53.17.03,Mamboro
-53.17.04,Umbu Ratu Nggay
-53.17.05,Katiku Tana Selatan
+53.17.04,UmbuRatu Nggay
+53.17.05,KatikuTana Selatan
 53.18.01,Loura
-53.18.02,Wewewa Utara
-53.18.03,Wewewa Timur
-53.18.04,Wewewa Barat
-53.18.05,Wewewa Selatan
-53.18.06,Kodi Bangedo
+53.18.02,WewewaUtara
+53.18.03,WewewaTimur
+53.18.04,WewewaBarat
+53.18.05,WewewaSelatan
+53.18.06,KodiBangedo
 53.18.07,Kodi
-53.18.08,Kodi Utara
-53.18.09,Kota Tambolaka
-53.18.10,Wewewa Tengah
-53.18.11,Kodi Balaghar
+53.18.08,KodiUtara
+53.18.09,KotaTambolaka
+53.18.10,WewewaTengah
+53.18.11,KodiBalaghar
 53.19.01,Borong
-53.19.02,Poco Ranaka
-53.19.03,Lamba Leda
-53.19.04,Sambi Rampas
+53.19.02,PocoRanaka
+53.19.03,LambaLeda
+53.19.04,SambiRampas
 53.19.05,Elar
-53.19.06,Kota Komba
-53.19.07,Rana Mese
-53.19.08,Poco Ranaka Timur
-53.19.09,Elar Selatan
-53.20.01,Sabu Barat
-53.20.02,Sabu Tengah
-53.20.03,Sabu Timur
-53.20.04,Sabu Liae
-53.20.05,Hawu Mehara
+53.19.06,KotaKomba
+53.19.07,RanaMese
+53.19.08,PocoRanaka Timur
+53.19.09,ElarSelatan
+53.20.01,SabuBarat
+53.20.02,SabuTengah
+53.20.03,SabuTimur
+53.20.04,SabuLiae
+53.20.05,HawuMehara
 53.20.06,Raijua
-53.21.01,Malaka Tengah
-53.21.02,Malaka Barat
+53.21.01,MalakaTengah
+53.21.02,MalakaBarat
 53.21.03,Wewiku
 53.21.04,Weliman
 53.21.05,Rinhat
-53.21.06,Io Kufeu
+53.21.06,IoKufeu
 53.21.07,Sasitamean
 53.21.08,Laenmanen
-53.21.09,Malaka Timur
-53.21.10,Kobalima Timur
+53.21.09,MalakaTimur
+53.21.10,KobalimaTimur
 53.21.11,Kobalima
-53.21.12,Botin Leobele
+53.21.12,BotinLeobele
 53.71.01,Alak
 53.71.02,Maulafa
-53.71.03,Kelapa Lima
+53.71.03,KelapaLima
 53.71.04,Oebobo
-53.71.05,Kota Raja
-53.71.06,Kota Lama
+53.71.05,KotaRaja
+53.71.06,KotaLama
 61.01.01,Sambas
-61.01.02,Teluk Keramat
+61.01.02,TelukKeramat
 61.01.03,Jawai
 61.01.04,Tebas
 61.01.05,Pemangkat
 61.01.06,Sejangkung
 61.01.07,Selakau
 61.01.08,Paloh
-61.01.09,Sajingan Besar
+61.01.09,SajinganBesar
 61.01.10,Subah
 61.01.11,Galing
 61.01.12,Tekarang
 61.01.13,Semparuk
 61.01.14,Sajad
 61.01.15,Sebawi
-61.01.16,Jawai Selatan
+61.01.16,JawaiSelatan
 61.01.17,Tangaran
 61.01.18,Salatiga
-61.01.19,Selakau Timur
-61.02.01,Mempawah Hilir
+61.01.19,SelakauTimur
+61.02.01,MempawahHilir
 61.02.06,Toho
-61.02.07,Sungai Pinyuh
+61.02.07,SungaiPinyuh
 61.02.08,Siantan
-61.02.12,Sungai Kunyit
+61.02.12,SungaiKunyit
 61.02.15,Segedong
 61.02.16,Anjongan
 61.02.17,Sadaniang
-61.02.18,Mempawah Timur
+61.02.18,MempawahTimur
 61.03.01,Kapuas
 61.03.02,Mukok
 61.03.03,Noyan
@@ -4613,338 +4613,338 @@ ID,Name
 61.03.07,Sekayam
 61.03.08,Kembayan
 61.03.09,Parindu
-61.03.10,Tayan Hulu
-61.03.11,Tayan Hilir
+61.03.10,TayanHulu
+61.03.11,TayanHilir
 61.03.12,Balai
 61.03.13,Toba
 61.03.20,Meliau
 61.03.21,Entikong
-61.04.01,Matan Hilir Utara
+61.04.01,MatanHilir Utara
 61.04.02,Marau
-61.04.03,Manis Mata
+61.04.03,ManisMata
 61.04.04,Kendawangan
 61.04.05,Sandai
-61.04.07,Sungai Laur
-61.04.08,Simpang Hulu
-61.04.11,Nanga Tayap
-61.04.12,Matan Hilir Selatan
-61.04.13,Tumbang Titi
-61.04.14,Jelai Hulu
-61.04.16,Delta Pawan
-61.04.17,Muara Pawan
-61.04.18,Benua Kayong
-61.04.19,Hulu Sungai
-61.04.20,Simpang Dua
-61.04.21,Air Upas
+61.04.07,SungaiLaur
+61.04.08,SimpangHulu
+61.04.11,NangaTayap
+61.04.12,MatanHilir Selatan
+61.04.13,TumbangTiti
+61.04.14,JelaiHulu
+61.04.16,DeltaPawan
+61.04.17,MuaraPawan
+61.04.18,BenuaKayong
+61.04.19,HuluSungai
+61.04.20,SimpangDua
+61.04.21,AirUpas
 61.04.22,Singkup
 61.04.24,Pemahan
-61.04.25,Sungai Melayu Rayak
+61.04.25,SungaiMelayu Rayak
 61.05.01,Sintang
 61.05.02,Tempunak
 61.05.03,Sepauk
-61.05.04,Ketungau Hilir
-61.05.05,Ketungau Tengah
-61.05.06,Ketungau Hulu
+61.05.04,KetungauHilir
+61.05.05,KetungauTengah
+61.05.06,KetungauHulu
 61.05.07,Dedai
-61.05.08,Kayan Hilir
-61.05.09,Kayan Hulu
+61.05.08,KayanHilir
+61.05.09,KayanHulu
 61.05.14,Serawai
 61.05.15,Ambalau
-61.05.19,Kelam Permai
-61.05.20,Sungai Tebelian
-61.05.21,Binjai Hulu
-61.06.01,Putussibau Utara
+61.05.19,KelamPermai
+61.05.20,SungaiTebelian
+61.05.21,BinjaiHulu
+61.06.01,PutussibauUtara
 61.06.02,Bika
-61.06.03,Embaloh Hilir
-61.06.04,Embaloh Hulu
-61.06.05,Bunut Hilir
-61.06.06,Bunut Hulu
+61.06.03,EmbalohHilir
+61.06.04,EmbalohHulu
+61.06.05,BunutHilir
+61.06.06,BunutHulu
 61.06.07,Jongkong
-61.06.08,Hulu Gurung
+61.06.08,HuluGurung
 61.06.09,Selimbau
 61.06.10,Semitau
 61.06.11,Seberuang
-61.06.12,Batang Lupar
+61.06.12,BatangLupar
 61.06.13,Empanang
 61.06.14,Badau
-61.06.15,Silat Hilir
-61.06.16,Silat Hulu
-61.06.17,Putussibau Selatan
+61.06.15,SilatHilir
+61.06.16,SilatHulu
+61.06.17,PutussibauSelatan
 61.06.18,Kalis
-61.06.19,Boyan Tanjung
+61.06.19,BoyanTanjung
 61.06.20,Mentebah
 61.06.21,Pengkadan
 61.06.22,Suhaid
-61.06.23,Puring Kencana
-61.07.01,Sungai Raya
+61.06.23,PuringKencana
+61.07.01,SungaiRaya
 61.07.02,Samalantan
 61.07.03,Ledo
 61.07.04,Bengkayang
 61.07.05,Seluas
-61.07.06,Sanggau Ledo
-61.07.07,Jagoi Babang
+61.07.06,SanggauLedo
+61.07.07,JagoiBabang
 61.07.08,Monterado
 61.07.09,Teriak
-61.07.10,Suti Semarang
+61.07.10,SutiSemarang
 61.07.11,Capkala
 61.07.12,Siding
 61.07.13,Lumar
-61.07.14,Sungai Betung
-61.07.15,Sungai Raya Kepulauan
-61.07.16,Lembah Bawang
-61.07.17,Tujuh Belas
+61.07.14,SungaiBetung
+61.07.15,SungaiRaya Kepulauan
+61.07.16,LembahBawang
+61.07.17,TujuhBelas
 61.08.01,Ngabang
-61.08.02,Mempawah Hulu
+61.08.02,MempawahHulu
 61.08.03,Menjalin
 61.08.04,Mandor
-61.08.05,Air Besar
+61.08.05,AirBesar
 61.08.06,Menyuke
-61.08.07,Sengah Temila
+61.08.07,SengahTemila
 61.08.08,Meranti
-61.08.09,Kuala Behe
+61.08.09,KualaBehe
 61.08.10,Sebangki
 61.08.11,Jelimpo
-61.08.12,Banyuke Hulu
+61.08.12,BanyukeHulu
 61.08.13,Sompak
-61.09.01,Sekadau Hilir
-61.09.02,Sekadau Hulu
-61.09.03,Nanga Taman
-61.09.04,Nanga Mahap
-61.09.05,Belitang Hilir
-61.09.06,Belitang Hulu
+61.09.01,SekadauHilir
+61.09.02,SekadauHulu
+61.09.03,NangaTaman
+61.09.04,NangaMahap
+61.09.05,BelitangHilir
+61.09.06,BelitangHulu
 61.09.07,Belitang
 61.10.01,Belimbing
-61.10.02,Nanga Pinoh
-61.10.03,Ella Hilir
+61.10.02,NangaPinoh
+61.10.03,EllaHilir
 61.10.04,Menukung
 61.10.05,Sayan
-61.10.06,Tanah Pinoh
+61.10.06,TanahPinoh
 61.10.07,Sokan
-61.10.08,Pinoh Utara
-61.10.09,Pinoh Selatan
-61.10.10,Belimbing Hulu
-61.10.11,Tanah Pinoh Barat
+61.10.08,PinohUtara
+61.10.09,PinohSelatan
+61.10.10,BelimbingHulu
+61.10.11,TanahPinoh Barat
 61.11.01,Sukadana
-61.11.02,Simpang Hilir
-61.11.03,Teluk Batang
-61.11.04,Pulau Maya
+61.11.02,SimpangHilir
+61.11.03,TelukBatang
+61.11.04,PulauMaya
 61.11.05,Seponti
-61.11.06,Kepulauan Karimata
-61.12.01,Sungai Raya
-61.12.02,Kuala Mandor B
-61.12.03,Sungai Ambawang
+61.11.06,KepulauanKarimata
+61.12.01,SungaiRaya
+61.12.02,KualaMandor B
+61.12.03,SungaiAmbawang
 61.12.04,Terentang
-61.12.05,Batu Ampar
+61.12.05,BatuAmpar
 61.12.06,Kubu
-61.12.07,Rasau Jaya
-61.12.08,Teluk Pakedai
-61.12.09,Sungai Kakap
-61.71.01,Pontianak Selatan
-61.71.02,Pontianak Timur
-61.71.03,Pontianak Barat
-61.71.04,Pontianak Utara
-61.71.05,Pontianak Kota
-61.71.06,Pontianak Tenggara
-61.72.01,Singkawang Tengah
-61.72.02,Singkawang Barat
-61.72.03,Singkawang Timur
-61.72.04,Singkawang Utara
-61.72.05,Singkawang Selatan
+61.12.07,RasauJaya
+61.12.08,TelukPakedai
+61.12.09,SungaiKakap
+61.71.01,PontianakSelatan
+61.71.02,PontianakTimur
+61.71.03,PontianakBarat
+61.71.04,PontianakUtara
+61.71.05,PontianakKota
+61.71.06,PontianakTenggara
+61.72.01,SingkawangTengah
+61.72.02,SingkawangBarat
+61.72.03,SingkawangTimur
+61.72.04,SingkawangUtara
+61.72.05,SingkawangSelatan
 62.01.01,Kumai
-62.01.02,Arut Selatan
-62.01.03,Kotawaringin Lama
-62.01.04,Arut Utara
-62.01.05,Pangkalan Lada
-62.01.06,Pangkalan Banteng
-62.02.01,Kota Besi
+62.01.02,ArutSelatan
+62.01.03,KotawaringinLama
+62.01.04,ArutUtara
+62.01.05,PangkalanLada
+62.01.06,PangkalanBanteng
+62.02.01,KotaBesi
 62.02.02,Cempaga
-62.02.03,Mentaya Hulu
+62.02.03,MentayaHulu
 62.02.04,Parenggean
 62.02.05,Baamang
-62.02.06,Mentawa Baru Ketapang
-62.02.07,Mentaya Hilir Utara
-62.02.08,Mentaya Hilir Selatan
-62.02.09,Pulau Hanaut
-62.02.10,Antang Kalang
-62.02.11,Teluk Sampit
+62.02.06,MentawaBaru Ketapang
+62.02.07,MentayaHilir Utara
+62.02.08,MentayaHilir Selatan
+62.02.09,PulauHanaut
+62.02.10,AntangKalang
+62.02.11,TelukSampit
 62.02.12,Seranau
-62.02.13,Cempaga Hulu
+62.02.13,CempagaHulu
 62.02.14,Telawang
-62.02.15,Bukit Santuai
-62.02.16,Tualan Hulu
-62.02.17,Telaga Antang
+62.02.15,BukitSantuai
+62.02.16,TualanHulu
+62.02.17,TelagaAntang
 62.03.01,Selat
-62.03.02,Kapuas Hilir
-62.03.03,Kapuas Timur
-62.03.04,Kapuas Kuala
-62.03.05,Kapuas Barat
-62.03.06,Pulau Petak
-62.03.07,Kapuas Murung
+62.03.02,KapuasHilir
+62.03.03,KapuasTimur
+62.03.04,KapuasKuala
+62.03.05,KapuasBarat
+62.03.06,PulauPetak
+62.03.07,KapuasMurung
 62.03.08,Basarang
 62.03.09,Mantangai
 62.03.10,Timpah
-62.03.11,Kapuas Tengah
-62.03.12,Kapuas Hulu
-62.03.13,Tamban Catur
-62.03.14,Pasak Talawang
-62.03.15,Mandau Talawang
+62.03.11,KapuasTengah
+62.03.12,KapuasHulu
+62.03.13,TambanCatur
+62.03.14,PasakTalawang
+62.03.15,MandauTalawang
 62.03.16,Dadahup
 62.03.17,Bataguh
 62.04.01,Jenamas
-62.04.02,Dusun Hilir
-62.04.03,Karau Kuala
-62.04.04,Dusun Utara
-62.04.05,Gn. Bintang Awai
-62.04.06,Dusun Selatan
+62.04.02,DusunHilir
+62.04.03,KarauKuala
+62.04.04,DusunUtara
+62.04.05,Gn.Bintang Awai
+62.04.06,DusunSelatan
 62.05.01,Montallat
-62.05.02,Gunung Timang
-62.05.03,Gunung Purei
-62.05.04,Teweh Timur
-62.05.05,Teweh Tengah
+62.05.02,GunungTimang
+62.05.03,GunungPurei
+62.05.04,TewehTimur
+62.05.05,TewehTengah
 62.05.06,Lahei
-62.05.07,Teweh Baru
-62.05.08,Teweh Selatan
-62.05.09,Lahei Barat
+62.05.07,TewehBaru
+62.05.08,TewehSelatan
+62.05.09,LaheiBarat
 62.06.01,Kamipang
-62.06.02,Katingan Hilir
-62.06.03,Tewang Sangalang Garing
-62.06.04,Pulau Malan
-62.06.05,Katingan Tengah
-62.06.06,Sanaman Mantikei
+62.06.02,KatinganHilir
+62.06.03,TewangSangalang Garing
+62.06.04,PulauMalan
+62.06.05,KatinganTengah
+62.06.06,SanamanMantikei
 62.06.07,Marikit
-62.06.08,Katingan Hulu
+62.06.08,KatinganHulu
 62.06.09,Mendawai
-62.06.10,Katingan Kuala
-62.06.11,Tasik Payawan
-62.06.12,Petak Malai
-62.06.13,Bukit Raya
-62.07.01,Seruyan Hilir
-62.07.02,Seruyan Tengah
-62.07.03,Danau Sembuluh
+62.06.10,KatinganKuala
+62.06.11,TasikPayawan
+62.06.12,PetakMalai
+62.06.13,BukitRaya
+62.07.01,SeruyanHilir
+62.07.02,SeruyanTengah
+62.07.03,DanauSembuluh
 62.07.04,Hanau
-62.07.05,Seruyan Hulu
-62.07.06,Seruyan Hilir Timur
-62.07.07,Seruyan Raya
-62.07.08,Danau Seluluk
-62.07.09,Batu Ampar
-62.07.10,Suling Tambun
+62.07.05,SeruyanHulu
+62.07.06,SeruyanHilir Timur
+62.07.07,SeruyanRaya
+62.07.08,DanauSeluluk
+62.07.09,BatuAmpar
+62.07.10,SulingTambun
 62.08.01,Sukamara
 62.08.02,Jelai
-62.08.03,Balai Riam
-62.08.04,Pantai Lunci
-62.08.05,Permata Kecubung
+62.08.03,BalaiRiam
+62.08.04,PantaiLunci
+62.08.05,PermataKecubung
 62.09.01,Lamandau
 62.09.02,Delang
 62.09.03,Bulik
-62.09.04,Bulik Timur
-62.09.05,Menthobi Raya
-62.09.06,Sematu Jaya
-62.09.07,Belantikan Raya
-62.09.08,Batang Kawa
-62.10.01,Sepang Simin
+62.09.04,BulikTimur
+62.09.05,MenthobiRaya
+62.09.06,SematuJaya
+62.09.07,BelantikanRaya
+62.09.08,BatangKawa
+62.10.01,SepangSimin
 62.10.02,Kurun
 62.10.03,Tewah
-62.10.04,Kahayan Hulu Utara
+62.10.04,KahayanHulu Utara
 62.10.05,Rungan
 62.10.06,Manuhing
-62.10.07,Mihing Raya
-62.10.08,Damang Batu
-62.10.09,Miri Manasa
-62.10.10,Rungan Hulu
-62.10.11,Mahuning Raya
-62.10.12,Rungan Barat
-62.11.01,Pandih Batu
-62.11.02,Kahayan Kuala
-62.11.03,Kahayan Tengah
-62.11.04,Banama Tingang
-62.11.05,Kahayan Hilir
+62.10.07,MihingRaya
+62.10.08,DamangBatu
+62.10.09,MiriManasa
+62.10.10,RunganHulu
+62.10.11,MahuningRaya
+62.10.12,RunganBarat
+62.11.01,PandihBatu
+62.11.02,KahayanKuala
+62.11.03,KahayanTengah
+62.11.04,BanamaTingang
+62.11.05,KahayanHilir
 62.11.06,Maliku
 62.11.07,Jabiren
-62.11.08,Sebangau Kuala
+62.11.08,SebangauKuala
 62.12.01,Murung
-62.12.02,Tanah Siang
-62.12.03,Laung Tuhup
-62.12.04,Permata Intan
-62.12.05,Sumber Barito
-62.12.06,Barito Tuhup Raya
-62.12.07,Tanah Siang Selatan
-62.12.08,Sungai Babuat
-62.12.09,Seribu Riam
-62.12.10,Uut Murung
-62.13.01,Dusun Timur
-62.13.02,Banua Lima
-62.13.03,Patangkep Tutui
+62.12.02,TanahSiang
+62.12.03,LaungTuhup
+62.12.04,PermataIntan
+62.12.05,SumberBarito
+62.12.06,BaritoTuhup Raya
+62.12.07,TanahSiang Selatan
+62.12.08,SungaiBabuat
+62.12.09,SeribuRiam
+62.12.10,UutMurung
+62.13.01,DusunTimur
+62.13.02,BanuaLima
+62.13.03,PatangkepTutui
 62.13.04,Awang
-62.13.05,Dusun Tengah
-62.13.06,Pematang Karau
-62.13.07,Paju Epat
-62.13.08,Raren Batuah
+62.13.05,DusunTengah
+62.13.06,PematangKarau
+62.13.07,PajuEpat
+62.13.08,RarenBatuah
 62.13.09,Paku
-62.13.10,Karusen Janang
+62.13.10,KarusenJanang
 62.71.01,Pahandut
-62.71.02,Bukit Batu
-62.71.03,Jekan Raya
+62.71.02,BukitBatu
+62.71.03,JekanRaya
 62.71.04,Sabangau
 62.71.05,Rakumpit
 63.01.01,Takisung
 63.01.02,Jorong
 63.01.03,Pelaihari
 63.01.04,Kurau
-63.01.05,Bati Bati
+63.01.05,BatiBati
 63.01.06,Panyipatan
 63.01.07,Kintap
-63.01.08,Tambang Ulang
-63.01.09,Batu Ampar
+63.01.08,TambangUlang
+63.01.09,BatuAmpar
 63.01.10,Bajuin
-63.01.11,Bumi Makmur
+63.01.11,BumiMakmur
 63.02.01,Pulausembilan
-63.02.02,Pulaulaut Barat
-63.02.03,Pulaulaut Selatan
-63.02.04,Pulaulaut Timur
+63.02.02,PulaulautBarat
+63.02.03,PulaulautSelatan
+63.02.04,PulaulautTimur
 63.02.05,Pulausebuku
-63.02.06,Pulaulaut Utara
-63.02.07,Kelumpang Selatan
-63.02.08,Kelumpang Hulu
-63.02.09,Kelumpang Tengah
-63.02.10,Kelumpang Utara
-63.02.11,Pamukan Selatan
+63.02.06,PulaulautUtara
+63.02.07,KelumpangSelatan
+63.02.08,KelumpangHulu
+63.02.09,KelumpangTengah
+63.02.10,KelumpangUtara
+63.02.11,PamukanSelatan
 63.02.12,Sampanahan
-63.02.13,Pamukan Utara
+63.02.13,PamukanUtara
 63.02.14,Hampang
 63.02.15,Sungaidurian
-63.02.16,Pulaulaut Tengah
-63.02.17,Kelumpang Hilir
-63.02.18,Kelumpang Barat
-63.02.19,Pamukan Barat
-63.02.20,Pulaulaut Kepulauan
-63.02.21,Pulaulaut Tanjung Selayar
-63.03.01,Aluh Aluh
-63.03.02,Kertak Hanyar
+63.02.16,PulaulautTengah
+63.02.17,KelumpangHilir
+63.02.18,KelumpangBarat
+63.02.19,PamukanBarat
+63.02.20,PulaulautKepulauan
+63.02.21,PulaulautTanjung Selayar
+63.03.01,AluhAluh
+63.03.02,KertakHanyar
 63.03.03,Gambut
-63.03.04,Sungai Tabuk
+63.03.04,SungaiTabuk
 63.03.05,Martapura
-63.03.06,Karang Intan
+63.03.06,KarangIntan
 63.03.07,Astambul
-63.03.08,Simpang Empat
+63.03.08,SimpangEmpat
 63.03.09,Pengarom
-63.03.10,Sungai Pinang
+63.03.10,SungaiPinang
 63.03.11,Aranio
 63.03.12,Mataraman
-63.03.13,Beruntung Baru
-63.03.14,Martapura Barat
-63.03.15,Martapura Timur
-63.03.16,Sambung Makmur
+63.03.13,BeruntungBaru
+63.03.14,MartapuraBarat
+63.03.15,MartapuraTimur
+63.03.16,SambungMakmur
 63.03.17,Paramasan
-63.03.18,Telaga Bauntung
-63.03.19,Tatah Makmur
-63.03.20,Cintapuri Darussalam
+63.03.18,TelagaBauntung
+63.03.19,TatahMakmur
+63.03.20,CintapuriDarussalam
 63.04.01,Tabunganen
 63.04.02,Tamban
-63.04.03,Anjir Pasar
-63.04.04,Anjir Muara
+63.04.03,AnjirPasar
+63.04.04,AnjirMuara
 63.04.05,Alalak
 63.04.06,Mandastana
-63.04.07,Rantau Badauh
+63.04.07,RantauBadauh
 63.04.08,Belawang
 63.04.09,Cerbon
 63.04.10,Bakumpai
@@ -4956,150 +4956,150 @@ ID,Name
 63.04.16,Wanaraya
 63.04.17,Jejangkit
 63.05.01,Binuang
-63.05.02,Tapin Selatan
-63.05.03,Tapin Tengah
-63.05.04,Tapin Utara
-63.05.05,Candi Laras Selatan
-63.05.06,Candi Laras Utara
+63.05.02,TapinSelatan
+63.05.03,TapinTengah
+63.05.04,TapinUtara
+63.05.05,CandiLaras Selatan
+63.05.06,CandiLaras Utara
 63.05.07,Bakarangan
 63.05.08,Piani
 63.05.09,Bungur
 63.05.10,Lokpaikat
-63.05.11,Salam Babaris
+63.05.11,SalamBabaris
 63.05.12,Hatungun
-63.06.01,Sungai Raya
-63.06.02,Padang Batung
-63.06.03,Telaga Langsat
+63.06.01,SungaiRaya
+63.06.02,PadangBatung
+63.06.03,TelagaLangsat
 63.06.04,Angkinang
 63.06.05,Kandangan
 63.06.06,Simpur
-63.06.07,Daha Selatan
-63.06.08,Daha Utara
+63.06.07,DahaSelatan
+63.06.08,DahaUtara
 63.06.09,Kalumpang
 63.06.10,Loksado
-63.06.11,Daha Barat
+63.06.11,DahaBarat
 63.07.01,Haruyan
-63.07.02,Batu Benawa
-63.07.03,Labuan Amas Selatan
-63.07.04,Labuan Amas Utara
+63.07.02,BatuBenawa
+63.07.03,LabuanAmas Selatan
+63.07.04,LabuanAmas Utara
 63.07.05,Pandawan
 63.07.06,Barabai
-63.07.07,Batang Alai Selatan
-63.07.08,Batang Alai Utara
+63.07.07,BatangAlai Selatan
+63.07.08,BatangAlai Utara
 63.07.09,Hantakan
-63.07.10,Batang Alai Timur
+63.07.10,BatangAlai Timur
 63.07.11,Limpasu
-63.08.01,Danau Panggang
+63.08.01,DanauPanggang
 63.08.02,Babirik
-63.08.03,Sungai Pandan
-63.08.04,Amuntai Selatan
-63.08.05,Amuntai Tengah
-63.08.06,Amuntai Utara
+63.08.03,SungaiPandan
+63.08.04,AmuntaiSelatan
+63.08.05,AmuntaiTengah
+63.08.06,AmuntaiUtara
 63.08.07,Banjang
-63.08.08,Haur Gading
+63.08.08,HaurGading
 63.08.09,Paminggir
-63.08.10,Sungai Tabukan
-63.09.01,Banua Lawas
+63.08.10,SungaiTabukan
+63.09.01,BanuaLawas
 63.09.02,Kelua
 63.09.03,Tanta
 63.09.04,Tanjung
 63.09.05,Haruai
-63.09.06,Murung Pudak
-63.09.07,Muara Uya
-63.09.08,Muara Harus
+63.09.06,MurungPudak
+63.09.07,MuaraUya
+63.09.08,MuaraHarus
 63.09.09,Pugaan
 63.09.10,Upau
 63.09.11,Jaro
-63.09.12,Bintang Ara
-63.10.01,Batu Licin
-63.10.02,Kusan Hilir
-63.10.03,Sungai Loban
+63.09.12,BintangAra
+63.10.01,BatuLicin
+63.10.02,KusanHilir
+63.10.03,SungaiLoban
 63.10.04,Satui
-63.10.05,Kusan Hulu
-63.10.06,Simpang Empat
-63.10.07,Karang Bintang
+63.10.05,KusanHulu
+63.10.06,SimpangEmpat
+63.10.07,KarangBintang
 63.10.08,Mantewe
 63.10.09,Angsana
 63.10.10,Kuranji
 63.11.01,Juai
 63.11.02,Halong
 63.11.03,Awayan
-63.11.04,Batu Mandi
+63.11.04,BatuMandi
 63.11.05,Lampihong
 63.11.06,Paringin
-63.11.07,Paringin Selatan
-63.11.08,Tebing Tinggi
-63.71.01,Banjarmasin Selatan
-63.71.02,Banjarmasin Timur
-63.71.03,Banjarmasin Barat
-63.71.04,Banjarmasin Utara
-63.71.05,Banjarmasin Tengah
-63.72.02,Landasan Ulin
+63.11.07,ParinginSelatan
+63.11.08,TebingTinggi
+63.71.01,BanjarmasinSelatan
+63.71.02,BanjarmasinTimur
+63.71.03,BanjarmasinBarat
+63.71.04,BanjarmasinUtara
+63.71.05,BanjarmasinTengah
+63.72.02,LandasanUlin
 63.72.03,Cempaka
-63.72.04,Banjarbaru Utara
-63.72.05,Banjarbaru Selatan;
-63.72.06,Liang Anggang
-64.01.01,Batu Sopang
-64.01.02,Tanjung Harapan
-64.01.03,Paser Belengkong
-64.01.04,Tanah Grogot
+63.72.04,BanjarbaruUtara
+63.72.05,BanjarbaruSelatan
+63.72.06,LiangAnggang
+64.01.01,BatuSopang
+64.01.02,TanjungHarapan
+64.01.03,PaserBelengkong
+64.01.04,TanahGrogot
 64.01.05,Kuaro
-64.01.06,Long Ikis
-64.01.07,Muara Komam
-64.01.08,Long Kali
-64.01.09,Batu Engau
-64.01.10,Muara Samu
-64.02.01,Muara Muntai
-64.02.02,Loa Kulu
-64.02.03,Loa Janan
+64.01.06,LongIkis
+64.01.07,MuaraKomam
+64.01.08,LongKali
+64.01.09,BatuEngau
+64.01.10,MuaraSamu
+64.02.01,MuaraMuntai
+64.02.02,LoaKulu
+64.02.03,LoaJanan
 64.02.04,Anggana
-64.02.05,Muara Badak
+64.02.05,MuaraBadak
 64.02.06,Tenggarong
 64.02.07,Sebulu
-64.02.08,Kota Bangun
+64.02.08,KotaBangun
 64.02.09,Kenohan
-64.02.10,Kembang Janggut
-64.02.11,Muara Kaman
+64.02.10,KembangJanggut
+64.02.11,MuaraKaman
 64.02.12,Tabang
 64.02.13,Samboja
-64.02.14,Muara Jawa
-64.02.15,Sanga Sanga
-64.02.16,Tenggarong Seberang
-64.02.17,Marang Kayu
-64.02.18,Muara Wis
+64.02.14,MuaraJawa
+64.02.15,SangaSanga
+64.02.16,TenggarongSeberang
+64.02.17,MarangKayu
+64.02.18,MuaraWis
 64.03.01,Kelay
 64.03.02,Talisayan
 64.03.03,Sambaliung
 64.03.04,Segah
-64.03.05,Tanjung Redeb
-64.03.06,Gunung Tabur
-64.03.07,Pulau Derawan
+64.03.05,TanjungRedeb
+64.03.06,GunungTabur
+64.03.07,PulauDerawan
 64.03.08,Biduk-Biduk
-64.03.09,Teluk Bayur
+64.03.09,TelukBayur
 64.03.10,Tabalar
 64.03.11,Maratua
-64.03.12,Batu Putih
+64.03.12,BatuPutih
 64.03.13,Biatan
-64.07.05,Long Iram
+64.07.05,LongIram
 64.07.06,Melak
-64.07.07,Barong Tongkok
+64.07.07,BarongTongkok
 64.07.08,Damai
-64.07.09,Muara Lawa
-64.07.10,Muara Pahu
+64.07.09,MuaraLawa
+64.07.10,MuaraPahu
 64.07.11,Jempang
 64.07.12,Bongan
 64.07.13,Penyinggahan
-64.07.14,Bentian Besar
-64.07.15,Linggang Bigung
+64.07.14,BentianBesar
+64.07.15,LinggangBigung
 64.07.16,Nyuatan
-64.07.17,Siluq Ngurai
-64.07.18,Mook Manaar Bulatn
+64.07.17,SiluqNgurai
+64.07.18,MookManaar Bulatn
 64.07.19,Tering
-64.07.20,Sekolaq Darat
-64.08.01,Muara Ancalong
-64.08.02,Muara Wahau
-64.08.03,Muara Bengkal
-64.08.04,Sangatta Utara
+64.07.20,SekolaqDarat
+64.08.01,MuaraAncalong
+64.08.02,MuaraWahau
+64.08.03,MuaraBengkal
+64.08.04,SangattaUtara
 64.08.05,Sangkulirang
 64.08.06,Busang
 64.08.07,Telen
@@ -5107,149 +5107,149 @@ ID,Name
 64.08.09,Bengalon
 64.08.10,Kaliorang
 64.08.11,Sandaran
-64.08.12,Sangatta Selatan
-64.08.13,Teluk Pandan
-64.08.14,Rantau Pulung
+64.08.12,SangattaSelatan
+64.08.13,TelukPandan
+64.08.14,RantauPulung
 64.08.15,Kaubun
 64.08.16,Karangan
-64.08.17,Batu Ampar
-64.08.18,Long Mesangat
+64.08.17,BatuAmpar
+64.08.18,LongMesangat
 64.09.01,Penajam
 64.09.02,Waru
 64.09.03,Babulu
 64.09.04,Sepaku
-64.11.01,Long Bagun
-64.11.02,Long Hubung
+64.11.01,LongBagun
+64.11.02,LongHubung
 64.11.03,Laham
-64.11.04,Long Apari
-64.11.05,Long Pahangai
-64.71.01,Balikpapan Timur
-64.71.02,Balikpapan Barat
-64.71.03,Balikpapan Utara
-64.71.04,Balikpapan Tengah
-64.71.05,Balikpapan Selatan
-64.71.06,Balikpapan Kota
+64.11.04,LongApari
+64.11.05,LongPahangai
+64.71.01,BalikpapanTimur
+64.71.02,BalikpapanBarat
+64.71.03,BalikpapanUtara
+64.71.04,BalikpapanTengah
+64.71.05,BalikpapanSelatan
+64.71.06,BalikpapanKota
 64.72.01,Palaran
-64.72.02,Samarinda Seberang
-64.72.03,Samarinda Ulu
-64.72.04,Samarinda Ilir
-64.72.05,Samarinda Utara
-64.72.06,Sungai Kunjang
+64.72.02,SamarindaSeberang
+64.72.03,SamarindaUlu
+64.72.04,SamarindaIlir
+64.72.05,SamarindaUtara
+64.72.06,SungaiKunjang
 64.72.07,Sambutan
-64.72.08,Sungai Pinang
-64.72.09,Samarinda Kota
-64.72.10,Loa Janan Ilir
-64.74.01,Bontang Utara
-64.74.02,Bontang Selatan
-64.74.03,Bontang Barat
-65.01.01,Tanjung Palas
-65.01.02,Tanjung Palas Barat
-65.01.03,Tanjung Palas Utara
-65.01.04,Tanjung Palas Timur
-65.01.05,Tanjung Selor
-65.01.06,Tanjung Palas Tengah
+64.72.08,SungaiPinang
+64.72.09,SamarindaKota
+64.72.10,LoaJanan Ilir
+64.74.01,BontangUtara
+64.74.02,BontangSelatan
+64.74.03,BontangBarat
+65.01.01,TanjungPalas
+65.01.02,TanjungPalas Barat
+65.01.03,TanjungPalas Utara
+65.01.04,TanjungPalas Timur
+65.01.05,TanjungSelor
+65.01.06,TanjungPalas Tengah
 65.01.07,Peso
-65.01.08,Peso Hilir
+65.01.08,PesoHilir
 65.01.09,Sekatak
 65.01.10,Bunyu
 65.02.01,Mentarang
-65.02.02,Malinau Kota
+65.02.02,MalinauKota
 65.02.03,Pujungan
-65.02.04,Kayan Hilir
-65.02.05,Kayan Hulu
-65.02.06,Malinau Selatan
-65.02.07,Malinau Utara
-65.02.08,Malinau Barat
-65.02.09,Sungai Boh
-65.02.10,Kayan Selatan
-65.02.11,Bahau Hulu
-65.02.12,Mentarang Hulu
-65.02.13,Malinau Selatan Hilir
-65.02.14,Malinau Selatan Hulu
-65.02.15,Sungai Tubu
+65.02.04,KayanHilir
+65.02.05,KayanHulu
+65.02.06,MalinauSelatan
+65.02.07,MalinauUtara
+65.02.08,MalinauBarat
+65.02.09,SungaiBoh
+65.02.10,KayanSelatan
+65.02.11,BahauHulu
+65.02.12,MentarangHulu
+65.02.13,MalinauSelatan Hilir
+65.02.14,MalinauSelatan Hulu
+65.02.15,SungaiTubu
 65.03.01,Sebatik
 65.03.02,Nunukan
 65.03.03,Sembakung
 65.03.04,Lumbis
 65.03.05,Krayan
 65.03.06,Sebuku
-65.03.07,Krayan Selatan
-65.03.08,Sebatik Barat
-65.03.09,Nunukan Selatan
-65.03.10,Sebatik Timur
-65.03.11,Sebatik Utara
-65.03.12,Sebatik Tengah
-65.03.13,Sei Menggaris
-65.03.14,Tulin Onsoi
-65.03.15,Lumbis Ogong
-65.03.16,Sembakung Atulai
-65.03.17,Krayan Tengah
-65.03.18,Krayan Timur
-65.03.19,Krayan Barat
+65.03.07,KrayanSelatan
+65.03.08,SebatikBarat
+65.03.09,NunukanSelatan
+65.03.10,SebatikTimur
+65.03.11,SebatikUtara
+65.03.12,SebatikTengah
+65.03.13,SeiMenggaris
+65.03.14,TulinOnsoi
+65.03.15,LumbisOgong
+65.03.16,SembakungAtulai
+65.03.17,KrayanTengah
+65.03.18,KrayanTimur
+65.03.19,KrayanBarat
 65.04.01,Sesayap
-65.04.02,Sesayap Hilir
-65.04.03,Tana Lia
+65.04.02,SesayapHilir
+65.04.03,TanaLia
 65.04.04,Betayau
-65.04.05,Muruk Rian
-65.71.01,Tarakan Barat
-65.71.02,Tarakan Tengah
-65.71.03,Tarakan Timur
-65.71.04,Tarakan Utara
-71.01.05,Sang Tombolang
-71.01.09,Dumoga Barat
-71.01.10,Dumoga Timur
-71.01.11,Dumoga Utara
+65.04.05,MurukRian
+65.71.01,TarakanBarat
+65.71.02,TarakanTengah
+65.71.03,TarakanTimur
+65.71.04,TarakanUtara
+71.01.05,SangTombolang
+71.01.09,DumogaBarat
+71.01.10,DumogaTimur
+71.01.11,DumogaUtara
 71.01.12,Lolak
 71.01.13,Bolaang
 71.01.14,Lolayan
-71.01.19,Passi Barat
+71.01.19,PassiBarat
 71.01.20,Poigar
-71.01.22,Passi Timur
-71.01.31,Bolaang Timur
+71.01.22,PassiTimur
+71.01.31,BolaangTimur
 71.01.32,Bilalang
 71.01.33,Dumoga
-71.01.34,Dumoga Tenggara
-71.01.35,Dumoga Tengah
-71.02.01,Tondano Barat
-71.02.02,Tondano Timur
+71.01.34,DumogaTenggara
+71.01.35,DumogaTengah
+71.02.01,TondanoBarat
+71.02.02,TondanoTimur
 71.02.03,Eris
 71.02.04,Kombi
-71.02.05,Lembean Timur
+71.02.05,LembeanTimur
 71.02.06,Kakas
 71.02.07,Tompaso
 71.02.08,Remboken
-71.02.09,Langowan Timur
-71.02.10,Langowan Barat
+71.02.09,LangowanTimur
+71.02.10,LangowanBarat
 71.02.11,Sonder
 71.02.12,Kawangkoan
 71.02.13,Pineleng
 71.02.14,Tombulu
 71.02.15,Tombariri
-71.02.16,Tondano Utara
-71.02.17,Langowan Selatan
-71.02.18,Tondano Selatan
-71.02.19,Langowan Utara
-71.02.20,Kakas Barat
-71.02.21,Kawangkoan Utara
-71.02.22,Kawangkoan Barat
+71.02.16,TondanoUtara
+71.02.17,LangowanSelatan
+71.02.18,TondanoSelatan
+71.02.19,LangowanUtara
+71.02.20,KakasBarat
+71.02.21,KawangkoanUtara
+71.02.22,KawangkoanBarat
 71.02.23,Mandolang
-71.02.24,Tombariri Timur
-71.02.25,Tompaso Barat
-71.03.08,Tabukan Utara
-71.03.09,Nusa Tabukan
-71.03.10,Manganitu Selatan
+71.02.24,TombaririTimur
+71.02.25,TompasoBarat
+71.03.08,TabukanUtara
+71.03.09,NusaTabukan
+71.03.10,ManganituSelatan
 71.03.11,Tatoareng
 71.03.12,Tamako
 71.03.13,Manganitu
-71.03.14,Tabukan Tengah
-71.03.15,Tabukan Selatan
+71.03.14,TabukanTengah
+71.03.15,TabukanSelatan
 71.03.16,Kendahe
 71.03.17,Tahuna
-71.03.19,Tabukan Selatan Tengah
-71.03.20,Tabukan Selatan Tenggara
-71.03.23,Tahuna Barat
-71.03.24,Tahuna Timur
-71.03.25,Kepulauan Marore
+71.03.19,TabukanSelatan Tengah
+71.03.20,TabukanSelatan Tenggara
+71.03.23,TahunaBarat
+71.03.24,TahunaTimur
+71.03.25,KepulauanMarore
 71.04.01,Lirung
 71.04.02,Beo
 71.04.03,Rainis
@@ -5259,18 +5259,18 @@ ID,Name
 71.04.07,Melonguane
 71.04.08,Gemeh
 71.04.09,Damau
-71.04.10,Tampan\ Amma
+71.04.10,TampangAmma
 71.04.11,Salibabu
 71.04.12,Kalongan
 71.04.13,Miangas
-71.04.14,Beo Utara
+71.04.14,BeoUtara
 71.04.15,Pulutan
-71.04.16,Melonguane Timur
+71.04.16,MelonguaneTimur
 71.04.17,Moronge
-71.04.18,Beo Selatan
-71.04.19,Essang Selatan
+71.04.18,BeoSelatan
+71.04.19,EssangSelatan
 71.05.01,Modoinding
-71.05.02,Tompaso Baru
+71.05.02,TompasoBaru
 71.05.03,Ranoyapo
 71.05.07,Motoling
 71.05.08,Sinonsayang
@@ -5280,62 +5280,62 @@ ID,Name
 71.05.13,Tareran
 71.05.15,Kumelembuai
 71.05.16,Maesaan
-71.05.17,Amurang Barat
-71.05.18,Amurang Timur
+71.05.17,AmurangBarat
+71.05.18,AmurangTimur
 71.05.19,Tatapaan
-71.05.21,Motoling Barat
-71.05.22,Motoling Timur
-71.05.23,Suluun Tareran
+71.05.21,MotolingBarat
+71.05.22,MotolingTimur
+71.05.23,SuluunTareran
 71.06.01,Kema
 71.06.02,Kauditan
 71.06.03,Airmadidi
 71.06.04,Wori
 71.06.05,Dimembe
-71.06.06,Likupang Barat
-71.06.07,Likupang Timur
+71.06.06,LikupangBarat
+71.06.07,LikupangTimur
 71.06.08,Kalawat
 71.06.09,Talawaan
-71.06.10,Likupang Selatan
+71.06.10,LikupangSelatan
 71.07.01,Ratahan
 71.07.02,Pusomaen
 71.07.03,Belang
 71.07.04,Ratatotok
 71.07.05,Tombatu
 71.07.06,Touluaan
-71.07.07,Touluaan Selatan
-71.07.08,Silian Raya
-71.07.09,Tombatu Timur
-71.07.10,Tombatu Utara
+71.07.07,TouluaanSelatan
+71.07.08,SilianRaya
+71.07.09,TombatuTimur
+71.07.10,TombatuUtara
 71.07.11,Pasan
-71.07.12,Ratahan Timur
+71.07.12,RatahanTimur
 71.08.01,Sangkub
 71.08.02,Bintauna
-71.08.03,Bolangitang Timur
-71.08.04,Bolangitang Barat
+71.08.03,BolangitangTimur
+71.08.04,BolangitangBarat
 71.08.05,Kaidipang
 71.08.06,Pinogaluman
-71.09.01,Siau Timur
-71.09.02,Siau Barat
+71.09.01,SiauTimur
+71.09.02,SiauBarat
 71.09.03,Tagulandang
-71.09.04,Siau Timur Selatan
-71.09.05,Siau Barat Selatan
-71.09.06,Tagulandang Utara
+71.09.04,SiauTimur Selatan
+71.09.05,SiauBarat Selatan
+71.09.06,TagulandangUtara
 71.09.07,Biaro
-71.09.08,Siau Barat Utara
-71.09.09,Siau Tengah
-71.09.10,Tagulandang Selatan
+71.09.08,SiauBarat Utara
+71.09.09,SiauTengah
+71.09.10,TagulandangSelatan
 71.10.01,Tutuyan
 71.10.02,Kotabunan
 71.10.03,Nuangan
 71.10.04,Modayag
-71.10.05,Modayag Barat
+71.10.05,ModayagBarat
 71.10.06,Motongkad
 71.10.07,Mooat
-71.11.01,Bolaang Uki
+71.11.01,BolaangUki
 71.11.02,Posigadan
 71.11.03,Pinolosian
-71.11.04,Pinolosian Tengah
-71.11.05,Pinolosian Timur
+71.11.04,PinolosianTengah
+71.11.05,PinolosianTimur
 71.11.06,Helumo
 71.11.07,Tomini
 71.71.01,Bunaken
@@ -5347,25 +5347,25 @@ ID,Name
 71.71.07,Wanea
 71.71.08,Mapanget
 71.71.09,Malalayang
-71.71.10,Bunaken Kepulauan
-71.71.11,Paal Dua
-71.72.01,Lembeh Selatan
+71.71.10,BunakenKepulauan
+71.71.11,PaalDua
+71.72.01,LembehSelatan
 71.72.02,Madidir
 71.72.03,Ranowulu
 71.72.04,Aertembaga
 71.72.05,Matuari
 71.72.06,Girian
 71.72.07,Maesa
-71.72.08,Lembeh Utara
-71.73.01,Tomohon Selatan
-71.73.02,Tomohon Tengah
-71.73.03,Tomohon Utara
-71.73.04,Tomohon Barat
-71.73.05,Tomohon Timur
-71.74.01,Kotamobagu Utara
-71.74.02,Kotamobagu Timur
-71.74.03,Kotamobagu Selatan
-71.74.04,Kotamobagu Barat
+71.72.08,LembehUtara
+71.73.01,TomohonSelatan
+71.73.02,TomohonTengah
+71.73.03,TomohonUtara
+71.73.04,TomohonBarat
+71.73.05,TomohonTimur
+71.74.01,KotamobaguUtara
+71.74.02,KotamobaguTimur
+71.74.03,KotamobaguSelatan
+71.74.04,KotamobaguBarat
 72.01.01,Batui
 72.01.02,Bunta
 72.01.03,Kintom
@@ -5376,39 +5376,39 @@ ID,Name
 72.01.08,Bualemo
 72.01.09,Toili
 72.01.10,Masama
-72.01.11,Luwuk Timur
-72.01.12,Toili Barat
+72.01.11,LuwukTimur
+72.01.12,ToiliBarat
 72.01.13,Nuhon
 72.01.14,Moilong
-72.01.15,Batui Selatan
+72.01.15,BatuiSelatan
 72.01.16,Lobu
-72.01.17,Simpang Raya
-72.01.18,Balantak Selatan
-72.01.19,Balantak Utara
-72.01.20,Luwuk Selatan
-72.01.21,Luwuk Utara
+72.01.17,SimpangRaya
+72.01.18,BalantakSelatan
+72.01.19,BalantakUtara
+72.01.20,LuwukSelatan
+72.01.21,LuwukUtara
 72.01.22,Mantoh
 72.01.23,Nambo
-72.02.01,Poso Kota
-72.02.02,Poso Pesisir
+72.02.01,PosoKota
+72.02.02,PosoPesisir
 72.02.03,Lage
-72.02.04,Pamona Puselemba
-72.02.05,Pamona Timur
-72.02.06,Pamona Selatan
-72.02.07,Lore Utara
-72.02.08,Lore Tengah
-72.02.09,Lore Selatan
-72.02.18,Poso Pesisir Utara
-72.02.19,Poso Pesisir Selatan
-72.02.20,Pamona Barat
-72.02.21,Poso Kota Selatan
-72.02.22,Poso Kota Utara
-72.02.23,Lore Barat
-72.02.24,Lore Timur
-72.02.25,Lore Piore
-72.02.26,Pamona Tenggara
-72.02.27,Pamona Utara
-72.03.04,Rio Pakava
+72.02.04,PamonaPuselemba
+72.02.05,PamonaTimur
+72.02.06,PamonaSelatan
+72.02.07,LoreUtara
+72.02.08,LoreTengah
+72.02.09,LoreSelatan
+72.02.18,PosoPesisir Utara
+72.02.19,PosoPesisir Selatan
+72.02.20,PamonaBarat
+72.02.21,PosoKota Selatan
+72.02.22,PosoKota Utara
+72.02.23,LoreBarat
+72.02.24,LoreTimur
+72.02.25,LorePiore
+72.02.26,PamonaTenggara
+72.02.27,PamonaUtara
+72.03.04,RioPakava
 72.03.06,Dampelas
 72.03.08,Banawa
 72.03.09,Labuan
@@ -5416,24 +5416,24 @@ ID,Name
 72.03.11,Sirenja
 72.03.12,Balaesang
 72.03.14,Sojol
-72.03.18,Banawa Selatan
+72.03.18,BanawaSelatan
 72.03.19,Tanantovea
 72.03.21,Pinembani
-72.03.24,Sindue Tombusabora
-72.03.25,Sindue Tobata
-72.03.27,Banawa Tengah
-72.03.30,Sojol Utara
-72.03.31,Balaesang Tanjung
-72.04.01,Dampal Selatan
-72.04.02,Dampal Utara
+72.03.24,SindueTombusabora
+72.03.25,SindueTobata
+72.03.27,BanawaTengah
+72.03.30,SojolUtara
+72.03.31,BalaesangTanjung
+72.04.01,DampalSelatan
+72.04.02,DampalUtara
 72.04.03,Dondo
 72.04.04,Basidondo
 72.04.05,Ogodeide
 72.04.06,Lampasio
 72.04.07,Baolan
 72.04.08,Galang
-72.04.09,Toli-Toli Utara
-72.04.10,Dako Pemean
+72.04.09,Toli-ToliUtara
+72.04.10,DakoPemean
 72.05.01,Momunu
 72.05.02,Lakea
 72.05.03,Bokat
@@ -5444,99 +5444,99 @@ ID,Name
 72.05.08,Bukal
 72.05.09,Gadung
 72.05.10,Karamat
-72.05.11,Paleleh Barat
-72.06.05,Bungku Tengah
-72.06.06,Bungku Selatan
-72.06.07,Menui Kepulauan
-72.06.08,Bungku Barat
-72.06.09,Bumi Raya
+72.05.11,PalelehBarat
+72.06.05,BungkuTengah
+72.06.06,BungkuSelatan
+72.06.07,MenuiKepulauan
+72.06.08,BungkuBarat
+72.06.09,BumiRaya
 72.06.10,Bahodopi
-72.06.12,Wita Ponda
-72.06.15,Bungku Pesisir
-72.06.18,Bungku Timur
+72.06.12,WitaPonda
+72.06.15,BungkuPesisir
+72.06.18,BungkuTimur
 72.07.03,Totikum
 72.07.04,Tinangkung
 72.07.05,Liang
 72.07.06,Bulagi
 72.07.07,Buko
-72.07.09,Bulagi Selatan
-72.07.11,Tinangkung Selatan
-72.07.15,Totikum Selatan
-72.07.16,Peling Tengah
-72.07.17,Bulagi Utara
-72.07.18,Buko Selatan
-72.07.19,Tinangkung Utara
+72.07.09,BulagiSelatan
+72.07.11,TinangkungSelatan
+72.07.15,TotikumSelatan
+72.07.16,PelingTengah
+72.07.17,BulagiUtara
+72.07.18,BukoSelatan
+72.07.19,TinangkungUtara
 72.08.01,Parigi
 72.08.02,Ampibabo
 72.08.03,Tinombo
 72.08.04,Moutong
 72.08.05,Tomini
 72.08.06,Sausu
-72.08.07,Bolano Lambunu
+72.08.07,BolanoLambunu
 72.08.08,Kasimbar
 72.08.09,Torue
-72.08.10,Tinombo Selatan
-72.08.11,Parigi Selatan
+72.08.10,TinomboSelatan
+72.08.11,ParigiSelatan
 72.08.12,Mepanga
 72.08.13,Toribulu
 72.08.14,Taopa
 72.08.15,Balinggi
-72.08.16,Parigi Barat
+72.08.16,ParigiBarat
 72.08.17,Siniu
 72.08.18,Palasa
-72.08.19,Parigi Utara
-72.08.20,Parigi Tengah
+72.08.19,ParigiUtara
+72.08.20,ParigiTengah
 72.08.21,Bolano
-72.08.22,Ongka Malino
+72.08.22,OngkaMalino
 72.08.23,Sidoan
-72.09.01,Una Una
+72.09.01,UnaUna
 72.09.02,Togean
-72.09.03,Walea Kepulauan
-72.09.04,Ampana Tete
-72.09.05,Ampana Kota
+72.09.03,WaleaKepulauan
+72.09.04,AmpanaTete
+72.09.05,AmpanaKota
 72.09.06,Ulubongka
-72.09.07,Tojo Barat
+72.09.07,TojoBarat
 72.09.08,Tojo
-72.09.09,Walea Besar
+72.09.09,WaleaBesar
 72.09.10,Ratolindo
 72.09.11,Batudaka
 72.09.12,Talatako
-72.10.01,Sigi Biromaru
+72.10.01,SigiBiromaru
 72.10.02,Palolo
 72.10.03,Nokilalaki
 72.10.04,Lindu
 72.10.05,Kulawi
-72.10.06,Kulawi Selatan
+72.10.06,KulawiSelatan
 72.10.07,Pipikoro
 72.10.08,Gumbasa
-72.10.09,Dolo Selatan
+72.10.09,DoloSelatan
 72.10.10,Tanambulava
-72.10.11,Dolo Barat
+72.10.11,DoloBarat
 72.10.12,Dolo
 72.10.13,Kinovaro
 72.10.14,Marawola
-72.10.15,Marawola Barat
+72.10.15,MarawolaBarat
 72.11.01,Banggai
-72.11.02,Banggai Utara
-72.11.03,Bokan Kepulauan
+72.11.02,BanggaiUtara
+72.11.03,BokanKepulauan
 72.11.04,Bangkurung
 72.11.05,Labobo
-72.11.06,Banggai Selatan
-72.11.07,Banggai Tengah
+72.11.06,BanggaiSelatan
+72.11.07,BanggaiTengah
 72.12.01,Petasia
-72.12.02,Petasia Timur
-72.12.03,Lembo Raya
+72.12.02,PetasiaTimur
+72.12.03,LemboRaya
 72.12.04,Lembo
-72.12.05,Mori Atas
-72.12.06,Mori Utara
-72.12.07,Soyo Jaya
-72.12.08,Bungku Utara
+72.12.05,MoriAtas
+72.12.06,MoriUtara
+72.12.07,SoyoJaya
+72.12.08,BungkuUtara
 72.12.09,Mamosalato
-72.12.10,Petasia Barat
-72.71.01,Palu Timur
-72.71.02,Palu Barat
-72.71.03,Palu Selatan
-72.71.04,Palu Utara
+72.12.10,PetasiaBarat
+72.71.01,PaluTimur
+72.71.02,PaluBarat
+72.71.03,PaluSelatan
+72.71.04,PaluUtara
 72.71.05,Ulujadi
 72.71.06,Tatanga
 72.71.07,Tawaeli
@@ -5548,14 +5548,14 @@ ID,Name
 73.01.05,Bontosikuyu
 73.01.06,Pasimasunggu
 73.01.07,Pasimarannu
-73.01.08,Taka Bonerate
+73.01.08,TakaBonerate
 73.01.09,Pasilambena
-73.01.10,Pasimasunggu Timur
+73.01.10,PasimasungguTimur
 73.01.11,Buki
 73.02.01,Gantorang
-73.02.02,Ujung Bulu
-73.02.03,Bonto Bahari
-73.02.04,Bonto Tiro
+73.02.02,UjungBulu
+73.02.03,BontoBahari
+73.02.04,BontoTiro
 73.02.05,Herlang
 73.02.06,Kajang
 73.02.07,Bulukumpa
@@ -5565,17 +5565,17 @@ ID,Name
 73.03.01,Bissappu
 73.03.02,Bantaeng
 73.03.03,Eremerasa
-73.03.04,Tompo Bulu
+73.03.04,TompoBulu
 73.03.05,Pajukukang
 73.03.06,Uluere
-73.03.07,Gantarang Keke
+73.03.07,GantarangKeke
 73.03.08,Sinoa
 73.04.01,Bangkala
 73.04.02,Tamalatea
 73.04.03,Binamu
 73.04.04,Batang
 73.04.05,Kelara
-73.04.06,Bangkala Barat
+73.04.06,BangkalaBarat
 73.04.07,Bontoramba
 73.04.08,Turatea
 73.04.09,Arungkeke
@@ -5583,14 +5583,14 @@ ID,Name
 73.04.11,Tarowang
 73.05.01,Mappakasunggu
 73.05.02,Mangarabombang
-73.05.03,Polombangkeng Selatan
-73.05.04,Polombangkeng Utara
-73.05.05,Galesong Selatan
-73.05.06,Galesong Utara
+73.05.03,PolombangkengSelatan
+73.05.04,PolombangkengUtara
+73.05.05,GalesongSelatan
+73.05.06,GalesongUtara
 73.05.07,Pattallassang
 73.05.08,Sanrobone
 73.05.09,Galesong
-73.05.10,Kepulauan Tanakeke
+73.05.10,KepulauanTanakeke
 73.06.01,Bontonompo
 73.06.02,Bajeng
 73.06.03,Tompobullu
@@ -5598,7 +5598,7 @@ ID,Name
 73.06.05,Parangloe
 73.06.06,Bontomarannu
 73.06.07,Palangga
-73.06.08,Somba Upu
+73.06.08,SombaUpu
 73.06.09,Bungaya
 73.06.10,Tombolopao
 73.06.11,Biringbulu
@@ -5606,18 +5606,18 @@ ID,Name
 73.06.13,Pattalasang
 73.06.14,Manuju
 73.06.15,Bontolempangang
-73.06.16,Bontonompo Selatan
+73.06.16,BontonompoSelatan
 73.06.17,Parigi
-73.06.18,Bajeng Barat
-73.07.01,Sinjai Barat
-73.07.02,Sinjai Selatan
-73.07.03,Sinjai Timur
-73.07.04,Sinjai Tengah
-73.07.05,Sinjai Utara
+73.06.18,BajengBarat
+73.07.01,SinjaiBarat
+73.07.02,SinjaiSelatan
+73.07.03,SinjaiTimur
+73.07.04,SinjaiTengah
+73.07.05,SinjaiUtara
 73.07.06,Bulupoddo
-73.07.07,Sinjai Borong
-73.07.08,Tellu Limpoe
-73.07.09,Pulau Sembilan
+73.07.07,SinjaiBorong
+73.07.08,TelluLimpoe
+73.07.09,PulauSembilan
 73.08.01,Bontocani
 73.08.02,Kahu
 73.08.03,Kajuara
@@ -5634,13 +5634,13 @@ ID,Name
 73.08.14,Ulaweng
 73.08.15,Palakka
 73.08.16,Awangpone
-73.08.17,Tellu Siattinge
+73.08.17,TelluSiattinge
 73.08.18,Ajangale
-73.08.19,Dua Boccoe
+73.08.19,DuaBoccoe
 73.08.20,Cenrana
-73.08.21,Tanete Riattang
-73.08.22,Tanete Riattang Barat
-73.08.23,Tanete Riattang Timur
+73.08.21,TaneteRiattang
+73.08.22,TaneteRiattang Barat
+73.08.23,TaneteRiattang Timur
 73.08.24,Amali
 73.08.25,Tellulimpoe
 73.08.26,Bengo
@@ -5648,7 +5648,7 @@ ID,Name
 73.09.01,Mandai
 73.09.02,Camba
 73.09.03,Bantimurung
-73.09.04,Maros Baru
+73.09.04,MarosBaru
 73.09.05,Bontoa
 73.09.06,Malllawa
 73.09.07,Tanralili
@@ -5657,25 +5657,25 @@ ID,Name
 73.09.10,Cenrana
 73.09.11,Tompobulu
 73.09.12,Lau
-73.09.13,Moncong Loe
+73.09.13,MoncongLoe
 73.09.14,Turikale
-73.10.01,Liukang Tangaya
-73.10.02,Liukang Kalmas
-73.10.03,Liukang Tupabbiring
+73.10.01,LiukangTangaya
+73.10.02,LiukangKalmas
+73.10.03,LiukangTupabbiring
 73.10.04,Pangkajene
 73.10.05,Balocci
 73.10.06,Bungoro
 73.10.07,Labakkang
 73.10.08,Marang
 73.10.09,Segeri
-73.10.10,Minasa Tene
+73.10.10,MinasaTene
 73.10.11,Mandalle
-73.10.12,Tondong Tallasa
-73.10.13,Liukang Tupabbiring Utara
-73.11.01,Tanete Riaja
-73.11.02,Tanete Rilau
+73.10.12,TondongTallasa
+73.10.13,LiukangTupabbiring Utara
+73.11.01,TaneteRiaja
+73.11.02,TaneteRilau
 73.11.03,Barru
-73.11.04,Soppeng Riaja
+73.11.04,SoppengRiaja
 73.11.05,Mallusetasi
 73.11.06,Pujananting
 73.11.07,Balusu
@@ -5684,7 +5684,7 @@ ID,Name
 73.12.03,Lilirilau
 73.12.04,Lalabata
 73.12.05,Marioriawa
-73.12.06,Donri Donri
+73.12.06,DonriDonri
 73.12.07,Ganra
 73.12.08,Citta
 73.13.01,Sabangparu
@@ -5701,21 +5701,21 @@ ID,Name
 73.13.12,Penrang
 73.13.13,Gilireng
 73.13.14,Keera
-73.14.01,Panca Lautan
-73.14.02,Tellu Limpoe
-73.14.03,Watang Pulu
+73.14.01,PancaLautan
+73.14.02,TelluLimpoe
+73.14.03,WatangPulu
 73.14.04,Baranti
-73.14.05,Panca Rijang
+73.14.05,PancaRijang
 73.14.06,Kulo
 73.14.07,Maritengngae
-73.14.08,WT. Sidenreng
-73.14.09,Dua Pitue
-73.14.10,Pitu Riawa
-73.14.11,Pitu Raise
-73.15.01,Matirro Sompe
+73.14.08,WT.Sidenreng
+73.14.09,DuaPitue
+73.14.10,PituRiawa
+73.14.11,PituRaise
+73.15.01,MatirroSompe
 73.15.02,Suppa
-73.15.03,Mattiro Bulu
-73.15.04,Watang Sawito
+73.15.03,MattiroBulu
+73.15.04,WatangSawito
 73.15.05,Patampanua
 73.15.06,Duampanua
 73.15.07,Lembang
@@ -5723,7 +5723,7 @@ ID,Name
 73.15.09,Tiroang
 73.15.10,Lansirang
 73.15.11,Paleteang
-73.15.12,Batu Lappa
+73.15.12,BatuLappa
 73.16.01,Maiwa
 73.16.02,Enrekang
 73.16.03,Baraka
@@ -5733,32 +5733,32 @@ ID,Name
 73.16.07,Cendana
 73.16.08,Curio
 73.16.09,Malua
-73.16.10,Buntu Batu
+73.16.10,BuntuBatu
 73.16.11,Masalle
 73.16.12,Baroko
-73.17.01,Basse Sangtempe
+73.17.01,BasseSangtempe
 73.17.02,Larompong
 73.17.03,Suli
 73.17.04,Bajo
-73.17.05,Bua Ponrang
+73.17.05,BuaPonrang
 73.17.06,Walenrang
 73.17.07,Belopa
 73.17.08,Bua
 73.17.09,Lamasi
-73.17.10,Larompong Selatan
+73.17.10,LarompongSelatan
 73.17.11,Ponrang
 73.17.12,Latimojong
 73.17.13,Kamanre
-73.17.14,Belopa Utara
-73.17.15,Walenrang Barat
-73.17.16,Walenrang Utara
-73.17.17,Walenrang Timur
-73.17.18,Lamasi Timur
-73.17.19,Suli Barat
-73.17.20,Bajo Barat
-73.17.21,Ponrang Selatan
-73.17.22,Basse Sangtempe Utara
-73.18.01,Saluputi;
+73.17.14,BelopaUtara
+73.17.15,WalenrangBarat
+73.17.16,WalenrangUtara
+73.17.17,WalenrangTimur
+73.17.18,LamasiTimur
+73.17.19,SuliBarat
+73.17.20,BajoBarat
+73.17.21,PonrangSelatan
+73.17.22,BasseSangtempe Utara
+73.18.01,Saluputi
 73.18.02,Bittuang
 73.18.03,Bonggakaradeng
 73.18.05,Makale
@@ -5766,32 +5766,32 @@ ID,Name
 73.18.11,Rantetayo
 73.18.12,Mengkendek
 73.18.13,Sangalla
-73.18.19,Gandangbatu Sillanan
+73.18.19,GandangbatuSillanan
 73.18.20,Rembon
-73.18.27,Makale Utara
+73.18.27,MakaleUtara
 73.18.28,Mappak
-73.18.29,Makale Selatan
+73.18.29,MakaleSelatan
 73.18.31,Masanda
-73.18.33,Sangalla Selatan
-73.18.34,Sangalla Utara
-73.18.35,Malimbong Balepe
+73.18.33,SangallaSelatan
+73.18.34,SangallaUtara
+73.18.35,MalimbongBalepe
 73.18.37,Rano
 73.18.38,Kurra
 73.22.01,Malangke
-73.22.02,Bone Bone
+73.22.02,BoneBone
 73.22.03,Masamba
 73.22.04,Sabbang
 73.22.05,Limbong
 73.22.06,Sukamaju
 73.22.07,Seko
-73.22.08,Malangke Barat
+73.22.08,MalangkeBarat
 73.22.09,Rampi
 73.22.10,Mappedeceng
 73.22.11,Baebunta
-73.22.12,Tana Lili
-73.22.13,Sukamaju Selatan
-73.22.14,Baebunta Selatan
-73.22.15,Sabbang Selatan
+73.22.12,TanaLili
+73.22.13,SukamajuSelatan
+73.22.14,BaebuntaSelatan
+73.22.15,SabbangSelatan
 73.24.01,Mangkutana
 73.24.02,Nuha
 73.24.03,Towuti
@@ -5800,7 +5800,7 @@ ID,Name
 73.24.06,Wotu
 73.24.07,Burau
 73.24.08,Tomoni
-73.24.09,Tomoni Timur
+73.24.09,TomoniTimur
 73.24.10,Kalaena
 73.24.11,Wasuponda
 73.26.01,Rantepao
@@ -5808,47 +5808,47 @@ ID,Name
 73.26.03,Nanggala
 73.26.04,Rindingallo
 73.26.05,Buntao
-73.26.06,Sa\dan
+73.26.06,Sagdan
 73.26.07,Sanggalangi
 73.26.08,Sopai
 73.26.09,Tikala
 73.26.10,Balusu
 73.26.11,Tallunglipu
-73.26.12,Dende\ Piongan Napo
-73.26.13,Buntu Pepasan
+73.26.12,DendegPiongan Napo
+73.26.13,BuntuPepasan
 73.26.14,Baruppu
 73.26.15,Kesu
 73.26.16,Tondon
 73.26.17,Bangkelekila
 73.26.18,Rantebua
-73.26.19,Sesean Suloara
-73.26.20,Kapala Pitu
-73.26.21,Awan Rante Karua
+73.26.19,SeseanSuloara
+73.26.20,KapalaPitu
+73.26.21,AwanRante Karua
 73.71.01,Mariso
 73.71.02,Mamajang
 73.71.03,Makassar
-73.71.04,Ujung Pandang
+73.71.04,UjungPandang
 73.71.05,Wajo
 73.71.06,Bontoala
 73.71.07,Tallo
-73.71.08,Ujung Tanah
+73.71.08,UjungTanah
 73.71.09,Panakkukang
 73.71.10,Tamalate
 73.71.11,Biringkanaya
 73.71.12,Manggala
 73.71.13,Rappocini
 73.71.14,Tamalanrea
-73.71.15,Kepulauan Sangkarrang
+73.71.15,KepulauanSangkarrang
 73.72.01,Bacukiki
 73.72.02,Ujung
 73.72.03,Soreang
-73.72.04,Bacukiki Barat
+73.72.04,BacukikiBarat
 73.73.01,Wara
-73.73.02,Wara Utara
-73.73.03,Wara Selatan
+73.73.02,WaraUtara
+73.73.03,WaraSelatan
 73.73.04,Telluwanua
-73.73.05,Wara Timur
-73.73.06,Wara Barat
+73.73.05,WaraTimur
+73.73.06,WaraBarat
 73.73.07,Sendana
 73.73.08,Mungkajang
 73.73.09,Bara
@@ -5890,10 +5890,10 @@ ID,Name
 74.02.38,Padangguni
 74.02.39,Morosi
 74.02.40,Anggalomoare
-74.02.41,Wonggeduku Barat
+74.02.41,WonggedukuBarat
 74.03.06,Napabalano
 74.03.07,Maligano
-74.03.13,Wakorumba Selatan
+74.03.13,WakorumbaSelatan
 74.03.14,Lasalepa
 74.03.15,Batalaiwaru
 74.03.16,Katobu
@@ -5906,17 +5906,17 @@ ID,Name
 74.03.25,Parigi
 74.03.26,Bone
 74.03.27,Tongkuno
-74.03.28,Pasir Putih
-74.03.30,Kontu Kowuna
+74.03.28,PasirPutih
+74.03.30,KontuKowuna
 74.03.31,Marobo
-74.03.32,Tongkuno Selatan
-74.03.33,Pasi Kolaga
+74.03.32,TongkunoSelatan
+74.03.33,PasiKolaga
 74.03.34,Batukara
 74.03.37,Towea
 74.04.11,Pasarwajo
 74.04.22,Kapontori
 74.04.23,Lasalimu
-74.04.24,Lasalimu Selatan
+74.04.24,LasalimuSelatan
 74.04.27,Siotapina
 74.04.28,Wolowa
 74.04.29,Wabula
@@ -5933,59 +5933,59 @@ ID,Name
 74.05.11,Laonti
 74.05.12,Lalembuu
 74.05.13,Benua
-74.05.14,Palangga Selatan
+74.05.14,PalanggaSelatan
 74.05.15,Mowila
-74.05.16,Moramo Utara
+74.05.16,MoramoUtara
 74.05.17,Buke
 74.05.18,Wolasi
 74.05.19,Laeya
 74.05.20,Baito
 74.05.21,Basala
-74.05.22,Ranomeeto Barat
-74.05.23,Kolono Timur
+74.05.22,RanomeetoBarat
+74.05.23,KolonoTimur
 74.05.24,Sabulakoa
-74.05.25,Andoolo Barat
+74.05.25,AndooloBarat
 74.06.01,Poleang
-74.06.02,Poleang Timur
+74.06.02,PoleangTimur
 74.06.03,Rarowatu
 74.06.04,Rumbia
 74.06.05,Kabaena
-74.06.06,Kabaena Timur
-74.06.07,Poleang Barat
-74.06.08,Mata Oleo
-74.06.09,Rarowatu Utara
-74.06.10,Poleang Utara
-74.06.11,Poleang Selatan
-74.06.12,Poleang Tenggara
-74.06.13,Kabaena Selatan
-74.06.14,Kabaena Barat
-74.06.15,Kabaena Utara
-74.06.16,Kabaena Tengah
-74.06.17,Kep. Masaloka Raya
-74.06.18,Rumbia Tengah
-74.06.19,Poleang Tengah
+74.06.06,KabaenaTimur
+74.06.07,PoleangBarat
+74.06.08,MataOleo
+74.06.09,RarowatuUtara
+74.06.10,PoleangUtara
+74.06.11,PoleangSelatan
+74.06.12,PoleangTenggara
+74.06.13,KabaenaSelatan
+74.06.14,KabaenaBarat
+74.06.15,KabaenaUtara
+74.06.16,KabaenaTengah
+74.06.17,Kep.Masaloka Raya
+74.06.18,RumbiaTengah
+74.06.19,PoleangTengah
 74.06.20,Tontonunu
-74.06.21,Lantari Jaya
-74.06.22,Mata Usu
+74.06.21,LantariJaya
+74.06.22,MataUsu
 74.07.01,Wangi-Wangi
 74.07.02,Kaledupa
 74.07.03,Tomia
 74.07.04,Binongko
-74.07.05,Wangi Wangi Selatan
-74.07.06,Kaledupa Selatan
-74.07.07,Tomia Timur
-74.07.08,Togo Binongko
+74.07.05,WangiWangi Selatan
+74.07.06,KaledupaSelatan
+74.07.07,TomiaTimur
+74.07.08,TogoBinongko
 74.08.01,Lasusua
 74.08.02,Pakue
-74.08.03,Batu Putih
-74.08.04,Rante Angin
+74.08.03,BatuPutih
+74.08.04,RanteAngin
 74.08.05,Kodeoha
 74.08.06,Ngapa
 74.08.07,Wawo
 74.08.08,Lambai
 74.08.09,Watunohu
-74.08.10,Pakue Tengah
-74.08.11,Pakue Utara
+74.08.10,PakueTengah
+74.08.11,PakueUtara
 74.08.12,Porehu
 74.08.13,Katoi
 74.08.14,Tiwu
@@ -6001,18 +6001,18 @@ ID,Name
 74.09.09,Andowia
 74.09.10,Motui
 74.09.11,Wawolesea
-74.09.12,Lasolo Kepulauan
+74.09.12,LasoloKepulauan
 74.09.13,Landawe
 74.10.01,Kulisusu
 74.10.02,Kambowa
 74.10.03,Bonegunu
-74.10.04,Kulisusu Barat
-74.10.05,Kulisusu Utara
-74.10.06,Wakorumba Utara
+74.10.04,KulisusuBarat
+74.10.05,KulisusuUtara
+74.10.06,WakorumbaUtara
 74.11.01,Tirawuta
 74.11.02,Loea
 74.11.03,Ladongi
-74.11.04,Poli Polia
+74.11.04,PoliPolia
 74.11.05,Lambandia
 74.11.06,Lalolae
 74.11.07,Mowewe
@@ -6021,43 +6021,43 @@ ID,Name
 74.11.10,Aere
 74.11.11,Ueesi
 74.11.12,Dangia
-74.12.01,Wawonii Barat
-74.12.02,Wawonii Utara
-74.12.03,Wawonii Timur Laut
-74.12.04,Wawonii Timur
-74.12.05,Wawonii Tenggara
-74.12.06,Wawonii Selatan
-74.12.07,Wawonii Tengah
+74.12.01,WawoniiBarat
+74.12.02,WawoniiUtara
+74.12.03,WawoniiTimur Laut
+74.12.04,WawoniiTimur
+74.12.05,WawoniiTenggara
+74.12.06,WawoniiSelatan
+74.12.07,WawoniiTengah
 74.13.01,Sawerigadi
 74.13.02,Barangka
 74.13.03,Lawa
 74.13.04,Wadaga
-74.13.05,Tiworo Selatan
+74.13.05,TiworoSelatan
 74.13.06,Maginti
-74.13.07,Tiworo Tengah
-74.13.08,Tiworo Utara
-74.13.09,Tiworo Kepulauan
+74.13.07,TiworoTengah
+74.13.08,TiworoUtara
+74.13.09,TiworoKepulauan
 74.13.10,Kusambi
-74.13.11,Napano Kusambi
+74.13.11,NapanoKusambi
 74.14.01,Lakudo
-74.14.02,Mawasangka Timur
-74.14.03,Mawasangka Tengah
+74.14.02,MawasangkaTimur
+74.14.03,MawasangkaTengah
 74.14.04,Mawasangka
-74.14.05,Talaga Raya
+74.14.05,TalagaRaya
 74.14.06,Gu
-74.14.07,Sangia Wambulu
+74.14.07,SangiaWambulu
 74.15.01,Batauga
 74.15.02,Sampolawa
 74.15.03,Lapandewa
-74.15.04,Batu Atas
-74.15.05,Siompu Barat
+74.15.04,BatuAtas
+74.15.05,SiompuBarat
 74.15.06,Siompu
 74.15.07,Kadatua
 74.71.01,Mandonga
 74.71.02,Kendari
 74.71.03,Baruga
 74.71.04,Poasia
-74.71.05,Kendari Barat
+74.71.05,KendariBarat
 74.71.06,Abeli
 74.71.07,Wua-Wua
 74.71.08,Kadia
@@ -6075,19 +6075,19 @@ ID,Name
 75.01.02,Telaga
 75.01.03,Batudaa
 75.01.04,Tibawa
-75.01.05,Batudaa Pantai
+75.01.05,BatudaaPantai
 75.01.09,Boliyohuto
-75.01.10,Telaga Biru
+75.01.10,TelagaBiru
 75.01.11,Bongomeme
 75.01.13,Tolangohula
 75.01.14,Mootilango
 75.01.16,Pulubala
-75.01.17,Limboto Barat
+75.01.17,LimbotoBarat
 75.01.18,Tilango
 75.01.19,Tabongo
 75.01.20,Biluhu
 75.01.21,Asparaga
-75.01.22,Talaga Jaya
+75.01.22,TalagaJaya
 75.01.23,Bilato
 75.01.24,Dungaliyo
 75.02.01,Paguyaman
@@ -6096,23 +6096,23 @@ ID,Name
 75.02.04,Tilamuta
 75.02.05,Mananggu
 75.02.06,Botumoita
-75.02.07,Paguyaman Pantai
+75.02.07,PaguyamanPantai
 75.03.01,Tapa
 75.03.02,Kabila
 75.03.03,Suwawa
 75.03.04,Bonepantai
-75.03.05,Bulango Utara
+75.03.05,BulangoUtara
 75.03.06,Tilongkabila
 75.03.07,Botupingge
-75.03.08,Kabila Bone
+75.03.08,KabilaBone
 75.03.09,Bone
-75.03.10,Bone Raya
-75.03.11,Suwawa Timur
-75.03.12,Suwawa Selatan
-75.03.13,Suwawa Tengah
-75.03.14,Bulango Ulu
-75.03.15,Bulango Selatan
-75.03.16,Bulango Timur
+75.03.10,BoneRaya
+75.03.11,SuwawaTimur
+75.03.12,SuwawaSelatan
+75.03.13,SuwawaTengah
+75.03.14,BulangoUlu
+75.03.15,BulangoSelatan
+75.03.16,BulangoTimur
 75.03.17,Bulawa
 75.03.18,Pinogu
 75.04.01,Popayato
@@ -6126,27 +6126,27 @@ ID,Name
 75.04.09,Buntulia
 75.04.10,Duhiadaa
 75.04.11,Wanggarasi
-75.04.12,Popayato Timur
-75.04.13,Popayato Barat
+75.04.12,PopayatoTimur
+75.04.13,PopayatoBarat
 75.05.01,Atinggola
 75.05.02,Kwandang
 75.05.03,Anggrek
 75.05.04,Sumalata
 75.05.05,Tolinggula
-75.05.06,Gentuma Raya
+75.05.06,GentumaRaya
 75.05.07,Tomolito
-75.05.08,Ponelo Kepulauan
+75.05.08,PoneloKepulauan
 75.05.09,Monano
 75.05.10,Biau
-75.05.11,Sumalata Timur
-75.71.01,Kota Barat
-75.71.02,Kota Selatan
-75.71.03,Kota Utara
+75.05.11,SumalataTimur
+75.71.01,KotaBarat
+75.71.02,KotaSelatan
+75.71.03,KotaUtara
 75.71.04,Dungingi
-75.71.05,Kota Timur
-75.71.06,Kota Tengah
+75.71.05,KotaTimur
+75.71.06,KotaTengah
 75.71.07,Sipatana
-75.71.08,Dumbo Raya
+75.71.08,DumboRaya
 75.71.09,Hulonthalangi
 76.01.01,Bambalamotu
 76.01.02,Pasangkayu
@@ -6154,8 +6154,8 @@ ID,Name
 76.01.04,Sarudu
 76.01.05,Dapurang
 76.01.06,Duripoku
-76.01.07,Bulu Taba
-76.01.08,Tikke Raya
+76.01.07,BuluTaba
+76.01.08,TikkeRaya
 76.01.09,Pedongga
 76.01.10,Bambaira
 76.01.11,Sarjo
@@ -6167,10 +6167,10 @@ ID,Name
 76.02.07,Papalang
 76.02.08,Sampaga
 76.02.11,Tommo
-76.02.12,Simboro dan Kepulauan
-76.02.13,Tapalang Barat
+76.02.12,Simborodan Kepulauan
+76.02.13,TapalangBarat
 76.02.15,Bonehau
-76.02.16,Kep. Bala Balakang
+76.02.16,Kep.Bala Balakang
 76.03.01,Mambi
 76.03.02,Aralle
 76.03.03,Mamasa
@@ -6179,13 +6179,13 @@ ID,Name
 76.03.06,Sumarorong
 76.03.07,Messawa
 76.03.08,Sesenapadang
-76.03.09,Tanduk Kalua
+76.03.09,TandukKalua
 76.03.10,Tabang
 76.03.11,Bambang
 76.03.12,Balla
 76.03.13,Nosu
 76.03.14,Tawalian
-76.03.15,Rantebulahan Timur
+76.03.15,RantebulahanTimur
 76.03.16,Buntumalangka
 76.03.17,Mehalaan
 76.04.01,Tinambung
@@ -6209,254 +6209,254 @@ ID,Name
 76.05.03,Sendana
 76.05.04,Malunda
 76.05.05,Ulumanda
-76.05.06,Tammerodo Sendana
-76.05.07,Tubo Sendana
-76.05.08,Banggae Timur
+76.05.06,TammerodoSendana
+76.05.07,TuboSendana
+76.05.08,BanggaeTimur
 76.06.01,Tobadak
 76.06.02,Pangale
 76.06.03,Budong-Budong
 76.06.04,Topoyo
 76.06.05,Karossa
 81.01.01,Amahai
-81.01.02,Teon Nila Serua
-81.01.06,Seram Utara
+81.01.02,TeonNila Serua
+81.01.06,SeramUtara
 81.01.09,Banda
 81.01.11,Tehoru
 81.01.12,Saparua
-81.01.13,Pulau Haruku
+81.01.13,PulauHaruku
 81.01.14,Salahutu
 81.01.15,Leihitu
-81.01.16,Nusa Laut
-81.01.17,Kota Masohi
-81.01.20,Seram Utara Barat
-81.01.21,Teluk Elpaputih
-81.01.22,Leihitu Barat
+81.01.16,NusaLaut
+81.01.17,KotaMasohi
+81.01.20,SeramUtara Barat
+81.01.21,TelukElpaputih
+81.01.22,LeihituBarat
 81.01.23,Telutih
-81.01.24,Seram Utara Timur Seti
-81.01.25,Seram Utara Timur Kobi
-81.01.26,Saparua Timur
-81.02.01,Kei Kecil
-81.02.03,Kei Besar
-81.02.04,Kei Besar Selatan
-81.02.05,Kei Besar Utara Timur
-81.02.13,Kei Kecil Timur
-81.02.14,Kei Kecil Barat
+81.01.24,SeramUtara Timur Seti
+81.01.25,SeramUtara Timur Kobi
+81.01.26,SaparuaTimur
+81.02.01,KeiKecil
+81.02.03,KeiBesar
+81.02.04,KeiBesar Selatan
+81.02.05,KeiBesar Utara Timur
+81.02.13,KeiKecil Timur
+81.02.14,KeiKecil Barat
 81.02.15,Manyeuw
-81.02.16,Hoat Sorbay
-81.02.17,Kei Besar Utara Barat
-81.02.18,Kei Besar Selatan Barat
-81.02.19,Kei Kecil Timur Selatan
-81.03.01,Tanimbar Selatan
+81.02.16,HoatSorbay
+81.02.17,KeiBesar Utara Barat
+81.02.18,KeiBesar Selatan Barat
+81.02.19,KeiKecil Timur Selatan
+81.03.01,TanimbarSelatan
 81.03.02,Selaru
-81.03.03,Wer Tamrian
-81.03.04,Wer Maktian
-81.03.05,Tanimbar Utara
+81.03.03,WerTamrian
+81.03.04,WerMaktian
+81.03.05,TanimbarUtara
 81.03.06,Yaru
-81.03.07,Wuar Labobar
+81.03.07,WuarLabobar
 81.03.08,Kormomolin
 81.03.09,Nirunmas
-81.03.18,Molu Maru
+81.03.18,MoluMaru
 81.04.01,Namlea
-81.04.02,Air Buaya
+81.04.02,AirBuaya
 81.04.03,Waeapo
 81.04.06,Waplau
 81.04.10,Batabual
-81.04.11,Lolong Guba
+81.04.11,LolongGuba
 81.04.12,Waelata
-81.04.13,Fena Leisela
-81.04.14,Teluk Kaiely
+81.04.13,FenaLeisela
+81.04.14,TelukKaiely
 81.04.15,Lilialy
 81.05.01,Bula
-81.05.02,Seram Timur
+81.05.02,SeramTimur
 81.05.03,Werinama
-81.05.04,Pulau Gorom
+81.05.04,PulauGorom
 81.05.05,Wakate
-81.05.06,Tutuk Tolu
+81.05.06,TutukTolu
 81.05.07,Siwalalat
 81.05.08,Kilmury
-81.05.09,Pulau Panjang
+81.05.09,PulauPanjang
 81.05.10,Teor
-81.05.11,Gorom Timur
-81.05.12,Bula Barat
-81.05.13,Kian Darat
-81.05.14,Siritaun Wida Timur
-81.05.15,Teluk Waru
+81.05.11,GoromTimur
+81.05.12,BulaBarat
+81.05.13,KianDarat
+81.05.14,SiritaunWida Timur
+81.05.15,TelukWaru
 81.06.01,Kairatu
-81.06.02,Seram Barat
+81.06.02,SeramBarat
 81.06.03,Taniwel
-81.06.04,Huamual Belakang
+81.06.04,HuamualBelakang
 81.06.05,Amalatu
 81.06.06,Inamosol
-81.06.07,Kairatu Barat
+81.06.07,KairatuBarat
 81.06.08,Huamual
-81.06.09,Kepulauan Manipa
-81.06.10,Taniwel Timur
+81.06.09,KepulauanManipa
+81.06.10,TaniwelTimur
 81.06.11,Elpaputih
-81.07.01,Pulau-Pulau Aru
-81.07.02,Aru Selatan
-81.07.03,Aru Tengah
-81.07.04,Aru Utara
-81.07.05,Aru Utara Timur Batuley
+81.07.01,Pulau-PulauAru
+81.07.02,AruSelatan
+81.07.03,AruTengah
+81.07.04,AruUtara
+81.07.05,AruUtara Timur Batuley
 81.07.06,Sir-Sir
-81.07.07,Aru Tengah Timur
-81.07.08,Aru Tengah Selatan
-81.07.09,Aru Selatan Timur
-81.07.10,Aru Selatan Utara
-81.08.01,Moa Lakor
+81.07.07,AruTengah Timur
+81.07.08,AruTengah Selatan
+81.07.09,AruSelatan Timur
+81.07.10,AruSelatan Utara
+81.08.01,MoaLakor
 81.08.02,Damer
-81.08.03,Mndona Hiera
-81.08.04,Pulau-Pulau Babar
-81.08.05,Pulau-pulau Babar Timur
+81.08.03,MndonaHiera
+81.08.04,Pulau-PulauBabar
+81.08.05,Pulau-pulauBabar Timur
 81.08.06,Wetar
-81.08.07,Pulau-pulau Terselatan
-81.08.08,Pulau Leti
-81.08.09,Pulau Masela
-81.08.10,Dawelor Dawera
-81.08.11,Pulau Wetang
-81.08.12,Pulau Lakor
-81.08.13,Wetar Utara
-81.08.14,Wetar Barat
-81.08.15,Wetar Timur
-81.08.16,Kepulauan Romang
-81.08.17,Kisar Utara
+81.08.07,Pulau-pulauTerselatan
+81.08.08,PulauLeti
+81.08.09,PulauMasela
+81.08.10,DawelorDawera
+81.08.11,PulauWetang
+81.08.12,PulauLakor
+81.08.13,WetarUtara
+81.08.14,WetarBarat
+81.08.15,WetarTimur
+81.08.16,KepulauanRomang
+81.08.17,KisarUtara
 81.09.01,Namrole
 81.09.02,Waesama
 81.09.03,Ambalau
-81.09.04,Kepala Madan
+81.09.04,KepalaMadan
 81.09.05,Leksula
-81.09.06,Fena Fafan
+81.09.06,FenaFafan
 81.71.01,Nusaniwe
 81.71.02,Sirimau
 81.71.03,Baguala
-81.71.04,Teluk Ambon
-81.71.05,Leitimur Selatan
-81.72.01,Pulau Dullah Utara
-81.72.02,Pulau Dullah Selatan
-81.72.03,Tayando Tam
-81.72.04,Pulau-Pulau Kur
-81.72.05,Kur Selatan
+81.71.04,TelukAmbon
+81.71.05,LeitimurSelatan
+81.72.01,PulauDullah Utara
+81.72.02,PulauDullah Selatan
+81.72.03,TayandoTam
+81.72.04,Pulau-PulauKur
+81.72.05,KurSelatan
 82.01.01,Jailolo
 82.01.02,Loloda
 82.01.03,Ibu
 82.01.04,Sahu
-82.01.05,Jailolo Selatan
-82.01.07,Ibu Utara
-82.01.08,Ibu Selatan
-82.01.09,Sahu Timur
+82.01.05,JailoloSelatan
+82.01.07,IbuUtara
+82.01.08,IbuSelatan
+82.01.09,SahuTimur
 82.02.01,Weda
 82.02.02,Patani
-82.02.03,Pulau Gebe
-82.02.04,Weda Utara
-82.02.05,Weda Selatan
-82.02.06,Patani Utara
-82.02.07,Weda Tengah
-82.02.08,Patani Barat
-82.02.09,Weda Timur
-82.02.10,Patani Timur
+82.02.03,PulauGebe
+82.02.04,WedaUtara
+82.02.05,WedaSelatan
+82.02.06,PataniUtara
+82.02.07,WedaTengah
+82.02.08,PataniBarat
+82.02.09,WedaTimur
+82.02.10,PataniTimur
 82.03.04,Galela
 82.03.05,Tobelo
-82.03.06,Tobelo Selatan
+82.03.06,TobeloSelatan
 82.03.07,Kao
 82.03.08,Malifut
-82.03.09,Loloda Utara
-82.03.10,Tobelo Utara
-82.03.11,Tobelo Tengah
-82.03.12,Tobelo Timur
-82.03.13,Tobelo Barat
-82.03.14,Galela Barat
-82.03.15,Galela Utara
-82.03.16,Galela Selatan
-82.03.19,Loloda Kepulauan
-82.03.20,Kao Utara
-82.03.21,Kao Barat
-82.03.22,Kao Teluk
-82.04.01,Pulau Makian
+82.03.09,LolodaUtara
+82.03.10,TobeloUtara
+82.03.11,TobeloTengah
+82.03.12,TobeloTimur
+82.03.13,TobeloBarat
+82.03.14,GalelaBarat
+82.03.15,GalelaUtara
+82.03.16,GalelaSelatan
+82.03.19,LolodaKepulauan
+82.03.20,KaoUtara
+82.03.21,KaoBarat
+82.03.22,KaoTeluk
+82.04.01,PulauMakian
 82.04.02,Kayoa
-82.04.03,Gane Timur
-82.04.04,Gane Barat
-82.04.05,Obi Selatan
-82.04.06,Obi;
-82.04.07,Bacan Timur
+82.04.03,GaneTimur
+82.04.04,GaneBarat
+82.04.05,ObiSelatan
+82.04.06,Obi
+82.04.07,BacanTimur
 82.04.08,Bacan
-82.04.09,Bacan Barat
-82.04.10,Makian Barat
-82.04.11,Kayoa Barat
-82.04.12,Kayoa Selatan
-82.04.13,Kayoa Utara
-82.04.14,Bacan Barat Utara
-82.04.15,Kasiruta Barat
-82.04.16,Kasiruta Timur
-82.04.17,Bacan Selatan
-82.04.18,Kepulauan Botanglomang
-82.04.19,Mandioli Selatan
-82.04.20,Mandioli Utara
-82.04.21,Bacan Timur Selatan
-82.04.22,Bacan Timur Tengah
-82.04.23,Gane Barat Selatan
-82.04.24,Gane Barat Utara
-82.04.25,Kepulauan Joronga
-82.04.26,Gane Timur Selatan
-82.04.27,Gane Timur Tengah
-82.04.28,Obi Barat
-82.04.29,Obi Timur
-82.04.30,Obi Utara
-82.05.01,Mangoli Timur
+82.04.09,BacanBarat
+82.04.10,MakianBarat
+82.04.11,KayoaBarat
+82.04.12,KayoaSelatan
+82.04.13,KayoaUtara
+82.04.14,BacanBarat Utara
+82.04.15,KasirutaBarat
+82.04.16,KasirutaTimur
+82.04.17,BacanSelatan
+82.04.18,KepulauanBotanglomang
+82.04.19,MandioliSelatan
+82.04.20,MandioliUtara
+82.04.21,BacanTimur Selatan
+82.04.22,BacanTimur Tengah
+82.04.23,GaneBarat Selatan
+82.04.24,GaneBarat Utara
+82.04.25,KepulauanJoronga
+82.04.26,GaneTimur Selatan
+82.04.27,GaneTimur Tengah
+82.04.28,ObiBarat
+82.04.29,ObiTimur
+82.04.30,ObiUtara
+82.05.01,MangoliTimur
 82.05.02,Sanana
-82.05.03,Sulabesi Barat
-82.05.06,Mangoli Barat
-82.05.07,Sulabesi Tengah
-82.05.08,Sulabesi Timur
-82.05.09,Sulabesi Selatan
-82.05.10,Mangoli Utara Timur
-82.05.11,Mangoli Tengah
-82.05.12,Mangoli Selatan
-82.05.13,Mangoli Utara
-82.05.18,Sanana Utara
+82.05.03,SulabesiBarat
+82.05.06,MangoliBarat
+82.05.07,SulabesiTengah
+82.05.08,SulabesiTimur
+82.05.09,SulabesiSelatan
+82.05.10,MangoliUtara Timur
+82.05.11,MangoliTengah
+82.05.12,MangoliSelatan
+82.05.13,MangoliUtara
+82.05.18,SananaUtara
 82.06.01,Wasile
 82.06.02,Maba
-82.06.03,Maba Selatan
-82.06.04,Wasile Selatan
-82.06.05,Wasile Tengah
-82.06.06,Wasile Utara
-82.06.07,Wasile Timur
-82.06.08,Maba Tengah
-82.06.09,Maba Utara
-82.06.10,Kota Maba
-82.07.01,Morotai Selatan
-82.07.02,Morotai Selatan Barat
-82.07.03,Morotai Jaya
-82.07.04,Morotai Utara
-82.07.05,Morotai Timur
-82.08.01,Taliabu Barat
-82.08.02,Taliabu Barat Laut
+82.06.03,MabaSelatan
+82.06.04,WasileSelatan
+82.06.05,WasileTengah
+82.06.06,WasileUtara
+82.06.07,WasileTimur
+82.06.08,MabaTengah
+82.06.09,MabaUtara
+82.06.10,KotaMaba
+82.07.01,MorotaiSelatan
+82.07.02,MorotaiSelatan Barat
+82.07.03,MorotaiJaya
+82.07.04,MorotaiUtara
+82.07.05,MorotaiTimur
+82.08.01,TaliabuBarat
+82.08.02,TaliabuBarat Laut
 82.08.03,Lede
-82.08.04,Taliabu Utara
-82.08.05,Taliabu Timur
-82.08.06,Taliabu Timur Selatan
-82.08.07,Taliabu Selatan
+82.08.04,TaliabuUtara
+82.08.05,TaliabuTimur
+82.08.06,TaliabuTimur Selatan
+82.08.07,TaliabuSelatan
 82.08.08,Tabona
-82.71.01,Pulau Ternate
-82.71.02,Kota Ternate Selatan
-82.71.03,Kota Ternate Utara
+82.71.01,PulauTernate
+82.71.02,KotaTernate Selatan
+82.71.03,KotaTernate Utara
 82.71.04,Moti
-82.71.05,Pulau Batang Dua
-82.71.06,Kota Ternate Tengah
-82.71.07,Pulau Hiri
-82.71.08,Ternate Barat
+82.71.05,PulauBatang Dua
+82.71.06,KotaTernate Tengah
+82.71.07,PulauHiri
+82.71.08,TernateBarat
 82.72.01,Tidore
-82.72.02,Oba Utara
+82.72.02,ObaUtara
 82.72.03,Oba
-82.72.04,Tidore Selatan
-82.72.05,Tidore Utara
-82.72.06,Oba Tengah
-82.72.07,Oba Selatan
-82.72.08,Tidore Timur
+82.72.04,TidoreSelatan
+82.72.05,TidoreUtara
+82.72.06,ObaTengah
+82.72.07,ObaSelatan
+82.72.08,TidoreTimur
 91.01.01,Merauke
 91.01.02,Muting
 91.01.03,Okaba
 91.01.04,Kimaam
 91.01.05,Semangga
-91.01.06,Tanah Miring
+91.01.06,TanahMiring
 91.01.07,Jagebob
 91.01.08,Sota
 91.01.09,Ulilin
@@ -6489,10 +6489,10 @@ ID,Name
 91.02.44,Hubikiak
 91.02.45,Ibele
 91.02.46,Taelarek
-91.02.47,Itlay Hisage
+91.02.47,ItlayHisage
 91.02.48,Siepkosi
 91.02.49,Usilimo
-91.02.50,Wita Waya
+91.02.50,WitaWaya
 91.02.51,Libarek
 91.02.52,Wadangku
 91.02.53,Pisugi
@@ -6500,7 +6500,7 @@ ID,Name
 91.02.55,Tagime
 91.02.56,Molagalome
 91.02.57,Tagineri
-91.02.58,Silo Karno Doga
+91.02.58,SiloKarno Doga
 91.02.59,Piramid
 91.02.60,Muliama
 91.02.61,Bugi
@@ -6512,14 +6512,14 @@ ID,Name
 91.02.67,Wame
 91.02.68,Wesaput
 91.03.01,Sentani
-91.03.02,Sentani Timur
+91.03.02,SentaniTimur
 91.03.03,Depapre
-91.03.04,Sentani Barat
+91.03.04,SentaniBarat
 91.03.05,Kemtuk
-91.03.06,Kemtuk Gresi
+91.03.06,KemtukGresi
 91.03.07,Nimboran
 91.03.08,Nimbokrang
-91.03.09,Unurum Guay
+91.03.09,UnurumGuay
 91.03.10,Demta
 91.03.11,Kaureh
 91.03.12,Ebungfao
@@ -6527,8 +6527,8 @@ ID,Name
 91.03.14,Nambluong
 91.03.15,Yapsi
 91.03.16,Airu
-91.03.17,Raveni Rara
-91.03.18,Gresi Selatan
+91.03.17,RaveniRara
+91.03.18,GresiSelatan
 91.03.19,Yokari
 91.04.01,Nabire
 91.04.02,Napan
@@ -6537,36 +6537,36 @@ ID,Name
 91.04.07,Wanggar
 91.04.10,Siriwo
 91.04.11,Makimi
-91.04.12,Teluk Umar
-91.04.16,Teluk Kimi
+91.04.12,TelukUmar
+91.04.16,TelukKimi
 91.04.17,Yaro
 91.04.21,Wapoga
-91.04.22,Nabire Barat
+91.04.22,NabireBarat
 91.04.23,Moora
 91.04.24,Dipa
 91.04.25,Menou
-91.05.01,Yapen Selatan
-91.05.02,Yapen Barat
-91.05.03,Yapen Timur
+91.05.01,YapenSelatan
+91.05.02,YapenBarat
+91.05.03,YapenTimur
 91.05.04,Angkaisera
 91.05.05,Poom
 91.05.06,Kosiwo
-91.05.07,Yapen Utara
+91.05.07,YapenUtara
 91.05.08,Raimbawi
-91.05.09,Teluk Ampimoi
-91.05.10,Kepulauan Ambai
+91.05.09,TelukAmpimoi
+91.05.10,KepulauanAmbai
 91.05.11,Wonawa
 91.05.12,Windesi
-91.05.13,Pulau Kurudu
-91.05.14,Pulau Yerui
+91.05.13,PulauKurudu
+91.05.14,PulauYerui
 91.05.15,Anotaurei
 91.05.16,Yawakukat
-91.06.01,Biak Kota
-91.06.02,Biak Utara
-91.06.03,Biak Timur
-91.06.04,Numfor Barat
-91.06.05,Numfor Timur
-91.06.08,Biak Barat
+91.06.01,BiakKota
+91.06.02,BiakUtara
+91.06.03,BiakTimur
+91.06.04,NumforBarat
+91.06.05,NumforTimur
+91.06.08,BiakBarat
 91.06.09,Warsa
 91.06.10,Padaido
 91.06.11,Yendidori
@@ -6577,7 +6577,7 @@ ID,Name
 91.06.16,Bruyadori
 91.06.17,Orkeri
 91.06.18,Poiru
-91.06.19,Aimando Padaido
+91.06.19,AimandoPadaido
 91.06.20,Oridek
 91.06.21,Bondifuar
 91.07.01,Mulia
@@ -6606,8 +6606,8 @@ ID,Name
 91.07.32,Taganombak
 91.07.33,Dagai
 91.07.34,Kiyage
-91.08.01,Paniai Timur
-91.08.02,Paniai Barat
+91.08.01,PaniaiTimur
+91.08.02,PaniaiBarat
 91.08.04,Aradide
 91.08.07,Bogabaida
 91.08.09,Bibida
@@ -6616,55 +6616,55 @@ ID,Name
 91.08.19,Kebo
 91.08.20,Yatamo
 91.08.21,Ekadide
-91.08.22,Wegee Muka
-91.08.23,Wegee Bino
-91.08.24,Pugo Dagi
+91.08.22,WegeeMuka
+91.08.23,WegeeBino
+91.08.24,PugoDagi
 91.08.25,Muye
 91.08.26,Nakama
-91.08.27,Teluk Deya
+91.08.27,TelukDeya
 91.08.28,Yagai
 91.08.29,Youtadi
-91.08.30,Baya Biru
-91.08.31,Deiyai Miyo
+91.08.30,BayaBiru
+91.08.31,DeiyaiMiyo
 91.08.32,Dogomo
 91.08.33,Aweida
 91.08.34,Topiyai
-91.09.01,Mimika Baru
+91.09.01,MimikaBaru
 91.09.02,Agimuga
-91.09.03,Mimika Timur
-91.09.04,Mimika Barat
+91.09.03,MimikaTimur
+91.09.04,MimikaBarat
 91.09.05,Jita
 91.09.06,Jila
-91.09.07,Mimika Timur Jauh
-91.09.08,Mimika Tengah
-91.09.09,Kuala Kencana
+91.09.07,MimikaTimur Jauh
+91.09.08,MimikaTengah
+91.09.09,KualaKencana
 91.09.10,Tembagapura
-91.09.11,Mimika Barat Jauh
-91.09.12,Mimika Barat Tengah
-91.09.13,Kwamki Narama
+91.09.11,MimikaBarat Jauh
+91.09.12,MimikaBarat Tengah
+91.09.13,KwamkiNarama
 91.09.14,Hoya
 91.09.15,Iwaka
 91.09.16,Wania
 91.09.17,Amar
 91.09.18,Alama
 91.10.01,Sarmi
-91.10.02,Tor Atas
-91.10.03,Pantai Barat
-91.10.04,Pantai Timur
+91.10.02,TorAtas
+91.10.03,PantaiBarat
+91.10.04,PantaiTimur
 91.10.05,Bonggo
-91.10.09,Apawer Hulu
-91.10.12,Sarmi Selatan
-91.10.13,Sarmi Timur
-91.10.14,Pantai Timur Bagian Barat
-91.10.15,Bonggo Timur
+91.10.09,ApawerHulu
+91.10.12,SarmiSelatan
+91.10.13,SarmiTimur
+91.10.14,PantaiTimur Bagian Barat
+91.10.15,BonggoTimur
 91.11.01,Waris
 91.11.02,Arso
 91.11.03,Senggi
 91.11.04,Web
 91.11.05,Skanto
-91.11.06,Arso Timur
+91.11.06,ArsoTimur
 91.11.07,Towe
-91.11.08,Arso Barat
+91.11.08,ArsoBarat
 91.11.09,Mannem
 91.11.10,Yaffi
 91.11.11,Kaisenar
@@ -6674,7 +6674,7 @@ ID,Name
 91.12.04,Iwur
 91.12.05,Batom
 91.12.06,Borme
-91.12.07,Kiwirok Timur
+91.12.07,KiwirokTimur
 91.12.08,Aboy
 91.12.09,Pepera
 91.12.10,Bime
@@ -6683,7 +6683,7 @@ ID,Name
 91.12.13,Kalomdol
 91.12.14,Oksop
 91.12.15,Serambakon
-91.12.16,Ok Aom
+91.12.16,OkAom
 91.12.17,Kawor
 91.12.18,Awinbon
 91.12.19,Tarup
@@ -6710,7 +6710,7 @@ ID,Name
 91.13.08,Nalca
 91.13.09,Dekai
 91.13.10,Obio
-91.13.11,Suru Suru
+91.13.11,SuruSuru
 91.13.12,Wusama
 91.13.13,Amuma
 91.13.14,Musaik
@@ -6764,7 +6764,7 @@ ID,Name
 91.14.09,Panaga
 91.14.10,Woniki
 91.14.11,Kubu
-91.14.12,Konda/ Kondaga
+91.14.12,Konda/Kondaga
 91.14.13,Nelawi
 91.14.14,Kuari
 91.14.15,Bokoneri
@@ -6781,7 +6781,7 @@ ID,Name
 91.14.27,Poganeri
 91.14.28,Kamboneri
 91.14.29,Airgaram
-91.14.30,Wari/Taiyeve II
+91.14.30,Wari/TaiyeveII
 91.14.31,Dow
 91.14.32,Tagineri
 91.14.33,Yuneri
@@ -6796,20 +6796,20 @@ ID,Name
 91.14.42,Kai
 91.14.43,Aweku
 91.14.44,Bogonuk
-91.14.45,Li Anogomma
+91.14.45,LiAnogomma
 91.14.46,Biuk
 91.14.47,Yuko
-91.15.01,Waropen Bawah
+91.15.01,WaropenBawah
 91.15.03,Masirei
-91.15.07,Risei Sayati
-91.15.08,Urei Faisei
+91.15.07,RiseiSayati
+91.15.08,UreiFaisei
 91.15.09,Inggerus
 91.15.10,Kirihi
 91.15.11,Oudate
 91.15.12,Wapoga
 91.15.13,Demba
 91.15.14,Wonti
-91.15.15,Soyoi Mambai
+91.15.15,SoyoiMambai
 91.16.01,Mandobo
 91.16.02,Mindiptana
 91.16.03,Waropko
@@ -6831,7 +6831,7 @@ ID,Name
 91.16.19,Ki
 91.16.20,Kawagit
 91.17.01,Obaa
-91.17.02,Mambioman Bapai
+91.17.02,MambiomanBapai
 91.17.03,Citak-Mitak
 91.17.04,Edera
 91.17.05,Haju
@@ -6843,38 +6843,38 @@ ID,Name
 91.17.11,Syahcame
 91.17.12,Yakomi
 91.17.13,Bamgi
-91.17.14,Passue Bawah
-91.17.15,Ti Zain
+91.17.14,PassueBawah
+91.17.15,TiZain
 91.18.01,Agats
 91.18.02,Atsj
-91.18.03,Sawa Erma
+91.18.03,SawaErma
 91.18.04,Akat
 91.18.05,Fayit
-91.18.06,Pantai Kasuari
+91.18.06,PantaiKasuari
 91.18.07,Suator
 91.18.08,Suru-suru
-91.18.09,Kolf Braza
-91.18.10,Unir Sirau
+91.18.09,KolfBraza
+91.18.10,UnirSirau
 91.18.11,Joerat
-91.18.12,Pulau Tiga
+91.18.12,PulauTiga
 91.18.13,Jetsy
-91.18.14,Der Koumur
+91.18.14,DerKoumur
 91.18.15,Kopay
 91.18.16,Safan
 91.18.17,Sirets
 91.18.18,Ayip
 91.18.19,Betcbamu
-91.19.01,Supiori Selatan
-91.19.02,Supiori Utara
-91.19.03,Supiori Timur
-91.19.04,Kepulauan Aruri
-91.19.05,Supiori Barat
-91.20.01,Mamberamo Tengah
-91.20.02,Mamberamo Hulu
+91.19.01,SupioriSelatan
+91.19.02,SupioriUtara
+91.19.03,SupioriTimur
+91.19.04,KepulauanAruri
+91.19.05,SupioriBarat
+91.20.01,MamberamoTengah
+91.20.02,MamberamoHulu
 91.20.03,Rufaer
-91.20.04,Mamberamo Tengah Timur
-91.20.05,Mamberamo Hilir
-91.20.06,Waropen Atas
+91.20.04,MamberamoTengah Timur
+91.20.05,MamberamoHilir
+91.20.06,WaropenAtas
 91.20.07,Benuki
 91.20.08,Sawai
 91.21.01,Kobagma
@@ -6883,7 +6883,7 @@ ID,Name
 91.21.04,Megambilis
 91.21.05,Ilugwa
 91.22.01,Elelim
-91.22.02,Apalapsili;
+91.22.02,Apalapsili
 91.22.03,Abenaho
 91.22.04,Benawa
 91.22.05,Welarek
@@ -6900,7 +6900,7 @@ ID,Name
 91.23.11,Niname
 91.23.12,Nogi
 91.23.13,Yiginua
-91.23.14,Tiom Ollo
+91.23.14,TiomOllo
 91.23.15,Yugungwi
 91.23.16,Mokoni
 91.23.17,Wereka
@@ -6909,14 +6909,14 @@ ID,Name
 91.23.20,Gollo
 91.23.21,Awina
 91.23.22,Ayumnati
-91.23.23,Wano Barat
-91.23.24,Goa Balim
+91.23.23,WanoBarat
+91.23.24,GoaBalim
 91.23.25,Bruwa
-91.23.26,Balingga Barat
+91.23.26,BalinggaBarat
 91.23.27,Gupura
 91.23.28,Kolawa
-91.23.29,Gelok Beam
-91.23.30,Kuly Lanny
+91.23.29,GelokBeam
+91.23.30,KulyLanny
 91.23.31,Lannyna
 91.23.32,Karu
 91.23.33,Yiluk
@@ -6924,7 +6924,7 @@ ID,Name
 91.23.35,Kelulome
 91.23.36,Nikogwe
 91.23.37,Muara
-91.23.38,Buguk Gona
+91.23.38,BugukGona
 91.23.39,Melagi
 91.24.01,Kenyam
 91.24.02,Mapenduma
@@ -6947,8 +6947,8 @@ ID,Name
 91.24.19,Nirkuri
 91.24.20,Inikgal
 91.24.21,Iniye
-91.24.22,Mbulmu Yalma
-91.24.23,Mbua Tengah
+91.24.22,MbulmuYalma
+91.24.23,MbuaTengah
 91.24.24,Embetpen
 91.24.25,Kora
 91.24.26,Wusi
@@ -6957,7 +6957,7 @@ ID,Name
 91.24.29,Wutpaga
 91.24.30,Nenggeagin
 91.24.31,Krepkuri
-91.24.32,Pasir Putih
+91.24.32,PasirPutih
 91.25.01,Ilaga
 91.25.02,Wangbe
 91.25.03,Beoga
@@ -6967,31 +6967,31 @@ ID,Name
 91.25.07,Agandugume
 91.25.08,Gome
 91.25.09,Dervos
-91.25.10,Beoga Barat
-91.25.11,Beoga Timur
+91.25.10,BeogaBarat
+91.25.11,BeogaTimur
 91.25.12,Ogamanim
 91.25.13,Kembru
 91.25.14,Bina
-91.25.15,Sinak Barat
-91.25.16,Mage\abume
+91.25.15,SinakBarat
+91.25.16,Magegabume
 91.25.17,Yugumuak
-91.25.18,Ilaga Utara
+91.25.18,IlagaUtara
 91.25.19,Mabugi
 91.25.20,Omukia
 91.25.21,Lambewi
 91.25.22,Oneri
 91.25.23,Amungkalpia
-91.25.24,Gome Utara
+91.25.24,GomeUtara
 91.25.25,Erelmakawia
 91.26.01,Kamu
 91.26.02,Mapia
 91.26.03,Piyaiye
-91.26.04,Kamu Utara
-91.26.05,Sukikai Selatan
-91.26.06,Mapia Barat
-91.26.07,Kamu Selatan
-91.26.08,Kamu Timur
-91.26.09,Mapia Tengah
+91.26.04,KamuUtara
+91.26.05,SukikaiSelatan
+91.26.06,MapiaBarat
+91.26.07,KamuSelatan
+91.26.08,KamuTimur
+91.26.09,MapiaTengah
 91.26.10,Dogiyai
 91.27.01,Sugapa
 91.27.02,Homeyo
@@ -7002,14 +7002,14 @@ ID,Name
 91.27.07,Ugimba
 91.27.08,Tomosiga
 91.28.01,Tigi
-91.28.02,Tigi Timur
+91.28.02,TigiTimur
 91.28.03,Bowobado
-91.28.04,Tigi Barat
+91.28.04,TigiBarat
 91.28.05,Kapiraya
-91.71.01,Jayapura Utara
-91.71.02,Jayapura Selatan
+91.71.01,JayapuraUtara
+91.71.02,JayapuraSelatan
 91.71.03,Abepura
-91.71.04,Muara Tami
+91.71.04,MuaraTami
 91.71.05,Heram
 92.01.01,Makbon
 92.01.04,Beraur
@@ -7020,7 +7020,7 @@ ID,Name
 92.01.10,Sayosa
 92.01.12,Segun
 92.01.13,Mayamuk
-92.01.14,Salawati Selatan
+92.01.14,SalawatiSelatan
 92.01.17,Klabot
 92.01.18,Klawak
 92.01.20,Maudus
@@ -7038,30 +7038,30 @@ ID,Name
 92.01.50,Konhir
 92.01.51,Klasafet
 92.01.52,Hobard
-92.01.53,Salawati Tengah
+92.01.53,SalawatiTengah
 92.01.54,Botain
-92.01.55,Sayosa Timur
+92.01.55,SayosaTimur
 92.02.03,Warmare
 92.02.04,Prafi
 92.02.05,Masni
-92.02.12,Manokwari Barat
-92.02.13,Manokwari Timur
-92.02.14,Manokwari Utara
-92.02.15,Manokwari Selatan
-92.02.17,Tanah Rubuh
+92.02.12,ManokwariBarat
+92.02.13,ManokwariTimur
+92.02.14,ManokwariUtara
+92.02.15,ManokwariSelatan
+92.02.17,TanahRubuh
 92.02.21,Sidey
 92.03.01,Fak-Fak
-92.03.02,Fak-Fak Barat
-92.03.03,Fak-Fak Timur
+92.03.02,Fak-FakBarat
+92.03.03,Fak-FakTimur
 92.03.04,Kokas
-92.03.05,Fak-Fak Tengah
+92.03.05,Fak-FakTengah
 92.03.06,Karas
 92.03.07,Bomberay
 92.03.08,Kramongmongga
-92.03.09,Teluk Patipi
+92.03.09,TelukPatipi
 92.03.10,Pariwari
 92.03.11,Wartutin
-92.03.12,Fakfak Timur Tengah
+92.03.12,FakfakTimur Tengah
 92.03.13,Arguni
 92.03.14,Mbahamdandara
 92.03.15,Kayauni
@@ -7077,48 +7077,48 @@ ID,Name
 92.04.14,Kais
 92.04.15,Konda
 92.04.20,Matemani
-92.04.21,Kokoda Utara
+92.04.21,KokodaUtara
 92.04.22,Saifi
 92.04.24,Fokour
 92.04.25,Salkma
-92.04.26,Kais Darat
-92.05.01,Misool Misool Utara
-92.05.02,Waigeo Utara
-92.05.03,Waigeo Selatan
-92.05.04,Salawati Utara
-92.05.05,Kepulauan Ayau
-92.05.06,Misool Timur
-92.05.07,Waigeo Barat
-92.05.08,Waigeo Timur
-92.05.09,Teluk Mayalibit
+92.04.26,KaisDarat
+92.05.01,MisoolMisool Utara
+92.05.02,WaigeoUtara
+92.05.03,WaigeoSelatan
+92.05.04,SalawatiUtara
+92.05.05,KepulauanAyau
+92.05.06,MisoolTimur
+92.05.07,WaigeoBarat
+92.05.08,WaigeoTimur
+92.05.09,TelukMayalibit
 92.05.10,Kofiau
-92.05.11,Meos Mansar
-92.05.13,Misool Selatan
+92.05.11,MeosMansar
+92.05.13,MisoolSelatan
 92.05.14,Warwarbomi
-92.05.15,Waigeo Barat Kepulauan
-92.05.16,Misool Barat
-92.05.17,Kepulauan Sembilan
-92.05.18,Kota Waisai
-92.05.19,Tiplol Mayalibit
-92.05.20,Batanta Utara
-92.05.21,Salawati Barat
-92.05.22,Salawati Tengah
+92.05.15,WaigeoBarat Kepulauan
+92.05.16,MisoolBarat
+92.05.17,KepulauanSembilan
+92.05.18,KotaWaisai
+92.05.19,TiplolMayalibit
+92.05.20,BatantaUtara
+92.05.21,SalawatiBarat
+92.05.22,SalawatiTengah
 92.05.23,Supnin
 92.05.24,Ayau
-92.05.25,Batanta Selatan
+92.05.25,BatantaSelatan
 92.06.01,Bintuni
 92.06.02,Merdey
 92.06.03,Babo
 92.06.04,Aranday
-92.06.05,Moskona Selatan
-92.06.06,Moskona Utara
+92.06.05,MoskonaSelatan
+92.06.06,MoskonaUtara
 92.06.07,Wamesa
 92.06.08,Fafurwar
 92.06.09,Tembuni
 92.06.10,Kuri
 92.06.11,Manimeri
 92.06.12,Tuhiba
-92.06.13,Dataran Beimes
+92.06.13,DataranBeimes
 92.06.14,Sumuri
 92.06.15,Kaitaro
 92.06.16,Aroba
@@ -7127,28 +7127,28 @@ ID,Name
 92.06.19,Tomu
 92.06.20,Kamundan
 92.06.21,Weriagar
-92.06.22,Moskona Barat
+92.06.22,MoskonaBarat
 92.06.23,Meyado
-92.06.24,Moskona Timur
+92.06.24,MoskonaTimur
 92.07.01,Wasior
 92.07.02,Windesi
-92.07.03,Teluk Duairi
+92.07.03,TelukDuairi
 92.07.04,Wondiboy
 92.07.05,Wamesa
 92.07.06,Rumberpon
 92.07.07,Naikere
 92.07.08,Rasiei
-92.07.09,Kuri Wamesa
+92.07.09,KuriWamesa
 92.07.10,Roon
 92.07.11,Roswar
 92.07.12,Nikiwar
-92.07.13,Soug Jaya
+92.07.13,SougJaya
 92.08.01,Kaimana
 92.08.02,Buruway
-92.08.03,Teluk Arguni Atas
-92.08.04,Teluk Etna
+92.08.03,TelukArguni Atas
+92.08.04,TelukEtna
 92.08.05,Kambrau
-92.08.06,Teluk Arguni Bawah
+92.08.06,TelukArguni Bawah
 92.08.07,Yamor
 92.09.01,Fef
 92.09.02,Miyah
@@ -7165,52 +7165,52 @@ ID,Name
 92.09.13,Bikar
 92.09.14,Bamusbama
 92.09.15,Ases
-92.09.16,Miyah Selatan
+92.09.16,MiyahSelatan
 92.09.17,Ireres
 92.09.18,Tobouw
-92.09.19,Wilhem Roumbouts
+92.09.19,WilhemRoumbouts
 92.09.20,Tinggouw
 92.09.21,Kwesefo
 92.09.22,Mawabuan
-92.09.23,Kebar Timur
-92.09.24,Kebar Selatan
+92.09.23,KebarTimur
+92.09.24,KebarSelatan
 92.09.25,Manekar
 92.09.26,Mpur
-92.09.27,Amberbaken Barat
+92.09.27,AmberbakenBarat
 92.09.28,Kasi
 92.09.29,Selemkai
 92.10.01,Aifat
-92.10.02,Aifat Utara
-92.10.03,Aifat Timur
-92.10.04,Aifat Selatan
-92.10.05,Aitinyo Barat
+92.10.02,AifatUtara
+92.10.03,AifatTimur
+92.10.04,AifatSelatan
+92.10.05,AitinyoBarat
 92.10.06,Aitinyo
-92.10.07,Aitinyo Utara
+92.10.07,AitinyoUtara
 92.10.08,Ayamaru
-92.10.09,Ayamaru Utara
-92.10.10,Ayamaru Timur
+92.10.09,AyamaruUtara
+92.10.10,AyamaruTimur
 92.10.11,Mare
-92.10.12,Aifat Timur Tengah
-92.10.13,Aifat Timur Jauh
-92.10.14,Aifat Timur Selatan
-92.10.15,Ayamaru Selatan
-92.10.16,Ayamaru Jaya
-92.10.17,Ayamaru Selatan Jaya
-92.10.18,Ayamaru Timur Selatan
-92.10.19,Ayamaru Utara Timur
-92.10.20,Ayamaru Tengah
-92.10.21,Ayamaru Barat
-92.10.22,Aitinyo Tengah
-92.10.23,Aitinyo Raya
-92.10.24,Mare Selatan
+92.10.12,AifatTimur Tengah
+92.10.13,AifatTimur Jauh
+92.10.14,AifatTimur Selatan
+92.10.15,AyamaruSelatan
+92.10.16,AyamaruJaya
+92.10.17,AyamaruSelatan Jaya
+92.10.18,AyamaruTimur Selatan
+92.10.19,AyamaruUtara Timur
+92.10.20,AyamaruTengah
+92.10.21,AyamaruBarat
+92.10.22,AitinyoTengah
+92.10.23,AitinyoRaya
+92.10.24,MareSelatan
 92.11.01,Ransiki
 92.11.02,Oransbari
 92.11.03,Neney
-92.11.04,Dataran Isim
-92.11.05,Momi Waren
+92.11.04,DataranIsim
+92.11.05,MomiWaren
 92.11.06,Tahota
 92.12.01,Anggi
-92.12.02,Anggi Gida
+92.12.02,AnggiGida
 92.12.03,Membey
 92.12.04,Sururey
 92.12.05,Didohu
@@ -7220,12 +7220,12 @@ ID,Name
 92.12.09,Minyambaouw
 92.12.10,Hingk
 92.71.01,Sorong
-92.71.02,Sorong Timur
-92.71.03,Sorong Barat
-92.71.04,Sorong Kepulauan
-92.71.05,Sorong Utara
-92.71.06,Sorong Manoi
-92.71.07,Sorong Kota
+92.71.02,SorongTimur
+92.71.03,SorongBarat
+92.71.04,SorongKepulauan
+92.71.05,SorongUtara
+92.71.06,SorongManoi
+92.71.07,SorongKota
 92.71.08,Klaurung
 92.71.09,Malaimsimsa
-92.71.10,Maladum Mes
+92.71.10,MaladumMes

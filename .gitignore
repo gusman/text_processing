@@ -132,4 +132,4 @@ dmypy.json
 backup/
 model/
 anotated_data/
-
+*nohup.out

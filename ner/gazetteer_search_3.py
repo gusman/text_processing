@@ -12,21 +12,25 @@ def search_in_gazetteer(sr_locs):
     dict_adm1 = {}
     dict_adm2 = {}
     dict_adm3 = {}
+       
     for index, item in sr_locs.iteritems():
         loc_id, loc_str = gztr.search_gazetteer_by_name(4, index, sr_locs, 1)
         if None != loc_id and loc_id not in dict_adm1:
             dict_adm1[loc_id] = loc_str
-
+        gztr.adm1_keys_filter = list(dict_adm1.keys())
+        
+    for index, item in sr_locs.iteritems():
         loc_id, loc_str = gztr.search_gazetteer_by_name(4, index, sr_locs, 2)
         if None != loc_id and loc_id not in dict_adm2:
             dict_adm2[loc_id] = loc_str
-
+        gztr.adm2_keys_filter = list(dict_adm2.keys())
+    
+    for index, item in sr_locs.iteritems():
         loc_id, loc_str = gztr.search_gazetteer_by_name(4, index, sr_locs, 3)
         if None != loc_id and loc_id not in dict_adm3:
             dict_adm3[loc_id] = loc_str
             
     return dict_adm1, dict_adm2, dict_adm3
-
 
 def consolidate_adm3(adm_loc):
     adm3_str = ''

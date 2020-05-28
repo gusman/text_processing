@@ -9,6 +9,31 @@ import re
 
 from ner_tool import NerTool
 
+# re keywords based on file name
+def re_string(text):
+    re_keywords = ''
+    if 'angin_topan' in text:
+        re_keywords = r'badai|puting beliung|angin topan|tornado|angin kencang'
+    elif 'banjir' in text:
+        re_keywords = r'banjir'
+    elif 'erupsi' in text:
+        re_keywords = r'vulkanik|erupsi|letusan|awan panas|lava'
+    elif 'gempa' in text:
+        re_keywords = r'gempa|tektonik'
+    elif 'karhutla'in text:
+        re_keywords = r'kebakaran hutan|kebakaran lahan|titik panas'
+    elif 'kekeringan'in text:
+        re_keywords = r'kekeringan'
+    elif 'longsor'in text:
+        re_keywords = r'longsor'
+    elif 'tsunami'in text:
+        re_keywords = r'tsunami'
+    else:
+        re_keywords = 'XXXXXXXXXXXXXXXX'
+
+    return re_keywords
+
+
 f_in = sys.argv[1]
 f_out = f_in.replace('.xlsx', '_ner_st_keywords.xlsx')
 
@@ -21,40 +46,20 @@ df_out['raw_ner'] = ''
 df_out['exec_time'] = ''
 
 # Create df only row wit label is 'Y'
-df_data = df_gold[df_gold.label == 'Y'][['id', 'content']]
+df_data = df_gold[df_gold.label == 'Y'][['id', 'title', 'content']]
 
 # Initialize Ner tool
 ner_model = '/home/admin/text_processing/ner/model/idner-model-20k-mdee.ser.gz'
 ner_app = '/home/admin/stanford-ner/stanford-ner.jar'
 ner_tool = NerTool(ner_model, ner_app)
 
-# re keywords based on file name
-re_keywords = ''
-if 'angin_topan' in f_in:
-    re_keywords = r'badai|puting beliung|angin topan|tornado|angin kencang'
-elif 'banjir' in f_in:
-    re_keywords = r'banjir'
-elif 'erupsi' in f_in:
-    re_keywords = r'vulkanik|erupsi|letusan|awan panas|lava'
-elif 'gempa' in f_in:
-    re_keywords = r'gempa|tektonik'
-elif 'karhutla'in f_in:
-    re_keywords = r'kebakaran hutan|kebakaran lahan|titik panas'
-elif 'kekeringan'in f_in:
-    re_keywords = r'kekeringan'
-elif 'longsor'in f_in:
-    re_keywords = r'longsor'
-elif 'tsunami'in f_in:
-    re_keywords = r'tsunami'
-else:
-    re_keywords = 'XXXXXXXXXXXXXXXX'
-
 
 # Ner processing and store output in df_out
 for index, row in df_data.iterrows():
     row_id = row['id']
-    row_text = row['content']
-    
+    row_text = row['title'] + ' ' + row['content']
+    re_keywords = re_string(row_id)
+
     start_time = timeit.default_timer()
     sent_tokens = sent_tokenize(row_text)
     sent_valid = [ l for l in sent_tokens\

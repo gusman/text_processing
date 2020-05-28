@@ -65,17 +65,22 @@ class GazetteerAdmLoc:
         return len_str, loc_id, loc_str
 
     def search_gazetteer_by_name(self, n_grams, index, sr_locs, adm_level=1):  
-        ret_len = 0
+        prev_ret_len = 0
+        curr_ret_len = 0
         loc_id = None
         loc_str = None
         words = ''
         
         for offset in range(0, n_grams):
-            if 0 >= ret_len and index + offset < len(sr_locs.index):
+            if index + offset < len(sr_locs.index):
                 words += ' ' + sr_locs[index + offset].lower()
                 words = words.strip()
-                ret_len, loc_id, loc_str = self.__search_df_adm(words, adm_level, 'Name')
-    
+                curr_ret_len, tmp_loc_id, tmp_loc_str =\
+                    self.__search_df_adm(words, adm_level, 'Name')
+                
+            if curr_ret_len > prev_ret_len:
+                loc_id, loc_str = tmp_loc_id, tmp_loc_str
+                
         return loc_id, loc_str
     
     def search_gazetteer_by_id(self, n_grams, index, sr_locs, adm_level=1):  
