@@ -110,13 +110,20 @@ if __name__ == "__main__":
         adm_loc = consolidate_adm3(adm_loc)
         adm_loc = consolidate_adm1(adm_loc)
 
-        adm1_str = ', '.join(list(adm_loc.dict_adm1.values()))
-        adm2_str = ', '.join(list(adm_loc.dict_adm2.values()))
-        adm3_str = ', '.join(list(adm_loc.dict_adm3.values()))
+        l_adm1 = list(adm_loc.dict_adm1.values())
+        l_adm2 = list(adm_loc.dict_adm2.values())
+        l_adm3 = list(adm_loc.dict_adm3.values())
+
+        # Remove adm1 and adm2 duplicate
+        l_adm3 = list(set(l_adm3) - set(l_adm2))
+
+        adm1_str = ', '.join(l_adm1)
+        adm2_str = ', '.join(l_adm2)
+        adm3_str = ', '.join(l_adm3)
 
         df_out.loc[df_out['id'] == row_id, 'adm1'] = adm1_str         
         df_out.loc[df_out['id'] == row_id, 'adm2'] = adm2_str
         df_out.loc[df_out['id'] == row_id, 'adm3'] = adm3_str
     
-    f_out = f_in.replace('.xlsx', '_normal_3.xlsx')
+    f_out = f_in.replace('.xlsx', '_result_3.xlsx')
     df_out.to_excel(f_out, index=False)
