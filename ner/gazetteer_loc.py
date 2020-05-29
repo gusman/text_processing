@@ -1,9 +1,9 @@
 import pandas as pd 
 
 class GazetteerAdmLoc:
-    adm1_gztr = '/home/admin/text_processing/ner/gazetteer/prov_gazetteer.csv'
-    adm2_gztr = '/home/admin/text_processing/ner/gazetteer/kota_kab_gazetteer.csv'
-    adm3_gztr = '/home/admin/text_processing/ner/gazetteer/kecamatan_gazetteer.csv'
+    adm1_gztr = 'gazetteer/prov_gazetteer.csv'
+    adm2_gztr = 'gazetteer/kota_kab_gazetteer.csv'
+    adm3_gztr = 'gazetteer/kecamatan_gazetteer.csv'
     
     def __init__(self):
         df_adm1 = pd.read_csv(self.adm1_gztr)

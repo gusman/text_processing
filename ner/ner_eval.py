@@ -15,7 +15,7 @@ def measure(str_true, str_pred):
     return jc_sm, p, r, f1
 
 if __name__ == "__main__":
-    f_ref = '/home/admin/text_processing/anotated_data/gold_standard/date_loc/date_loc_gold_standard_v02.xlsx'
+    f_ref = '../tmp_dir/loc_gold_standard_v03.xlsx'
 
     f_in = sys.argv[1]
     f_out = f_in.replace('.xlsx', '_eval.xlsx')
@@ -79,7 +79,7 @@ if __name__ == "__main__":
     ]
 
     df_out = df_out[final_cols]
-    dir_out = '/home/admin/text_processing/anotated_data/gold_standard/date_loc/eval_02'
+    dir_out = '../tmp_dir/eval'
     fname_out = basename(f_out)
     f_out = dir_out + '/' + fname_out
     df_out.to_excel(f_out, index=False)
