@@ -1,15 +1,11 @@
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
 from scipy import stats
 
-
-
 if __name__ == '__main__':
-    f_eval1 = '../tmp_dir/eval/date_loc_gold_standard_v03_ner_w_tokens_result_1_eval.xlsx'
-    f_eval2 = '../tmp_dir/eval/date_loc_gold_standard_v03_ner_w_tokens_result_2_eval.xlsx'
-    f_eval3 = '../tmp_dir/eval/date_loc_gold_standard_v03_ner_w_tokens_result_3_eval.xlsx'
-    f_st_eval3 = '../tmp_dir/eval/date_loc_gold_standard_v03_ner_st_keywords_result_3_eval.xlsx'
+    f_eval1 = '../tmp_dir/loc/eval/loc_gold_standard_v03_ner_w_tokens_result_1_eval.xlsx'
+    f_eval2 = '../tmp_dir/loc/eval/loc_gold_standard_v03_ner_w_tokens_result_2_eval.xlsx'
+    f_eval3 = '../tmp_dir/loc/eval/loc_gold_standard_v03_ner_w_tokens_result_3_eval.xlsx'
+    f_st_eval3 = '../tmp_dir/loc/eval/loc_gold_standard_v03_ner_st_keywords_result_3_eval.xlsx'
 
     df_eval1 = pd.read_excel(f_eval1)
     df_eval2 = pd.read_excel(f_eval2)
@@ -41,7 +37,7 @@ if __name__ == '__main__':
     print('P-Value F1_AVG: %0.5f' % p)
 
     print("--- T-TEST Metode Pemilihan Kalimat ---")
-    data1 = df_eval1['jc_avg'][:400].to_numpy()
+    data1 = df_eval3['jc_avg'][:400].to_numpy()
     data2 = df_st_eval3['jc_avg'][:400].to_numpy()
     stat, p = stats.ttest_rel(data1, data2)
     print('P-Value JC_AVG: %0.5f' % p)
