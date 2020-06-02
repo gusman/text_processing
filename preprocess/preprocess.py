@@ -29,7 +29,7 @@ def add_space_after_period_comma(text):
     return text
 
 def clean_specific_words(text):
-    words_1 = '\n\n\n\n(adsbygoogle = window.adsbygoogle || []).push({});'
+    words_1 = '(adsbygoogle = window.adsbygoogle || []).push({});'
     words_2 = '\nHome'
     text = text.replace(words_1, '')
     text = text.replace(words_2, '')

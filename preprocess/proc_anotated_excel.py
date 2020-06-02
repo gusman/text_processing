@@ -12,11 +12,7 @@ class AnotatedConverter:
     def write_to_json(self):
         ret = None
        
-        if self.f_in.lower().find('angin_topan'):
-            df_tmp = self.__get_json_df_angin_topan()
-        else:
-            return ret
-        
+        df_tmp = pd.read_excel(self.f_in)
         df_tmp = df_tmp[['id',	'source', 'date', 'title', 'content', 'label']]
         try:
             df_tmp.to_json(self.f_json, index=False, indent=2, orient='table')
