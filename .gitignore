@@ -133,3 +133,4 @@ backup/
 model/
 anotated_data/
 *nohup.out
+.vscode/
