@@ -8,15 +8,15 @@ from sklearn.model_selection import KFold
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 def construct_tfidf_unigrams(corpus_text):
-    vectorizer = TfidfVectorizer(ngram_range=(1,1))
+    vectorizer = TfidfVectorizer(ngram_range=(1,1), max_features=300)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_tfidf_bigrams(corpus_text):
-    vectorizer = TfidfVectorizer(ngram_range=(2,2))
+    vectorizer = TfidfVectorizer(ngram_range=(2,2), max_features=300)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_tfidf_uni_and_bigrams(corpus_text):
-    vectorizer = TfidfVectorizer(ngram_range=(1,2))
+    vectorizer = TfidfVectorizer(ngram_range=(1,2), max_features=300)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_bow_unigrams(corpus_text):
@@ -33,23 +33,26 @@ def construct_bow_uni_and_bigrams(corpus_text):
 
 
 def eval_cv(n_splits, X, y, clf):
-    kf = KFold(n_splits=n_splits, shuffle=True)
+    kf = KFold(n_splits=n_splits, shuffle=True, random_state=1)
     report = []
+    dict_result = {} 
     ctr = 1
     for train_index, test_index in kf.split(X):
         X_train, X_test = X[train_index], X[test_index]
         y_train, y_test = y[train_index], y[test_index]
-       
+        
         clf.fit(X_train, y_train)
+        
         clf_result = clf.predict(X_test)
+        for i,v in enumerate(test_index):
+            dict_result[v] = clf_result[i]
 
         dict_report = classification_report(y_test, clf_result, 
                         zero_division=1, output_dict=1)
         ctr += 1
-        
         report.append(dict_report)
-    
-    return report
+   
+    return report, dict_result
     
         
     

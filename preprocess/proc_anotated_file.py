@@ -2,7 +2,6 @@
 import sys
 import json
 import preprocess as pre
-from proc_anotated_excel import AnotatedConverter
 
 
 f_in = sys.argv[1]
