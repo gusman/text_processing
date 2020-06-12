@@ -17,44 +17,46 @@ if __name__ == '__main__':
     data2 = df_eval2['jc_avg'][:400].to_numpy()
     data3 = df_eval3['jc_avg'][:400].to_numpy()
     stat, p = stats.f_oneway(data1, data2, data3)
-    print('P-Value JC_AVG: %0.5f' % p)
+    print('P-Value JC_AVG: %0.5f %0.5f' % (stat, p))
 
     data1 = df_eval1['p_avg'][:400].to_numpy()
     data2 = df_eval2['p_avg'][:400].to_numpy()
     data3 = df_eval3['p_avg'][:400].to_numpy()
     stat, p = stats.f_oneway(data1, data2, data3)
-    print('P-Value P_AVG: %0.5f' % p)
+    print('P-Value P_AVG: %0.5f %0.5f' % (stat, p))
+
 
     data1 = df_eval1['r_avg'][:400].to_numpy()
     data2 = df_eval2['r_avg'][:400].to_numpy()
     data3 = df_eval3['r_avg'][:400].to_numpy()
-    print('P-Value R_AVG: %0.5f' % p)
+    print('P-Value R_AVG: %0.5f %0.5f' % (stat, p))
+
 
     data1 = df_eval1['f1_avg'][:400].to_numpy()
     data2 = df_eval2['f1_avg'][:400].to_numpy()
     data3 = df_eval3['f1_avg'][:400].to_numpy()
     stat, p = stats.f_oneway(data1, data2, data3)
-    print('P-Value F1_AVG: %0.5f' % p)
+    print('P-Value F1_AVG: %0.5f %0.5f' % (stat, p))
 
     print("--- T-TEST Metode Pemilihan Kalimat ---")
     data1 = df_eval3['jc_avg'][:400].to_numpy()
     data2 = df_st_eval3['jc_avg'][:400].to_numpy()
     stat, p = stats.ttest_rel(data1, data2)
-    print('P-Value JC_AVG: %0.5f' % p)
+    print('P-Value JC_AVG: %0.5f %0.5f' % (stat, p))
 
     data1 = df_eval3['p_avg'][:400].to_numpy()
     data2 = df_st_eval3['p_avg'][:400].to_numpy()
     stat, p = stats.ttest_rel(data1, data2)
-    print('P-Value P_AVG: %0.5f' % p)
+    print('P-Value P_AVG: %0.5f %0.5f' % (stat, p))
 
     data1 = df_eval3['r_avg'][:400].to_numpy()
     data2 = df_st_eval3['r_avg'][:400].to_numpy()
     stat, p = stats.ttest_rel(data1, data2)
-    print('P-Value R_AVG: %0.5f' % p)
+    print('P-Value R_AVG: %0.5f %0.5f' % (stat, p))
 
     data1 = df_eval3['f1_avg'][:400].to_numpy()
     data2 = df_st_eval3['f1_avg'][:400].to_numpy()
     stat, p = stats.ttest_rel(data1, data2)
-    print('P-Value F1_AVG: %0.5f' % p)
+    print('P-Value F1_AVG: %0.5f %0.5f' % (stat, p))
 
 
