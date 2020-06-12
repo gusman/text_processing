@@ -4,7 +4,11 @@ from sklearn.naive_bayes import MultinomialNB
 from scipy.stats import f_oneway
 from mlxtend.evaluate import cochrans_q
 
+from mlxtend.evaluate import mcnemar
+from mlxtend.evaluate import mcnemar_table
+
 import classifier_tool as tool
+
 
 if __name__ == "__main__":
     f_in = sys.argv[1]
@@ -79,14 +83,22 @@ if __name__ == "__main__":
     q, p_value = cochrans_q(y, y_tc_lower, y_t_lower, y_c_lower)
     print("COHRAN Q-Test: q: %0.5f, p_value: %0.5f" % (q, p_value))
 
+    l_repr =  [ 't_lower', 'c_lower', 'tc_lower' ]
+    l_rslt =  [ y_t_lower, y_c_lower, y_tc_lower ]
+    l_pair = list(zip(l_repr, l_rslt))
 
-
-
-
-
-
-
-
-
-
-
+    for i, t0 in enumerate(l_pair):
+        for j, t1 in enumerate(l_pair[i+1:]):
+            k0 = t0[0]
+            k1 = t1[0]
+            v0 = t0[1]
+            v1 = t1[1]
+            
+            tb = mcnemar_table(
+                y_target = y, 
+                y_model1 = v0, 
+                y_model2 = v1)
+            chi2, p = mcnemar(ary=tb, corrected=True)
+            print(f"McNemar %s - %s:  chi2 : %0.5f, p_value: %0.5f" 
+                    % (k0, k1, chi2, p))
+    

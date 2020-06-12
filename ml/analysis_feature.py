@@ -14,13 +14,13 @@ if __name__ == "__main__":
     print("Selection of feature")
     print("feature selection: BOW vs TFIDF")
     print("Algorithm:  Multinomial NB")
-    print("Repr: tc_lower")
+    print("Repr: tc_stem")
 
     clf = MultinomialNB()
     y = df['label'].to_numpy()
     df_result = pd.DataFrame()
 
-    X, vectorizer = tool.construct_bow_unigrams(df['tc_lower'])
+    X, vectorizer = tool.construct_bow_unigrams(df['tc_stem'])
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_bow_uni = pd.Series(dict_result).sort_index()
     
@@ -28,7 +28,7 @@ if __name__ == "__main__":
     df_result['bow_uni_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['bow_uni_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = tool.construct_tfidf_unigrams(df['tc_lower'])
+    X, vectorizer = tool.construct_tfidf_unigrams(df['tc_stem'])
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_tfidf_uni = pd.Series(dict_result).sort_index()
     
@@ -44,22 +44,29 @@ if __name__ == "__main__":
     ]]
 
     print(df_result)
+    l_stat = []
+    l_pval = []
 
     result = ttest_rel(
             df_result['bow_uni_P'].to_numpy(), 
             df_result['tfidf_uni_P'].to_numpy())
     print("Paired Test P: %0.5f, %0.5f" % result)
+    l_stat.append("%0.5f" % result[0])
+    l_pval.append("%0.5f" % result[1])
     
     result = ttest_rel(
             df_result['bow_uni_R'].to_numpy(), 
             df_result['tfidf_uni_R'].to_numpy())
     print("Paired Test R: %0.5f, %0.5f" % result)
-
+    l_stat.append("%0.5f" % result[0])
+    l_pval.append("%0.5f" % result[1])
 
     result = ttest_rel(
             df_result['bow_uni_F1'].to_numpy(), 
             df_result['tfidf_uni_F1'].to_numpy())
     print("Paired Test F1: %0.5f, %0.5f" % result)
+    l_stat.append("%0.5f" % result[0])
+    l_pval.append("%0.5f" % result[1])
 
     # McNemar Test
     y_bow_uni = sr_bow_uni.to_numpy()
@@ -70,6 +77,9 @@ if __name__ == "__main__":
             y_model2 = y_tfidf_uni)
     chi2, p = mcnemar(ary=tb, corrected=True)
     print("Mcnemar: chi2: %0.5f, p_value: %0.5f" % (chi2, p))
+
+#    print("T_STAT: ", ' '.join(l_stat))
+#    print("P_VAL: ", ' '.join(l_pval))
 
 #    df_out = pd.DataFrame()
 #    df_out['Y_TRUE'] = df['label'] 

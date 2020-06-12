@@ -13,21 +13,21 @@ if __name__ == '__main__':
     data1 = df_eval1['jc_sim'][:400].to_numpy()
     data2 = df_eval2['jc_sim'][:400].to_numpy()
     stat, p = stats.ttest_rel(data1, data2)
-    print('P-Value JC_AVG: %0.5f' % p)
+    print('P-Value JC_AVG: %0.5f %0.5f' % (stat, p))
 
     data1 = df_eval1['pre'][:400].to_numpy()
     data2 = df_eval2['pre'][:400].to_numpy()
     stat, p = stats.ttest_rel(data1, data2)
-    print('P-Value P_AVG: %0.5f' % p)
+    print('P-Value P_AVG: %0.5f %0.5f' % (stat, p))
 
     data1 = df_eval1['rec'][:400].to_numpy()
     data2 = df_eval2['rec'][:400].to_numpy()
     stat, p = stats.ttest_rel(data1, data2)
-    print('P-Value R_AVG: %0.5f' % p)
+    print('P-Value R_AVG: %0.5f %0.5f' % (stat, p))
 
     data1 = df_eval1['f1'][:400].to_numpy()
     data2 = df_eval2['f1'][:400].to_numpy()
     stat, p = stats.ttest_rel(data1, data2)
-    print('P-Value F1_AVG: %0.5f' % p)
+    print('P-Value F1_AVG: %0.5f %0.5f' % (stat, p))
 
 

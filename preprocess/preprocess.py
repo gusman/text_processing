@@ -6,7 +6,7 @@ from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
 def clean_specific_char(text):
-    text = text.replace('\\u00a0', '  ')
+    text = text.replace('\\u00a0', ' ')
     text = text.replace('\\xa0', ' ')
     text = text.replace('\\xad', '')
     return text
