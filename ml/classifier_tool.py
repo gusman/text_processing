@@ -20,15 +20,15 @@ def construct_tfidf_uni_and_bigrams(corpus_text):
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_bow_unigrams(corpus_text):
-    vectorizer = CountVectorizer(ngram_range=(1,1))
+    vectorizer = CountVectorizer(ngram_range=(1,1), max_features=1200)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_bow_bigrams(corpus_text):
-    vectorizer = CountVectorizer(ngram_range=(2,2))
+    vectorizer = CountVectorizer(ngram_range=(2,2), max_features=1200)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_bow_uni_and_bigrams(corpus_text):
-    vectorizer = CountVectorizer(ngram_range=(1,2))
+    vectorizer = CountVectorizer(ngram_range=(1,2), max_features=1200)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 
