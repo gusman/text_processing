@@ -113,7 +113,9 @@ if __name__ == "__main__":
                 y_target = y, 
                 y_model1 = v0, 
                 y_model2 = v1)
+            print(tb)
             chi2, p = mcnemar(ary=tb, corrected=True)
+
             l_mcnemar_rslt.append("{chi2:.5f}".format(chi2=chi2))
             l_mcnemar_rslt.append("{p:.5f}".format(p=p))
             print(f"McNemar %s v %s:  chi2 : %0.5f, p_value: %0.5f" 

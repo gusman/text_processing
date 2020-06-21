@@ -57,23 +57,31 @@ if __name__ == "__main__":
 
     print(df_result)
 
+    str_annova_f = "ANNOVA_F: "
+    str_annova_p = "ANNOVA_P: "
     result = f_oneway(
             df_result['t_lower_P'].to_numpy(),
             df_result['c_lower_P'].to_numpy(),
             df_result['tc_lower_P'].to_numpy())
     print("ANNOVA P : %0.5f, %0.5f" % result)
+    str_annova_f += "%0.5f " % (result[0])
+    str_annova_p += "%0.5f " % (result[1])
     
     result = f_oneway(
             df_result['t_lower_R'].to_numpy(),
             df_result['c_lower_R'].to_numpy(),
             df_result['tc_lower_R'].to_numpy())
     print("ANNOVA R : %0.5f, %0.5f" % result)
-
+    str_annova_f += "%0.5f " % (result[0])
+    str_annova_p += "%0.5f " % (result[1])
+    
     result = f_oneway(
             df_result['t_lower_F1'].to_numpy(),
             df_result['c_lower_F1'].to_numpy(),
             df_result['tc_lower_F1'].to_numpy())
     print("ANNOVA F1 : %0.5f, %0.5f" % result)
+    str_annova_f += "%0.5f " % (result[0])
+    str_annova_p += "%0.5f " % (result[1])
 
 
    # COHRAN Q-Test
@@ -87,6 +95,8 @@ if __name__ == "__main__":
     l_rslt =  [ y_t_lower, y_c_lower, y_tc_lower ]
     l_pair = list(zip(l_repr, l_rslt))
 
+    str_result = "MCNEMAR RESULT: "
+
     for i, t0 in enumerate(l_pair):
         for j, t1 in enumerate(l_pair[i+1:]):
             k0 = t0[0]
@@ -99,6 +109,10 @@ if __name__ == "__main__":
                 y_model1 = v0, 
                 y_model2 = v1)
             chi2, p = mcnemar(ary=tb, corrected=True)
-            print(f"McNemar %s - %s:  chi2 : %0.5f, p_value: %0.5f" 
+            str_result += "%0.5f %0.5f " % (chi2, p)
+            print(f"McNemar %s - %s:  chi2, p : %0.5f %0.5f" 
                     % (k0, k1, chi2, p))
-    
+
+    print(str_annova_f)
+    print(str_annova_p)
+    print(str_result)

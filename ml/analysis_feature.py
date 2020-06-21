@@ -14,13 +14,13 @@ if __name__ == "__main__":
     print("Selection of feature")
     print("feature selection: BOW vs TFIDF")
     print("Algorithm:  Multinomial NB")
-    print("Repr: tc_stem")
+    print("Repr: tc_swrem")
 
     clf = MultinomialNB()
     y = df['label'].to_numpy()
     df_result = pd.DataFrame()
 
-    X, vectorizer = tool.construct_bow_unigrams(df['tc_stem'])
+    X, vectorizer = tool.construct_bow_unigrams(df['tc_swrem'])
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_bow_uni = pd.Series(dict_result).sort_index()
     
@@ -76,7 +76,8 @@ if __name__ == "__main__":
             y_model1 = y_bow_uni, 
             y_model2 = y_tfidf_uni)
     chi2, p = mcnemar(ary=tb, corrected=True)
-    print("Mcnemar: chi2: %0.5f, p_value: %0.5f" % (chi2, p))
+    print(tb)
+    print("Mcnemar: chi2: %0.5f %0.5f" % (chi2, p))
 
 #    print("T_STAT: ", ' '.join(l_stat))
 #    print("P_VAL: ", ' '.join(l_pval))
