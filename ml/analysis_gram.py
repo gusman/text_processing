@@ -22,7 +22,7 @@ if __name__ == "__main__":
     y = df['label'].to_numpy()
     df_result = pd.DataFrame()
 
-    X, vectorizer = tool.construct_bow_unigrams(df['tc_stem'])
+    X, vectorizer = tool.construct_bow_unigrams(df['tc_swrem'])
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_bow_uni = pd.Series(dict_result).sort_index()
     
@@ -30,7 +30,7 @@ if __name__ == "__main__":
     df_result['bow_uni_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['bow_uni_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = tool.construct_bow_bigrams(df['tc_stem'])
+    X, vectorizer = tool.construct_bow_bigrams(df['tc_swrem'])
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_bow_bi = pd.Series(dict_result).sort_index()
     
@@ -38,7 +38,7 @@ if __name__ == "__main__":
     df_result['bow_bi_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['bow_bi_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
    
-    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_stem'])
+    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_bow_unibi = pd.Series(dict_result).sort_index()
     
