@@ -21,13 +21,13 @@ if __name__ == "__main__":
     df = pd.read_json(f_in)
 
     print("Selection of algo")
-    print("Repr: tc_stem")
-    print("Feature: bow-uni")
+    print("Repr: tc_swrem")
+    print("Feature: bow-unibi")
 
     y = df['label'].to_numpy()
     df_result = pd.DataFrame()
 
-    X, vectorizer = tool.construct_bow_unigrams(df['tc_stem'])
+    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
     clf = MultinomialNB()
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_multi_nb = pd.Series(dict_result).sort_index()
@@ -35,7 +35,7 @@ if __name__ == "__main__":
     df_result['multi_nb_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['multi_nb_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = tool.construct_bow_unigrams(df['tc_stem'])
+    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
     clf = SVC()
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_svc = pd.Series(dict_result).sort_index()
@@ -43,7 +43,7 @@ if __name__ == "__main__":
     df_result['svc_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['svc_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
     
-    X, vectorizer = tool.construct_bow_unigrams(df['tc_stem'])
+    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
     clf = LinearSVC(max_iter=10000)
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_lsvc = pd.Series(dict_result).sort_index()
@@ -51,7 +51,7 @@ if __name__ == "__main__":
     df_result['lsvc_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['lsvc_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = tool.construct_bow_unigrams(df['tc_stem'])
+    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
     clf = RandomForestClassifier(max_depth=100, random_state=0, n_estimators=100)
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_rf = pd.Series(dict_result).sort_index()
@@ -59,7 +59,7 @@ if __name__ == "__main__":
     df_result['rf_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['rf_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
     
-    X, vectorizer = tool.construct_bow_unigrams(df['tc_stem'])
+    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
     clf = LogisticRegression(max_iter=10000)
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_lr = pd.Series(dict_result).sort_index()
@@ -67,7 +67,7 @@ if __name__ == "__main__":
     df_result['lr_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['lr_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = tool.construct_bow_unigrams(df['tc_stem'])
+    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
     clf = AdaBoostClassifier()
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_ada = pd.Series(dict_result).sort_index()
@@ -154,7 +154,7 @@ if __name__ == "__main__":
 
             #print(tb)
             l_mcnemar_rslt.append((chi2, p))
-            print(f"McNemar %s v %s:  chi2 : %0.5f, p_value: %0.5f" 
+            print(f"McNemar %s v %s:  chi2 : %0.3f,  %0.3f" 
                     % (k0, k1, chi2, p))
 
     for i in l_mcnemar_rslt:
