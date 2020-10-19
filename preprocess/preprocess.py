@@ -6,33 +6,50 @@ from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 
 def clean_specific_char(text):
-    text = text.replace('\\u00a0', ' ')
-    text = text.replace('\\xa0', ' ')
-    text = text.replace('\\xad', '')
+    text = text.replace("\\u00a0", ' ')
+    text = text.replace("\\xa0", ' ')
+    text = text.replace("\\xad", '')
     return text
 
 def clean_unicode_char(text):
-    unicode_4 = re.compile(r'\\u[A-Za-z0-9]{4}')
-    unicode_2 = re.compile(r'\\x[A-Za-z0-9]{2}')
-    text = re.sub(unicode_4, ' ', text).strip()
-    text = re.sub(unicode_2, ' ', text).strip()
+    unicode_4 = re.compile(r"\\u[A-Za-z0-9]{4}")
+    unicode_2 = re.compile(r"\\x[A-Za-z0-9]{2}")
+    text = re.sub(unicode_4, ' ', text, re.MULTILINE | re.IGNORECASE).strip()
+    text = re.sub(unicode_2, ' ', text, re.MULTILINE | re.IGNORECASE).strip()
     return text
 
 def clean_escape_char(text):
-    escape_char = re.compile(r'[\n\t\r]')
-    text = re.sub(escape_char, ' ', text).strip()
+    escape_char = re.compile(r"[\n\t\r]")
+    text = re.sub(escape_char, ' ', text, re.MULTILINE | re.IGNORECASE).strip()
     return text
 
 def add_space_after_period_comma(text):
-    regex = re.compile(r'(?<=[.,])(?=[^\s0-9])')
-    text = re.sub(regex, ' ', text).strip()
+    regex = re.compile(r"(?<=[.,])(?=[^\s0-9])")
+    text = re.sub(regex, ' ', text, re.MULTILINE | re.IGNORECASE).strip()
     return text
 
 def clean_specific_words(text):
     words_1 = '(adsbygoogle = window.adsbygoogle || []).push({});'
     words_2 = '\nHome'
-    text = text.replace(words_1, '')
-    text = text.replace(words_2, '')
+    text = text.replace(words_1, '').strip()
+    text = text.replace(words_2, '').strip()
+    return text
+
+def clean_links_text(text):
+    links_1 = re.compile(r"([Bb][Aa][Cc][Aa])([^.{}]*)(?<!\")")
+    links_2 = re.compile(r"\\u2022([^.{}]*)(?<!\")")
+    links_3 = re.compile(r"([Ll][Ii][Hh][Aa][Tt]):([^.{}]*)(?<!\")")
+    links_4 = re.compile(r"([Bb][Ee][Rr][Ii][Tt][Aa] [Ll][Aa][Ii][Nn])([^.{}]*)(?<!\")")
+    
+    text = re.sub(links_1, ' ', text, re.MULTILINE | re.IGNORECASE).strip()
+    text = re.sub(links_2, ' ', text, re.MULTILINE | re.IGNORECASE).strip()
+    text = re.sub(links_3, ' ', text, re.MULTILINE | re.IGNORECASE).strip()
+    text = re.sub(links_4, ' ', text, re.MULTILINE | re.IGNORECASE).strip()
+    return text
+
+def clean_convertion(text):
+    text = text.encode('ascii', 'backslashreplace')
+    text = text.decode('utf8')
     return text
     
 def clean_text(text):
