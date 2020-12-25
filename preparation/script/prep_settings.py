@@ -2,7 +2,7 @@ import os
 from sys import platform
 
 # settings
-news_type = 'gempa'
+news_type = 'tsunami'
 d_delimiter = "\\"
 
 d_cur = os.path.dirname(os.path.realpath(__file__))

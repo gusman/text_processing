@@ -79,7 +79,7 @@ df_result = pd.DataFrame(columns = ['id', 'source', 'date', 'title', 'text'])
 df_result['source'] = df_teks_ori['source'].copy()
 df_result['date'] = df_teks_ori['date'].copy()
 
-for index, row in df_analysis[:3].iterrows():
+for index, row in df_analysis.iterrows():
     df_result.loc[index, 'id'] = df_analysis.loc[index, 'id']    
     df_result.loc[index, 'title'] = df_analysis.loc[index, 'title']
     
