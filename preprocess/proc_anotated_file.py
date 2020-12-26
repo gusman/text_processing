@@ -10,10 +10,12 @@ f_excel = sys.argv[1]
 f_json = f_excel.replace('.xlsx', '_preproc.json')
 
 df = pd.read_excel(f_excel)
-df_tmp = df.copy()
+df_tmp = df[:3].copy()
 
 # Clean up the title and text
 for i, row in df_tmp.iterrows():
+    id = df_tmp.loc[i, 'id']
+    print('cleanup - ' + id)
 
     #clean up title
     title = df_tmp.loc[i, 'title']
@@ -35,6 +37,9 @@ df_tmp['c_lower'] = ''
 df_tmp['tc_lower'] = ''
 
 for i, r in df_tmp.iterrows():
+    id = df_tmp.loc[i, 'id']
+    print('lower - ' + id)
+
     df_tmp.loc[i, 't_lower'] = df_tmp.loc[i, 'title'].lower()
     df_tmp.loc[i, 'c_lower'] = df_tmp.loc[i, 'text'].lower()
     df_tmp.loc[i, 'tc_lower'] = df_tmp.loc[i, 't_lower'] + " " + df_tmp.loc[i, 'c_lower']
@@ -46,6 +51,9 @@ df_tmp['c_swrem'] = ''
 df_tmp['tc_swrem'] = ''
 
 for i, r in df_tmp.iterrows():
+    id = df_tmp.loc[i, 'id']
+    print('swrem - ' + id)
+
     df_tmp.loc[i, 't_swrem'] = pre.rem_stop_words(df_tmp.loc[i, 't_lower'])
     df_tmp.loc[i, 'c_swrem'] = pre.rem_stop_words(df_tmp.loc[i, 'c_lower'])
     df_tmp.loc[i, 'tc_swrem'] = df_tmp.loc[i, 't_swrem'] + " " + df_tmp.loc[i, 'c_swrem']
@@ -56,6 +64,9 @@ df_tmp['c_stem'] = ''
 df_tmp['tc_stem'] = ''
 
 for i, r in df_tmp.iterrows():
+    id = df_tmp.loc[i, 'id']
+    print('stem - ' + id)
+
     df_tmp.loc[i, 't_stem'] = pre.stem_text(df_tmp.loc[i, 't_lower'])
     df_tmp.loc[i, 'c_stem'] = pre.stem_text(df_tmp.loc[i, 'c_lower'])
     df_tmp.loc[i, 'tc_stem'] = df_tmp.loc[i, 't_stem'] + " " + df_tmp.loc[i, 'c_stem']
@@ -66,6 +77,9 @@ df_tmp['c_swrem_stem'] = ''
 df_tmp['tc_swrem_stem'] = ''
 
 for i, r in df_tmp.iterrows():
+    id = df_tmp.loc[i, 'id']
+    print('swrem_stem - ' + id)
+
     df_tmp.loc[i, 't_swrem_stem'] = pre.stem_text(df_tmp.loc[i, 't_swrem'])
     df_tmp.loc[i, 'c_swrem_stem'] = pre.stem_text(df_tmp.loc[i, 'c_swrem'])
     df_tmp.loc[i, 'tc_swrem_stem'] = df_tmp.loc[i, 't_swrem_stem'] + " " + df_tmp.loc[i, 'c_swrem_stem']
