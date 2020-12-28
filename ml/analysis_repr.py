@@ -30,6 +30,12 @@ if __name__ == "__main__":
     df_result['tc_lower_P'] = pd.Series([ t['Y']['precision'] for t in report ])
     df_result['tc_lower_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['tc_lower_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
+    df_result['tc_lower_acc'] = pd.Series([ t['accuracy'] for t in report ])
+
+    # this part is temporary for classification repairment only
+    print(sr_tc_lower)
+    f_tc_lower_result = f_in.replace('.json', '_tc_lower_result.xlsx')
+    sr_tc_lower.to_excel(f_tc_lower_result)
 
 
     X, vectorizer = tool.construct_bow_unigrams(df['t_lower'])
@@ -38,6 +44,7 @@ if __name__ == "__main__":
     df_result['t_lower_P'] = pd.Series([ t['Y']['precision'] for t in report ])
     df_result['t_lower_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['t_lower_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
+    df_result['t_lower_acc'] = pd.Series([ t['accuracy'] for t in report ])
 
 
     X, vectorizer = tool.construct_bow_unigrams(df['c_lower'])
@@ -46,13 +53,15 @@ if __name__ == "__main__":
     df_result['c_lower_P'] = pd.Series([ t['Y']['precision'] for t in report ])
     df_result['c_lower_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['c_lower_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
+    df_result['c_lower_acc'] = pd.Series([ t['accuracy'] for t in report ])
 
 
     df_result.loc['MEAN'] = df_result.mean()
     df_result = df_result[[
-        't_lower_P', 'c_lower_P', 'tc_lower_P',
-        't_lower_R', 'c_lower_R', 'tc_lower_R',
-        't_lower_F1', 'c_lower_F1', 'tc_lower_F1',
+            't_lower_acc', 'c_lower_acc', 'tc_lower_acc',
+            't_lower_P',   'c_lower_P',   'tc_lower_P', 
+            't_lower_R',   'c_lower_R',   'tc_lower_R', 
+            't_lower_F1',  'c_lower_F1',  'tc_lower_F1', 
     ]]
 
     print(df_result)

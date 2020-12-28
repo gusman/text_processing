@@ -3,6 +3,7 @@ from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report 
 from sklearn.metrics import precision_score
+from sklearn.metrics import accuracy_score
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import KFold
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -49,6 +50,7 @@ def eval_cv(n_splits, X, y, clf):
 
         dict_report = classification_report(y_test, clf_result, 
                         zero_division=1, output_dict=1)
+        dict_report['accuracy'] = accuracy_score(y_test, clf_result)
         ctr += 1
         report.append(dict_report)
    
