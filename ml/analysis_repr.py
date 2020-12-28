@@ -33,9 +33,9 @@ if __name__ == "__main__":
     df_result['tc_lower_acc'] = pd.Series([ t['accuracy'] for t in report ])
 
     # this part is temporary for classification repairment only
-    print(sr_tc_lower)
-    f_tc_lower_result = f_in.replace('.json', '_tc_lower_result.xlsx')
-    sr_tc_lower.to_excel(f_tc_lower_result)
+    #print(sr_tc_lower)
+    #f_tc_lower_result = f_in.replace('.json', '_tc_lower_result.xlsx')
+    #sr_tc_lower.to_excel(f_tc_lower_result)
 
 
     X, vectorizer = tool.construct_bow_unigrams(df['t_lower'])
