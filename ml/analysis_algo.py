@@ -20,14 +20,60 @@ if __name__ == "__main__":
     f_in = sys.argv[1]
     df = pd.read_json(f_in)
 
+    # default feature
+    feat = tool.construct_bow_uni_and_bigrams
+    feature = 'BOW'
+    ngrams = 'UNIBI'
+
+    # if there feature type param
+    if 2 < len(sys.argv) and 'tfidf'.lower() == sys.argv[2].lower():
+        if 3 < len(sys.argv) and 'uni'.lower() == sys.argv[3].lower():
+                feat = tool.construct_tfidf_unigrams
+                ngrams = 'UNI'
+
+        elif 3 < len(sys.argv) and 'bi'.lower() == sys.argv[3].lower():
+                feat = tool.construct_tfidf_bigrams
+                ngrams = 'BI'
+
+        elif 3 < len(sys.argv) and 'unibi'.lower() == sys.argv[3].lower():
+                feat = tool.construct_tfidf_uni_and_bigrams
+                ngrams = 'UNIBI'
+
+        else:
+                feat = tool.construct_tfidf_uni_and_bigrams
+                ngrams = 'UNIBI'
+
+        feature = 'TFIDF'
+
+    if 2 < len(sys.argv) and 'bow'.lower() == sys.argv[2].lower():
+        if 3 < len(sys.argv) and 'uni'.lower() == sys.argv[3].lower():
+                feat = tool.construct_bow_unigrams
+                ngrams = 'UNI'
+
+        elif 3 < len(sys.argv) and 'bi'.lower() == sys.argv[3].lower():
+                feat = tool.construct_bow_bigrams
+                ngrams = 'BI'
+
+        elif 3 < len(sys.argv) and 'unibi'.lower() == sys.argv[3].lower():
+                feat = tool.construct_bow_uni_and_bigrams
+                ngrams = 'UNIBI'
+
+        else:
+                feat = tool.construct_bow_uni_and_bigrams
+                ngrams = 'UNIBI'
+
+        feature = 'BOW'
+
+
     print("Selection of algo")
     print("Repr: tc_swrem")
-    print("Feature: bow-unibi")
+    print(f"Feature: {feature}")
+    print(f"N-gram: {ngrams}")
 
     y = df['label'].to_numpy()
     df_result = pd.DataFrame()
 
-    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
+    X, vectorizer = feat(df['tc_swrem'])
     clf = MultinomialNB()
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_multi_nb = pd.Series(dict_result).sort_index()
@@ -35,7 +81,7 @@ if __name__ == "__main__":
     df_result['multi_nb_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['multi_nb_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
+    X, vectorizer = feat(df['tc_swrem'])
     clf = SVC()
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_svc = pd.Series(dict_result).sort_index()
@@ -43,15 +89,15 @@ if __name__ == "__main__":
     df_result['svc_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['svc_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
     
-    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
-    clf = LinearSVC(max_iter=10000)
+    X, vectorizer = feat(df['tc_swrem'])
+    clf = LinearSVC(max_iter=20000, dual=True)
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_lsvc = pd.Series(dict_result).sort_index()
     df_result['lsvc_P'] = pd.Series([ t['Y']['precision'] for t in report ])
     df_result['lsvc_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['lsvc_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
+    X, vectorizer = feat(df['tc_swrem'])
     clf = RandomForestClassifier(max_depth=100, random_state=0, n_estimators=100)
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_rf = pd.Series(dict_result).sort_index()
@@ -59,15 +105,15 @@ if __name__ == "__main__":
     df_result['rf_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['rf_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
     
-    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
-    clf = LogisticRegression(max_iter=10000)
+    X, vectorizer = feat(df['tc_swrem'])
+    clf = LogisticRegression(max_iter=20000)
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_lr = pd.Series(dict_result).sort_index()
     df_result['lr_P'] = pd.Series([ t['Y']['precision'] for t in report ])
     df_result['lr_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['lr_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = tool.construct_bow_uni_and_bigrams(df['tc_swrem'])
+    X, vectorizer = feat(df['tc_swrem'])
     clf = AdaBoostClassifier()
     report, dict_result = tool.eval_cv(5, X, y, clf)
     sr_ada = pd.Series(dict_result).sort_index()

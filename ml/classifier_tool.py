@@ -7,17 +7,18 @@ from sklearn.metrics import accuracy_score
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import KFold
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.pipeline import FeatureUnion
 
 def construct_tfidf_unigrams(corpus_text):
-    vectorizer = TfidfVectorizer(ngram_range=(1,1), max_features=300)
+    vectorizer = TfidfVectorizer(ngram_range=(1,1), max_features=500)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_tfidf_bigrams(corpus_text):
-    vectorizer = TfidfVectorizer(ngram_range=(2,2), max_features=300)
+    vectorizer = TfidfVectorizer(ngram_range=(2,2), max_features=500)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_tfidf_uni_and_bigrams(corpus_text):
-    vectorizer = TfidfVectorizer(ngram_range=(1,2), max_features=300)
+    vectorizer = TfidfVectorizer(ngram_range=(1,2), max_features=500)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_bow_unigrams(corpus_text):
@@ -32,9 +33,18 @@ def construct_bow_uni_and_bigrams(corpus_text):
     vectorizer = CountVectorizer(ngram_range=(1,2), max_features=1200)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
+# def construct_bow_tfidf_uni(corpus_text):
+#     tfidf_vectorizer = TfidfVectorizer(ngram_range=(1,1), max_features=500)
+#     count_vectorizer = CountVectorizer(ngram_range=(1,1), max_features=1200)
+#     union_vectorizer = FeatureUnion([ 
+#             ('bow_vector', count_vectorizer),
+#             ('tfidf_vector', tfidf_vectorizer), 
+#             ])
+#     return union_vectorizer.fit_transform(corpus_text), union_vectorizer
+
 
 def eval_cv(n_splits, X, y, clf):
-    kf = KFold(n_splits=n_splits, shuffle=True, random_state=1)
+    kf = KFold(n_splits=n_splits, shuffle=True, random_state=0)
     report = []
     dict_result = {} 
     ctr = 1
