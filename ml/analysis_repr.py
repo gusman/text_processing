@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
     df_result.loc['MEAN'] = df_result.mean()
     df_result = df_result[[
-            't_lower_acc', 'c_lower_acc', 'tc_lower_acc',
+            #'t_lower_acc', 'c_lower_acc', 'tc_lower_acc',
             't_lower_P',   'c_lower_P',   'tc_lower_P', 
             't_lower_R',   'c_lower_R',   'tc_lower_R', 
             't_lower_F1',  'c_lower_F1',  'tc_lower_F1', 
