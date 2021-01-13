@@ -9,6 +9,7 @@ import sys
 from ner_tool import NerTool
 
 f_in = sys.argv[1]
+#f_in = 'C:\\Users\\dharmapu\\Documents\\personal\\ui\\KA-AMSD_src\\paper-submission\\anotated_data\\location\\location_text.xlsx'
 f_out = f_in.replace('.xlsx', '_ner_w_tokens.xlsx')
 
 # Load gold standard
@@ -20,18 +21,20 @@ df_out['raw_ner'] = ''
 df_out['exec_time'] = ''
 
 # Create df only row wit label is 'Y'
-df_data = df_gold[df_gold.label == 'Y'][['id', 'title', 'content']]
+df_data = df_gold[['id', 'title', 'content']]
 
 # Initialize Ner tool
-ner_model = '/home/admin/text_processing/ner/model/idner-model-20k-mdee.ser.gz'
-ner_app = '/home/admin/stanford-ner/stanford-ner.jar'
+ner_model = 'C:\\Users\\dharmapu\\Documents\\personal\\ui\\KA-AMSD_src\\src\\text_processing\\ner-model\\idner-model-20k-mdee.ser.gz'
+ner_app = 'C:\\Users\\dharmapu\Documents\\personal\\ui\\KA-AMSD_src\\src\\stanford-ner\\stanford-ner.jar'
 ner_tool = NerTool(ner_model, ner_app)
 
 # Ner processing and store output in df_out
 for index, row in df_data.iterrows():
     row_id = row['id']
     row_text = row['title'] + row['content']
-    
+
+    print(row_id)
+
     start_time = timeit.default_timer()
     w_tokens = word_tokenize(row_text)
     row_loc = ner_tool.parse_text(w_tokens)
