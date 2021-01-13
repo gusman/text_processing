@@ -46,11 +46,11 @@ df_out['raw_ner'] = ''
 df_out['exec_time'] = ''
 
 # Create df only row wit label is 'Y'
-df_data = df_gold[df_gold.label == 'Y'][['id', 'title', 'content']]
+df_data = df_gold[['id', 'title', 'content']]
 
 # Initialize Ner tool
-ner_model = '/home/admin/text_processing/ner/model/idner-model-20k-mdee.ser.gz'
-ner_app = '/home/admin/stanford-ner/stanford-ner.jar'
+ner_model = 'C:\\Users\\dharmapu\\Documents\\personal\\ui\\KA-AMSD_src\\src\\text_processing\\ner-model\\idner-model-20k-mdee.ser.gz'
+ner_app = 'C:\\Users\\dharmapu\Documents\\personal\\ui\\KA-AMSD_src\\src\\stanford-ner\\stanford-ner.jar'
 ner_tool = NerTool(ner_model, ner_app)
 
 
@@ -59,6 +59,8 @@ for index, row in df_data.iterrows():
     row_id = row['id']
     row_text = row['title'] + ' ' + row['content']
     re_keywords = re_string(row_id)
+
+    print(row_id)
 
     start_time = timeit.default_timer()
     sent_tokens = sent_tokenize(row_text)
