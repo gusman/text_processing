@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0687</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-03-18" temporalFunction="false" functionInDocument="CREATION_TIME">2017-03-18</TIMEX3></DCT>
+
+<TITLE>Nonton Ini, Dramatis, Penyelamatan Korban Banjir di Peru</TITLE>
+
+<TEXT>
+Dalam waktu singkat, arus banjir yang deras ini menerjang jalanan di Ibu Kota Peru, Lima. 
+
+Seorang warga yang berada di dalam truk lantas berusaha menyelamatkan diri di tengah sapuan banjir yang disertai lumpur. 
+
+Dengan bantuan sejumlah warga lain, pria ini bisa selamat dari arus banjir yang telah menenggelamkan truknya. 
+
+Yang tak kalah menegangkan adalah saat seorang perempuan berupaya menyelamatkan diri dari puing-puing rumahnya yang tersapu lumpur. 
+
+Nyawanya tertolong meski harus kehilangan suaminya, yang tertimbun lumpur dan puing bangunan. 
+
+Arus yang deras menyebabkan proses evakuasi berjalan lambat. 
+
+Ada sekitar 8.000 rumah yang hancur terbawa banjir. 
+
+Sebanyak 62 orang tewas dalam bencana ini. 
+
+Otoritas setempat telah mengerahkan 15 ribu petugas penyelamat dan 20 helikopter ke seluruh wilayah Lima, guna mempercepat proses evakuasi warga yang terjebak banjir. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_1012</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-08-06" temporalFunction="false" functionInDocument="CREATION_TIME">2015-08-06</TIMEX3></DCT>
+
+<TITLE>Krisis Air Bersih di Lebak Meluas</TITLE>
+
+<TEXT>
+Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Lebak menyebutkan, krisis air bersih di daerah itu meluas hingga 12 kecamatan akibat kemarau panjang sehingga sumber mata air, sumur dan pompa jet pump mengering. 
+
+Semua daerah kesulitan air bersih itu merupakan langganan jika memasuki <TIMEX3 tid="t1" type="DATE" value="2015-SU">musim kemarau</TIMEX3>, kata Kepala Pelaksana Harian BPBD Kabupaten Lebak, Kaprawi, <TIMEX3 tid="t2" type="DATE" value="2015-08-06">Kamis (6/8)</TIMEX3>. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, masyarakat yang mengalami kekeringan itu terus dilakukan bantuan distribusi air bersih. 
+
+Bantuan pendistribusian air bersih juga melalui berbagai pihak, selain BPBD Lebak juga BPBD Provinsi Banten. 
+
+Selain itu, beberapa perusahaan BUMN, relawan dan Baznas Provinsi Banten juga memberi bantuan. 
+
+Kami berharap semua warga yang dilanda krisis air bersih dapat menikmati bantuan air bersih untuk keperluan mandi, cuci dan kakus (MCK), katanya. 
+
+Kaprawi memperkirakan warga yang mengalami kesulitan air bersih itu sekitar 18.000 jiwa tersebar di 12 kecamatan. 
+
+Ke-12 kecamatan itu antara lain Kecamatan Maja, Curugbitung, Warunggunung, Cibadak, Kalanganyar, Cimarga, Muncang, Sobang, Bayah, Cilograng, Leuwidamar dan Wanasalam. 
+
+(*/lek) 
+</TEXT>
+
+</TimeML>

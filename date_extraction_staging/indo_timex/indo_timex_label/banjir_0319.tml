@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0319</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-14" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-14</TIMEX3></DCT>
+
+<TITLE>RSUD dr.
+
+Soekadjo Kebanjiran, Pasien Dievakuasi</TITLE>
+
+<TEXT>
+Hujan angin disertai petir yang terjadi di wilayah Kota Tasikmalaya membuat sejumlah ruangan di RSUD dr. 
+
+Soekardjo Kota Tasikmalaya kebanjiran, <TIMEX3 tid="t1" type="TIME" value="2019-12-14TAF">Sabtu (14/12/2019) sore</TIMEX3>. 
+
+Informasi yang dihimpun KAPOL, setidaknya ruang poliklinik, ruang perawatan 1, 5, 6 dan 7 sempat terendam dengan ketinggian bervariasi. 
+
+Ada yang setinggi mumuncangan (tumit), sampai sebetis di ruang poliklinik. 
+
+Setelah dicek, ada kayu yang menyumbat saluran pembuangan, ujar Wadir Umum RSUD dr. 
+
+Soekardjo Kota Tasikmalaya, Deni Diyana. 
+
+Dalam kurun waktu sejam, genangan mulai menghilang seiring dengan intensitas hujan mengecil. 
+
+Beberapa petugas mulai membersihkan sisa-sisa genangan di beberapa ruangan. 
+
+Saya juga baru <TIMEX3 tid="t2" type="DURATION" value="PXM">beberapa bulan</TIMEX3> di sini, memang banyak yang harus dibenahi bersama. 
+
+Bukan hanya di ruangan yang terdampak saja, di gedung lainnya juga demikian. 
+
+Sekaligus tadi di cek satu persatu, katanya. 
+
+Salah satu paling vital yakni drainase pembuangan dalam kompleks menuju keluar. 
+
+Sebab kejadian ini bukanlah kali pertama dalam <TIMEX3 tid="t3" type="DURATION" value="PXY">beberapa tahun</TIMEX3> terakhir. 
+
+Tadi juga ada beberapa pasien di kamar perawatan yang dievakuasi karena khawatir, ujarnya. 
+
+(KP-11)*** 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0463</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">2017-10-30</TIMEX3></DCT>
+
+<TITLE>Curah Hujan Tinggi, Banjir dan Longsor Landa Cilacap</TITLE>
+
+<TEXT>
+Curah hujan tinggi pada <TIMEX3 tid="t1" type="TIME" value="2017-10-29TNI">Minggu malam</TIMEX3> (29/10) menyebabkan banjir di sejumlah wilayah di Kabupaten Cilacap pada <TIMEX3 tid="t2" type="TIME" value="2017-10-30">Senin (30/10/2017) pagi</TIMEX3>. 
+
+Setidaknya terdapat tiga titik banjir di tiga kecamatan berbeda yang mengakibatkan ratusan rumah warga terendam. 
+
+Di desa Tritih Lor Kecamatan Jeruklegi, banjir menggenangi 60 rumah warga dengan ketinggian air antara 50 cm hingga 70 cm. 
+
+" Warga masih bertahan di rumah dan tidak mengungsi, " kata Kepala Bidang Kedarurata dan Logistik BPBD Cilacap Martono, <TIMEX3 tid="t3" type="DATE" value="2017-10-30">Senin (30/10)</TIMEX3>. 
+
+Menurut Martono, banjir di wilayah ini bukan karena luapan sungai, melainkan air limpasan atau buangan dari lapangan Tritih golf. 
+
+Di sisi lain, sistem drainase di tempat itu buruk karena daya tampung saluran air tak sebanding dengan volume air limpasan. 
+
+Padahal, kata Martono, kepada Pemerintah Kabupaten Cilacap, manajer Tritih golf sebelumnya telah menyepakati akan mendatangkan alat berat guna menormalisasi sungai kecil di wilayah itu untuk menanggulangi banjir limpasan. 
+
+Di lokasi lain, banjir juga menggenangi desa Karangreja kecamatan Maos. 
+
+Akibatnya, 150 rumah warga terendam banjir setinggi 50 cm hingga 70 cm. 
+
+Banjir di wilayah ini dipicu oleh pembuangan air yang tersumbat sehingga air di saluran meluap ke pemukiman. 
+
+// Sejumlah warga terdampak mengungsi ke rumah sanak famili yang aman dari genangan. 
+
+Jumlah pengungsi hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih dalam pendataan. 
+
+Di Desa Rawajaya Kecamatan Bantarsari, sungai Cimeneng meluap hingga menggenangi sekitar 200 rumah warga. 
+
+Warga terdampak masih bertahan di rumah masing-masing sambil menunggu air surut. 
+
+Banjir diprediksi akan meluas jika <TIMEX3 tid="t5" type="DATE" value="2017-10-30">hari ini</TIMEX3> kembali turun hujan dengan intensitas tinggi. 
+
+" Ini saja masih gerimis. 
+
+Jika hujan lagi banjir belum akan surut, " katanyaSelain banjir, curah hujan tinggi <TIMEX3 tid="t6" type="DATE" value="2017-10-29">kemarin</TIMEX3> mengakibatkan bencana longsor di beberapa titik di wilayah Cilacap. 
+
+<TIMEX3 tid="t7" type="TIME" value="2017-10-30">Senin pagi</TIMEX3> (30/10), peristiwa tanah longsor melanda Rt 01 Rw 06 Dusun Wanasri Desa Jeruklegi wetan Jeruklegi. 
+
+Rumah milik Sirin, warga Rt 01 Rw 06 Dusun Wanasri Desa Jeruklegi wetan terkena longsoran tanah dari tebing di belakang rumahnya. 
+
+Sedikitnya tiga rumah di wilayah ini terancam longsor. 
+
+Sementara satu rumah lainnya terpaksa dikosongkan karena kondisi bangunan nyaris roboh akibat pergerakan tanah. 
+
+<TIMEX3 tid="t8" type="DATE" value="2017-10-30">Hari ini</TIMEX3>, 20 an anggota Polres Cilacap bersama warga dan relawan mengevakuasi rumah Siti Fatimah (39), warga dusun Wanasri Rt 01 Rw 06 Desa Jeruklegi Wetan. 
+
+Kondisi rumah ini mengkhawatirkan karena posisi bangunan telah bergeser hingga 10 meter ke depan karena tanah bergerak. 
+
+Rumah kayu itu dibongkar dan dipindah ke tempat aman dengan cara dipikul secara gotong royong. 
+
+Sementara penghuni rumah telah diungsikan ke rumah yang aman. " Dipindahkan rumahnya untuk menghindari agar tidak roboh karena kondisinya sudah mengkhawatirkan, " kata Kapolsek Jeruklegi AKP Sugeng Hartono.(*) 
+</TEXT>
+
+</TimeML>

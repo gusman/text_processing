@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1005</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-01</TIMEX3></DCT>
+
+<TITLE>Video, Warga Korban Gempa dan Tsunami lakukan  Penjarahan</TITLE>
+
+<TEXT>
+Ratusan warga korban gempa dan tsunami di Palu, Sulteng lakukan penjarahan disalah satu toko. 
+
+Dalam video yang berdurasi <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">00.58 detik itu</TIMEX3>, terlihat ratusan warga sedang menjarah makanan dan minuman. 
+
+Didalam video itu juga, seorang warga berpakaian putih dan memakai topi merah dengan pernyataannya mengatakan, akan terus melakukan penjarahan bila pemerintah Sulteng lambat memberikan bantuan. 
+
+Berikut videonya, (toni) 
+</TEXT>
+
+</TimeML>

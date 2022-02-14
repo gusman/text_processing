@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0647</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Mendagri: Dua Instruksi untuk Tanggap Darurat Bencana Palu dan Donggala</TITLE>
+
+<TEXT>
+Menteri Dalam Negeri (Mendagri) Tjahjo Kumolo menyampaikan dua instruksi penting kepada jajaran pemerintah daerah terdekat sekitar lokasi bencana, setelah ia mengikuti rapat koordinasi terkait penanganan penanggulangan bencana gempa bumi di Palu dan Donggala di Kantor Kemenkopolhukam, <TIMEX3 tid="t1" type="DATE" value="2018-09-29">jumat (29/9/2018)</TIMEX3>. 
+
+Dalam kondisi darurat bencana gempa bumi yang diikuti tsunami di wilayah Palu dan Donggala sangat diperlukan langkah penanganan cepat. 
+
+Tjahjo menuturkan hal hal yang harus cepat dilakukan jajaran pemerintah daerah untuk bahu membahu membantu daerah yang terkena musibah. 
+
+Ia menegaskan bahwa dirinya menyampaikan dua instruksi, yaitu: pertama saya menginstruksikan kepada seluruh pemintah daerah sekitar daerah Provinsi Sulawesi Selatan, Sulawesi Barat, Sulawesi Tenggara, Gorontalo, Mamuju dan sekitarnya agar segera mengirim bantuan peralatan dan logistik, tenaga medis, bahan makanan, obat obatan, ambulance, pakaian, tenda dan lain sebagainya yang dibutuhkan dalam keadaan darurat. 
+
+Selain itu, pemerintah daerah mengerahkan Satpol PP dan Damkar untuk ikut cepat menolong korban, kata Tjahjo. 
+
+Tjahjo menambahkan instruksinya yang kedua yaitu Saya Memerintahkan kepada Walikota Palu dan Bupati Donggal untuk segera segera mengeluarkan Surat Keputusan tentang Pernyataaan keadaan darurat bencana, supaya pemerintah daerah punya payung hukum untuk menggunakan sumber pembiayaan APBN. 
+
+Selain itu, untuk penanganan cepatnya harus dibantu segera dalam bentuk barang, peralatan dan sarana prasarana lainnya yang dapat dimobilisasi segera. 
+
+Prinsipnya saya meminta kepada jajaran pemerintah daerah segera tindaklanjuti untuk serius membantu saudara kita yang terkena musibah di Palu dan Donggala Pungkas Tjahjo. 
+</TEXT>
+
+</TimeML>

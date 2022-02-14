@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0515</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-26" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-26</TIMEX3></DCT>
+
+<TITLE>Hujan, Angin Kencang dan Banjir Ancam Sejumlah Wilayah di Klaten</TITLE>
+
+<TEXT>
+Hujan, angin kencang dan banjir mengancam sejumlah wilayah di Kabupaten Klaten. 
+
+<TIMEX3 tid="t1" type="DATE" value="2020-02-25">Selasa (25/2/2020)</TIMEX3>, satu rumah roboh dan pohon tumbang memutus jalur alternatif Klaten-Sukoharjo, selain itu delapan desa di Kecamatan Gantiwarno rawan banjir. 
+
+Hujan dengan intensitas sedang dan disertai angin menyebabkan ambruknya satu rumah semi permanen milik Mitro Sumitro (80) roboh di Dusun Rejodadi RT 23 RW 10 Desa/Kecamatan Trucuk. 
+
+Kencangnya tiupan angin juga membuat satu pohon trembesi diameter 50 sentimeter tumbang dan menutup akses kejalan Pakis-Solo Baru. 
+
+Tepatnya di depan SMA N 201 Wonosari, Kecamatan Wonosari. 
+
+Korban jiwa tidak ada, dan penghuni diunhsikan ke rumah salah satu keluarganya. 
+
+Untuk pohon tumbang langsung sudah ditangani oleh relawan, TNI, Polri dan warga sekitar lokasi, " kata Manajer Pusdalops BPBD Pemkab Klaten, Sri Yuwana Haris Yulianto. 
+
+Di Kecamatan Karangnongko, satu pohon lamtoro tumbang dan menutup akses jalan Ngupit-Karangnongko di Dusun l Jolobunan, Desa Demakijo. 
+
+Kejadian ini sudah tertangani oleh relawan dan warga sekitar lokasi. 
+
+Di Kecamatan Gantiwarno, hujan deras yang berlangsung sejak <TIMEX3 tid="t2" type="TIME" value="2020-02-21TAF">Jumat (21/2/2020) siang</TIMEX3> hingga <TIMEX3 tid="t3" type="TIME" value="2020-02-22">Sabtu (22/2/2020) pagi</TIMEX3> membuat dua titik tanggul sungai di Desa Mlese dan Jabung jebol. 
+
+// Akibat kejadian itu sekitar 20 hektar lahan pertanian di Desa Mlese dengan usia padi <TIMEX3 tid="t4" type="DATE" value="2019-06-03">3-6</TIMEX3> minggu terendam. 
+
+Kemudian di Desa Jabung, lahan pertanian yang terendam sekitar 0,84 hektar. 
+
+Namun dari jumlah itu, lahan yang ditanami padi hanya 0,28 hektar. 
+
+Banjir juga meluap hingga ke pemukiman, bahkan rumah Putri Kurnia (25) di Dukuh Jombor, Desa Jabung, Kecamatan Gantiwarno, yang akan digunakan untuk resepsi pernikahan tak luput dari genangan air. 
+
+Camat Gantiwarno Lilis Yuliati mengungkap ada delapan desa rawan banjir, meliputi Kragilan, Mlese, Sawit, Katekan, Gesikan, Jabung, Gentan, dan Ngandong. 
+
+Kedelapan desa itu letaknya berdekatan dengan aliran Sungai Dengkeg, selain itu ada juga yang berdekatan dengan Gunungkidul. 
+
+Lebih lanjut, untuk mengatasi meluasnya ancaman banjir, pemerintah daerah bersama para relawan telah membentuk posko siaga bencana yang berpusat di Kantor Kecamatan Gantiwarno. 
+
+(TRIBUNJOGJA. 
+
+COM) 
+</TEXT>
+
+</TimeML>

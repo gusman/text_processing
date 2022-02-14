@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0455</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-04-18" temporalFunction="false" functionInDocument="CREATION_TIME">2016-04-18</TIMEX3></DCT>
+
+<TITLE>Gempa Besar Jepang Diprediksi Akan Muncul di Sekitar Patahan Nankai</TITLE>
+
+<TEXT>
+Gempa besar yang mengguncang Kumamoto pada <TIMEX3 tid="t1" type="DATE" value="2016-04-14">14 April lalu</TIMEX3> pada <TIMEX3 tid="t2" type="DATE" value="1946-04-18">70 tahun lalu</TIMEX3> pernah terjadi dan dalam waktu dekat bakal menggoyang Jepang Barat. 
+
+" Gempa akan muncul pula di daerah lain di Jepang barat terutama di daerah patahan Nankai, " papar Takashi Komura, Professor University of Tokyo Earthquake Research Institute, <TIMEX3 tid="t3" type="DATE" value="2016-04-17">Minggu (17/4/2016)</TIMEX3>. 
+
+Menurut dia, Nankai memang cukup berbahaya dan karena itu pembangunan rumah sebaiknya harus antigempa jika tak ingin hancur berantakan nantinya. 
+
+" Gempa besar ini memang sangat kuat, terlihat dari rekahan tanah sampai 80 sentimeter di beberapa tempat dan kehancuran bangunan yang ada, " tambah dia usai memeriksa sejumlah kehancuran di Kumamoto. 
+
+Dari retakan tanah dan kehancuran bangunan, Takashi menganalisa adanya kemungkinan gempa susulan yang bisa mencapai 7 skala richter di barat Jepang dan dalam masa yang tidak lama lagi. 
+
+Ia mengharapkan masyarakat waspada akan kemungkinan datangnya gempa bumi berkekuatan besar seperti terjadi di Kumamoto pada <TIMEX3 tid="t4" type="TIME" value="2016-04-15T01:25">15 April pukul 01.25</TIMEX3> waktu setempat. 
+
+(Richard Susilo) 
+</TEXT>
+
+</TimeML>

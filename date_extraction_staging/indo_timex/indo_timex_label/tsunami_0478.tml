@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0478</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-24</TIMEX3></DCT>
+
+<TITLE>Basarnas Terus Evakuasi Korban Tsunami Samudera Hindia</TITLE>
+
+<TEXT>
+Proses evakuasi korban akibat tsunami di wilayah Banten dan Lampung masih terus dilakukan hingga <TIMEX3 tid="t1" type="DATE" value="2018-12-23">Minggu</TIMEX3> (23/12)Basarnas bersama relawan dan masyarakat setempat terus menyisir lokasi terdampak tsunami. 
+
+Selain pasukan elit Basarnas yang dikerahkan ke Banten, sebanyak 10 personil Kantor Pencarian dan Pertolongan Jakarta serta 20 personil Kantor Pencarkan dan Pertolongan Bandung juga bergerak menuju lokasi terdampak. 
+
+Personil Basarnas di wilayah Banten yang berjumlah 66 orang dibagi menjadi 4 SRU dan melakukan pencarian korban di Merak, Anyer, dan Carita. 
+
+Sementara personil Kantor Pencarian dan Pertolongan Lampung sebanyak 31 orang rescuer dan 21 ABK menyisir Laut Panjang, Bakauheni, Kalianda, dan pemantauan di Tangggamus. 
+
+Pencarian tidak hanya dilakukan tim gabungan dengan menyisir jalur darat. 
+
+Satu unit rigid inflatable boat (rib) milik Kantor Pencarian Banten dan satu unit milik Kantor Pencarian dan Pertolongan Lampung juga menyisir lokasi kejadian. 
+
+Untuk pencarian melalui udara Basarnas mengerahkan satu unit Helikopter Augusta Westland 139. 
+
+Hingga <TIMEX3 tid="t2" type="TIME" value="2018-12-23T16:30">pukul 16.30 WIB</TIMEX3> korban meninggal yang telah dievakuasi di Banten sebanyak 119 orang, morban luka-luka 515 orang. 
+
+Sementara korban meninggal di Lampung yang telah dievakuasi sebanyak 49 orang dan korban luka-luka 220 orang. 
+
+Jumlah korban baik yang meninggal maupun luka-luka diperkirakan masih akan terus bertambah mengingat sangat luasnya wilayah terdampak tsunami Samudera Hindia. 
+
+(dwi/ong) 
+</TEXT>
+
+</TimeML>

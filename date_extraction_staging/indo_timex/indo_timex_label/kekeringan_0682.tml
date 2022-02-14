@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0682</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-10" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-10</TIMEX3></DCT>
+
+<TITLE>19 Desa di Lamongan Dilanda Kekeringan, Air di Telaga Pun Menyusut</TITLE>
+
+<TEXT>
+Kekeringan di Lamongan semakin meluas. 
+
+<TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> 19 desa di 9 kecamatan di Lamongan mengalami kekeringan. 
+
+Badan Penanggulangan Bencana Daerah (BPBD) Lamongan sudah gencar menggelontor air bersih ke desa yang mengalami kekeringan tersebut. 
+
+(. 
+
+Kami mengirim dua sampai tiga kali air ke beberapa desa sebanyak tiga mobil tangki berkapasitas 6 ribu liter <TIMEX3 tid="t2" type="SET" value="P1D">setiap hari</TIMEX3>, ungkap Suprapto, Kepala BPBD Lamongan kepada SURYAMALANG. 
+
+COM, <TIMEX3 tid="t3" type="DATE" value="2018-08-10">Jumat (10/8/2018)</TIMEX3>. 
+
+(. 
+
+Kami siaga <TIMEX3 tid="t4" type="DURATION" value="PT24H">24 jam</TIMEX3>, tambahnya. 
+
+Sementara itu, Kepala Desa Kedungkumpul, Kecamatan Sarirejo, Sunarti mengatakan kekurangan air bersih sudah melanda kawasannya sejak <TIMEX3 tid="t5" type="DATE" value="2018-06-10">dua bulan lalu</TIMEX3>. 
+
+(. 
+
+Telaganya sudah kering, kata Sunarti. 
+
+
+</TEXT>
+
+</TimeML>

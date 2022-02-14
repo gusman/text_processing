@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0088</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-05-26" temporalFunction="false" functionInDocument="CREATION_TIME">2017-05-26</TIMEX3></DCT>
+
+<TITLE>Mobil Damkar Padamkan Kebakaran Hutan di Jalan Kolong Dua Toboali</TITLE>
+
+<TEXT>
+Mobil Damkar Kabupaten Bangka Selatan memadamkan api yang membakar hutan di Jalan kolong dua, belakang perumahan Metro Basel, pada <TIMEX3 tid="t1" type="TIME" value="2017-05-26TAF">Jumat (26/5/2017) siang</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2017-05-25T11:45">pukul 11.45 WIB</TIMEX3>. 
+
+Dimana sekitar dua hektar luas hutan yang dilalap oleh api, akibat dari kejadian itu sebanyak dua mobil Damkar diturunkan untuk memadamkan api, lokasi yang tidak jauh dari Pos Damkar membuat petugas dengan cepat mendatanginya. 
+
+" Kita tadi mendapatkan kabar barulah mau solat <TIMEX3 tid="t3" type="DATE" value="2017-05-26">Jumat</TIMEX3>, tetapi karena mendapatkan kabar ada hutan ke bakar kita akhirnya meninggalkanya, untuk bergegas menuju lokasi, " jelas Kepala Bidang Penanggulangan Bencana dan Kebakaran Satpol PP Basel, Jimmy Elvino, kepada bangkapos. 
+
+com, <TIMEX3 tid="t4" type="DATE" value="2017-05-26">Jumat</TIMEX3> (26/5/2017)Lokasi yang dekat dan memiliki sumber air di dekat lokasi kebakaran hutan juga membuat muda anggota Damkar memadamkan api, dalam waktu kurang lebih satu jam petugas damkar berjibaku memadamkan api. 
+
+" Untuk sumber air dekat sekitar hanya 100 meter dari lokasi kejadian, jadi tadi waktu habis air kita mengambilnya ke situ, " kata mantan Lurah Tanjung Ketapang ini. 
+
+. 
+
+FOLLOW Twitter bangkapos dan LIKE Halaman Facebook: bangkapos 
+</TEXT>
+
+</TimeML>

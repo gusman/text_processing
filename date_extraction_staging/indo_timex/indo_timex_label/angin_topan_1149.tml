@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1149</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-31" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-31</TIMEX3></DCT>
+
+<TITLE>Puting Beliung Mengamuk, Satu Balita Meninggal</TITLE>
+
+<TEXT>
+Bencana alam angin puting beliung terjadi di Desa Panguragan Kulon, Kecamatan Penguragan, Kabupaten Cirebon, Jawa Barat, Ahad <TIMEX3 tid="t1" type="TIME" value="2018-12-30T17:00">(30/12) pukul 17.00 WIB</TIMEX3>. 
+
+Belasan rumah menjadi korban yang terdapat di Blok 1, Blok 3, dan Blok 4. 
+
+Korban yang mengalami luka-luka berjumlah 7 orang. 
+
+Umumnya mereka mengalami luka karena tertimpa atap rumah. 
+
+Satu balita bernama Ergi (3) meninggal dunia dalam kejadian tersebut. 
+
+(net/dom) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1073</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-16</TIMEX3></DCT>
+
+<TITLE>Gempa Bumi, Warga Desa Tolala Berbondong-bondong Mengungsi</TITLE>
+
+<TEXT>
+Sekitar 70 persen warga Desa Tolala, Kecamatan Tolala, Kabupaten Kolaka Utara (Kolut), Provinsi Sulawesi Tenggara (Sultra), pada <TIMEX3 tid="t1" type="DATE" value="2019-01-16">Rabu (16/1/2019)</TIMEX3> mengungsi akibat gempa bumi. 
+
+Mereka berbondong-bondong pergi dari desa itu karena khawatir akan terjadi tsunami. 
+
+Sebagian warga mengungsi di pegunungan dan sebagian lagi mengungsi di wilayah Malili, Kabupaten Luwu Timur, Provinsi Sulawesi Selatan (Sulsel). 
+
+Sebagian warga juga ada yang memilih tetap bertahan. 
+
+Menurut penuturan salah seorang warga Desa Tolala, Israfil mengatakan warga mengungsi sejak <TIMEX3 tid="t2" type="TIME" value="2019-01-15TAF">siang</TIMEX3> sampai <TIMEX3 tid="t3" type="TIME" value="2019-01-15TAF">sore tadi</TIMEX3> karena adanya gempa bumi. 
+
+Sebagian warga mengungsi tepat usai ibadah salat dzuhur dan sebagian lagi mengungsi setelah salat ashar. 
+
+Saya sendiri bersama keluarga lari ke Malili setelah shalat ashar. 
+
+Warga yang mengungsi sekitar 70 sampai 80 persen. 
+
+Kebanyakan warga juga mengungsi ke pegunungan, kata Israfil, ketika dihubungi via telepon <TIMEX3 tid="t4" type="TIME" value="2019-01-15T19:10">pukul 19.10</TIMEX3> Wita. 
+
+Hal itu dilakukan guna menghindari gempa susulan. 
+
+Warga mengungsi dengan membawa bekal seadanya. 
+
+Saya sendiri dan keluarga hanya membawa bekal dari sisa makanan yang tidak jadi dimakan tadi. 
+
+Kebetulan di rumah tadi orang lagi kerja mengumpulkan kayu bakar untuk dipakai <TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">nanti</TIMEX3>, kata Israfil. 
+
+Israfil mengungkapkan, ketika dia menghubungi keluarganya yang bertahan di desa Tolala, terakhir gempa terjadi <TIMEX3 tid="t6" type="TIME" value="2019-01-15T18:18">sekitar pukul 18.18</TIMEX3> Wita. 
+
+Israfil dan warga desa Tolala lainya mengungsi karena ketakutan akan terjadinya tsunami seperti yang terjadi di Kota Palu, Sulawesi Tengah. 
+
+Karena kalau diliat model gempanya seperti gempa yang terjadi di Palu sebelum Tsunami. 
+
+Makanya kami mengungsi. 
+
+tidak ada dampak kerusakan rumah atau bangunan lainnya akibat gempa, tutur Israfil. 
+
+Gempa bumi tektonik berkekuatan 3,0 skala richter (SR) mengguncang wilayah Kabupaten Kolaka Utara, <TIMEX3 tid="t7" type="TIME" value="2019-01-16">Rabu (16/1/2019) pagi</TIMEX3> pukul <TIMEX3 tid="t8" type="TIME" value="2019-01-15T06:30">06.30</TIMEX3> Wita. 
+
+Hasil analisis BMKG, episenternya terletak pada koordinat 2.93 lintang selatan (LS) dan 121,06 bujur timur (BT) atau tepatnya berlokasi di laut pada jarak 63.1 km arah barat laut Lasusua, Kolut pada kedalaman 10 km. 
+
+Di <TIMEX3 tid="t9" type="DATE" value="2019-01-16">hari yang sama</TIMEX3>, gempa susulan terjadi pada <TIMEX3 tid="t10" type="TIME" value="2019-01-15T10:39">pukul 10.39</TIMEX3> Wita terletak pada koordinat <TIMEX3 tid="t11" type="TIME" value="2019-01-15T03:06">3.06</TIMEX3> LS dan 121,04 BT, atau tepatnya berlokasi di laut pada jarak 49.4 km arah barat laut Lasusua, kedalaman 10 km dengan kekuatan magnitudo 3,5. 
+
+Dan pada <TIMEX3 tid="t12" type="TIME" value="2019-01-15T16:24">pukul 16.24</TIMEX3> Wita, gempa berkekuatan 3,6 SR kembali mengguncang Kolaka Utara (Kolut) di sebelah barat laut. 
+
+Kepala Stasiun Geofisika Kendari Rosa Amelia mengatakan, dengan memperhatikan lokasi kedua episenter dan kedalaman hiposenter, gempa bumi yang terjadi merupakan jenis gempa bumi dangkal akibat aktivitas Sesar Lawanopo. 
+
+(B) 
+</TEXT>
+
+</TimeML>

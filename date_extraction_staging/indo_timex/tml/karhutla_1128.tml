@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1128</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-08-19" temporalFunction="false" functionInDocument="CREATION_TIME">2016-08-19</TIMEX3></DCT>
+
+<TITLE>Hotspot Makin Meningkat di Kalbar, Gubernur Minta Hujan Buatan ke BNPB</TITLE>
+
+<TEXT>
+Dalam seminggu terakhir titik panas (hotspot) di Kalimantan Barat meningkat secara signifikan.
+
+Satelit Modis dari NASA mendeteksi 158 hotspot di Kalimantan Barat pada Jumat (19/8/2016) pagi.
+
+Sebelumnya pada jumlah hotspot di Kalimantan Barat sebanyak 106 hotspot.
+
+Gubernur Kalimantan Barat telah menetapkan siaga darurat kebakaran hutan dan lahaan berlaku sejak tanggal (1/6/2016) hingga (1/9/2016).
+
+Untuk mengatasi hotspot kebakaran hutan dan lahan yang meluas maka Gubernur Kalimantan Barat telah mengajukan surat permintaan kepada BNPB agar dibantu helikopter water bombing, hujan buatan dan helikopter patroli pada 16/8/2016.
+
+BNPB menyiapkan 2 helikopter water bombing.
+
+Perijinan terbang ke Kementerian Perhubungan masih diproses.
+
+BPPT menyiapkan pesawat terbang Casa TNI AU dan bahan semai untuk hujan buatan.
+
+Diperkirakan hujan buatan dapat dilakukan minggu depan.
+
+Keterbatasan pesawat terbang menyebabkan operasi hujan buatan seringkali terkendala.
+
+Untuk mengcover wilayah Kalimantan yang luas diperlukan pesawat Hercules C-130 yang mampu menjelajah luas dan membawa bahan semai 8 ton untuk hujan buatan.
+
+Sementara itu, jumlah hotspot fluktuatif setiap harinya.
+
+Kebakaran hutan dan lahan di Riau masih terjadi di beberapa tempat.
+
+Pantauan satelit menunjukkan sebaran asap atau gas CO2 menyebar hingga Selat Malaka.
+
+Namun demikian belum mempengaruhi kualitas udara di Malaysia dan Singapore.
+
+Indeks Standar Pencemaran Udara di Malaysia dan Singapore masih baik.
+
+Pemantauan satelit Modis dari Lapan terdapat 339 hotspot pada Jumat pagi (19/8/2016) yaitu 218 hotspot untuk hotspot dengan tingkat kepercayaan Sedang (30 - 79%) dan 121 hotspot untuk tingkat kepercayaan Tinggi (80 - 100 %).
+
+(rls)
+</TEXT>
+
+</TimeML>
+

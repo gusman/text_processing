@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1214</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-05-16" temporalFunction="false" functionInDocument="CREATION_TIME">2016-05-16</TIMEX3></DCT>
+
+<TITLE>Basarnas Akhirnya Temukan 2 dari 22 Mahasiswa Medan yang Tewas di Sibolangit</TITLE>
+
+<TEXT>
+Tim Gabungan Basarnas, Kepolisian dan BPBD Deliserdang menemukan 2 dari 20 mahasiswa Kota Medan yang hilang terseret banjir bandang Sungai Lau Mentar, Air Terjun Dua Warna, Sibolangit, <TIMEX3 tid="t1" type="DATE" value="2016-05-16">Senin (16/5/2016)</TIMEX3>. 
+
+Jasad korban ditemukan tersangkut di aliran sungai, 2 Km dari lokasi saat mereka mandi-mandi di lokasi Air Terjun Dua Warna. 
+
+Identitas dua mahasiswa tersebut belum diketahui, dan langsung dievakuasi petugas. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> pencarian korban masih terus dilakukan. 
+
+Soal penemuan dua jasad korban tersebut dibenarkan oleh Sekretaris BPBD Deliserdang, Darwin Surbakti. 
+
+Ya, benar. 
+
+Jasad keduanya sudah dibawa ke posko, saat ditemukan dalam kondisi meninggal dunia, katanya saat ditanya wartawan. 
+
+Dia juga membenarkan ada 22 korban yang hilang terseret banjir bandang yang terjadi pada <TIMEX3 tid="t3" type="TIME" value="2016-05-15TEV">Minggu petang</TIMEX3> (15/5/2016) tersebut. 
+
+Dengan ditemukannya 2 korban, berarti jumlah korban yang belum ditemukan masih ada 20 lagi. 
+
+Petugas gabungan masih terus melakukan pencarian, tambahnya. 
+
+Terpisah, Kapolsek Pancurbatu, Polresta Medan, Kompol Frido Gultom mengatakan, pihaknya bersama tim gabungan masih melakukan pencarian dengan menyusuri aliran Sungai Lau Mentar. 
+
+Masih dilakukan penyisiran, katanya Menurutnya, dua korban tewas yang telah ditemukan berjenis kelamin laki-laki. 
+
+Kondisinya sangat mengenaskan. 
+
+Saat ditemukan petugas jasadnya terjepit batang kayu. 
+
+Sebelumnya diberitakan sebanyak 22 mahasiswa STIKES Flora Medan, Universitas Muhammadiyah Sumatera Utara (UMSU) Medan dan Mahasiswa Universitas Sumatera Utara (USU) hilang terseret banjir bandang saat mandi-mandi di air terjun dua warna Sibolangit. 
+
+Hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, pencarian korban masih dilakukan Tim Basarnas. 
+
+Banjir bandang yang melanda Sungai Lau Mentar itu juga menerjang pemukiman warga di Desa Durin Sirugun, Kecamatan Sibolangit, Deliserdang. 
+
+Kapolsek Pancurbatu Kompol Frido Gultom kepada wartawan mengatakan, berdasarkan informasi di lapangan ada 23 orang mahasiswa dari STIKES Flora Medan dan 2 mahasiswa UMSU Medan dan 3 mahasiswa USU yang tersapu banjir bandang btersebut. 
+
+Namun sebanyak 8 mahasiswa lainnya berhasil menyelamatkan diri dan sampai ke pos Bumi Perkemahan Sibolangit. 
+
+Informasi masih simpang siur karena belum ada keterangan resmi dari Tim Basarnas Medan. 
+
+*** 
+</TEXT>
+
+</TimeML>

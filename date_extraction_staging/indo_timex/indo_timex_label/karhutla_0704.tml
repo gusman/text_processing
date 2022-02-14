@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0704</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-24</TIMEX3></DCT>
+
+<TITLE>Seribet ini Proses Permintaan Bantuan Helikopter untuk Pemadaman Kebakaran di Jawa Timur</TITLE>
+
+<TEXT>
+Pemerintah Provinsi Jawa Timur tengah memproses SK tanggap darurat kebakaran hutan yang dikeluarkan oleh Pemkab Banyuwangi di Gunung Ijen. 
+
+Pasalnya, kabakaran hutan dan lahan di Gunung Ijen sudah meluas dan <TIMEX3 tid="t1" type="DURATION" value="P1W">hampir sepekan</TIMEX3> jalur pendakian dan wisata ke blue fire ditutup demi keamanan wisatawan. 
+
+Kepala Dinas Kehutanan Provinsi Jawa Timur Dewi J Putriatni mengatakan, SK tanggap darurat kebakaran hutan itu dikeluarkan <TIMEX3 tid="t2" type="DATE" value="2019-10-23">kemarin</TIMEX3> dan <TIMEX3 tid="t3" type="DATE" value="2019-10-24">hari ini</TIMEX3> mulai diproses. 
+
+SK tersebut menjadi dasar pengajuan bantuan helikopter ke BPNB agar bisa dilakukan waterbombing di wilayah darurat kebakaran. 
+
+" Untuk kebakaran di Gunung Ijen, Bupati Banyuwangi sudah mengeluarkan SK darurat kebakaran. 
+
+Jadi <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sedang diproses bantuan BNPB supaya bisa dilakukan water bombing di Ijen, " kata Dewi, <TIMEX3 tid="t5" type="DATE" value="2019-10-24">Kamis (24/10/2019)</TIMEX3>. 
+
+Dasar yang sama juga dilakukan dalam mendatangkan helikopter guna penanganan kebakaran di Gunung Arjuno dan Gunung Welirang dengan teknik waterbombing. 
+
+Ada empat pemeritah daerah yang mengeluarkan SK tanggap darurat bencana kebakaran hutan, antara lain, Pemkab Malang dan Pemkot Batu. 
+
+" Sejauh ini opsi yang memungkinkan untuk memadamkan selain manual ya harus pakai heli, karena sejauh ini pakai manual kendalanya memang banyak. 
+
+Karena kecuramannya 60 hingga 70 derajat. 
+
+Sejauh ini teman dari Perhutani, relawan, TNI Polri harus naik turun memadamkan api, " tegas Dewi. 
+
+Lebih lanjut menurut Dewi kebakaran hutan dan lahan di <TIMEX3 tid="t6" type="DATE" value="2019">tahun 2019 ini</TIMEX3> adalah yang terburuk. 
+
+Peningkatan lahan terbakar sampai dua kali lipat dibandingkan <TIMEX3 tid="t7" type="DATE" value="2018-10-24">tahun sebelumnya</TIMEX3>. 
+
+Hingga <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah lebih dari 4.300 hektar lahan hutan yang terbakar. 
+
+Termasuk 2000an hektare di antaranya adalah lahan taman hutan raya di Arjuno dan di Wonosalam, Jombang. 
+
+. 
+
+<TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Sekarang ini</TIMEX3> sudah hampir habis <TIMEX3 tid="t10" type="DATE" value="2019-10">Oktober</TIMEX3> tapi masih belum hujan. 
+
+Meski di Singosari sempat hujan tapi tidak di atas. 
+
+Di atas hanya terbentuk awan tapi hujannya turun di bawah sehingga tidak membantu pemadaman kebakaran, " ucapnya.Terkait kapan heli akan bisa didatangkan ke Gunung Ijen, Dewi belum bisa memastikan kapan. 
+
+Karena tergantung dari BNPB. 
+
+<TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> BNPB sudah membantu waterbombing di Arjuno Welirang dan masuk di hari ke eempat. " Upaya kita ya sejauh ini ada pencegahan sosialisasi dan penanganan dengan menggerakkan relawan anti api. 
+
+Ketika terjadi kebakaran pemadamannya itu dilakukan manual pakai gebyok, pakai sekat bakar artinya agar apinya tidak menjalar. 
+
+Tapi kemampuan manusia kan terbatas, maka kita berharap bantuan waterbombing juga segera datang untuk Ijen, " pungkas Dewi. 
+</TEXT>
+
+</TimeML>

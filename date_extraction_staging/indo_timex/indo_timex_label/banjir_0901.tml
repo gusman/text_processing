@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0901</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-05-30" temporalFunction="false" functionInDocument="CREATION_TIME">2017-05-30</TIMEX3></DCT>
+
+<TITLE>Pria Ini Lebih Pilih Selamatkan Ibunya Daripada Istri Saat banjir, Endingnya Diluar Dugaan</TITLE>
+
+<TEXT>
+Fenomena banjir seolah selalu menjadi momok yang menakutkan bagi setiap warga yang daerahnya pernah atau sering terkena banjir. 
+
+Kurangnya kepedulian terhadap lingkungan serta kebiasaan membuah sampah smebarangan yang seolah tak pernah berhenti menjadi salah satu penyebab mengapa banjir bisa terjadi di salah satu daerah. 
+
+Hal serupa pun belum lama ini dialami seorang pria asal China. 
+
+Saat arus banjir yang cukup kuat menghantam desanya, Gao Fengtai dihadapkan pada pilihan sulit antara menyelamatkan istrinya atau ibunya. 
+
+Namun tampaknya, Gao tak menduga jika pilihannya berbuah hal yang tak pernah ia duga. 
+
+Dikutip dari Shanghaiist, awalnya Gao yang tinggal di Desa Daxian di luar kota Xingtai, China menerima pesan, yang menyebut kalau sebuah observatorium meteorologi setelah memberi peringatan kepada warga akan adanya hujan lebat, <TIMEX3 tid="t1" type="DATE" value="2016-07-19">Selasa (19/7/2016)</TIMEX3>. 
+
+Gao terkejut saat sang istri pergi sambil membawa kedua anaknya / foto: CCTV NewsKhawatir dengan adanya kemungkinan banjir, Gao langsung bergegas pulang ke desanya untuk memeriksa keadaan sang ibu yang tinggal sendirian. 
+
+// Gao kemudian memarkirkan truknya di luar rumah sang ibu dan menunggu banjir melewati desanya selama <TIMEX3 tid="t2" type="DURATION" value="PT3H">3 jam</TIMEX3>, namun ternyata tak terjadi apa-apa. 
+
+Karena sudah merasa lelah, Gao kembali ke rumahnya dan memutuskan untuk tidur. 
+
+Saat tengah <TIMEX3 tid="t3" type="TIME" value="2017-05-29TNI">malam</TIMEX3>, istri Gao mendengar kabar mengejutkan dari desa kalau banjir telah datang. 
+
+Ia membangunkan Gao, yang dengan cepat, langsung pergi menuju rumah sang ibu yang berjarak hanya <TIMEX3 tid="t4" type="DURATION" value="PT2M">dua menit</TIMEX3> dari rumahnya. 
+
+Saat memastikan kalau sang ibu sudah selamat, Gao kembali ke rumah. 
+
+Ia melihat pintu rumahnya telah ditutup agar air dari banjir tidak masuk ke dalam rumah. 
+
+Gao berteriak agar sang istri membawa anak-anaknya dan ayahnya ke atas atap. 
+
+Setelah selesai, ia kembali memeriksa keadaan sang ibu. 
+
+Sementara itu, istri Gao berusaha seorang diri membawa dua anaknya serta ayah Gao yang mengalami disabilitas untuk naik ke atas atap. 
+
+// Sayang, saat banjir pergi, istri Gao pun pergi meninggalkannya, sembari membawa putranya yang berusia <TIMEX3 tid="t5" type="DURATION" value="P2Y">2 tahun</TIMEX3>, putrinya yang berusia <TIMEX3 tid="t6" type="DURATION" value="P4Y">4 tahun</TIMEX3>, dan uang sebesar 2.000 yuan (senilai Rp 4 juta). 
+
+Dia adalah istri yang baik dan memiliki kepribadian yang kuat dan selalu merawat orangtuaku dengan baik, ujar Gao. 
+
+Saat ditanya wartawan apakah mungkin baginya untuk membawa istri dan anaknya ke atap terlebih <TIMEX3 tid="t7" type="DATE" value="PAST_REF">dahulu</TIMEX3>, baru menyelamatkan sang ibu, dengan nada menyesal Gao menjawab; Rasanya tidak mungkin, aku <TIMEX3 tid="t8" type="DATE" value="PAST_REF">saat itu</TIMEX3> ragu tentang siapa yang harus aku selamatkan lebih dulu. 
+
+Aku tak bisa bayangkan apa yang ada dibenak istriku saat aku pergi menyelamatkan ibuku, ujar Gao melanjutkan. 
+
+Menelantarkan ibuku adalah perbuatan tercela, tapi meninggalkan istriku juga merupakan perbuatan yang tak bisa diterima. 
+
+Aku tahu dia pasti sangat kecewa padaku. 
+
+Gao juga menambahkan jika ia akan meminta maaf kepada sang istri saat mengunjungi kedua orangtua istrinya <TIMEX3 tid="t9" type="DATE" value="FUTURE_REF">nanti</TIMEX3>, meski Gao ragu apakah istrinya akan memaafkannya atau tidak. 
+
+(Sumber: Shanghaiist / Katie Ngai) 
+</TEXT>
+
+</TimeML>

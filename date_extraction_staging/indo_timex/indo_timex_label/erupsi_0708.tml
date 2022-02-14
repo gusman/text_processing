@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0708</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-02-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-02-05</TIMEX3></DCT>
+
+<TITLE>Cerita Bupati Sitaro yang Ingin Melihat Lebih Dekat Lava Karangetang tapi Dicegah</TITLE>
+
+<TEXT>
+Bupati Kepulauan Sitaro Evangelian Sasingen memantau perkembangan bencana alam guguran lava Gunung Karangetang, <TIMEX3 tid="t1" type="DATE" value="2019-02-04">Senin (4/2/2019)</TIMEX3>. 
+
+Sasingen terlebih <TIMEX3 tid="t2" type="DATE" value="PAST_REF">dahulu</TIMEX3> mengunjungi lokasi yang dijaga pihak Polsek Siau Barat dan Koramil 02 Siau, tepatnya di Kampung Kawahang. 
+
+Di situ ia berbincang dengan petugas Yudia Tatipang, pemantau Gunung Karangetang; Dandim <TIMEX3 tid="t3" type="DATE" value="1301">1301</TIMEX3> Sangihe Letkol Inf Parenrengi, dan Kapolsek Siau Barat Kompol Johanis Sasebohe. 
+
+Sempat ingin melihat langsung aliran lava yang berada di Batubulan, Bupati dicegah lantaran sudah sangat berbahaya karena sudah sangat dekat dengan jembatan Batubulan. 
+
+" Daripada berisiko awan panas, lebih baik tidak usah, " katanya. 
+
+Ia berterima kasih kepada petugas TNI dan Polri lantaran siap siaga turun lokasi saat mendapat laporan terjadinya guguran lava. 
+
+" Saya berterima kasih atas kesiapsiagaan dari TNI, Polri, dan Basarnas Sangihe yang sejak <TIMEX3 tid="t4" type="DATE" value="2019-02-04">kemarin</TIMEX3> sudah ada di lapangan, bekerja sama dengan pemerintah di Sitaro untuk mengevakuasi masyarakat, " jelasnya.Ia mengatakan, sampai <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> warga masih tetap diimbau untuk waspada dan akan tetap dievakuasi bagi mereka yang memang dianggap terlalu dekat dengan aliran lava. " Untuk warga yang masih di kampung Batubulan sampai tadi kami imbau untuk dievakuasi, dan sudah berusaha baik lewat laut, tapi masih ada yang berusaha bertahan di sana. 
+
+Tapi kalau mereka meminta untuk dievakuasi kami akan evakuasi, " ujarnya. 
+
+// Ia pun menjamin kesejahteraan warga selama di pengungsian. 
+
+" Sejak diungsikan kami sudah membagikan bantuan baik dari TNI, Dinsos, dan BPBD, serta selama dalam pengungsian tetap masih dalam jaminan pemerintah, " jelas dia. 
+
+Menurut dia, bantuan dari mana saja akan diterima untuk masyarakat uang mengungsi. 
+
+" Kami terbuka menerima bantuan dari mana saja, kami akan berterima kasih kepada siapa saja yang memberikan bantuan untuk masyarakat di sini, " jelas dia. 
+
+BERITA POPULER:Menurutnya, untuk masker sudah dibagikan kepada seluruh warga. 
+
+Pemkab juga sudah meminta tambahan masker ke PMI sebanyak 10 ribu lembar. 
+
+Untuk siswa SD juga sudah diliburkan, dan siswa SMP dan SMA dipindahkan ke sekolah terdekat agar bisa melanjutkan pelajaran di sana. 
+
+Usai dari lokasi tersebut, Bupati Sitaro menyambangi pengungsi di gedung gereja GMIST Nazaret Niambangeng. 
+
+(*) 
+</TEXT>
+
+</TimeML>

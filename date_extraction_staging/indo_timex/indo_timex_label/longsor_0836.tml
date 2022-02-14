@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0836</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-07-04" temporalFunction="false" functionInDocument="CREATION_TIME">2018-07-04</TIMEX3></DCT>
+
+<TITLE>Pulang Kerjakan Skripsi, Mahasiswa Tewas Tertimbun Longsor</TITLE>
+
+<TEXT>
+Sorang mahasiswa di Kota Kendari tewas tertimpa longsor usai mengerjakan skripsi di permukiman padat penduduk Kecamatan Mandonga Kendari, Sulawesi Tenggara, pada <TIMEX3 tid="t1" type="DATE" value="2018-07-03">Selasa</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2018-07-03TNI">3 Juli 2018 malam</TIMEX3>. 
+
+Selain menelan korban jiwa, longsor juga mengakibat sejumlah rumah rusak. 
+
+Kepala BPBD Sulawesi Tenggara Boy Ikhwansyah mengatakan, tanah longsor tersebut disebabkan oleh kontur tanah pegunungan yang tidak stabil. 
+
+" Hujan deras yang terus mengguyur Kota Kendari sepanjang <TIMEX3 tid="t3" type="DATE" value="2018-07-04">hari ini</TIMEX3> juga membuat pergerakan tanah, " kata Boy kepada MNC Media pada <TIMEX3 tid="t4" type="TIME" value="2018-07-03TNI">Selasa malam</TIMEX3>. 
+
+Laode Jefri, tetangga korban mengatakan, saat melakukan evakuasi posisi korban sudah tertimbun tanah longsor. 
+
+Melihat korban dalam keadaan kaku warga bersama petugas melarikan korban ke rumah sakit terdekat. 
+
+" Korban ini baru pulang mengerjekan skripsi, " ujarnya. 
+
+(whb) 
+</TEXT>
+
+</TimeML>

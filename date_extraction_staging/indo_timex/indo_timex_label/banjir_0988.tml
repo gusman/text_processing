@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0988</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-10-04" temporalFunction="false" functionInDocument="CREATION_TIME">2016-10-04</TIMEX3></DCT>
+
+<TITLE>RW 09 Kelurahan Pajang, Laweyan, Solo, Tergenang Air Hingga Selutut, Warga Mulai Berkemas</TITLE>
+
+<TEXT>
+RW09 Kelurahan Pajang, Laweyan, Solo tergenang air hingga selutut, <TIMEX3 tid="t1" type="TIME" value="2016-10-04T21:50">Selasa (4/10/2016) pukul 21.50 WIB</TIMEX3>. 
+
+Dikatakan warga setempat, Suprapto (55), banjir dikarenakan sungai di sekitar Pasar Jongke meluap. 
+
+" Sungai itu (Jongke) meluap sejak <TIMEX3 tid="t2" type="TIME" value="UNKNOWN">pukul 20.00 WIB malam</TIMEX3>, " katanya saat ditemui TribunSolo. 
+
+com. 
+
+Di kawasan dekat sungai RW09 kampung Bratan, Pajang, tinggi air hingga selutut. 
+
+Suprapto menerangkan, warga sudah berkemas sejak <TIMEX3 tid="t3" type="TIME" value="2016-10-03T20:30">pukul 20.30 WIB</TIMEX3>. 
+
+Hujan sejak <TIMEX3 tid="t4" type="TIME" value="2016-10-03T15:00">pukul 15.00 WIB</TIMEX3> hingga <TIMEX3 tid="t5" type="TIME" value="2016-10-03T19:00">pukul 19.00 WIB</TIMEX3> mengguyur sekitar Pajang. 
+
+Sementara itu, Suprapto mengatakan, luapan sungai merupakan kiriman dari wilayah utara.Seperti Boyolali dan Salatiga yang mengirim air.Saat ini, <TIMEX3 tid="t6" type="TIME" value="2016-10-03T22:00">pukul 22.00 WIB</TIMEX3>, air semakin meninggi naik ke jalanan. 
+
+(*) 
+</TEXT>
+
+</TimeML>

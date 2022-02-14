@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0456</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-24</TIMEX3></DCT>
+
+<TITLE>Ikut Padamkan Api di Hutan Pinus Trenggalek, Kakek Ini Malah Harus Dirawat ke RS Karena Luka Bakar</TITLE>
+
+<TEXT>
+Kebakaran hutan kembali terjadi di dua titik secara bersamaan di Kabupaten Trenggalek, <TIMEX3 tid="t1" type="DATE" value="2019-10-24">Kamis (24/10/2019)</TIMEX3>. 
+
+Kebakaran pertama terjadi di sekitar jalur nasional yang menghubungkan Trenggalek dan Panggul. 
+
+Lokasi tepatnya di desa Puruh, petak 101 RPH Karangan. 
+
+Kebakaran menghanguskan sekitar 0,25 hektare (ha) lahan yang ditumbuhi pohon pinus. 
+
+. 
+
+Tepatnya di petak 103 C RPH Karangan. 
+
+Luasannya 6,2 ha. 
+
+Di lokasi kedua ini, seorang warga menjadi korban. 
+
+Mujiman (75) terpeleset ketika pulang saat membantu memadamkan api. 
+
+Ia jatuh di bekas lokasi kebakaran yang masih panas akibat bara api. 
+
+" Yang bersangkutan membantu bersama masyarakat lain untuk memadamkan api. 
+
+karena mungkin bersangkutan sudah usia lanjut, pascamemadamkan mungkin kecapekan hingga terpeleset, " kata Wakil Adm/Kepala Sub Kesatuan Pemangkuan Hutan Kediri Selatan Andy Iswindarto. 
+
+Kebetulan rumah Mujiman berada paling dekat dengan lokasi kebakaran. 
+
+Ketika mereka yang memadamkan turun, sang istri mencari Mujiman yang tak kunjung tiba. 
+
+Ia pun meminta tolong para petugas lain. 
+
+// " Akhirnya semua mencari. 
+
+Setelah ditemukan, Mujiman lalu ditandu dari lokasi, " ujarnya. 
+
+Untuk menjalani perawatan, korban dilarikan ke RSUD dr Soedomo Trenggalek. 
+
+Dokter Umum RSUD dr Soedomo, dr Dimas Rendika, menjelaskan, Mujiman mengalami luka bakar 20 persen di kaki dan lengan kiri. 
+
+Juga ada luka sobek di area kepala. 
+
+Pasien sampai di rumah sakit <TIMEX3 tid="t2" type="TIME" value="2019-10-23T15:40">sekitar pukul 15.40 WIB</TIMEX3>. 
+
+Ia langsung dirawat di ruang tindakan Instalasi Gawat Darurat (IGD). 
+
+" Tindakan yang dilakukan untuk <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, penjahitan luka sobek, terapi obat untuk luka balar, dan pemberian infus, " kata Dimas, di rumah sakit. 
+
+Karena usia yang sudah lanjut, penanganan terhadap Mujiman butuh kehati-hatian ekstra. 
+
+" berbeda dengan pasien yang masih muda, " ujar Dimas.Sementara kebakaran bisa di atasi <TIMEX3 tid="t4" type="DURATION" value="PT2H">sekitar 2 jam</TIMEX3>. 
+
+kebakaran terjadi hampir bersamaan <TIMEX3 tid="t5" type="TIME" value="2019-10-23T11:00">pukul 11.00 WIB</TIMEX3>.Pemadaman api dilakukan secara manual oleh anggota Perhutani, kepolisian, TNI dan warga sekitar. 
+</TEXT>
+
+</TimeML>

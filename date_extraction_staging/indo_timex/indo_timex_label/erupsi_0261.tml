@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0261</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-02" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-02</TIMEX3></DCT>
+
+<TITLE>Kawah Sileri Dieng Meletus, Lokasi Wisata Ditutup untuk Umum</TITLE>
+
+<TEXT>
+Kawah Sileri yang berada di Kompleks Gunung Dieng di Desa Kepakisan, Kecamatan Batur, Kabupaten Banjarnegara Provinsi Jawa Tengah tiba-tiba meletus pada <TIMEX3 tid="t1" type="DATE" value="2017-07-02">Minggu (2/7/2017)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2017-07-01T12:00">pukul 12.00 WIB</TIMEX3>. 
+
+Letusan disertai dengan material lahar dingin, lumpur dan asap hingga mencapai 50 meter sehingga mengenai wisatawan yang <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3> berada di sekitar Kawah Sileri. 
+
+Tipe letusan adalah freatik yaitu letusan gas atau embusan asap dan material yang dipicu oleh tekanan gas yang berada di bawah permukaan. 
+
+Berdasarkan laporan sementara dari BPBD Banjarnegara, saat terjadi letusan terdapat 17 orang pengunjung atau wisatawan. 
+
+Empat orang menderita luka-luka dan dirawat di Puskesmas I Batur. 
+
+Tidak ada korban jiwa meninggal dunia. 
+
+Petugas dari BPBD Kabupaten Banjarnegara, PVMBG, TNI, Polri, SKPD, relawan dan lainnya sudah berada di lokasi. 
+
+Pengunjung maupun warga diminta untuk meninggalkan lokasi dan untuk area kawah sudah dikosongkan. 
+
+Kejadian tersebut berpotensi akan menimbulkan letupan susulan. 
+
+Kawah Sileri merupakan salah satu objek wisata di Dieng Plateau, memiliki bentuk unik berupa kepundan datar, sehingga permukaan air kawah yang selalu mendidih terus mengalir ke permukaan yang lebih rendah. 
+
+Dengan permukaan air mencapai 4 hektar. 
+
+Aktivitas kawah ini cukup tinggi, sempat beberapa kali meletus, sehingga menjadi kawah yang paling berbahaya di Dieng. 
+
+Kawah Sileri merupakan kawah yang paling aktif dan pernah meletus beberapa kali yang sempat tercatat adalah <TIMEX3 tid="t4" type="DATE" value="1939">tahun 1939</TIMEX3>, <TIMEX3 tid="t5" type="DATE" value="1944">1944</TIMEX3>, <TIMEX3 tid="t6" type="DATE" value="1964">1964</TIMEX3>, <TIMEX3 tid="t7" type="DATE" value="1984">1984</TIMEX3>, <TIMEX3 tid="t8" type="DATE" value="2003">2003</TIMEX3>, <TIMEX3 tid="t9" type="DATE" value="2009">2009</TIMEX3>. 
+
+Hingga <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> status Gunung Dieng masih normal aktif. 
+
+Belum ada kenaikan status terkait dengan peningkatan aktivitas gunung dan letusan yang terjadi pada <TIMEX3 tid="t11" type="TIME" value="2017-07-02TAF">siang ini</TIMEX3>. 
+
+Sutopo Purwo Nugroho/Kepala Pusat Data Informasi dan Humas BNPB 17 orang yang berada di Kawah Sileri saat melutus adalah:1. 
+
+Sdr. 
+
+Mirotun (30), alamat Desa Sabrang Kec. 
+
+Peninggaran Kab. 
+
+Pekalongan tidak ada luka (hanya terkena lumpur). 
+
+2. 
+
+Sdri. 
+
+Ayu Nur Aeni (10) alamat Desa Sabrang Kec. 
+
+Peninggaran Kab. 
+
+Pekalongan tidak ada luka (hanya terkena lumpur). 
+
+3. 
+
+Sdri. 
+
+Muzaefah (32) alamat Desa Sabrang Kec. 
+
+Peninggaran Kab. 
+
+Pekalongan tidak ada luka (hanya terkena lumpur). 
+
+4. 
+
+Sdri. 
+
+Haromi (55) alamat Desa Sabrang Kec. 
+
+Peninggaran Kab. 
+
+Pekalongan tidak ada luka (hanya terkena lumpur). 
+
+5. 
+
+Sdri. 
+
+Heti Handayani (13) alamat Desa Sabrang Kec. 
+
+Peninggaran Kab. 
+
+Pekalongan tidak ada luka (hanya terkena lumpur). 
+
+6. 
+
+Sdri. 
+
+Nur Holisoh (24) alamat Desa Sabrang Kec. 
+
+Peninggaran Kab. 
+
+Pekalongan tidak ada luka (hanya terkena lumpur). 
+
+7. 
+
+Sdri. 
+
+Zulfa Yanti (9) alamat Desa Sabrang Kec. 
+
+Peninggaran Kab. 
+
+Pekalongan tidak ada luka (hanya terkena lumpur). 
+
+8. 
+
+Sdr. 
+
+Badru Utamam (37), alamat Desa Sabrang Kec. 
+
+Peninggaran Kab. 
+
+Pekalongan luka lecet di kaki. 
+
+9. 
+
+Sdr. 
+
+Moh Fidsa Aswa Muzafar (2) alamat Desa Sabrang Kec. 
+
+Peninggaran Kab. 
+
+Pekalongan luka lecet di atas telinga sebelah kiri dan lengan kanan. 
+
+10. 
+
+Sdr. 
+
+Muh Zahromi (50) Desa Sabrang Kec. 
+
+Peninggaran Kab. 
+
+Pekalongan tidak ada luka (hanya terkena lumpur). 
+
+11. 
+
+Sdr. 
+
+Mutamimah (31), swasta, alamat sda, tidak ada luka. 
+
+12. 
+
+Sdri. 
+
+Siti Hudifah (30) alamat sda, tidak ada luka. 
+
+13. 
+
+Sdri. 
+
+Muainah, 44 th, islam, alamat Ds. 
+
+Kauman Rt Kec. 
+
+Peninggaran Pekalongan luka yang dialami patah tertutup lengan sebelah kiri (akan dirujuk ke Pekalongan). 
+
+14. 
+
+Sdri. 
+
+Toyibah, 50 th, alamat sda, tidak ada luka / kaget. 
+
+15. 
+
+Sdri. 
+
+Nurbaiti, 12 th, alamat sda, tidak ada luka /kaget. 
+
+16. 
+
+Sdri. 
+
+Cucu Nofalia, 26 th, alamat sda, luka tidak ada / sesak napas. 
+
+17. 
+
+Sdri. 
+
+Ika Setiyani, 25 th, alamat sda, luka sobek dikepala belakang sebelah kiri. 
+</TEXT>
+
+</TimeML>

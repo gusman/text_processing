@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0912</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-27" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-27</TIMEX3></DCT>
+
+<TITLE>Mahasiswa Puncak dan Yahukimo serahkan bantuan kepada korban banjir Sentani</TITLE>
+
+<TEXT>
+Komunitas mahasiswa Pelajar Puncak (KMPP) dan Komunitas Pelajar Mahasiswa Yahukimo (KMPY) di Jayapura menggalang dana dan mengunjungi warga yang terdampak banjir bandang Sentani. 
+
+Badan pengurus KMPP Aperau Kiwak mengatakan dirinya meminta maaf kepada warga karena saat terjadi musibah dia tengah berada di luar Jayapura dan tidak datang melihat. 
+
+Katanya, bantuan yang diberikan kepada korban merupakan rasa kepedulian pihaknya kepada kepada warga Puncak yang terdampak banjir. 
+
+Warga Puncak yang berada di Kabupaten Jayapura terhimpun dalam 8 gereja dari beberapa denominasi. 
+
+Pada banjir bandang <TIMEX3 tid="t1" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>, warga Puncak yang meninggal dunia tercatat sejumlah 3 orang. 
+
+Sedangkan yang lainnya mengalami luka-luka. 
+
+Di bawah koordinasi KMPY bersama dengan Bupati Yahukimo dan istrinya juga memberikan bantuan dana RP250 juta dengan bantuan bahan makanan, kata Habel Pusop ketua KMPY. 
+
+Adapun warga Yahukimo di kabupaten Jayapura, dilaporkan tidak ada ada yang meninggal dunia akibat banjir. 
+
+Namun diperkirakan rumah dan ternak peliharaan mereka terbawa arus banjir. 
+
+Habel Siep warga Yahukimo yang sudah <TIMEX3 tid="t2" type="DURATION" value="P17Y">17 tahun</TIMEX3> menetap di Kabupaten Jayapura menyatakan terima kasih kepada Pemda Yahukimo dan KMPY karena berkenan hadir melihat kondisi mereka. 
+</TEXT>
+
+</TimeML>

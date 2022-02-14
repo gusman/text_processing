@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0341</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Saat Gempa Donggala, Anthonius Tetap Bantu Pesawat Take Off, Meninggal Setelah Lompat dari Lantai 4</TITLE>
+
+<TEXT>
+Guncangan gempa Donggala dan Palu, <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3> menelan korban. 
+
+Gempa berkekuatan 7,4 SR itu, satu di antaranya meregang nyawa Anthonius Gunawan Agung. 
+
+Anthonius Gunawan Agung adalah seorang petugas Air Traffic Controller (ATC). 
+
+Saat tengah bertugas di Bandara Mutiara SIS Al-Jufrie, guncangan gempa Donggala pun menggoyang Palu. 
+
+Getaran yang ditimbulkan gempa, membuat petugas di Bandara Mutiara SIS Al-Jufrie, Palu, berhamburan. 
+
+Mereka menyelamatkan diri dari dahsyatnya guncangan gempa. 
+
+Namun, Anthonius Gunawan Agung justru menahan diri dari guncangan gempa. 
+
+Anthonius Gunawan Agung tak buru-buru menyelamatkan diri. 
+
+Ia memilih menuntaskan pekerjaannya terlebih <TIMEX3 tid="t2" type="DATE" value="PAST_REF">dahulu</TIMEX3> membantu pesawat take off dari bandara. 
+
+Setelah pekerjaannya tuntas, Athonius Gunawan Agung pun langsung angkat kaki dari menara pengatur lalu lintas udara. 
+
+// Ia kemudian melompat dari lantai empat menara lalu lintas udara tersebut. 
+
+. 
+
+Tubuh Anthonius Gunawan Agung mengalami patah tulang. 
+
+Ia sempat dilarikan ke rumah sakit menggunakan helikopter. 
+
+Namun, nyawa Anthonius Gunawan Agung pun melayang. 
+
+Ia meninggal dunia menjadi korban tragedi gempa Donggala dan Palu. 
+
+Tempat Anthonius Gunawan Agung bekerja pun mengalami kerusakan parah akibat gempa tersebut. 
+
+Kabin tower lantai 4 roboh hingga peralatan pun rusak. 
+
+Hal itulah yang menyebabkan aktivitas bandara sementara ini ditutup. 
+
+Di sisi lain, sang pilot yang membawa pesawat lepas landas atas bantuan Anthonius Gunawan Agung merasakan kesedihan. 
+
+// Ia terkajut atas kabar meninggalnya rekan kerjanya itu. 
+
+Sang pilot merasa berterima kasih sekaligus meminta maaf kepada Anthonius Gunawan Agung. 
+
+" Oh Tuhan, ini beliau meninggal? Ya ampoon jadi netesin air mata. 
+
+Last transmisision was ' Batik <TIMEX3 tid="t3" type="DATE" value="6231">6231</TIMEX3> R/W 33 clear for take off' and i replied. 
+
+Thank you for letting me take off. 
+
+God be with you. 
+
+So sad and so sorry, " ujarnya, dikutip dari Tribun Timur. 
+
+. 
+
+Melalui keterangan pers yang disiarkan langsung Kompas TV, Dwikorita Karnawati mengatakan, kekuatan magnitudo gempa Donggala 7,7 SR diperbaharui menjadi 7,4 SR. 
+
+" Gempa bumi tersebut menimbulkan tsunami dengan level siaga, yaitu ketinggian lebih dari 0,5 meter hingga diperkirakan maksimum 3 meter, " ujar Dwikorita Karnawati. 
+
+Tsunami di Donggala dan Palu terjadi pada <TIMEX3 tid="t4" type="TIME" value="2018-09-28T17:22">pukul 17.22 WIB</TIMEX3>. 
+
+. 
+
+Dwikorita Karnawati mengaku, setelah itu pihaknya langsung memantau kenaikan muka air laut. 
+
+// " Dari hasil pengamatan terlihat adanya kenaikan muka air laut setinggi 6 sentimeter dari Mamuju, pada <TIMEX3 tid="t5" type="TIME" value="2018-09-28T17:27">17.27 WIB</TIMEX3>, " ujarnya. 
+
+Selain itu, dari pantauan saksi mata di lapangan, terlihat ketinggian air laut mencapai 1,5 meter dari Pantai Palu. 
+
+Sejak tsunami itu menerjang Pantai Palu, BMKG pun memantau kenaikan air yang semakin surut. 
+
+Kemudian, Pada <TIMEX3 tid="t6" type="TIME" value="2018-09-28T17:36">pukul 17.36</TIMEX3>, peringatan tsunami pun diakhiri BMKG. 
+
+Berikut ini video tsunami di Pantai Palu. 
+
+
+</TEXT>
+
+</TimeML>

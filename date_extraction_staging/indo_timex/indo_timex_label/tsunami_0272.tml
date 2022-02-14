@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0272</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-25" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-25</TIMEX3></DCT>
+
+<TITLE>Tahukah Anda? Kecepatan Gelombang Tsunami Bisa Lampaui Kecepatan Pesawat Jet, Ini 7 Faktanya !</TITLE>
+
+<TEXT>
+Indonesia kembali berduka. 
+
+Pada <TIMEX3 tid="t1" type="TIME" value="2018-12-22">hari Sabtu (22/12/2018) malam</TIMEX3>, terjadi tsunami setinggi 0,9 meter di pesisir pantai Banten dan sekitar Selat Sunda. 
+
+Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) menyampaikan kesimpulan tersebut setelah mendapatkan data dari 4 stasiun pengamatan pasang surut di sekitar Selat Sunda pada waktu kejadian tsunami, yaitu <TIMEX3 tid="t2" type="TIME" value="2018-12-24T21:27">pukul 21.27 WIB</TIMEX3>. 
+
+Hasil pengamatan menunjukkan tinggi gelombang masing-masing 0.9 meter di Serang pada <TIMEX3 tid="t3" type="TIME" value="2018-12-24T21:27">pukul 21.27 WIB</TIMEX3>, 0,35 meter di Banten pada <TIMEX3 tid="t4" type="TIME" value="2018-12-24T21:33">pukul 21.33 WIB</TIMEX3>, 0,36 meter di Kota Agung pada <TIMEX3 tid="t5" type="TIME" value="2018-12-24T21:35">pukul 21.35 WIB</TIMEX3>, dan 0,28 meter pada <TIMEX3 tid="t6" type="TIME" value="2018-12-24T21:53">pukul 21.53 WIB</TIMEX3> di Pelabuhan Panjang. 
+
+Hingga berita ini diturunkan, korban meninggal sudah mencapai 300 orang lebih dan ratusan lainnya masih hilang dan mengalami luka-luka. 
+
+Diketahui tsunami ini bukanlah kejadian pertama yang menimpa Indonesia. 
+
+Tentu kita masih ingat tsunami Aceh pada <TIMEX3 tid="t7" type="DATE" value="2004">tahun 2004</TIMEX3> yang menewaskan ratusan orang dan <TIMEX3 tid="t8" type="DATE" value="PAST_REF">baru-baru ini</TIMEX3> tsunami yang melanda Palu dan Donggala pada <TIMEX3 tid="t9" type="DATE" value="2018-09">September 2018</TIMEX3>. 
+
+Tapi sebenarnya apa sih tsunami itu? Tsunami adalah serangkaian gelombang air besar yang disebabkan oleh letusan gunung berapi atau gempa bawah laut atau tanah longsor atau dampak dari meteoroid atau jenis ledakan bawah air. 
+
+Rangkaian gelombang tsunami juga dikenal sebagai kereta gelombang dan waktu antara dua gelombang dapat berkisar antara <TIMEX3 tid="t10" type="DURATION" value="UNKNOWN">beberapa menit dan beberapa jam</TIMEX3>. 
+
+// Biasanya gelombang pertama tsunami bukanlah yang paling merusak. 
+
+Gelombang ke-5 atau ke-6 lah yang paling kuat yang memiliki kemampuan untuk menghancurkan banyak wilayah. 
+
+Orang pertama yang berhubungan dengan tsunami untuk gempa adalah sejarawan Yunani Thucydides yang disebutkan dalam bukunya History of the Peloponnesian War. 
+
+Berikut adalah 7 fakta menarik tsunami yang mungkin belum Anda tahu:1. 
+
+Tertinggi selama <TIMEX3 tid="t11" type="DURATION" value="P25Y">25 tahun</TIMEX3> terakhirFakta menarik tsunami yang pertama adalah mengenai tsunami yang terjadi pada <TIMEX3 tid="t12" type="DATE" value="2004">tahun 2004</TIMEX3> di Samudera Hindia. 
+
+<TIMEX3 tid="t13" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, kekuatan gempa 9,0 SR yang terjadi di Aceh melebihi dari besar gempa bumi yang terjadi dari <TIMEX3 tid="t14" type="DATE" value="1993-12-25">25 tahun yang lalu</TIMEX3>. 
+
+Sebuah wilayah di dasar laut yang luasnya melebihi California terlepas dan berpindah ke atas sekitar 30 kaki. 
+
+Air laut yang dalam jumlah besar tersebut meluap dan menjadi gelombang setinggi 25 meter.2. 
+
+Wilayah kerusakan // Tsunami dapat merusak wilayah yang berjarak sekitar radius 250 mil dari pusat tsunami dan biasanya terjadi dalam waktu 30 menit.3. 
+
+Tsunami dapat memusnahkan kehidupan di BumiIni adalah salah satu fakta tsunami paling menarik yang disebabkan oleh hujan meteor. 
+
+Di dalam sejarah, tidak pernah tercatat tsunami yang disebabkan oleh serangan meteor. 
+
+Namun menurut beberapa ilmuwan, hampir 3,5 miliar tahun yang lalu ada serangan meteorit yang menimbulkan tsunami yang sangat besar dan memusnahkan semua kehidupan di bumi. 
+
+Ada pula teori lain yang menyebutkan gelombang tsunami setinggi 180 meter yang disebabkan oleh asteroid <TIMEX3 tid="t15" type="DATE" value="4800">4800</TIMEX3> tahun yang lalu terjadi di Samudra Hindia.4. 
+
+Gempa terbesar dalam sejarah duniaGempa terbesar yang tercatat dalam sejarah dunia terjadi pada <TIMEX3 tid="t16" type="DATE" value="1960">tahun 1960</TIMEX3>. 
+
+Pusatnya berada 100 mil dari lepas pantai Chili. 
+
+<TIMEX3 tid="t17" type="DURATION" value="PT15M">Hampir 15 menit</TIMEX3> berlalu ketika gelombang 80 meter menghantam pantai. 
+
+Di Hawaii terjadi <TIMEX3 tid="t18" type="TIME" value="2018-12-25T15:00:00">sekitar 15 jam setelahnya</TIMEX3> dan <TIMEX3 tid="t19" type="TIME" value="2018-12-25T22:00:00">22 jam setelahnya</TIMEX3> gelombang tsunami itu mencapai ke Jepang setelah melalui jarak 10,000 mil.5. 
+
+Kecepatan gelombang tsunami dapat melampaui kecepatan pesawat jet // Di daftar fakta menarik tsunami, ini merupakan hal yang tidak dapat dipercaya mengenai kecepatan sebuah gelombang tsunami. 
+
+Kecepatan tsunami dapat mencapai 600 mil per jam yang artinya sama dengan kecepatan sebuah pesawat jet. 
+
+Padahal normalnya gelombang air hanya sekitar 2 sampai 60 mil per jam. 
+
+6. 
+
+<TIMEX3 tid="t20" type="DATE" value="9000">Sekitar 9000</TIMEX3> wisatawan meninggal pada tsunami 2004Pada <TIMEX3 tid="t21" type="DATE" value="2004">tahun 2004</TIMEX3>, tsunami yang terjadi di Samudra Hindia menyebabkan sekitar 283,000 orang meninggal. 
+
+Lebih dari 9,000 wisatawan dari seluruh dunia menjadi korban. 
+
+Banyak turis dari negara-negara seperti Amerika, Inggris, Australia, Prancis, dan Jerman berada di sana untuk merayakan liburan Natal di pantai-pantai Asia Selatan seperti Indonesia, Malaysia, dan Sri Lanka.7. 
+
+Gelombang tsunami yang terjadi di laut yang dalam biasanya rendahFakta menarik tsunami yang terakhir adalah kekuatan gelombang tsunami di lautan yang dalam. 
+
+Di wilayah laut yang sangat dalam gelombang tsunami tingginya hanya <TIMEX3 tid="t22" type="DATE" value="2018-03-01">sekitar 1-3</TIMEX3> kaki. 
+
+Bahkan terkadang pelaut tidak tahu bahwa gelombang tersebut terjadi di bawah kapal mereka. 
+
+(Nadia Mardatilla/ohmygodfacts. 
+
+com) 
+</TEXT>
+
+</TimeML>

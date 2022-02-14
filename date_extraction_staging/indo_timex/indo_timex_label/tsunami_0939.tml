@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0939</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Klarifikasi BNPB Usai Beredar Kabar Tsunami Lanjutan di Banten</TITLE>
+
+<TEXT>
+Kabar tsunami lanjutan di sekitar wilayah perairan Selat Sunda kembali beredar. 
+
+Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho mengatakan, tidak ada peringatan tsunami lanjutan dari Badan Meteorologi, Klimatologi dan Geofisika (BMKG). 
+
+" Tidak ada warning (tsunami lanjutan) dari BMKG " " Adanya sirine tsunami di Teluk Labuhan, Kecamatan Labuhan, Kabupaten Pandenglang yang tiba-tiba bunyi sendiri bukan dari aktivasi BMKG atau BNPB. 
+
+Kemungkinan ada kerusakan teknis sehingga bunyi sendiri, " papar Sutopo saat dikonfirmasi, <TIMEX3 tid="t1" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>. 
+
+" Banyak warga mengungsi mendengar sirine " " Shelter tsunami juga penuh oleh pengungsi, " kata dia. 
+
+. 
+
+Sementara korban luka-luka menjadi 584 orang. 
+
+Kemudian 20 orang belum ditemukan. 
+
+" Data dampak tsunami sampai dengan <TIMEX3 tid="t2" type="TIME" value="2018-12-23T10:00">23 Desember 2018 pukul 10.00 WIB</TIMEX3>, data sementara jumlah korban meninggal 62 orang meninggal dunia, korban luka 584, hilang 20 orang, " kata Sutopo dalam keterangan persnya. 
+
+Kemudian 430 unit rumah dan 9 unit hotel rusak berat, 10 kapal rusak berat. 
+
+Sutopo memperkirakan data ini akan terus bertambah mengingat ada wilayah-wilayah yang belum didata secara menyeluruh. 
+
+// Sementara itu, Kepala Pusat Gempa Bumi dan Tsunami Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Rahmat Triyono mengimbau kepada seluruh masyarakat untuk tak beraktivitas di sekitar kawasan Selat Sunda: di wilayah pesisir pantai maupun kawasan Gunung Krakatau. 
+
+" Kita tunggu update status anak (gunung) Krakatau apakah ada peningkatan (aktivitas vulkanik) " " Kalau ada peningkatan ya tentunya kita harus kita waspadai, " kata Rahmat dalam konferensi pers di gedung BMKG, Jakarta, <TIMEX3 tid="t3" type="DATE" value="2018-12-23">Minggu</TIMEX3>. 
+
+Rahmat mengingatkan, potensi gelombang tsunami lanjutan bisa saja terjadi. 
+
+. 
+
+Sehingga masyarakat harus mewaspadai dua hal tersebut. 
+
+" Yang pasti berbeda (tsunami) yang diakibatkan gempa bumi " " Kalau gempa bumi, tsunami susulan dalam sejarahnya tidak ada " " Tapi karena ini berbeda, letusan kan bisa saja awalnya (erupsi) kecil, kemudian (erupsi) besar " " Kita harus menunggu update dari teman Badan Geologi, " paparnya. 
+
+. 
+
+// Namun, dengan adanya gelombang tinggi, arus gelombang tsunami bisa bertambah lebih dari dua meter. 
+
+" Masyarakat sekitar pantai yang berlibur untuk tidak bermain sekitar pantai " " Apalagi di Selat Sunda " " Kalau memang itu adanya peningkatan aktivitas vulkanik lebih waspada lagi karena dampaknya ada gelombang tinggi ditambah tsunami, " tegas Rahmat. 
+</TEXT>
+
+</TimeML>

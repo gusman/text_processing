@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0429</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-12" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-12</TIMEX3></DCT>
+
+<TITLE>Hendi Siap Berangkat ke Palu, Salurkan Donasi Sebesar Rp 2,5 Miliar untuk Korban Gempa Tsunami</TITLE>
+
+<TEXT>
+Upaya evakuasi, pencarian, dan penyelamatan korban terdampak gempa dan tsunami di Sulawesi Tengah resmi dihentikan pada <TIMEX3 tid="t1" type="DATE" value="2018-10-11">tanggal 11 Oktober 2018</TIMEX3>. 
+
+Keputusan tersebut diambil melalui rapat koordinasi antar lembaga terkait dengan mempertimbangkan bahwa korban yang diperkirakan masih tertimbun reruntuhan bangunan atau lumpur sudah meninggal dunia dan jasadnya tak bisa dikenali. 
+
+Namun meskipun begitu pemerintah setempat tak serta merta menghentikan status tanggap darurat di Sulawesi Tengah. 
+
+Bahkan pemerintah setempat dikabarkan justru akan memperpanjang status tanggap darurat selama <TIMEX3 tid="t2" type="DURATION" value="P2W">dua minggu</TIMEX3>. 
+
+Dalam perpanjangan status tanggap bencana tersebut, pemerintah akan lebih fokus menginventarisasi jumlah korban luka dan material, serta menyediakan hunian sementara bagi korban yang rumahnya tidak bisa ditinggali. 
+
+Dan hingga waktu penghentian evakuasi tersebut sendiri tercatat tak kurang 2.065 korban jiwa berhasil ditemukan, sedangkan 671 orang masih dilaporkan hilang, dan 67.310 unit rumah mengalami kerusakan. 
+
+Dari bencana yang tersebut juga diperkirakan dibutuhkan dana 20-45 triliun untuk memulihkan daerah terdampak kembali seperti semula. 
+
+Hal itu kemudian mengundang Wali Kota Semarang, Hendrar Prihadi untuk mau ikut bergerak berpartisipasi dalam memulihkan daerah terdampak serta penanganan korban. 
+
+Tak tanggung-tanggung Wali Kota Semarang yang akrab disapa Hendi itu pun berencana untuk bertolak ke Palu dalam <TIMEX3 tid="t3" type="DATE" value="2018-10-19">minggu depan</TIMEX3>. 
+
+Tidak dengan tangan kosong, di sana dirinya akan menyerahkan bantuan sekitar 2,5 Milyar yang berasal dari donasi seluruh elemen masyarakat Kota Semarang dalam <TIMEX3 tid="t4" type="DURATION" value="P1W">satu minggu</TIMEX3> terakhir. 
+
+// Hal itu diungkapkan Hendi di sela-sela kegiatannya berdialog bersama warga di Kelurahan Kalicari, Kecamatan Pedurungan, Kota Semarang, <TIMEX3 tid="t5" type="DATE" value="2018-10-12">Jumat (12/10)</TIMEX3>. 
+
+Dalam kesempatan tersebut, Wali Kota Semarang yang juga politisi PDI Perjuangan tersebut juga mengaturkan rasa terima kasih kepada seluruh masyarakat Kota Semarang yang telah berpartisipasi dalam penggalangan dana untuk korban bencana di Palu, Donggala, dan Sigi. 
+
+<TIMEX3 tid="t6" type="DATE" value="UNKNOWN">Satu minggu ini</TIMEX3> kami buka kesempatan untuk sedulur-sedulur di lingkungan Pemerintah Kota Semarang untuk berdonasi dan terkumpul dana sebesar 1,4 miliar. 
+
+Dan <TIMEX3 tid="t7" type="DURATION" value="2018-10-01TNI">semalam</TIMEX3> juga saya buka kesempatan untuk masyarakat Kota Semarang yang lainnya dan Alhamdulillah ada tambahan dana sekitar 1,1 miliar. 
+
+Sehingga total donasi yang terkumpul adalah sekitar Rp 2,5 miliar, " jelas Hendi. 
+
+Setelah donasi telah terkumpul, Hendi menegaskan berencana untuk berangkat langsung ke Palu pada <TIMEX3 tid="t8" type="DATE" value="2018-10-10">hari Rabu</TIMEX3> minggu depan <TIMEX3 tid="t9" type="DATE" value="2017-10-16">(16/10)</TIMEX3> memberikan donasi tersebut secara langsung serta mengecek kondisi terkini. 
+
+Alhamdulillah dana ini bukan dari APBD dan bukan paksaan. 
+
+Insya Allah <TIMEX3 tid="t10" type="DATE" value="2018-10-10">Rabu</TIMEX3> kita akan terbang ke Palu. 
+
+Ini merupakan bukti konsep bergerak bersama yang dimiliki warga masyarakat Semarang mampu berjalan dengan baik, pungkasnya. 
+
+Dirinya sendiri juga melaporkan secara rinci hasil penggalangan dana untuk penanganan bencana di Sulawesi Tengah tersebut melalui akun sosial media yang dimilikinya. 
+
+Hal itu dilakukan agar masyarakat dapat mengetahui secara transparan proses yang dilakukan dalam penggalangan dana tersebut. 
+
+(*) 
+</TEXT>
+
+</TimeML>

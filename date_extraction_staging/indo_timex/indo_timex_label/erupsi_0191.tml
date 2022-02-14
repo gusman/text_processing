@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0191</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-14" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-14</TIMEX3></DCT>
+
+<TITLE>6000 Orang Dievakuasi, Berikut 20 Foto Dahsyatnya Letusan Gunung Taal di Filipina</TITLE>
+
+<TEXT>
+Masyarakat di Filipina diresahkan tsunami dasyat pascameletusnya Gunung Api Taal yang meletus hebat sejak <TIMEX3 tid="t1" type="DATE" value="2020-01-12">Minggu</TIMEX3> Januari <TIMEX3 tid="t2" type="DATE" value="2019">2019</TIMEX3>. 
+
+Gunung Api Taal adalah satu di antara gunung berapi aktoif di wilayah Filipina. 
+
+Gunung Taal yang berada di Pulau Luzon mengalami erupsi pada <TIMEX3 tid="t3" type="DATE" value="2020-01-12">12 Januari 2020</TIMEX3>. 
+
+Dilansir Bored Panda, erupsi tersebut dikabarkan sampai melontarkan debu dan asap sampai 9-14 km ke langit. 
+
+Sangat dimungkinkan jika letusan eksplosif tersebut bisa berlangsung dalam <TIMEX3 tid="t4" type="DURATION" value="PTXH">beberapa jam</TIMEX3> hingga <TIMEX3 tid="t5" type="DURATION" value="PXD">beberapa hari</TIMEX3>. 
+
+Institut Vulkanologi dan Seismologi Filipina memerintahkan evakuasi di kota Balete, San Nicolas dan Talisay di Batangas dan kota-kota lain di tepi Danau Taal. 
+
+Ketika orang-orang menyaksikan erupsi dengan kagum juga ketakutan, beberapa orang berhasil mengambil gambar gunung berapi yang meletus itu. 
+
+Foto-foto menunjukkan asap dan abu naik dari mulut Taal, terlontar tinggi di langit. 
+
+Karena hal ini, Otoritas Bandara Internasional Manila terpaksa menangguhkan semua penerbangan ke dan dari semua terminal Bandara Internasional Ninoy Aquino. 
+
+// Kantor PBB untuk Koordinasi Urusan Kemanusiaan mengeluarkan laporan situasi yang menyatakan bahwa perkiraan jumlah 459.300 orang berada di dalam Zona bahaya 14 km. 
+
+Dikutip Bored Panda, berikut adalah foto-foto yang menunjukkan dahsyatnya erupsi Gunung Taal di Filipina. 
+
+1 2 3 // 8 9 // 16 17 18 19. 
+
+com, Tiara Shelavie)Artikel ini telah tayang di Tribunnews. 
+
+com dengan judul 20 Foto yang Menunjukkan Dahsyatnya Erupsi Gunung Taal di Filipina 
+</TEXT>
+
+</TimeML>

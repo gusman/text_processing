@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1140</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-26" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-26</TIMEX3></DCT>
+
+<TITLE>Terparah Sejak Musim Penghujan, Sekda Turun Tangan</TITLE>
+
+<TEXT>
+Hujan deras disertai angin kencang mengguyur Palembang <TIMEX3 tid="t1" type="TIME" value="2018-12-26TAF">Kamis (26/12) sore</TIMEX3>. 
+
+Sejumlah pohon tumbang dibeberapa titik menyebabkan kemacetan parah. 
+
+Jl Basuki Rahmat, Jl Demang Lebar Daun, Jl Sukawinatan, Jl Perintis Kemerdekaan dan beberapa ruas jalan lain tak bisa dilalui kendaraan. 
+
+Hingga <TIMEX3 tid="t2" type="TIME" value="2019-12-25TNI">malam</TIMEX3>, hujan belum juga reda. 
+
+Sekda Kota Palembang, Ratu Dewa turun langsung bersama jajaran mengecek kondisi terkini. 
+
+Iapun memerintahkan jajaran untuk segera bekerja. 
+
+Kami mendapat laporan masyarakat dan langsung mengecek, kata Dewa. 
+
+Selanjutnya, ia meminta Dinas terkait melakukan antisipasi. 
+
+Mengingat cuaca masih belum bisa diprediksi. 
+
+Begitu juga banjir yang semakin parah menyebabkan kendaraan berhenti. 
+
+Air menggenangi hampir di semua ruas jalan utama seperti di Jl Kapten A Rivai (Kantor Gubernur) salah satunya. 
+
+Genangan air parah juga terjadi di depan Universitas IGM, hingga simpang Polda. 
+
+Petugas tak mampu berbuat banyak. 
+
+Terjadi penumpukan akibat pengendara berebut memilih jalur yang lebih rendah genangan. 
+
+Belum lagi sepeda motor yang mogok menambah ruwet lalin Palembang <TIMEX3 tid="t3" type="TIME" value="2019-12-26TNI">malam ini</TIMEX3>. 
+
+Banjir kali ini, disebut terparah sejak masuk <TIMEX3 tid="t4" type="DATE" value="2019-WI">musim penghujan</TIMEX3> di kota Palembang. 
+
+Beberapa titik langganan banjir di Jl Kol H Burlian juga terlihat masih sama. 
+
+Terlebih di depan pool Damri, warga ikut turun ke jalan membantu pengendara sepeda motor yang mogok. 
+
+(aja) 
+</TEXT>
+
+</TimeML>

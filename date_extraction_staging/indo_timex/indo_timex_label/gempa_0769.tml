@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0769</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-20" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-20</TIMEX3></DCT>
+
+<TITLE>Brimob Distribusi Bantuan Bagi Korban Gempa Melalui Jalur Laut ke Sejumlah Desa</TITLE>
+
+<TEXT>
+Satuan Brimob Polda Maluku Utara mulai mendistribusikan logistik bagi korban gempa di Gane, Kabupaten Halmehara Selatan (Halsel) Provinsi Maluku Utara, <TIMEX3 tid="t1" type="DATE" value="2019-07-20">Sabtu (20/7/2019)</TIMEX3>. 
+
+Salah satu anggota Brimob Bripda Rudi Sararudin saat dikonfirmasi mengatakan, distribusi logistik tersebut mulai dari pelabuhan Saketa, Kecamatan Gane Barat dengan menggunakan kapal KLM Babu Arahman. 
+
+Kami mendistribusikan bantuan melalui jalur laut terutama bagi desa-desa yang tidak dapat dijangkau menggunakan jalur darat, kata Rudi di pos utama pengungsian, <TIMEX3 tid="t2" type="DATE" value="2019-07-20">Sabtu (20/7/2019)</TIMEX3>. 
+
+Logistik yang akan didistribusikan katanya, ini akan ditempuh dengan jalur laut, sehingga masyarakat yang terkena dampak dari musibah gempa bumi mendapatkan bantuan yang ada dan meringankan beban masyarakat. 
+
+Bantuan tersebut diantaranya air mineral, beras, supermie, ikan kaleng, susu, popok bayi, tisu, kecap dan gula. 
+
+Alhamdulillah sejauh ini dari pihak Polda Malut sudah menyalurkan bantuan begitu banyak, tuturnya. 
+
+(As) 
+</TEXT>
+
+</TimeML>

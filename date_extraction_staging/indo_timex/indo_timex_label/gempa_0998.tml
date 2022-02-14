@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0998</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-12" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-12</TIMEX3></DCT>
+
+<TITLE>Rumah Sakit dan Puskesmas di Lombok Butuh Bantuan Obat dan Vaksin</TITLE>
+
+<TEXT>
+Rumah Sakit Umum Daerah (RSUD) dan Puskesmas Tanjung membutuhkan bantuan obat dan vaksin. 
+
+Akibat gempa yang mengguncang Lombok Utara <TIMEX3 tid="t1" type="DATE" value="2018-08-05">seminggu lalu</TIMEX3>, bangunan Puskesmas Tanjung rubuh seketika dan tak bisa digunakan. 
+
+" Obat-obatan dan vaksin ada dalam reruntuhan' " Vaksinasi MR jadi terhambat, " kata Ahmad, koordinator farmasi puskesmas tersebut. 
+
+. 
+
+Dari 84 sekolah yang masuk program vaksinasi, baru 10 sekolah yang terselesaikan. 
+
+Ahmad berharap vaksin MR dapat dikirimkan sebab sejauh ini vaksinasi MR di Lombok dapat berjalan lancar di tengah isu haram halal vaksin. 
+
+Sementara itu, RSUD Tanjung membutuhkan bantuan karena masih harus menangani ratusan pasien di tengah bangunan yang rubuh. 
+
+Teguh dari bagian farmasi rumah sakit itu mengatakan, obat pencahar, diare, serta vitamin neurotropik kosong. 
+
+. 
+
+// Beberapa obat harus disimpan dengan perlakuan suhu khusus. 
+
+" Hydrocortisone misalnya harus disimpan pada suhu 18-25 derajat celsius " " Di tenda suhunya sudah mencapai 30 derajat celsius, " terangnya. 
+
+.00 WIBDalam kunjungan ke RSUD Tanjung pada <TIMEX3 tid="t2" type="DATE" value="2018-08-12">Minggu (12/8/2018)</TIMEX3>, Sekretaris Jenderal Kementerian Kesehatan Untung Suseno Sutarjo menyanggupi pemenuhan obat. 
+
+" Kita akan penuhi kekurangan obat " " Ini sebenarnya juga sudah dikirimkan tapi mungkin masih dalam perjalanan " " Ini pengirimannya kan lewat laut, " kata Untung. 
+</TEXT>
+
+</TimeML>

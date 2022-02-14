@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0052</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-28</TIMEX3></DCT>
+
+<TITLE>Longsor, Arus Lalin Bangli-Singaraja Macet Berjam-jam</TITLE>
+
+<TEXT>
+Arus lalu lintas dari arah Kintamani menuju Singaraja, <TIMEX3 tid="t1" type="DATE" value="2019-01-28">Senin (28/1)</TIMEX3> macet total <TIMEX3 tid="t2" type="DURATION" value="PTXH">berjam-jam</TIMEX3>. 
+
+Kondisi itu terjadi lantaran jalan di jurusan Kintamani-Singaraja tepatnya di Desa Bantang, tertimbun material tanah longsor. 
+
+Selain memicu tanah longsor, hujan deras yang mengguyur wilayah Kintamani sejak <TIMEX3 tid="t3" type="TIME" value="2019-01-27TMO">pagi hari kemarin</TIMEX3> juga menyebabkan senderan Pura Luhur Tirta Mas Manik Muncar di Desa Belandingan ambrol dan menimpa bangunan saka pat dan menutup jalan di desa setempat. 
+
+Informasi yang dihimpun menyebutkan, longsor yang menimbun jalan jurusan Kintamani-Singaraja terjadi <TIMEX3 tid="t4" type="TIME" value="2019-01-27T10:00">sekitar pukul 10.00</TIMEX3> wita. 
+
+Longsor dipicu akibat hujan deras. 
+
+Lahan yang mengalami longsor yakni lahan hutan yang ada di pinggiran jalan. 
+
+Tingginya material longsor yang menimbun jalan hingga 6 meter, menyebabkan jalur tersebut tak bisa dilalui kendaraan sama sekali. 
+
+Kasubag Humas Polres Bangli AKP Sulhadi mengatakan menindaklanjuti adanya kejadian longsor tersebut, Unit Lantas dan Patroli Polsek Kintamani langsung turun ke lokasi untuk melakukan pengaturan arus lalu lintas sambil menunggu alat berat turun ke lokasi. 
+
+Tertutpnya badan jalan oleh material longsor mengakibatkan macet tak terhindarkan. 
+
+Jalur Kintamani-Singaraja mengalami macet total hingga beberapa kilometer. 
+
+Setelah ditangani dengan satu unit alat berat, <TIMEX3 tid="t5" type="TIME" value="2019-01-27T14:00">sekitar pukul 14.00</TIMEX3> wita <TIMEX3 tid="t6" type="DATE" value="2019-01-27">kemarin</TIMEX3> jalur Kintamani-Singaraja sudah kembali lancar. 
+
+Kendaraan roda dua maupun roda empat sudah bisa melintas, terangnya. 
+
+Dikatakan Sulhadi, selain di jalur Kintamani-Singaraja, hujan deras yang mengguyur wilayah Kintamani <TIMEX3 tid="t7" type="DATE" value="2019-01-27">kemarin</TIMEX3> juga menyebabkan terjadinya banjir di wilayah Desa Songan tepatnya di depan Balai Banjar Songan A. 
+
+Banjir yang menggenagi wilayah itu hingga setinggi setengah meter merupakan banjir kiriman dari wilayah Kayupadi dan Munduklantang. 
+
+Banjir langganan yang terjadi <TIMEX3 tid="t8" type="SET" value="UNKNOWN">hampir setiap tahun</TIMEX3> itu dipicu lantaran tidak adanya drainase. 
+
+Untuk mengananganinya, Sulhadi mengatakan aparat desa dan Bhabinkamtibmas serta masyarakat Desa Songan mengerahkan alat berat untuk membersihkan lumpur dan pasir yang mengenangi jalan. 
+
+. 
+
+Perbekel Desa Belandingan Komang Suastika saat dihubungi <TIMEX3 tid="t9" type="DATE" value="2019-01-27">kemarin</TIMEX3> mengatakan peristiwa ambrolnya senderan pura yang baru selesai dibangun warga secara swadaya <TIMEX3 tid="t10" type="DATE" value="UNKNOWN">tiga bulan lalu itu</TIMEX3> terjadi <TIMEX3 tid="t11" type="TIME" value="2019-01-27T11:00">sekitar pukul 11.00</TIMEX3> wita. 
+
+Ambrolnya senderan dipicu lantaran tak kuat menahan guyuran hujan deras. 
+
+Hujannya deras sekali dari <TIMEX3 tid="t12" type="TIME" value="2019-01-27T07:00">jam 7 pagi</TIMEX3>, ungkapnya. 
+
+Ambrolnya senderan Pura menyebabkan sebuah bangunan saka pat yang ada di bawahnya hancur tertimpa material. 
+
+Tak hanya itu, material juga menimpa sebuah alat mesin pengaduk semen (molen) yang ada di dekatnya. 
+
+Ambrolnya senderan juga menutup badan jalan. 
+
+Tapi sudah ditangani warga secara manual. 
+
+<TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> sudah bisa dilalui kendaraan, ungkapnya <TIMEX3 tid="t14" type="TIME" value="2019-01-27TAF">siang kemarin</TIMEX3>. 
+
+Estimasi kerugian akibat kejadian itu ditaksir mencapai lebih dari Rp 700 juta. 
+
+(dayu rina/balipost) 
+</TEXT>
+
+</TimeML>

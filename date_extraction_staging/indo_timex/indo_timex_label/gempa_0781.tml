@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0781</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-16</TIMEX3></DCT>
+
+<TITLE>Korban Gempa Bali dan Maluku Utara Dapat Bantuan Rp 15 Juta</TITLE>
+
+<TEXT>
+Menteri Sosial Agus Gumiwang Kartasasmita mengatakan, seluruh korban gempa di Maluku Utara dan Bali mendapatkan bantuan Rp 15 juta per orang. 
+
+Seperti dilansir dari Kompas. 
+
+com, bantuan itu juga diberikan untuk keluarga dari korban meninggal. 
+
+Kemensos, kata Agus, juga memiliki program perbaikan rumah yang rusak akibat gempa bumi. 
+
+Bagi rumah rusak ringan, akan dimasukkan ke dalam program Rutilahu (Rumah Tidak Layak Huni). 
+
+Terkait logistik bagi para korban juga sudah disalurkan. 
+
+Bantuan logistik kita sudah hari pertama bencana di Maluku Utara sudah disalurkan berupa makanan, tenda-tenda. 
+
+Tim relawan kami sudah ada di lokasi membantu para korban bencana, ujarnya. 
+
+Agus mengatakan, pihaknya masih melakukan assessment terkait gempa Bali yang baru <TIMEX3 tid="t1" type="TIME" value="2019-07-16">Selasa pagi</TIMEX3> terjadi. 
+
+Jadi dimana pun bencana yang terjadi di Indonesia, ada SOP nya penyaluran bantuan. 
+
+Sudah dibuat tenda pengungsian dan dapur-dapur umumnya. 
+
+Termasuk dengan pakaian ibu-ibu dan anak-anak. 
+
+Kita juga ada program trauma healing untuk mengurangi trauma-trauma para korban bencana alam dan timnya sedang bekerja, ujarnya. 
+
+Kita berdoa agar korban meninggalnya sedikit. 
+
+Tapi berapa pun korban meninggalnya, kita akan pasti bantu dengan santunan dan setiap korbannya disantuni Rp 15 juta, kata Agus saat menyalurkan bantuan program TNI Manunggal Membangun Desa (TMMD) di Kelurahan Sudiang, Makassar, <TIMEX3 tid="t2" type="DATE" value="2019-07-16">Selasa (16/7/2019)</TIMEX3>. 
+
+
+</TEXT>
+
+</TimeML>

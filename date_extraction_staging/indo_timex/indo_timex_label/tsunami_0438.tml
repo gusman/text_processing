@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0438</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-24</TIMEX3></DCT>
+
+<TITLE>Update Tsunami Banten dan Lampung, 281 Meninggal, 1.016 Luka-Luka, dan 57 Hilang</TITLE>
+
+<TEXT>
+Penanganan darurat terus dilakukan di daerah yang terdampak tsunami di Selat Sunda. 
+
+Prioritas penanganan darurat <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> adalah koordinasi, evakuasi, pencarian dan penyelamatan korban, pelayanan kesehatan, penanganan pengungsi, perbaikan darurat sarana prasarana yang rusak. 
+
+Data sementara yang berhasil dihimpun Posko BNPB hingga <TIMEX3 tid="t2" type="DATE" value="2018-12-24">Senin (24/12/2018)</TIMEX3>, <TIMEX3 tid="t3" type="TIME" value="2018-12-23T07:00">pukul 07.00 WIB</TIMEX3>, tercatat 281 orang meninggal dunia, 1.016 orang luka-luka, 57 orang hilang dan 11.687 orang mengungsi. 
+
+Kerusakan fisik meliputi 611 unit rumah rusak, 69 unit hotel-vila rusak, 60 warung-toko rusak, dan 420 perahu-kapal rusak. 
+
+" Korban dan kerusakan ini terdapat di 5 kabupaten terdampak yaitu Pandeglang, Serang, Lampung Selatan, Tanggamus dan Pesawaran, " kata Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho, <TIMEX3 tid="t4" type="DATE" value="2018-12-24">Senin (24/12/2018)</TIMEX3>. 
+
+" Jadi, wilayah di Provinsi Banten dan Lampung yang berada di Selat Sunda, " tambahnya. 
+
+Sutopo mengatakan, daerah pesisir di Kabupaten Pandeglang adalah daerah yang paling banyak jumlah korban dan kerusakannya dibandingkan daerah lain. 
+
+Di Kabupaten Pandeglang tercatat korban 207 orang meninggal dunia, 755 orang luka-luka, 7 orang hilang, dan 11.453 orang mengungsi. 
+
+Kerusakan fisik meliputi 611 unit rumah rusak, 69 hotel dan vila rusak, 60 warung makan dan toko rusak, 350 perahu/kapal rusak, dan 71 unit kendaraan rusak.Daerah pesisir di sepanjang pantai dari Pantai Carita, Pantai Panimbang, Pantai Teluk Lada, Sumur, dan Tanjung Lesung banyak mengalami kerusakan.Sebanyak 10 kecamatan di Pandeglang terdampak dari terjangan tsunami. 
+
+Korban paling banyak ditemukan di Hotel Mutiara Carita Cottage, Hotel Tanjung Lesung dan Kampung Sambolo. 
+
+// Di Kabupaten Serang tercatat 12 orang meninggal dunia, 30 orang luka-luka dan 28 orang hilang. 
+
+Kerusakan fisik masih dalam pendataan. 
+
+Sedangkan di Kabupaten Lampung Selatan tercatat 60 orang meninggal dunia, 230 orang luka-luka, 22 orang hilang dan 30 unit rumah rusak berat. 
+
+Di Kabupaten Tanggamus terdapat 1 orang meninggal dunia, 4 rumah rusak berat, dan 70 perahu rusak. 
+
+Sedangkan di Kabupaten Pesawaran tercatat 1 orang meninggal dunia, 1 orang luka-luka, 231 orang mengungsi, 134 rumah rusak dan 14 perahu rusak. 
+
+" Kemungkinan data korban dan kerusakan masih akan bertambah mengingat belum semua berhasil didata. 
+
+Pendataan masih terus dilakukan oleh petugas, " ucap Sutopo. 
+
+Sutopo menambahkan, ribuan personel gabungan dari TNI, Polri, BNPB, Basarnas, Kementerian PU Pera, Kementerian Sosial, Kementerian Kesehatan, Kementerian ESDM, BPBD, SKPD, NGO, relawan dan masyarakat dan lainnya terus melakukan penanganan darurat. 
+
+Kepala Daerah memimpin penanganan darurat di daerahnya. 
+
+Evakuasi, pencarian dan penyelamatan korban terus dilakukan. 
+
+Diduga masih ada korban yang berada di bawah reruntuhan bangunan dan material yang dihanyutkan tsunami. 
+
+Pos kesehatan, dapur umum, dan pengungsian didirikan di beberapa tempat. 
+
+Bantuan logistik terus disalurkan. 
+
+Untuk evakuasi dikerahkan alat berat 7 unit excavator, 12 unit dump truck, 2 unit loader. 
+
+Dalam mobilisasi ke lokasi bencana 1 unit excavator, 1 dozer, 1 loader, 1 grader, 2 tronton, dan 4 dump truck. 
+
+" Panjang dan luasnya daerah terdampak masih diperlukan tambahan alat berat dan personil untuk membantu evakuasi, pencarian dan penyelamatan korban, " kata Sutopo. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0705</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-04-03" temporalFunction="false" functionInDocument="CREATION_TIME">2016-04-03</TIMEX3></DCT>
+
+<TITLE>Rumah Sering Terendam Banjir, Ini Permintaan Warga Metro Barat</TITLE>
+
+<TEXT>
+Warga Kota Metro yang tinggal di sepanjang aliran anak Sungai Batanghari (Kali Batu) berharap agar pemerintah dapat melakukan normalisasi terhadap aliran sungai tersebut. 
+
+Menurut warga, akibat seringnya turun hujan, membuat air anak Sungai Batanghari meluap. 
+
+Peristiwa terakhir terjadi pada <TIMEX3 tid="t1" type="TIME" value="2016-04-01TNI">Jumat (1/4) malam</TIMEX3>. 
+
+Hujan deras yang mengguyur membuat sejumlah rumah warga terendam air luapan sungai tersebut. 
+
+" Kami berharap adanya kebijakan dengan menyelesaikan masalah banjir yang <TIMEX3 tid="t2" type="SET" value="P1Y">setiap tahun</TIMEX3> selalu terjadi. 
+
+Nah, salah satunya adalah normalisasi sungai tersebut, " terang Budi, salah satu warga Metro Barat, <TIMEX3 tid="t3" type="DATE" value="2016-04-02">Sabtu (2/4) lalu</TIMEX3>. 
+
+Budi mengatakan, meluapnya air anak Sungai Batanghari dalam <TIMEX3 tid="t4" type="DURATION" value="P1Y">setahun</TIMEX3> bisa dua hingga empat kali jika curah hujan tinggi. 
+
+" Memang sudah sering. 
+
+Ya kami minta ada solusi, " harapnya. 
+
+Pantauan Tribun Lampung <TIMEX3 tid="t5" type="TIME" value="2016-04-02TMO">Sabtu pagi</TIMEX3>, sejumlah rumah sempat terendam banjir saat air anak Sungai Batanghari meluap. 
+
+Banjir juga menggenangi Pondok Pesantren Roudlotul Quran dan Rumah Sakit Muhammadiyah Metro. 
+
+Selain itu, sejumlah kolam ikan milik warga turut terendam. 
+
+" Ponpes Rodlotul Quran Metro, perumahan belakang RS Muhammadiyah Metro dan rumah sakitnya ikut terendam bagian belakang, " terang Subehi, Camat Metro Barat.Dari data Kecamatan Metro Barat, banjir menimpa empat kelurahan di wilayah setempat. 
+
+Adapun banjir paling parah menyasar Ganjarasri. 
+
+Tepatnya di Jalan Sulawesi belakang RS Mardi Wayulo. " Di Jalan Sriwijaya itu hingga satu meter. 
+
+Tak hanya mengenangi rumah, sawah warga yang berdekatan dengan bantaran kali juga ada yang ikut terendam air, " tandasnya. 
+
+Pada <TIMEX3 tid="t6" type="TIME" value="2016-04-02TAF">Sabtu sore</TIMEX3>, hasil pantauan air sudah mulai surut, dan warga telah beraktivitas seperti biasa.Terkait permintaan warga dilakukan normalisasi sungai, Subehi mengatakan, pihaknya sudah menerima keluhan itu sejak <TIMEX3 tid="t7" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+Hal ini juga sudah disampaikan pada musyawarah rencana pembangunan tingkat kecamatan. 
+
+" Permintaan warga ini sudah kita usulkan ke dinas terkait. 
+
+Harapannya, pada <TIMEX3 tid="t8" type="DATE" value="2017">2017</TIMEX3> usulan tersebut dapat direalisasikan, " ucapnya.(dra) 
+</TEXT>
+
+</TimeML>

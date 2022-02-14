@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0437</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-02" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-02</TIMEX3></DCT>
+
+<TITLE>Begini Proses Identifikasi 3 Atlet Paralayang Korban Gempa Palu</TITLE>
+
+<TEXT>
+Tiga atlet paralayang yang sudah ditemukan meninggal dunia akibat gempa Palu, Sulawesi Tengah, berhasil diidentifikasi dengan cara yang berbeda-beda. 
+
+Ketiga atlet paralayang yang sudah ditemukan di bawah reruntuhan Hotel Roa-Roa yaitu Gleen Mononutu, Petra Mandagi, dan Ardi Kurniawan. 
+
+Tim Badan SAR Nasional (Basarnas) sudah mengonfirmasi bahwa dua korban Gempa Palu, Gleen Mononutu dan Petra Mandagi, ditemukan pada <TIMEX3 tid="t1" type="DATE" value="2018-10-01">Senin (1/10/2018)</TIMEX3>. 
+
+Sementara itu, Ardi Kurniawan ditemukan <TIMEX3 tid="t2" type="DATE" value="2018-10-03">keesokan harinya</TIMEX3> yaitu pada <TIMEX3 tid="t3" type="DATE" value="2018-10-02">Selasa (2/10/2018)</TIMEX3>. 
+
+Ketiga korban tersebut berhasil diidentifikasi dengan cara yang berbeda. 
+
+Petra Mandagi berhasil diidentifikasi melalui cincin bertuliskan nama Stevy yang melekat di salah satu jarinya. 
+
+Tim Basarnas bisa mengetahui jenazah tersebut adalah salah satu atlet paralayang Sulawesi Utara karena ada pemberitahuan bahwa Stevy adalah nama istri dari Petra. 
+
+Berbeda dengan Petra, Gleen Mononutu bisa diidentifikasi setelah keluarga melihat langsung jenazah atlet paralayang itu. 
+
+Perwakilan keluarga yang hadir bisa memastikan bahwa jenazah tersebut adalah Gleen melalui tanda lahir di kakinya. 
+
+. 
+
+Jenazah Ardi Kurniawan lebih cepat diidentifikasi lewat pakaian yang dikenakannya.Ardi ditemukan dalam keadaan tak bernyawa dengan mengenakan celana bertuliskan " KONI Jawa Timur ", institusi yang menaungi Ardi selaku atlet paralayan Jawa Timur.Hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, masih ada tiga atlet paralayang Indonesia dan satu atlet paralayang Korea Selatan yang belum ditemukan setelah gempa Palu.Gempa 7,4 SR yang mengguncang Donggala dan Palu pada <TIMEX3 tid="t5" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3> juga mengakibatkan tsunami. 
+
+(*) 
+</TEXT>
+
+</TimeML>

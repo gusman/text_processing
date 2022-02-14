@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0890</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-14" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-14</TIMEX3></DCT>
+
+<TITLE>Gajah Jinak di TNTN Riau Stres Sering Dengar Suara Kobaran Api, Terpaksa Diungsikan</TITLE>
+
+<TEXT>
+Meluasnya kebakaran hutan dan lahan (Karhutla) di Taman Nasional Tesso Nilo (TNTN) Kabupaten Pelalawan ternyata membuat gajah jinak di Camp Flying Squad WWF Program Riau stres. 
+
+Akibatnya, delapan gajah binaan disana terpaksa diungsikan ke tempat yang jauh dari sumber api. 
+
+Menurut Ketua Tim Flying Squad, Erwin Daulay, sejak <TIMEX3 tid="t1" type="DATE" value="2019-08-01">tanggal 1 Agustus 2019 lalu</TIMEX3>, gajah-gajah tersebut sudah diungsikan sekitar 500 meter dari camp karena Karhutla sudah semakin dekat. 
+
+Rutinitas patroli yang biasanya dilakukan selama dua kali dalam <TIMEX3 tid="t2" type="DURATION" value="P1W">seminggu</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2019-08-13">hari selasa</TIMEX3> dan <TIMEX3 tid="t4" type="DATE" value="2019-08-10">Sabtu</TIMEX3> pun ditiadakan. 
+
+Dikatakan Erwin, sejak sering mendengarkan suara kobaran api, gajah-gajah jinak itu mulai stres, ditandai dengan cara makannya yang tidak nyaman. 
+
+Begitu juga dengan gajah-gajah liar yang biasanya sering melintasi kawasan itu, <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">kini</TIMEX3> sudah tidak terlihat lagi. 
+
+" Gajah jinak kita ada delapan, dua jantan dewasa, tiga betina dewasa dan tiga anak gajah, kita ungsikan ketempat yang cukup air dan banyak tersedia makanan, " ujar Erwin kepada Tribunpekanbaru. 
+
+com di TNTN tepatnya di Desa Lubuk Kembang Bunga, Kec Ukui, Kab Pelalawan, <TIMEX3 tid="t6" type="DATE" value="2019-08-13">Selasa</TIMEX3> (13/8/2019)Dijelaskannya, gajah-gajah itu ditempatkan di hutan yang rimbun agar tidak terkena dampak asap Karhutla. 
+
+" Karena mereka ada didalam hutan jadi (asap.red) tidak berbahaya untuk gajah kita, " tambah Erwin. 
+
+// Masih menurut Erwin, Karhutla dikawasan itu lebih parah daripada <TIMEX3 tid="t7" type="DATE" value="2015">tahun 2015 lalu</TIMEX3> dan diduga ada unsur kesengajaan. 
+
+" Disini banyak lahan pertanian, bisa jadi awalnya buka lahan lalu apinya membesar hingga tidak terkendali, " tambahnya. 
+
+Sementara itu, Paur Humas Polres Pelalawan Ipda Leo Putra Dirgantara mengatakan bahwa sekitar 20 lebih personil dari Polres yang dipimpin oleh Wakapolres Pelalawan Kompol Rezi Dharmawan telah berada di kawasan itu untuk memadamkan Karhutla sejak <TIMEX3 tid="t8" type="DATE" value="2019-08-09">hari Jumat (9/8/2019)</TIMEX3>, begitu juga tim gabungan lainnya dari Polsek Ukui, Koramil Pangkalan Kuras, Brigade Dalkarhut TNTN, MPA dan pihak Kecamatan Ukui. 
+
+Menurutnya, ada sekitar 40 hektare hutan dan lahan yang terbakar di Desa Lubuk Kembang Bunga dan 40 hektare lagi di Desa Bukit Kusuma. 
+
+" Alhamdulillah <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sudah padam, lahan disini kan rata-rata mineral, jadi mudah padam, kecuali yang gambut memang agak susah dan sumber air pun kita sangat mencukupi, jadi teratasi lah, " katanya. 
+
+Dari pengamatan Tribun, kebakaran terjadi sekitar 200 meter dari pintu masuk Camp Flying Squad WWF dan guest house Balai TNTN. 
+
+Hutan yang hangus dapat dilihat sepanjang 2 km pada kiri kanan jalan akses menuju tempat itu, dan juga jalan akses menuju menara pantau. 
+
+Terlihat dua mobil tangki air dari Brigade Dalkarhut TNTN, Satpol PP dan Damkar Kab Pelalawan yang bekerja hingga <TIMEX3 tid="t10" type="TIME" value="2019-08-13TAF">sore hari</TIMEX3>, serta satu unit mobil bak yang dilengkapi dengan IBC tank kapasitas <TIMEX3 tid="t11" type="DATE" value="1000">1000</TIMEX3> liter yang disiagakan WWF untuk memutus rembetan api yang mendekati camp. 
+
+Sedangkan gajah-gajah binaan yang biasanya ada di camp itu <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">kini</TIMEX3> sudah tidak ada lagi karena memang sengaja dijauhkan dari camp yang dekat dengan lokasi kebakaran. 
+
+(Tribun Pekanbaru. 
+
+com/Theo Rizky), 
+</TEXT>
+
+</TimeML>

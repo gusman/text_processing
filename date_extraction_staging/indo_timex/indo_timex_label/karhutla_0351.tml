@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0351</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-12" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-12</TIMEX3></DCT>
+
+<TITLE>BMKG: Titik Panas Kebakaran Hutan Kalimantan Barat Capai 1.124</TITLE>
+
+<TEXT>
+Kabut asap akibat kebakaran hutan dan lahan (karhutla) berdampak luas. 
+
+Badan Meteorologi Klimatologi dan Geofisika (BMKG) Supadio Pontianak, Kalimantan Barat mencatat, <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terdapat sekitar 1.124 hotspot atau titik panas yang tersebar di 14 kabupaten/kota di Kalbar. 
+
+Kepala Stasiun Meteorologi Supadio Pontianak, Erika Mardiyanti di Sungai Raya, menyatakan, data tersebut diperoleh berdasarkan pengolahan data Lembaga Penerbangan dan Antariksa Nasional (LAPAN) pada 11 hingga <TIMEX3 tid="t2" type="DATE" value="2019-08-12">12 Agustus 2019</TIMEX3>. 
+
+Berdasarkan data LAPAN, titik panas di provinsi Kalimantan Barat paling banyak terdapat di kabupaten Sanggau dengan 308 titik panas; diikuti Kapuas Hulu dengan 171 titik panas dan Ketapang 144 titik. 
+
+(. 
+
+Adapun di Bengkayang terdapat 62 titik, Sambas 26 titik, Melawi 29 titik panas; Sekadau 19 titik, Kayong Utara 15 titik panas; Kota Pontianak enam titik panas, serta Singkawang satu titik panas. 
+
+Wali Kota Pontianak, Edi Rusdi Kamtono menyatakan, kabut asap akibat kebakaran hutan yang menjangkau wilayah tersebut menggangu kegiatan masyarakat. 
+
+Pihaknya berencana memundurkan jam belajar tanpa meliburkan aktivitas sekolah. 
+
+" Kami akan memantau terus perkembangan kondisi udara, sebab kondisi asap masih belum stabil antara <TIMEX3 tid="t3" type="TIME" value="2019-08-12TMO">pagi</TIMEX3>, <TIMEX3 tid="t4" type="TIME" value="2019-08-11TAF">siang</TIMEX3>, dan <TIMEX3 tid="t5" type="TIME" value="2019-08-11TNI">malam</TIMEX3>, " katanya. 
+
+Pihaknya juga akan mengurangi jam belajar siswa di sekolah bila kondisi udara masih diselimuti asap. 
+
+Namun jika kualitas udara sudah masuk kategori sangat tidak sehat, maka aktivitas belajar mengajar siswa di sekolah akan diliburkan. 
+
+" Harapan kita mudah-mudahan tidak berdampak pada aktivitas pendidikan karena sangat merugikan kita semua, " ujarnya. 
+
+Menurut dia sebagian besar kabut asap yang menyelimuti udara di Kota Pontianak berasal dari daerah sekitar atau dari luar wilayah Kota Pontianak. 
+
+Meski demikian, Badan Penanggulangan Bencana Daerah (BPBD) Kota Pontianak menyebutkan kebakaran lahan di Kota Pontianak hanya terjadi di beberapa titik dan tidak besar. " Kebakaran lahan yang terjadi itu pun sudah dilakukan pemadaman. 
+
+Sebagian besar asap ini kiriman dari daerah lain. 
+
+Kami harapkan, kita tidak ada kebakaran lahan lagi, " katanya.Isu kebakaran hutan dan lahan mendapat sorotan Presiden Joko Widodo (Jokowi). 
+
+Mantan Walikota Solo ini bahkan mengancam bakal mencopot pejabat tinggi Tentara Nasional Indonesia (TNI) dan Kepolisian Republik Indonesia (Polri) yang gagal mencegah kebakaran hutan dan lahan.Dia mengatakan telah menghubungi Panglima TNI Marsekal Hadi Tjahjanto dan Kepala Polri Jenderal Pol Tito Karnavian untuk memberi sanksi pencopotan jabatan jika kebakaran hutan masih terus terjadi.(. 
+
+" Aturan main kita tetap masih sama. 
+
+Saya ingatkan kepada Pangdam, Danrem, Kapolda, Kapolres, aturan yang saya sampaikan <TIMEX3 tid="t6" type="DATE" value="2015">2015</TIMEX3> masih berlaku, " kata Jokowi.Presiden juga memerintahkanKementerian dan Lembaga (K/L) serta TNI-Polri bekerja sama dengan pemerintah daerah hingga aparat di wilayah rawan kebakaran hutan dan lahan. 
+
+Dia menekankan pencegahan munculnya titik api penting untuk menekan kerugian negara.Dia menyebut, kebakaran hutan dan lahan yang terjadi pada <TIMEX3 tid="t7" type="DATE" value="2015">2015</TIMEX3> pada lahan seluas 2,6 juta hektare telah merugikan perekonomian gingga Rp 221 triliun. 
+
+Oleh sebab itu Jokowi memerintahkan setiap kemunculan titik panas harus bisa segera diantisipasi. 
+
+Reporter: Antara 
+</TEXT>
+
+</TimeML>

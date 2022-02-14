@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0354</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-12-14" temporalFunction="false" functionInDocument="CREATION_TIME">2014-12-14</TIMEX3></DCT>
+
+<TITLE>Ibu Hamil 9 Bulan  Ini Berhasil Selamat dari Timbunan Longsor</TITLE>
+
+<TEXT>
+Sebuah rumah terlihat berdiri kokoh di antara ratusan rumah yang tertimbun tanah di Dusun Jemblung, Desa Sampang, Kecamatan Karangkobar, Kabupaten Banjarnegara, Jawa Tengah. 
+
+Rumah itu adalah milik Fatimah (30) yang <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> dirawat di Puskesmas Karangkobar. 
+
+" Dia selamat dari longsor, ketika dia ambil sayur di kebun. 
+
+Pas ditemukan, dia terendam lumpur hingga satu meter, " ujar Sulistiowati, bidan Puskemas Karangkobar, <TIMEX3 tid="t2" type="TIME" value="2014-12-14TMO">Minggu (14/12/2014) pagi</TIMEX3>. 
+
+" Dia <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sedang hamil <TIMEX3 tid="t4" type="DURATION" value="P9M">9 bulan</TIMEX3>. 
+
+Ibu ini satu-satunya keluarga yang berhasil selamat. 
+
+Kondisinya masih sangat lemah, tapi janin sudah diperiksa dalam kondisi sehat, " ujarnya, <TIMEX3 tid="t5" type="TIME" value="2014-12-14TMO">Minggu (14/12/2014) pagi</TIMEX3>. 
+
+Sulistiawati mengatakan, meskipun secara fisik sehat, kondisi psikologis Fatimah lemah. 
+
+Sejumlah warga menjenguk dan menghibur dia. 
+
+Rumah Fatimah berdiri kokoh di dusun tersebut. 
+
+Rumah itu berada di bagian atas di lereng bukit, di mana rumah lain tersapu oleh material longsor hingga seluruh rumah di kampung tersebut rata dengan tanah. 
+
+Dia sendiri tak menyangka bencana longsor menimpa kampungnya. 
+
+Dia tak mempunyai satu firasat pun akan tragedi besar di kampungnya. 
+
+" Sebelum longsor, memang ada longsor kecil, tapi tak ada korban jiwa, " timpal Sulis, nenek yang mendampingi Fatimah, <TIMEX3 tid="t6" type="TIME" value="2014-12-13TMO">pagi tadi</TIMEX3>. 
+
+Bencana longsor sendiri terjadi pada <TIMEX3 tid="t7" type="TIME" value="2014-12-12TNI">Jumat malam</TIMEX3>. 
+
+Sebagian besar warga <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">kini</TIMEX3> mengungsi di desa Karangkobar. 
+
+" Kami syukur bisa terselamatkan, " ujar Sulis.(KOMPAS.com)Sumber: KOMPAS.com 
+</TEXT>
+
+</TimeML>

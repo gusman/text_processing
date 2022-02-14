@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1209</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-01</TIMEX3></DCT>
+
+<TITLE>6 Rumah Terseret Arus Ciberang, Majelis Taklim Warga Selamat</TITLE>
+
+<TEXT>
+Sedikitnya 6 rumah di Kampung Nunggul, Desa Sukasari, Kecamatan Cipanas, Kabupaten Lebak, Provinsi Banten, terseret arus sungai Ciberang yang meluap pada <TIMEX3 tid="t1" type="DATE" value="2020-01-01">Rabu (1/1/2020)</TIMEX3>. 
+
+Menyusul, hujan yang terjadi sejak <TIMEX3 tid="t2" type="DATE" value="2019-12-31">Selasa (31/12/2019)</TIMEX3>. 
+
+" (enam, red), " ujar Apek warga setempat saat dikonfirmasi. 
+
+" Rumah Bapak Diding malahan habis, tersisa batu pondasinya saja, " terang Apek. 
+
+Ia menuturkan, selain 6 rumah yang hanyut terbawa derasnya banjir, rumah-rumah dan pesantren pun terdampak karena amukan sungai Ciberang. 
+
+" Saya masih di Kalapa Nunggal (kampung tetangga, red), nggak ada tempat disana, semuanya lumpur pacsa banjir tadi, " katanya. 
+
+Sejauh ini, kata Apek, perhatian pihak pemerintah Kabupaten Lebak terhadap warga terdampak terbilang cukup. 
+
+" Tadi sih, ada kunjungan dari Bupati. 
+
+Mudah-mudahan <TIMEX3 tid="t3" type="DATE" value="2020-01-02">besok</TIMEX3> ada realisasi (bantuannya, Red), " ungkapnya.Dalam video yang beredar, lokasi rumah yang hanyut sebenarnya berada di pinggiran sungai kecil (aliran air untuk pertanian). 
+
+Namun jalur kecil itu, berubah menjadi lautan air berwarna tanah yang mengalir amat deras, karena arus sungai Ciberang masuk dari arah belakang pemukiman.Sementara bangunan yang persis berada di pinggiran sungai Ciberang, yakni Majelis Taklim warga, tetap berdiri kokoh. 
+
+Demikian juga dengan pondok-pondok pesantren yang ada di kampung kecil itu. " Pondok pesantren kayaknya nggak ada yang hanyut, belum tahu kondisi terakhir gimana, tapi air di Pondok tadi memang deras sekali, " kata Apek.Sebelumnya diberitakan, Banjir terjadi di 4 Kecamatan wilayah Kabupaten Lebak, Provinsi Banten pada <TIMEX3 tid="t4" type="DATE" value="2020-01-01">Rabu (1/1/2020)</TIMEX3>. 
+
+Tak kurang dari 12 Desa terdampak dalam musibah yang disebabkan oleh meluapnya sungai Ciberang itu.Belum diketahui ada-tidaknya korban jiwa dalam insiden ini, dan berapa jumlah kerugian material pasca banjir. 
+
+Namun jembatan penghubung antar kecamatan Cipanas dengan Kecamatan Muncang putus, dan satu tiang listrik tumbang.*** 
+</TEXT>
+
+</TimeML>

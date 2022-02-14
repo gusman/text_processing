@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0046</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-24</TIMEX3></DCT>
+
+<TITLE>Pengendara Motor Tewas Tertimpa Pohon Pule</TITLE>
+
+<TEXT>
+Hujan yang disertai angin kencang, <TIMEX3 tid="t1" type="TIME" value="2018-01-24TAF">kamis (24/1) sore</TIMEX3> memakan korban. 
+
+Satu pengendara sepeda motor tewas tertimpa pohon pule di Jalan Tukad Pakerisan, Panjer. 
+
+Pohon pule yang berada di tengah setra (kuburan) Panjer tersebut tumbang ke jalan. 
+
+<TIMEX3 tid="t2" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, salah seorang pengendara yang melintas dari arah utara tertimpa. 
+
+Akibatnya, korban tewas di tempat. 
+
+Babinsa Panjer Made Wedra yang ditemui di lokasi mengatakan, korban yang datang dari arah utara tertimpa pohon yang roboh. 
+
+Korban mengalami pecah kepala, sehingga tewas di tempat. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Kini</TIMEX3> korban sudah dibawa ke RS, ujarnya. 
+
+Menurut Wendra, identitas pengendara sepeda motor diketahui bernama Taufiqi Hudaya. 
+
+Pada SIM A korban, diketahui korban berasal dari Pasuruan yang tinggal di Jalan WR Supratman. 
+
+Ini data korbannya, ujar Wendra. 
+
+Selain di Panjer, salah seorang pengendara motor di Jalan Raya Puputan dekat simpang tiga Jalan Tukad Balian juga tertimpa pohon. 
+
+Namun, identitas korban belum diketahui, karena sudah dibawa ke RS. 
+
+Di sini tadi ada yang tertimpa pohon tumbang, korban sudah dibawa ke RS, ujar petugas BPBD yang sedang memotong batang pohon yang tumbang. 
+
+. 
+
+Mobil ini sedang berhenti karena lampu merah, tiba-tiba pohon tumbang, ujar salah saksi di lokasi. 
+
+Dari pantauan di sejumlah lokasi, banyak pohon tumbang. 
+
+Seperti di sebelah barat Kantor Gubernur Bali, pohon tumbang menimpa tembok penyengkernya. 
+
+Demikian pula pohon perindang di depan Gedung DPRD Bali, juga tumbang. 
+
+Beruntung, pohon tersebut tumbang mengarah ke jalan, sehingga tidak menimbulkan kerusakan. 
+
+Selain itu, pohon di depan Art Centre juga tumbang. 
+
+Pohon tumbang menimpa satu mobil juga terjadi di Kantor Balai Wilayah Sungai (BWS) Bali Penida. 
+
+Mobil yang sedang parkir tersebut ringsek bagian depannya, karena tertimpa pohon yang tumbang. 
+
+(Asmara Putera/balipost) 
+</TEXT>
+
+</TimeML>

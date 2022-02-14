@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0008</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-26" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-26</TIMEX3></DCT>
+
+<TITLE>Dampak Erupsi Gunung Dukono, Wings Air Batalkan Sejumlah Penerbangan</TITLE>
+
+<TEXT>
+Wings Air member of Lion Air Group menyampaikan informasi terkini berdasarkan pengumuman resmi dari otoritas bandar udara (notam) nomor C2511/19 bahwa operasional Bandar Udara Leo Wattimena (OTI) di Kabupaten Morotai, Maluku Utara ditutup mulai <TIMEX3 tid="t1" type="TIME" value="2019-03-26T11:00">26 Maret 2019 pukul 11.00 WIT</TIMEX3> hingga <TIMEX3 tid="t2" type="DATE" value="2019-03-27">27 Maret 2019</TIMEX3> pada <TIMEX3 tid="t3" type="TIME" value="2019-03-25T11:00">11.00 WIT</TIMEX3>. 
+
+Penutupan bandar udara adalah dampak dari erupsi dan aktivitas Gunung Dukono (Dukono Volcanic Ash), di Desa Mamuya, Kecamatan Galela, Halmahera Utara bagian Utara, Maluku Utara. 
+
+Sebagai informasi, material abu vulkanik (volcanic ash) dapat merusak pesawat, sehingga membahayakan penerbangan. 
+
+Corporate Communications Strategic of Wings Air, Danang Mandala Prihantoro menyampaikan, sehubungan kondisi tersebut, dalam memastikan keselamatan dan keamanan (safety first), layanan penerbangan Wings Air mengalami pembatalan (cancel flight) terdiri dari nomor IW-1172 Ternate ke Morotai dan IW-1171 Morotai ke Ternate. 
+
+Kondisi terganggunya operasional dari akibat gunung meletus termasuk force majeure yaitu keadaan yang terjadi di luar kemampuan sumber daya manusia dan perusahaan. 
+
+Danang menyampaikan, Wings Air selalu memprioritaskan safety sehingga dampak yang kemungkinan timbul dari kondisi tersebut dapat diminimalisir dan diantisipasi sedini mungkin (lebih awal). 
+
+Untuk itu, Wings Air telah memberikan informasi kepada seluruh pelanggan yang terganggu perjalanannya dan memperbarui sesuai perkembangan. 
+
+Terkait pembatalan penerbangan <TIMEX3 tid="t4" type="DATE" value="2019-03-26">hari ini</TIMEX3>, Wings Air memberikan solusi kepada seluruh pelanggan yang terkena dampak, antara lain penjadwalan ulang keberangkatan di hari berikutnya (reschedule) dan melakukan pengembalian dana sesuai aturan yang berlalu. 
+
+Lebih lanjut disampaikan bahwa Wings Air bekerja sama dan berkoordinasi dengan otoritas penerbangan, pengelola bandar udara dan pengatur lalu lintas udara setempat. 
+
+Operasional Wings Air akan menyesuaikan keputusan otoritas bandar udara dan airport dinyatakan aman (safe for flight). 
+
+(ra) 
+</TEXT>
+
+</TimeML>

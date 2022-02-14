@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0655</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-07-30" temporalFunction="false" functionInDocument="CREATION_TIME">2018-07-30</TIMEX3></DCT>
+
+<TITLE>POLRES TARAKAN BERIKAN BANTUAN KEPADA KORBAN LONGSOR</TITLE>
+
+<TEXT>
+Dalam curah hujan yang sangat tinggi melanda Kota Tarakan, menimbulkan kejadian bencana alam, yakni tanah longsor yang terjadi di dua Kelurahan, yakni Kelurahan Karang Anyar dan Karang Balik. 
+
+Sebagai wujud kepedulian terhadap para korban tanah longsor, Polres Tarakan bersama Bhayangkari Cabang Tarakan memberikan bantuan kepada korban tanah longsor yang ada di RT 5 Karang Balik dan RT 23 Kelurahan Karang Anyar, <TIMEX3 tid="t1" type="DATE" value="2018-07-30">Senin (30/7)</TIMEX3>. 
+
+Kapolres Tarakan, AKBP Yudhistira Midhyawan melalui Kapolsek Tarakan Barat, Iptu Said Munir mengatakan, pemberian bantuan kepada dua korban tanah longsor ini merupakan bentuk kepedulian Polres Tarakan dan Bhayangkari Cabang Tarakan. 
+
+Ini merupakan musibah yang tidak bisa kita hindari, sebagai bentuk dukungan dan kepedulian kita, maka dari itu kami memberikan bantuan sebisa mungkin untuk meringankan beban saudara kita, ujarnya. 
+
+Pemberian bantuan yang diberikan kepada korban longsor ini berupa sembako terdiri dari beras, mie instan, telur dan beberapa jenis sembako yang dibutuhkan korban tanah longsor. 
+
+Selain sembako, kita juga memberikan uang tunai yang diharapkan membantu dalam memperbaiki kondisi rumah yang rusak terkena tanah longsor, tuturnya. 
+
+Terpisah Ketua Bhayangkari Cabang Tarakan, Eva Yudhistira mengatakan, pemberian bantuan sembako kepada korban tanah longsor kali ini merupakan bentuk kepedulian Bhayangkari Cabang Tarakan kepada korban yang mendapatkan musibah. 
+
+Kita berharap bantuan yang diberikan kali ini bermanfaat bagi para korban, ujarnya. 
+
+Dirinya menjelaskan, bahwa Bhayangkari Cabang Tarakan tidak hanya sekali ini saja memberikan kepada para korban yang mendapatkan musibah, sebelumnya Bhayangkari Cabang Tarakan bersama Polres Tarakan juga turun langsung memberikan bantuan kepada korban kebakaran di Karang Anyar Pantai <TIMEX3 tid="t2" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+Tidak hanya memberikan bantuan kepada korban yang terkena musibah saja, kami juga melakukan kegiatan sosial lainnya seperti menyantuni anak yatim piatu, memberikan bantuan kepada keluarga purnawiran Polri dan kegiatan sosial lainnya, tutupnya. 
+
+(arz27) 
+</TEXT>
+
+</TimeML>

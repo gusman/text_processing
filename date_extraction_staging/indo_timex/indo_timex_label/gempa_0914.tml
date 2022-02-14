@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0914</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-19" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-19</TIMEX3></DCT>
+
+<TITLE>Jabar derita kerugian Rp16,18 Miliar akibat gempa</TITLE>
+
+<TEXT>
+Kerugian akibat bencana gempa bumi yang berpusat di Lebak, Banten pada <TIMEX3 tid="t1" type="DATE" value="2018-01-23">23 Januari lalu</TIMEX3> di Kabupaten Sukabumi, Jawa Barat (Jabar) mencapai Rp16,18 miliar. 
+
+" Jumlah kerugian tersebut masih dalam tahap verifikasi karena masih ada beberapa kecamatan yang belum melaporkan jumlah kerugiannya, " kata Kepala Seksi Kedaruratan Badan Penanggulangan Bencana Darah (BPBD) Kabupaten Sukabumi Eka Widiaman di Sukabumi, <TIMEX3 tid="t2" type="DATE" value="2018-02-17">Sabtu</TIMEX3> (<TIMEX3 tid="t3" type="DATE" value="2016-02-17">17/2/2016)</TIMEX3>. 
+
+Dari 29 kecamatan yang terdampak bencana gempa tersebut baru 16 kecamatan yang melaporkan jumlah kerugiannya. 
+
+Adapun kecamatan yang paling parah terkena dampak gempa berkekuatan 6,1 Skala Richter tersebut yakni Kecamatan Kabandungan dengan nilai kerugian mencapai Rp6,4 miliar. 
+
+Kemudian, Ciracap nilai kerugiannya Rp2,6 miliar, Sagaranten mencapai Rp2,1 miliar, Kalibunder Rp1,5 miliar, Kalapanunggal Rp579 juta, Bojonggenteng Rp312 juta, Cisolok Rp268 juta dan Purabaya Rp347 juta sisanya kerugian akibat bencana itu rata di puluhan hingga ratusan juta rupiah. 
+
+Adapun data sementara rumah yang rusak yakni rusak berat sebanyak 151 unit, rusak sedang 546 unit dan rusak ringan 3.362 unit. 
+
+Sementara untuk sarana dan fasilitas umum lainnya sebanyak 39 unit rusak berat, 56 unit rusak sedang dan 102 unit rusak ringan. 
+
+" Masih ada 13 kecamatan lainnya yang belum menyerahkan nilai kerugian dan tidak menutup kemungkinan kecamatan yang terdampak akan bertambah, " tambahnya. 
+
+Sedangkan gempa bumi yang terjadi pada <TIMEX3 tid="t4" type="DATE" value="2018-02-16">Jumat</TIMEX3>, <TIMEX3 tid="t5" type="DATE" value="2018-02-16">(16/2)</TIMEX3> yang pusatnya masih di Lebak, Banten dengan kekuatan 5,1 SR hingga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada laporan kerusakan. 
+
+Pihaknya mengimbau warga agar selalu waspada. 
+
+Karena Kabupaten Sukabumi merupakan salah satu daerah lumbung bencana. 
+</TEXT>
+
+</TimeML>

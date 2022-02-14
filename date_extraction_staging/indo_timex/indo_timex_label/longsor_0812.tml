@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0812</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-21" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-21</TIMEX3></DCT>
+
+<TITLE>Hujan Intensitas Tinggi Sebabkan Longsor di Warungkiara Sukabumi</TITLE>
+
+<TEXT>
+Bencana tanah longsor kembali menerjang Sukabumi, Jawa Barat. 
+
+Kali ini tanah longsor terjadi di Kampung Cisarua, Desa Girijaya, Kecamatan Warungkiara, <TIMEX3 tid="t1" type="DATE" value="2019-01-21">Senin (21/1</TIMEX3> 2019) <TIMEX3 tid="t2" type="TIME" value="2019-01-20TAF">sore</TIMEX3>. 
+
+Data sementara Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Sukabumi menyebutkan empat unit rumah rusak dan jembatan penghubung antarkampung ambruk. 
+
+Keempat rumah yang rusak ini milik Aang (40), Nurjanan (30) Boyat (27) di Kampung Cisarua RT <TIMEX3 tid="t3" type="DATE" value="2018-06-02">02/06</TIMEX3> dan Arwaji (45) di RT <TIMEX3 tid="t4" type="DATE" value="2018-05-01">01/05</TIMEX3>. 
+
+" <TIMEX3 tid="t5" type="DATE" value="2019-01-21">Hari ini</TIMEX3> hujan kembali mengguyur dengan intensitas cukup tinggi Dan memicu terjadinya tanah longsor, " kata Kepala Seksi Kedaruratan BPBD Kabupaten Sukabumi, Eka Widiaman dalam keterangan tertulis diterima <TIMEX3 tid="t6" type="TIME" value="2019-01-14TNI">Senin malam</TIMEX3>. 
+
+. 
+
+Hanya saja para penghuni rumah untuk sementara diungsikan ke keluarga atau kerabatnya di desa setempat. 
+
+" <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> sedang ditangani bersama relawan BPBD dan unsur Muspika serta aparat desa setempat, " tutur dia. 
+
+Selain bencana tanah longsor, dia menambahkan juga dilaporkan terjadi banjir hingga merendam sejumlah rumah dan menjebol kolam ikan milik warga di Kampung Pasirrarangan, Desa Pangkalan, Kecamatan Cikidang. 
+
+. 
+
+" Dilaporkan dalam peristiwa tersebut tidak menimbulkan korban jiwa. 
+
+Hanya kerugian material saja, " pungkas Eka. 
+</TEXT>
+
+</TimeML>

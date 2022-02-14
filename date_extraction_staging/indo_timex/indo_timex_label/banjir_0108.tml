@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0108</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-03-30" temporalFunction="false" functionInDocument="CREATION_TIME">2016-03-30</TIMEX3></DCT>
+
+<TITLE>Aliran Listrik Tak Kunjung Terpasang, Pasien Cuci Darah RSUD Ulin Menjerit</TITLE>
+
+<TEXT>
+Pelayanan cuci darah di RSUD Ulin terganggu dan tertunda dari jadwal yang sudah ditentukan. 
+
+Ya, hujan deras dengan durasi panjang yang mengguyur Banjarmasin membuat banyak lokasi kebanjiran. 
+
+Ruang Hemodialisa (cuci darah) pun kebanjiran bahkan dalamnya mencapai lutut orang dewasa. 
+
+Raut muka sedih dan lelah juga terlukis diwajah Kepala Instalasi Hemodialisa RSUD Ulin Agustina Rahmah. 
+
+Hujan deras yang mengguyur sejak <TIMEX3 tid="t1" type="TIME" value="2016-03-30TMO">subuh itu</TIMEX3> dia akui membuat pelayanan terganggu. 
+
+Dia mengatakan di ruang hemodialisa itu ada 20 mesin, pasca banjir dan ruangan cukup kering tidak langsung bisa maksimal semua mesin dioperasionalkan. 
+
+" Solusinya segera pindah ke ruang baru di Lantai 3. 
+
+Ruang sudah ada tapi apa daya kalau listriknya belum ada. 
+
+Berharap secepatnya, " katanya. 
+
+Mesin cuci darah bahaya jika dipaksakan beroperasi dalam kondisi lantai basah. 
+
+Dalam situasi ini pihak PLN memang terkesan lambat bahkan ingkar janji. 
+
+Hal ini terungkap dari keterangan Direktur RSUD Ulin Banjarmasin Dr. 
+
+Hj. 
+
+Suciati, M. 
+
+Kes kepada BPost Online. " Pelayanan jadi terganggu karena banjir, sempat tertunda. 
+
+Solusinya ya pindah, semoga <TIMEX3 tid="t2" type="DATE" value="2015-04">April</TIMEX3> harus sudah bisa pindah ke ruang baru, " katanya.Tapi masalahnya listrik dari PLN tak kunjung masuk. " Kami masih tunggu masuknya daya tambahan dari PLN padahal kami sudah bayar lunas sejak <TIMEX3 tid="t3" type="DATE" value="2015-12">Desember 2015</TIMEX3>, janji PLN <TIMEX3 tid="t4" type="DURATION" value="P100D">100 hari</TIMEX3> kerja, ini mana sampai <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> belum juga. 
+
+Jadi bagaimana kami mau pindah ruangan.belum ada realisasi dari PLN, " tegas Suciati sedih menyikapi ruang hemodialisa kebanjiran. 
+</TEXT>
+
+</TimeML>

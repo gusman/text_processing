@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0116</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-09-28" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-28</TIMEX3></DCT>
+
+<TITLE>Masih Ada 285 Titik Panas</TITLE>
+
+<TEXT>
+Badan Metereologi, Klimatologi dan Geofisika Stasiun Pekanbaru menyatakan, terdapat 285 titik panas terdeteksi di Pulau Sumatera yang menyebar di tiga provinsi, yakni Sumatera Selatan, Lampung dan Bangka Belitung. 
+
+" Sebagian besar titik panas terkosentrasi di Provinsi Sumatera Selatan, yakni 239 titik, " kata Kepala BMKG Pekanbaru, Sugarin di Pekanbaru, <TIMEX3 tid="t1" type="DATE" value="2015-09-28">Senin (28/9/2015)</TIMEX3>, seperti dikutip Antara. 
+
+Selanjutnya titik panas terdeteksi di Lampung dengan 17 titik serta Bangka Belitung 29 titik. 
+
+Sementara itu, berdasarkan pencitraan satelit Terra dan Aqua Provinsi Riau dipastikan nihil titik panas. 
+
+Namun, BMKG menyebutkan sejumlah daerah di Riau masih diselimuti kabut asap pekat dengan jarak pandang berkisar 100 meter hingga 500 meter. 
+
+(. 
+
+Selanjutnya Kota Rengat Kabupaten Indragiri Hulu dan Pelalawan masing-masing terpantau 200 meter. 
+
+Di Kota Dumai sendiri jarak pandang berkisar 500 meter. 
+
+Kabut asap dampak dari kebakaran hutan dan lahan yang menyelimuti Riau terus memburuk dalam <TIMEX3 tid="t2" type="DURATION" value="P3D">tiga hari</TIMEX3> terakhir. 
+
+Akibatnya, Dinas Pendidikan setempat mengambil kebijakan untuk meliburkan siswa siswi dari aktivitas belajar mengajar di Sekolah. 
+
+(. 
+
+Bandar Udara Internasional Sultan Syarif Kasim II Pekanbaru dinyatakan lumpuh sejak <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">Sabtu lalu (26/9)</TIMEX3>. 
+
+Pada <TIMEX3 tid="t4" type="DATE" value="2015-09-28">Senin ini</TIMEX3>, aktivitas Bandara diprediksikan kembali lumpuh setelah jarak pandang di kota " Bertuah " berkisar 100 meter. 
+
+Kepala Badan Penanggulangan Bencana Daerah Riau Edwar Sanger menyatakan bahwa pekatnya kabut asap di Riau merupakan asap kiriman dari provinsi tetangga seperti Sumatera Selatan dan Jambi. 
+
+(. 
+
+" Kita tetap siagakan personel di setiap daerah serta tiga helikopter guna tanggulangi lahan potensi kebakaran, " kata Edwar.Sementara itu, sejak awal tahun hingga <TIMEX3 tid="t5" type="DATE" value="2015-09">September 2015</TIMEX3>, Polda Riau telah menetapkan 58 tersangka pembakar lahan. 
+
+Selanjutnya, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terdapat 16 korporasi yang turut diselidiki terkait keterlibatan pembakaran lahan di Riau. 
+</TEXT>
+
+</TimeML>

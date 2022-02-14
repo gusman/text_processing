@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0251</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-29</TIMEX3></DCT>
+
+<TITLE>Gerak Cepat, Pemkot Bersihkan Pinus Tumbang di Pasir Putih</TITLE>
+
+<TEXT>
+Pemerintah Kota (Pemkot) Bengkulu kembali melakukan gerak cepat atas musibah pinus tumbang di kawasan Pasir Putih Pantai Panjang. 
+
+Setelah dilaporkan tumbang, Pemkot langsung menurunkan tim Dinas Lingkungan Hidup (DLH) Kota Bengkulu untuk melakukan pembersihan. 
+
+Wakil Walikota Bengkulu Dedy Wahyudi melalui akun Facebook resminya memposting, laporan dari Dinas Lingkungan Hidup Kota Bengkulu hampir merata terjadi pohon tumbang akibat angin kencang yang terjadi sejak <TIMEX3 tid="t1" type="TIME" value="2020-01-20TMO">Rabu (20/1/2020) pagi</TIMEX3>. 
+
+Sahabat dan keluargaku warga Kota Bengkulu Cuaca ekstrim <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> disarankan untuk menunda aktivitas luar. 
+
+Kalau pun harus keluar rumah hindari pohon besar, tulis Dedy. 
+
+Meski merata, namun Pemkot Bengkulu belum mendapatkan laporan adanya korban jiwa. 
+
+Alhamdulillah tidak ada korban jiwa, lanjut Dedy. 
+
+Dedy juga membenarkan adanya fasilitas umum yang rusak akibat badai ini. 
+
+
+</TEXT>
+
+</TimeML>

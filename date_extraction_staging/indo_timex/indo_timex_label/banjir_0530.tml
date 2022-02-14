@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0530</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-02-13" temporalFunction="false" functionInDocument="CREATION_TIME">2017-02-13</TIMEX3></DCT>
+
+<TITLE>Hujan Deras, Kota Ngabang Terendam Banjir</TITLE>
+
+<TEXT>
+Hujan deras lebih tiga jam sejak <TIMEX3 tid="t1" type="TIME" value="2017-02-12T16:00">pukul 16.00</TIMEX3> di seantero Ngabang, Kabupaten Landak, mengakibatkan puluhan rumah warga di Gang Pasansa, Desa Hilir Tengah, terendam banjir, <TIMEX3 tid="t2" type="TIME" value="2016-02-13TNI">Senin (13/2) malam</TIMEX3>. 
+
+Banjir yang datang mendadak itu mukai menyergap rumah penduduk sekira <TIMEX3 tid="t3" type="TIME" value="2017-02-12T19:30">pukul 19:30</TIMEX3>. 
+
+Warga terkejut melihat air langsung naik dan masuk ke dalam rumah. 
+
+Karena suasana di <TIMEX3 tid="t4" type="TIME" value="2017-02-12TNI">malam hari</TIMEX3>, warga hanya keluar rumah tidak bisa mengamankan barang sehingga terendam air, ujar Yusuf, warga yang rumahnya terendam banjir kepada Rakyat Kalbar. 
+
+Terlebih sungai kecil di kawasan tersebut tak mampu menampung dan meneruskan terjangan air bah hingga air meluap dengan cepat. 
+
+Kami hanya bisa pasrah saja dan mengunci pintu, sementara barang-barang perabot rumah tangga habis tergenang air, tambahnya. 
+
+Ia berharap, hujan cepat reda dan air cepat surut. 
+
+Kalau hujan reda, warga bisa memindahkan atau mengemas barang. 
+
+Terutama kasur dan tempat tidur bisa di pindahkan ke atas, harap Yusuf. 
+
+Kepala BPBD Kabupaten Landak, Banda Kolaga, saat di TKP mengatakan, timnya sudah membantu warga mengemas barang-barang yang terendam air. 
+
+Karena rata-rata rumah warga ada loteng, jadi mereka tidur di atas dan barang-barangnya di naikan ke atas, kata Banda. 
+
+Tidak ada korban jiwa, hanya kerugian material yang belum bisa ditaksir. 
+
+Sementara sampai tadi <TIMEX3 tid="t5" type="TIME" value="2017-02-12TNI">malam</TIMEX3> warga tidak mau dievakuasi, mereka memilih bertahan di rumah. 
+
+Sekira 80 rumah yang terendam banjir, yang mulai terlihat surut <TIMEX3 tid="t6" type="TIME" value="2017-02-12T21:00">pukul 21:00</TIMEX3>. 
+
+Mereka tidur di loteng, dan ketinggian air tergantung daerahnya. 
+
+Ketinggian air rata-rata antara setengah hingga satu meter. 
+
+Jadi dalam rumah tergenang semua, pungkas Banda Kolaga. 
+
+(ius) 
+</TEXT>
+
+</TimeML>

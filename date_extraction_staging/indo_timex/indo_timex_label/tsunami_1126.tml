@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1126</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-28" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-28</TIMEX3></DCT>
+
+<TITLE>Lima Orang Sekeluarga Hilang Terseret Tsunami di Palu</TITLE>
+
+<TEXT>
+Gempa gempa 7,4 SR (sebelumnya dinyatakan BMKG 6,4 SR), menyebabkan terjadinya gelombang tsunami di Kota Palu, Donggala dan Mamuju, Sulawesi Tenggara, <TIMEX3 tid="t1" type="TIME" value="2017-09-28TNI">Jumat (28/9) malam</TIMEX3>. 
+
+Dikutip dari liputan6. 
+
+com, data sementara Badan Nasional Penanggulangan Bencana (BNPB), sebanyak 5 orang hilang akibat terseret tsunami yang menerjang Kota Palu. 
+
+Kepala Pusat Data Dan Informasi BNPB Sutopo Purbo menyatakan, berdasarkan laporan mereka hilang di Pantai Talise. 
+
+''Satu keluarga berisi lima orang dilaporkan hilang karena tsunami di Pantai Talise. 
+
+Kami masih terus update informasi dari BPBD, '' kata Sutopo kepada wartawan, <TIMEX3 tid="t2" type="TIME" value="2018-09-21TNI">Jumat malam</TIMEX3>. 
+
+Tsunami menghantam Kota Palu usai Gempa Magnitudo 7,4 menerpa Donggala, Sulawesi Tengah. 
+
+Episenter gempa 26 Kilometer Utara Kabupaten Donggala. 
+
+*** 
+</TEXT>
+
+</TimeML>

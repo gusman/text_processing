@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0029</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-28" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-28</TIMEX3></DCT>
+
+<TITLE>BMKG: Ada 31 Gempa Susulan di Donggala Sulawesi Tengah, Warga Rasakan Guncangan Setiap 5 Menit</TITLE>
+
+<TEXT>
+Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mencatat sudah 31 gempa susulan terjadi di kawasan Donggala, Sulawesi Tengah, <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3> hingga <TIMEX3 tid="t2" type="TIME" value="2018-09-27T21:00">pukul 21.00 WIB</TIMEX3>. 
+
+Kepala Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Dwikorita Karnawati mengungkapkan, gempa susulan terjadi dengan kekuatan magnitudo terkecil 2,9 dan terbesar 6,3. 
+
+" Sampai <TIMEX3 tid="t3" type="TIME" value="2018-09-27T20:00">pukul 20.00 WIB</TIMEX3>, sudah 22 gempa susulan dan terus bertambah menjadi 31 gempa susulan pada <TIMEX3 tid="t4" type="TIME" value="2018-09-27T21:00">pukul 21.00 WIB</TIMEX3>, " ujar Dwikorita, saat konferensi pers melalui sambungan Skype dari Yogjakarta, <TIMEX3 tid="t5" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Diberitakan sebelumnya, gempa dengan kekuatan magnitudo 7,7 melanda wilayah Donggala, Sulawesi Tengah. 
+
+Gempa berkedalaman 10 kilometer, berpusat di 0,18 LS dan 119,85 BT atau 27 kilometer Timur Laut Donggala-Sulawesi Tengah. 
+
+Gempa tersebut diakibatkan aktivitas sesar geser Palu-Koro. 
+
+Akibat gempat tersebut, gelombang tsunami terjadi di Pantai Palu dengan ketinggian 0,5 sampai 1,5 meter, pantai Donggala kurang dari 50 sentimeter, dan Pantai Mamuju dengan ketinggian 6 sentimeter. 
+
+Tsunami diperkirakan sampai ke daratan pada <TIMEX3 tid="t6" type="TIME" value="2018-09-27T17:22">pukul 17.22 WIB</TIMEX3> atau <TIMEX3 tid="t7" type="TIME" value="2018-09-27T18:22">18.22 WITA</TIMEX3>. 
+
+Peringatan tsunami telah diakhiri pada <TIMEX3 tid="t8" type="TIME" value="2018-09-27T17:36:12">pukul 17.36.12 WIB</TIMEX3> atau <TIMEX3 tid="t9" type="TIME" value="2018-09-27T18:36:12">18.36.12 WITA</TIMEX3> dengan pertimbangan air naik semakin surut dan pengamatan saksi mata salah satunya staf BMKG di Kota Palu. " Peringatan tsunami telah kami keluarkan <TIMEX3 tid="t10" type="TIME" value="PT5M">sekitar lima menit</TIMEX3> setelah kejadian gempa. 
+
+Terpantau dari saksi mata di lapangan, ketinggian muka air laut mencapai 1,5 meter, " ujar Dwikorita. 
+
+// " Namun kemudian setelah kita pantau, tsunami datang, air naik semakin surut. 
+
+Dengan surutnya air yang teramati, maka peringatan dini tsunami kami akhiri, " sambung dia. 
+
+(Pasca Terjadi Gempa dan Tsunami, Pasha Ungu Kabarkan Dirinya Baik-baik Saja). 
+
+Rumah sebagian besar dari mereka roboh. 
+
+Sementara itu, mereka yang rumahnya masih berdiri takut kembali ke rumah karena gempa susulan terus terjadi. 
+
+" Sampai <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> (<TIMEX3 tid="t12" type="TIME" value="2018-09-27T21:45">pukul 21.45</TIMEX3> Wita), kami masih merasakan ada guncangan gempa setiap lima menit. 
+
+Rumah kami roboh, rumah tetangga juga. 
+
+Kami <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> hanya berkumpul di jalan, hanya di sini yang aman, " ungkapnya yang akhirnya bisa dikontak dari Gorontalo. 
+
+Menurut dia, gempa susulan masih terus terjadi. 
+
+Selain itu, jaringan listrik masih padam dan jaringan komunikasi terganggu. 
+
+Oleh karena itu, warga setempat tidak bisa berbuat banyak, terutama dalam mengevakuasi korban. 
+
+" Katanya ada di lokasi sebelah ada tertimpa bangunan, tapi kami mau mencarinya juga kesulitan karena gelap sekali di sini, " ungkap dia. 
+
+// Miftah mengatakan, sejumlah warga mengalami luka-luka akibat gempa dan tetap memilih untuk menunggu gempa reda di tepi jalan. 
+
+Dia dan keluarganya selamat karena segera ke luar rumah saat gempa terjadi. 
+
+Namun, dia dan keluarga belum kepikiran akan mengungsi ke mana. 
+
+Sementara itu, jaringan komunikasi dan jalur penerbangan di Palu masih lumpuh. 
+
+Akibatnya, warga Gorontalo kesulitan mengetahui kondisi keluarganya di Palu. 
+
+Kepala Bandara Djalaluddin Gorontalo Power AS mengatakan, Bandara Mutiara Sis AlJufri Palu, Sulawesi Tengah ditutup hingga <TIMEX3 tid="t14" type="TIME" value="2018-09-29T19:20">Sabtu (29/9/2018) pukul 19.20</TIMEX3> Wita. 
+
+" Notam penutupan Bandara Palu keluar <TIMEX3 tid="t15" type="TIME" value="2018-09-28TNI">malam ini</TIMEX3>, tapi seluruh penerbangan dari Gorontalo ke Palu <TIMEX3 tid="t16" type="DATE" value="2018-09-28">hari ini</TIMEX3> sudah selesai sebelum terjadi gempa, " ujarnya. 
+
+(*). 
+
+com dengan judul " Hingga <TIMEX3 tid="t17" type="TIME" value="2018-09-21T21:00">Jumat Pukul 21.00 WIB</TIMEX3>, Terjadi 31 Gempa Susulan di Kawasan Donggala " 
+</TEXT>
+
+</TimeML>

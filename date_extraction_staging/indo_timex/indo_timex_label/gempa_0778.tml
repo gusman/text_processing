@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0778</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-16</TIMEX3></DCT>
+
+<TITLE>BPBD Malut: Yang Paling Dibutuhkan Pengungsi Saat Ini Tikar dan Selimut</TITLE>
+
+<TEXT>
+Badan Penanggulangan Bencana Daerah (BPBD) Maluku Utara mencatat sampai dengan <TIMEX3 tid="t1" type="DATE" value="2019-07-16">Selasa (16/07/2019)</TIMEX3> hari ini masih ada sekitar 3.104 jiwa warga korban gempa bumi di Kabupaten Halmahera Selatan. 
+
+Pengungsi tersebut tersebar di 15 titik, sementara di Labuha sendiri untuk penanganan pengungsi di 9 lokasi pengungsian dengan jumlah 1.104 jiwa. 
+
+Sekretaris BPBD Malut, Ali Yau melalui pesan whatsapp mengatakan Pemkab Halsel sendiri telah menyalurkan bantuan untuk kebutuhan dasar bagi pengungsi, mulai dari makanan siap saji, air minum, terpal, tikar, selimut dan kidsware. 
+
+Hanya dari sekian itu, yang paling dibutuhkan pengungsi <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> adalah tikar dan selimut. 
+
+Bukan berarti yang lain seperti makanan siap saji dan sebagainya tidak butuh tapi yang tadi itu tikar dan selimut yang paling butuh karena pemda <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sementara kekurangan, kata Ali Yau. 
+
+Untuk pendistribusian logistik sudah dilakukan sejak <TIMEX3 tid="t4" type="DATE" value="2019-07-15">Senin kemarin</TIMEX3> di Kecamatan. 
+
+Ali menambahkan, pendistribusian logistik, tim dari Pemda Halmahera Selatan bersama -sama dengan BPBD, TNI, Polri, Basarnas, Tagana, RAPI, PMI, ACT (Aksi Cepat Tanggap) dan wartawan. 
+
+BPBD Maluku Utara dan TRC BNPB telah ke lokasi terdampak di Kecamatan Gane Barat dan Gane Timur untuk melakukan asessmen guna mendata tingkat kerusakan, jumlah pengungsi dan kebutuhan yang dibutuhkan oleh pengungsi untuk ditindaklanjuti, katanya. 
+
+(mn) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0049</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-25</TIMEX3></DCT>
+
+<TITLE>Siklon Riley, Bencana Pohon Tumbang Landa Bali</TITLE>
+
+<TEXT>
+Pada <TIMEX3 tid="t1" type="TIME" value="2019-01-24TAF">Kamis (24/1) sore</TIMEX3>, siklon tropis Riley menerjang Bali. 
+
+Akibatnya, hampir seluruh kabupaten/kota di Bali terjadi bencana pohon tumbang. 
+
+Untuk di wilayah Denpasar saja, peristiwa pohon tumbang terjadi di 21 titik dari <TIMEX3 tid="t2" type="TIME" value="UNKNOWN">15.40 20.00</TIMEX3> Wita. 
+
+Pohon tumbang di Jl. 
+
+Tukad Pakerisan bahkan menyebabkan 1 orang pengendara motor meninggal dunia. 
+
+Sementara itu, pohon tumbang lainnya ada di Jl. 
+
+Cok Agung Tresna menimpa 2 buah mobil areal parkir kantor Kementrian PU, Jl. 
+
+Raya Puputan depan Plaza Renon, Jl. 
+
+Gambuh menimpa 1 mobil, Jl. 
+
+Merpati menghalangi lalulintas, dan Jl. 
+
+Nusa Indah. 
+
+Pohon tumbang juga terjadi di Jl. 
+
+Kerta Pura, Setia Budi, Kusuma Atmaja, Jl. 
+
+Basuki Rachmat, Jl. 
+
+Sedap <TIMEX3 tid="t3" type="TIME" value="2019-01-24TNI">Malam</TIMEX3>, Jl. 
+
+Tukad Batanghari X, Jl. 
+
+Akasia, Jl. 
+
+Tukad Badung 21 B, Jl. 
+
+Tukad Balian, Jl. 
+
+Dewata Indah, dan Jl. 
+
+Antasura. 
+
+Terkait ekstremnya cuaca pada <TIMEX3 tid="t4" type="TIME" value="2019-01-24TAF">Kamis sore</TIMEX3> hingga <TIMEX3 tid="t5" type="TIME" value="2019-01-25TNI">malam itu</TIMEX3>, Prakirawan BMKG Wilayah III Denpasar, Eka Putra Wirawan, mengatakan, angin kencang yang puncaknya terjadi <TIMEX3 tid="t6" type="TIME" value="2019-01-24T17:00">sekitar pukul 17.00</TIMEX3> Wita disebabkan adanya Siklon tropis Riley. 
+
+Siklon ini mulai terbentuk pada <TIMEX3 tid="t7" type="TIME" value="2019-01-24T08:00">pukul 08.00</TIMEX3> Wita dengan Posisi Selatan Perairan Laut Timor, 16.9LS, 120.8BT (sekitar 810 km sebelah selatan Waingapu). 
+
+Tekanan terendah mencapai 992 mb dengan Kekuatan 40 knot (75 km/jam). 
+
+Kondisi gangguan tropis berupa siklon ini memberikan dampak terhadap wilayah Bali yaitu berupa hujan lebat, angin kencang dan gelombang tinggi. 
+
+Dari data pengamatan tercatat kecepatan angin mencapai 40 knot (72 km/jam), sedangkan ketinggian gelombang mencapai 5 meter diperairan selatan Bali dan 2.5 meter di perairan Utara Bali. 
+
+Pihaknya menghimbau kepada masyarakat agar tetap waspada dan siaga terhadap dampak yang disebabkan hujan dengan intensitas tinggi yang disertai angin kencang, seperti pohon tumbang, tinggi gelombang laut, longsor, dan banjir bandang. 
+
+Kami menghimbau masyarakat untuk tetap waspada potensi hujan lebat disertai angin kencang dan gelombang tinggi. 
+
+Hindari berteduh di bawah pohon atau tiang papan iklan. 
+
+Jika memungkinkan untuk memotong pohon yang terlalu tinggi dan hindari untuk beraktivitas di pantai dan laut, himbaunya. 
+
+(Winatha/balipost) 
+</TEXT>
+
+</TimeML>

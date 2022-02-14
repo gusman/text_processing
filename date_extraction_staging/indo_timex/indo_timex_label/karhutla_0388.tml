@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0388</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2013-04-28" temporalFunction="false" functionInDocument="CREATION_TIME">2013-04-28</TIMEX3></DCT>
+
+<TITLE>Ribuan Warga Padamkan Kebakaran Hutan di China</TITLE>
+
+<TEXT>
+Lebih dari 2.800 orang berupaya memadamkan kebakaran hutan di Provinsi Yunnan, China Barat Daya. 
+
+<TIMEX3 tid="t1" type="DATE" value="2013-04-27">Sabtu (27/4)</TIMEX3> waktu setempat, kebakaran telah memasuki <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">hari kelima</TIMEX3>. 
+
+Akibat kemarau dan angin kencang, si jago merah memberangus 200 hektare hutan di Kabupaten Lufeng di Prefektur Otonomi Chuxiong Yi sejak kali pertama api menyala pada <TIMEX3 tid="t3" type="DATE" value="2013-04-23">Selasa kemarin</TIMEX3>, kata pemerintah kabupaten itu seperti dikutip ANTARA. 
+
+Lebih dari 2.800 petugas pemadam dan empat helikopter dikerahkan. 
+
+Beruntung, kebakaran bisa dikendalikan. 
+
+Sejauh ini tak ada laporan soal korban jiwa, sementara kerugian ekonomi sedang diperhitungkan. 
+
+ANTARA 
+</TEXT>
+
+</TimeML>

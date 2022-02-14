@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1208</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-11-30" temporalFunction="false" functionInDocument="CREATION_TIME">2015-11-30</TIMEX3></DCT>
+
+<TITLE>Puting Beliung Datang, Keluarga Budiono Bersembunyi di Dapur</TITLE>
+
+<TEXT>
+Hujan deras disertai angin kencang memporak-porandakan sejumlah rumah di Desa Sawentar, Kecamatan Kanigoro, Kabupaten Blitar pada <TIMEX3 tid="t1" type="TIME" value="2015-11-29TEV">Minggu (29/11/2015) petang</TIMEX3>. 
+
+Sekitar 43 rumah di desa itu rusak parah, namun tak ada korban jiwa dalam peristiwa ini. 
+
+Salah satu warga, Budiono (45) menceritakan hujan pada <TIMEX3 tid="t2" type="TIME" value="2015-11-29TAF">Minggu sore</TIMEX3> cukup lebat, juga disertai angin kencang dan petir. 
+
+Tak berselang lama, listrik di rumah langsung padam sehingga menambah suasana kian mencekam. 
+
+" Saat kejadian itu, kami berada di dapur. 
+
+<TIMEX3 tid="t3" type="DATE" value="PAST_REF">Saat itu</TIMEX3> kami terus berdoa karena ketakutan mendengar suara gemuruh angin dengan disertai petir, " aku Budiono. 
+
+Semua orang di dekatnya dirundung ketakutan dan tak ada yang berani keluar rumah, meski mendengar pepohonan roboh dan menimpa rumah. 
+
+" Sebab, suara petirnya cukup keras, " tambahnya. 
+
+Begitu reda, Budiono keluar dan mengetahui jika rumahnya sudah rusak. 
+
+Atap rumahnya, terutama bagian depan, sudah melayang akibat disapu angin. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Kini</TIMEX3>, ia dan keluarga menempati bagian dapur akibat peristiwa itu. 
+
+Selain Budiono, rumah milik Solikin (39), Misinem (55), Kusnandar (50), Nur Hidayati (45), Didik (40), Saiful (39) yang juga berada di Dusun Centong, Desa Sawentar juga mengalami kerusakan parah. 
+
+Rumah Misinem adalah salah satunya. 
+
+Rumah yang berukuran 8 x 12 m itu rata dengan tanah akibat diterjang angin saat terjadi hujan deras. " Untungnya, mbah Misinem dan cucunya selamat, meski rumahnya ambruk. 
+
+Sebab, saat kejadian itu, mereka lari ke kandang kambing yang ada di depan rumahnya, " tutur Choirul Huda (28), tetangga Misinem.Menurut Huda, Misiniem <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">kini</TIMEX3> tinggal di rumah saudara. 
+
+Ini karena rumah Misinem sudah tak bisa ditinggali lagi.Kondisi kerusakan yang parah juga dialami Saiful. 
+
+Rumahnya yang baru dibangun dengan ukuran 8 x 14 m juga rusak parah karena tertimpa pohon Sengon. 
+
+Dua sepeda motornya, yakni Honda Beat dan Suzuki Smash juga tertimpa bangunan rumah dan pohon. 
+
+Namun demikian, Saiful dan keluarganya selamat. 
+
+// Dari data yang ada, sekitar 43 rumah rusak akibat peristiwa ini. 
+
+Dari jumlah itu sebanyak 14 rumah yang mengalami kerusakan paling parah dan tak bisa ditempati karena rata-rata bangunannya ambruk, serta gentingnya hancur. 
+
+Selain itu, peristiwa ini juga membuat listrik masih padam karena banyak kabel yang putus dan tiangnya roboh akibat tertimpa pohon. 
+
+Listrik belum juga menyala hingga <TIMEX3 tid="t6" type="TIME" value="2015-11-30TAF">Senin (30/11/2015) siang</TIMEX3>. 
+
+Enam kandang ayam juga hancur karena atapnya jebol saat peristiwa itu. 
+
+Rata-rata per kandang ayam mengalami kerugian Rp 100 juta karena ayamnnya juga banyak yang mati. 
+
+Selain tertimpa bangunan, juga kena hujan. 
+
+" Kalau sudah seperti ini, kerugian para peternak ayam cukup fatal. 
+
+Seperti saya ini, tak hanya rugi karena bangunan kandangnya yang ambruk, namun ayamnya juga. 
+
+Sebab, <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> ayam-ayam saya itu pasti stres sehingga tak bisa bertelor. 
+
+Kalau dimaterialkan, kerugian saya ya sekitar Rp 250 juta, karena di kandang itu ada 8.000 ekor ayam, " papar Mansuri (50), pemilik kandang ayam. 
+
+Sementara, Camat Kanigoro A'an Ernawanto menuturkan, mulai <TIMEX3 tid="t8" type="TIME" value="2015-11-30TAF">Senin siang ini</TIMEX3>, sejumlah rumah yang terkena puting beliung itu sudah mulai dibersihkan. 
+
+Itu dilakukan secara gotong royong antara warga, dengan dibantu TNI, polisi dan badan penanggulan bencana daerah (BPBD). 
+
+Untuk korban yang kehilangan rumahnya, mereka <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">kini</TIMEX3> diungsikan ke rumah keluarga terdekat, sambil menunggu perbaikan rumahnya. 
+
+Ini karena pemkab siap membantu perbaikan rumah yang terkena bencana tersebut. 
+
+" Tak ada korban jiwa, hanya kerugian material saja. 
+
+Namun demikian, kami menyiapkan dapur umum buat para korban, dan petugas yang membantu perbaikan rumah warga tersebut, " ungkapnya. 
+
+<TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> di desa itu sudah kembali berawan. 
+
+Oleh karena itu, warga dihimbau agar mencari tempat yang aman, jika kembali turun hujan lebat dengan disertai angin kencang dan petir. 
+
+" Warga memang masih was was karena <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sepertinya mau turun hujan lagi. 
+
+Namun, kami sudah menyarankan, agar berkumpul di balai desa atau kantor kecamatan, jika kembali turun hujan, " katanya. 
+</TEXT>
+
+</TimeML>

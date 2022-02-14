@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0502</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-12" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-12</TIMEX3></DCT>
+
+<TITLE>605 Titik Api di Kalbar, Udara Pontianak pun Sangat Buruk</TITLE>
+
+<TEXT>
+Kualitas udara kian buruk, cuaca makin panas, asap menebar di langit Kalbar. 
+
+Dalam <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">dua hari ini</TIMEX3> 11 kasus kebakaran hutan dan lahan (Karhutla) diproses. 
+
+Dan enam kasus terbaru diungkap Direktorat Reskrimsus, Polres Mempawah, Bengkayang, Sambas, Sintang dan Polresta Pontianak. 
+
+Ada peningkatan pengungkapan kasus Karhutla, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> 11 kasus sedang diproses, semua lahan yang terbakar pasti dilakukan olah TKP dan penyelidikan, tidak dapat disembunyikan, petugas pasti menelusuri siapa pemilik lahan dan semua yang terkait dengan kebakaran, ujar Kombes Pol Jayadi, Kepala Biro Operasional Polda Kalbar, <TIMEX3 tid="t3" type="DATE" value="2019-08-10">Sabtu (10/8)</TIMEX3>. 
+
+Polda terus memburu pelaku yang membakar lahan dengan sengaja atau tidak. 
+
+Seperti dikabarkan, Satgas Gabungan TNI, Polri dan BPBD fokus pada 100 desa yang sudah dipetakan rawan Karhutla. 
+
+Kita sudah lakukan beberapa upaya. 
+
+Dari Polda Kalbar sendiri ada Operasi Bina Karuna yang meliputi seluruh wilayah Kabupaten dan Kota. 
+
+Dan terakhir Satgas Patroli bersama Manggala Agni, jelas Jayadi. 
+
+Sejauh ini, yang dilakukan selain pencegahan dan penanggulangan, penegakan hukum menjadi kegiatan keseharian di seluruh Polres. 
+
+Nah, di Sintang, Sat Reskrim menangkap dua terduga pelaku di dua lokasi. 
+
+Pelaku pertama, AG, 49, warga Jalan Mungguk Serantung, Kelurahan Kapuas Kanan Hulu, Kecamatan Sintang Kota. 
+
+Pelaku diamankan setelah jajaran Sat Reskrim mendapat laporan dari masyarakat, <TIMEX3 tid="t4" type="DATE" value="2019-08-01">Kamis (8/8)</TIMEX3>. 
+
+Dijelaskan Kasat Reskrim Polres Sintang, AKP Indra Asrianto, <TIMEX3 tid="t5" type="DATE" value="2019-08-12">hari itu</TIMEX3> sekitar <TIMEX3 tid="t6" type="TIME" value="2019-08-11T15:30">pukul 15.30 WIB</TIMEX3>, petugasnya menerima informasi kebakaran lahan di Desa Balai Agung, Gang Sawit, Kecamatan Sungai Tebelian. 
+
+Petugas yang mengecek TKP, lahan sudah terbakar dan api sudah padam. 
+
+Ternyata petugas dilapori warga kalau kebakaran lahan terjadi <TIMEX3 tid="t7" type="TIME" value="2019-08-06T20:00">Selasa (6/8) pukul 20.00 WIB</TIMEX3>. 
+
+Petugas mengambil sampel barang bukti untuk diproses di Polres. 
+
+Diselidiki, diperoleh informasi bahwa <TIMEX3 tid="t8" type="DATE" value="2019-06">Juni 2019 lalu</TIMEX3> pelaku AG membuka lahan miliknya dengan cara menebas dan memotong pohon, jelasnya. 
+
+Pelaku membuat sekat bakar agar lahan milik orang lain tidak terkena. 
+
+<TIMEX3 tid="t9" type="DATE" value="PAST_REF">Saat itu</TIMEX3> juga, kata Indra, pelaku menyulut korek api ke ranting pohon kering dan meletakkan pohon tersebut ke lahannya. 
+
+Setelah bersih, pelaku meninggalkan lahan karena api sudah padam. 
+
+Pada <TIMEX3 tid="t10" type="DATE" value="2019-08-06">6 Agustus</TIMEX3>, AG ditelepon Suyono, bahwa api sisa kebakaran menyebar ke lahan milik orang lain. 
+
+Akibatnya atkan lahan yang lain ikut terbakar, ungkap Indra. 
+
+Luas lahan pelaku yang terbakar 150 100 meter. 
+
+Namun, kata AKP Indra Asrianto, api menyebar ke lahan milik warga hingga seluas lebih 10 hektare. 
+
+Kasus kedua, di Dusun Salatiga, Desa Telaga Satu, Kecamatan Binjai, yang membuat pelaku berinisal AS, 40, harus berurusan dengan Polres Sintang.Kata Indra, <TIMEX3 tid="t11" type="DATE" value="2019-07-30">Selasa (30/7)</TIMEX3> sekitar <TIMEX3 tid="t12" type="TIME" value="2019-08-11T17:00">pukul 17.00 WIB</TIMEX3>, pelaku membakar lahannya untuk dijadikan ladang pertanian. 
+
+Ia membakar lahan seluas 0,5 hektare selama kurang lebih <TIMEX3 tid="t13" type="DURATION" value="PT1H">satu jam</TIMEX3> sampai api padam.Setelah selesai membakar, pelaku tidak langsung pulang tetapi memeriksa kembali tempat yang rawan terhadap api yang masih hidup. 
+
+Setelah api padam dan merasa telah aman, <TIMEX3 tid="t14" type="TIME" value="2019-08-11T22:00">pukul 22.00</TIMEX3> pulang ke rumah, terangnya.Besoknya pelaku melihat lahannya aman dan tidak ada api yang menyala. 
+
+Hanya terlihat asap karena kayu yang terbakar pada bagian tengah lahan.Kemudian <TIMEX3 tid="t15" type="DATE" value="2019-08-09">Jumat (9/8)</TIMEX3> sekitar <TIMEX3 tid="t16" type="TIME" value="2019-08-11T11:30">pukul 11.30</TIMEX3>, pelaku diberitahu oleh istrinya bahwa kebun karet miliknya terbakar. 
+
+Pelaku langsung ke lokasi kebakaran mendapati kebun karetnya di sebelah dia membakar sebelumnya, katanya.Pelaku pulang ke kampung meminta pertolongan warga memadamkan api. 
+
+Kemudian <TIMEX3 tid="t17" type="TIME" value="2019-08-11T13:30">sekitar pukul 13.30 WIB</TIMEX3>, api berhasil dipadamkan dan kebun karet yang terbakar sekitar dua hektar.Pasal yang dipersangkakan untuk dua pelaku yakni, Pasal 108 Jo pasal 69 ayat (1) Huruf H UU RI Nomor <TIMEX3 tid="t18" type="DURATION" value="P32Y">32 Tahun</TIMEX3> 2009 tentang Perlindungan dan Pengelolaan Lingkungan Hidup dan atau Setiap Pelaku Usaha Perkebunan yang membuka dan/atau mengolah lahan dengan cara membakar, sebagaimana dimaksud dalam Pasal 108 Jo Pasal 56 ayat (1) UU RI No. 
+
+<TIMEX3 tid="t19" type="DURATION" value="P39Y">39 Tahun</TIMEX3> 2014 Tentang Perkebunan.Indra akan koordinasi dengan JPU dan pemeriksaan ahli ke BMKG Kalbar. 
+
+Juga koordinasi serta pemeriksaan ahli LH Provinsi Kalbar serta saksi ahli.Singkawang pun BerasapDi Singkawang, setidaknya empat titik kebakaran lahan di Bukit Batu, Roban, Nyarumkop dan Mayasofa, <TIMEX3 tid="t20" type="DATE" value="2019-08-10">Sabtu (10/8)</TIMEX3>, membuat petugas harus kerja keras. 
+
+Rata-rata <TIMEX3 tid="t21" type="TIME" value="2019-08-11TAF">siang tadi</TIMEX3> dan <TIMEX3 tid="t22" type="DATE" value="2019-08-11">kemarin</TIMEX3> yang terpantau di hotspot. 
+
+Luasannya belum diperkirakan keseluruhannya, ujar Yuyu Wahyudin, Kepala Daerah Operasi Manggala Agni Singkawang.Menurutnya ada yang sudah dipadamkan, tetapi menyala kembali. 
+
+Beberapa lokasi sudah dipadamkan oleh Tim Satgas.Terpisah, Sekretaris Badan Penanggulangan Bencana Daerah (BPBD) Kota Singkawang, Christian Valentinus menerima kabar <TIMEX3 tid="t23" type="TIME" value="2019-08-11T14:30">pukul 14.30</TIMEX3> dari Satgas Karhutla Posko Rasau terjadi kebakaran lahan gambut warga Jl Veteran Gg Rahayu Kelurahan Roban, Kecamatan Singkawang Tengah.Tak kurang 36 personil gabungan BPBD 8 orang, warga 10 orang, Satgas Karhutla TNI Polri 8 orang dan BPKS 10 orang mengeroyok lahan yang menimbulkan asap itu. 
+
+Christian mengatakan sekitar 4 hektare lahan terbakar, sekitar 150 meter dari pemukiman warga.Jenis tanaman tumbuh campur, dengan lokasi sumber air berjarak sekitar 20 meter. 
+
+Jumlah kerugian belum bisa dipastikan, sedangkan alat yang digunakan mesin Robin dan selang 1,5 inci, katanya.JUMLAH TITIK API NAIK-TURUNSituasi Karhutla di Sumatera dan Kalimantan setakat ini masih menunjukkan kondisi yang fluktuatif. 
+
+Di satu tempat mengalami penurunan, namun di sisi lain terjadi kenaikan jumlah titik api.Berdasarkan pemantauan Badan Nasional Penanggulangan Bencana (BNPB), penurunan titik api paling tinggi terjadi di Provinsi Riau. 
+
+<TIMEX3 tid="t24" type="DATE" value="2019-08-11">Kemarin (11/8)</TIMEX3>, titik api hanya tersisa 29 saja. 
+
+Jauh menurun dibandingkan data <TIMEX3 tid="t25" type="DATE" value="2019-08-11">sehari sebelumnya</TIMEX3> yang mencapai 126 titik.Sedangkan untuk kenaikan tertinggi jumlah titik api terjadi di Kalimantan Barat. 
+
+Hingga <TIMEX3 tid="t26" type="DATE" value="2019-08-11">kemarin</TIMEX3> sudah ada 605 titik api yang terpantau atau naik 72 titik di bandingkan <TIMEX3 tid="t27" type="DATE" value="2019-08-11">sehari sebelumnya</TIMEX3>. 
+
+Selain dua provinsi tersebut, titik api juga terpantau di Jambi 3 titik, Sumatera Selatan 19 titik, Bangka Belitung 14 titik, Kalimantan Tengah 163 titik, Kalimantan Selatan 14 titik, Kalimantan Timur 20 titik, dan Kalimantan Utara 23 titik (-6 titik).Pelaksana Tugas (Plt) Kepala Pusat Data Informasi dan Humas (Pusdatinmas) BNPB, Agus Wibowo, mengatakan keberadaan titik api membuat jarak pandang menurun akibat berasap. 
+
+Yang paling parah adalah Pekanbaru dengan jarak pandang lima kilometer dan Sanggau empat kilometer.Sementara dari aspek kesehatan, kualitas udara tidak sehat terpantau di tiga kota. 
+
+Berdasar nilai PM10 menunjukkan Pekanbaru 166 tidak sehat, Pontianak 253 sangat tidak sehat, Palangkaraya 217 sangat tidak sehat, imbuhnya.Meski cukup massif, Agus menegaskan asap yang dihasilkan oleh Karhutla hanya mengudara di wilayah Indonesia.Tidak ada transboundary haze atau asap yang melintas ke negeri tetangga Malaysia atau Singapura, kata suksesor almarhum Sutopo tersebut.Dia menegaskan, upaya pemadaman terus dilakukan jajarannya bersama instansi lain yang tediri dari TNI, POLRI, BNPB, BPBD, Masyarakat. 
+
+Total personil yang diterjunkan sejumlah 9.072 orang yang tersebar di enam provinsi, meliputi Riau, Jambi, Sumatera Selatan, Kalimantan Barat, Kalimantan Tengah dan Kalimantan Selatan.Kita saling bahu membahu untuk memadamkan api baik dari darat maupun dari udara atau water bombing, terangnya.TNI sebagai salah satu instansi yang terlibat dalam upaya pemadaman api meninjau langsung daerah terdampak karhutla di Riau. 
+
+Kepala Staf Umum (Kasum) TNI Letjen TNI Joni Supriyanto bersama jajaran pejabat teras Mabes TNI dan komando kewilayahan di Riau sudah turun ke beberapa daerah. 
+
+Mulai <TIMEX3 tid="t28" type="DATE" value="UNKNOWN">Pekan Baru</TIMEX3>, Taman Nasional Tesso Nilo, Desa Penarikan, serta Desa Begadu di Pelalawa.Senada dengan Agus, Joni menyampaikan bahwa semua pihak yang terlibat dalam upaya pemadaman api harus bahu membahu. 
+
+Sejauh ini, TNI sudah mengerahkan pasukan dari Kodam I/Bukit Barisan. 
+
+Selanjutnya, jenderal bintang tiga TNI AD itu menjelaskan, pihaknya akan menempatkan helikopter water bombing di Riau. 
+
+Penempatan alat utama sistem persenjataan (alutsista) itu berikut dengan bahan bakar yang memadai.Kedepan itu akan menjadi prioritas, imbuhnya.Upaya pemadaman api lewat jalur udara maupun jalur darat, lanjutnya, sudah dilakukan maksimal. 
+
+Walau titik api masih naik turun, perjuangan seluruh petugas di lapangan tetap diapresiasi oleh Joni.Saya juga berterima kasih kepada Satgas Karhutla Riau yang telah bekerja maksimal dengan segala kendala yang di hadapi dalam penanggulangan karhutla di Provinsi Riau, bebernya.Dia berharap, kondisi bisa lebih cepat membaik. 
+
+Sehingga masyarakat tidak lagi dirugikan 
+</TEXT>
+
+</TimeML>

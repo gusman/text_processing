@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0337</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-10" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-10</TIMEX3></DCT>
+
+<TITLE>Demi Keselamatan dan Keamanan, Water Bombing Digeser ke Puncak Mega Malabar</TITLE>
+
+<TEXT>
+Satgas kebakaran hutan dan lahan (Karhutla) Kabupaten Bandung memfokuskan pemadaman api di Gunung Malabar, dengan menggeser Helikopter Water Bombing M-171 ke Petak 31A Puncak Mega Malabar, Cimaung, <TIMEX3 tid="t1" type="DATE" value="2019-10-03">Kamis (10/10/2019)</TIMEX3>. 
+
+Dandim 0609/Bandung Letkol Arh Teguh Waluyo di lokasi mengatakan sebelumnya Satgas Karhutla menyepakati pelaksanaan pemadaman di dua lokasi Karhutla Kawah Putih dan Puncak Mega Malabar. 
+
+Dengan pengoptimalan pemadaman pertama kali dilakukan di lokasi Kawah Putih dimulai <TIMEX3 tid="t2" type="TIME" value="2019-10-09T07:00">pukul 07.00 WIB pagi</TIMEX3> sampai <TIMEX3 tid="t3" type="TIME" value="2019-10-09T13:00">pukul 13.00 WIB</TIMEX3>. 
+
+Setelah refulling BBM (pengisian bahan bakar) di Husein Sastranegara pemadaman digeser ke Puncak Mega Malabar. 
+
+" Namun karena kondisi pada <TIMEX3 tid="t4" type="DATE" value="2019-10-10">hari ini</TIMEX3> di Kawah Putih kabut sudah turun lebih dulu, tadi <TIMEX3 tid="t5" type="TIME" value="2019-10-09T09">sekitar jam 09.30</TIMEX3>, sehingga demi keselamatan dan keamanan pemadaman di kawah putih tidak bisa menggunakan water bombing, " katanya di lokasi tadi <TIMEX3 tid="t6" type="TIME" value="2019-10-09TAF">siang</TIMEX3>. 
+
+Untuk itu Satgas Karhutla menggeser water bombing ke Puncak Mega Malabar. 
+
+Dan pemadaman di Kawah Putih kembali dilakukan secara manual. 
+
+" Mudah-mudahan di sana cuaca cukup mendukung, cerah, sehingga pelaksanaan <TIMEX3 tid="t7" type="DATE" value="2019-10-10">hari ini</TIMEX3> kemungkinan akan kami optimalkan di Puncak Mega. 
+
+Mudah-mudahan <TIMEX3 tid="t8" type="TIME" value="2019-10-11TMO">besok pagi</TIMEX3> kalau memang cuaca mendukung kami akan beralih ke Kawah Putih, " ucapnya. 
+
+Berdasarkan hasil koordinasi Satgas Karhutla bersama Badan Nasional Penanggulangan Bencana (BNPB) dan kru helikopter pelaksanaan water bombing di Kabupaten Bandung ini akan dilaksanakan hingga <TIMEX3 tid="t9" type="DATE" value="2019-10-15">tanggal 15 Oktober nanti</TIMEX3>. 
+
+" Belum sama sekali (pengeboman) karena cuaca. 
+
+(Helikopter) tadi hanya memantau karena cuaca buruk, berkabut jadi tidak jadi, " ujarnya.Secara umum Dandim menambahkan titik-titik api masih ada Kawah Putih tapi kecil kemungkinan kembali membesar. 
+
+Karena sebelumnya tim gabungan telah melakukan penyekatan api dengan membuat ilaran, ditambah lokasi sempat diguyur hujan <TIMEX3 tid="t10" type="TIME" value="2019-10-09">kemarin sore</TIMEX3>. " Tapi kami tetap melaksanakan patroli dan pengecekan secara manual kerjasama tim gabungan, " ucapnya. 
+
+
+</TEXT>
+
+</TimeML>

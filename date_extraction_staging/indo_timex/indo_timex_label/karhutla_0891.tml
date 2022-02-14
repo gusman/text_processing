@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0891</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-24</TIMEX3></DCT>
+
+<TITLE>Sejumlah Titik Padam, Kebakaran Hutan dan Lahan Masih Ditemukan Wilayah ini di Bengkalis Riau</TITLE>
+
+<TEXT>
+Dinas Pemadam Kebakaran (Damkar) Bengkalis masih melakukan pemadaman Karhutla di beberapa kecamatan di Bengkalis. 
+
+Karhutla yang belum padam ini merupakan sisa Karhutla yang belum sempat terguyur hujan yang terjadi di wilayah kabupaten Bengkalis <TIMEX3 tid="t1" type="DATE" value="PXD">beberapa hari kemarin</TIMEX3>. 
+
+Hal ini diungkap Kepala Damkar Bengkalis Djamaluddin kepada tribunpekanbaru. 
+
+com, <TIMEX3 tid="t2" type="TIME" value="2019-03-24TAF">Minggu (24/3/2019) siang</TIMEX3>. 
+
+Menurut dia jumlah titik Karhutla tersebut ada sebanyak tiga titik. 
+
+" Karhutla tersebut berada di Kecamatan Mandau, Pinggir dan Bathin Solapan. 
+
+Luas lahan yang terbakar di tiga titik ini masing masing sekitar 5 hektare lebih, " ungkap Djamaluddin. 
+
+Menurut Djamaluddin, dari patroli dan laporan anggotanya di lapangan daerah Karhutla di sana setelah dilakukan pengecekan memang tidak terkena hujan, saat wilayah lain di kabupaten Bengkalis sempat diguyur hujan lebat. 
+
+Daerah Karhutla tersebut diantaranya Desa Buluh Manis, Pematang Pudu dan Bulu Apoh. 
+
+Anggota Damkar Bengkalis masih Standbye di sana melakukan pemadaman dan pendinginan. 
+
+Karena kondisi lahan di daerah tersebut memang bervariasi, sebagian sudah pendinginan dan sebagian masih ada apinya. 
+
+" Menang lahan di sana juga yang terbakar merupakan lahan gambut. 
+
+Personil diturunkan ada yang satu regu dan ada dua regu, " tambahnya.Sementara itu, di kecamatan lain pihak Damkar Bengkalis memastikan sudah padam. 
+
+Apalagi <TIMEX3 tid="t3" type="DURATION" value="PXD">beberapa hari</TIMEX3> belakangan wilayah Bengkalis diguyur hujan. " Kalau di titik Karhutla <TIMEX3 tid="t4" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3> sudah aman. 
+
+Sudah padam total. 
+
+Baik di Rupat, Pulau Bengkalis maupun di Siak Kecil sudah padam semua, " pungkasnya.Namun petugas masih melakukan patroli di bekas kawasan terbakar ini. 
+
+Guna memastikan tidak ada titik kebakaran baru lagi di sana. 
+
+
+</TEXT>
+
+</TimeML>

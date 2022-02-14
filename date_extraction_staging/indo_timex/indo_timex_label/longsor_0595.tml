@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0595</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-01</TIMEX3></DCT>
+
+<TITLE>BNPB: 9 Meninggal Dunia Akibat Banjir dan Longsor di Jabodetabek, Berikut Nama-nama Korban</TITLE>
+
+<TEXT>
+9 Meninggal Dunia Akibat Banjir dan Longsor di Jabodetabek, Berikut Nama-nama Korban. 
+
+Kepala Pusat Data, Informasi dan Komunikasi Badan Nasional Penanggulangan Bencana (BNPB), Agus Wibowo mengatakan, sebanyak sembilan orang meninggal dunia akibat bencana banjir di Jakarta dan sekitarnya pada <TIMEX3 tid="t1" type="DATE" value="2020-01-01">Senin (1/1/2020)</TIMEX3>. 
+
+" Banjir di <TIMEX3 tid="t2" type="DATE" value="2020-01-01">awal tahun baru 1 Januari 2020</TIMEX3> yang melanda wilayah Jakarta dan sekitarnya menyebabkan korban, kerusakan dan kerugian harta benda, " ujar Agus dalam keterangan tertulisnya kepada wartawan. 
+
+" Dari data yang berhasil dihimpun oleh BNPB dari berbagai sumber, menemukan ada 9 korban meninggal dunia karena bencana banjir dan tanah longsor, " lanjutnya. 
+
+. 
+
+M Ali (82), Kelurahan Cipinang Melayu, Jakarta Timur (Korban mengalami hipotermia).2. 
+
+Siti Hawa (72). 
+
+Kelurahan Cipinang Melayu, Jakarta Timur (Korban mengalami hipotermia).3. 
+
+Willi Surahman, Kelurahan Cipinang Melayu, Jakarta Timur (Korban mengalami hipotermia).4. 
+
+Rumsinah (68), Jalan Al Barokah RT 07, RW 01, Kelurahan Pangkalan Jati Baru, Kecamatan Cinere, Kota Depok (Korban tertimbun tanah longsor).5. 
+
+N (8), Jalan Al Barokah RT 07, RW 01, Kelurahan Pangkalan Jati Baru, Kecamatan Cinere, Kota Depok (Korban tertimbun tanah longsor). 
+
+// 6. 
+
+Amelia (27), Jalan Al Barokah RT 07, RW 01, Kelurahan Pangkalan Jati Baru, Kecamatan Cinere, Kota Depok (Korban tertimbun tanah longsor).7. 
+
+Marsdianto (20), Perumahan Puri Citayam Permai 2, Desa Rawa Panjang, Kecamatan Bojonggede, Kabupaten Bogor (Korban terseret arus banjir saat aliran kali yang berada persis di depan rumahnya menjebol tanggul).8. 
+
+Arfiqo Alif (16) warga Kemayoran, Jakarta Pusat. 
+
+Tersetrum listrik. 
+
+. 
+
+Ibu Kusmiyati (30 thn), korban tertimpa tanah longsor, Tanah Sereal, Kota Bogor. 
+
+Agus melanjutkan, BNPB mengimbau kepada masyarakat yang tinggal di daerah yang potensi banjirnya akan meningkat agar melakukan evakuasi ke tempat aman terlebih <TIMEX3 tid="t3" type="DATE" value="PAST_REF">dahulu</TIMEX3>. 
+
+" Sebab, BMKG memprediksi masih terjadi hujan pada <TIMEX3 tid="t4" type="DATE" value="2020-01-01">hari ini</TIMEX3> sehingga masih mungkin terjadi banjir lagi, " tegas Agus. 
+
+Artikel ini telah tayang di Kompas. 
+
+com dengan judul " BNPB:9 Meninggal Akibat Banjir dan Longsor di Jabodetabek ", 
+</TEXT>
+
+</TimeML>

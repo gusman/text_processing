@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0228</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-04-29" temporalFunction="false" functionInDocument="CREATION_TIME">2016-04-29</TIMEX3></DCT>
+
+<TITLE>Ini Nama Korban Longsor Hulu Lais Lebong</TITLE>
+
+<TEXT>
+1 Jon Moris (26) warga Kelurahan Taba Anyar Kecamatan Lebong Selatan (Meninggal Dunia) 2 Selamat Sartono (33) warga Kelurahan Tes Kecamatan Lebong Selatan Selamat (patah leher, luka-luka) 3 Tomi (26) warga Kelurahan Taba Anyar Kecamatan Lebong Selatan selamat (luka-luka) 4 Doris (31) warga Kelurahan Taba Anyar Kecamatan Lebong Selatan Selamat (patah kaki, luka) 5 Diana (30) warga Kelurahan Taba Anyar Kecamatan Lebong Selatan Selamat (luka-luka) 6 Sarnoby Zambora (27) warga Kelurahan Tes Kecamatan Lebong Selatan Belum Ditemukan 7 Edyo Rajo Bito (23) warga Kelurahan Tes Kecamatan Lebong Selatan Belum Ditemukan 8 Deki Karnando (23) warga Kelurahan Tes Kecamatan Lebong Selatan Belum Ditemukan 9 Anak Doris, 3 Thn, warga Kelurahan Taba Anyar Kecamatan Lebong Selatan Belum Ditemukan 10 Hazimi (61), warga Desa Mubai, Lebong Selatan Selamat (patah kaki dan luka-luka). 
+
+
+</TEXT>
+
+</TimeML>

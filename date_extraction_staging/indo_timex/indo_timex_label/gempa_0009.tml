@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0009</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-09" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-09</TIMEX3></DCT>
+
+<TITLE>Alasan Pencarian Korban Tak Diperpanjang</TITLE>
+
+<TEXT>
+Hasil rapat pemerintah daerah (pemda) yang dipimpin langsung oleh Gubernur Sulawesi Tengah Longki Djanggola memutuskan, penanganan atau evakuasi korban bencana gempa disertai tsunami di Palu dan Donggala yang terjadi <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9) lalu</TIMEX3> akan diakhiri pada <TIMEX3 tid="t2" type="DATE" value="2018-10-11">Kamis (11/10) mendatang</TIMEX3>. 
+
+Hal itu disampaikan oleh Kepala Pusdatinmas Badan Nasional Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho. 
+
+Rapat koordinasi tersebut melibatkan Kagasgabpad, Kapolda, BNPB, Basarnas, Bupati Sigi, Wali Kota Palu, OPD, Camat, Lurah, tokoh agama, dan tokoh masyarakat. 
+
+Menurutnya, rapat itu juga membahas penanganan korban di tiga wilayah terparah yang terdampak amblasan serta kenaikan jalan dan lumpur atau likuifaksi, yakni Petobo, Balaroa, dan Jono Oge. 
+
+Peristiwa itu mengakibatkan kawasan tersebut <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3> rata dengan tanah, sehingga sulit dilakukan evakuasi. 
+
+Kesimpulannya, evakuasi korban yang tertimbun oleh lumpur di Petobo, Jono Oge, dan amblasan di Balaroa akan dihentikan pada <TIMEX3 tid="t4" type="DATE" value="2018-10-11">tanggal 11 Oktober 2018</TIMEX3>, ujar Sutopo saat menggelar konferensi pers di Graha BNPB, Jakarta Timur, <TIMEX3 tid="t5" type="DATE" value="2018-10-09">Selasa (9/10)</TIMEX3>. 
+
+Alasannya, di hari ke-14 pasca bencana, korban dipastikan sudah meninggal dunia. 
+
+Bahkan, jenazahnya bisa membahayakan masyarakat yang selamat. 
+
+Korban yang dievakuasi bentuk jenazah sudah melepuh, tidak dikenali, jenazah yang ditemukan langsung dimakamkan karena berpotensi menimbulkan penyakit atau kuman, jelas dia. 
+
+Sementara itu, evakuasi di Jono Oge belum dapat dilakukan karena kondisi lumpur yang masih basah seperti rawa, medan berat, dan belum adanya alat berat eskavator amphibi. 
+
+Para tokoh agama dan tokoh masyarakat menyampaikan agar dipertimbangkan tidak melanjutkan evakuasi. 
+
+Lokasi diusulkan menjadi tempat penguburan massal dan masyarakat dibangunkan permukiman, tuturnya mem. 
+
+Kemudian, lanjut Sutopo, Camat Palu Selatan dan Camat Sigi Biromaru mengusulkan evakuasi tidak dilanjutkan dan menjadikan lokasi penguburan massal. 
+
+Sebab masyarakat sudah trauma untuk tinggal di lokasi tersebut. 
+
+Sehingga mereka meminta agar dapat dibangun permukiman yang baru. 
+
+Bupati Sigi menyampaikan, untuk evakuasi korban masih dilakukan dapat dengan ahli waris. 
+
+Dia ingin segera dibangun hunian sementara dan hunian tetap. 
+
+Lokasi huntara di pos pengungsian, lokasi huntap untuk relokasi di lahan HGU (hak guna usaha) Hasfarm, namun perlu dikaji oleh para ahli, kata dia. 
+
+Terakhir, dalam rapat itu, Wali Kota Palu menegaskan perlunya melakukan kajian untuk lokasi hunian sementara dan hunian tetap relokasi. 
+
+Dia meminta pembangunan 5.000 unit rumah untuk masyarakat Petobo, Balaroa, dan Pantai. 
+
+(yes/JPC) 
+</TEXT>
+
+</TimeML>

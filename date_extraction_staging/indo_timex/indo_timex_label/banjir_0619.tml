@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0619</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-19" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-19</TIMEX3></DCT>
+
+<TITLE>Banjir Rendam Enam RT di Kecamtan Waru</TITLE>
+
+<TEXT>
+Hujan deras terjadi pada <TIMEX3 tid="t1" type="DATE" value="2017-07-16">Minggu (16/7) lalu</TIMEX3> masih menyebabkan Enam RT di Desa Sesulu Dan Kelurahan Waru Kecamatan Waru Kabupaten Penajam Paser Utara (PPU) terendam Banjir. 
+
+Genenagan air setinggi paha orang dewasa juga memasuki rumah warga sekitar, hal ini di akibatkan dari intensitas hujan dan juga pasang air laut sehingga memperparah genangan air dan membuat air lambat surut. 
+
+Badan Penangulangan Bencana Daerah (BPBD) PPU yang di temui newskaltim. 
+
+com di salah satu RT yang terdampak banjir menjelaskan ada enam RT dan ratusan jiwa yang terdampak banjir setinggi paha orang dewasa. 
+
+Di Desa Sesulu ada dua yaitu RT 02 dengan korban 17 Kepala Keluarga 67 jiwa, RT 06, 7 kepala keluarga 29 jiwa, dan di kelurahan waru empat RT yaitu RT 07, 20, 22, 29 dengan total korban 17Kepala Keluarga 55 jiwa, Jelas Nurlaila Kepala Bidang Logistik dan Perlenkapan BPBD PPU. 
+
+<TIMEX3 tid="t2" type="DATE" value="2017-07-19">Rabu (19/7/2017)</TIMEX3>. 
+
+Lebih lanjut Nurlaila mengatakan untuk penangan selanjutnya mengantisipasi air yang lambat surut, bersama dengan Polres PPU mendirikan tenda darurat dan dapur umum di depan Polsek Waru. 
+
+Penangan selanjutnya, antisipasi hujan susulan dan air yang lambat surut, ada pendirian tenda dan dapur umum di halaman Polsek Waru untuk di jadikan pengungsian masyarakat, Pungkas Nurlaila. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1112</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-08-24" temporalFunction="false" functionInDocument="CREATION_TIME">2016-08-24</TIMEX3></DCT>
+
+<TITLE>Hujan Badai, Pohon Tumbang di Padang Panjang</TITLE>
+
+<TEXT>
+PADANG PANJANG Hujan disertai badai yang melanda Padang Panjang dan sekitarnya sejak <TIMEX3 tid="t1" type="TIME" value="2016-08-22TNI">malam tadi</TIMEX3> hingga <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> belum juga reda. 
+
+Karenanya, masyarakat diminta hati-hati dari ancaman bencana yang terjadi akibat hujan badai itu. 
+
+Masyarakat harus hati-hati akan bahaya pohon tumbang dan bahaya lain akibat hujan disertai badai ini, kata Kabag Humas Setdako Padang Panjang Ampera Salim, <TIMEX3 tid="t3" type="DATE" value="2016-08-24">Rabu (24/8)</TIMEX3>. 
+
+Dari informasi yang didapatkan sejumlah pohon berukuran besar tumbang akibat hujan disertai badai. 
+
+Salah satu pohon tumbang terjadi di RT 08 Kelurahan Guguk Malintang. 
+
+Iya, memang ada pohon tumbang di RT 08 Kelurahan Guguk Malintang. 
+
+Alhamdulillah korban tidak ada. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> petugas dari BPBD tengah menyingkirkan pohon yang tumbang dari jalan, kata Rifnaldi, warga setempat. 
+
+(jasriman) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0587</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-04" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-04</TIMEX3></DCT>
+
+<TITLE>Danau Handiwung Meluap, Jalan Hampangen-Mendawai Sepanjang 3 Km Terendam Banjir</TITLE>
+
+<TEXT>
+Banjir mulai menerjang wilayah Kabupaten Katingan. 
+
+Ruas jalan Hampangen-Mendawai sepanjang 3 kilometer di Desa Handiwung, Kecamatan Tasik Payawan terendam air setinggi 20-30 centimeter, <TIMEX3 tid="t1" type="DATE" value="2020-01-04">Sabtu (4/1)</TIMEX3>. 
+
+Kepala Pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Katingan Eka Surya Dilaga saat memantau banjir yang terjadi di Desa Handiwung, <TIMEX3 tid="t2" type="TIME" value="2020-01-04">Sabtu pagi</TIMEX3>, mengatakan, banjir berasal dari luapan air di sekitar Danau Handiwung. 
+
+Meski menenggelamkan jalan sepanjang 3 Km, menurutnya, ruas jalan di dalam Desa Handiwung sampai <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> masih kondisi aman atau tidak tergenang air. 
+
+Masyarakat setempat masih bisa menjalankan aktivitasnya, katanya. 
+
+Namun, lanjut dia, jika hujan tetap berlanjut, tidak menutup kemungkinan debit air di ruas Jalan Hampangen-Mendawai yang tadinya hanya 30 centimeter itu akan bertambah lagi, yang pada akhirnya akan menyulitkan ribuan masyarakat di desa itu untuk berakitivitas. 
+
+Jika debit air meningkat di ruas jalan tersebut, kami berencana akan mendirikan pos tanggap darurat di sekitar jalan tersebut, dengan tujuan untuk memberikan pelayanan kepada masyarakat setempat yang membutuhkannya, janjinya. 
+
+Sedangkan di wilayah Kecamatan Marikit dan Kecamatan Katingan Tengah yang sering dilanda banjir, mengawali <TIMEX3 tid="t4" type="DATE" value="2020">tahun 2020 ini</TIMEX3>, meskipun debit air sungai sempat naik 1 meter, tapi sampai <TIMEX3 tid="t5" type="DATE" value="2020-01-04">hari ini</TIMEX3> menurutnya sudah turun kembali seperti biasa. 
+
+Kendati dalam keadaan aman, dia berharap kepada masyarakat di Kecamatan Katingan Kuala, Marikit, Tasik Payawan dan Kamipang yang sering dilanda banjir pada <TIMEX3 tid="t6" type="DATE" value="2019-WI">musim penghujan</TIMEX3> agar tetap waspada. 
+
+Karena di <TIMEX3 tid="t7" type="DATE" value="2019-WI">musim penghujan</TIMEX3> air datang secara tiba-tiba, sehingga di samping perlunya kewaspadaan, juga persiapan, ingatnya. 
+
+Dia menegaskan, secara global, 12 wilayah kecamatan di Kabupaten Katingan untuk <TIMEX3 tid="t8" type="DATE" value="2020">2020 ini</TIMEX3> aman dari musibah banjir, terkecuali di Desa Talengke Kecamatan Tasik Payawan. 
+
+Khusus untuk banjir di Desa Talengke, hanya berupa laporan dan <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> kami akan turun ke lapangan ingin meilhat dari dekat kebenarannya, kata Eka. 
+
+c-dar 
+</TEXT>
+
+</TimeML>

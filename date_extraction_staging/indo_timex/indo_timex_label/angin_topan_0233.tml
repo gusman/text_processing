@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0233</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-02-01" temporalFunction="false" functionInDocument="CREATION_TIME">2017-02-01</TIMEX3></DCT>
+
+<TITLE>Dihantam Angin, Tribun Stadion Roboh</TITLE>
+
+<TEXT>
+Angin kencang disertai hujan deras yang melanda Kota Bengkulu, <TIMEX3 tid="t1" type="TIME" value="2017-01-31TAF">Selasa (31/1) siang</TIMEX3> menyebabkan tribun kelas ekonomi Stadion Semarak Sawah Lebar roboh. 
+
+Tidak ada korban jiwa akibat kejadian tersebut. 
+
+Tetapi, tribun yang roboh itu masih dibiarkan berserakan. 
+
+Terlihat seng bergelantungan yang sewaktu-waktu bisa jatuh belum dibersihkan oleh penanggung jawab stadion tersebut. 
+
+Tali seling untuk menahan konstruksi rangka tribun juga putus. 
+
+Dikatakan Tarmizi, pengurus sekaligus petugas kebersihan stadion, atap tribun kelas ekonomi itu roboh <TIMEX3 tid="t2" type="TIME" value="2017-01-31T14:00">sekitar pukul 14.00 WIB</TIMEX3>. 
+
+Diawali tiupan angin kencang dari arah depan tribun stadion. 
+
+Kencangnya tiupan angin mengayunkan rangka besi penyokong atap tribun. 
+
+Setelah berayun ke bawah dan ke atas, rangka beserta atap langsung roboh. 
+
+Robohnya <TIMEX3 tid="t3" type="TIME" value="2017-01-31T14:00">sekitar pukul 14.00 WIB</TIMEX3>, untung saat roboh lagi tidak ada orang dibawahnya. 
+
+Angin yang bertiup sebelum atap roboh memang kencang disertai hujan deras, jelas Tarmizi. 
+
+Menurut Tarmizi, robohnya tribun kelas ekonomi itu karena kuatnya tiupan angin yang menerjang rangka atap tribun. 
+
+Terkait konstruksi besi atap tribun yang sudah uzur dimakan usia sehingga tidak kuat menopang tipuan angin, Tarmizi tidak membenarkannya. 
+
+Kapan tribun tersebut dibangun, Tarmizi mengatakan, jika tribun kelas ekonomi itu selesai dibangun <TIMEX3 tid="t4" type="DATE" value="2009">sekitar tahun 2009 lalu</TIMEX3>. 
+
+Kalau menurut saya atap tribun itu roboh karena kencangnya tiupan angin. 
+
+Memang usia tribun ini sudah cukup tua, <TIMEX3 tid="t5" type="DATE" value="2009">tahun 2009</TIMEX3> dibangun kalau tidak salah, imbuh Tarmizi. 
+
+Masih dikatakan Tarmizi, beberapa petugas dari Dispora Kota Bengkulu sudah mendatangi lokasi robohnya tribun stadion. 
+
+Mereka mememeriksa rangka bangunan. 
+
+Kapan tribun tersebut diperbaiki, belum ada wacana kapan dinas terkait akan memperbaiki atap stadion. 
+
+Tadi petugas dari Dispora sudah datang mengecek tribun roboh itu. 
+
+Belum tahu kapan dibangun, katanya mau dikonsultasikan <TIMEX3 tid="t6" type="DATE" value="PAST_REF">dulu</TIMEX3>, pungkas Tarmizi. 
+
+Pantauan di lapangan, robohnya atap tribun kelas ekonomi itu tidak mengganggu aktifitas warga sekitar. 
+
+Beberapa warga masih terlihat memanfaatkan lapangan stadion. 
+
+Ada yang latihan sepak bola, jogging atau hanya sekedar bersantai di tribun kelas VIP. 
+
+Jika diperhatikan lebih dekat, rangka tribun yang terbuat dari besi itu sudah terlihat berkarat. 
+
+Diduga besi konstruksi menahan beban atap tribun tidak kuat setelah dihantam angin kencang, sehingga roboh. 
+
+(167) 
+</TEXT>
+
+</TimeML>

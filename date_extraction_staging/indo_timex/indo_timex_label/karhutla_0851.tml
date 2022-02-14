@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0851</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-20" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-20</TIMEX3></DCT>
+
+<TITLE>Saat Hendak Padamkan Kebakaran Lahan, Kaca Mobil Damkar di Muratara Pecah Dilempari Batu</TITLE>
+
+<TEXT>
+Kaca depan mobil pemadam kebakaran (Damkar) milik Pemerintah Kabupaten (Pemkab) Musi Rawas Utara (Muratara) pecah. 
+
+Informasi yang dihimpun, pecahnya kaca mobil Damkar tersebut karena dilempari batu oleh orang tak dikenal, <TIMEX3 tid="t1" type="TIME" value="2019-08-19TNI">Senin malam</TIMEX3> (19/8/2019). 
+
+Kepala Satuan Polisi Pamong Praja (Satpol-PP) Kabupaten Muratara, Firdaus saat dikonfirmasi Tribunsumsel. 
+
+com, <TIMEX3 tid="t2" type="DATE" value="2019-08-20">Selasa (20/8/2019)</TIMEX3> membenarkan kejadian tersebut. 
+
+" Iya benar, saya dapat laporan dari petugas Damkar, katanya mobil dilempari orang, petugas tidak kenal dengan orangnya, " ujar dia. 
+
+Kejadian itu terjadi di jalan lintas sumatera, perbatasan antara Desa Bingin Rupit dan Maur Baru, Kecamatan Rupit, Kabupaten Muratara. 
+
+Mobil dilempari dengan batu saat dalam perjalanan hendak memadamkan kebakaran lahan di Desa Em. 
+
+" <TIMEX3 tid="t3" type="TIME" value="UNKNOWN">Malam tadi itu</TIMEX3> ada lahan yang terbakar, luasnya tidak banyak, tapi apinya mendekati rumah warga, jadi warga menelepon Damkar, " kata Firdaus. " Ketika di perjalanan menuju lokasi, <TIMEX3 tid="t4" type="TIME" value="2019-08-19T21:45">sekitar pukul 21.45 WIB</TIMEX3>, mobil Damkar dilempari dengan batu dari pinggir jalan, " tambahnya.Setalah melempari batu, orang tak dikenal tersebut langsung melarikan diri ke arah permukiman penduduk.Sementara motif dan identitas orang yang melempari batu masih diselidiki, namun kejadian ini tidak sampai dilaporkan kepada pihak kepolisian. 
+
+// Firdaus menceritakan, setelah menerima laporan dari warga terkait adanya kebakaran lahan di Desa Em. 
+
+" Mobil kita kan ada dua, <TIMEX3 tid="t5" type="TIME" value="UNKNOWN">malam tadi itu</TIMEX3> turun semua, berangkatnya iring-iringan. 
+
+Mobil kecil duluan, nah mobil besar yang dilempar, " katanya. 
+
+Beruntung petugas Damkar yang membawa mobil tersebut tidak mengalami luka yang cukup serius. 
+
+" Petugas kami yang di dalam mobil tidak apa-apa, cuma gores-gores dikit kena pecahan kaca, " ujarnya. 
+
+Lanjut Firdaus, mobil Damkar berukuran besar yang dilempari batu terpaksa putar balik ke markas Satpol-PP di Muara Rupit. 
+
+Sementara mobil Damkar yang berukuran kecil tetap menuju lokasi kebakaran lahan di Desa Em. 
+
+" Jadi yang lanjut mobil kecil. 
+
+Berhubung kebakaran lahan itu tidak terlalu luas, jadi api bisa dipadamkan cukup dengan satu mobil, " ujarnya. 
+
+Firdaus mengimbau masyarakat yang merasa ada masalah dengan mobil Damkar atau petugas Damkar agar melapor kepada pihaknya. " Kalau ada masalah itu lapor saja kepada kami, jangan main lempar-lempar seperti ini. 
+
+Apa masalahnya kita selesaikan baik-baik, " katanya.Akibat dari insiden tersebut, untuk <TIMEX3 tid="t6" type="DURATION" value="PXX">sementara waktu</TIMEX3> mobil Damkar tidak bisa beroperasi untuk memadamkan api di wilayah yang jauh dari ibukota kabupaten. " Sembari menunggu beli kaca baru, jadi kalau untuk dekat-dekat sini masih bisa dipakai, tapi kalau jauh mungkin cuma mobil yang kecil saja, " ujarnya. 
+
+(TS/ Rahmat Aizullah) 
+</TEXT>
+
+</TimeML>

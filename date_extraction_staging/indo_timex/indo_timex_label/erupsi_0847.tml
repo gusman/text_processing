@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0847</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-05-21" temporalFunction="false" functionInDocument="CREATION_TIME">2018-05-21</TIMEX3></DCT>
+
+<TITLE>Gunung Merapi Kembali Meletus Sudah 2 Kali Hari Ini, Hembusan Gas Condong Arah Barat</TITLE>
+
+<TEXT>
+Gunung Merapi kembali emngalami letusan Freatik. 
+
+Sejak <TIMEX3 tid="t1" type="DATE" value="2018-05-21">Senin (21/5/2018)</TIMEX3> dini hari, sudha 2 kali letusan terjadi. 
+
+Letusan freatik ini terjadi pada <TIMEX3 tid="t2" type="TIME" value="2018-05-20T01:25">pukul 01.25 WIB</TIMEX3> dini <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">hari tadi</TIMEX3>, kemudian disambung hembusan gas yang cukup besar pada <TIMEX3 tid="t4" type="TIME" value="2018-05-21T09:39">pukul 09.39 WIB ini</TIMEX3>. 
+
+Hujan abu tipis sempat turun di wilayah Kecamatan Srumbung. 
+
+Petugas Pengamatan Pos Babadan Gunung Merapi, Triyono, mengatakan, kejadian itu terjadi <TIMEX3 tid="t5" type="TIME" value="2018-05-20T01:25">sekitar 01.25 WIB</TIMEX3> dini <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">hari tadi</TIMEX3> dengan durasi <TIMEX3 tid="t7" type="DURATION" value="PT19M">sekitar 19 menit</TIMEX3>, dan ketinggian kolom mencapai 700 meter ke atas lalu condong ke arah barat. 
+
+Ia melaporkan tak terasa ada getaran ataupun terdengar suara. 
+
+Penampakan letusan dapat terlihat, dari dasar kawah mengepul asap berwarna hitam akibat suasana masih gelap. 
+
+" Kepulan asap berwarna hitam terpantau dari pos pengamatan karena suasana masih dalam keadaan gelap karena <TIMEX3 tid="t8" type="DATE" value="UNKNOWN">waktu itu</TIMEX3> masih <TIMEX3 tid="t9" type="TIME" value="2018-05-20T01:25">sekitar pukul 01.25 WIB</TIMEX3> dini hari, " ujar Triyono, <TIMEX3 tid="t10" type="DATE" value="2018-05-21">Senin (21/5/2018)</TIMEX3>. 
+
+Akibat kejadian tersebut, sempat terjadi hujan abu tipis di wilayah Kecamatan Srumbung, mulai dari Kelurahan Argomulyo, hingga Pos Ngepos dengan radius jarak 15 km dari puncak. 
+
+Triyono mengatakan, setelah freatik pada <TIMEX3 tid="t11" type="TIME" value="2018-05-20T01:25">pukul 01.25 WIB</TIMEX3>, terjadi lagi hembusan gas pada <TIMEX3 tid="t12" type="TIME" value="2018-05-20T09:38">pukul 09.38 WIB</TIMEX3>, selama <TIMEX3 tid="t13" type="DURATION" value="PT6M">enam menit</TIMEX3> dengan tinggi kolom 1.200 meter condong ke arah barat. 
+
+// " Setelah yang pertama freatik itu, terjadi lagi hembusan gas setinggi 1.200 meter, condong ke barat <TIMEX3 tid="t14" type="TIME" value="2018-05-20T09:38">pukul 09.38</TIMEX3> selama <TIMEX3 tid="t15" type="DURATION" value="PT6M">enam menit</TIMEX3>, " ujarnya. 
+
+Lanjut Triyono, letusan kedua ini dinilai lebih kecil dibandingkan letusan pada <TIMEX3 tid="t16" type="DATE" value="2018-05-11">11 Mei 2018 lalu</TIMEX3>, tidak terdengar suara dan tidak terasa getaran dari pos pengamatan di Babadan, Magelang. 
+
+" Hanya pelepasan gas, hembusan pun hanya kecil saja, " ujarnya. 
+
+Jika dihitung, letusan freatik ini sudah terjadi dua kali selama <TIMEX3 tid="t17" type="DATE" value="UNKNOWN">sebulan ini</TIMEX3>, setelah <TIMEX3 tid="t18" type="DATE" value="2018-05-11">tanggal 11 Mei 2018 kemarin</TIMEX3> terjadi letusan freatik, kali ini <TIMEX3 tid="t19" type="DATE" value="2018-05-21">Senin (21/5/2018)</TIMEX3> juga terjadi hal yang sama. 
+
+Disusul hembusan gas setinggi 1.200 meter di <TIMEX3 tid="t20" type="DATE" value="2018-05-21">hari yang sama</TIMEX3> pada <TIMEX3 tid="t21" type="TIME" value="2018-05-20T09">jam 09.38 WIB pagi</TIMEX3>. 
+
+Triyono mengatakan, <TIMEX3 tid="t22" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> status Gunung Merapi dalam keadaan normal. 
+
+Masyarakat pun diminta tak usah panik dan tetap menjalankan aktivitasnya seperti biasa. 
+
+" Tidak usah panik, karakter Gunung Merapi memang seperti ini, jangkauan tidak jauh, paling dua kilometer. 
+
+Silahkan dapat beraktivitas seperti biasa, " katanya.Dari data yang dihimpun Badan Geologi, PVMBG, Telah terjadi erupsi Gunungapi Merapi pada <TIMEX3 tid="t23" type="TIME" value="2018-05-21T09:38">tanggal 21 Mei 2018 pukul 09.38 WIB</TIMEX3> selama <TIMEX3 tid="t24" type="DURATION" value="PT6M">6 menit</TIMEX3> dengan ketinggian asap <TIMEX3 tid="t25" type="DATE" value="1200">1200</TIMEX3> m teramati dari CCTV Merbabu.Amplitudo maksimum 23 mm. 
+
+Angin condong ke arah Barat. 
+
+// Pasca erupsi, kegempaan yang terekam tidak mengalami perubahan dan suhu kawah mengalami penurunan. 
+
+Masyarakat dihimbau untuk tetap tenang dan mengantisipasi bahaya abu vulkanik 
+</TEXT>
+
+</TimeML>

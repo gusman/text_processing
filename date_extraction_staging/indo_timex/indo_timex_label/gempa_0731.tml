@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0731</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-09" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-09</TIMEX3></DCT>
+
+<TITLE>Kantor Pos Gratiskan Biaya Pengiriman Paket untuk Korban Gempa di Lombok, Syaratnya Cukup Mudah</TITLE>
+
+<TEXT>
+Kantor Pos Blitar menggratiskan biaya pengiriman paket untuk membantu korban bencana gempa di Lombok, Nusa Tenggara Barat (NTB). 
+
+Program ini berlaku mulai <TIMEX3 tid="t1" type="DATE" value="2018-08">8 Agustus 2018</TIMEX3> sampai <TIMEX3 tid="t2" type="DATE" value="2018-08-31">31 Agustus 2018</TIMEX3>. 
+
+Kepala Kantor Pos Blitar, Ayutani Paramitha mengatakan program ini merupakan kebijakan dari pusat. 
+
+(. 
+
+Warga Blitar yang ingin menyalurkan bantuan ke korban gempa di Lombok bisa mengumpulkan barangnya di kantor pos mulai <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>. 
+
+Kami akan kirim barangnya ke Lombok pada <TIMEX3 tid="t4" type="DATE" value="2018-08">akhir Agustus 2018</TIMEX3>, kata Ayutani kepada SURYAMALANG. 
+
+COM, <TIMEX3 tid="t5" type="DATE" value="2018-08-09">Kamis (9/8/2018)</TIMEX3>. 
+
+(. 
+
+Ketentuannya, berat paket bantuan yang dikirim maksimal 20 kilogram (Kg) per paket. 
+
+Jika jumlah bantuan dari masyarakat yang hendak dikirim banyak, bisa dikemas menjadi beberapa paket. 
+
+(. 
+
+Kalau banyak, dikemas <TIMEX3 tid="t6" type="DATE" value="PAST_REF">dulu</TIMEX3> menjadi beberapa paket, ujarnya. 
+
+Dia mempersilakan masyarakat secara perorangan maupun lembaga mengirim paket bantuan bagi korban bencana di Lombok lewat Kantor Pos.Pengiriman bantuan korban bencana di Lombok menggunakan paket kilat.(. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0373</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-30" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-30</TIMEX3></DCT>
+
+<TITLE>4 BUMN Gerak Cepat Bantu Pemulihan Donggala dan Palu Pascagempa</TITLE>
+
+<TEXT>
+Empat Badan Usaha Milik Negara (BUMN) bergerak untuk mengamankan stabilitas kebutuhan energi, telekomunikasi, dan perbankan pasca gempa 7,4 SR di Donggala, Sulawesi Tengah. 
+
+Pada tahap awal, PT Pertamina akan mengamankan pasokan bahan bakar minyak (BBM) sedangkan PT PLN memulihkan pasokan listrik. 
+
+Berdasarkan informasi, hingga <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> Terminal BBM (TBBM) Donggala rusak akibat gempat dan tsunami. 
+
+Beberapa sarana dan fasilitas (sargas) seperti akses dari dermaga menuju TBBM dan tempat pengisian mobil tangki (filling shed) mengalami kerusakan sehingga kegiatan penyaluran BBM tidak bisa dilakukan. 
+
+Akses jalan dari TBBM ke Palu dan Sulawesi Barat pun tidak dapat dilewati akibat longsor dan jalan yang rusak. 
+
+Deputi Bidang Infrastruktur dan Bisnis Kementerian BUMN Hambra Samal mengatakan, Pertamina telah menyiapkan rencana alternatif RAE (Regular, Alternative, Emergency) untuk mengamankan pasokan energi ke Palu dan sekitarnya. 
+
+" Pasokan akan dilakukan melalui beberapa TBBM, yakni TBBM Poso, TBBM Moutong, TBBM Toli-Toli, dan TBBM Pare-Pare. 
+
+Lokasi TBBM tersebut dipilih sesuai dengan kondisi jalur darat yang paling memungkinkan, " kata Hambra dalam siaran pers yang diterima Katadata. 
+
+Untuk memenuhi kebutuhan bahan bakar industri, Pertamina mengutamakan pasokan kepada PLN agar bisa mengoperasikan kembali pembangkit listrik, juga pasokan kepada TNI dan Polri untuk operasional armada dalam penanganan bencana. 
+
+Selain itu, Pertamina juga akan berupaya cepat mengamankan pasokan BBM dan elpiji bagi industri dan masyarakat. 
+
+Alternatif pasokan akan diluncurkan melalui TBBM Poso, Moutong, Toli-Toli, dan Pare Pare. 
+
+Untuk elpiji, alternatif suplai ke Palu rencananya dilakukan melalui SPPEK Tri Ariesta dari Gorontalo, Depot LPG Makassar, dan Terminal LPG Bosowa. 
+
+Selain itu, Pertamina menyiagakan SPPBE alternatif, yakni PT Mitra Utama, PT Nubuwwa Saltika, PT Pare Elpiji, dan PT Permata Alam Sulawesi serta pengiriman 150 tabung LPG 50 Kg dari SPPBE Makassar. 
+
+Untuk suplai Avtur, Pertamina akan mengalihkan pasokan ke DPPU Mutiara melalui TBBM Makassar, TBBM Gorontalo, dan TBBM Luwuk. 
+
+" Penyaluran rencananya dilakukan melalui bridger (mobil tangki avtur), dengan memperhatikan kondisi akses jalan. 
+
+Pertamina juga memberangkatkan tim relawan yang membawa bantuan logistik dan medis, " ujarnya. 
+
+(. 
+
+PLN telah berhasil mengoperasikan kembali 2 gardu induk (GI), yaitu GI Pamona dan GI Poso yang memasok listrik untuk pelanggan di Tentena, Poso, Kota Poso, dan Bandara Kasiguncu. 
+
+PLN juga menerjunkan 216 personil gabungan dari Wilayah Sulawesi Tengah, Utara, Selatan, Tenggara dan Barat, serta Gorontalo untuk membantu perbaikan infrastruktur kelistrikan pasca gempa yang mengguncang Palu dan Donggala. 
+
+Untuk solusi jangka pendek penerangan, PLN juga membawa 8 genset yang nantinya akan di sebar di posko-posko yang ada di Palu dan Donggala. 
+
+" Kementerian BUMN turut berduka atas bencana yang menimpa Donggala dan sekitarnya. 
+
+Kementerian BUMN selalu mendorong dan mengawasi gerak aktif dan cepat tanggap BUMN dalam setiap musibah sehingga penanganan pasca bencana yang melanda Donggala, Palu dan sekitarnya dapat berjalan efektif dan cepat, " kata Hambra.Telkom secara bertahap berhasil memulihkan sebagian besar jaringan di wilayah Kota Palu, Donggala, dan sekitarnya. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> layanan komunikasi pesan singkat (SMS) dan suara berangsur pulih di beberapa titik strategis kota Palu yang diprioritaskan bagi pemerintah dan instansi-instansi yang sangat membutuhkan. 
+
+Jaringan 4G sudah kembali beroperasi di beberapa wilayah, seperti Toli-toli, Poso, dan Luwuk. 
+
+Di Donggala, perangkat layanan voice dan internet pun telah pulih.Telkom juga telah mengaktifkan akses wifi gratis di area kantor Telkom Donggala bagi masyarakat yang ingin menggunakan layanan internet. 
+
+BUMN telekomunikasi itu juga mengaktifkan sistem komunikasi satelit dengan memberangkatkan Satellite News Gathering (SNG) dari Makassar ke Palu. 
+
+Percepatan pemulihan layanan telekomunikasi ini bertujuan memudahkan koordinasi pemerintah serta seluruh petugas lapangan yang tengah fokus melakukan evakuasi terhadap masyarakat yang terkena dampak bencana.Layanan PerbankanAdapun untuk layanan Perbankan, Hambra menambahkan, Bank Mandiri berupaya menyiapkan dan mengoptimalkan sarana pendukung layanan perbankan agar masyarakat dapat melakukan transaksi perbankan di cabang-cabang terdekat dari lokasi cabang yang terdampak gempa. " Kondisi kantor layanan di sekitar Donggala <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, terdapat 7 kantor layanan Bank Mandiri yang rusak. 
+
+Bahkan, kantor cabang di Sigi sama sekali tidak dapat digunakan. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> tercatat sekitar 60 mesin ATM Bank Mandiri di wilayah Donggala dan Palu mengalami gangguan akibat terputusnya jaringan listrik, " ujar dia.Bank Mandiri telah menerjunkan lebih dari 100 relawan untuk mendukung tanggap darurat bencana gempa dan tsunami di Donggala. 
+
+Relawan yang terdiri dari pegawai Bank Mandiri di berbagai daerah itu mendukung evakuasi dan penyiapan posko bantuan serta dapur umum di lokasi terdampak bencana.Pengiriman relawan dilakukan secara bertahap dan bekerja sama dengan Tentara Nasional Indonesia (TNI) serta Badan Nasional Penanggulangan Bencana (BNPB). 
+
+" BUMN akan terus hadir untuk memberikan bantuan penanganan bencana, agar masyarakat terbantu dalam memperoleh kebutuhan dasar seperti bahan makanan, air bersih maupun tempat berlindung, " ujar Hambra.(
+</TEXT>
+
+</TimeML>

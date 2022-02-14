@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1077</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-30" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-30</TIMEX3></DCT>
+
+<TITLE>Peduli Gempa dan Tsunami Palu-Donggala, Bawaslu Konawe Kirim Doa dan Galang Dana</TITLE>
+
+<TEXT>
+Bencana gempa dan Tsunami yang melanda Kota Palu dan Kabupaten Donggala, Provinsi Sulawesi Tengah (Sultra), menyisakan duka mendalam bagi masyarakat Indonesia. 
+
+Tidak hanya melulantahkan bangunan, bencana ini juga banyak menelan korban jiwa. 
+
+Pasca gempa dan tsunami yang terjadi, berbagai ucapan duka cita dan doa untuk para korban pun mengalir. 
+
+Salah satunya datang dari Badan Pengawas Pemilu (Bawaslu) Kabupaten Konawe, Sulawesi Tenggara (Sultra). 
+
+<TIMEX3 tid="t1" type="TIME" value="2018-09-30TAF">Minggu (30/9/2018) sore tadi</TIMEX3>, keluarga besar Bawaslu Konawe menggelar doa bersama untuk korban bencana di Palu dan Donggala. 
+
+Selain ungkapan duka cita mendalam disertai doa, Bawaslu juga berencana untuk menggalang dana untuk membantu meringankan beban korban. 
+
+Kita kirimkan doa untuk korban bencana di Palu dan Donggala. 
+
+Semoga mereka kuat dalam menghadapi ujian ini, kata Ketua Bawaslu Konawe, Sabda usai memimpin doa bersama di hadapan seluruh komisioner Panwascam, dan pegawai Bawaslu setempat, di salah satu warung kopi di Konawe. 
+
+Sabda juga mengajak seluruh komisioner Panwascam di daerah itu untuk berpartisipasi dalam penggalangan dana yang nantinya akan dikirim ke Palu. 
+
+(BDiberitakan sebelumnya, gempa bumi berkekuatan 7,4 skala richter menguncang Kota Palu dan Kabupaten Donggala, Sulteng, <TIMEX3 tid="t2" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Guncangan gempa ini juga dirasakan hingga di Kota Kendari, Sultra. 
+
+Gempa tersebut terjadi <TIMEX3 tid="t3" type="TIME" value="2018-09-29T18:08">pukul 18.08</TIMEX3> Wita dan berpotensi tsunami. 
+
+Data dari BNPB, korban meninggal <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> telah mencapai 832 orang. 
+
+Rinciannya di Kota Palu 821 orang dan Donggala 11 orang. 
+
+Korban tewas akibat tertimpa bangunan dan diterjang Tsunami. 
+
+Jumlah korban kemungkinan masih akan terus bertambah karena pencarian dan evakuasi terus dilakukan. 
+
+(B) 
+</TEXT>
+
+</TimeML>

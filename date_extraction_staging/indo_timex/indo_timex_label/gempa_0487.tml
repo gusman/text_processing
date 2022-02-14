@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0487</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-15" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-15</TIMEX3></DCT>
+
+<TITLE>Rp 54 Juta untuk Sulteng</TITLE>
+
+<TEXT>
+Gempa bumi yang disusul tsunami di Sulawesi Tengah (sulteng) mendorong Pemkab Gunungkidul berempati. 
+
+<TIMEX3 tid="t1" type="DATE" value="2018-10-13">Sabtu (13/10)</TIMEX3> pemkab menginisiasi aksi solidaritas di Alun-Alun Wonosari. 
+
+Aksi solidaritas berupa konser amal yang dihadiri sejumlah artis ibu kota seperti Evie Tamala dan Didi Kempot itu terkumpul uang donasi sebesar Rp 50.401.200. 
+
+Plus 2.000 dolar singapura. 
+
+Menurut Bupati Gunungkidul Badingah, aksi ini untuk meringankan beban korban bencana alam di Palu maupun Donggala, Sulteng. 
+
+Ini sekaligus melengkapi upaya pemkab lainnya. 
+
+Sebelumnya, pemkab melalui Badan Penanggulangan Bencana Daerah Gunungkidul mengirimkan lima relawan ke wilayah bencana. 
+
+Untuk membantu aksi sosial dalam pencarian korban, evakuasi dan beberapa kegiatan lain, jelas Badingah. 
+
+Orang nomor satu di Bumi Handayani berharap rentetan bencana di sejumlah daerah dapat menggugah kedewasaan masyarakat Gunungkidul. 
+
+Terutama dalam mitigasi bencana. 
+
+Juga mendekatkan diri kepada Tuhan Yang Mahakuasa dan meningkatkan kepedulian terhadap sesama, harapnya. 
+
+(gun/zam/zl/mo2) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0731</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-22" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-22</TIMEX3></DCT>
+
+<TITLE>Kabut Asap di Ambon Sulitkan Nelayan Tradisional</TITLE>
+
+<TEXT>
+Kabut asap di Kota Ambon dan sekitarnya <TIMEX3 tid="t1" type="DATE" value="PAST_REF">akhir-akhir ini</TIMEX3> menyulitkan nelayan tradisional, karena membuat penglihatan menjadi silau terkena sinar matahari. 
+
+Kepala Meteorologi Kemaritiman Ambon, Ishak Hetharian, <TIMEX3 tid="t2" type="DATE" value="2015-10-22">Kamis (22/10)</TIMEX3>, mengatakan, kesulitan yang dihadapi para nelayan tradisional setempat karena saat melaut penglihatan silau dihadapkan pada sinar matahari sehingga sempat tersesat. 
+
+Kami melakukan pemantauan ternyata nelayan tradisional di Negeri Latuhalat, Semenanjung Nusaniwe Kota Ambon, sempat nyasar pada <TIMEX3 tid="t3" type="DATE" value="2015-10-21">Rabu (21/10)</TIMEX3>, karena kabut asap yang menimbulkan silau sinar matahari, ujarnya pula. 
+
+Kesulitan tersebut tidak menimbulkan korban karena para nelayan bisa kembali ke Negeri Latuhalat yang merupakan sentra produksi ikan penyuplai kebutuhan masyarakat Kota Ambon. 
+
+Sebenarnya jarak pandang di laut masih mencapai 7 km dan tidak berpengaruh terhadap aktivitas pelayaranan, karena peristiwa nyasar itu terjadi saat pagi hari (<TIMEX3 tid="t4" type="DATE" value="2015-10-21">Rabu</TIMEX3>) ketika kabut asap menyelimuti Pulau Ambon, kata Ishak pula. 
+
+Dia mengemukakan, kabut asap yang melanda Kota Ambon dan sekitarnya diperkirakan akibat kebakaran hutan di Pulau Seram. 
+
+Rasanya kalau dari luar Maluku relatif tergantung arah angin dan kabut asap di Kota Ambon itu dari kebakaran di Pulau Seram, ujar Ishak. 
+
+Dia menjelaskan, berdasarkan hasil pemantauan satelit cuaca, terdapat 88 titik api di Maluku. 
+
+Sebanyak 88 titik api itu berasal dari kebakaran di Pulau Seram, Pulau Buru, dan Kabupaten Maluku Barat Daya yang secara geografis dekat dengan negara tetangga Timor Leste, katanya pula. 
+
+Namun dia tidak bersedia menjelaskan dampak kabut asap terhadap aktivitas penerbangan, karena merupakan kewenangan Meteorologi Udara di Bandara Pattimura Ambon. 
+
+Sebelumnya, staf prakirawan cuaca Stasiun Meteorologi Pattimura Ambon, Jeanly Uspessy, mengemukakan, kondisi kabut asap di Kota Ambon telah mengancam aktivitas penerbangan karena jarak pandang mendatar hanya 3 km. 
+
+Jarak pandang mendatar di bawah 5 km itu sebenarnya tidak bisa dimanfaatkan untuk aktivitas penerbangan, katanya lagi. 
+
+Hanya saja, perkembangan kabut asap itu tergantung dari kebijakan maskapai penerbangan dan pilot. 
+
+Asap masih berasal dari kebakaran yang terjadi di wilayah Merauke, Papua, dan diperparah dengan fenomena El Nino. 
+
+Kondisi cuaca berdasarkan prakiraan umumnya berawan dan arah angin timur ke selatan dengan kecepatan bervariasi <TIMEX3 tid="t5" type="DATE" value="1025">1025</TIMEX3> km/jam.Karena itu, Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Stasiun Pattimura Ambon telah mengeluarkan peringatan waspada sebaran asap di seluruh wilayah Maluku. 
+</TEXT>
+
+</TimeML>

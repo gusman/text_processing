@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0413</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-22</TIMEX3></DCT>
+
+<TITLE>Kebakaran Hutan dan Lahan - Kabut Asap Selimuti Riau Sejumlah Penerbangan Dibatalkan</TITLE>
+
+<TEXT>
+Memasuki <TIMEX3 tid="t1" type="DATE" value="2018-SU">musim kemarau</TIMEX3>, kebakaran hutan dan lahan atau Karhutla kembali terjadi. 
+
+Setiap tahunnya pemerintah berkerja keras mencegah terjadinya karhutla, namun kebakaran hutan dan lahan masoh terjadi. 
+
+Kabut asap akibat Kebakaran Hutan dan Lahan atau Karhutla kembali terjadi Provinsi Riau satu diantaranya di Kota Dumai. 
+
+Akibatnya sebabkan penerbangan di Bandara Pinang Kampai Dumai Riau dibatalkan. 
+
+Berdasarkan pantauan Air Quality Manajemen Data (AQMD) milik PT CPI, pada <TIMEX3 tid="t2" type="TIME" value="2019-03-21TMO">pagi hari Kamis</TIMEX3> (21/3/2019) <TIMEX3 tid="t3" type="TIME" value="2019-03-21T06:00">sekitar pukul 06.00 pagi</TIMEX3>, kondisi udara di Dumai berada pada angka 208 Psi dengan indikator berwarna merah. 
+
+Ditambah dengan embun <TIMEX3 tid="t4" type="TIME" value="2019-03-22TMO">pagi</TIMEX3> yang lembab, mengikat residu sisa kebakaran hutan dan lahan menjadi terlihat pekat di <TIMEX3 tid="t5" type="TIME" value="2019-03-22TMO">pagi hari</TIMEX3>. 
+
+. 
+
+Disampaikan oleh Ka Manggala Agni Daops Riau Edwin Putra, sejumlah kebakaran terjadi berdekatan dengan Bandara Pinang Kampai membuat kondisi semakin buruk. 
+
+" Beberapa lokasi kebakaran kita sinyalir memang terjadi berdekatan dengan Bandara Pinang Kampai di Dumai, " ungkapnya. 
+
+" Walaupun sudah dilakukan pemadaman dan pendinginan, kondisi lahan yang didominasi gambut menghasilkan asap tebal yang cukup signifikan, " sebut Edwin kemudian. 
+
+// Otoritas Bandara Pinang Kampai, Koordinator Satpel Bandara Pinang Kampai Irvan mengatakan, pihaknya mengutamakan keselamatan dalam penerbangan. 
+
+" Setiap kondisi apapun, kita sangat mengutamakan keselamatan dalam penerbangan. 
+
+<TIMEX3 tid="t6" type="TIME" value="2019-03-21TMO">Pagi tadi</TIMEX3>, berdasarkan informasi forecast cuaca dari Air Navigation, jarak pandang di bawah 1.000 meter dan kita himbau penerbangan untuk dibatalkan, " paparnya. 
+
+Manajemen Wings Air sebagai armada terdampak bahaya asap hingga harus membatalkan penerbangan di Kota Dumai melalui Corporate Communications Strategic Wings Air Danang Mandala Prihantoro mengatakan, bahwa untuk penerbangan dijalankan sesuai Standard Operasional Prosedur (SOP). 
+
+. 
+
+" Hal ini dikarenakan cuaca buruk beruka smoke (kabut asap) mengganggu jarak pandang (jarak pandang pendek) yang tidak memenuhi kualifikasi keselamatan penerbangan, " paparnya kemudian. 
+
+Sebelumnya, Wings Air telah menginformasikan keterlambatan penerbangan pada seluruh penumpang. 
+
+" Atas dasar tersebut, kami memfasilitasi penumpang yang akan melakukan refund, reschedule sesuai ketentuan dan aturan berlaku, " jelasnya. 
+
+Untuk memastikan destinasi penerbangan dari dan menuju Kota Dumai, pihak Wings Air akan berkoordinasi dan komunikasi lebih lanjut dengan instansi pemerintahan terkait. 
+
+Hal ini dimaksudkan agar dapat meminimalisir dampak timbul di kemudian hari. " Dengan demikian operasional lainnya tidak terganggu " tutupnya. 
+
+// Berikut daftar penundaan, pengalihan dan pembatalan penerbangan dengan destinasi dari dan menuju Kota Dumai <TIMEX3 tid="t7" type="DURATION" value="P2D">dua hari</TIMEX3> terakhir:Penerbangan <TIMEX3 tid="t8" type="DATE" value="2019-03-20">Rabu</TIMEX3> (20/ 3)1. 
+
+Wings Air penerbangan IW-1239 Medan Kualanamu Dumai pengalihan pendaratan (divert) ke Pekanbaru.2. 
+
+Wings Air penerbangan IW-1279 Dumai Pekanbaru mengalami keterlambatan keberangkatan.3. 
+
+Wings Air penerbangan IW-1277 Dumai Batam mengalami keterlambatan keberangkatan. 
+
+Penerbangan <TIMEX3 tid="t9" type="DATE" value="2019-03-21">Kamis</TIMEX3> (21/ 3)1. 
+
+Wings Air penerbangan IW-1279 Dumai Pekanbaru mengalami keterlambatan keberangkatan.2. 
+
+Wings Air penerbangan IW-1277 Dumai Batam mengalami keterlambatan keberangkatan.3. 
+
+Wings Air penerbangan IW-1239 Medan Kualanamu Dumai batal.4. 
+
+Wings Air penerbangan IW-1239 Medan Kualanamu Dumai batal. 
+
+(Sumber: Corporate Communications Strategic Wings Air Danang Mandala Prihantoro). 
+
+Sementara itu dilansri Kompas. 
+
+com Badan Penanggulangan Bencana Daerah (BPBD) memantau kondisi kebakaran hutan dan lahan (karhutla) di Riau melalui udara, <TIMEX3 tid="t10" type="DATE" value="2019-03-21">Kamis (21/3/2019)</TIMEX3>. 
+
+Dari pantauan itu, masih terdapat beberapa titik api kebakaran yang mesti ditangani lebih serius. 
+
+" Tadi kami bersama Manggala Agni, TNI dan Polri meninjau beberapa titik karhutla mulai dari Pelalawan, Indragiri Hulu dan Indragiri Hilir, " kata Kepala BPBD Riau Edwar Sanger saat diwawancarai Kompas. 
+
+com, <TIMEX3 tid="t11" type="DATE" value="2019-03-21">Kamis</TIMEX3>. 
+
+Dari hasil pemantauan, sambung dia, ada beberapa titik api yang memang harus ditangani lebih serius, yakni di Kabupaten Inhu dan Pelalawan. 
+
+" Tadi di Sungai Guntung, Inhu, kami melihat ada beberapa titik api yang harus kami padamkan, karena (titik api) itu sudah berbatasan langsung dengan SM (Suaka Margasatwa) Karumutan, " ujar Edwar. 
+
+Kemudian, lanjut dia, kebakaran juga masih parah di Kabupaten Pelalawan dan Inhil, yang perlu menjadi perhatian khusus oleh tim Satgas Karhutla Riau. 
+
+" Kalau yang di Inhil saya kira tinggal titik-titik asap saja yang akan dituntaskan, " ujar Edwar. 
+
+Menurutnya, titik api karhutla di Riau sedikit berkurang setelah diguyur hujan dengan intensitas sedang. 
+
+" Alhamdulillah, tadi <TIMEX3 tid="t12" type="TIME" value="2019-03-22TMO">pagi</TIMEX3> ada hujan sehingga kami terbantu di sana (Sungai Guntung Hilir). 
+
+Setelah kami pantau tadi, ada asap-asap tipis yang harus kami tuntaskan. 
+
+Kami juga melihat tadi tim satgas darat, TNI, Polri, Manggala Agni, BPBD dan masyarakat yang sudah optimalisasi melakukan pemadaman di sana, " ucap Edwar.Untuk diketahui, luas kebakaran hutan dan lahan di Kabupaten Inhu sejak <TIMEX3 tid="t13" type="DATE" value="2019-01">Januari 2019</TIMEX3>, sekitar 51.5 hektar, sedang di Pelalawan lebih kurang 72 hektar. 
+
+Kebakaran di dua wilayah ini sangat sulit dipadamkan, karena gambut cukup dalam, mulai dari tiga hingga lima meter. 
+
+Kebakaran lahan gambut tersebut, juga mengakibatkan pemukiman warga diselimuti kabut asap. 
+</TEXT>
+
+</TimeML>

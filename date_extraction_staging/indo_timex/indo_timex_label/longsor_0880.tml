@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0880</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-01-24" temporalFunction="false" functionInDocument="CREATION_TIME">2016-01-24</TIMEX3></DCT>
+
+<TITLE>Akibat Tanah Longsor Bangunan Puskeskel Nyaris Ambruk</TITLE>
+
+<TEXT>
+Sebuah bangunan Pusat Kesehatan Kelurahan (Puskeskel) di wilayah Dusun Meringang Baru, Kelurahan Penjalang, Kecamatan Dempo Selatan nyaris ambruk terbawa longsor. 
+
+Kondisi tersebut disebabkan kultur tanah yang labil, serta ditambah dengan hujan deras yang terus mengguyur Kota Pagaralam. 
+
+Informasi yang dihimpun Sripoku. 
+
+com, pondasi bangunan Puskeskel bisa saja dalam waktu dekat ambruk. 
+
+Pasalnya tebing yang ada dibelakang bangunan sudah longsor. 
+
+Parahnya jarak longsor dengan pondasi bangunan hanya tinggal beberapa centimeter lagi. 
+
+Camat Dempo Selatan, Yusman Sohar melalui Lurah Penjalang, Selamat Seropani mengatakan, bagian dinding bangunan Puskeskel di Kelurahan Penjalang mengalami longsor memiliki tinggi 4 meter dan panjang 9 meter. 
+
+Lokasinya, berada persis di pinggiran jalan Dusun Meringang Baru. 
+
+" Informasi dinding penahan bangunan Puskeskel Penjalang terkena longsor dan nyaris ambruk ini kita ketahui pada <TIMEX3 tid="t1" type="TIME" value="2016-01-18TNI">Senin (18/1) malam</TIMEX3>. 
+
+Dan begitu mengetahui kabar itu dan benar adanya, kita langsung mengontak pihak kecamatan untuk memberikan informasi secara lisan, kemudian <TIMEX3 tid="t2" type="DATE" value="2016-01-25">keesokan harinya</TIMEX3> dibuat laporan tertulis, " ujar Selamat. 
+
+Selamat mengakui, longsornya pinggiran bangunan Puskeskel kelurahan tersebut tidak lain karena kondisi kultur tanah yang labil, sehingga begitu hujan turun berintensitas cukup tinggi, mengakibatkan pinggiran tanah ini tergerus hingga beberapa meter ke bawah. " <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> posisi bangunan Puskeskel Kelurahan itu masih ditunggu bidan desa, yang bertugas memberikan pelayanan kesehatan bagi masyarakat yang tinggal di Kelurahan Penjalang yang ingin mendapatkan pengobatan, " katanya.(*) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0407</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-02-12" temporalFunction="false" functionInDocument="CREATION_TIME">2016-02-12</TIMEX3></DCT>
+
+<TITLE>Enam Hari setelah Gempa Taiwan, 67 Tewas dan 57 Orang Hilang</TITLE>
+
+<TEXT>
+Jumlah korban jiwa akibat gempa bumi yang mengguncang Kota Tainan di Taiwan Selatan pada Sabtu (6/2/2016) telah naik 67 sampai pukul 21.48 waktu setempat, Kamis (11/2/2016), dan 57 orang lagi belum ditemukan.
+
+Gedung 16-lantai Wei Guan ambruk ke arah jalanan di sisi timur beberapa detik setelah gempa, demikian keterangan resmi terkini mengenai korban jiwa, sebagaimana diberitakan Xinhua --yang dipantau Antara di Jakarta, Jumat pagi.
+
+Sebanyak 238 orang diselamatkan dari gedung itu, tapi 57 orang masih belum ditemukan hampir enam hari setelah gempa.
+
+Gempa tersebut, yang oleh Lembaga Gempa Bumi Tiongkok dicata memiliki kekuatan 6,7 pada Skala Richter, mengguncang Taiwan Selatan pada pukul 03.57 pada Sabtu, cuma dua hari sebelum Tahun Baru Tionghoa, Imlek.
+
+Petugas pertolongan yang melancarkan upaya pencarian segera setelah gempa dan masih bekerja keras untuk melucuti gedung itu dan mencari orang yang hilang.
+
+Tapi lebih dari tiga hari berlalu sejak penyintas sebelumnya diselamatkan.
+
+(Antara)
+</TEXT>
+
+</TimeML>
+

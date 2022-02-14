@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0154</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-02" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-02</TIMEX3></DCT>
+
+<TITLE>Kembalikan Lahan Gambut ke Kodratnya</TITLE>
+
+<TEXT>
+Kepala Badan Nasional Penanggulangan Bencana (BNPB) Letjen TNI Doni Monardo menekankan pentingnya mengembalikan lahan gambut ke kodratnya. 
+
+Hal itu guna mencegah bencana kebakaran hutan dan lahan berulang. 
+
+Kembalikan gambut sebagaimana kodratnya, yaitu basah, berair, dan berawa, katanya dalam siaran pers BNPB pada <TIMEX3 tid="t1" type="DATE" value="2019-10-01">Selasa (1/10)</TIMEX3>, bertepatan dengan Hari Kesaktian Pancasila. 
+
+Ia mengatakan gambut yang terbentuk dari akumulasi sisa-sisa tumbuhan yang setengah membusuk merupakan batu bara muda. 
+
+Jika mengering maka gambut tersebut akan sangat mudah terbakar dan sulit dipadamkan. 
+
+Pemadaman kebakaran yang terjadi di lahan gambut yang kering dengan kedalaman beragam sampai 30 meter, menurut dia, sangat sulit. 
+
+Baik oleh personel darat, pengeboman air, bahkan dengan hujan buatan, katanya. 
+
+Cara yang paling baik untuk mencegah kebakaran lahan gambut berulang, menurut dia, adalah memulihkan ekosistem lahan gambut, termasuk mengembalikan lahan gambut menjadi lahan yang basah, berair, dan berawa. 
+
+Menurut data BNPB, luas area hutan dan lahan yang terbakar dari awal tahun hingga <TIMEX3 tid="t2" type="DATE" value="2019-08">Agustus 2019</TIMEX3> total 328.724 hektare yang meliputi 239.161 hektare lahan mineral dan 89.563 hektare lahan gambut. 
+
+Data Kementerian Lingkungan Hidup dan Kehutanan mencatat area hutan dan lahan yang terbakar paling luas di Nusa Tenggara Timur. 
+
+Kebakaran hutan dan lahan di wilayah itu, menurut Doni, berbeda dengan yang terjadi di enam provinsi lainseperti Sumatra Selatan, Jambi, Riau, Kalimantan Barat, Kalimantan Tengah, dan Kalimantan Selatan, yang utamanya terjadi di lahan gambut sehingga sulit dipadamkan dan memunculkan kabut asap. 
+
+Data citra satelit Lapan dalam <TIMEX3 tid="t3" type="DURATION" value="PT24H">24 jam</TIMEX3> terakhir menunjukkan 697 titik panas indikasi awal kebakaran hutan dan lahan tersebardi wilayah SumateraSelatan (106), Jambi (46), Kalimantan Selatan (148), danKalimantan Tengah (65). 
+
+Titik panas tidak terdeteksi di wilayah Riau dan Kalimantan Barat. 
+
+Hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, 29.039 personel telah diturunkan untuk memadamkan kebakaran hutan dan lahan. 
+
+Sebanyak 45 helikopter juga sudah dikerahkan untuk melakukan patroli dan pengeboman air. 
+
+Selain itu, BPPT dan TNI sudah menebar228 ton garam untuk memicu hujan melalui penerapan teknologi modifikasi cuaca. 
+
+Doni mengapresiasi peran TNI, Polri, KLHK, BMKG, BPPT, Manggala Agni, BPBD, warga, dan sukarelawan yang terlibat dalam upaya pemadaman kebakaran hutan dan lahan. 
+
+Mereka yang memadamkan api adalah para pejuang kemanusiaan, katanya. 
+
+Sementara itu, Tim gabungan pemadam bersama sejumlah aparat terkait di Kalimantan Selatan terus berupaya memadamkan kebakaran hutan dan lahan (karhutla) di provinsi yang terdiri atas 13 kabupaten/kota tersebut. 
+
+Pemadaman melibatkan petugas pemadam bersama aparat terkait. 
+
+Berdasarkan pantauan di Kalsel, <TIMEX3 tid="t5" type="DATE" value="2019-10-01">Selasa (1/10)</TIMEX3>, aparat yang terlibat, di antaranya anggota TNI serta kepolisian setempat terus berupaya memadamkan karhutla, terutama pada kawasan yang masih terlihat kobaran api. 
+
+Selain itu, berupaya meminimalkan kepulan asap pada lahan gambut dengan terus melakukan penyiraman sehingga api yang masih membara betul-betul padam.Seperti pada wilayah Kota Banjarbaru, Kabupaten Banjar, Tanah Laut (Tala) dan Kabupaten Barito Kuala (Batola) masih terdapat beberapa kawasan yang rawan karhutla, kecuali <TIMEX3 tid="t6" type="DATE" value="2018-WI">musim hujan</TIMEX3> sudah betul-betul tiba bisa terselamatkan dari kebakaran. 
+
+Sebab, kabut asap masih membayang-bayangi beberapa wilayah Kalsel yang luasnya sekitar 3,7 juta hektare (ha), seperti terlihat di Kota Banjarmasin yang berjuluk kota seribu sungai pada <TIMEX3 tid="t7" type="TIME" value="2019-10-01TMO">pagi Selasa</TIMEX3>.Padahal, guyuran hujan lebat terjadi <TIMEX3 tid="t8" type="DURATION" value="P2D">dua hari</TIMEX3> berturut-turut <TIMEX3 tid="t9" type="DATE" value="2019-10-25">tanggal 25</TIMEX3> dan <TIMEX3 tid="t10" type="DATE" value="2019-09-26">26 September lalu</TIMEX3>. 
+
+Namun, belum bisa memadamkan karhutla secara keseluruhan atau utuh.Sementara kabut asap tipis yang menyelimuti kota seribu sungai atau ibu kota Kalsel tersebut tidak mengganggu kelancaran lalu lintas karena jarak pandang lebih satu kilometer. 
+
+Warga masyarakat Banjarmasin berharap, seiring dengan kembali guyuran hujan pada <TIMEX3 tid="t11" type="TIME" value="2019-10-01TAF">sore Selasa</TIMEX3> (1/10) bisa menghilangkan kabut asap di seantero Kalsel, khususnya wilayah ibu kota provinsi tersebut.(rep) 
+</TEXT>
+
+</TimeML>

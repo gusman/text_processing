@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0759</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-01</TIMEX3></DCT>
+
+<TITLE>GMNI-HMI Cabang Aru Galang Dana Untuk Korban Gempa Ambon</TITLE>
+
+<TEXT>
+Gerakan Mahasiswa Nasional Indonesia (GMNI) dan Himpunan Mahasiswa Islam (HMI) Cabang Kabupaten Kepulauan Aru menggelar aksi penggalangan dana untuk membantu korban gempa Ambon dan sekitarnya. 
+
+Pantauan media ini, <TIMEX3 tid="t1" type="DATE" value="2019-09-30">Senin (30/9/2019)</TIMEX3> aksi penggalangan dana untuk korban Gempa dilakukan di seputaran Tugu Cenderawsih Dobo, jl. 
+
+Ali Moertopo, Kelurahan Siwalima, Kecamatan Pulau-pulau Aru. 
+
+Koordinator Lapangan (Korlap), Hamja Kaidel dan Pemandu aksi Udin Basafin serta jumlah mahasiswa yang ikut dalam aksi itu sebanyak 20 orang. 
+
+Adapun Tujuan dari aksi tersebut, untuk meminta sumbangan untuk membantu para korban yang tertimpa musibah gempa bumi di Kota Ambon Provinsi Maluku pada <TIMEX3 tid="t2" type="DATE" value="PXD">beberapa hari kemarin</TIMEX3>. 
+
+Dalam aksi ini pula, para mahasiswa (GMNI dan HMI) menghimbau kepada lapisan masyarakat di Kabupaten Kepulauan Aru untuk berpartisipasi dalam menyalurkan sumbangan sukarela kepada para korban yang telah mengalami musibah gempa bumi di Kota Ambon dan sekitarnya. 
+
+Kami berharap bagi masyarakat di Dobo dan sekitarnya bisa berpartisipasi dalam mendonasikan uangnya untuk disalurkan ke para korban terkena Gempa Bumi, kata Korlap Hamja Kaidel. 
+
+Karena duka mereka (Korban Gempa Ambon) adalah duka kita semua, sebagai satu Bangsa Indonesia, tambahnya lagi. 
+
+
+</TEXT>
+
+</TimeML>

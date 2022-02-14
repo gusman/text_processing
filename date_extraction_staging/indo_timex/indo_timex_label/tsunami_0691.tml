@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0691</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-29</TIMEX3></DCT>
+
+<TITLE>Unek-unek Ifan Seventeen Meluap Pada BMKG saat Diwawancarai TvOne, Kenapa Dibilang Gelombang Pasang</TITLE>
+
+<TEXT>
+Unek-unek Ifan Seventeen pada BMKG meluap <TIMEX3 tid="t1" type="DURATION" value="UNKNOWN">pasca 1 minggu</TIMEX3> Tsunami Banten terjadi. 
+
+Unek-unek Ifan Seventeen itu ia sampaikan kepada TvOne ketika diwawancarai lewat teleconference <TIMEX3 tid="t2" type="DATE" value="2018-12-28">Jumat (28/12/2018)</TIMEX3>. 
+
+Unek-unek yang dilontarkan Ifan Seventeen itu bukan karena musibah yang ia alami dan harus merenggut nyawa istri dan 3 personel band-nya. 
+
+Namun, Ifan Seventeen mengkritisi informasi yang sempat disampaikan oleh BMKG (Badan Meteorologi, Klimatologi, dan Geofisika) yang <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3> sempat diralat oleh BMKG. 
+
+. 
+
+Dukungan yang dimaksud Ifan adalah untuk menyuarakan apa yang selama ini menjadi pertanyaan dirinya pasca tsunami Banten menerjang pada <TIMEX3 tid="t4" type="DATE" value="2018-12-28">Sabtu (28/12/2018)</TIMEX3>. 
+
+Hal ini diungkapkan Ifan saat menjadi narasumber secara teleconference di acara Kabar <TIMEX3 tid="t5" type="TIME" value="2018-12-28TEV">Petang</TIMEX3>, TVOne, <TIMEX3 tid="t6" type="DATE" value="2018-12-28">Jumat (28/12/2018)</TIMEX3>. 
+
+Mulanya ia tampak santai mengatakan soal bencana tsunami yang terjadi, namun BMKG menyebutnya sebagai ombak tinggi. 
+
+" Sebenarnya ada yang masih penasaran di aku, ini terkait masalah BMKG, " ujarnya. 
+
+// " Jadi aku ingat setelah kejadian Ade Jigo ngirim video upload kalau itu tsunami, kembaranku juga instastory kalau itu tsunami soalnya hp nya selamat, ini berarti bencana tsunaminya jelas terjadi. 
+
+" Vokalis Seventeen ini lalu melontarkan protes pada BMKG yang menganggap itu hanya ombak pasang. 
+
+" Tapi kenapa BMKG mengeluarkan pemberitahuan kalau itu hanya ombak pasang, " protes Ifan. 
+
+. 
+
+" Ya maksudnya ini hal-hal yang harus aku sampaikan ke publik, karena beberapa kali aku mencoba menyampaikan kebenaran soal tenaga kerja asing sampai persekusi ulama alhamdulillah TvOne selalu mendukungku. 
+
+" " Kali ini aku mau ngomong buat apa ada BMKG kalau pemberitahuan setelah bencana saja salah, buat apa, " ujarnya sambil meluapkan emosi. 
+
+Tak hanya di situ, Ifan Seventeen terlihat kembali meluapkan emosi saat mengkritisi BMKG. 
+
+Ia menganggap BMKG tidak lagi berguna di saat memberikan informasi pasca terjadinya bencana. 
+
+" Aku nggak mencari kambing hitam atas kesedihanku, aku cukup dewasa, aku nggak mencoba menyalahkan atas musibah yang bencana, maksudku gini loh " ungkap Ifan Seventeen " BMKG itu badan yang dibangun untuk memperingatkan masyarakat terhadap tanda-tanda adanya bencana, kan begitu? Kalau informasinya dikeluarkan setelah adanya bencana ini kan berarti useless, " lanjutnya // 'Tapi kalau informasinya dikeluarkan setelah bencana ternyata salah aku juga nggak ngerti lagi. 
+
+" " Maksudku gini apa yang kusampaikan ini seenggak-enggaknya mungkin berguna, karena aku nggak pengen saudara-saudaraku merasakan apa yang aku rasain <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>, " tambahnya. 
+
+Lalu, ia menambahkan bahwa seharusnya sebagai badan yang berfungsi memberikan peringatan akan bencana alam, seharusnya BMKG juga berperan aktif. 
+
+" Seventeen itu manggung acara BUMN, which is itu badan milik negara, masak PLN yang ngundang sendiri aja itu nggak dapat peringatan apapun itu, " katanya. 
+
+" Jadi yang dia bilang Ada peringatan bla bla bla apapun itu kalau aku sih bullshit (omong kosong), " tambahnya. 
+
+Sementara dilansir dari Tribunnews, pernyataan ombak besar tersebut memang pernah dikemukakan oleh BMKG. 
+
+Pada <TIMEX3 tid="t8" type="DATE" value="2018-12-22">Sabtu (22/12/2018)</TIMEX3> sekira <TIMEX3 tid="t9" type="TIME" value="2018-12-28T23:00">pukul 23.00 WIB</TIMEX3>, wilayah Pantai Carita dikabarkan dihantam ombak besar yang mengakibatkan tembok roboh. 
+
+Atas kejadian tersebut, warga panik dan melarikan diri.Namun, BMKG memastikan bahwa fenomena tersebut merupakan gelombang pasang biasa dan bukan tsunami. 
+
+// Dalam akun twitternya, BMKG menginformasikan bila pihaknya tidak mencatat adanya gempa yang menyebabkan tsunami <TIMEX3 tid="t10" type="TIME" value="2018-12-29TNI">malam ini</TIMEX3>. 
+
+" BMKG tidak mencatat adanya gempa yang menyebabkan tsunami <TIMEX3 tid="t11" type="TIME" value="2018-12-29TNI">malam ini</TIMEX3>. 
+
+Yang terjadi di Anyer dan sekitarnya bukan tsunami, melainkan gelombang air laut pasang, " tulis dalam twitter BMKG, <TIMEX3 tid="t12" type="DATE" value="2018-12-22">Sabtu (22/12/2018)</TIMEX3>. 
+
+Gelombang air laut pasang tersebut seiring dengan terjadinya bulan purnama pada <TIMEX3 tid="t13" type="TIME" value="2018-12-29TNI">malam ini</TIMEX3>. 
+
+" Terlebih <TIMEX3 tid="t14" type="TIME" value="2018-12-29TNI">malam ini</TIMEX3> ada fenomena bulan purnama yang menyebabkan air laut pasang tinggi, " tambah BMKG dalam akun twitternya <TIMEX3 tid="t15" type="DATE" value="PAST_REF">saat itu</TIMEX3>. 
+
+Gelat aneh istri Ifan SeventeenSelain mengkritik BMKG, dalam wawancaranya dengan TvOne, Ivan Seventeen juga menceritakan gelagat aneh iistrinya, Dylan Sahara yang turut jadi korban meninggal dunia Tsunami Banten. 
+
+Mulanya, pembawa acara bertanya soal perkataan terkahir Dylan Sahara yang hingga <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">kini</TIMEX3> masih diingat oleh Ifan Seventeen. 
+
+Ifan bercerita bahwa ada hal aneh yang tak biasa dilakukan Dylan. 
+
+Menurut Ifan, Dylan menemui Ifan di belakang panggung sesaat sebelum Seventeen tampil dalam acara yang diselenggarakan perusahaan BUMN tersebut. 
+
+" Ya banyak sih (kenangan bersama Dylan), sebelum kejadian istri sempat nyamperin ke belakang panggung, kita sempat lunch bareng, main di pantai, tidur <TIMEX3 tid="t17" type="TIME" value="2018-12-28TAF">siang</TIMEX3> dia masih di sampingku, " ujar Ifan. " Dia nyamperin aku di belakang panggung tiba-tiba dia nyamperin itu hampir nggak pernah, " tambahnya.Lalu, Ifan juga masih mengingat perkataan Dylan pada dirinya yang bertanya soal perasaan Ifan. " Bilang kamu sayang nggak? Kamu cinta nggak? Kamu kangen nggak?, " kata Ifan menirukan perkataan almarhumah istrinya tersebut.Namun, bukannya menjawab pertanyaan Dylan, Ifan justru memarahinya. " Ya kan aku nggak tahu, cuma dia tiba-tiba minta pangku dan nanya gitu aja kan agak bingung, ya ku marahi lah, udah dinikahi kok masih tanya, dia minta cium terus nggak kena, " tambahnya.Diketahui, <TIMEX3 tid="t18" type="DURATION" value="UNKNOWN">pasca lima hari</TIMEX3> terjadinya tsunami, selain Dylan Sahara, rekan satu band Ifan juga meninggal dunia tersapu tsunami.Kenangan bersama rekan satu bandnya hingga <TIMEX3 tid="t19" type="DATE" value="PRESENT_REF">kini</TIMEX3> masih diingat Ifan.Ia mengatakan bahkan belum bisa membedakan bahwa rekan dan istrinya itu sudah meninggal. " Kalau dibilang ikhlas ya ikhlas tapi kadang logika ku juga berkata kayak it happen to fast. " " Rasanya masih ada, jadi kayak istriku masih ada, kalau ke depan itu suka masih nungguin dia keluar dari pintu, " kata Ifan sambil tertawa mengingat hal-hal yang ia lakukan. " Hal-hal konyol, kadang suka keingat apa suka mau telpon Herman, karena terjadi begitu cepat kayak logika ku belum merekam itu, " tambahnya.Terkait rencana ke depan pasca ditinggal istri dan rekannya, Ifan Seventeen masih akan melakukan penyembuhan untuk dirinya. " Belum tahu sih ke depannya kayak apa, <TIMEX3 tid="t20" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> aku mencoba recovery <TIMEX3 tid="t21" type="DATE" value="PAST_REF">dulu</TIMEX3> deh, " ujar vokalis Seventeen tersebut.Diberitakan sebelumnya, Dylan Sahara, Herman, Andi, dan Bani menjadi korban terjangan tsunami Selat Sunda pada <TIMEX3 tid="t22" type="DATE" value="2018-12-22">Sabtu (22/12/2018)</TIMEX3>.Mereka meninggal dunia dan telah dimakamkan oleh keluarga masing-masing.Saat ini, Seventeen hanya menyisakan satu orang personel di vokal yakni Ifan.Simak juga video selengkapnya berikut: 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0302</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-02" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-02</TIMEX3></DCT>
+
+<TITLE>Kodim   Polres Gorut Turun Tangan Atasi Tanah Longsor dan Banjir</TITLE>
+
+<TEXT>
+Komando Resor Militer (Kodim) 1314/Gorontalo Utara dan Kepolisian Resor Gorontalo Utara (Polres Gorut) turun tangan atasi banjir dan tanah longsor di beberapa wilayah di Kabupaten Gorut. 
+
+Seperti tanah longsor di Kecamatan Anggrek, tepatnya di perbatasan antara Desa Putiana dan Desa Popalo. 
+
+Bahkan, Dandim 1314/Gorut, Wakapolres Gorut dan Kasat Lantas Polres Gorut nampak turun langsung melakukan monitoring. 
+
+Berdasarkan informasi yang diterima, tanah longsor terjadi <TIMEX3 tid="t1" type="TIME" value="2020-03-01T07:30">sekitar pukul 07.30</TIMEX3> wita. 
+
+Tapi, sejak <TIMEX3 tid="t2" type="TIME" value="2020-03-01T06:00">pukul 06.00</TIMEX3> wita tadi <TIMEX3 tid="t3" type="TIME" value="2020-03-02TMO">pagi</TIMEX3> tanda-tandanya sudah ada, karena tanah kelihatan mulai berjatuhan, ungkap Wawan, salah seorang warga setempat. 
+
+Tanah longsor tersebut sempat memutuskan akses jalan Anggrek Monano sekitar kurang lebih <TIMEX3 tid="t4" type="DURATION" value="PT1H">sejam</TIMEX3>. 
+
+Setelah diturunkan alat berat, <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">kini</TIMEX3> akses jalan sudah bisa dilewati. 
+
+Hanya memang para pengendara yang melintas diminta untuk berhati-hati, karena masih ada sisa tanah yang bisa sewaktu-waktu jatuh, lanjutnya. 
+
+Dandim 1314/Gorut, Letkol Armed Firtsya Andrean Gitrias mengaku banjir maupun tanah longsor yang terjadi di wilayah Gorut ini menjadi hal yang patut jadi perhatian bersama. 
+
+Kami dari Kodim dan Polres Gorut telah dan terus mengantisipasi bencana banjir dan longsor ini. 
+
+Semua jajaran, terlebih Babinsa dan Babinkamtibmas telah turun melakukan pemantauan dan penanganan sejak <TIMEX3 tid="t6" type="TIME" value="2020-03-01TAF">sore kemarin</TIMEX3> (<TIMEX3 tid="t7" type="DATE" value="2020-03-01">Minggu</TIMEX3>), ujar Dandim. 
+
+Hingga <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tim dari Kodim 1314/Gorut dan Polres Gorut terus memantau dan melakukan penanganan bencana banjir dan tanah longsor ini. 
+
+Seperti diketahui, <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> banjir tanah longsor terjadi di wilayah Kecamatan Atinggola, Tomilito, Anggrek dan Monano. 
+
+(ind-56) 
+</TEXT>
+
+</TimeML>

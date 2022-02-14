@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0263</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-09" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-09</TIMEX3></DCT>
+
+<TITLE>PMI dan PMR Galang Bantuan untuk Donggala</TITLE>
+
+<TEXT>
+Palang Merah Remaja (PMR) Gabungan SMA di Kabupaten Kaur dan Palang Merah Indonesia (PMI) Kaur <TIMEX3 tid="t1" type="DATE" value="2018-10-08">Senin</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2018-10-08">(08/10/2018)</TIMEX3> menggelar penggalangan dana untuk korbanTsunami dan Gempa bumi di Palu, Donggala dan Sigi. 
+
+Kegiatan ini diikuti anggota PMR dan PMI Kaur yang berjumlah sekira 30 orang. 
+
+Koordinator penggalangan dana, Ratna menyampaikan bahwa kegiatan untuk <TIMEX3 tid="t3" type="DATE" value="2018-10-09">hari ini</TIMEX3> ada 3 titik, titik pertama tadi depan Kuliner Kaur di Lapangan Merdeka Bintuhan. 
+
+Dan <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> ada dua titik di depan Polres Kaur dan Simpang Perkantoran Padang Kempas. 
+
+Semangat kawan-kawan cukup luar biasa, walaupun berpanas-panasan dengan terik matahari <TIMEX3 tid="t5" type="DATE" value="2018-SU">musim kemarau ini</TIMEX3>, tidak menyurutkan niat dan semangat kami. 
+
+Kami bertindak atas nama kemanusiaan inilah yang dapat kami lakukan, katanya. 
+
+Mudah-mudah apa yang kami lakukan ini sedikit membantu saudara-saudara kita yang sedang dilanda musibah. 
+
+Kita akan terus bergerak di hari-hari kedepan, insyAllah sumbangan dari pengguna jalan dan saudara-saudara kita yang peduli ini akan barokah, sambungnya. 
+
+Fina, salah seorang anggota PMR SMAN 1 Kaur, menyampaikan inilah bukti kongkrit sebagai anak bangsa yang bahu membahu membantu saudara kita yang mengalami kesulitan di Palu dan Donggala. 
+
+Insyaallah sumbangan yang terkumpul nantinya sedikit membantu dan akan menjadi bagian dari kepedulian kita, ungkap Fina. 
+
+Feri 
+</TEXT>
+
+</TimeML>

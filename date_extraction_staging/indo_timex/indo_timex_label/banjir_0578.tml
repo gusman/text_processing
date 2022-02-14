@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0578</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-29" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-29</TIMEX3></DCT>
+
+<TITLE>Hujan 11 Jam, DAS Kapuas Meluap</TITLE>
+
+<TEXT>
+Hujan selama <TIMEX3 tid="t1" type="TIME" value="PT11H">11 jam</TIMEX3> yang mengguyur Kabupaten Kapuas pada <TIMEX3 tid="t2" type="TIME" value="2019-10-26TNI">Sabtu (26/10) malam</TIMEX3> sejak <TIMEX3 tid="t3" type="TIME" value="2019-10-28T20:00">pukul 20.00 WIB</TIMEX3> sampai <TIMEX3 tid="t4" type="TIME" value="2019-10-27TMO">Minggu (27/10) pagi</TIMEX3>, mengakibatkan naiknya debit air di Daerah Aliran Sungai (DAS) Kapuas. 
+
+Luapan air sungai pun mulai menggenangi desa-desa. 
+
+Informasinya, <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> banjir telah merendam Desa Jakatan Masaha, Kecamatan Mandau Telawang. 
+
+Luapan air sungai juga mulai masuk ke Desa Sei Pinang dengan ketinggian <TIMEX3 tid="t6" type="DATE" value="2019-04-01">1-4</TIMEX3> cm. 
+
+Kondisi ini tentu merepotkan warga setempat. 
+
+Hujan merata sampai bagian desa paling hulu, Desa Tumbang Bukoi. 
+
+Sementara desa-desa yang ada di bawahnya atau bagian hilir, sebagian warga yang rumahnya ada di dataran rendah juga sudah mengepak dan bersiap menempatkan barang berharganya di tempat yang lebih tinggi. 
+
+Jujur saja untuk wilayah desa kami memang setiap tahunnya menjadi langganan banjir kiriman seperti ini dan masyarakat sudah terbiasa. 
+
+Namun demikian, kami selaku aparatur desa selalu mengingatkan kepada mereka untuk tetap dan selalu meningkatkan kewaspadaan apabila banjir datang, kata Abdul Kadir, Kepala Desa Jakatan Masaha, <TIMEX3 tid="t7" type="DATE" value="2019-10-28">Senin (28/10)</TIMEX3>. 
+
+Walaupun air yang merendam kampung mereka berangsur surut, jajaran aparatur Desa Jakatan Masaha tetap mengimbau warganya untuk tetap menjaga kewaspadaan. 
+
+Terlebih dengan mulai meningkatnya intensitas hujan yang turun dalam <TIMEX3 tid="t8" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir, sudah tentu air yang <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> menggenangi hanya sampai lutut orang dewasa, bukan tidak mungkin akan lebih tinggi dan datangnya pun secara tiba-tiba. 
+
+Oleh karena itu, kepada seluruh warga terutama yang rumahnya tidak berbentuk panggung untuk selalu meningkatkan kewaspadaan. 
+
+Setidaknya kerugian baik harta maupun benda bahkan korban jiwa dapat dihindari, sebab mereka sudah siap apabila banjir susulan datang, kata Abdul Kadir, melalui sambungan telepon. 
+
+c-yul 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0460</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-06" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-06</TIMEX3></DCT>
+
+<TITLE>Begitu Keluar dari Reruntuhan, Justru Kondisi Temannya yang Ditanyakan Dianti Putri</TITLE>
+
+<TEXT>
+Satu korban longsor di kawasan Bandara Soekarno-Hatta Tangerang, Dianti Dyah Ayu Cahyani alias Putri meninggal dunia di RS Mayapada Tangerang, <TIMEX3 tid="t1" type="DATE" value="2018-02-06">Selasa (6/2/2018)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2018-02-05T06:45">pukul 06.45 WIB</TIMEX3>. 
+
+Sebelumnya, Putri sempat selamat dan bisa diajak komunikasi, setelah terjebak selama <TIMEX3 tid="t3" type="DURATION" value="PT10H">10 jam</TIMEX3> di bawah reruntuhan beton. 
+
+Putri dibawa ke RSUD Kabupaten Tangerang setelah berhasil dievakuasi tim SAR gabungan pada <TIMEX3 tid="t4" type="TIME" value="2018-02-05T03:00">pukul 03.00 WIB</TIMEX3>. 
+
+<TIMEX3 tid="t5" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, Putri masih dalam kondisi sadar meski mengalami trauma berat dan tubuhnya melemah. 
+
+Tak lama kemudian kondisinya terus melemah. 
+
+Karena peralatan di RSUD itu kurang mendukung, akhirnya Putri dirujuk ke RS Mayapada, Kota Tangerang, pada <TIMEX3 tid="t6" type="TIME" value="2018-02-05T04:30">pukul 04.30 WIB</TIMEX3>. 
+
+Namun, belum lama mendapat penanganan tim medis di rumah sakit tersebut, kondisi Putri terus memburuk, hingga akhirnya dia dinyatakan meninggal dunia. 
+
+" Kami dapat kabar dari orang tua Putri, Putri meniggal dunia, " ujar reporter stasiun televisi yang menyampaikan laporan peliputannya dari RS Mayapada Tangerang. 
+
+Dijelaskannya, hingga <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada keterangan resmi dari pihak RS Mayapada. 
+
+Diberitakan sebelumnya, mobil yang ditumpangi oleh Diantri Putri dan temannya, Mutmainah, tertimpa reruntuhan beton dan tanah saat melintas di underpass Jalan Parimeter Selatan Bandara Soekarno Hatta, Tangerang, Banten, pada <TIMEX3 tid="t8" type="TIME" value="UNKNOWN">Senin (5/2/2018) sore kemarin</TIMEX3>, <TIMEX3 tid="t9" type="TIME" value="2018-02-05T17:00">sekitar pukul 17.00 WIB</TIMEX3>.Keduanya merupakan karyawati Garuda Maintenance Facility (GMF) Aeroasia, anak perusahaan PT Garuda Indonesia (Persero). 
+
+// Tim SAR gabungan berhasi mengeluarkan Dianti Putri dari dalam mobil tersebut dengan selamat pada <TIMEX3 tid="t10" type="TIME" value="2018-01-30T03:00">Selasa pukul 03.00</TIMEX3> setelah proses panjang evakuasi. 
+
+Ada <TIMEX3 tid="t11" type="DURATION" value="PT9H">sekitar 9 jam</TIMEX3> Putri terhimpit di mobil tersebut. 
+
+Sementara, temannya, Mutmainah, baru bisa dikeluarkan dari dalam mobil yang tertimpa beton dan tanah itu <TIMEX3 tid="t12" type="TIME" value="2018-02-05T07:00">sekitar pukul 07.00 WIB</TIMEX3> atau setelah lebih 13 jam tertimbun. 
+
+Sempat Tanyakan RekannyaUsai dievakasi, Putri sempat menanyakan nasib temannya, Mutmainah, yang diketahuinya masih terjepit di dalam mobil yang sama. 
+
+Hal ini diungkapkan ayah kandung Putri, Gatot Tjahjono dalam wawancara dengan stasiun tv swasta di RSUD Kabupaten Tangerang, <TIMEX3 tid="t13" type="TIME" value="2018-02-06">Selasa (6/2/2018) pagi</TIMEX3>. 
+
+Gatot menceritakan, ia turut mendampingi proses evakuasi yang dilakukan oleh tim SAR gabungan di lokasi kejadian hingga anaknya itu dibawa ke RSUD Kabupaten Tangerang dan dirujuk ke RS Mayapada Tangerang. 
+
+Menurutnya, anaknya memang satu dari dua korban yang masih bisa diajak komunikasi oleh petugas evakuasi meski dalam kondisi terjepit himpitan mobil dan tumpukan material beton. 
+
+Posisinya berada di balik kemudi. 
+
+Dan setelah Putri berhasil dikeluarkan dari dalam mobil tersebut, dia menanyakan nasib temannya yang berada di kursi penumpang depan. 
+
+" Iya, dia tanya temannya itu bagaimana? Dijawab sama petugas, itu masih proses (evakuasi), " ujar Gatot.Selain psikis, lanjut Gatot, anaknya juga mengalami cidera di lengan kanan dan kaki. 
+
+" Dia minta kakinya diganjal bantal, " terangnya. 
+
+(Abdul Qodir) 
+</TEXT>
+
+</TimeML>

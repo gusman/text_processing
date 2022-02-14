@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0393</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-12" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-12</TIMEX3></DCT>
+
+<TITLE>Koarmada I Kirim 80 Ton Bantuan Bagi Korban Gemba-Tsunami Donggala-Palu</TITLE>
+
+<TEXT>
+Koarmada I memberangkatkan KRI Teluk Sabang-544 yang membawa bantuan untuk korban bencana gempa dan tsunami di Palu dan Donggala, Sulawesi Tengah, <TIMEX3 tid="t1" type="DATE" value="2018-10-12">Jumat (12/10/2018)</TIMEX3>. 
+
+Bantuan tersebut diberangkatkan dari Dermaga 300 Tanjung Priok Jakarta Utara. 
+
+Panglima Koarmada I Laksamana Muda TNI Yudo Margono mengatakan, bantuan yang diangkut berupa bahan pokok seperti beras, minyak goreng, air mineral dan Iain-lain. 
+
+. 
+
+<TIMEX3 tid="t2" type="DATE" value="2018-10-12">Hari ini</TIMEX3> kita memberangkatkan KRI yang memuat barang bantuan ke Palu dan Donggala menggunakan KRI Teluk Sabang. 
+
+Ini muatan kurang lebih 80 ton logistik, ucap Yudo, <TIMEX3 tid="t3" type="DATE" value="2018-10-12">Jumat (12/10/2018)</TIMEX3>. 
+
+Bantuan tersebut merupakan hasil pengumpulan dari berbagai instansi seperti pemerintah, swasta, lembaga sosial, organisasi masyarakat hingga masyarakat umum. 
+
+Sumbangan masyarakat tersebut dikumpulkan di Posko Peduli Gempa dan Tsunami Palu-Donggala Koarmada l Jakarta Pusat. 
+
+. 
+
+Mudah mudahan ini dapat membantu untuk korban gempa di Palu dan Donggala sana, ucapnya. 
+
+Pengiriman bantuan kali ini merupakan untuk yang kedua kalinya. 
+
+Sebelumnya, KRI Teluk Cirebon-543 pada minggu Ialu telah diberangkatkan dari Jakarta. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kapal perang KRI Teluk Saleh sudah sandar di Pelabuhan Makassar. 
+
+<TIMEX3 tid="t5" type="DATE" value="2018-10-12">Hari ini</TIMEX3> kita berangkatkan untuk yang kedua kalinya. 
+
+Bedanya kalau <TIMEX3 tid="t6" type="DATE" value="2018-10-12">hari ini</TIMEX3> 80 ton, sebelumnya 30 ton dan sudah sampai di sana yang KRI Teluk Cirebon. 
+
+<TIMEX3 tid="t7" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> kita perintahkan balik lagi bawa bantuan berikutnya, katanya. 
+
+Perjalanan KRI Teluk Sabang-544 yang membawa sebanyak 64 personel tersebut membutuhkan waktu sekitar <TIMEX3 tid="t8" type="DURATION" value="P4D">4 hari</TIMEX3> dari Jakarta menuju Sulawesi Tengah. 
+
+
+</TEXT>
+
+</TimeML>

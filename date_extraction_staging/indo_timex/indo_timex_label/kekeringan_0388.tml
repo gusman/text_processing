@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0388</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-25</TIMEX3></DCT>
+
+<TITLE>Pasokan Air Bersih Terhambat, Daftar Bantuan Pasokan Air Bersih di Jakarta Timur Menumpuk</TITLE>
+
+<TEXT>
+Cukup banyak daerah yang terdampak kekeringan di wilayah Jakarta. 
+
+Hal itu menyebabkan daftar daerah yang membutuhkan pasokan bantuan air bersih menumpuk. 
+
+Corporate amp; Customer Communication Manager PT Aetra Astriena Veracia membenarkan ada keterlambatan mengenai pasokan air bersih di wilayah Bambu Apus. 
+
+Pada <TIMEX3 tid="t1" type="DATE" value="2019-10-23">Rabu (23/10/2019)</TIMEX3>, truk tangki Aetra berkapasitas 7.000 liter baru tiba sekira <TIMEX3 tid="t2" type="TIME" value="2019-10-24T22:40">pukul 22.40 WIB</TIMEX3> meski warga melapor kekeringan sebelum matahari terbenam. 
+
+" Ada beberapa pengiriman di area yang berbeda sehingga (pengiriman) menunggu antrian, yang jelas pasti kami penuhi, " kata Veracia saat dikonfirmasi, di Jakarta Timur, <TIMEX3 tid="t3" type="DATE" value="2019-10-24">Jumat (24/10/2019)</TIMEX3>. 
+
+. 
+
+Veracia tak menjawab gamblang saat dikonfirmasi apa PT Aetra yang dilibatkan dalam Satgas Air Bersih memiliki target waktu pengiriman. 
+
+Namun, keterlambatan terjadi karena pihaknua diharuskan mengirim pasokan air bersih ke wilayah lain terlebih <TIMEX3 tid="t4" type="DATE" value="PAST_REF">dahulu</TIMEX3>. 
+
+" Pada saat yang bersamaan ada pengiriman di beberapa tempat. 
+
+Sehingga menunggu antrian armada, yang jelas tetap terlayani, " ujarnya. 
+
+. 
+
+" Saya coba cek ke tim terlebih <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dahulu</TIMEX3> ya, " tutur Linda. 
+
+// <TIMEX3 tid="t6" type="DATE" value="2019-SU">Musim kemarau</TIMEX3> berkepanjangan yang melanda Jakarta menyebabkan banyak sumur warga mengalami kekeringan. 
+
+Di wilayah Jakarta Timur, kekeringan terjadi di Kelurahan Bambu Apus, Kelurahan Cilangkap, Kecamatan Cipayung dan Kelurahan Dukuh, Kecamatan Kramat Jati. 
+
+Kekeringan Meluas, Tiga Kelurahan di Jakarta Timur Minta Bantuan Air BersihSebelumnya diberitakan, kemarau panjang dan meningkatnya suhu di Jakarta berdampak pada krisis air bersih di sejumlah wilayah di Jakarta Timur. 
+
+Warga mulai menggantungkan bantuan pasokan air bersih, lantaran sumur mengering. 
+
+Kepala Pusat Data dan Informasi Badan Penanggulangan Bencana Daerah (BPBD) DKI Iwan Ibrahim mengatakan, 816 warga yang berasal dari 259 keluarga di dua kelurahan di Kecamatan Cipayung; Bambu Apus dan Cilangkap, terkena dampak itu. 
+
+Warga yang mengalami krisis air bersih itu tersebar di delapan RT di tiga RW (RW 03, 04, dan 05) Kelurahan Bambu Apus, dan empat RT di satu RW Kelurahan Cilangkap. 
+
+" Di Kelurahan Bambu Apus, ada 169 keluarga dengan total 571 jiwa yang terdampak, " ujar Iwan, saat dikonfirmasi, <TIMEX3 tid="t7" type="DATE" value="2019-10-24">Kamis (24/10/2019)</TIMEX3>. 
+
+Menurut catatan Lurah Cilangkap Nasir Sugiar, di wilayahnya terdapat 90 keluarga dengan total 245 jiwa yang terdampak kekeringan dan membutuhkan bantuan air bersih. 
+
+Bantuan air bersih dari Suku Dinas Penanggulangan Kebakaran dan Penyelamatan (PKP) Jakarta Timur itu mulai diterima warga empat RT (02,05,06,07) RW 04 pada <TIMEX3 tid="t8" type="DATE" value="2019-10-22">Selasa (22/10/2019)</TIMEX3>. 
+
+// " <TIMEX3 tid="t9" type="DATE" value="2019-10-22">Hari Selasa</TIMEX3>, mereka dapat bantuan air bersih 2.500 liter, dan <TIMEX3 tid="t10" type="DATE" value="2019-10-23">hari Rabu (23/10/2019)</TIMEX3> dapat bantuan lagi 4.000 liter, " ujar Nasir, saat dihubungi, <TIMEX3 tid="t11" type="DATE" value="2019-10-24">Kamis (24/10/2019)</TIMEX3>. 
+
+Krisis air bersih juga dialami warga di Kelurahan Dukuh, Kecamatan Kramat Jati, Jakarta Timur. 
+
+BPBD DKI mencatat, tujuh keluarga di RT 12/RW 04 Kelurahan Dukuh mengalami kekurangan air bersih akibat sumur yang mengering selama <TIMEX3 tid="t12" type="DATE" value="2019-SU">musim kemarau ini</TIMEX3>. 
+
+Mereka mulai menerima bantuan air bersih sejak <TIMEX3 tid="t13" type="DATE" value="2019-10-07">7 Oktober lalu</TIMEX3>, sebanyak 14.000 liter yang dikirimkan melalui dua mobil tanki PAM Jaya. 
+
+Bantuan air bersih bagi total 28 jiwa warga Kelurahan Dukuh itu kembali disalurkan pada <TIMEX3 tid="t14" type="DATE" value="2019-10-16">16 Oktober lalu</TIMEX3>, sebanyak 5.000 liter. 
+
+" Untuk wilayah lainnya, kami masih akan konfirmasi, " ujar Iwan. 
+
+Bagi warga DKI yang mengalami kekurangan masalah air bersih dapat melaporkan masalahnya melalui call center 112. 
+
+
+</TEXT>
+
+</TimeML>

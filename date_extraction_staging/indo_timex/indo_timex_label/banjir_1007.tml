@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1007</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-08" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-08</TIMEX3></DCT>
+
+<TITLE>Banjir Landa Mamasa, Puluhan Rumah Terseret</TITLE>
+
+<TEXT>
+Puluhan rumah di Kabupaten Mamasa terseret banjir bandang. 
+
+Yang paling terdampak berada di Dusun Ratte, Desa Batang Uru dan Dusun Salu Beang, Desa Banea. 
+
+Serta yang paling terdampak paling besar dari banjir bandang itu berada di Dusun Minanga, Desa Batang Uru. 
+
+Selain itu, longsor juga menutupi badan jalan penghubung antara Kecamatan Sumarorong dan Kecamatan Nosu hingga membuat akses satu-satunya itu terputus. 
+
+Hujan dengan intensitas tinggi itu terjadi pada <TIMEX3 tid="t1" type="DATE" value="2019-03-07">Kamis</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2019-03-07">(7/3/2019)</TIMEX3>, <TIMEX3 tid="t3" type="TIME" value="2019-03-07TAF">sore</TIMEX3>. 
+
+Banjir di Mamasa. 
+
+Dok. 
+
+Mapos. 
+
+Menurut keterangan warga setempat, Baharuddin Belo, puluhan rumah di dua dusun tersebut, yakni Dusun Ratte, Desa Batang Uru dan Dusun Salu Beang, Desa Banea, terseret banjir. 
+
+Ada sekitar 20 rumah pak terseret banjir dan puluhan rumah warga juga ada yang terendam, sebut Baharuddin. 
+
+<TIMEX3 tid="t4" type="DATE" value="2019-03-07">Kamis (7/3/2019)</TIMEX3>. 
+
+Dia mengatakan, selain menyeret puluhan rumah, banjir juga merendam fasilitas umum dan ratusan hektar sawah. 
+
+Banjir Mamasa. 
+
+Dok. 
+
+MaposSelain itu, luapan air dari Sungai dari Dusun Ratte, Desa Batang Uru meluap dan juga menambah volume air masuk ke daerah banjir di desa tersebut. 
+
+Curah hujan tinggi sehingga berdampak banjir luar biasa, ujarnya. 
+
+Ia menambahkan, banjir bandang dengan skala besar baru terjadi kali ini di Kabupaten Mamasa. 
+
+Namun, hingga <TIMEX3 tid="t5" type="TIME" value="2019-03-07TNI">Kamis malam ini</TIMEX3> belum dilaporkan adanya korban jiwa akibat terjangan banjir bandang. 
+
+(usman) 
+</TEXT>
+
+</TimeML>

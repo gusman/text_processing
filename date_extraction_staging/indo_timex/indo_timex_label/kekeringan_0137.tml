@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0137</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-04" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-04</TIMEX3></DCT>
+
+<TITLE>Kekeringan, 9.843 Hektare Sawah Rusak</TITLE>
+
+<TEXT>
+Hingga <TIMEX3 tid="t1" type="DATE" value="2019-07">Juli ini</TIMEX3> seluas 9.843 hektare sawah di Provinsi Banten rusak akibat kekeringan. 
+
+Kerusakan lahan pertanian itu berada di Kabupaten Pandeglang, Lebak, Tangerang, dan Serang. 
+
+Ini (kerusakan lahan pertanian akibat kekeringan) sudah terpetakan oleh kami, kata Kepala Dinas Pertanian (Distan) Provinsi Banten, Agus M Tauchid saat ditemui wartawan di gedung DPRD Banten, KP3B, Kota Serang, <TIMEX3 tid="t2" type="DATE" value="2019-07-03">Rabu (3/7)</TIMEX3>. 
+
+Menurut Agus, secara umum, sawah yang rusak akibat mengalami kekeringan terjadi di empat wilayah di Banten. 
+
+Pertama, Pandeglang seluas 9.019 hektare, yakni 5.403 hektare kategori rusak ringan, 3.321 hektare rusak sedang, dan 295 hektare rusak berat. 
+
+Lalu, Kabupaten Lebak seluas 455 hektare yang seluruhnya kategori rusak ringan. 
+
+Kemudian Kabupaten Tangerang seluas 97 hektare dan seluruhnya masuk kategori rusak ringan. 
+
+Lalu Kabupaten Serang seluas 272 hektare dengan rincian 256 hektare kategori rusak ringan dan 16 hektare kategori rusak sedang. 
+
+Untuk umur tanaman sendiri bervariasi dari 1 hingga 85 HST (hari setelah tanam). 
+
+Sementara untuk total lahan waspada kekeringan di Banten sendiri ada 34.566 hektare. 
+
+Sementara varietas berasnya ada Ciherang, Mikongga, Situbagendit dan Infari, katanya. 
+
+Meski sudah terpapar kekeringan akan tetapi hingga <TIMEX3 tid="t3" type="DATE" value="2019-07-03">kemarin</TIMEX3> Distan belum menerima laporan adanya tanaman padi yang puso. 
+
+90 persen lahan yang mengalami kekeringan adalah tadah hujan. 
+
+Berapa kerugian? Belum bisa kami hitung. 
+
+Sebab sampai <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> (<TIMEX3 tid="t5" type="DATE" value="2019-07-03">kemarin</TIMEX3>), belum ada yang sampai mengalami gagal panen, ujarnya. 
+
+Dengan kondisi tersebut, kata dia, Distan melalui Balai Proteksi Tanaman Pangan Holtikultura dan Perkebunan Banten telah melakukan sejumlah upaya. 
+
+Salah satunya adalah dengan melakukan pompanisasi dengan metode pinjam pakai ke kelompok tani. 
+
+Ada 20 unit mesim pompa dari ukuran 3 hingga 6 inchi. 
+
+Kemudian juga kami siapkan brigade alsintan (alat mesin pertanian) mobile. 
+
+Kalau ini optimal maka kemungkinan besar status kekeringan bisa turun, dari berat jadi ringan dan seterusnya, katanya. 
+
+Lebih lanjut dipaparkan Agus, selain bantuan alat pihaknya juga intens memberikan pemahaman terjadi masa tanam. 
+
+Para petani diharapkan jika memasuki <TIMEX3 tid="t6" type="DATE" value="2019-SU">musim kemarau</TIMEX3> untuk lokasi sawah tadah hujan dan tidak ada sumber air, agar tidak memaksakan tanam. 
+
+Lalu kami juga arahkan petani memeiliki asuransi usaha tanaman padi (AUTP). 
+
+Itu preminya Rp36.000 per hektare, kalau terjadi kegagalan, kekeringan, kebanjiran, hama, puso klaim asuransinyaRp4 juta, ujarnya. 
+
+Sementara, Kepala Pusat Pengendali Operasi (Pudalops) Badan Penanggulangan Bendana Daerah (BPBD) Banten, Giman mengatakan, pihaknya masih menunggu laporan dari BPBD kabupaten/kota. 
+
+Kalau untuk data sementara sih ada kaya di Pandeglang itu kekeringan mulai dari Munjul. 
+
+Untuk Kabupaten Serang itu ada di wilayah Pontang dan Tanara. 
+
+Belum lagi ada yang kesulitan air bersih, katanya saat dihubungi melalui telepon. 
+
+Menurut dia, dari laporan-laporan yang diterima, yang paling dibutuhkan masyarakat yang daerahnya mengalami kekeringan yaitu air bersih. 
+
+Meski begitu, dirinya mengaku masalah air bersih di beberapa daerah sudah dapat teratasi.Kekeringan air bersih di Kabupaten Pandeglang masih bisa diatasi karena warga masih memiliki tangki air bantuan dari presiden. 
+
+Sementara di Kabupaten Serang, BPBD telah mengirim air bersih. 
+
+Paling ngedrop air, karena yang dikeluhkan masyarakat paling air bersih, ujarnya.Lebih lanjut, Giman mengungkapkan, dampak kemarau yang baru berlangsung <TIMEX3 tid="t7" type="DURATION" value="PXM">beberapa bulan</TIMEX3>, belum sampai meluas hingga gagal panen. 
+
+Menurut dia, informasi dari Badan Meteorologi, Klimatologi dan Geosfisika (BMKG) puncak kekeringan akan terjadi pada <TIMEX3 tid="t8" type="DATE" value="2018-08">Agustus</TIMEX3>. 
+
+Kalau menurut BMKG, <TIMEX3 tid="t9" type="DATE" value="FUTURE_REF">nanti</TIMEX3> sampai <TIMEX3 tid="t10" type="DATE" value="2018-08">Agustus</TIMEX3>. 
+
+Kita kan informasinya paling dari BMKG yang bisa meramalkan, katanya. 
+
+(tb/tnt) 
+</TEXT>
+
+</TimeML>

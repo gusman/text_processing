@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0688</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-06" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-06</TIMEX3></DCT>
+
+<TITLE>Akibat Gempa Lombok 7 SR, Seribuan Turis Asing dan Nusantara di Gili Trawangan Harus Dievakuasi</TITLE>
+
+<TEXT>
+Akibat gempa berkekuatan 7,0 SR melanda Lombok Utara, sekitar seribu turis asing dan domestik dievakuasi dari Gili Trawangan, Gili Air, dan Gili Meno di Lombok Utara, <TIMEX3 tid="t1" type="DATE" value="2018-08-06">Senin 6 Agustus 2018</TIMEX3>. 
+
+Terlihat pada foto-foto yang diunggah oleh Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana (BNPB), Sutopo Purwo Nugroho, para turis naik yang awalnya naik perahu berpindah ke kapal besar. 
+
+" 1.000 orang turis asing dan domestik dievakuasi dari Gili Trawangan, Gili Air dan Gili Meno di Lombok Utara. 
+
+Sementara itu pada foto-foto yang diunggah oleh akun Twitter yofiepermana, memperlihatkan situasi dan kondisi terakhir di Gili Trawangan dan Pelabuhan Bangsal. 
+
+Beberapa bangunan roboh dan mengalami kerusakan yang cukup parah. 
+
+Terlihat bagian atap sejumlah rumah yang sudah rusak. 
+
+Berikut ini beberapa cuitan yang mengabarkan informasi terkini situasi di Gili Trawangan yang diunggah oleh akun tersebut. 
+
+Pada cuitan kedua, ia hanya menampilkan foto-foto lain yang memperlihatkan sejumlah bangunan roboh akibat gempa. 
+
+" Terakhir sktr jm <TIMEX3 tid="t2" type="DURATION" value="2018-08-01TMO">8 pagi</TIMEX3> saya liat ada fery ukuran sedang sudah datang untuk evakuasi. 
+
+Bbrp boat pribadi dan transport jg ada yg evakuasi keluar gili t. 
+
+Saya sdh di bandara skrg, aftershock masih terasa walau tidak kuat, " tulisnya lagi. " Mungkin tidak satu kali, kalau saya lihat ferry nya lumayan besar untuk bisa menampung banyak orang yg ada di gili t. 
+
+Bbrp jg masih menunggu di bukit, asing dan lokal. 
+
+Masih berjaga2 di dataran tinggi, " // Diberitakan sebelumnya, Lombok diguncang gempa berkekuatan 7 SR, <TIMEX3 tid="t3" type="TIME" value="2018-08-05TNI">Minggu (5/8/2018) malam</TIMEX3>. 
+
+Awalnya BMK sempat memberi peringatan dini karena mendeteksi potensi tsunami di sejumlah titik di Lombok Timur, Nusa Tenggara Barat (NTB). 
+
+Titik pusat gempa adalah di <TIMEX3 tid="t4" type="TIME" value="2018-08-05T08:37">8.37</TIMEX3> LS,116.48 BT, sekitar 27 km di arah timur laut. 
+
+Beberapa gempa susulan pun masih terjadi hingga <TIMEX3 tid="t5" type="DATE" value="2018-08-06">Senin ini</TIMEX3>, dengan kekuatan yang lebih kecil. 
+
+Dikabarkan, 82 orang meninggal dunia akibat gempa bumi dan diperkirakan masih akan bertambah. 
+</TEXT>
+
+</TimeML>

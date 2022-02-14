@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1140</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-11" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-11</TIMEX3></DCT>
+
+<TITLE>Sejumlah Warga Terluka Tertimpa Puing Rumah Akibat Gempa Sukabumi</TITLE>
+
+<TEXT>
+Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Sukabumi menyebutkan sejumlah warga terluka akibat terkena puing rumah saat terjadi gempa. 
+
+Korban yang mengalami cedera atau terluka <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sebagian sudah dibawa ke fasilitas kesehatan untuk diberikan pengobatan. 
+
+Kepala Pusat Pengendalian Operasi BPBD Kabupaten Sukabumi Daeng Sutisna mengatakan, hingga <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, pihaknya belum menerima laporan adanya korban meninggal dunia. 
+
+Kami mendapatkan informasi dari petugas di lapangan, salah satunya di Kampung Sangkali, RT <TIMEX3 tid="t3" type="DATE" value="2019-06-01">1/6</TIMEX3> Desa Sukatani, Kecamatan Parakansalak, ada warga yang terluka di kepalanya karena tertimpa puing rumah yang ambruk, kataDaeng seperti dilansir dari Antara pada <TIMEX3 tid="t4" type="DATE" value="2020-03-10">Selasa (10/3)</TIMEX3>. 
+
+Petugas di lapangan bersama unsur TNI, Polri, serta relawan masih memberi bantuan kepada warga terdampak gempa bumi. 
+
+Tidak hanya di Kecamatan Parakansalak, BPBD juga menerima informasi adanya korban luka di Kecamatan Kalapanunggal. 
+
+Korban mengalami luka ringan seperti di tangan maupun kaki. 
+
+Ada juga yang di bagian kepala. 
+
+Warga yang mengalami luka itu masih dalam perawatan, kata Daeng. 
+
+Daeng belum bisa memastikan berapa jumlah rumah yang rusak dan warga yang terluka karena terdampak gempa bermagnitudo 5.0 itu. 
+
+Sebelumnya, informasi dari BMKG, gempa bermagnitudo 5.0 yang berpusat di 6.89 LS dan 106.62 BT, 13 km timur laut Kabupaten Sukabumi dengan kedalaman pusat gempa 10 km di bawah permukaan laut. 
+
+(jawapos/jpn/cn/antara) 
+</TEXT>
+
+</TimeML>

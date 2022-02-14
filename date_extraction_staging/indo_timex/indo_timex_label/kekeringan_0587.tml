@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0587</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-26" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-26</TIMEX3></DCT>
+
+<TITLE>Jagung Terancam Gagal Panen, Dinas Pangan Berau Pastikan Tak Sampai Rawan Pangan</TITLE>
+
+<TEXT>
+Sebagai salah satu daerah penghasil jagung, Kabupaten Berau terancam bakal mengalami penurunan produksi akibat <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau</TIMEX3> yang menyebabkan ladang jagung gagal panen. 
+
+Seperti yang terjadi di Kampung Labanan, salah satu sentra penghasil jagung, terancam gagal panen karena saluran irigasi kering kerontang, tidak dapat mengairi puluhan hektare ladang jagung. 
+
+Tidak hanya Labanan, sentra penghasil jagung lain seperti Talisayan, Batu Putih dan Sambaliung juga terancam gagal panen karena serangan hama ulat grayak. 
+
+Kepala Bidang Ketersediaan dan Kerawanan Pangan, Dinas Pangan Kabupaten Berau, Edi mengatakan, akibat kekeringan dan serangan hama tanaman ini, jumlah produksi jagung <TIMEX3 tid="t2" type="DATE" value="2019">tahun 2019 ini</TIMEX3> akan mengalami penurunan hingga 50 persen dari produksi <TIMEX3 tid="t3" type="DATE" value="2018">tahun 2018</TIMEX3> yang mencapai 67 ribu ton. 
+
+Namun pihaknya akan tetap berupaya untuk memaksimalkan hasil panen. 
+
+Panen jagung mestinya dilakukan pada <TIMEX3 tid="t4" type="DATE" value="2019-10">bulan Oktober 2019 nanti</TIMEX3>. 
+
+Sementara itu, Kepala Seksi Persediaan Pangan, Dinas Pangan Berau, Jumaah mengatakan, meski produksi jagung pada <TIMEX3 tid="t5" type="DATE" value="2019">tahun 2019</TIMEX3> berpotensi menurun drastis, namun pihaknya memastikan tidak akan berpengaruh terhadap kebutuhan pangan. 
+
+Pasalnya, jagung belum termasuk kategori makanan pokok bagi masyarakat Berau. 
+
+Selain itu, produksi jagung di Kabupaten Berau selama ini memang diperuntukan sebagai pakan ternak. 
+
+Jadi jagung ini bukan untuk dikonsumsi oleh masyarakat, sebagian besar untuk pakan ternak, jelasnya. 
+
+Berbeda dengan padi, yang memang dikonsumsi oleh mayoritas masyarakat Indonesia. 
+
+Meski demikian, Jumaah juga menegaskan, walaupun tanaman padi terancam gagal panen, tidak akan mempengaruhi ketersediaan beras di pasaran. 
+
+// Pasalnya, selama ini sebagian besar beras didatangkan dari luar daerah, seperti Sulawesi dan Jawa. 
+
+Selain itu, pihaknya juga telah berkoordinasi dengan Badan Urusan Logistik (Bulig) Berau yang menjamin ketersediaan beras masih aman hingga <TIMEX3 tid="t6" type="DATE" value="2019-10">bulan Oktober 2019</TIMEX3>. 
+
+Sebelum stok beras di gudang Bulog habis, mereka selalu menambah pasokan. 
+
+Sehingga ketersediaannya benar-benar terjamin, tandasnya. 
+
+Sebelumnya, Kepala Kampung Labanan, Mufid Datusahlan kepada Tribunkaltim. 
+
+co mengatakan, ladang jagung di kampungnya terncam gagal panen karena saluran irigasi yang kering akibat <TIMEX3 tid="t7" type="DATE" value="2019-SU">musim kemarau</TIMEX3>. 
+
+Mufid meminta, agar instansi terkait melakukan upaya-upaya untuk memaksimalkan hasil panen, sehingga warganya tidak mengalami kerugian yang terlalu besar. 
+
+Gunung Tabur Dilanda KekeringanMusim kemarau <TIMEX3 tid="t8" type="DATE" value="2019">tahun ini</TIMEX3> tidak hanya menyebabkan kebakaran hutan dan lahan di Kabupaten Berau. 
+
+Banyak tanaman dan semak belukar yang mengering, yang menyebabkan tanah menjadi tandus dan anak sungai mengering. 
+
+Kondisi ini menyebabkan puluhan kepala keluarga yang ada di tiga RT, yakni RT 7, RT 10 dan RT 14 di kawasan Makasang, Paribau, Kecamatan Gunung Tabur kesulitan mendapat air bersih. 
+
+Hal ini dibenarkan Lurah Gunung Tabur, Lutfi Hidayat. 
+
+Sudah sejak <TIMEX3 tid="t9" type="DATE" value="2019-08-19">hari Senin (19/8/2019) lalu</TIMEX3> warga sudah kesulitan mendapat air bersih, ungkapnya. 
+
+// Selama ini, kata Lutfi, warga di tiga RT tersebut memang mengandalkan aliran anak sungai untuk memenuhi kebutuhan <TIMEX3 tid="t10" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+Namun air dari anak sungai itu sudah mulai berubah warna dan aroma serta air menjadi kehitaman dan berbau. 
+
+Sementara air bersih dari Perusahaan Daerah Air Minum belum menjangkau seluruh rumah warga. 
+
+Karena itu, selama <TIMEX3 tid="t11" type="DATE" value="2019-SU">musim kemarau ini</TIMEX3>, warganya mengandalkan pasokan air bersih yang dibawa oleh Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Berau, Sementara itu, Kepala BPBD Berau Thamrin mengatakan, pihaknya terus berupaya membantu warga di Gunung Tabur yang mengalami kekeringan. 
+
+" Untuk sementara kami hanya bisa menyuplai air untuk kebutuhan mandi dan mencuci saja, " ujarnya. 
+
+Air bersih tersebut diangkut menggunakan kendaraan water suply yang biasa digunakan untuk memasok air bagi petugas pemadam kebakaran. 
+
+Kekeringan juga dirasakan oleh para petani di Kampung Labanan Makmur, Kecamatan Teluk Bayur. 
+
+Akibat kekeringan, para petani di Kampung Labanan mengalami gagal panen. 
+
+Kepala Kampung Labanan Makmur, Mufid Datusahlan mengungkapkan, hasil panen petani di kampungnya mengalami penurunan. 
+
+Jika musim panen padi, rata-rata petani mampu menghasilkan 4 ton beras, <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">kini</TIMEX3> menjadi 1,5 ton. 
+
+Begitu juga dengan hasil panen jagung yang menjadi unggulan kampung ini, menurun drastis dari yang biasanya rata-rata 50 ton, <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">kini</TIMEX3> tinggal 2 ton. 
+
+Gagal panen ini, menurutnya disebabkan oleh mengeringnya saluran irigasi yang sudah lama tidak digutur hujan. 
+
+Tidak hanya kuantitas padi dan jagung yang menurun, kualitas juga menurun, ungkapnya. 
+
+Kondisi ini menurutnya berdampak terhadap perekonomian warganya. 
+
+Karena kerugian petani cukup besar, Hasil panen juga dihargai murah, karena kualitas jagung dan padi juga tidak sesuai standar, kata Mufid, <TIMEX3 tid="t14" type="DATE" value="2019-08-23">Jumat (23/8/2019)</TIMEX3>. 
+
+// Pihaknya berharap, ada upaya dari Dinas Pertanian dan Peternakan Berau, agar membuatkan sumur bor dan pompa air untuk irigasi. 
+
+(*) 
+</TEXT>
+
+</TimeML>

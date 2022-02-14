@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0195</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Benarkah Tsunami Selat Sunda Dipicu Erupsi Anak Krakatau? Ini Kata Ahli Vulkanologi &amp; Ulasan PVMBG</TITLE>
+
+<TEXT>
+Benarkah tsunami selat sunda karena akitiftas Gunung Anak Krakatau? Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) belum dapat menyimpulkan pemicu tsunami di Perairan Selat Sunda karena aktivitas Gunung Anak Krakatau tersebut. 
+
+Kabid Mitigasi Gunung Api Wawan Irawan mengatakan, tim harus melakukan pengecekan dan pendalaman ke lapangan. 
+
+Ia menyebutkan, jika dilihat dari kegempaan, tsunami yang terjadi di wilayah Selat Sunda bukan berasal dari letusan Gunung Anak Krakatau. 
+
+Tremor atau getaran pada Gunung Anak Krakatau terjadi sejak <TIMEX3 tid="t1" type="DATE" value="2018-06">bulan Juni</TIMEX3>. 
+
+Letusan terbesar terjadi pada <TIMEX3 tid="t2" type="DATE" value="2018-11">November 2018</TIMEX3>. 
+
+Dengan lontaran lava yang keluar, kecil kemungkinan berpotensi memicu tsunami. 
+
+" Kalau dari kegempaanya, jelas itu bukan karena letusan (Gunung Anak) Krakatau. 
+
+Tapi yang perlu kita cek itu adalah apakah ada longsoran di tubuh Krakatau dan mengakibatkan tsunami. 
+
+Itu juga kalau terjadi longsoran perlu yang besar sekali sehingga menimbulkan tsunami, " kata Wawan, di Kantor PVMBG, Kota Bandung, Jawa Barat, <TIMEX3 tid="t3" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>. 
+
+Berdasarkan sejarahnya, longsoran pernah terjadi pada Gunung Krakatau <TIMEX3 tid="t4" type="DATE" value="1883">tahun 1883</TIMEX3>. 
+
+Untuk memicu gelombang tsunami ini diperlukan longsoran yang masif (besar). 
+
+// " Sejauh ini pernah terjadi di Krakatau itu pada <TIMEX3 tid="t5" type="DATE" value="1883">tahun 1883</TIMEX3>. 
+
+Salah satunya longsoran tubuh Gunung Krakatau itu. 
+
+Besaran longsoran itu mungkin harus di atas VEI atau volcano eruption indeks-nya 6. 
+
+Di Indonesia salah satunya yang satu itu ya <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">tahun 1883 itu</TIMEX3>. 
+
+Krakatau-nya yang longsor. 
+
+<TIMEX3 tid="t7" type="DATE" value="PAST_REF">Saat itu</TIMEX3> Krakatau ada tubuhnya juga terus hancur, kemudian tumbuh lagi dia, " jelas Wawan. 
+
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, tim PVMBG bertolak ke lokasi kejadian untuk mengecek langsung ke lapangan, memastikan apakah tsunami tersebut karena letusan Gunung Anak Krakatau atau ada pemicu lainnya seperti longsoran. 
+
+" <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> coba cek ke lapangan apakah betul pasang laut tsunami itu karena letusan Krakatau atau ada longsoran, " kata dia. 
+
+Kasubid Mitigasi Gempa Bumi dan Tsunami Wilayah Barat PVMBG Ahmad Solihin menilai, erupsi atau letusan Gunung Anak Krakatau sangat kecil kemungkinan untuk menimbulkan tsunami. 
+
+" Kalau dari erupsi atau letusannya itu kemungkinan tidak sampai menimbulkan tsunami karena dari pantauan seismiknya juga erupsinya strombolian, itu seperti lontaran (semburan) lava pijar kayak air mancur tapi lava. 
+
+Jadi kemungkinan kecil ini, " ujar Ahmad Solihin. 
+
+Meski demikian, lanjut Solihin, ada dugaan longsoran material di dalam air yang memicu peristiwa itu. 
+
+Namun hal ini juga masih perlu didalami dan diselidiki. 
+
+" Dugaan sementara atau probabilitasnnya paling besar longsoran atau enggak longsoran di lokasi lain karena kita belum tahu itu. 
+
+Atau mungkin juga dari badai <TIMEX3 tid="t10" type="DURATION" value="2018-12-01TNI">semalam</TIMEX3> bisa menyebabkan itu, jadi dari faktor cuaca. 
+
+Cuma itu mungkin bukan ranah kami, " ujar Solihin.Menyoal dakwaan pada Anak KrakatauTsunami melanda Selat Sunda pada <TIMEX3 tid="t11" type="DATE" value="2018-12-22">Sabtu (22/12/2018)</TIMEX3> sekitar <TIMEX3 tid="t12" type="TIME" value="2018-12-22T21:27">pukul 21.27 WIB</TIMEX3>. 
+
+Sekitar 222 orang tewas, termasuk pemain bass Seventeen dan istri komedian Ade Jigo.Bagi ilmu pengetahuan, tsunami meninggalkan teka-teki. 
+
+// Dalam konferensi pers pada <TIMEX3 tid="t13" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3> dini hari, Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mendakwa Anak Krakatau sebagai pemicu tsunami Banten. 
+
+Dakwaan tersebut dikeluarkan sebab berdasarkan pendataan, tak ada gempa di sekitar Selat Sunda yang bisa menyebabkan tsunami. 
+
+Dakwaan diperkuat oleh bukti bahwa Anak Krakatau bererupsi 4 kali <TIMEX3 tid="t14" type="DATE" value="2018-12-22">kemarin</TIMEX3>, terakhir pada <TIMEX3 tid="t15" type="TIME" value="2018-12-22T21:03">21.03 WIB</TIMEX3> atau <TIMEX3 tid="t16" type="TIME" value="PT24M">24 menit</TIMEX3> sebelum tsunami menerjang wilayah Serang. 
+
+Namun tudingan pada Anak Krakatau itu memicu perdebatan. 
+
+Bagaimana mungkin gunung yang masih anak-anak itu bisa memicu tsunami? Semarah apa dia? Bagaimana mekanismenya? Ahli vulkanologi Surono mengungkapkan, pengaruh aktivitas Anak Krakatau pada tsunami Banten seharusnya " bisa dikesampingkan ". 
+
+Anak Krakatau masih gunung muda dan perlu terus menerus erupsi untuk tumbuh. 
+
+Menurut Surono, erupsi gunung itu <TIMEX3 tid="t17" type="DATE" value="2018-12-22">kemarin</TIMEX3> masih wajar dengan ketinggian lontaran material vulkanik hanya sekitar 1.500 meter. 
+
+Untuk bisa menimbulkan tsunami, gunung setinggi 230 dari permukaan laut itu harus mengalami letusan hebat " Tubuhnya harus terbongkar. 
+
+Dan kalau itu terjadi, pasti abu vulkaniknya akan menyebar sampai Lampung dan Jawa, " katanya ketika dihubungi Kompas. 
+
+com, <TIMEX3 tid="t18" type="DATE" value="2018-12-23">hari ini</TIMEX3>. 
+
+Ahli tsunami dari Kementerian Kelautan dan Perikanan, Abdul Muhari, mengatakan, Anak Krakatau bisa memicu tsunami tetapi mekanismenya mungkin tak seperti yang dikira. 
+
+// Dia mengatakan, Anak Krakatau berbeda dengan ibunya, Krakatau. 
+
+" Postur gunungnya <TIMEX3 tid="t19" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sudah berbeda. 
+
+Kubah <TIMEX3 tid="t20" type="DATE" value="PAST_REF">dulu</TIMEX3> sudah terbongkar. 
+
+Sehingga kita perlu hati-hati apakah mekanismenya memicu tsunami masih sama, " jelas Muhari. 
+
+Anak Krakatau juga dikitari 3 pulau kecil. 
+
+Jika tsunami dipicu material erupsi secara langsung, maka gelombangnya pasti sudah terhalang pulau yang mengelilinginya. 
+
+" Asumsi tsunami terjadi seperti saat letusan <TIMEX3 tid="t21" type="DATE" value="1883">1883</TIMEX3> tak bisa dipakai, " katanya. 
+
+Erupsi bisa memicu tsunami tetapi secara tidak langsung, misalnya karena longsoran yang terjadi di luar pulau sekitar gunung. 
+
+Namun untuk bisa memicu tsunami, longsoran juga harus dalam jumlah besar. 
+
+" Sampai <TIMEX3 tid="t22" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kita belum punya data jadi semua masih hipotesis, " ungkap Muhari. 
+
+Surono mengatakan, jika memang tsunami disebabkan longsoran, maka letusannya juga harus besar. 
+
+Menurutnya, erupsi <TIMEX3 tid="t23" type="DATE" value="2018-12-22">kemarin</TIMEX3> tak cukup besar untuk menghasilkan longsoran yang bisa memicu tsunami.Dia menambahkan, kalau ada longsoran, luruhnya material ke dasar laut pasti menimbulkan getaran. " Kalau ada alat yang bisa mem.Muhari punya dugaan lain. 
+
+Salah satu dasarnya adalah waktu sampai gelombang tsunami yang acak.Berdasarkan pendataannya, gelombang tsunami sampai di Kota Agung yang berjarak 111,5 km dari gunung hampir bersamaan dengan waktu sampai Pantai Marina yang berjarak 55 km, masing-masing pada <TIMEX3 tid="t24" type="TIME" value="2018-12-22T21:27">pukul 21.27 WIB</TIMEX3> dan <TIMEX3 tid="t25" type="TIME" value="2018-12-22T21:35">21.35 WIB</TIMEX3>.Menurutnya, fakta itu menjadi masuk akal jika tsunami disebabkan oleh faktor cuaca. 
+
+Fenomena itu disebut dengan meteo-tsunami.Perubahan tekanan atmosfer secara tiba-tiba dapat memicu gelombang besar yang menyerupai tsunami. " BMKG perlu melihat data cuaca dalam rentang waktu yang lebih panjang, mungkin <TIMEX3 tid="t26" type="DURATION" value="P1W">seminggu</TIMEX3> ke belakang, untuk melihat apakah ada perubahan signifikan faktor cuaca itu, " katanya.Namun, Kepala Lembaga Penerbangan dan Antariksa Nasional (LAPAN) Thomas Djamaluddin mengatakan, sangat kecil kemungkinan tsunami disebabkan oleh faktor meteorologi. " Tidak ada dasar yang menjelaskan perubahan tekanan tiba-tiba. 
+
+Perubahan tekanan karena pemanasan. 
+
+Tsunami terjadi pada <TIMEX3 tid="t27" type="TIME" value="2018-12-22TNI">malam hari</TIMEX3> jadi tidak mungkin, " katanya.Dia meyakini, Anak Krakatau bukan satu-satunya pemicu tsunami Selat Sunda.Faktor lain yang menyebabkan adalah gelombang tinggi akibat faktor purnama dan angin.Gelombang tinggi karena angin jika digabung dengan pasang maksimum karena purnama bisa menyebabkan banjir rob yang melimpas ke daratan lebih jauh. " Bila ada gelombang tambahan dari tsunami akibat longsoran, walau sesungguhnya tidak besar, banjir rob bertambah kekuatannya sehingga bisa merusak, " ungkapnya.Terlepas dari perdebatan yang ada, Surono mengungkapkan bahwa setiap bencana pasti memiliki gejala yang bisa di. 
+
+(*) 
+</TEXT>
+
+</TimeML>

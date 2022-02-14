@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1112</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-31" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-31</TIMEX3></DCT>
+
+<TITLE>Reaksi Ghea Gayatri Mantan Istri Ifan Seventeen saat Ditanya Musibah yang Dialami Ifan</TITLE>
+
+<TEXT>
+Ifan Seventeen sedang menjadi sorotan publik setelah dirinya selamat dari musibah tsunami Banten pada <TIMEX3 tid="t1" type="DATE" value="2018-12-22">22 Desember 2018 lalu</TIMEX3>. 
+
+Meski berhasil selamat, Ifan harus rela kehilangan tiga orang rekan personel Seventeen dan istri tercintanya, Dylan Sahara. 
+
+Ifan menikahi Dylan Sahara di <TIMEX3 tid="t2" type="DATE" value="2016">tahun 2016 lalu</TIMEX3> dan harus kehilangan istrinya tersebut di <TIMEX3 tid="t3" type="DATE" value="2018">penghujung tahun 2018</TIMEX3>. 
+
+Seperti malang tak bisa ditolak dan mujur tak bisa diraih, Ifan kembali menduda untuk yang kedua kalinya. 
+
+Ya, tidak banyak yang tahu Ifan sudah pernah menikah dan bahkan memiliki satu orang anak perempuan. 
+
+Ifan menikah dengan perempuan bernama Ghea Astrid Gayatri di <TIMEX3 tid="t4" type="DATE" value="2006">tahun 2006</TIMEX3> silam dan keduanya mengarungi biduk rumah tangga selama <TIMEX3 tid="t5" type="DURATION" value="P6Y">6 tahun</TIMEX3>. 
+
+Ifan mempersunting Ghea ketika perempuan itu masih menyandang status sebagai mahasiswi kedokteran. 
+
+Menikah di usia muda yakni <TIMEX3 tid="t6" type="DURATION" value="P23Y">23 tahun</TIMEX3>, rumah tangga Ifan dan Ghea akhirnya kandas di meja hijau. 
+
+Ya, Ghea Astrid Gayatri memutuskan untuk menggugat cerai Ifan Seventeen di <TIMEX3 tid="t7" type="DATE" value="2011">penghujung tahun 2011</TIMEX3>. 
+
+Dilansir dari Wikipedia, mereka berdua memiliki anak perempuan yang bernama Rania Dzaqira, yang <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">kini</TIMEX3> berada di dalam asuhan sang ibunda. 
+
+// Kabar perceraian Ifan dan Ghea sempat menjadi perbincangan publik dan banyak yang bertanya-tanya apa yang mendasari perpisahan tersebut. 
+
+Meskipun sampai <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kedua belah pihak memilih bungkam, ada kabar beredar bahwa Ghea menggugat cerai Ifan karena isu perselingkuhan. 
+
+Kabar tersebut semakin menguat ketika Ifan kedapatan membawa seorang gadis cantik saat menghadiri acara ulang tahun Seventeen ke-13 padahal proses cerainya masih bergulir. 
+
+Dilansir dari tayangan 'Hot Issue' Indosiar, belakangan baru diketahui kalau gadis yang berfoto mesra dengan Ifan <TIMEX3 tid="t10" type="DATE" value="UNKNOWN">kala itu</TIMEX3> adalah Dylan Sahara. 
+
+Hal itu mencuat kembali ketika Semptember <TIMEX3 tid="t11" type="DATE" value="2018">2018 lalu</TIMEX3>, terjadi insiden serupa di mana foto Ifan bersama seorang wanita di kamar hotel tersebar luas. 
+
+<TIMEX3 tid="t12" type="DURATION" value="P7Y">Tujuh tahun</TIMEX3> berlalu, <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">kini</TIMEX3> kabarnya Ghea Astrid Gayatri menetap di Kediri, Jawa Timur. 
+
+Ghea menikah dengan rekan dokter seprofesinya di <TIMEX3 tid="t14" type="DATE" value="2014">tahun 2014</TIMEX3> silam. 
+
+Dari pernikahan tersebut, Ghea dan sang suami dikaruniai dua orang anak laki-laki sekaligus adik bagi Rania. 
+
+Namun, ketika Ghea dimintai keterangan oleh awak media terkait musibah yang menimpa Ifan Seventeen, ibu tiga anak ini memilih bungkam. 
+</TEXT>
+
+</TimeML>

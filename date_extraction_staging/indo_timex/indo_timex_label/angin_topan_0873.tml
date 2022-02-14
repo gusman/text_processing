@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0873</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-01-31" temporalFunction="false" functionInDocument="CREATION_TIME">2017-01-31</TIMEX3></DCT>
+
+<TITLE>Awas Ada Pohon Tumbang di Jalan Merdeka</TITLE>
+
+<TEXT>
+Hujan disertai angin kencang sejak <TIMEX3 tid="t1" type="DURATION" value="2017-01-01TNI">semalam</TIMEX3> hingga <TIMEX3 tid="t2" type="TIME" value="2017-01-31TMO">pagi ini</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2017-01-31">Selasa (31/1/2017)</TIMEX3> membuat arus lalu lintas di kawasan Jalan Merdeka atau tepatnya di depan kantor Pajak Palembang mendadak macet. 
+
+Hal itu disebabkan karena adanya pohon tua yang tumbang akibat terpaan angin kencang. 
+
+Pohon yang jatuh menutupi ruas jalan di sana. 
+
+Imbasnya, masyarakat khususnya pelajar dan pekerja saat melintas di areal tersebut memilih untuk memutar, lantaran hampir seluruh badan jalan tertutup oleh pohon tumbang tersebut. 
+
+" Saya mau ke arah BKB, jadi terpaksa ambil jalan pintas memutar karena ada pohon tumbang. 
+
+Tidak tahu kapan persisnya kejadian ini, sejak saya lewat <TIMEX3 tid="t4" type="TIME" value="2017-01-31T06:30">sekitar 06.30 pagi ini</TIMEX3> sudah ada, " jelas Kurniawan seorang pengendara motor. 
+
+Hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pohon tumbang masih melintang di sana, pihak terkait belum melakukan evakuasi. 
+
+
+</TEXT>
+
+</TimeML>

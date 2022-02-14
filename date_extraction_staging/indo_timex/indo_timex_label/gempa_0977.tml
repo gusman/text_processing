@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0977</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-05-03" temporalFunction="false" functionInDocument="CREATION_TIME">2015-05-03</TIMEX3></DCT>
+
+<TITLE>Bayi Lima Bulan Selamat Dari Reruntuhan Gempa Nepal</TITLE>
+
+<TEXT>
+Keajaiban terjadi pada seorang bayi berusia <TIMEX3 tid="t1" type="DURATION" value="P5M">lima bulan</TIMEX3>, bernama Sonies, korban dari gempa bumi Nepal. 
+
+Sonies yang tertimbun reruntuhan bangunan selama <TIMEX3 tid="t2" type="DURATION" value="PT22H">22 jam</TIMEX3>, ditemukan selamat tanpa luka atau cedera apapun. 
+
+Ibu Sonies, Rasmila Sawal (35) bersyukur dengan keselamatan putranya ini. 
+
+" Saya sangat bahagia dan seakan tak percaya akan hal ini. 
+
+Tadinya saya yakin kalau bayi saya telah meninggal, " ceritanya. 
+
+Sang suami, Shyan Sawal (34) berbicara pada Dailymail, " Saya adalah pria paling bahagia di muka bumi ini. 
+
+" Shayn sebelumnya telah melakukan pencarian lewat menggali reruntuhan dengan tangan kosong untuk menyelamatkan putranya. 
+
+Namun, sayangnya usaha yang dilakukan tak membuahkan hasil. 
+
+Malah mengharuskan dirinya sabar menunggu bala bantuan dari tim penyelamat <TIMEX3 tid="t3" type="DATE" value="2015-05-04">keesokan harinya</TIMEX3>. 
+
+Rasmila sang ibu berkata, " Saya pergi berbelanja, dan meninggalkan anak perempuan saya yang berusia <TIMEX3 tid="t4" type="DURATION" value="P10Y">10 tahun</TIMEX3>, Sonia, bersama addiknya Sonies. 
+
+Ketika gempa bumi terjadi, sontak saya berlari menuju rumah sambil menangis. 
+
+Saya pikir, saya tak akan pernah bisa melihat mereka berdua lagi, " kenangnya sedih. 
+
+Dari cerita yang didapat dari sang kakak Sonia saat gempa dahsyat terjadi, dirinya berlari menyelamatkan diri ke luar rumah. 
+
+Sedangkan sang adik Sonies, tertinggal di dalam rumah dan tetap tertidur di atas ranjangnya.Untungnya, sebuah bantal besar menutupi Sonies saat kejadian gempa terjadi. 
+
+" Saya berdoa pada semua dewa untuk sebuah keajaiban, dan akhirnya, doa saya terjawab sudah, " ujar Rasmila sang Ibu.Saat ini keluarga Sawal harus menetap di kediaman tetangganya yang masih utuh, lantaran rumah keluarganya telah rata dengan tanah akibat gempa bumi berkekuatan hebat tersebut. 
+</TEXT>
+
+</TimeML>

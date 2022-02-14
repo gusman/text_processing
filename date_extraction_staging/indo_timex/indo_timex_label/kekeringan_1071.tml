@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_1071</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-11-09" temporalFunction="false" functionInDocument="CREATION_TIME">2016-11-09</TIMEX3></DCT>
+
+<TITLE>Hujan Turun, Danau Toba Masih Surut</TITLE>
+
+<TEXT>
+Meski hujan sudah mulai turun membasahi Pulau Samosir, namun volume air Danau Toba tidak kunjung naik dan masih terlihat menyurut. 
+
+Pantuan Gosumut, <TIMEX3 tid="t1" type="DATE" value="2016-11-09">Rabu</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2016-11-09">(9/11/2016)</TIMEX3> di Pangururan, permukaan danau masih seperti hari-hari biasanya yakni surut sekitar puluhan meter dari garis pantai. 
+
+Bahkan, aktivitas para warga seperti mandi serta mencuci baju dan piring harus berjalan kaki menjorok lebih dalam lagi ke arah danau. 
+
+" Masih saja surut, untuk mencuci baju dan piring saja kami harus jalan ke dalam, " kata Sitanggang salah satu warga Buhit, Pangururan kepada Analisa. 
+
+Hal yang sama juga terlihat di Dermaga Simanindo menuju Tigaras. 
+
+Para awak kapal pengangkut harus berjibaku mengangkat sepeda motor dari badan kapal, karena posisi kapal sudah berada di bawah dermaga. 
+
+Air Danau Toba sendiri sudah mulai surut sejak <TIMEX3 tid="t3" type="DATE" value="2016-02">Februari 2016 lalu</TIMEX3>. 
+
+Setiap harinya, air danau kebanggaan Sumut ini semakin surut dan diperkirakan hingga <TIMEX3 tid="t4" type="DATE" value="2016-11">November</TIMEX3> saat sudah surut sekitar 40 meter. 
+
+Surutnya air danau ini diprediksi karena <TIMEX3 tid="t5" type="DATE" value="2016-SU">musim kemarau</TIMEX3> yang berkepanjangan dan tinggginya aktivitas perusahaan pembuatan Aluminium yang menggunakan air Danau Toba untuk memutar mesin-mesin turbinnya. 
+
+Akibat kemarau yang berkepanjangan ini, para petani yang ada di Samosir banyak yang gagal panen karena tanaman tidak bisa tumbuh karena kekeringan. 
+
+Belum lama ini, masyarakat dari beberapa desa mengeluhkan kurangnya perhatian Pemerintah Kabupaten Samosir dalam menyediakan sarana pompa air. 
+
+Akibatnya, beberapa tanaman nyaris mati dan terancam gagal panen. 
+
+Kepala Desa Parhorasan, Pangururan, Baja Sihotang menerangkan, tanaman kopi di ladang milik warganya sudah banyak yang mati akibat kemarau yang berkepanjangan. 
+
+" Kemarau dan musim kering sudah sangat menyedihkan, tanaman seperti kopi banyak yang mati dan padi nyaris gosong, " katanya.Diakui Baja, akibat kemarau yang berkepanjangan, beberapa warga tidak lagi menjual hasil panennya ke pasar-pasar tradisional seperti hari - <TIMEX3 tid="t6" type="DATE" value="2016-11-08">hari sebelumnya</TIMEX3>, sehingga para petani memilih berpasrah di rumahnya dan tidak berbelanja lagi ke pasar. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0286</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-24</TIMEX3></DCT>
+
+<TITLE>Kebakaran Lahan Terjadi di Bonebol</TITLE>
+
+<TEXT>
+Kebakaran lahan kembali terjadi di Kabupaten Bone Bolango (Bonebol), <TIMEX3 tid="t1" type="DATE" value="2019-09-23">Senin (23/9) kemarin</TIMEX3>. 
+
+Kali ini kebakaran lahan terjadi di Desa Ulantha Kecamatan Suwawa dan di Desa Luwohu Kecamatan Botupingge. 
+
+Di Desa Ulantha Kecamatan Suwawa, lahan yang terbakar milik Yamin Tangahu, <TIMEX3 tid="t2" type="TIME" value="2019-09-23T12:30">sekitar pukul 12.30</TIMEX3> wita. 
+
+Melihat lahannya terbakar, Yamin segera memanggil warga dan kepala desa untuk segera dilakukan memadamkan api. 
+
+Sumber api berasal dari tengah-tengah lahan yang dikelilingi ilalang yang sudah mengering. 
+
+Atas kejadian itu, satu unit mobil Damkar Dinas Satpol PP diturunkan untuk membantu warga bersama Personil Polres Bonebol dan Polsek Suwawa memadamkan api. 
+
+Pada <TIMEX3 tid="t3" type="TIME" value="2019-09-23T13:40">Pukul 13.40</TIMEX3> Wita, api berhasil dipadamkan. 
+
+Kepala Bidang Damkar Dinas Satpol PP Kabupaten Bone Bolango, Roynal Akbar Otoluwa, mengatakan dalam <TIMEX3 tid="t4" type="DURATION" value="P1M">satu bulan</TIMEX3> terakhir ini, kebakaran di Bonebol sudah 16 kasus. 
+
+Pihaknya pun berupaya untuk memadamkan setiap kasus kebakaran itu. 
+
+Namun demikian, ada juga lokasi-lokasi kebakaran tertentu yang tidak bisa dijangkau oleh petugas pemadam kebakaran. 
+
+Seperti lahan yang lokasinya sudah berada di puncak gunung atau memasuki hutan lindung. 
+
+tentu kita tidak bisa menuju ke lokasi-lokasi tersebut. 
+
+Harus dengan usaha yang lebih, seperti ada pemadaman lewat udara atau pemadaman dengan membuka akses hydrant ke lokasi atau titik-titik kebakaran, ujarnya. 
+
+Roynal mengimbau kepada masyarakat untuk tidak membakar lahan dan sampah pada saat musim kemarau seperti ini. 
+
+Jika ingin membakar sampah, maka harus diawasi dan jangan ada tumpukan besar. 
+
+Roynal menambahkan, jumlah anggota tim Damkar Bone Bolango cukup. 
+
+kita ada empat regu dan masing-masing regu terdiri dari <TIMEX3 tid="t5" type="DATE" value="2019-06-05">5-6</TIMEX3> anggota. 
+
+Kekuarangan kita <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> adalah mobil Damkar, ungkapnya. 
+
+Alhamdulillah sampai <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kita masih dibantu Damkar Provinsi dan Kota Gorontao, termasuk dari BPBD Bone Bolango untuk mensuplai air ketika terjadi kebakaran, tuturnya. 
+
+(gus-57) 
+</TEXT>
+
+</TimeML>

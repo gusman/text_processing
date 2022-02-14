@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1054</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-11" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-11</TIMEX3></DCT>
+
+<TITLE>12 Hari Pasca Gempa dan Tsunami, MRA bekerjasama dengan Laznas Dewan Dakwah Adakan Konsuling Trauma Bagi Anak-Anak</TITLE>
+
+<TEXT>
+Hari ke 12 pasca gempa dan tsunami di kota Palu, Malaysian Relief Agency (MRA) bekerjasama Laznas Dewan Dakwah, memberikan bantuan pendidikan kepada anak-anak yang menjadi korban akibat gempa dan tsunami. 
+
+Bantuan awal yang diberikan berupa konsuling trauma dan pembagian bingkisan. 
+
+Rencananya kegiatan tersebut bakal diadakan <TIMEX3 tid="t1" type="SET" value="UNKNOWN">tiga minggu sekali</TIMEX3>, selama masa tanggap darurat. 
+
+Selain memberikan bantuan pendidikan, selama tanggap darurat, MRA juga bakal menurunkan tim medis, untuk membantu para korban yang ada di kamp-kamp pengungsian. 
+
+Setiap tim medis beranggotakan 2 dokter, 2 perawat dan 1 orang bagian logistik atau obat-obatan, kata Chief President MRA, Khairil Annuar, kepada Sulteng Raya, di posko induk Laznas Dewan Dakwah, <TIMEX3 tid="t2" type="TIME" value="2018-10-10TNI">Rabu malam</TIMEX3> (10/10/2018). 
+
+Khairil menambahkan, MRA bersama Laznas Dewan Dakwah, juga memprogramkan bantuan berupa air bersih dan MCK, untuk para korban yang masih berada di kamp-kamp pengungsian. 
+
+Selain program bantuan di atas, lanjut Khairil, masuk masa rekonstruksi atau pemulihan pasca gempa dan tsunami di kota Palu, MRA bekerjasama Laznas Dewan Dakwah, bakal berupaya membangun hunian sementara, untuk para korban yang sudah tidak memiliki rumah. 
+
+Kami juga bakal berupaya membangun rumah sementara dan tempat ibadah, untuk para korban di sini. 
+
+Seperti 450 unit yang kami bangun di Padang Pariyaman dan membangun suro di Yogya. 
+
+Kami dari MRA, tetap berkoordinasi dengan Laznas Dewan Dakwah, apa-apa saja yang bakal kami programkan untuk membantu korban gempa dan tsunami di kota Palu, Donggala dan Sigi, lanjut Khairil. 
+
+Di tempat yang sama, Koordinator Logistik Posko Induk Laznas Dewan Dakwah korban gempa dan tsunami kota Palu, yang akrab di sapa Bowo menjelaskan, selain MRA, sejak <TIMEX3 tid="t3" type="DATE" value="2018-04-03">3-4</TIMEX3> hari pasca bencana di kota palu, sudah ada beberapa negara seperti Turki dan Inggris bekerjasama dengan Laznas Dewan Dakwah, langsung turun memberikan bantuan kepada korban. 
+
+Kami sudah membagikan <TIMEX3 tid="t4" type="DATE" value="2000">sekitar 2000</TIMEX3> lebih paket sembako spesial kepada 700 lebih kepala keluarga yang menjadi korban. 
+
+Paket sembako spesial itu berupa 10 kilo beras, 2 kilo minyak goreng, 2 bungkus garam, 1 bungkus mentega dan beberapa kebutuhan pokok lainnya. 
+
+Pembagian paket sembako spesial tersebut juga bukan hanya dalam kota Palu, kami juga sampai ke kabupaten Sigi dan Donggala yang juga menjadi korban bencana. 
+
+Tak hanya itu saja, tenda bagi para pengungsi juga kami bangunkan. 
+
+Dalam waktu dekat juga, perwakilan negara Jerman dan beberapa negara lain bakal turun langsung untuk membantu. 
+
+Kami berusaha membantu semaksimal mungkin, saudara-saudara kita yang menjadi korban akibat gempa dan tsunami di kota Palu, kabupaten Donggala dan Sigi, jelas Bowo. 
+</TEXT>
+
+</TimeML>

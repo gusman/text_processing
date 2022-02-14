@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0666</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-04-10" temporalFunction="false" functionInDocument="CREATION_TIME">2016-04-10</TIMEX3></DCT>
+
+<TITLE>Gunung Bromo Keluarkan Abu Vulkanik, Bandara Abdulrachman Saleh Ditutup</TITLE>
+
+<TEXT>
+Penerbangan dari Bandara Abdulrachman Saleh, Kecamatan Pakis, Kabupaten Malang ditutup pada <TIMEX3 tid="t1" type="DATE" value="2016-04-10">Minggu (10/4/2016)</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2016-04-09T13:30">sekitar pukul 13.30 WIB</TIMEX3>. 
+
+Penutupan ini akibat aktivitas Gunung Bromo yang kembali mengeluarkan abu vulkanik. 
+
+Kepala UPT Bandara Abdulrachman Saleh, Suharno, mengatakan akibat penutupan itu empat penerbangan yang jadwalnya di atas <TIMEX3 tid="t3" type="TIME" value="2016-04-09T13:30">pukul 13.30</TIMEX3> dibatalkan penerbangannya dari bandara tersebut. 
+
+Sementara lima penerbangan lain tak terganggu karena sudah berangkat sebelum Notam sampai ke pihak bandara. 
+
+Penerbangan yang batal itu masing-masing tiga tujuan Jakarta dan satu tujuan Denpasar, Bali. 
+
+Penutupan sampai <TIMEX3 tid="t4" type="DATE" value="2016-04-11">besok</TIMEX3> (<TIMEX3 tid="t5" type="DATE" value="2016-04-04">Senin</TIMEX3>) <TIMEX3 tid="t6" type="TIME" value="2016-04-09T09:00">pukul 09.00 WIB</TIMEX3>, tambah Suharno. 
+
+Menurut dia, ada tiga maskapai yang terdampak, yakni Batik Air, Sriwijaya, dan Wing Air. 
+
+Masing-masing mempunyai solusi tersendiri kepada pelanggan. 
+
+Untuk Batik dan Sriwijaya, misalnya, memilih memindahkan penerbangan ke Bandara Internasional Juanda di Sidoarjo menggunakan bus. 
+
+Sementara (penerbangan) Wings Air dibatalkan, tambahnya. 
+
+Bedasarkan catatan SURYAMALANG. 
+
+COM, dampak abu vulkanik di Gunung Bromo sudah membuat bandara dibuka-tutup beberapa kali. 
+
+Penutupan pertama di <TIMEX3 tid="t7" type="DATE" value="UNKNOWN">masa ini</TIMEX3> terjadi pada <TIMEX3 tid="t8" type="DATE" value="2015-12">Desember</TIMEX3> tahun lalu.Terakhir, penutupan bandara akibat gejala alam ini terjadi pada <TIMEX3 tid="t9" type="DATE" value="2016-01">Januari 2016</TIMEX3>. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1186</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-03-15" temporalFunction="false" functionInDocument="CREATION_TIME">2018-03-15</TIMEX3></DCT>
+
+<TITLE>Diguyur Hujan Hingga Banjir Setinggi Dengkul Orang Dewasa, SDN 162 Palembang Liburkan Para Siswanya</TITLE>
+
+<TEXT>
+Sungguh miris keadaan SDN 162 Palembang yang terletak di jalan R Sukamto lorong rawa bening kecamatan Kemuning ini. 
+
+Akibat hujan deras yang melanda kota Palembang sejak <TIMEX3 tid="t1" type="DATE" value="2018-03-15">Kamis</TIMEX3> dini hari (15/3/2018) membuat sekolah ini banjir setinggi dengkul orang dewasa. 
+
+Sekolah yang terletak dekat mall ternama di kota Palembang ini pun terpaksa meliburkan siswa-siswinya. 
+
+. 
+
+Hartani, salah satu guru mengaku hujan deras sejak <TIMEX3 tid="t2" type="TIME" value="2018-03-15TMO">dini hari</TIMEX3> membuat SDN 162 Palembang jadi banjir. 
+
+" Sekolah ini memang berada diatas rawa. 
+
+Jadi <TIMEX3 tid="t3" type="SET" value="UNKNOWN">setiap hujan</TIMEX3> deras pasti kita banjir, " ujarnya. 
+
+. 
+
+" Ini masih mending kalau hujannya lebih lama lagi pasti lebih dalam lagi masuk airnya, " jelas dia. 
+
+// Lanjutnya, ada 9 ruangan yang digenangi air ini dan beberapa kelas ada yang tidak karena posisinya lebih tinggi dan sudah dibangun. 
+
+. 
+
+Ia mengatakan belum tahu sampai kapan siswa libur. 
+
+. 
+
+" Biasanya kalau gak hujan lagi <TIMEX3 tid="t4" type="DATE" value="2018-03-16">besok</TIMEX3> sudah surut tapi kita tidak tahu semoga saja ini gak hujan lagi, " tambahnya. 
+
+
+</TEXT>
+
+</TimeML>

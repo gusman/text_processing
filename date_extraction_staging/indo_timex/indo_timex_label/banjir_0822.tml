@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0822</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-10" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-10</TIMEX3></DCT>
+
+<TITLE>Banjir di Sergai Telan Korban, Balita 1,5 Tahun Tewas Tenggelam</TITLE>
+
+<TEXT>
+Banjir yang terjadi di Desa Sei Rampah Kecamatan Sei Rampah Kabupaten Serdang Bedagai, Sumatera Utara memakan korban <TIMEX3 tid="t1" type="DATE" value="2018-10-10">Rabu</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2018-10">(10/10/2018)</TIMEX3>. 
+
+Seorang balita, Salsabila Nadhifa yang berusia <TIMEX3 tid="t3" type="DURATION" value="P1Y6M">1,5 tahun</TIMEX3> tewas setelah tenggelam di dalam air yang menggenangi rumahnya. 
+
+Kepala Desa Sei Rampah, Munajat menceritakan kalau kejadian itu terjadi sekira <TIMEX3 tid="t4" type="TIME" value="2018-10-09T08:30">pukul 08.30 WIB</TIMEX3>. 
+
+<TIMEX3 tid="t5" type="DATE" value="PAST_REF">Saat itu</TIMEX3> neneknya Misrawati sedang mengayun korban di dalam rumah. 
+
+Setelah tertidur neneknya itu pun pergi ke depan rumah. 
+
+" Jadi neneknya ini sempat meninggalkan korban ke depan. 
+
+Mungkin setelah ditinggalkan itu dia (korban) terbangun dan turun. 
+
+Rumah neneknya ini banjir dan air sekitar 60 cm masuk ke dalam rumah, " ujar Munajat. 
+
+<TIMEX3 tid="t6" type="DATE" value="PXX">Beberapa saat kemudian</TIMEX3> neneknya itu pun kembali dan melihat ke arah ayunan. 
+
+<TIMEX3 tid="t7" type="DATE" value="PAST_REF">Saat itu</TIMEX3> korban tidak ditemukannya dan setelah dicari-cari bersama suaminya korban pun ditemukan tenggelam di dalam ruang tengah rumah. 
+
+" Korban ini belum bisa jalan dan baru bisa merangkak. 
+
+Setelah ditemukan itu kami bawa langsung ke Puskesmas dan kemudian kami bawa ke rumah sakit Sultan Sulaiman. 
+
+Menurut aku sih sudah saat di dalam rumah itu sudah meninggal cuma dokter lah yang memastikan baru kita tahu, " kata Munajat. 
+
+Salsabila ini merupakan anak kedua dari Irwan Efendi yang <TIMEX3 tid="t8" type="SET" value="P1D">sehari-hari</TIMEX3> bekerja sebagai tukang becak. 
+
+Ibu korban sudah meninggal disaat usianya baru <TIMEX3 tid="t9" type="DURATION" value="P2M">dua bulan</TIMEX3>. 
+
+Ibunya meninggal karena terkena kanker. 
+
+" Tadi setelah sholat Ashar langsung dikebumikan korban. 
+
+Kalau banjir kawasan Desa ini baru sejak <TIMEX3 tid="t10" type="TIME" value="2018-10-09TNI">Selasa malam</TIMEX3> mulainya. 
+
+Ini kejadian pertama lah ada warga kita yang meninggal karena banjir, " kata Munajat. 
+
+(dra/tribun-medan.com). 
+</TEXT>
+
+</TimeML>

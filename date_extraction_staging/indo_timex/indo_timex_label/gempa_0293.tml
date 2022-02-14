@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0293</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-05" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-05</TIMEX3></DCT>
+
+<TITLE>Fokus Penanganan Gempa dan Tsunami, Festival Karawo 2018 Ditunda</TITLE>
+
+<TEXT>
+Duka mendalam masih dirasakan oleh seluruh masyarakat Indonesia atas bencana gempa dan tsunami yang melanda Palu dan Donggala, Sulawesi <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Tengah pekan kemarin</TIMEX3>. 
+
+Hal ini jugalah yang menjadi alasan ditundanya iven Festival Karawo <TIMEX3 tid="t2" type="DATE" value="2018">2018</TIMEX3>. 
+
+Gubernur Gorontalo Rusli Habibie mengatakan, pelaksanaan Festival Karawo <TIMEX3 tid="t3" type="DATE" value="2018">2018</TIMEX3> yang sejatinya digelar <TIMEX3 tid="t4" type="DATE" value="2018-09-29">Sabtu</TIMEX3>, <TIMEX3 tid="t5" type="DATE" value="2018-10-06">6 Oktober 2018</TIMEX3> ditunda pelaksanaanya pada <TIMEX3 tid="t6" type="DATE" value="2018-10-20">20 Oktober nanti</TIMEX3>. 
+
+<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Sekarang ini</TIMEX3> pemerintah dan masyarakat Gorontalo yang masih fokus untuk membantu penanganan korban gempa dan tsunami di Sulawesi Tengah. 
+
+Bencana di Sulteng belum <TIMEX3 tid="t8" type="DURATION" value="P1W">sepekan</TIMEX3>, rasanya tidak pantas jika kita warga Gorontalo menggelar festival di situasi seperti ini, kata Rusli, <TIMEX3 tid="t9" type="DATE" value="2018-10-04">kemarin</TIMEX3>. 
+
+Dikatakan <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> fokus pemerintah dan masyarakat bagaimana bisa membantu dan mengevakuasi warga Gorontalo di Palu. 
+
+Duka Palu dan sekitarnya adalah duka kita. 
+
+Tidak saja pemerintah, tapi juga seluruh masyarakat yang aktif menggalang bantuan bahkan terjun langsung ke lokasi sebagai relawan, imbuhnya. 
+
+<TIMEX3 tid="t11" type="DATE" value="2018-10-06">Tanggal 6 Oktober nanti</TIMEX3> dijadwalkan Gubernur Rusli bersama unsur Forkopimda dan sejumlah pimpinan OPD akan berkunjung ke Palu, Sulawesi Tengah. 
+
+Selain direncanakan bertemu dengan Gubernur Sulteng Longki Janggola, Rusli akan meninjau posko bantuan dan bertemu dengan korban gempa di pengungsian. 
+
+(RG-25) 
+</TEXT>
+
+</TimeML>

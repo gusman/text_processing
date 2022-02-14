@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0852</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-06-28" temporalFunction="false" functionInDocument="CREATION_TIME">2016-06-28</TIMEX3></DCT>
+
+<TITLE>Banjir Rendam Pemukiman Warga di Polman</TITLE>
+
+<TEXT>
+Puluhan rumah di Lingkungan Kandeapi, Kelurahan Tinambung, Kecamatan Tinambung, Kabupaten Polewali Mandar, Sulawesi Barat terendam banjir setinggi 40 centimeter, Selasa dinihari (28/6/2016).
+
+Banjir terjadi disebabkan hujan deras yang mengguyur selama tiga jam.
+
+Sejumlah warga berusaha menyelamatkan harta dan benda mereka dari genangan banjir.
+
+Selain karena diguyur hujan penyebab banjir diduga karena saluran drainase yang sempit sehingga tidak dapat menampung air.
+
+Meskipun air semakin meninggi namun warga enggan untuk mengungsi dan memilih tetap berada dalam rumah mereka.
+
+Aco salah satu warga mengaku tidak sempat menyelamatkan harta bendanya dari banjir ini.
+
+Pasalnya banjir datang secara tiba-tiba saat sebagian warga sedang tidur.
+
+(sms) 
+</TEXT>
+
+</TimeML>
+

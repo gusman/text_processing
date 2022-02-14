@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0341</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-21" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-21</TIMEX3></DCT>
+
+<TITLE>Beberapa Detik setelah Diguncang Gempa 4,9 Magnitudo, Tebing di Garut Alami Longsor</TITLE>
+
+<TEXT>
+Telah terjadi longsor di salah satu tebing yang berdekatan dengan jalan utama penghubung Bandung dengan daerah priangan timur seperti Garut, Tasikmalaya, Ciamis, Pangandaran, hingga Banjar. 
+
+Kejadian tersebut berlangsung <TIMEX3 tid="t1" type="TIME" value="2020-02-14TMO">pagi tadi Jumat</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2020-02-21T07:57">21 Februari 2020 pukul 7.57 WIB</TIMEX3> di Jalan Palasari Cijolang, Limbangan, Garut yang merupakan akses nasional jalan raya Limbangan-Nagreg. 
+
+Seperti diberitakan sebelumnya oleh Pikiranrakyat-tasikmalaya. 
+
+com, di waktu bersamaan juga terjadi gempa bumi yang mengguncang wilayah Kabupaten Tasikmalaya dengan kekuatan 4,9 magnitudo. 
+
+Gempa tersebut turut dirasakan beberapa wilayah lainnya seperti Garut, Sukabumi, hingga Pangandaran. 
+
+.17 LS - 107.5 BT dengan episenter berada di 112 km dari barat daya pusat Kabupaten Tasikmalaya. 
+
+Sedangkan hiposenter atau kedalaman titik pusat gempa terjadi di 11 km. 
+
+Namun, gempa tersebut tidak memicu terjadinya tsunami. 
+
+Gempa hanya berdampak kepada getaran kuat yang dirasakan wilayah-wilayah sepanjang pantai selatan. 
+
+Gempa dirasakan wilayah Pangandaran dengan kekuatan III MMI Sukabumi dan II-III MMI untuk wilayah Garut, Tasikmalaya, serta Pangandaran. 
+
+Getaran tersebut salah satunya berdampak pada longsornya tebing di dekat SMKN 6 Garut tersebut. 
+
+
+</TEXT>
+
+</TimeML>

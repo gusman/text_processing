@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0999</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-09" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-09</TIMEX3></DCT>
+
+<TITLE>Gempa Magnitudo 6,2 Guncang Lombok hingga Mataram, Seorang Warga Meninggal</TITLE>
+
+<TEXT>
+Gempa bermagnitudo 6,2 dengan kedalaman 12 km yang berpusat di Lombok Utara terasa sampai Kota Mataram.
+
+Sejumlah rumah warga rusak, begitupun pertokoan di Cakra Negara dan Ampenan, Kota Mataram.
+
+Toko-toko di jantung perekonomian Kota Mataram pun langsung tutup total pascagempa mengguncang.
+
+Seorang pegawai travel Citra Mulya menjadi korban reruntuhan dan dilaporkan meninggal dunia setelah sempat dibawa ke Rumah Sakit Umum Provinsi (RSUP) NTB.
+
+.
+
+Kapolsek Cakra, Kompol Muslih mengatakan, gempa menyebabkan bagian depan toko ambruk dan menimpa dua orang warga.
+
+Seorang di antaranya meninggal dunia.
+
+Ini ada korban pegawai di travel di Cakra ini, korban terkena reruntuhan di bagian kepalanya"  .
+
+Sejauh ini, warga memilih meninggalkan rumah dan berada di tanah lapang atau tenda-tenda pengungsian.
+</TEXT>
+
+</TimeML>
+

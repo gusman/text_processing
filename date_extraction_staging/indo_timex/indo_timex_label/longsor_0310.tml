@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0310</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-11" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-11</TIMEX3></DCT>
+
+<TITLE>Cari Korban Longsor di Bogor, Basarnas Gunakan Ground Panatrating Radar</TITLE>
+
+<TEXT>
+Tim SAR Gabungan melanjutkan pencarian tiga korban longsor tertimbun pasca banjir bandang dan tanah longsor di Kab. 
+
+Bogor yang terjadi pada <TIMEX3 tid="t1" type="DATE" value="2020-01-01">1 Januari 2020</TIMEX3> memasuki hari ke 10 pencarian. 
+
+Berbagai upaya telah di coba semaksimal mungkin oleh Tim SAR Gabungan salah satunya dengan penggunaan dua alat pendeteksi korban yaitu Ground Panatrating Radar. 
+
+Alat ini mampu mendeteksi material dalam tanah dengan kedalaman maksimal 2.5 Meter. 
+
+Material yang di dalam tanah akan terdeteksi di layar yang berada pada alat tersebut, kata Kepala Kantor SAR Bandung, Deden Ridwansah, <TIMEX3 tid="t2" type="DATE" value="2020-01-11">11 Januari 2020</TIMEX3>. 
+
+Hingga <TIMEX3 tid="t3" type="TIME" value="2020-01-10T12:00">pukul 12.00 WIB</TIMEX3>, alat sudah mendeteksi 10 titik yang diduga terdapat korban namun masih nihil. 
+
+Selain menggunakan alat pendeteksi, dua unit alat berat milik PU juga terus diusahakan untuk masuk ke lokasi longsor dengan membuat akses jalan menuju lokasi longsor terlebih <TIMEX3 tid="t4" type="DATE" value="PAST_REF">dahulu</TIMEX3> yang nantinya akan membantu pencarian tiga korban yang masih dalam pencarian. 
+
+Tim SAR Gabungan dibagi menjadi 6 SRU (search and Rescue Unit) dengan masing masing 3 SRU dalam satu sektor dan 4 safety officer, ucapnya. 
+
+Tim SAR Gabunga juga masih mengupayakan dan memaksimalkan pencarian dengan melakukan penyemprotan tanah dengan alkon dan penggalian manual. 
+
+Data korban belum ditemukan a. 
+
+n Amri (60), Saroh (25) dan Cicih (5). 
+
+*Unsur SAR Gabungan* 3 Pers Basarnas Pusat 36 Pers Kansar Bandung 30 Pers Brimob Polda Jabar 4 Pers Kopasus 12 Pers Yonif 315 2 Pers Trabas 2 Pers Sumedang Rescue Mandiri 7 Pers Alfatah Rescue Bandung 6 Pers SAR MTA 1 Pers BPBD Sumedang 4 Pers ACT 15 Pers MDMC Jateng 15 Pers Potensi SAR Jawa Tengah 4 Pers SAR Muhamdiyah 2 pers Burial Karawang 8 pers Baitul Maal Kujang Karawang *Total 152 Pers**Alat yang digunakan* 2 unit alat berat 2 unit Groud Penetrating Radar (GPR) 3 unit Truck Personil 2 unit Rescue Car Double Cabin 3 unit Motor Trail 2 unit Alcon 1 Set Palkom 1 set Palsar Mountenairing 
+</TEXT>
+
+</TimeML>

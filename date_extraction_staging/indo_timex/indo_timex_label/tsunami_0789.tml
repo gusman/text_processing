@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0789</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-24</TIMEX3></DCT>
+
+<TITLE>Alat Ini Mestinya Dipasang di Tiga Pulau yang Mengelilingi Anak Krakatau, Hindari Korban Tsunami</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-12-22">Sabtu (22/12/2018) lalu</TIMEX3>, tsunami menghantam wilayah Banten dan Lampung secara tiba-tiba. 
+
+Sekitar 250 orang meninggal dunia. 
+
+Tsunami tersebut diduga dipicu oleh runtuhan badan Gunung Anak Krakatau. 
+
+Berbeda dengan tsunami yang didahului oleh gempa bumi, gelombang tinggi <TIMEX3 tid="t2" type="TIME" value="UNKNOWN">Sabtu malam kemarin datang</TIMEX3> tanpa peringatan dini. 
+
+Ini memunculkan pertanyaan, bisakah tsunami semacam ini memiliki early warning system (EWS) atau sistem peringatan dini? Hamzah Latief, ahli tsunami dari Institut Teknologi Bandung (ITB) mengatakan bahwa EWS untuk tsunami akibat aktivitas gunung api sangat mungkin dibuat. 
+
+Pendapat senada juga diungkapkan oleh Widjo Kongko, ahli tsunami dari Badan Pengkajian dan Penerapan Teknologi (BPPT). 
+
+Widjo menyebut sistem peringatan dini untuk tsunami tanpa gempa semacam ini bisa menggunakan sensor yang ditempatkan di laut. 
+
+Hamzah mengatakan bahwa cara ini justru lebih mudah dibanding sistem peringatan dini untuk tsunami akibat gempa bumi. 
+
+" Malah lebih gampang kalau early warning system-nya ini mau kita buat, karena sudah jelas sumbernya, " ungkap Hamzah ketika dihubungi Kompas. 
+
+com, <TIMEX3 tid="t3" type="DATE" value="2018-12-24">Senin (24/12/2018)</TIMEX3>. 
+
+Menurut Hamzah, sistem peringatan dini tsunami akibat gempa <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> harus menempatkan sensor di sepanjang pesisir Indonesia. 
+
+Alat yang diperlukan pun lebih beragam. 
+
+" Kalau ini kan, PVMBG sudah punya seismograf dan alat pemantauan Anak Krakatau. 
+
+Tinggal kita tambahkan aja sensor buoy atau alat untuk melihat anomali permukaan laut di sekitar Anak Krakatau udah bisa jadi early warning system, " kata Hamzah.Widjo juga sependapat dengan Hamzah. 
+
+Penggunaan sensor di laut bisa menjadi cara mudah untuk membuat sistem peringatan dini tsunami yang bersumber dari gunung api. 
+
+// " Sensor yang di laut bisa menggunakan beberapa cara, yang pasti kabel, sistem buoy yang mengapung, atau sistem pemancar, " kata Widjo. 
+
+Selain itu, Widjo juga menuturkan pentingnya alat sensor yang bisa melakukan perekaman aktivitas seperti longsoran. 
+
+Dengan perekaman semacam ini, nantinya dengan peralatan lain bisa memperkirakan kenaikan permukaan air laut. 
+
+" Kalau sistemnya bisa dibangun dan teknologinya ada, " kata Widjo menegaskan. 
+
+Hal ini juga diungkapkan oleh Hamzah. 
+
+Dia mengakatan bahwa pada tataran ilmu pengetahuan, pembangunan sistem ini sebenarnya bisa dilakukan. 
+
+Peneliti tsunami Indonesia di GNS Science, Aditya Gusman, mengungkapkan, stasiun pengamatan pasang surut bisa dipasang di salah satu dari tiga pulau yang mengelilingi Anak Krakatau. 
+
+" Sebisa mungkin di salah satu dari tiga pulau yang ada. 
+
+Karena semakin dekat dengan sumber maka sinyalnya semakin kuat. 
+
+Tetapi harus diperhatikan juga keselamatan alat. 
+
+Jangan sampai terlalu mudah rusak karena letusan, " jelasnya. 
+
+Menurutnya, tsunami akibat Anak Krakatau terbilang unik di dunia. 
+
+Dengan demikian, pengembangan sistem peringatan dininya pun perlu pendekatan lokal. 
+
+Ini menjadi kesempatan bagi Indonesia untuk mengembangkan sendiri mulai dari konsep. 
+
+" Jangan seperti <TIMEX3 tid="t5" type="DATE" value="2004">2004</TIMEX3>, kesempatan berinovasi anak negeri tercaplok oleh orang2 jerman yang <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">waktu itu baru</TIMEX3> belajar tsunami, " katanya.KendalaMeski mudah, membangun sistem peringatan dini ini tetap memiliki kendala. 
+
+Terutama pada alat sensor buoy. 
+
+// " Masalahnya buoy sejak <TIMEX3 tid="t7" type="DATE" value="2007">2007</TIMEX3> sudah tidak beroperasi karena rusak, kemudian dicuri dan sebagainya, " kata Hamzah. 
+
+" Setiap terjadi gempa, tsunami buoy yang jadi kambing hitam. 
+
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> pemerintah mau tidak mau membuat buoy alat pantau, " imbuhnya. 
+
+Kendala pembangunan sistem peringatan dini tsunami tak berhenti di situ saja. 
+
+Widjo mengibaratkan pembangunan sistem ini tak semudah membeli barang. 
+
+" Karena ada sistem yang harus dibangun, ada beberapa alat-alat yang harus diintegrasikan, dan lain-lain. 
+
+Harus dibangun betul (sistemnya), " tegas Widjo. 
+
+Melihat kendala-kendala itu, Hamzah mengusulkan pemasangan alat yang disesuaikan dengan kebutuhan, yaitu saat gunung berapi aktif. 
+
+Hamzah mencontohkan beberapa gunung yang <TIMEX3 tid="t9" type="DATE" value="PAST_REF">dulu</TIMEX3> pernah juga memicu terjadinya tsunami. 
+
+" Tapi kan kalau tidak aktif ya tidak usah dipasangi alat. 
+
+Kalau aktif selama <TIMEX3 tid="t10" type="DATE" value="2018-04-03">3-4</TIMEX3> bulan seperti ini, kan harusnya pemerintah sudah aware, " ungkapnya Hamzah. 
+</TEXT>
+
+</TimeML>

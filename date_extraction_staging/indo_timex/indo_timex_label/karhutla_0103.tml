@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0103</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-08-23" temporalFunction="false" functionInDocument="CREATION_TIME">2015-08-23</TIMEX3></DCT>
+
+<TITLE>Waspada, Keluar Malam di Palangkaraya!</TITLE>
+
+<TEXT>
+Kabut asap akibat kebakaran lahan yang terjadi di Palangkaraya, Kalimantan Tengah, <TIMEX3 tid="t1" type="DATE" value="2015-08-23">Minggu (23/8/2015)</TIMEX3> terasa sangat pekat di <TIMEX3 tid="t2" type="TIME" value="2015-08-22TNI">malam hari</TIMEX3>. 
+
+Ini, karena kebakaran lahan dipinggiran Kota Palangkaraya, makin banyak terjadi, dan helikopter pembon air untuk memadamkan kebakaran lahan mengarah di pinggiran kota. 
+
+Beberapa warga Palangkaraya, mengaku sangat terganggu dengan kabut asap yang tebal tersebut, karena bau asap hingga masuk ke dalam rumah. 
+
+" Saya tidur terpaksa menggunakan kipas angin atai air conditioner (AC), untuk menghindari bau asap masuk rumah. 
+
+" kata Karli, warga jalan Sapan Palangkaraya. 
+
+Apabila warga Palangkaraya terlalu sering menghirup asap ini, maka tidakmenutup kemungkinan akan terserang penyekit infeksi saluran pernafasan akut (ISPA). 
+
+
+</TEXT>
+
+</TimeML>

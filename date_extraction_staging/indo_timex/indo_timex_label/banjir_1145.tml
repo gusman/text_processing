@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1145</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-01-07" temporalFunction="false" functionInDocument="CREATION_TIME">2016-01-07</TIMEX3></DCT>
+
+<TITLE>Banjir dan Longsor Landa Sawahlunto</TITLE>
+
+<TEXT>
+Akibat hujan deras dari <TIMEX3 tid="t1" type="TIME" value="2016-01-07TMO">pagi</TIMEX3> hingga <TIMEX3 tid="t2" type="TIME" value="2016-01-06TAF">siang</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2016-01-07">Kamis (7/1)</TIMEX3>, Sawahlunto dilanda longsor dan banjir hebat. 
+
+Kondisi paling parah terjadi di Kecamatan Barangin. 
+
+Pantuan Singgalang di Kelurahan Saringan Blok Ombilin, empat rumah rusak parah. 
+
+Bahkan rumah milik H. 
+
+M. 
+
+Dahrul jebol dihantam banjir dan material longsoran. 
+
+Selanjutnya rumah Sugianto, Taslan dan Alfian, serta puluhan rumah lainnya juga terendam banjir. 
+
+Kendati menimbulkan kerugian materi namun tidak menimbulkan korban jiwa. 
+
+Sungai Lunto dan Sumpahan yang membelah kota lama juga meluap, tapi hal itu tidak sempat menggenangi rumah penduduk, wilayah terparah yang dihantam Banjir yang baru kali ini terjadi di Dusun Koto Desa Talago Gunung. 
+
+(subandi) 
+</TEXT>
+
+</TimeML>

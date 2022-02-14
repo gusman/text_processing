@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0324</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-07" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-07</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS, Gunung Ciremai Terbakar, Jalur Pendakian Ditutup, Pendaki Dievakuasi</TITLE>
+
+<TEXT>
+Kawasan hutan di Gunung Ciremai, Kabupaten Kuningan, terbakar, <TIMEX3 tid="t1" type="TIME" value="2019-08-07TAF">Rabu (7/8/2019) siang</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2019-08-06T13:00">pukul 13.00 WIB</TIMEX3>. 
+
+Berdasarkan rilis resmi yang diterima Tribuncirebon. 
+
+com dari Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Kuningan, kebakaran hutan itu terjadi di Blok Gua Walet, puncak Gunung Ciremai. 
+
+Akibat kebakaran ini kepulan asap pekat terlihat jelas dari Wilayah Argalingga, Kabupaten Majalengka. 
+
+Belum diketahui secara pasti penyebab terjadinya kebakaran tersebut. 
+
+Sebagai upaya penangan dini, BPBD Kabupaten Kuningan melakukan koordinasi dan memantau sejumlah jalur pendakian Gunung Ciremai, baik Jalur Apuy, Palutungan, maupun Linggarjati. 
+
+Petugas juga mengevakuasi semua pendaki yang masih berada di sekitar Gunung Ciremai. 
+
+Selain itu, untuk <TIMEX3 tid="t3" type="DURATION" value="PXX">sementara waktu</TIMEX3> BPBD Kabupaten Kuningan akan menutup semua jalur pendakian yang ada di Balai Taman Nasional Gunung Ciremai (BTNGC).Saat ini Tim Gabungan dari BPBD Kabupaten Kuningan dan BPBD Kabupaten Majalengka tengah menuju lokasi kebakaran.Tahun Lalu 1.300 Hektare Terbakar // Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Kuningan mencatat kebakaran kawasan Taman Nasional Gunung Ciremai (TNGC) semakin meluas. 
+
+Kepala Pelaksana BPBD Kabupaten Kuningan, Agus Mauludin, mengatakan, hingga hari ke-14 luas lahan yang terbakar diperkirakan mencapai 1.329 hektare. 
+
+" Itu total lahan di Gunung Ciremai 1.310 hektare dan Kebun Raya Kuningan 19 hektare, " kata Agus Mauludin melalui sambungan teleponnya, <TIMEX3 tid="t4" type="DATE" value="2018-10-13">Sabtu (13/10/2018)</TIMEX3>. 
+
+Ia mengatakan, api dan kepulan asap masih terlihat di Blok Batu Arca dan Blok Bintangot, Kecamatan Pasawahan, Kabupaten Kuningan. 
+
+Puluhan petugas gabungan juga dikerahkan untuk menyisir ke Blok Bintangot dan Blok Cangkrung. 
+
+Selain itu, mereka pun ditugaskan untuk memadamkan kepulan asap serta api yang masih terlihat. 
+
+Para petugas gabungan itu berasal dari BPBD Kabupaten Kuningan dan Provinsi Jabar, BNPB, Polhut Perhutani Kuningan, LSM AKAR, Badan TNGC, MPA, TNI, Polri, Relawan Penggiat PB, serta masyarakat. 
+
+" <TIMEX3 tid="t5" type="DATE" value="2019-08-07">Hari ini</TIMEX3> BNPB menerjunkan helikopter Mi8 untuk water bombing, " ujar Agus Mauludin. 
+
+Diberitakan sebelumnya, kobaran api pertama kali terlihat pada <TIMEX3 tid="t6" type="TIME" value="2018-09-30TAF">Minggu (30/9/2018) siang</TIMEX3>.Api diduga berasal dari Blok Erpah, Desa Cibuntu, Kecamatan Pasawahan, Kabupaten Kuningan.Selanjutnya api menyebar hingga menghanguskan ratusan hektare lahan dan hutan di kawasan gunung tertinggi di Jawa Barat itu. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0697</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-02-01" temporalFunction="false" functionInDocument="CREATION_TIME">2015-02-01</TIMEX3></DCT>
+
+<TITLE>Longsor di Bali, Nenek dan Cucunya Tewas Tertimbun dalam Rumah</TITLE>
+
+<TEXT>
+Hujan deras yang terus mengguyur wilayah Karangasem pada <TIMEX3 tid="t1" type="DATE" value="2015-01-31">Sabtu (31/1/2015)</TIMEX3> dari <TIMEX3 tid="t2" type="TIME" value="2015-01-31T11:00">pukul 11.00</TIMEX3> Wita hingga <TIMEX3 tid="t3" type="TIME" value="2015-01-31T22:30">pukul 22.30</TIMEX3> Wita, memupuskan keinginan I Wayan Poleng untuk memulai usahanya sebagai wiraswasta. 
+
+Pasalnya, sebelum usaha paras taro Poleng yang dirintisnya itu berjalan, rumah yang dikontraknya untuk tempat usaha itu dihantam tanah longsor sehingga hancur, <TIMEX3 tid="t4" type="TIME" value="2015-01-31T14:00">Sabtu (31/1) pukul 14.00</TIMEX3> Wita. 
+
+Longsor yang menimpa rumah kontrakan semipermanen di kawasan Jalan Raya Shanghyang Ngambu (Jalur Karangasem-Candidasa) itu mengakibatkan dua anggota keluarga Poleng tewas. 
+
+Keduanya adalah ibunda Poleng, Ni Nyoman Klemun (60), serta keponakannya Ni Wayan Dwi Ulandari (8). 
+
+Keduanya adalah nenek dan cucu. 
+
+Saat ditemui di Rumah Sakit Umum Daerah (RSUD) Karangasem, I Wayan Kojen (sepupu Poleng) membenarkan bahwa kejadian tersebut merenggut nyawa bibi dan keponakannya. 
+
+Sebelum kejadian, Poleng bersama belasan anggota keluarganya hendak melakukan upacara melaspas rumah kontrakan barunya. 
+
+Beberapa keperluan untuk melaspas, dari bebantenan hingga pemangku yang akan memimpin upacara, juga telah siap. 
+
+" Acara akan dimulai <TIMEX3 tid="t5" type="TIME" value="2015-01-31T16:00">sekitar pukul 16.00</TIMEX3> Wita. 
+
+Bahkan, karena hujan deras, acara sempat hendak diundur. 
+
+Namun, karena keluarga dan kerabat sudah kumpul semua, acara tetap akan berjalan sesuai jadwal, " jelas I Wayan Kojen.Namun, <TIMEX3 tid="t6" type="TIME" value="PT2H">dua jam</TIMEX3> sebelum acara mulai, longsoran tanah dan material lainnya seperti kerikil dan bebatuan yang berasal dari bebukitan Shanghyang Ngambu membuyarkan semua rencana.Longsoran tersebut menerjang dengan cepat, diduga karena tanah di bebukitan sudah demikian gembur akibat guyuran hujan deras yang lama. 
+
+Kondisi di rumah kontrakan pun jadi porak poranda. 
+
+(*) 
+</TEXT>
+
+</TimeML>

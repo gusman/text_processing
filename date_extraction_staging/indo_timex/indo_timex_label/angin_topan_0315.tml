@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0315</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-27" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-27</TIMEX3></DCT>
+
+<TITLE>Pohon Roboh Menimpa Dua Rumah di Kota Banjar</TITLE>
+
+<TEXT>
+Dua rumah di dusun Tembungkerta RT 2/RW 8, Desa Sukamukti, Kecamatan Pataruman, Kota Banjar tertimpa pohon roboh, sekira <TIMEX3 tid="t1" type="TIME" value="2020-01-26T12:00">pukul 12.00 WIB</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2020-01-27">Senin (27/1/2020)</TIMEX3>. 
+
+Hujan lebat dan angin kencang menyebabkan pohon menimpa rumah milik Euis dan Ratnaningsih itu. 
+
+Pohon sempat menghalangi jalan <TIMEX3 tid="t3" type="DURATION" value="PXX">beberapa saat</TIMEX3>. 
+
+Aparat segera turun tangan untuk menanganinya. 
+
+Lalu lintas kembali berjalan normal. 
+
+Tidak ada korban jiwa, ujar Euis. 
+
+Namun kerugian ditaksir sekitar Rp 20 juta. 
+
+
+</TEXT>
+
+</TimeML>

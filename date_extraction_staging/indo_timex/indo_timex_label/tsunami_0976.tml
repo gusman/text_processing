@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0976</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-06" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-06</TIMEX3></DCT>
+
+<TITLE>Bupati Majene Ajak Masyarakatnya Shalat Ghaib Berjamaah Malam Ini</TITLE>
+
+<TEXT>
+Mapos, Majene Melihat banyaknya korban meninggal dunia akibat gempa bumi, tsunami dan likuifaksi di Kabupaten Donggala, Kabupaten Sigi dan Kota Palu, Sulteng, Bupati Majene Fahmi Massiara mengajak seluruh lapisan masyarakat untuk shalat ghaib di Masjid agung Ilaikal Mashir Majene. 
+
+Lewat pesan elektronik WA Bupati Fahmi Massiara <TIMEX3 tid="t1" type="DATE" value="2018-10-06">Sabtu (6/10/2018)</TIMEX3>, ia mohon kesediaan masyarakat untuk dapat turut serta melaksanakan shalat ghaib secara berjamaah sesudah shalat maghrib <TIMEX3 tid="t2" type="TIME" value="2018-10-06TNI">malam ini</TIMEX3> di Mesjid Agung Ilaikal Mashir. 
+
+Dilansir dari berbagai sumber, shalat ghaib adalah shalat yang dilakukan ketika ada salah satu keluarga, kerabat atau siapapun seorang muslim yang meninggal dunia tetapi meninggalnya di tempat yang jauh keluarga maupun sanak saudaranya, maka disunahkan kita untuk melakukan shalat ini atas mayat tersebut walaupun meninggal-nya sudah lewat <TIMEX3 tid="t3" type="DURATION" value="P1W">seminggu</TIMEX3> atau lebih. 
+
+Sedangkan hukum mengerjakan shalat ghaib ini adalah sunah yang jika dilakukan mendapatkan pahala dan jika tidak melakukan maka tak dosa. 
+
+Sedangkan untuk Waktu shalat ghaib tersebut bisa dilakukan kapan saja, baik <TIMEX3 tid="t4" type="TIME" value="2018-10-05TAF">siang</TIMEX3> maupum <TIMEX3 tid="t5" type="TIME" value="2018-10-05TNI">malam</TIMEX3>, baik sendiri atau secara mak mum, tetapi lebih shalat ini lebih baik dilakukan atau dikerjakan secara bersama-sama, sehingga pahala yang didapatkan oleh mayat menjadi lebih banyak. 
+
+(ipunk) 
+</TEXT>
+
+</TimeML>

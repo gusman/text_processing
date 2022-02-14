@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0825</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-10-02" temporalFunction="false" functionInDocument="CREATION_TIME">2014-10-02</TIMEX3></DCT>
+
+<TITLE>Kemarau Petani Sayur di Pagaralam Kebingungan</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2014-SU">Musim kemarau</TIMEX3> yang melanda Kota Pagaralam dalam <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">beberapa bulan ini</TIMEX3> membuat para petani kebingungan. 
+
+Pasalnya banyak beberapa kawasan pertanian di Pagaralam <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kekeringan. 
+
+Kondisi tersebut sangat dirasakan oleh para petani sayur yang ada di kawasan Kecamatan Dempo Utara. 
+
+Lokasi pertanian yang letak geografisnya mayoritas berada di dataran tinggi membuat kawasan tersebut kesulitan mendapatkan air. 
+
+Padahal para petani sayur sangat membutuhkan air untuk bisa menyirami tanaman mereka yang memang sangat membutuhkan air. 
+
+Akibatnya petani tak bisa melakukan penanaman sayuran. 
+
+Informasi yang dihimpun Sripoku. 
+
+com, <TIMEX3 tid="t4" type="DATE" value="2014-10-02">Kamis (2/10/2014)</TIMEX3>, sejumlah petani terpaksa harus mengangkut air agar bisa mendapatkan air untuk menyiram tanaman mereka. 
+
+KOndisi tersebut membuat para petani terpaksa harus mengeluarkan modal cukup besar. 
+
+Karena harus menambah biaya angkut air. 
+
+Iwan (34) salah satu petani dikawasan Dusun Kerinjing mengatakan, kondisi tanah dikawasan Dusun Kerinjing <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> mulai berdebu dan kering. 
+
+Hal tersebut membuat pihaknya tidak bisa menanam sayur. 
+
+" Bagaimana mau menanam sayur jika tanah sudah kering dan berdebut. 
+
+Meskipun kita paksakan untuk menanam sudah pasti bibit yang kita tanam akan mati, " ujarnya. 
+
+Untuk tanaman yang sudah terlanjur ditanam terpaksa harus disiram <TIMEX3 tid="t6" type="SET" value="P1D">setiap hari</TIMEX3> agar bisa tetap hidup. 
+
+Jika <TIMEX3 tid="t7" type="DURATION" value="P1D">satu hari</TIMEX3> saja tidak disiram dikawatirkan tanaman sayur akan gagal panen karena mati. 
+
+" air merupakan salah satu syarat utama jika ingin tanaman bisa tumbuh. 
+
+Tanpa adanya air, dipastikan tanaman apapun akan mati. 
+
+Karena dalam <TIMEX3 tid="t8" type="DURATION" value="P1D">satu hari</TIMEX3> sayuran harus disiram, " jelasnya.Para petani terpaksa mengambil air dari pemukiman. 
+
+Namun usaha tersebut masih tidak efektif. 
+
+Karena kondisi lahan yang luas membuat tidak semua tanaman dapat disiram dalam <TIMEX3 tid="t9" type="DURATION" value="P1D">satu hari</TIMEX3>. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0941</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-02-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-02-25</TIMEX3></DCT>
+
+<TITLE>Sawah Kekeringan, Pemda Konut Turunkan Pompa Air</TITLE>
+
+<TEXT>
+Sawah seluas 50 hektar milik para petani di Desa Tambakua, Kecamatan Landawe, Kabupaten Konawe Utara (Konut), dilanda kekeringan. 
+
+Padi dengan usia tanam rata-rata 2 sampai <TIMEX3 tid="t1" type="DURATION" value="P3M">3 bulan</TIMEX3>, terancam mati. 
+
+Menanggapi peristiwa itu, Bupati Konut Ruksamin turun tangan dengan langsung meninjau lokasi persawahan itu pada <TIMEX3 tid="t2" type="DATE" value="2019-02-25">Minggu (25/2/2019) kemarin</TIMEX3>. 
+
+Usai meninjau, ia langsung mengistruksikan instansi terkait menurunkan 2 unit mesin pompa air sebagai alat untuk memasok air ke sawah para petani. 
+
+Setelah kami turun cek, memang kondisinya rawan dan tidak bisa dibiarkan, harus cepat ada tindakan. 
+
+Olehnya itu, saya langsung perintahkan pihak dinas terkait menurunkan bantuan mesin pompa agar air bisa mengalir kembali di area persawahan warga, ujar Ruksamin, <TIMEX3 tid="t3" type="DATE" value="2019-02-25">Senin (25/2/2019)</TIMEX3>. 
+
+Di sekitar area persawahan tersebut terdapat aliran sungai dan irigasi, tetapi karena kondisi debet air yang kecil maka tidak dapat masuk mengaliri area persawahan. 
+
+Dalam bercocok tanam, petani setempat mengandalkan air dengan sistem tadah hujan dan aliran sungai. 
+
+Di tempat itu, selain sawah juga terdapat kebun warga yang ditanami berbagai macam sayuran seperti pepaya, jagung dan lain sebagainya. 
+
+Solusinya, memang air yang ada di sungai itu harus ditarik menggunakan mesin pompa agar sampai di sawah-sawah milik warga. 
+
+Kami harap situasinya berjalan baik agar petani kita dapat menikmati hasil panen demi keberlangsungan hidup mereka, terangnya. 
+
+Dia mengatakan pihaknya juga telah menginstruksikan jajarannya untuk melakukan pemantauan di lapangan mengenai kondisi pertanian, perikanan, dan perkebunan masyarakat untuk segera dilaporkan jika terdapat kendala. 
+
+(B) 
+</TEXT>
+
+</TimeML>

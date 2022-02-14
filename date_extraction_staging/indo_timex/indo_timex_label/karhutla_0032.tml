@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0032</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-02-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-02-24</TIMEX3></DCT>
+
+<TITLE>Kabut Asap Akibat Kebakaran Hutan Makin Parah di Bengkalis Riau, Warga Sesak Nafas</TITLE>
+
+<TEXT>
+Kabut asap kebakaran hutan dan lahan (karhutla) di Kecamatan Rupat, Kabupaten Bengkalis, Riau, sangat tebal, <TIMEX3 tid="t1" type="TIME" value="2019-02-24">Minggu (24/2/2019) pagi</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2019-02-23T08:00">pukul 08.00 WIB</TIMEX3>. 
+
+Jarak pandang mendatar hanya sekitar 200 meter. 
+
+Kabut asap yang menyelimuti permukiman warga ini, dampak dari karhutla yang semakin meluas di Kecamatan Rupat. 
+
+Menurut warga Kecamatan Rupat, Budiman (48), kabut asap <TIMEX3 tid="t3" type="DATE" value="2019-02-24">hari ini</TIMEX3> sangat parah dibandingkan dari hari-hari sebelumnya. 
+
+. 
+
+Susah bernapas, " akui Budiman saat diwawancarai Kompas. 
+
+com, <TIMEX3 tid="t4" type="DATE" value="2019-02-24">Minggu</TIMEX3>. 
+
+Kondisi kabut asap tebal, dikatakan dia, terjadi dalam <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">tiga hari ini</TIMEX3>. 
+
+" Kondisi <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> tampaknya semakin parah. 
+
+Kabut asap ini sudah <TIMEX3 tid="t7" type="DURATION" value="P2W">hampir dua pekan</TIMEX3>. 
+
+Tapi <TIMEX3 tid="t8" type="DATE" value="UNKNOWN">tiga hari ini</TIMEX3> paling parah, " kata Budiman. 
+
+Dia pun mengaku sudah merasakan dampak dari kabut asap gambut tersebut. " Saya sudah sesak napas ini. 
+
+<TIMEX3 tid="t9" type="TIME" value="2019-02-22TNI">Malam tadi</TIMEX3> juga sesak. 
+
+Jarak pandang juga sudah terbatas. 
+
+Sebelumnya ada sekitar 500 meter, tapi yang <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> 200 meter, " ujarnya dengan bahasa Melayu. 
+
+. 
+
+// " Kalau tak tuntas berasap terus, " tandas Budiman. 
+
+Sugiyanto (58) warga lainnya mengatakan hal yang sama. 
+
+Kabut asap <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah mengkhawatirkan. 
+
+" Sudah parah sekali. 
+
+Sudah sampai masuk ke dalam rumah, " tutur Sugiyanto pada Kompas. 
+
+com, <TIMEX3 tid="t12" type="DATE" value="2019-02-24">Minggu</TIMEX3>. 
+
+Kabut asap ini, kata dia, akibat karhutla yang terjadi sangat parah di Kelurahan Terkul, Kelurahan Pergam. 
+
+" Kebakaran makin parah. 
+
+Kabut asap parah. 
+
+Dampaknya batuk, pilek, sesak napas. 
+
+Jadi kami dah batasi keluar rumah, " akui Sugiyanto. 
+
+. 
+
+" Kalau <TIMEX3 tid="t13" type="TIME" value="2019-02-24TMO">pagi</TIMEX3> belum ada angin laut. 
+
+Tapi kalau <TIMEX3 tid="t14" type="TIME" value="2019-02-23TAF">siang</TIMEX3> angin kencang dan asap berkurang. 
+
+Kemudian <TIMEX3 tid="t15" type="TIME" value="2019-02-23TNI">malam</TIMEX3> asap muncul lagi, " tutup Sugiyanto.Untuk diketahui, kebakaran lahan gambut di Kecamatan Rupat hingga <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum bisa diatasi, malah makin meluas.Tim Satgas Karhutla, TNI, Polri, Manggala Agni dan dibantu masyarakat, terus berupaya mematikan api.Upaya pemadaman dilakukan melalui darat dan udara atau water bombing. 
+
+// Titik api <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih terdapat di Kelurahan Terkul, Kelurahan Pergam, Desa Sri Tanjung, Desa Teluk Lecah dan Desa Kebumen. 
+
+. 
+
+Akibat luas lahan gambut yang terbakar semakin bertambah, kabut asap juga semakin parah. 
+
+Kabut asap ini juga dikhawatirkan sampai ke Malaysia. 
+
+Sebab, Kecamatan Rupat berbatasan langsung dengan Negeri Jiran tersebut. 
+
+Namun, pantauan Kompas. 
+
+com <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, kondisi angin masih mengarah ke selatan, sehingga kabut asap mengarah ke wilayah Dumai. 
+</TEXT>
+
+</TimeML>

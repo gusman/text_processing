@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0623</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-11-27" temporalFunction="false" functionInDocument="CREATION_TIME">2017-11-27</TIMEX3></DCT>
+
+<TITLE>Gunung Agung Erupsi, 59 Ribu Penumpang dari 445 Penerbangan Tertunda Terbang</TITLE>
+
+<TEXT>
+Operasional Bandara Internasional I Gusti Ngurah Rai yang ditutup akibat adanya debu vulkanik Gunung Agung, mengakibatkan ratusan penerbangan dan puluhan ribu penumpang tak bisa terbang, <TIMEX3 tid="t1" type="TIME" value="2017-11-27TMO">Senin 27 November 2017 pagi</TIMEX3>. 
+
+Communication amp; Legal Section Head Bandara Internasional I Gusti Ngurah Rai, Arie Ahsanurrohim menjelaskan, informasi awal penerbangan yang terdampak <TIMEX3 tid="t2" type="DATE" value="2017-11-27">hari ini</TIMEX3> hingga <TIMEX3 tid="t3" type="TIME" value="2017-11-28TMO">esok pagi</TIMEX3> totalnya berjumlah 445 penerbangan. 
+
+. 
+
+" Penerbangan domestik sebanyak 249 dan internasional 249. 
+
+Dimana kedatangan Internasional berjumlah 97 penerbangan, keberangkatan Internasional berjumlah 99 penerbangan, " katanya. 
+
+Sementara untuk kedatangan domestik sebanyak 124 penerbangan dan keberangkatan domestik sebanyak 125 penerbangan. 
+
+. 
+
+Karena masih dalam kroscek. 
+
+Tapi kalau diperkirakan rata-rata penumpang di Bandara Ngurah Rai tercatat sebanyak 59.000 orang datang dan ke Bali baik domestik maupun internasional 
+</TEXT>
+
+</TimeML>

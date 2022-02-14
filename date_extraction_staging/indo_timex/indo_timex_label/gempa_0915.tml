@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0915</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-15" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-15</TIMEX3></DCT>
+
+<TITLE>Pemkab Merauke bantu 22,5 ton beras bagi korban bencana Sulteng</TITLE>
+
+<TEXT>
+Pemerintah Kabupaten (Pemkab) Merauke telah menyalurkan beras sebanyak 22,5 ton kepada para korban yang mengalami musibah gempa bumi dan tsunami di Palu, Donggala, dan Sigi. 
+
+Kepala Badan Penanggulangan Bencana Daerah Kabupaten Merauke, Tiasony Betaubun, kepada Jubi, <TIMEX3 tid="t1" type="DATE" value="2018-10-15">Senin (15/10/2018)</TIMEX3>, mengatakan bantuan beras tersebut telah dikirim melalui KM Banjarmasin dan <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> telah tiba di tujuan. 
+
+Selanjutnya, bantuan itu akan diatur untuk dilakukan pembagian kepada para korban. 
+
+Nantinya, lanjut dia, bantuan beras juga akan menyusul lagi termasuk uang maupun sejumlah kebutuhan lain seperti pakaian laik pakai. 
+
+Jumlah uang yang masuk ke rekening Bank BRI sampai <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>, katanya, sekitar Rp 77 juta. 
+
+Sesuai surat edaran Sekretaris Daerah (Sekda) Merauke, Daniel Pauta, batas pengumpulan uang dan lain-lain sampai <TIMEX3 tid="t4" type="DATE" value="2018-10-31">tanggal 31 Oktober 2018</TIMEX3>. 
+
+Setelah itu, lanjut Sekda, dilakukan sensor kembali semua kebutuhan yang dikumpulkan masyarakat dan sejumlah pihak lain, baru dikirim. 
+
+Kita tak serta merta mengirim begitu saja. 
+
+Tetapi harus disensor terlebih <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dahulu</TIMEX3>. 
+
+Misalnya melihat masa kadaluarsa dari barang yang dikumpulkan, katanya. 
+
+Ditanya lagi bantuan beras yang akan dikirim, Tiasony mengaku belum bisa dipastikan jumlahnya. 
+
+Karena masih ada sejumlah orang yang menyetor. 
+
+Bupati Merauke, Frederikus Gebze, meminta kepada masyarakat yang memiliki kelebihan, agar mengumpulkan di posko yang telah ditentukan pemerintah setempat. 
+
+Selanjutnya, jelas Bupati Freddy, bantuan yang dikumpulkan itu, akan diperiksa kembali sebelum dikirim untuk para korban di Palu, Donggala, dan Sigi. 
+</TEXT>
+
+</TimeML>

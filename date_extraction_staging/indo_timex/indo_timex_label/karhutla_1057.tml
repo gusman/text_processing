@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1057</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-20" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-20</TIMEX3></DCT>
+
+<TITLE>Perlu Tambahan Armada Padamkan Titik Api</TITLE>
+
+<TEXT>
+Menteri Koordinator Politik Hukum dan Keamanan Luhut Binsar Pandjaitan mengatakan, perlu tambahan armada dalam memadamkan titik api termasuk di wilayah Sumatera Selatan. 
+
+Pandangan perlu penambahan armada berdasarkan peninjauan lahan di Sumsel cukup luas ditambah areal gambut, kata Menko Polhukam usai meninjau kebakaran lahan di Kabupaten Ogan Ilir, Sumsel, <TIMEX3 tid="t1" type="DATE" value="2015-10-20">Selasa (20/10)</TIMEX3>. 
+
+Menurut dia, untuk mengatasi hal tersebut tim satgas pemadam kebakaran hutan perlu didukung lagi peralatan terutama armada pesawat udara sebagai sarana bom air. 
+
+Lebih lanjut dia mengatakan, berdasarkan hasil peninjauannya memang kondisi lahan gambut yang terbakar di Sumsel belum dapat padamkan dan diperparah karena <TIMEX3 tid="t2" type="DATE" value="2015-SU">musim kemarau</TIMEX3> yang tak kunjung berhenti. 
+
+Selain itu, lanjut dia, angin kencang ditambah tingkat kekeringan tinggi membuat penyebaran api di lahan terbakar semakin tak terkendali. 
+
+(*/lek) Sumber: 
+</TEXT>
+
+</TimeML>

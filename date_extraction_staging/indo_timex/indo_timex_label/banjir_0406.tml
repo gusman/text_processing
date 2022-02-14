@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0406</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-26" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-26</TIMEX3></DCT>
+
+<TITLE>Jalan Raya Cakung Cilincing Masih Terendam Banjir, Hanya Bisa Dilalui Kendaraan Besar</TITLE>
+
+<TEXT>
+Banjir setinggi sekitar 50-60 sentimeter masih merendam Jalan Raya Cakung Cilincing, tepatnya di depan Kawasan Berikat Nusantara (KBN), Cilincing, Jakarta Utara, <TIMEX3 tid="t1" type="DATE" value="2020-02-26">Rabu (26/2/2020)</TIMEX3>. 
+
+Ketinggian banjir tersebut membuat jalan ini hanya bisa dilalui kendaraan besar, seperti truk pengangkut barang dan bus. 
+
+Kendaraan lainnya, seperti mobil berukuran kecil dan sepeda motor tak berani melintas menerjang banjir. 
+
+Selain karena ketinggian banjir yang masih sulit diterjang, banyaknya lubang di Jalan Raya Cakung Cilincing juga sangat membahayakan. 
+
+Pasalnya, lubang-lubang yang tersebar di jalan tersebut tak terlihat lantaran tertutup air banjir yang berwarna keruh. 
+
+" Motor sama mobil kecil udah nggak bisa lewat sini, " kata Rendi (31), warga setempat. 
+
+Rendi bersama beberapa warga setempat secara sukarela berdiri di tengah banjir untuk mengatur kendaraan yang melintas. 
+
+Mereka menginformasikan dan menunjukkan titik-titik lubang di jalan tersebut. " Iya ini sengaja nunjukkin lubang-lubang. 
+
+Soalnya parah ini lubangnya dalem kan, " kata Rendi. 
+
+// Adapun banjir di Jalan Raya Cacing sudah terjadi sejak <TIMEX3 tid="t2" type="DATE" value="2020-02-24">Senin (24/2/2020)</TIMEX3> dini hari. 
+
+Hingga <TIMEX3 tid="t3" type="TIME" value="2020-02-26TAF">siang ini</TIMEX3>, banjir belum juga surut drastis. 
+
+Banjir 60 cmJalan Raya Cakung Cilincing (Cacing) tepatnya di depan Kawasan Berikat Nusantara (KBN), Cilincing, Jakarta Utara, masih terendam banjir pada <TIMEX3 tid="t4" type="DATE" value="2020-02-26">Rabu (26/2/2020)</TIMEX3>. 
+
+Pantauan TribunJakarta. 
+
+com pada <TIMEX3 tid="t5" type="TIME" value="2020-02-25T11:42">pukul 11.42 WIB</TIMEX3>, ketinggian banjir di Jalan Raya Cacing masih sekitaran 50-60 sentimeter. 
+
+Banjir mulai merendam Jalan Raya Cacing dari depan KBN menuju ke arah Tanjung Priok. 
+
+Titik banjir terakhir ada di Jalan Raya Cacing depan SPBU Komplek KBN. 
+
+Jarak jalan yang masih terendam banjir sekitar 1 kilometer. 
+
+. 
+
+Alhasil, KBN terlihat sepi dari aktivitas keluar masuk kendaraan, kecuali truk pengangkut barang. 
+
+Banjir di Jalan Raya Cacing sudah terjadi sejak <TIMEX3 tid="t6" type="DATE" value="2020-02-24">Senin (24/2/2020)</TIMEX3> dini hari. 
+
+Hal itu disampaikan seorang warga setempat, Rendi (31) mengatakan, hingga <TIMEX3 tid="t7" type="DATE" value="2020-02-26">hari ini</TIMEX3> ketinggian banjir sudah surut meskipun belum drastis. 
+
+" Ini udah surut tapi masih sedengkul. 
+
+Kalo pas pertama banjir terus pas kemaren itu sampe seperut, " kata Rendi di lokasi.Rendi menuturkan, dengan adanya banjir ini, Jalan Raya Cacing akhirnya hanya bisa dilintasi kendaraan besar saja. " Motor sama mobil kecil udah nggak bisa lewat sini, " ucap dia. 
+</TEXT>
+
+</TimeML>

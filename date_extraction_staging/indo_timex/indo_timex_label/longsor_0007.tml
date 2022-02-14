@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0007</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-07" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-07</TIMEX3></DCT>
+
+<TITLE>Longsor Di Tangse, Satu Rumah Hancur</TITLE>
+
+<TEXT>
+Musibah tanah longsor terjadi di Gampong Neubok Badeuk, Kecamatan Tangse, Kabupaten Pidie, <TIMEX3 tid="t1" type="DATE" value="2016-12-06">Selasa (6/12)</TIMEX3> Sekira <TIMEX3 tid="t2" type="TIME" value="2016-12-06T04:00">Pukul 04.00</TIMEX3> Wib <TIMEX3 tid="t3" type="TIME" value="2016-12-07TMO">pagi</TIMEX3>. 
+
+Akibatnya satu unit rumah milik Zakaria Tayeb (65), mengalami rusak berat, tidak ada korban jiwa dalam musibah tersebut, perkiraan sementara kerugian mencapai Rp. 
+
+40 juta, sedangkan keluarga korban <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> telah di. 
+
+Adapun tanah longsor itu terjadi karena intensitas hujan di Pidie yang tinggi semenjak <TIMEX3 tid="t5" type="DURATION" value="P1W">sepekan</TIMEX3> terakhir, sementara pihak Badan Penanggulangan Bencana Daerah (BPBD) meminta warga Tangse, waspada bencana paska kejadian itu. 
+
+(Zian) 
+</TEXT>
+
+</TimeML>

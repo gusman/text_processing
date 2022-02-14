@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0003</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-24</TIMEX3></DCT>
+
+<TITLE>Erdogan Ikut Berduka Atas Tsunami Di Selat Sunda</TITLE>
+
+<TEXT>
+Recep Tayyip Erdogan memyampaikan belasungkawa kepada Indonesia pasca bencana tsunami di Selat Sunda yang menyebabkan lebih dari 200 orang meninggal dunia. 
+
+Atas nama rakyat Turki saya dengan ini menyatakan belasungkawa kami kepada semua rakyat Indonesia, kata Erdogan saat pertemuan Majelis Umum Keuangan <TIMEX3 tid="t1" type="DATE" value="2018">2018</TIMEX3> Dewan Hubungan Ekonomi Asing (DEIK) di Istanbul (<TIMEX3 tid="t2" type="DATE" value="2018-12-23">Minggu</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2018-12-23">23/12)</TIMEX3>. 
+
+Selain Erdogan, Kementerian Luar Negeri Turki juga menyampaikan belasungkawa senada. 
+
+Kami berharap rahmat Allah menyertai orang-orang yang kehilangan nyawa, pemulihan yang cepat bagi yang terluka dan menyampaikan belasungkawa kami kepada orang-orang yang bersaudara di Indonesia, demikian bunyi pernyataan tersebut, seperti dimuat Yenisafak. 
+
+mel/rmol 
+</TEXT>
+
+</TimeML>

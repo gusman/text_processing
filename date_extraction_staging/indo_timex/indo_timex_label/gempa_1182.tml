@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1182</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-06-18" temporalFunction="false" functionInDocument="CREATION_TIME">2018-06-18</TIMEX3></DCT>
+
+<TITLE>Gempa 6,1 SR Guncang Jepang Senin Pagi, 3 Tewas dan 200 Luka-luka</TITLE>
+
+<TEXT>
+Gempa bumi berkekuatan 6,1 skala Richter (SR) mengguncang Ibaraki, Osaka, Jepang, <TIMEX3 tid="t1" type="TIME" value="2018-06-18">Senin (18/6/2018) pagi</TIMEX3>. 
+
+Data sementara, 3 orang tewas dan 200 orang menderita luka-luka akibat lindu tersebut. 
+
+Demikian menurut laporan sejumlah media setempat. 
+
+Dikutip dari liputan. 
+
+com, salah seorang korban tewas adalah gadis berusia <TIMEX3 tid="t2" type="DURATION" value="P9Y">9 tahun</TIMEX3>, karena tertimpa tembok di fasilitas kolam renang sekolah di Takatsuki, Osaka. 
+
+Dua korban tewas lainnya adalah lansia berusia sekitar 80 tahunan dari dua area terpisah. 
+
+Salah satunya meninggal akibat tertimpa struktur bangunan, lansia yang lain tewas karena kejatuhan lemari buku. 
+
+Sementara itu, korban luka diperkirakan mencapai sekitar 217 orang menurut The New York Times <TIMEX3 tid="t3" type="DATE" value="2018-06-18">(18/6/2018)</TIMEX3> yang mengutip berbagai sumber otoritas dan media di Jepang. 
+
+Korban diperkirakan masih bertambah, mengingat sejumlh laporan menyebut bahwa otoritas Osaka masih menanggapi berbagai panggilan darurat pasca lindu --yang tercatat terjadi pada <TIMEX3 tid="t4" type="TIME" value="2018-06-17T07:58">07.58</TIMEX3> waktu setempat. 
+
+Pada Kedalaman 13 Kilometer Episentrum gempa berada di bagian utara prefektur Osaka pada kedalaman 13 km, kata badan meteorologi Jepang. 
+
+Tayangan langsung menunjukkan tampungan air meledak dan rumah terbakar oleh gempa yang menghantam kawasan metropolitan terbesar kedua Jepang itu. 
+
+Lindu dilaporkan terjadi sebelum <TIMEX3 tid="t5" type="TIME" value="2018-06-17T08:00">jam 08.00 pagi</TIMEX3> saat penduduk setempat sedang menuju tempat kerja. 
+
+Badan meteorologi Jepang awalnya menempatkan besarnya gempa di 5,9 tetapi kemudian menaikkannya menjadi 6,1 SR. 
+
+Episentrum gempa berada di bagian utara prefektur Osaka pada kedalaman 13 km, kata badan meteorologi Jepang. 
+
+Tidak ada peringatan tsunami yang dikeluarkan. 
+
+Perdana Menteri Shinzo Abe mengatakan pemerintah sedang menilai kerusakan dan prioritas utamanya adalah keselamatan warga. 
+
+Abe mengatakan dia telah menginstruksikan stafnya untuk ''dengan cepat mengumpulkan informasi tentang kerusakan, melakukan upaya maksimal dalam menyelamatkan korban. 
+
+. 
+
+. 
+
+(dan) memberikan informasi yang tepat waktu dan tepat kepada publik''. 
+
+Meskipun memiliki magnitudo yang relatif rendah, gempa tersebut menyebabkan goncangan yang cukup hebat. 
+
+Beberapa gempa susulan kecil terjadi, dan seorang pejabat dari badan meteorologi Jepang memperingatkan warga untuk tetap waspada. 
+
+''Ada kekhawatiran bahwa risiko rumah runtuh dan tanah longsor telah meningkat di daerah-daerah yang terguncang kuat, '' kata Toshiyuki Matsumori, yang bertanggung jawab atas pemantauan gempa di kantor itu. 
+
+''Tolong pastikan bahwa Anda sepenuhnya waspada tentang aktivitas seismik dan informasi tentang curah hujan, dan jauhi tempat-tempat berbahaya. 
+
+'' Sementara itu, untuk <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, layanan kereta api, termasuk kereta api lokal dan kereta cepat shinkansen, ditunda selama jam-jam sibuk di <TIMEX3 tid="t7" type="TIME" value="2018-06-18TMO">pagi hari</TIMEX3>. 
+
+Reaktor Nuklir Aman Kansai Electric Power mengatakan tidak ada gangguan yang terdeteksi di pembangkit nuklir Mihama, Takahama dan Ohi setelah gempa. 
+
+Kendati demikian, Kansai mengatakan bahwa untuk sementara, listrik untuk lebih dari 170.000 rumah tangga di Osaka dan prefektur Hyogo yang berdekatan harus terputus. 
+
+*** 
+</TEXT>
+
+</TimeML>

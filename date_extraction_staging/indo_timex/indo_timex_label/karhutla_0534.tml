@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0534</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-22</TIMEX3></DCT>
+
+<TITLE>DANDIM 1003/Kandangan Pimpin langsung Operasi Gulbencal Karhutla tanggap Darurat Melalui aplikasi TFG Tactical  Floor Game Yang Melanda HSS</TITLE>
+
+<TEXT>
+Dandim 1003/Kandangan Pimpin Langsung Operasi Penanggulangan Bencana Kebakaran Lahan dan Hutan di Wilayah HSS Letkol Inf Suhardi Aji S, SE dengan melibatkan Satgas yg tergabung dalam PRCPB, Pemda HSS, Polres HSS Unsur BPBD, manggala agni, Relawan Relawan, Basarnas, PMK, PDAM, Dinas terkait serta PT Antang dan perusahaan Lainnya. 
+
+Setelah mendapat perintah Operasi dari Komandan Korem 101/Antasari, Dandim 1003/Kandangan Letkol Inf Suhardi Aji Sriwijayanto, SE langsung memimpin Operasi penanggulangan bencana kebakaran lahan dan hutan di wilayah Hulu Sungai Selatan pada, Jum at <TIMEX3 tid="t1" type="DATE" value="2019-06-21">(21/6/2019)</TIMEX3>. 
+
+Bersama dengan instansi terkait yang ada di Kabupaten Hulu Sungai Selatan. 
+
+Dandim dengan dibantu para perwira staf Kodim 1003/Kandangan Melaks penanggulaangan Bencana alam Karhutla di Wilayah Kab Hulu Sungai Selatan Kecamatan Padang Batung pada tahap Tanggap Darurat mengkoordinir mulai dari evakuasi, Pengungsian hingga pelaksanaan kegiatan Operasi pemadaman kebakaran lahan dan hutan di Desa Mawangi dan Lumpangi kecamatan Padang Batung. 
+
+Pelaksanaan tanggap darurat Operasi penanggulangan bencana kebakaran lahan dan hutan yang terkoordinasi dengan baik bersama instansi terkait membuat api dengan dapat dipadamkan dengan cepat dan tepat, sehingga situasi dapat terkendali dan kondusif. 
+
+Kegiatan dilanjutkan dengan pasca penanggulangan bencana dengan menormalisasi baik pengungsi, sarana dan prasarana umum dikembalikan seperti semula. 
+
+Dengan sudah padamnya api yang membakar lahan dan rumah penduduk situasi kembali kondusif Dandim 1003/Kandangan melaporkan hasil Operasi penanggulangan bencana kebakaran lahan dan hutan di wilayah Hulu Sungai Selatan kepada Danrem 101/Antasari. 
+
+Demikian Aplikasi simulasi TFG diatas peta yang dilaksanakan oleh Kodim 1003/Kandangan dalam rangka Gladi Posko I Antasari Bhakti <TIMEX3 tid="t2" type="DURATION" value="P1Y">XXXVIII Tahun</TIMEX3> 2019. 
+
+Rel/IB 
+</TEXT>
+
+</TimeML>

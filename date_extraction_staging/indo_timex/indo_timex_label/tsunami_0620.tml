@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0620</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-03</TIMEX3></DCT>
+
+<TITLE>Jenguk Pasien di Rumah Sakit Darurat Palu</TITLE>
+
+<TEXT>
+Presiden Jokowi menyalami pasien yang sedang dirawat di Rumah Sakit darurat, di Bandara Mutiara Palu, Sulteng, <TIMEX3 tid="t1" type="TIME" value="2017-10-03TAF">Rabu (3/10) siang</TIMEX3>. 
+
+(Foto: BPMI Setpres)Palu, MK Presiden Joko Widodo (Jokowi) langsung mengunjungi korban gempa dan tsunami yang mengungsi sekaligus dirawat di rumah sakit darurat yang berada di Bandara Mutiara Sis Al-Jufri, Kota Palu, Sulawesi Tengah (Sulteng), setibanya di bandara tersebut <TIMEX3 tid="t2" type="DATE" value="2018-10-03">Rabu (3/10)</TIMEX3> sekitar <TIMEX3 tid="t3" type="TIME" value="2018-10-02T10:15">pukul 10.15 WITA</TIMEX3>. 
+
+Kurang lebih sebanyak 23 pasien yang ditemui dan disapa Presiden satu per satu. 
+
+Presiden terlihat mendengarkan langsung keluhan-keluhan dari para pasien sekaligus berupaya membesarkan hati mereka agar tetap sabar menghadapi cobaan ini. 
+
+Ibu tenang, kita selesaikan satu-satu, semua yang perlu perawatan segera kita rujuk ke Makassar, ujar Jokowi di sela-sela perbincangannya dengan para pasien itu. 
+
+Para pasien itu berada di rumah sakit darurat Bandara Mutiara Sis Al-Jufri untuk diterbangkan ke Makassar (Sulawesi Selatan) dan Manado (Sulawesi Utara) guna mendapat perawatan lebih intensif. 
+
+Setelah dari Bandara, Presiden Jokowi dijadwalkan akan melanjutkan aktivitasnya untuk melihat langsung penanganan yang dilakukan jajaran terkait bagi para korban dan kerusakan sarana umum di sejumlah lokasi. 
+
+Saat tiba di Kota Palu, Presiden Joko Widodo disambut oleh Menteri Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam) Wiranto, Panglima TNI Marsekal Hadi Tjahjanto, dan Kapolri Jenderal Tito Karnavian. 
+
+Tampak pula Gubernur Sulawesi Tengah Longki Djanggola, Kapolda Sulteng Brigjen Pol Ermi Widyatno, dan Pangdam XIII/Merdeka Mayjen TNI Tiopan Aritonang. 
+
+(BPMI Setpres/ES) 
+</TEXT>
+
+</TimeML>

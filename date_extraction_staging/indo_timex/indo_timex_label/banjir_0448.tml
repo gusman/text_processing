@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0448</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-28</TIMEX3></DCT>
+
+<TITLE>Macet Panjang Hingga 5 km dari Arah Kaligawe Menuju Demak</TITLE>
+
+<TEXT>
+Ribuan Kendaraan mulai dari sepeda motor, bus dan truk mengalami kemacetan panjang hingga 5 km di jalan Kaligawe menuju Demak, <TIMEX3 tid="t1" type="DATE" value="2019-01-28">Senin (28/1/2019)</TIMEX3>. 
+
+Kemacetan disebabkan kondisi jalan Pantura desa Sriwulan yang tergenang Banjir Rob dan berlubang mulai 20 cm - 30 cm. 
+
+Untuk mengurai kemacetan, Satlantas Polres Demak memberlakukan contraflow dan mensiagakan petugas satlantas di titik kemacetan. 
+
+Sementara itu, untuk antisipasi terjadinya kecelakaan di jalan yang berlubang, Satlantas Pores Demak memasang colo - colo dan memberlakukan satu lajur ketika kendaraan melewati jalan Pantura desa Sriwulan. 
+
+Sopir Dump Truk, Kasnadi, mengeluhkan kondisi jalan Pantura desa Sriwulan yang berlubang dan menyebabkan kemacetan panjang. 
+
+Dia mengaku mengalami keterlambatan pengiriman pasir ke arah Demak. 
+
+" Pastinya kami merugi mas, rugi waktu rugi uang. 
+
+Jalan ini merupakan jalan satu-satunya dari Semarang menuju ke Demak, Kudus, ataupun Jepara, mau lewat mana lagi, " ucapnya, <TIMEX3 tid="t2" type="DATE" value="2019-01-28">Senin (28/1/2019)</TIMEX3>. 
+
+Dia berharap dinas terkait bisa menambal jalan dan memperbaiki sistem drainase ataupun pengairan supaya tidak menggenangi jalan. 
+
+Kepala Unit Turjawali Satlantas Polres Demak, Ipda Setyo, mengatakan Satlantas Polres Demak memberlakukan contraflow mengurai kemacetan dari Kaligawe hingga jalan Pantura Demak desa Sriwulan. 
+
+" Kami juga memasang colo - colo di jalan Pantura yang berlubang desa Sriwulan sebagai antisipasi agar tidak terjadi kecelakaan, " ungkapnya.Pihaknya berharap agar pengendara roda empat dan roda dua bersabar dan berhati-hati ketika melintasi jalan Pantura desa Sriwulan.PPK Semarang Demak Trengguli Jepara, Satker PJN Metropolitan Semarang, Benny Christiawan, mengatakan pihaknya sementara ini akan memasang rambu- rambu terlebih <TIMEX3 tid="t3" type="DATE" value="PAST_REF">dahulu</TIMEX3>. " Kalau kondisi hujan dan basah gini kita tidak bisa melakukan penambalan. 
+
+Rencana <TIMEX3 tid="t4" type="DATE" value="2019-01-29">besok</TIMEX3> kalau memungkinkan akan ditambal, Tapi kalau air masih tinggi, kami akan cari cara lain, " tuturnya.Ditambahkan, penanganan darurat <TIMEX3 tid="t5" type="DATE" value="2019-01-29">besok</TIMEX3> akan bergantung dengan kondisi lapangan. 
+
+Jika jalan masih tergenang rob tinggi, maka penambalan tidak bisa dilakukan. 
+
+(*) 
+</TEXT>
+
+</TimeML>

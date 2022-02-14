@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0943</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-14" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-14</TIMEX3></DCT>
+
+<TITLE>Tak Hanya Riau, Kabupaten Karo Sulawesi Utara Mulai Terpapar Asap Tebal</TITLE>
+
+<TEXT>
+Tak hanya di wilayah Kota Pekanbaru, Riau, kabut asap akibat kebakaran hutan dan lahan (karhutla) mulai menyebar ke beberapa wilayah. 
+
+Salah satunya Desa Tongging, Kecamatan Merek, Kabupaten Karo, Sumatera Utara. 
+
+Warga Desa Tongging, Irma Suryani beru Munthe mengatakan, kawasan Tongging sudah mulai diselimuti asap <TIMEX3 tid="t1" type="DURATION" value="P1W">sekitar sepekan</TIMEX3> terakhir. 
+
+Hal itu menyebabkan warga menderita sesak napas. 
+
+Jarak pandang di kawasan Tongging masih dirasa cukup aman. 
+
+. 
+
+Kabut asap juga menyebabkan aktivitas petani mulai terganggu. 
+
+Hingga <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> belum ada pembagian masker dari pihak desa ataupun kecamatan. 
+
+" Pasti terganggu lah, soalnya kan kita petani, aktivitas pasti banyak di luar rumah. 
+
+Belum ada dibagi masker sama kami, " ucapnya. 
+
+Seorang pengunjung yang sedang berwisata ke Tongging Bayu Pramana mengatakan, kabut asap yang menyelimuti wilayah Tongging sudah mulai terlihat dari kawasan mulai masuk Kecamatan Merek. 
+
+" Mulai dari Tiga Panah juga sudah nampak itu di atas bukit Sipiso-piso ada kabut. 
+
+// Saya kira kabut biasa, rupanya sudah sampai di sini beda kabutnya, " katanya. 
+
+" Kalau kabut yang biasa kena badan kan dingin, ini malah enggak enak bikin gerah, " ujarnya. 
+
+Seorang staf Puskesmas Kecamatan Merek, Lasmaria beru Girsang, mengatakan, hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihaknya belum mendata adanya masyarakat yang melaporkan terserang ispa disebabkan kabut asap. 
+
+Lasmaria mengimbau masyarakat agar selalu menggunakan masker atau hindari berada di luar ruangan. 
+
+" Apabila ada sesak berkelanjutan, silakan langsung periksa ke bidan, ke puskesdes, ke puskesmas. 
+
+Selanjutnya akan dibawa ke rumah sakit yang tingkatannya lebih tinggi, " katanya. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1069</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-03</TIMEX3></DCT>
+
+<TITLE>Tinjau Penanganan Dampak Gempa, Jokowi Kembali Bertolak ke Palu</TITLE>
+
+<TEXT>
+Presiden Joko Widodo (Jokowi) pada <TIMEX3 tid="t1" type="TIME" value="2018-10-03">Rabu (3/10) pagi</TIMEX3> kembali bertolak ke Palu, Sulawesi Tengah (Sulteng), guna meninjau langsung penanganan dampak bencana gempa bumi disertai tsunami yang melanda wilayah tersebut <TIMEX3 tid="t2" type="DATE" value="2018-09-28">Jumat (28/9) lalu</TIMEX3>. 
+
+Menggunakan pesawat Boeing 737-400 TNI AU, Presiden Jokowi dan rombongan bertolak melalui Pangkalan TNI AU Halim Perdanakusuma, Jakarta, pada <TIMEX3 tid="t3" type="TIME" value="2018-10-02T07:00">pukul 07.00 WIB</TIMEX3>. 
+
+Deputi Bidang Protokol, Pers, dan Media Sekretariat Presiden, Bey Machmudin, mengemukakan, setibanya di Bandar Udara Mutiara Sis Al-Jufri, Kota Palu, Presiden akan langsung meninjau sejumlah daerah terdampak bencana, mulai dari Kelurahan Petobo, Rumah Sakit Wirabuana, hingga Hotel Roa-Roa. 
+
+Selain itu, Presiden juga akan mengunjungi sejumlah hunian terdampak bencana dan juga lokasi pengungsian yang ada di Kabupaten Donggala, Provinsi Sulawesi Tengah, kata Bey dalam siaran persnya <TIMEX3 tid="t4" type="TIME" value="2018-10-03">Rabu (3/10) pagi</TIMEX3>. 
+
+Kunjungan Presiden kali ini merupakan kunjungan yang kedua setelah kunjungan pertamanya pada <TIMEX3 tid="t5" type="DATE" value="2018-09-30">Minggu (30/9) lalu</TIMEX3>. 
+
+Menurut Bey Machmudin, mlalui kunjungan kali ini, Presiden ingin memastikan komitmen dan gerak cepat pemerintah dalam penanganan pascabencana yang terjadi di Sulawesi Tengah. 
+
+Sejumlah Menteri Kabinet Kerja turut mendampingi Presiden dalam penerbangan menuju Provinsi Sulawesi Tengah, yakni Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan (Menko PMK) Puan Maharani, Menteri Riset, Teknologi, dan Pendidikan Tinggi (Menristekdikti) Mohamad Nasir, Menteri Sosial (Mensos) Agus Gumiwang, Menteri Pekerjaan Umum dan Perumahan Rakyat (PUPR) Basuki Hadimuljono, dan Staf Khusus Presiden Adita Irawati. 
+
+Rencananya, Presiden beserta rombongan akan langsung kembali ke Jakarta pada <TIMEX3 tid="t6" type="TIME" value="2018-10-02TAF">sore hari</TIMEX3> melalui Helipad Halaman Kantor Bupati Donggala untuk kemudian berganti pesawat di Bandar Udara Mutiara Sis Al-Jufri, Kota Palu, dan melanjutkan perjalanan menuju Jakarta. 
+
+
+</TEXT>
+
+</TimeML>

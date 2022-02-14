@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0313</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-29" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-29</TIMEX3></DCT>
+
+<TITLE>Banjir, Bupati Dony Soroti Soal Alih Fungsi Lahan</TITLE>
+
+<TEXT>
+Hujan yang mengguyur wilayah Kabupaten Sumedang dengan intensitas tinggisejak <TIMEX3 tid="t1" type="TIME" value="2020-02-28TAF">Jumat sore</TIMEX3> (28/2/202) mengakibatkan banjir sejumlah wilayah di Kabupaten Sumedang. 
+
+<TIMEX3 tid="t2" type="TIME" value="2020-02-29TMO">Sabtu (29/2/2020) pagi</TIMEX3>, Bupati Sumedang Dony Ahmad Munir dan Wakil Bupati Erwan Setiawan langsung melakukan peninjauan ke sejumlah lokasi banjir sekaligus memberikan bantuan sembako bagi warga terdampak banjir. 
+
+Monitoring dibagi menjadi dua Tim, Bupati Sumedang bersama Kepala Satpol PP Bambang Rianto, Kepala Dinas Perkimtan Gungun Ahmad Nugraha, Camat Jatinangor Syarif Effendi Badar, Kepala Bagian Humas dan protokol Asep Tatang Sujana, unsur TNI dan Polri, BPBD, Dinas Kesehatan dan relawan. 
+
+Sedangkan Tim II dipimpin langsung oleh Wakil Bupati Sumedang Erwan Setiawan didampingi Sekretaris Daerah Kabupaten Sumedang Herman Suryatman, Kepala Dinas Kesehatan Dadang Sulaeman, Direktur RSUD Aceng Solahudin, Camat Cimanggung Herry Harjadinata, unsur TNI dan Polri, BPBD, Dinas Kesehatan, dan relawan. 
+
+Peninjauan diawali di Dusun Panjeleran Desa Padasuka Kecamatan Sumedang Utara. 
+
+Banjir yang berasal dari luapan sungai Cipeles dan Cibitung mengakibatkan belasan rumah warga di RT 2, RT 3 dan RT 4 dan satu Posyandu tadi <TIMEX3 tid="t3" type="TIME" value="2020-02-28TNI">malam</TIMEX3> terendam air hingga mencapai ketinggian 1 meter. 
+
+Kondisi serupa juga terjadi di di Desa Cikeruh dan Desa Sayang Kecamatan Jatinangor dengan tingkat kerusakan yang paling tinggi hingga menggenang ratusan pemukiman warga. 
+
+Selain disebabkan oleh curah hujan yang tinggi dan meluapnya sungai Cikeruh, banjir juga disebabkan oleh penyempitan dan pendangkalan sungai serta kurang optimalnya sistem drainase. 
+
+Tinggi air di lokasi cukup bervariasi mulai dari 60 centimeter sampai dengan 2 meter. 
+
+Walaupun saat peninjauan air sudah mulai surut, dampak dari banjir tersebut masih menyisakan endapan lumpur yang tebal di pinggir jalan maupun di dalam rumah warga.Melihat kondisi tersebut, Bupati Dony mengintruksikan untuk segera dilakukan pengerukan dan normalisasi sungai.Untuk jangka panjang, kata Dony, ke depan di hulu harus dilakukan penghijauan dan dibatasi untuk perubahan status lahan. 
+
+Pemerintah harus lebih membatasi lagi perubahan status lahan. 
+
+Kemudian normalisasi sungai seperti pengerukan harus secepatnya dilakukan. 
+
+Dihimbau pula kepada warga yang tinggal di bantaran sungai untuk tidak lagi mendirikan bangunan dekat sungai yang dikhawatirkan akan berdampak erosi dan banjir, jelasnya.Lebih lanjut kata Bupati Dony, sebagai langkah antisipasi, pemerintah daerah akan membangun early warning system mengenai perkiraan cuaca terutama di daerah langganan banjir sehingga masyarakat bisa waspada dan siaga sejak awal ketika curah hujan tinggi. 
+
+Insya Allah kami akan segera menangani terutama untuk pengerukan. 
+
+Walaupun sifatnya jangka pendek tapi ketika dikeruk setidaknya banjir akan teratasi. 
+
+Kemudian yang kedua daerah ini merupakan titik terendah atau cekungan. 
+
+<TIMEX3 tid="t4" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> dikaji cari tempat dimana akan dibuat kolam retensi sehingga air tidak meluap ke daerah ini, ujar Dony. 
+
+*** 
+</TEXT>
+
+</TimeML>

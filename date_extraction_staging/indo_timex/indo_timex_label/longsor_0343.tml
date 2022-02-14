@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0343</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-26" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-26</TIMEX3></DCT>
+
+<TITLE>Hujan dan Pergeseran Tanah Sebabkan Longsor Terjadi di Beberapa Titik Kota Bogor</TITLE>
+
+<TEXT>
+Bencana tanah longsor dan pergerakan tanah masih mengintai Kota Bogor. 
+
+Berdasarkan laporan Badan Penanggulangan Bencana Daerah Kota Bogor, pergerakan tanah terjadi di Kampung Warung Pari RT 1, RW 1, Kelurahan Pamoyanan, Kecamatan Bogor Selatan, <TIMEX3 tid="t1" type="TIME" value="2020-03-26">Kamis 26 Maret 2020 pukul 00.00</TIMEX3>. 
+
+Kepala Pelaksana BPBD Kota Bogor Priyatnasyamsyah menuturkan, pergeseran tanah menyebabkan rumah milik salah seorang warga, Enah retak, dengan tembok dapur, kamar tidur, dan kamar mandi retak. 
+
+Menurut Priyatna, tim BPBD sudah melakukan verifikasi dan tidak ada korban jiwa dalam peristiwa tersebut. 
+
+Pergeseran tanah terjadi karena hujan dengan intensitas tinggi di wilayah tersebut, rumah yang rusak juga diperparah kondidi rumah yang tidak mempunyai sloof, ujar Priyatna, <TIMEX3 tid="t2" type="DATE" value="2020-03-26">Kamis 26 Maret 2020</TIMEX3>. 
+
+. 
+
+Longsoran dengan lebar 10 meter dan tinggi 15 meter berdampak pada rumah milik Suparman. 
+
+Rumah yang ditempati 9 jiwa itu mengalami retak di bagian lantai, dan rusak di bagian dapur. 
+
+Tanah longsor juga dilaporkan terjadi di wilayah Jalan Parung Banteng, RT 4, RW 1, Kelurahan Katulampa, Kecamatan Bogor Timur. 
+
+Longsoran sepanjang 14 meter dengan tinggi 15 meter itu membuat jalur jalan tidak dapat dilalui kendaraan roda empat. 
+
+Longsoran juga menutupi sebagian kali baru yang berada di tepian tebing longsoran. 
+
+Hujan dengan intensitas tinggi juga menyebabkan tanah ambles di wilayah Perumahan Bogor Baru, Jalan Cimanuk, Kelurahan Tegal Gundil, Kecamatan Bogor Utara. 
+
+. 
+
+
+</TEXT>
+
+</TimeML>

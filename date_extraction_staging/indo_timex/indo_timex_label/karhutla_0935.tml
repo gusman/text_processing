@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0935</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-01" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-01</TIMEX3></DCT>
+
+<TITLE>Cuaca Panas Picu 30 Hektare Lahan dan Hutan di Kalimantan Timur Terbakar</TITLE>
+
+<TEXT>
+Kebakaran lahan dan hutan (Karhutla) di Kalimantan Timur memuncak <TIMEX3 tid="t1" type="DATE" value="PAST_REF">akhir-akhir ini</TIMEX3> seiring cuaca panas. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> petugas dari Dinas Kehutanan Kaltim sedang melakukan pemadaman api di beberapa titik di Kampung Labanan, Kecamatan Teluk Bayur, Kabupaten Berau, Kalimantan Timur. 
+
+" Petugas kami sedang melakukan pemadaman di lokasi api, " ungkap Kepala Dinas Kehutanan Kaltim Amrullah di Samarinda, <TIMEX3 tid="t3" type="DATE" value="2019-08-30">Jumat (30/8/2019)</TIMEX3>. 
+
+Amrullah mengatakan, <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> petugas sedang menghalau titik api agar tak meluas. 
+
+Kompas. 
+
+com mengonfirmasi langsung Kasi Pengendalian Kerusakan dan Pengamanan Dinas Kehutanan Kaltim Shahar Al Haqq yang berada di lokasi kejadian melalui telepon. 
+
+. 
+
+Dia bersama tim sedang memadamkan lahan seluas 30 hektar yang dilahap api bersisian dengan HPH. 
+
+" Kita sudah kuasai apinya, tapi kemungkinan panas terik memicu kebakaran lagi, " ungkap dia.Ada pun kendala di lapangan adalah keterbatasan air dan akses jalan masuk menuju titik api.Banyaknya Pohon menyulitkan petugas membawa mobil pemadam dan tangki air. 
+
+// " Penyebab kebakaran hampir 90 akibat perbuatan manusia. 
+
+Dari membakar lahan buka kebun hingga buang puntung rokok sembarangan, " kata dia. 
+
+. 
+
+Data yang dihimpun Shahar di lapangan, <TIMEX3 tid="t5" type="DATE" value="2019-09-01">hari ini</TIMEX3> Jumat <TIMEX3 tid="t6" type="DATE" value="2019-08-30">(30/8/2019)</TIMEX3> ditemukan 17 titik api tersebar di Kabupaten Berau, Kutai Barat, Kutai Kertanegara, Kutai Timur dan Kabupaten Paser. 
+
+Pada <TIMEX3 tid="t7" type="DATE" value="2019-08-28">Rabu (28/8/2019)</TIMEX3> ditemukan 4 titik api di Kabupaten Berau, Kutai Kertanegara dan Kutai Timur. 
+
+" Petugas kami terus memantau perkembangan sebaran api. 
+
+Kami juga libatkan masyarakat dalam pengendalian api, " jelasnya. 
+
+Upaya pengendalian Dishut Kaltim membentuk posko siaga Karhutla bernama Zero Fire Forest. 
+
+. 
+
+" Setiap side membentuk sub di desa-desa. 
+
+Namanya masyarakat peduli api. 
+
+Setiap desa punya posko. 
+
+Kalau ada deteksi api, langsung dipadamkan dari masyarakat. 
+
+Apabila tak mampu, petugas dari posko turun, " terangnya. 
+
+Data Badan Penanggulangan Bencana Daerah (BPBD) Kaltim semester pertama <TIMEX3 tid="t8" type="DATE" value="2019">2019</TIMEX3> atau periode Januari-Juni mencatat 215 kebakaran. 
+
+Jumlah ini termasuk kebakaran permukiman.Sedangkan luas lahan dan hutan yang terbakar di Kaltim, menurut data Kementerian Lingkungan Hidup dan Kehutanan, sebesar 4.430 hektare. 
+</TEXT>
+
+</TimeML>

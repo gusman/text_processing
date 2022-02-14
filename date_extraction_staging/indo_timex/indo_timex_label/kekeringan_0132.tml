@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0132</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-30" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-30</TIMEX3></DCT>
+
+<TITLE>Aliri Sawah yang Terdampak Kekeringan, Petani Andalkan Pompanisasi</TITLE>
+
+<TEXT>
+Petani di Kampung Panyandungan, Desa Binong, Kecamatan Maja, harus melakukan pompanisasi untuk mengairi sawah. 
+
+<TIMEX3 tid="t1" type="SET" value="UNKNOWN">Dua hari sekali</TIMEX3> petani di Panyandungan yang memiliki modal harus memompa air dari Sungai Cidalumpit dengan biaya kurang lebih Rp80 ribu. 
+
+Pantauan Radar Banten di lokasi, air dari sungai dialirkan dengan menggunakan pipa dari sungai ke tempat penampungan yang telah disediakan. 
+
+Selanjutnya, air dari penampungan dialirkan kembali menggunakan mesin ke areal pesawahan milik Jamhur. 
+
+Sementara itu, petani yang tidak punya modal untuk pompanisasi membiarkan sawahnya kering dan tanaman padinya mati. 
+
+Jamhur, menyatakan, sudah <TIMEX3 tid="t2" type="DURATION" value="P1M">lebih dari sebulan</TIMEX3> melakukan pompanisasi dari Sungai Cidalumpit. 
+
+Kondisi tersebut membuat tanaman padi miliknya tetap hijau dan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3> sudah mulai berbuah. 
+
+Dalam <TIMEX3 tid="t4" type="SET" value="UNKNOWN">dua hari sekali</TIMEX3>, dia harus mengambil air dari sungai dan dialirkan ke sawah. 
+
+Jika tidak maka sawahnya akan kering dan tanaman padinya bisa mati. 
+
+<TIMEX3 tid="t5" type="SET" value="UNKNOWN">Dua hari sekali</TIMEX3> harus dialiri air. 
+
+Biayanya lumayan besar, yakni Rp80 ribu. 
+
+Jadi biaya produksi untuk menanam padi di <TIMEX3 tid="t6" type="DATE" value="2019-SU">musim kemarau</TIMEX3> lebih mahal dan tentu saja memberatkan petani di sini, kata Jamhur kepada wartawan, <TIMEX3 tid="t7" type="DATE" value="2019-07-30">Selasa (30/7)</TIMEX3>. 
+
+Jamhur mengatakan, lahan pesawahan masyarakat di Panyandungan dan Desa Binong pada umumnya sudah kering dan tanaman padinya banyak yang mati. 
+
+Kondisi cuaca yang panas membuat petani tidak bisa menyelamatkan tanaman padinya tersebut. 
+
+Apalagi, air baku di Sungai Cidalumpit sudah mulai menyusut. 
+
+Sehingga tidak bisa diandalkan untuk pengairan sawah di wilayah Desa Binong. 
+
+Areal pertanian di sini sudah banyak yang tidak teraliri air. 
+
+Karena itu, kita minta kepada pemerintah membantu para petani dengan memberikan bantuan modal usaha pertanian kepada petani yang gagal panen, ungkapnya. 
+
+(Mastur) 
+</TEXT>
+
+</TimeML>

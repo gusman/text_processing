@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0027</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-08" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-08</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS - Aceh Diguncang Gempa 5,3 SR</TITLE>
+
+<TEXT>
+Banda Aceh diguncang gempa <TIMEX3 tid="t1" type="TIME" value="2018-02-07T16:52">sekitar pukul 16.52 WIB</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2018-02-08">Kamis (8/2/2018)</TIMEX3>. 
+
+Berdasarkan informasi yang diperoleh Serambinews. 
+
+com dari situs resmi BMKG, gempa barusan berkekuatan 5,3 skala richter (SR). 
+
+Gempa berlokasi di 26 kilometer timur laut Kabupaten Aceh Barat, dengan kedalaman 10 Km. 
+
+Gempa dirasakan cukup lama. 
+
+Gempa <TIMEX3 tid="t3" type="TIME" value="2018-02-08TAF">sore ini</TIMEX3> dirasakan cukup kencang, dibanding dua gempa sebelumnya yang terjadi di wilayah Aceh. 
+
+Dua kali gempa sebelumnya di Aceh, masing-masing terjadi pada <TIMEX3 tid="t4" type="DATE" value="2018-01-24">24 Januari 2018</TIMEX3> dan <TIMEX3 tid="t5" type="DATE" value="2018-01-05">5 Januari 2018</TIMEX3>. 
+
+Pada <TIMEX3 tid="t6" type="DATE" value="2018-01-24">24 Januari</TIMEX3>, kekuatan gempa 5,1 SR, lokasi 68 Km Barat Daya Kabupaten Simeulue. 
+
+Sedangkan pada <TIMEX3 tid="t7" type="DATE" value="2018-01-05">5 Januari</TIMEX3>, Aceh diguncang gempa dengan kekuatan 5,4 SR. 
+
+Lokasinya 78 km timur laut Kota Sabang. 
+
+(*) 
+</TEXT>
+
+</TimeML>

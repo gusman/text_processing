@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0154</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-04" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-04</TIMEX3></DCT>
+
+<TITLE>Cerita Korban Selamat dari Gempa dan Tsunami Palu</TITLE>
+
+<TEXT>
+Gempa bumi dan tsunami yang terjadi di Sulteng banyak meninggalkan cerita pilu. 
+
+Warga pun berbondong-bondong meninggalkan Palu. 
+
+Cerita itu dari kampung Petobo. 
+
+Daerah ini lenyap terkubur lumpur. 
+
+HENDRA asal Palattae, Kabupaten Bone tak bisa melupakan bagaimana lumpur datang seperti gelombang laut. 
+
+Mujur, ia bisa selamat dari lumatan lumpur yang menelan ratusan rumah di Kelurahan Petobo, Kecamatan Palu Selatan, Sulteng itu. 
+
+Dia tak berpikir jika terjadi likuifaksi (tanah bergerak) di daerahnya. 
+
+Hendra <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">waktu itu</TIMEX3> sedang duduk di ruang tamu. 
+
+Istrinya sedang mandi. 
+
+Tiba-tiba gempa datang. 
+
+Ia spontan berteriak memanggil istrinya, Indarwati, untuk menyelamatkan diri. 
+
+Hendra langsung meraih motornya yang jatuh karena guncangan hebat. 
+
+Hendra bergegas menjemput kedua anaknya yang sedang belajar ngaji. 
+
+Dalam benaknya, ingin segera meninggalkan kampung itu. 
+
+Sebab terlambat sekian detik bisa celaka. 
+
+Karena, setelah gempa, tanah bergolak menjadi lumpur. 
+
+Rumahnya terbenam. 
+
+Tanah berubah menjadi seperti agar-agar. 
+
+Kalau diibaratkan seperti piring di atas air yang bergoyang setiap saat, kata Hendra saat ditemui di Rumah Wakil Bupati Mamuju, <TIMEX3 tid="t2" type="DATE" value="2018-10-02">Selasa 2 Oktober</TIMEX3>. 
+
+Pria yang juga berprofesi sebagai ASN di Dinas Keuangan Pemkot Palu ini mengaku tidak ada firasat akan terjadi bencananya. 
+
+Pasalnya bagi warga Palu, gempa hal yang biasa terjadi. 
+
+Gempa bisa dikatakan <TIMEX3 tid="t3" type="SET" value="P1D">setiap hari</TIMEX3> terjadi. 
+
+Namun, kali ini berbeda setelah gempa ada gemuruh yang diikuti semburan lumpur. 
+
+Semakin lama semakin besar dan tanah mulai bergerak. 
+
+Kami bergerak lumayan jauh menuju arah kota Palu dan berhenti di tengah jalan. 
+
+Pokok jauh dari pantai menghindari pantai karena tsunami dan jauh dari gunung karena longsor, ucapnya. 
+
+Lelaki yang sudah menetap di Palu sejak <TIMEX3 tid="t4" type="DATE" value="2006">2006 lalu itu</TIMEX3> menambahkan selama <TIMEX3 tid="t5" type="DURATION" value="P1D">sehari</TIMEX3> dirinya hanya memakan makanan seadanya. 
+
+<TIMEX3 tid="t6" type="DATE" value="2018-09-29">Sabtu kemarin</TIMEX3>, baru ada beberapa keluarganya yang ia temukan. 
+
+Salah satunya ada sepupu yang juga orang Bone. 
+
+Berasal dari situ dia memutuskan untuk segera kembali ke Bone untuk menyelamatkan diri, dengan cara menumpang mobil milik keluarga tersebut. 
+
+Kami meninggalkan Palu pada <TIMEX3 tid="t7" type="TIME" value="2018-10-01TAF">Senin sore</TIMEX3> sekitar <TIMEX3 tid="t8" type="TIME" value="2018-10-03T15:00">pukul 15.00</TIMEX3> Wita dan baru sampai di Mamuju pada <TIMEX3 tid="t9" type="TIME" value="2018-10-02T15:30">Selasa pukul 15.30</TIMEX3> Wita juga. 
+
+Ini karena jalanan macet banyak warga yang juga mengungsi seperti kami. 
+
+<TIMEX3 tid="t10" type="TIME" value="2018-10-04TNI">Malam ini</TIMEX3> kami akan langsung ke Palattae, Bone, tambahnya. 
+
+Uswatun Hasanah yang juga warga Petobo mengatakan pada saat kejadian dia langsung lari keluar dari rumahnya. 
+
+Namun, <TIMEX3 tid="t11" type="DURATION" value="PXX">beberapa saat</TIMEX3> langsung dirinya mendengar ada teriakan dari warga lainnya yang mengatakan air laut naik. 
+
+Tsunami. 
+
+Dia berlari menggendong anaknya, Naisyah (1,5 tahun) untuk menjauh. 
+
+Tetapi, saat berhenti dan baru sadar bahwa anak satunya lagi, Nailah (3) tertinggal. 
+
+Beruntung, ada tetangga yang membawanya dan ketemu di tempat persinggahan. 
+
+<TIMEX3 tid="t12" type="DATE" value="UNKNOWN">Waktu itu</TIMEX3> suami saya tidak ada di tempat, ujarnya. 
+
+Dia pun baru bertemu suaminya <TIMEX3 tid="t13" type="DATE" value="2018-09-29">Sabtu</TIMEX3>, sebab baru tiba di bandara. 
+
+Untuk bertahan hidup saya ke kantor suami saya yang bekerja di Basarnas, dan mendapat makanan di sana, ucapnya. 
+
+Setelah agak tenang dia pun memutuskan untuk meninggalkan Palu bersama kedua anaknya. 
+
+Sedangkan suami tetap berada di Palu untuk ikut melakukan evakuasi. 
+
+Ada keluarga dari suami saya jemput di Palu dan dibawa ke Mamuju dan akan ke Makassar untuk menenangkan diri. 
+
+Untuk rumah kami di Palu <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">kini</TIMEX3> bukan rata dengan tanah, tetapi terendam di tanah yang turun karena adanya semburan lumpur, ujarnya. 
+
+(fin/bha) 
+</TEXT>
+
+</TimeML>

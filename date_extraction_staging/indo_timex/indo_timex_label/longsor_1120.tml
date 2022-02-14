@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1120</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-20" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-20</TIMEX3></DCT>
+
+<TITLE>Longsor, Jalan Pessel   Sungai Penuh Belum Bisa Dilalui</TITLE>
+
+<TEXT>
+Jalan lintas penghubung Provinsi Sumbar dan Jambi, tepatnya antara perbatasan Ranah Ampek Hulu Tapan, Pessel dengan Kota Sungai Penuh, Kerinci putus total akibat longsor yang terjadi <TIMEX3 tid="t1" type="DATE" value="2018-02-19">Senin 19 Februari 2018 kemarin</TIMEX3> hingga <TIMEX3 tid="t2" type="DATE" value="2018-02-20">hari ini</TIMEX3>. 
+
+Informasi yang terhimpun, longsoran ini terjadi di kilometer 35 pada <TIMEX3 tid="t3" type="TIME" value="2018-02-19TAF">Senin sore</TIMEX3>. 
+
+Hingga, <TIMEX3 tid="t4" type="DATE" value="2018-02-20">Selasa 20 Februari 2018</TIMEX3> akses masih belum bisa dilalui karena tumpukan longsor masih menghambat badan jalan. 
+
+Camat Ranah Ampek Hulu Tapan, Alamsyah pada media menyebutkan, kondisi longsor yang tersebut sangat terbilang parah. 
+
+Sebab longsor yang terjadi diperbatasan daerah terdapat sebanyak 18 titik dan harus ditangani supaya akses bisa normal lagi. 
+
+Wilayah kita ada sekitar dua titik, infonya longsor mencapai 18 titik termasuk kawasan kita, jelasnya. 
+
+Ia menjelaskan, untuk menyikapi kondisi tersebut, pihaknya sudah menghubungi Pemko Sungai Penuh serta pihak Balai Jalan Provinsi. 
+
+Dan kondisi itu juga dibantu penanganan dari BPBD Pessel untuk mengevakuasinya. 
+
+Tim kita dari BPBD Pessel sudah meluncur ke lokasi untuk membantu membuka akses jalan yang longsor. 
+
+Sampai <TIMEX3 tid="t5" type="TIME" value="2018-02-19TAF">siang tadi</TIMEX3> sekitar <TIMEX3 tid="t6" type="TIME" value="2018-02-19T11:00">pukul 11.00 WIB</TIMEX3> seluruh kendaraan menuju ke Sungai Penuh masih terhenti dan menunggu penanganan tim, pungkasnya. 
+
+Rega Desfinal 
+</TEXT>
+
+</TimeML>

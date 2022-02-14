@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0830</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-04-14" temporalFunction="false" functionInDocument="CREATION_TIME">2015-04-14</TIMEX3></DCT>
+
+<TITLE>Puting Beliung Terjang Jabon</TITLE>
+
+<TEXT>
+Angin puting beliung menerjang Dusun Bangunsari, Desa Tambak Kalisogo, Kecamatan Jabon, <TIMEX3 tid="t1" type="TIME" value="2015-04-12TEV">Minggu (12/4) petang</TIMEX3>. 
+
+Akibatnya, lima warga terluka dan puluhan rumah rusak. 
+
+Informasi yang dihimpun KORAN SINDO JATIM, terjangan puting beliung berlangsung sangat cepat. 
+
+Warga yang tidak menduga kejadian itu langsung panik dan berhamburan ke luar rumah. 
+
+Teriakan takbir dan peringatan untuk keluar rumah saling bersahutan. 
+
+Beberapa warga yang tidak sempat keluar rumah akhirnya mengalami luka-luka akibat tertimpa bangunan roboh. 
+
+Tercatat ada lima warga Bangunsari yang terluka. 
+
+Sebanyak 2 orang dibawa ke Puskesmas Jabon, 1 korban dibawa ke RS Pusdik Porong, dan 1 korban luka parah dibawa ke RSUD Sidoarjo. 
+
+Sedangkan, total ada 66 rumah dan fasilitas umum mengalami kerusakan ringan hingga berat. 
+
+Dari puluhan rumah yang rusak, empat di antaranya rusak berat dan rata dengan tanah. 
+
+Puting beliung tidak sampai <TIMEX3 tid="t2" type="DURATION" value="PT10M">10 menit</TIMEX3> dan menerjang rumah kami, ujar Marsulin, salah satu warga yang rumahnya ambruk. 
+
+Di tengah hujan dan angin yang terus berputar kencang, Marsulin merangkul istri dan anaknya dan keluar dari rumahnya. 
+
+Gemuruh angin langsung menyapu rumahnya. 
+
+Warga yang keluar rumah melihat angin berputar di atas tanah. 
+
+Saking kencangnya pusaran angin, pot bunga ikut beterbangan. 
+
+Selain rumah warga, polindes juga atapnya rusak diterjang angin. 
+
+Demikian pula gedung SDN Tambak Kalisogo 1 dan SMPN 1 Jabon juga rusak. 
+
+Atap kamar mandi dan salah satu rumdin guru ambruk. 
+
+Akibat puting beliung, proses belajarmengajar tertunda. 
+
+Kepala SDN Tambak Kalisogo 1 Suparlan mengatakan, atap kamar mandi dan rumdin guru jebol. 
+
+Di halaman sekolah berserakan pohon, pot bunga, kayu, dan puing-puing lainnya. 
+
+<TIMEX3 tid="t3" type="TIME" value="2015-04-14TMO">Pagi harinya</TIMEX3>, siswa dan guru kerja bakti membersihkan sekolah. 
+
+Ini ada siswa kelas VI yang sedang ujian semester, ditunda <TIMEX3 tid="t4" type="DURATION" value="PT1H">satu jam</TIMEX3> karena kondisi sekolahan masih berantakan, ujarnya. 
+
+Untuk membersihkan puing- puing dan pohon yang tumbang, warga bersama aparat kepolisian, TNI, dan BPBD bergotong royong sejak <TIMEX3 tid="t5" type="TIME" value="2015-04-14TMO">pagi</TIMEX3>. 
+
+Ada pula warga yang memperbaiki sendiri genteng rumahnya yang runtuh. 
+
+Kepala Desa Tambak Kalisogo <TIMEX3 tid="t6" type="TIME" value="2015-04-14TMO">Fajar</TIMEX3> Shodiq mengatakan, warga berharap segera mendapat bantuan untuk memperbaiki rumahnya, terutama rumah warganya yang ambruk. 
+
+Ada empat rumah warga kami yang ambruk dan untuk membangun lagi butuh biaya cukup banyak. 
+
+Kami berharap segera ada bantuan dari pemkab, katanya. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Sidoarjo Dwijo Prawito mengatakan, bencana alam itu akan dirapatkan dengan pihak terkait karena di instansinya tidak ada pos anggaran untuk perbaikan. 
+
+Untuk perbaikan rumah yang rusak akan menggunakan dana tanggap darurat. 
+
+<TIMEX3 tid="t7" type="DATE" value="2015-04-15">Besok</TIMEX3> (<TIMEX3 tid="t8" type="DATE" value="2015-04-14">hari ini</TIMEX3>) akan dirapatkan dengan sekda dan bupati. 
+
+Apakah akan menggunakan dana tanggap darurat atau tidak, ujar Dwijo. 
+
+Sedangkan, dana tanggap darurat berada di Dinas Pendapatan Pengelolaan Kekayaan dan Aset (DPPKA). 
+
+Kalau ada bencana baru bisa dicairkan. 
+
+Tentunya harus dengan persetujuan bupati, pungkas Dwijo. 
+
+Untuk melihat kondisi kerusakan akibat puting beliung, <TIMEX3 tid="t9" type="TIME" value="2015-04-14TMO">pagi harinya</TIMEX3> Kapolres Sidoarjo AKBP Anggoro Sukartono melihat ke lokasi dan mengerahkan anak buahnya untuk membantu warga. 
+
+<TIMEX3 tid="t10" type="TIME" value="2015-04-13TAF">Siang harinya</TIMEX3> Bupati Sidoarjo Saiful Ilah ke lokasi dan memberi bantuan 75 paket sembako. 
+
+Selain diminta segera memberi bantuan perbaikan rumah warga yang rusak, Bupati juga diminta memperbaiki akses menuju kawasan itu yang rusak parah. 
+
+Prioritas utama rumah yang rusak <TIMEX3 tid="t11" type="DATE" value="PAST_REF">dulu</TIMEX3> diperbaiki, ujarnya. 
+
+Namun, salah satu warga tetap menyampaikan keluhan agar jalan akses ke dusun itu juga diperbaiki. 
+
+Karena selama ini banyak anak sekolah yang jatuh karena jalan berlubang. 
+
+Saiful Ilah menjelaskan, jalan rusak yang ada di sisi Sungai Porong itu merupakan kewenangan pemerintah pusat. 
+
+Namun, salah satu warga yang tidak mengerti jalan itu tanggung jawab siapa jalan tetap ngotot. 
+
+Kami tahunya pemerintah, makanya mengeluh ke bupati, ujarnya. 
+
+Wajah Saiful Ilah tampak memerah dan dia mendamprat salah satu warga itu. 
+
+Jangan ngomong saja, malu banyak orang menyampaikan hal itu, ujarnya dengan nada kasar sambil memegangi tangan warga yang menyampaikan keluhan jalan rusak. 
+
+Sekadar diketahui, untuk menuju kawasan di ujung timur Sidoarjo itu cukup sulit. 
+
+Sebab, jalan mulai dari sebelah timur semburan lumpur Lapindo rusak parah. 
+
+Selain berlobang dan belum diaspal, jika hujan turun juga licin. 
+
+Untuk menuju lokasi puting beliung mobil sedan sulit untuk menjangkaunya. 
+
+Bahkan, bupati dan wakil bupati terpaksa naik mobil double cabinmilik BPBD. 
+
+Dan mobil dinas jenis sedan Saiful Ilah dan Hadi Sutjipto itu diparkir di sebelah timur semburan lumpur Lapindo. 
+
+Abdul rouf (ftr) 
+</TEXT>
+
+</TimeML>

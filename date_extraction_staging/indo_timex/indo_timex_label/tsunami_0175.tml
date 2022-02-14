@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0175</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-06" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-06</TIMEX3></DCT>
+
+<TITLE>PLN Batam Bantu Pemulihan Kelistrikan di Wilayah Palu, Sigi, dan Donggala</TITLE>
+
+<TEXT>
+PLN Batam mengirimkan 12 relawan untuk membantu mempercepat proses perbaikan kelistrikan di Palu, Sigi, dan Donggala, Sulawesi Tengah. 
+
+Perbaikan infrastrukrur listrik <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> menjadi salah satu prioritas utama agar layanan publik, rumah sakit, dan daerah vital lainnya bisa kembali normal. 
+
+Direktur Keuangan dan Sumber Daya Manusia, PLN Batam, Bayu Widyarto mengatakan, musibah yang terjadi di Palu dan Donggala merupakan duka seluruh masyarakat Indonesia. 
+
+Karena itu, pihaknya menilai sudah menjadi tanggungjawab bersama untuk ikut membantu para korban gempa bumi dan tsunami tersebut. 
+
+<TIMEX3 tid="t2" type="DATE" value="2018-10-06">Hari ini</TIMEX3> (<TIMEX3 tid="t3" type="DATE" value="2018-10-06">Sabtu 6/10</TIMEX3>, red) kita kirimkan relawan untuk membantu teman-teman di sana (Palu, Sigi dan Donggala) memulihkan jaringan listrik, kata Bayu usai melepas relawan di Kantor PLN Batam, <TIMEX3 tid="t4" type="DATE" value="2018-10-06">Sabtu (6/10)</TIMEX3>. 
+
+Bayu menjelaskan 12 relawan yang berangkat ke Palu dan Donggala tersebut merupakan pegawai PLN Batam yang memiliki keahlian dalam jaringan listrik. 
+
+Ia mengaku untuk tahap pertama ini pihaknya fokus dalam membantu perbaikan kelistrikan. 
+
+Sedangkan batuan lainnya, pihaknya mengaku masih mengumpulkan donasi di internal PLN Batam. 
+
+Kalau sudah terkumpul semua, <TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">nanti</TIMEX3> akan kita serahkan. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kita memang masih fokus untuk membantu pemulihan jaringan, ujarnya. 
+
+Ia mengatakan kerusakan listrik akibat tsunami berbeda jika dibandingkan kerusakan akibat gempa bumi. 
+
+Proses pemulihannya lebih sulit. 
+
+Karena itu dengan bantuan 12 relawan dari PLN Batam tersebut pihaknya berharap dapat mempercepat proses pemulihan listrik di kota yang diterjang tsunami. 
+
+Pria yang pernah menjadi relawan saat tsunami di Aceh tersebut mengaku bahwa untuk pemulihan jaringan listrik dibutuhkan kehati-hatian dan juga tenaga ekstra. 
+
+Maka itu pihaknya mengirimkan pegawai yang memang memiliki keahlian di bidangnya. 
+
+Bayu mengaku juga sudah berkoordinasi dengan PLN Cabang Sulawesi. 
+
+Rencananya <TIMEX3 tid="t7" type="DURATION" value="P2W">dua minggu</TIMEX3> di sana. 
+
+Tapi juga melihat situasi dan kondisi, kalau <TIMEX3 tid="t8" type="DATE" value="FUTURE_REF">nanti</TIMEX3> memungkinkan ditambah (waktunya), intinya kita siap. 
+
+Karena itu saya tadi berpesan agar teman yang berangkat menjaga kesehatan, katanya. 
+
+Terkait dengan seberapa parah kerusakan jaringan listrik di Palu, ia mengaku <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum bisa memastikannya. 
+
+Nantinya para relawan yang dikirim di bawah komando dari PLN Batam akan menyimpulkannya. 
+
+Begitu juga penenpatan di sana, apakah Palu, Donggala, atau sekitarnya. 
+
+<TIMEX3 tid="t10" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> teman-teman di sana yang bagi wilaynya. 
+
+Yang jelas kalau bekas tsunami itu memang sulit. 
+
+Saya <TIMEX3 tid="t11" type="DATE" value="PAST_REF">dulu</TIMEX3> pernah mengalami di Aceh. 
+
+Tapi mudah-mudahan, untuk yang di Palu ini bisa segera pulih, katanya. 
+
+Sebelumnya, bright PLN Batam juga memberikan bantuan kemanusiaan buat para korban gempa bumi di Lombok, Nusa Tenggara Barat (NTB). 
+
+Bantuan berupa sembako, tenda, dan air mineral senilai Rp 200 juta diberikan langsung pihak manajemen kepada para korban <TIMEX3 tid="t12" type="DATE" value="2018-09">awal bulan September lalu</TIMEX3>. 
+
+Sekretaris Pekerja bright PLN Batam, Bukti Panggabean menyampaikan, bantuan tersebut dihimpun dari pegawai bright PLN Batam. 
+
+Kita lakukan secara spontanitas melalui grup WhatsApp, kata Manajer of Public Relation PLN Batam ini.Selama <TIMEX3 tid="t13" type="DURATION" value="P3D">tiga hari</TIMEX3>, pihak SP bright PLN Batam berhasil menghimpun dana sebesar Rp 200 juta. 
+
+Manajemen kemudian mengutus tim yang dipimpin Sekretaris Perusahaan bright PLN Batam Samsul Bahri, Ketua SP bright PLN Batam Mulnawarwan dan Sekretaris SP bright PLN Batam Bukti Panggabean untuk menyalurkan bantuan tersebut. 
+
+Kita distribusikan di wilayah yang belum pernah mendapatkan bantuan, katanya.(hgt) 
+</TEXT>
+
+</TimeML>

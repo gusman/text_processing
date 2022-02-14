@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0907</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-05</TIMEX3></DCT>
+
+<TITLE>Rumah Ditimpa Pohon Kelapa, Gadis Remaja Tewas</TITLE>
+
+<TEXT>
+Seorang remaja, Mariana (16), warga Kabupaten Teluk Bintuni, tewas tertimpa rumah sendiri, <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">Rabu (4/12) pagi</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2019-12-04T08:30">pukul 08.30 WIT</TIMEX3> di Jalan Sambo Kelurahan Bintuni Timur. 
+
+Remaja ini menemui ajal ketika pohon kelapa yang tumbang menimpa rumahnya. 
+
+Rumah sederhana berkonstruksi kayu, rusak berat ditimpa pohon kelapa. 
+
+Korban yang berada di dalam rumah tak bisa menyelamatkan diri, dia tertimpa atap rumah. 
+
+Koordinator Pos Pencarian dan Pertolongan Bintuni, Parlin Marbun, SH kepada wartawan di Manokwari mengatakan, kejadian dilaporkan ke Pos SAR Bintuni. 
+
+Tanpa menunggu lama, tim Resque berjumlah 6 orang membawa sejumlah peralatan langsung menuju ke lokasi kejadian. 
+
+Basarnas Pos Pencarian dan Pertolongan Bintuni mendapat laporan dari warga atas nama Daud Fenitiruma <TIMEX3 tid="t3" type="TIME" value="2019-12-04T08:30">pukul 08.30 WIT</TIMEX3> bahwa ada satu korban tertimpa atap rumah karena pohon kelapa yang tumbang, kata Marbun. 
+
+Sebelum kejadian, angin kencang bertiup kencang. 
+
+Korban berhasil ditemukan. 
+
+Dengan hati-hati tim SAR membuka akses untuk mencapai korban yang berada di dapur. 
+
+Korban Mariana sadar namun lemas dan mengalami luka lecet serta memar di kaki karena tertimpa atap dapur. 
+
+Korban berhasil dikeluarkan dari reruntuhan. 
+
+Sempat dilarikan ke rumah sakit dan mendapat perawatan medis, namun Tuhan berkehendak lain, nyawa remaja ini tak terselamatkan, dia menghembuskan nafas terakhir. 
+
+Kejadian pohon kepala yang tumbang, menimpa rumah serta menimbulkan korban jiwa ini mengundang perhatian warga Bintuni. 
+
+(lm) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1054</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-17" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-17</TIMEX3></DCT>
+
+<TITLE>Satu Rumah di Konut Roboh Diterjang Puting Beliung</TITLE>
+
+<TEXT>
+Angin puting beliung melanda wilayah Desa Ulu Sawa, Kecamatan Sawa, Kabupaten Konawe Utara (Konut), Sulawesi Tenggara (Sultra), <TIMEX3 tid="t1" type="DATE" value="2019-07-17">Rabu (17/7/2019)</TIMEX3>. 
+
+Satu rumah warga roboh dan nyaris menewaskan pemiliknya. 
+
+Pilu, warga Desa Ulu Sawa yang menjadi korban puting beliung menjelaskan, sebelum bencana itu datang ia bersama rekannya tengah membenahi lantai rumah miliknya. 
+
+Di dalam rumah itu juga ada istri, anak, dan cucunya yang masih balita. 
+
+<TIMEX3 tid="t2" type="TIME" value="2019-07-16T14:45">Sekitar pukul 14.45</TIMEX3> Wita angin puting beliung tiba-tiba melanda wilayah desanya. 
+
+Angin yang semakin kencang menggoyangkan rumah berdinding papan miliknya itu. 
+
+Merasa rumahnya akan runtuh, Pilu langsung bergegas ke luar rumah. 
+
+Saat saya dan teman saya lari ke luar, rumah langsung robuh. 
+
+Sementara istri dan anak serta cucu saya masih di dalam rumah, terang Pilu. 
+
+Beruntung keluarganya yang masih berada di dalam rumah dapat berlindung dan tak terkena reruntuhan rumah. 
+
+(.089 Warga Mengungsi)Warga setempat pun langsung mengevakuasi para korban yang terjebak di antara puing-puing bangunan rumah. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> Pilu dan keluarganya mengungsi di rumah kerabat. 
+
+Meski tak menimbulkan korban jiwa, kerugian Pilu ditaksir mencapai puluhan juta rupiah. 
+
+Bupati Konut Ruksamin yang mendapat laporan soal kejadian tersebut langsung menginstruksikan badan penanggulangan bencana daerah (BPBD) setempat untuk segera bertindak melakukan evakuasi. 
+
+(b) 
+</TEXT>
+
+</TimeML>

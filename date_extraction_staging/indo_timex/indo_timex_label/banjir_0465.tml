@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0465</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-03-05" temporalFunction="false" functionInDocument="CREATION_TIME">2015-03-05</TIMEX3></DCT>
+
+<TITLE>Tanggul Sungai Aji Jebol, Empat Desa Di Kendal Terendam</TITLE>
+
+<TEXT>
+Hujan <TIMEX3 tid="t1" type="DURATION" value="PXX">beberapa saat</TIMEX3>, membuat tanggul Sungai Aji di Kendal jebol. 
+
+" Banjirnya dalam, sepinggang, " ungkap warga Gladagsari, Plantaran, Kaliwungu, Lestari pada Tribun Jateng, <TIMEX3 tid="t2" type="TIME" value="2015-03-04TNI">Rabu (4/3) malam</TIMEX3>. 
+
+Pada <TIMEX3 tid="t3" type="TIME" value="2015-03-04TNI">Rabu (4/3) malam</TIMEX3>, sejumlah daerah terjadi hujan lebat. 
+
+Satu diantaranya di Kaliwungu, Kendal. 
+
+Hujan terjadi <TIMEX3 tid="t4" type="TIME" value="2015-03-04T19:15">sekitar pukul 19.15</TIMEX3> hingga <TIMEX3 tid="t5" type="DATE" value="2015-03-05">Kamis (5/3)</TIMEX3> dini hari. 
+
+Namun, hujan lebat terjadi <TIMEX3 tid="t6" type="DURATION" value="PTXH">beberapa jam</TIMEX3> atau <TIMEX3 tid="t7" type="DURATION" value="PT2H">sekitar dua jam</TIMEX3> sejak hujan pada <TIMEX3 tid="t8" type="TIME" value="2015-03-04TNI">Rabu (4/3) malam</TIMEX3> terjadi. 
+
+Akibatnya, tanggul Sungai Aji pada bagian sekitar Pasar Gladag jebol karena tak mampu menampung debit air. 
+
+Dan, air pun meluap ke rumah warga. 
+
+Selain itu, pada sisi Sungai Aji yang lain, air meluap karena sungai ini tak mampu menampung debit air yang besar. 
+
+Air pun meluap ke sejumlah perkampungan. 
+
+Berdasarkan informasi yang diterima Tribun Jateng, ada empat desa yang terendam banjir. 
+
+Diantaranya, Desa Krajan Kulon, Kuthoharjo, Plantaran dan Sarirejo. 
+
+Akibatnya, ratusan rumah pun terendam banjir. 
+
+" Ada kalau ratusan rumah yang kebanjiran, " ungkap Anang warga Plantaran, Kaliwungu, Kendal. 
+
+(*) 
+</TEXT>
+
+</TimeML>

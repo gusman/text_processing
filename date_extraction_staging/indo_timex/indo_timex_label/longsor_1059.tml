@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1059</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-01-02" temporalFunction="false" functionInDocument="CREATION_TIME">2017-01-02</TIMEX3></DCT>
+
+<TITLE>Jalur Menuju Balaesang Tanjung Longsor</TITLE>
+
+<TEXT>
+Tebing setinggi 10 meter yang terletak di jalur menuju Kecamatan Balaesang Tanjung, Kabupaten Donggala tiba-tiba longsor saat warga sedang melintas. 
+
+Sontak kejadian tersebut membuat warga yang melintas menjadi panik dan berlarian menjauh dari Tempat Kejadian Perkara (TKP). 
+
+Pantauan Sulteng Raya, <TIMEX3 tid="t1" type="DATE" value="2017-03-31">Jumat (31/3/2017) kemarin</TIMEX3>, sejumlah kendaraan roda dua dan roda empat terpaksa berhenti untuk menyaksikan material bebatuan jatuh dari perbukitan. 
+
+Keadaan jalan menuju Balaesang Tanjung butuh bantuan dari pemerintah, kata salah satu pengguna jalan, Firmansyah. 
+
+Seperti diketahui, <TIMEX3 tid="t2" type="DURATION" value="PXM">beberapa bulan</TIMEX3> terakhir, jalur perbukitan yang menghubungkan antara Kecamatan Balaesang dan Balaesang Tanjung tersebut telah sering mengalami longsor. 
+
+Menanggapi hal itu, Wakil Bupati Donggala Vera Elena Laruni mengatakan sudah memerintahkan Dinas Pekerjaan Umum (PU) Donggala untuk segera mengatasi masalah itu. 
+
+Jalan ini sedang dalam perbaikan oleh perusahaan pemenang tender. 
+
+Saya akan segera telepon Dinas PU, tegas Vera. 
+
+TUR // SULTENG RAYA Sejumlah titik menuju Kecamatan Balaesang Tanjung, Kabupaten Donggala mengalami longsor. 
+
+Longsor yang terjadi dibeberapa titik tersebut diakibatkan oleh adanya pergeseran tanah. 
+
+Pantauan Sulteng Raya, Ahad <TIMEX3 tid="t3" type="DATE" value="2017-01-01">(1/1/2017) kemarin</TIMEX3>, longsor berupa material bebatuan tersebut menutup badan jalan dan mengakibatkan terhambatnya arus lalu-lintas. 
+
+Kondisi terparah terjadi di jalur yang menghubungkan Desa Malei dan Desa Lambonga. 
+
+Selain mengalami longsor, jalan di pesisir pantai mengalami amblas. 
+
+Sejumlah kendaraan yang melintas harus waspada karena lumpur menggenangi jalan. 
+
+Kondisi jalan yang bergelombang, ditambah jalan licin dan dipenuhi lumpur mengakibatkan kendaraan susah melintas. 
+
+Salah satu pengedara jalan, Revol mengatakan bahwa kondisi jalan yang sempit sangat berbahaya untuk dilintasi. 
+
+Kalau <TIMEX3 tid="t4" type="DATE" value="2016-WI">musim penghujan</TIMEX3> sangat berbahaya sekali, ujar Revol. 
+
+Salah satu penyebab longsor karena adanya peningkatan jalan sehingga beberapa titik dikeruk menggunakan alat berat dan mengakibatkan tanah labil saat hujan. 
+
+Inikan masih dalam perbaikan juga, tapi mudah-mudahan kalau sudah selesai tidak begini lagi, ucapnya. 
+
+Penguna jalan lainnya, Ruki yang kendaraannya sempat terjebak di lumpur mengatakan bahwa perbaikan jalan harus segera dilakukan oleh Pemerintah Donggala. 
+
+Ia mengaharapkan pemerintah harus serius melakukan perbaikan jalan di Wilayah Donggala. 
+
+Kasihan masyarakat, inikan jalur satu-satunya ke arah Balaesang Tanjung, tutur Ruki. 
+
+Sementara itu, warga Balaesang Tanjung, Nardi mengatakan jalan merupakan urat nandi warga sehingga harus menjadi prioritas utama dalam pembangunan. 
+
+TUR 
+</TEXT>
+
+</TimeML>

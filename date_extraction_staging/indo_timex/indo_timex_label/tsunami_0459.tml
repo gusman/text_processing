@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0459</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-03</TIMEX3></DCT>
+
+<TITLE>Kisah Korban Gempa Palu Asal Jatim yang Selamat, Pilih Ngungsi ke Hutan &amp; Mau Terbang Diguncang Lagi</TITLE>
+
+<TEXT>
+Dari 175 korban gempa dan tsunami di Palu dan Donggala yang tiba di Bandara Juanda, <TIMEX3 tid="t1" type="TIME" value="2018-10-03TNI">Rabu (3/10/2018) malam</TIMEX3>, 20 diantaranya masih menginap di Mess Bhaskara di Jalan Raya Juanda. 
+
+Rencananya, <TIMEX3 tid="t2" type="TIME" value="2018-10-04TMO">besok pagi</TIMEX3> mereka baru diantar ke Terminal Bungurasih untuk kembali pulang ke kampung halaman. 
+
+Mereka tidak bisa langsung pulang, karena tidak punya uang. 
+
+" Sudah bisa sampai di Jawa kami sangat bersyukur. 
+
+<TIMEX3 tid="t3" type="DATE" value="2018-10-04">Besok</TIMEX3> sudah bisa bertemu keluarga, " kata Tasmani, ibu korban gempa asal Pucuk, Lamongan saat di Mes Bhaskara. 
+
+Di palu, ibu ini ikut suaminya. 
+
+Bersama anaknya, mereka tinggal di sebuah rumah kos. 
+
+" Pas gempa terjadi, saya di rumah sama anak saya ini. 
+
+Suami pas jualan siomay, " kisahnya sambil merangkul sang anak. 
+
+. 
+
+Sampai akhirnya bisa pulang ke Jawa dengan menumpang Pesawat Hercules. 
+
+Demikian halnya di ceritakan seorang ibu asal Tuban. 
+
+Dia juga mengalami nasib sama, dan mengaku sangat bersyukur bisa selamat dari gempa dahsyat itu. 
+
+Selain dari Tuban dan Lamongan, ada juga beberapa keluarga asal Boyolali yang <TIMEX3 tid="t4" type="TIME" value="2018-10-03TNI">malam ini</TIMEX3> menginap di Mes Bhaskara.Mardi, salah satunya. 
+
+Bersama istri dan anaknya, pria yang <TIMEX3 tid="t5" type="SET" value="P1D">sehari-hari</TIMEX3> berjualan pakaian di Palu itu terlihat lahap menyantap nasi bungkus yang diberikan pihak TNI kepada mereka. 
+
+// " Di sana masih sering gempa. 
+
+Tadi <TIMEX3 tid="t6" type="TIME" value="2018-10-02TAF">siang</TIMEX3> pas Hercules yang kami tumpangi mau berangkat juga sempat ada gempa lagi, " ucapnya. 
+
+. 
+
+" Tapi sejak gempa besar itu, kami mengungsi di hutan. 
+
+<TIMEX3 tid="t7" type="TIME" value="2018-10-02TAF">Siang hari</TIMEX3> turun untuk masak dan cari makanan, kemudian balik ke hutan lagi agar aman, " urai pria yang sudah sejak <TIMEX3 tid="t8" type="DATE" value="2001">2001</TIMEX3> tinggal di Palu tersebut. 
+
+Sampai <TIMEX3 tid="t9" type="TIME" value="2018-10-03TAF">Rabu (3/10/2018) siang</TIMEX3>, dia mencoba ke Bandara untuk mencari informasi. 
+
+Begitu tahu ada Hercules hendak terbang ke Jawa Timur, dirinya langsung daftar. 
+
+Bersama keluarganya, Mardi akhirnya sampai di Juanda. 
+
+Tapi karena tak punya uang sepeserpun, mereka pun hanya berharap bantuan untuk bisa melanjutkan perjalanan sampai rumah. 
+
+. 
+
+Dan saat gempa besar terjadi, semuanya pun habis. 
+
+" Tinggal beberapa pakaian saja, " sebut istri Mardi. 
+
+Tak jauh beda yang disampaikan Joko Waluyo, juga asal Boyolali. 
+
+Begitu sampai di Juanda, dia langsung menghubungi keluarga di kampung. 
+
+Mengabarkan kondisinya selamat dan diperkirakan bakal pulang ke Boyolali, <TIMEX3 tid="t10" type="DATE" value="2018-10-04">Kamis (4/10/2018) besok</TIMEX3>. 
+
+" Harta bisa dicari, yang penting keluarga selamat kami sudah sangat bersyukur. 
+
+Apalagi kami <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sudah bisa pulang sampai ke Jawa, " sebut pria yang sejak <TIMEX3 tid="t12" type="DATE" value="2012">2012</TIMEX3> jualan roti di Palu tersebut. 
+
+(M Taufik) 
+</TEXT>
+
+</TimeML>

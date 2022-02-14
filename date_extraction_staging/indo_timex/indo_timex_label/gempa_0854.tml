@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0854</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-04" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-04</TIMEX3></DCT>
+
+<TITLE>Polres Pelabuhan Belawan Salat Ghaib untuk Korban Gempa Sulteng</TITLE>
+
+<TEXT>
+Polres Pelabuhan Belawan, Sumatera Utara melaksanakan salat ghaib untuk korban gempa dan tsunami di Sulawesi Tengah. 
+
+Salat gaib ini digelar di halaman Mapolres Pelabuhan Belawan dengan melibatkan masyarakat, <TIMEX3 tid="t1" type="TIME" value="2018-10-03TEV">Rabu petang</TIMEX3> (3/10/2018). 
+
+Salat ghaib itu dilaksanakan seusai salat Ashar. 
+
+Sebelum salat ghaib terlebih <TIMEX3 tid="t2" type="DATE" value="PAST_REF">dahulu</TIMEX3> pem. 
+
+Kapolres Pelabuhan Belawan AKBP Ikhwan Lubis mengatakan, salat ghaib ini untuk mendoakan kebaikan dan keselamatan bagi korban musibah tsunami di Palu dan Donggala serta Sigi. 
+
+Ustaz Irfan Yusuf dalam tausiyahnya mengatakan, kegiatan ini diharapkan bisa mempersatukan kembali umat Islam yang selama ini terpecah belah. 
+
+Kita harus menjadikan momentum ini sebagai persatuan dan perekat umat Islam untuk saling mendoakan, katanya. 
+
+Seusai salat ghaib bersama dilanjutkan dengan salat magrib berjamaah di Masjid Polres Pelabuhan Belawan. 
+
+(rhs) 
+</TEXT>
+
+</TimeML>

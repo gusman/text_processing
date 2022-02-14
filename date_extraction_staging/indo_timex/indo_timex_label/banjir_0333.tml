@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0333</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-26" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-26</TIMEX3></DCT>
+
+<TITLE>Update Banjir Jakarta Hari ini, Sejumlah Gerbang Tol Masih Ditutup hingga Titik Genangan yang Belum Kunjung Surut</TITLE>
+
+<TEXT>
+Banjir yang kesekian kalinya dirasakan warga Jakarta dan sekitarnya sejak <TIMEX3 tid="t1" type="DATE" value="2020">awal tahun 2020</TIMEX3> turut berdampak pada mobilitas warga. 
+
+Hujan lebat yang terjadi sejak <TIMEX3 tid="t2" type="DATE" value="2020-02-24">Senin</TIMEX3>, <TIMEX3 tid="t3" type="TIME" value="2020-01-23TNI">23 Januari 2020 malam</TIMEX3> menyebabkan banjir di sejumlah kawasan ibu kota dan daerah penyangga. 
+
+Di wilayah Bekasi sendiri, Banjir tersebut terhitung lebih parah dibandingkan dengan yang sebelum-sebelumnya. 
+
+Sejumlah kawasan di Kota dan Kabupaten lumpuh. 
+
+Berdasarkan data dari Badan Penanggulangan Bencana Daerah (BPBD) DKI Jakarta, banjir di Jakarta <TIMEX3 tid="t4" type="DATE" value="2020-02-25">kemarin</TIMEX3> menyebabkan 3.565 jiwa harus mengungsi. 
+
+. 
+
+Ketinggian banjir tertinggi berada di Kelurahan Cawang, Jakarta Timur yaitu 200 sentimeter.973 kepala keluarga tersebut dievakuasi di 40 titik lokasi yang telah ditentukan oleh BPBD DKI Jakarta. 
+
+Selain mengungsi, aktivitas di 159 sekolah di DKI Jakarta juga harus diliburkan. 
+
+Begitupun aktivitas ekonomi seperti perkantoran hingga berdagang harus merugi akibat bencana banjir yang melanda daerahnya. 
+
+Pada akses warga yang menggunakan tol pun sempat terhambat akibat adanya genangan air yang bervariasi sehingga menyebabkan kemacetan total. 
+
+
+</TEXT>
+
+</TimeML>

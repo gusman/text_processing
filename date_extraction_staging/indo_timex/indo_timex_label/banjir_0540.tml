@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0540</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-02-21" temporalFunction="false" functionInDocument="CREATION_TIME">2016-02-21</TIMEX3></DCT>
+
+<TITLE>Akses Indonesia-Malaysia Lumpuh Total</TITLE>
+
+<TEXT>
+Kota Bengkayang diterjang banjir bandang, <TIMEX3 tid="t1" type="DATE" value="2016-02-19">Jumat (19/2)</TIMEX3>. 
+
+Jembatan Ledo yang menghubungkan jalan Negara menuju perbatasan antarnegara Indonesia (Jagoi Babang dan Malaysia (Sirikin) putus, akses transportasi lumpuh total. 
+
+Warga Sansak Desa Belimbing, Lumar, Jon, 42, mengaku pulang dari Kota Bengkayang menuju rumahnya, melihat jembatan ambruk dari kejauhan. 
+
+Saya tidak bisa lewat, dan balik arah menuju perkampungan, melaporkan kejadian itu. 
+
+<TIMEX3 tid="t2" type="DURATION" value="PXX">Beberapa waktu</TIMEX3> kemudiam warga berdatangan melihat kejadian di lokasi, kata Jon. 
+
+Rudi, 39, warga Lumar yang rumahnya sekitar 100 meter dari Jembatan Ledo mengaku seperti mendengar deru ombak. 
+
+Karena penasaran, dia keluar rumah dan melihat jembatan sudah roboh karena longsor. 
+
+Rudi bergegas memberitahu warga, hingga memberikan tanda agar jangan melintasi jembatan. 
+
+Hujan lebat disertai banjir bandang ini bahkan melumpuhkan aktivitas warga Desa Tirta Kencana dan Desa Tiga Berkat Kecamatan Lumar. 
+
+Air juga membanjiri rumah warga di Jalan Swadaya Kelurahan Bumi Emas, Kecamatan Bengkayang pada <TIMEX3 tid="t3" type="TIME" value="2016-02-20T19:00">pukul 19.00</TIMEX3> hingga <TIMEX3 tid="t4" type="TIME" value="UNKNOWN">Pukul 24.00</TIMEX3>. 
+
+Ratusan warga disepanjang bantaran Sungai Sebalo harus mengungsi dan terjebak dalam rumah, karena mendadak banjir. 
+
+Kami mengupayakan melakukan evakuasi terhadap perempuan dan anak anak yang terjebak di dalam rumah di Jalan Swadaya Kota Bengkayang. 
+
+Ini akibat banjir yang datanngnya tiba tiba, ujar Ir. 
+
+Yosef, M. 
+
+Si, Kepala Badan Penanggulangan Bencana Daerah (BPBD) Bengkayang <TIMEX3 tid="t5" type="TIME" value="2016-02-20T22:00">sekitar pukul 22.00</TIMEX3>, <TIMEX3 tid="t6" type="DATE" value="2016-02-20">kemarin</TIMEX3>. 
+
+BPBD juga menurunkan tim untuk memantau putusnya jembatan Sungai Ledo di Lumar, Desa Tiga Berkat <TIMEX3 tid="t7" type="TIME" value="2016-02-20T20:00">sekitar pukul 20.00</TIMEX3>. 
+
+Berdasarkan informasi dari warga, jembatan putus akibat banjir pada <TIMEX3 tid="t8" type="TIME" value="2016-02-20T19:00">pukul 19.00</TIMEX3>, jelas Yosef. 
+
+Yosef mengaku segera melakukan koordinasi dengan Dinas Pekerjaan Umum (PU), Satpol PP, Dinas Sosial, Dinas Kesehatan, kepolisian dan Bupati Bengkayang. 
+
+Semua pihak sudah turun langsung ke lapangan mengamankan situasi. 
+
+Termasuk masyarakat sekitar juga ikut terlibat membantu saudaranya yang mengalami musibah. 
+
+Sampai <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada laporan adanya korban jiwa. 
+
+Namun kerugian akibat banjir dan longsor dipastikan mencapai miliaran rupiah, diantaranya berupa barang barang elektronik, kendaraan bermotor dan mobil terendam banjir, termasuk putusnya jembatan di jalan negara, jelas Yosep. 
+
+Kepala Bidang (Kabid) Bina Marga Dinas PU Bengkayang, Heri Fitriadi, ST, MT mengatakan, banyak rumah warga yang rusak diterjang banjir bandang dan longsor. 
+
+Mengatasi bencana longsor dan putusnya Jembatan Sungai Ledo di Lumar, Dinas PU menggunakan tiga unit alat berat excavator untuk mengeruk tanah. 
+
+Alat berat itu milik Rudi warga Lumar, Edison atau Akong pengusaha Bengkayang dan milik Dinas PU. 
+
+Alat ini kita pakai untuk mengatasi longsor agar akses lalu-lintas menuju perbatasan segera pulih, ucapnya. 
+
+Untuk sementara lalu-lintas ke perbatasan dan menuju Kota Bengkayang hanya bisa dilalui dengan sepeda motor. 
+
+Itu pun melintasi jembatan gantung di Lumar. 
+
+Jembatan TuaTokoh Masyarakat Lumar, Markus Amin, 70, mantan pengawas pekerjaan Jembatan Ledo mengaku jembatan tersebut sudah berusia tua. 
+
+Jembatan yang ambruk ini dibangun <TIMEX3 tid="t10" type="DATE" value="1974">tahun 1974</TIMEX3>. 
+
+Usianya sudah <TIMEX3 tid="t11" type="DURATION" value="P42Y">sekitar 42 tahun</TIMEX3>, kenangnya.Bersamaan dengan Jembatan Ledo, dibangun juga Jembatan Sungai Tanggi Sanggau, Jembatan Sungai Kumba Seluas dan beberapa gorong-gorong sepanjang jalan Bengkayang menuju Jagoi Babang (perbatasan Indonesia-Malaysia). 
+
+Jembatan dan gorong-gorong itu dibangun Gubernur Kalbar yang dijabat Soedjiman dan Pangdam XII Tanjungpura Ida Bagus Sudjana.Saya adalah saksi dan pekerja dibangunnya jembatan. 
+
+Pernah pada saat dibangun pada <TIMEX3 tid="t12" type="DATE" value="1974">tahun 1974 lalu</TIMEX3>, karena diduga ada kesalahan PU ketika itu, jembatan yang kami bangun pernah roboh dan 40 pekerja jatuh ke sungai, bersykur tidak ada korban, ucap Amin, tokoh masyarakat Lumar.Sudah sepantasnya pemerintah mengganti Jembatan Ledo, karena sudah tua. 
+
+Perlu dipikirkan agar dibangun jembatan yang kuat dan kokoh, paling tidak bisa menyamai kekuatan jembatan yang ada <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, harapnya.Kades Tiga Berkat, Alam mengaku kaget, mendapatkan informasi Jembatan Ledo roboh dan longsor. 
+
+Setelah melihat langsung kondisi jembatan, saya bersama warga lain segera mengamankan lokasi dan memberi tanda, agar pengendara roda dua dan empat tidak melewati jembatan, ujar Alam.Polres Bengkayang melalui Polsek Lumar sudah memasang garis polisi/police line agar warga tidak melewati jembatan. 
+
+Bupati Bengkayang, Suryadman Gidot, M.Pd juga dikabarkan meninjau ambruknya Jembatan Ledo serta lokasi rumah warga yang tergenang air. 
+
+Laporan: KurnadiEditor: Hamka Saptono 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0319</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-08" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-08</TIMEX3></DCT>
+
+<TITLE>VIDEO-KEBAKARAN LAHAN GAMBUT, Kawah Putih Ditutup, Asap Terlihat Masih Mengepul</TITLE>
+
+<TEXT>
+Pascakebakaran lahan di kawasan hutan Kawah Putih, Perhutani menutup sementara objek wisata Kawah Putih hingga batas waktu yangbelum ditentukan, <TIMEX3 tid="t1" type="DATE" value="2019-10-08">Selasa (8/10/2019)</TIMEX3>. 
+
+General Manager KBM (Kesatuan Bisnis Mandiri) Wisata Ecotourism Perhutani Unit III Jabar dan Banten, Wismo Tri Kencono mengatakan penutupan dilakukan demimemudahkan penanganan pemadaman kebakaran. 
+
+" Sementara kami tutup untuk melancarkan penanganan darurat pemadaman kebakaran ini. 
+
+Untuk sementara belum kami tentukan batas waktunya sampai kapan, " ujarnyasaat ditemui di lokasi tadi <TIMEX3 tid="t2" type="TIME" value="2019-10-08TMO">pagi</TIMEX3>. 
+
+Wismo menambahkan sejak <TIMEX3 tid="t3" type="DATE" value="2019-SU">awal musim kemarau</TIMEX3> pihak pengelola selalu mengingatkan para pengunjung untuk tidak menyalakan api di lokasi wisata melalui pengerassuara. 
+
+Bahkan pengelola juga sudah memasang rambu-rambu peringatan. 
+
+" Sementara kami mohon maaf kepada para wisatawan yang dari luar kota maupun lokalan (lokal) disini. 
+
+Dalam rangka melancarkan kegiatan pengamanan dan penanganan // kebakaran ini, kami imbau untuk tidak berkunjung <TIMEX3 tid="t4" type="DATE" value="PAST_REF">dulu</TIMEX3> ke Kawah Putih, " ucapnya. 
+
+Wismo menambahkan ada beberapa objek wisata yang terbakar, di antaranya View Deck Cantigi seluas kurang lebih 25 meter persegi. 
+
+Selain itu lahan di kawasan Sunan Ambu dan kawasan Sunan Abah. 
+
+" Di <TIMEX3 tid="t5" type="DATE" value="2019-W40-WE">weekend</TIMEX3> biasanya jumlah pengunjung bisa mencapai 5.000 orang. 
+
+Namun sementara mulai dari hari biasa maupun <TIMEX3 tid="t6" type="DATE" value="2019-W40-WE">weekend</TIMEX3> kami tutup sampai batas waktu yang belumditentukan, " ucapnya. 
+
+Kebakaran masih melanda objek wisata Kawah Putih, <TIMEX3 tid="t7" type="DATE" value="2019-10-08">Selasa (8/10/2019)</TIMEX3> (Tribun Jabar/Mumu Mujahidin)Terbakar Sejak <TIMEX3 tid="t8" type="DATE" value="2019-10-07">Kemarin</TIMEX3> SiangKebakaran lahan gambut terjadi di Kawasan Kawah Putih, Kecamatan Rancabali, Kabupaten Bandung, <TIMEX3 tid="t9" type="TIME" value="2019-10-07TAF">Senin (7/10/2019) siang</TIMEX3>. 
+
+Hingga <TIMEX3 tid="t10" type="TIME" value="2019-10-08TNI">malam ini</TIMEX3> api masih menyala dikawasan objek wisata tersebut. 
+
+Kapolsek Ciwidey AKP Ivan Taufiq melalui telepon seluler menuturkan kejadian kebakaran lahan di kawasan Kawah Putih terjadi <TIMEX3 tid="t11" type="TIME" value="2019-10-07T14:00">sekitar pukul 14.00 WIB</TIMEX3>. 
+
+// Hingga <TIMEX3 tid="t12" type="TIME" value="2019-10-07T20:00">pukul 20.00 WIB</TIMEX3> api juga masih membakar lahan gambut di kawasan objek wisata kawasan Kawah Putih. 
+
+" Benar, kejadianya tadi <TIMEX3 tid="t13" type="TIME" value="2019-10-07TAF">siang</TIMEX3> sekitar <TIMEX3 tid="t14" type="TIME" value="2019-10-07T14:00">pukul 14.00 WIB</TIMEX3>, " katanya melalui pesan singkat. 
+
+Ivan menambahkan, tim gabungan TNI Polri, Pemkab Bandung dan unsur lainnya sudah melakukan pemadaman. 
+
+Termasuk hingga <TIMEX3 tid="t15" type="TIME" value="2019-10-07TAF">sore tadi</TIMEX3> juga masih melakukanpemadaman. 
+
+" Sejak <TIMEX3 tid="t16" type="TIME" value="2019-10-07TAF">siang tadi</TIMEX3> kami sudah berupaya melakukan pemadaman. 
+
+Hingga <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kami juga masih melakukan pemadaman, " katanyaMenurutnya, api berawal muncul dari Kawasan Kawah Sunan Ibu yang lokasinya masih ada di dalam kawasan wisata Kawah Putih. 
+
+Kemudian api tersebut merambat hingga kekawasan Sunan Bapak. 
+
+" Titik awal dari Sunan Ibu sekitar 700 meter dari lokasi Kawah Putih. 
+
+Merambat ke bawah, <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> merambat ke Kawasan Sunan Bapak, " jelasnya. 
+
+Hingga <TIMEX3 tid="t19" type="TIME" value="2019-10-08TNI">malam ini</TIMEX3> pihak kepolisian dan tim gabungan TNI, Perhutani termasuk Pemkab Bandung masih bersiaga di lokasi kebakaran. 
+
+(*) 
+</TEXT>
+
+</TimeML>

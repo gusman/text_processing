@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0833</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-08-28" temporalFunction="false" functionInDocument="CREATION_TIME">2017-08-28</TIMEX3></DCT>
+
+<TITLE>Kekeringan hebat landa Sabu Raijua</TITLE>
+
+<TEXT>
+Kekeringan hebat dilaporkan melanda hampir seluruh Kabupaten Sabu Raijua, Nusa Tenggara Timur sejak <TIMEX3 tid="t1" type="DATE" value="2017-05">Mei 2017</TIMEX3> yang mengakibatkan salah satu pulau terdepan Indonesia itu ditetapkan sebagai Darurat Kekeringan. 
+
+Pelaksana Tugas Bupati Sabu Raijua Nicodemus Rihi Heke mengatakan pemerintah daerah telah menetapkan status darurat kekeringan pada daerah itu. 
+
+" Kekeringan di Sabu Raijua memang bukan hal yang baru, tetapi pemerintah harus melaporkan kepada gubernur sehingga jika terjadi keadaan luar biasa, pemerintah provinsi sudah mengetahui kondisi di Sabu dan bisa dilakukan antisipasi bersama, " katanya. 
+
+Dia mengatakan, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> semua desa di wilayah itu mengalami kesulitan air bersih karena semua sumber mata air mulai mengering akibat kemarau panjang. 
+
+Kepala Pelaksana BPBD Sabu Raijua Pither Mara Rohi, secara terpisah mengakui adanya darurat kekeringan di wilayah itu selama <TIMEX3 tid="t3" type="DURATION" value="P3M">sekitar tiga bulan</TIMEX3> terakhir. 
+
+Menurut dia, selama <TIMEX3 tid="t4" type="DURATION" value="PXM">beberapa bulan</TIMEX3> terakhir ini, rakyat daerah itu mengalami kesulitan air bersih karena sumber-sumber mata air mengering, begitu pun dengan embung-embung yang dibangun pemerintah untuk menampung air. 
+
+" Saya sudah mengelilingi hampir seluruh wilayah Sabu. 
+
+Semua desa mengeluh kesulitan air bersih. 
+
+Kekeringan tampak di mana-mana, " katanya. 
+
+Bahkan ada kepala desa yang mengaku bahwa rakyatnya tidak bisa membasuh muka apalagi mandi karena ketiadaan air. 
+
+Dia mengatakan, sejak <TIMEX3 tid="t5" type="DATE" value="2017-06">Juni 2017</TIMEX3>, pemerintah telah mengambil langkah penanganan melalui tanggap darurat dengan melakukan pendropingan air hanya untuk memenuhi kebutuhan air bersih bagi warga dengan menggunakan mobil tanki.Pither Mara Rohi mengatakan tanggap darurat ini diperkirakan akan berlangsung hingga <TIMEX3 tid="t6" type="DATE" value="2016-12">bulan Desember</TIMEX3> atau <TIMEX3 tid="t7" type="DATE" value="2017-WI">musim hujan mendatang</TIMEX3>. 
+</TEXT>
+
+</TimeML>

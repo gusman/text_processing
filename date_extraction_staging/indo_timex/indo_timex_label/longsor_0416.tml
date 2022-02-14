@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0416</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2012-12-18" temporalFunction="false" functionInDocument="CREATION_TIME">2012-12-18</TIMEX3></DCT>
+
+<TITLE>Cianjur Diterjang Banjir Bandang dan Longsor</TITLE>
+
+<TEXT>
+Hujan deras yang mengguyur wilayah Cianjur, Jawa Barat, menyebabkan longsor dan banjir bandang di dua desa, <TIMEX3 tid="t1" type="TIME" value="2011-12-18TAF">Selasa (18/12) siang</TIMEX3>. 
+
+Akibatnya seorang warga atas nama Eti Ade (32) meninggal dunia tertimpa longsoran tanah. 
+
+Sementara tiga warga lainnya mengalami luka ringan yakni Eti Apid (40), Ayi Siti Aminah (35), dan Adah (40). 
+
+Sutopo Purwo Nugroho, Kepala Pusat Data Informasi dan Humas Badan Nasional dan Penanggulangan Bencana (BNPB), menjelaskan longsor akibat hujan deras <TIMEX3 tid="t2" type="TIME" value="2012-12-11TAF">Selasa siang</TIMEX3> terjadi di Kampung Gunung Putri, Desa Sukatani, Kecamatan Pace, Cianjur, Jawa Barat. 
+
+Di sinilah longsoran tanah menimpa 4 warga, dimana seorang di antaranya meninggal dunia. 
+
+Sementara banjir bandang menerjang Kampung Ciguntur, Desa Cipendawa, Kecamatan Pacet, Cianjur. 
+
+Banjir bandang ini menyebabkan 24 rumah rusak namun tidak ada korban jiwa. 
+
+Menurut Sutopo sebanyak 24 KK atau 120 jiwa kehilangan tempat tinggalnya dan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3> berada di pengungsian. 
+
+" BPBD Cianjur telah melakukan penanganan darurat, " kata Sutopo. 
+
+Menurutnya pendataan akibat bencana ini masih dilakukan. 
+
+" Bantuan logistik bagi pengungsi sudah didistribusikan, " papar Sutopo. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0583</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-17" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-17</TIMEX3></DCT>
+
+<TITLE>Server Terendam Banjir, Pelayanan Kependudukan di Kotim Tutup</TITLE>
+
+<TEXT>
+Hujan deras yang mengguyur Kota Sampit, Kabupaten Kotawaringin Timur (Kotim), <TIMEX3 tid="t1" type="DATE" value="2020-02-16">Minggu (16/2)</TIMEX3>, membuat sejumlah ruas jalan dan fasilitas umum terendam banjir. 
+
+Seperti yang terjadi di Dinas Kependudukan dan Catatan Sipil (Disdukcapil) Kotim. 
+
+Pelayanan administrasi kependudukan terpaksa ditutup menyeluruh karena ruangan server terendam banjir. 
+
+Kepala Disdukcapil Kotim Agus Tripurna Tangkasiang mengatakan, air banjir merendam 2 server kependudukan, yakni server kecamatan dan server Kantor Disdukcapil. 
+
+Struktur bangunan ruangan server yang rendah membuat ruangan mudah tergenang air banjir. 
+
+Selain server, kabel-kabel dan perangkat komputer juga ada yang terendam. 
+
+Kemudian beberapa buku-buku dokumen juga ada yang basah terendam air banjir, ungkapnya, <TIMEX3 tid="t2" type="DATE" value="2020-02-17">Senin (17/2)</TIMEX3>. 
+
+Karena kondisi tersebut, pihaknya memutuskan untuk menutup layanan administrasi kependudukan di kantor tersebut selama <TIMEX3 tid="t3" type="DURATION" value="P1D">satu hari</TIMEX3>. 
+
+Pihaknya hanya melayani pengecekan berkas yang akan diajukan oleh warga yang datang. 
+
+Sementara itu, banjir juga menggenangi ruangan operasi di RSUD dr Murjani Sampit. 
+
+Meski air banjir yang menggenang hanya <TIMEX3 tid="t4" type="DATE" value="2019-10-05">5-10</TIMEX3> cm, namun hal tersebut mengganggu aktivitas di ruangan itu. 
+
+Wakil Direktur RSUD dr Murjani Sampit dr Yudha Herlambang mengatakan, pelayanan operatif di IBS sementara dipending karena sedang proses sterilisasi ruangan. 
+
+Insya Allah dijadwalkan bisa buka hanya jika ada operasi emergency, kita <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sedang proses sterilisasi ruangan, tandasnya. 
+
+c-may 
+</TEXT>
+
+</TimeML>

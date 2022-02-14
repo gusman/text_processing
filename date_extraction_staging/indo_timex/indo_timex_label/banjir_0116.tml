@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0116</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-02-15" temporalFunction="false" functionInDocument="CREATION_TIME">2015-02-15</TIMEX3></DCT>
+
+<TITLE>LSR LPMT Bantu Pengumpulan Sumbangan Korban Banjir</TITLE>
+
+<TEXT>
+Banyaknya korban banjir di Jalan Mendawai, Kelurahan Palangka Kecamatan Jekanraya, Palangkaraya, Kalimantan Tengah, mendapat perhatian lembaga swadaya rakyat (LSR) laskar pembela masyarakat tertindas (LPMT) Kalimantan Tengah. 
+
+Lembaga ini, sejak <TIMEX3 tid="t1" type="DATE" value="2015-02-14">kemarin</TIMEX3> sudah mengumpulkan dana dari masyarakat untuk diberikan kepada ribuan kelapa keluarga yang mengalami kebanjiran tempat tinggalnya terutama untuk di Jalan Mendawai. 
+
+Agatisansyah aliar gatis selaku Ketua Umum Lembaga Swadaya Rakyat (LSR) Laskar Pembela Masyarakat Tertindas (LPMT) sangat menyayangkan lambatnya pemberian bantuan dari Dinas Sosial Provinsi Kalteng maupun Pemko Palangkaraya untuk korban banjir. 
+
+Apalagi sebut dia, ketika bantuan diberikan, tidak diberitahukan kepada Ketua RT maupun RW, sehingga warga sempat bingung menunggu bantuan tersebut. 
+
+" Kami sempat protes masalah itu, karena warga mengadu pada kami, " katanya. 
+
+Untuk membantu warga sebut Gatis yang memang sering menggalang bantun untuk korban bencana ini, mengatakan, pihaknya juga turut membantu dalam mencarikan bantuan tersebut kepada masyarakat umum maupun instansi. 
+
+" Ini sudah menjadi tugas kami, " katanya, <TIMEX3 tid="t2" type="DATE" value="2015-02-15">Minggu (15/2/2015)</TIMEX3>. 
+
+
+</TEXT>
+
+</TimeML>

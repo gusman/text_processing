@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0426</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-09" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-09</TIMEX3></DCT>
+
+<TITLE>Mukromah Harus Beli Air Rp 5 Ribu per Jerigen Untuk Masak</TITLE>
+
+<TEXT>
+Warga di Desa Kertasari, Kecamatan Suradadi, Kabupaten Tegal terpaksa memanfaatkan air sungai untuk mandi, cuci dan kakus (MCK). 
+
+Mereka melakukan itu karena air sumur di rumahnya sudah mengering sejak <TIMEX3 tid="t1" type="DURATION" value="P3M">tiga bulan</TIMEX3> silam. 
+
+" Untuk mandi dan mencuci baju atau piring saya pakai air kali (sungai). 
+
+Airnya ditampung di bak mandi. 
+
+Walaupun kotor mau gimana lagi, " tutur Mukromah (53), warga RT 1 RW 3 Desa Kertasari, Kecamatan Suradadi kepada Tribunjateng. 
+
+com, <TIMEX3 tid="t2" type="DATE" value="2019-10-08">Selasa (8/10/2019)</TIMEX3>. 
+
+Sedangkan untuk minum dan keperluan memasak, Mukromah harus membeli air bersih dengan harga Rp 5.000 per jeriken. 
+
+" Kapasitas satu jeriken 30 liter. 
+
+<TIMEX3 tid="t3" type="DURATION" value="P1W">Seminggu</TIMEX3> paling tidak harus beli empat jeriken untuk masak dan minum, " sambung dia. 
+
+. " Wilayah yang kekeringan semakin meluas. 
+
+// Sebelumnya yang menjadi langganan kekeringan hanya Kecamatan Suradadi dan Warureja, " ujarnya. 
+
+Handoko menambahkan, berdasarkan perkiraan Badan Meteorologi Klimatologi Geofisika (BMKG) Tegal, <TIMEX3 tid="t4" type="DATE" value="2019-SU">musim kemarau</TIMEX3> akan berlangsung hingga <TIMEX3 tid="t5" type="DATE" value="2018-11">awal November</TIMEX3>. 
+
+Untuk itu, penyaluran bantuan air bersih terus dilakukan di wilayah-wilayah yang dilanda kekeringan. 
+
+" Kami siaga darurat musim kekeringan sampai <TIMEX3 tid="t6" type="DATE" value="2018-11">akhir November</TIMEX3>. 
+
+Kami juga terbantu sekali jika ada instansi atau lembaga yang ikut menyalurkan bantuan air bersih, " sambungnya. 
+
+Sementara, Kepala Kantor Perwakilan Bank Indonesia (BI) Tegal Muhammad Taufik Amrozi mengaku mendapat kabar ihwal kekeringan di wilayah pantura. 
+
+Maka, pihaknya langsung mengerahkan karyawannya untuk menyalurkan bantuan air bersih. 
+
+Kali ini, penyaluran air bersih dilakukan di Desa Kertasari, Kecamatan Suradadi. 
+
+" Kekeringan di Kertasari cukup parah. 
+
+Sehingga kami berikan bantuan air bersih.Semoga bantuan ini bermanfaat untuk keperluan <TIMEX3 tid="t7" type="SET" value="P1D">sehari-hari</TIMEX3>, " kata Taufik. 
+
+// Menurut Taufik, penyaluran bantuan air bersih juga dilakukan di empat desa lainnya yakni Desa Harjosari, dan Desa Jatimulya, Kecamatan Suradadi. 
+
+Kemudian Desa Banjaragung dan Rangimulya Kecamatan Warureja. 
+
+Masing-masing desa mendapat bantuan air bersih sebanyak dua mobil tangki dengan kapasitas per unit 5.000 liter. 
+
+Penyaluran dilakukan setiap dua hari sekali. 
+
+Setiap kirim sebanyak 50.000 liter sehingga total air bersih yang disalurkan mencapai 1,5 juta liter. 
+
+" Bantuan air bersih disalurkan selama <TIMEX3 tid="t8" type="DURATION" value="P2M">dua bulan</TIMEX3>. 
+
+Kegiatan ini merupakan Program Sosial Bank Indonesia. 
+
+Semoga diikuti instansi-instansi lain, termasuk perbankan juga kita ajak, " ungkap Taufik. 
+
+(Tribunjateng/gum). 
+
+
+</TEXT>
+
+</TimeML>

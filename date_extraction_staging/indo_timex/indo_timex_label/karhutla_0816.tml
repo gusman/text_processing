@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0816</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-20" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-20</TIMEX3></DCT>
+
+<TITLE>Wakil Bupati Kotawaringin Barat Gelar Rapat Khusus Tangani Karhutla</TITLE>
+
+<TEXT>
+Wakil Bupati Kotawaringin Barat (Kobar), Kalteng, Ahmadi Riansyah memanggil seluruh perwakilan instansi terkait untuk rapat khusus penanganan kebakaran hutan dan lahan (karhutla) di Jalan Pangkalan Bun menuju Kecamatan Kotawaringin Lama (Kolam) di Aula Kantor Bupati Kobar, <TIMEX3 tid="t1" type="TIME" value="2018-02-20TAF">Selasa (20/2/2018) siang</TIMEX3>. 
+
+Instansi yang dipanggil diantaranya, BPBD, Manggala Agni SKW 2 Kalteng, SAR, Damkar, dan TNI Polri. 
+
+Jadi hasil rapat <TIMEX3 tid="t2" type="DATE" value="2018-02-20">hari ini</TIMEX3> adalah segera meminta bantuan ke Provinsi Kalteng untuk mendatangkan heli waterboombing, membentuk satgas karhutla, mengimbau warga untuk tidak membakar lahan, semua alat pemadam dikerahkan termasuk mengajak perusahaan untuk ikut serta di dalamnya, ujar orang nomor dua ini usai rapat. 
+
+Terkait anggaran yang digunakan menyesuaikan kebutuhan di lapangan. 
+
+Yang terpenting adalah memberikan sosialisasi kepada warga jangan asal membakar lahan, karena itu bisa merugikan banyak orang, kata wakil bupati. 
+
+Sebelumnya, Kebakaran lahan hebat terjadi di Jalan Pangkalan Bun menuju Kecamatan Kotawaringin Lama (Kolam), Kabupaten Kotawaringin Barat (Kobar), Kalteng sejak <TIMEX3 tid="t3" type="DATE" value="2018-02-18">Minggu (18/2/2018)</TIMEX3> hingga <TIMEX3 tid="t4" type="DATE" value="2018-02-20">hari ini</TIMEX3>. 
+
+<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kebakaran lahan sudah mencapai ratusan hektare. 
+
+<TIMEX3 tid="t6" type="DATE" value="2018-02-19">Kemarin</TIMEX3> masih di kilometar 12 arah Kolam sari Pangkalan Bun, <TIMEX3 tid="t7" type="DATE" value="2018-02-20">hari ini</TIMEX3> sudah mencapai ke kilometer 16 hingga 18. 
+
+Kalau ditotal sudah ratusan hektare, ujar Komandan Kodim 1014/Pangkalan Bun yang juga Satgas Karhutla wilayah Barat Kalteng, Letkol Inf Wisnu Kuriawan. 
+
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> tim gabungan yang terdiri dari BPBD, Damkar, relawan, Manggala Agni BKSDA Kalteng SKW II Pangkalan Bun, Taruna Siaga Bencana (Tagana) Kobar dan TNI-Polri terus berjibaku memadamkan api yang terus membara. 
+
+Jika lokasi kebakaran masih dekat dengan jalan dan selang mobil damkar bisa masuk langsung kita atasi, kalau yang di dalam tim masih mencari cara. 
+
+Karena jika hanya menggunakan alat damkar portabel akan sia sia karena di dalam juga tidak ada air, timpalnya. 
+
+<TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> satgas Karhutla sudah melapor ke Bupati Kobar Nurhidayah untuk segera meminta bantuan helikopter ke BNPB supaya kebakaran ini bisa cepat teratasi. 
+
+(sms) 
+</TEXT>
+
+</TimeML>

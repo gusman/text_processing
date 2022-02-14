@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0229</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-05-03" temporalFunction="false" functionInDocument="CREATION_TIME">2019-05-03</TIMEX3></DCT>
+
+<TITLE>Kadinkes Kunjungi Staf Korban Banjir</TITLE>
+
+<TEXT>
+Kepala Dinas Kesehatan Provinsi Bengkulu, Herwan Antoni beserta jajarannya mengunjungi sembilan staf-nya baik yang PNS maupun honorer yang menjadi korban banjir di beberapa lokasi. 
+
+Herwan mengatakan, kunjungan ini sebagai wujud kepedulian Dinas Kesehatan Provinsi Bengkulu kepada staf-nya yang ikut menjadi korban banjir <TIMEX3 tid="t1" type="DATE" value="2019-04-27">27 April lalu</TIMEX3>. 
+
+Kita seleruhnya hadir mengunjungi, artinya kita ikut prihatin atas musibah yang dirasakan masyarakat termasuk ASN kita. 
+
+Mudah-mudahan dengan adanya kunjungan ini mereka tetap semangat dan kita berdoa supaya tidak ada lagi musibah seperti ini, ungkap Herwan Antoni disela-sela kunjungan ke rumah staf-nya, <TIMEX3 tid="t2" type="DATE" value="2019-05-02">Kamis (2/5)</TIMEX3>. 
+
+Kunjungan diawali dari Kelurahan Sawah Lebar Baru Kecamatan Ratu Agung Kota Bengkulu hingga Desa Kembang Seri Kecamatan Talang Empat Kabupaten Bengkulu Tengah. 
+
+Menurut Herwan Antoni, reaksi tanggap darurat bencana banjir yang dilakukan Dinas Kesehatan Provinsi Bengkulu dimulai dari <TIMEX3 tid="t3" type="DATE" value="2019-04-27">tanggal 27 April</TIMEX3> hingga <TIMEX3 tid="t4" type="DATE" value="2020-05-03">3 Mei mendatang</TIMEX3>. 
+
+Jadi, kita melakukan tanggap darurat ini dari <TIMEX3 tid="t5" type="DATE" value="2019-04-27">tanggal 27 April lalu</TIMEX3>, mudah-mudahan <TIMEX3 tid="t6" type="DATE" value="2019-05-03">tanggal 3</TIMEX3> ini akan selesai. 
+
+Kita tidak ingin warga kita mereka jatuh sakit dan menimbulkan korban lanjutan, sambungnya. 
+
+Sejauh ini, Dinas Kesehatan Provinsi Bengkulu, lanjut Herwan Antoni, telah menyusun rencana tindak lanjut dan terus meminta petugas untuk terus melakukan pemantauan ke desa-desa dan rumah-rumah warga yang terdampak banjir untuk memberikan informasi mengenai akses air bersih, dan cara menjalankan pola hidup sehat sekaligus tentang sanitasi. 
+
+(cik5/adv) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0489</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-06-20" temporalFunction="false" functionInDocument="CREATION_TIME">2016-06-20</TIMEX3></DCT>
+
+<TITLE>Hektaran Sawah di Panjatan Masih Tergenang Banjir</TITLE>
+
+<TEXT>
+Kondisi sawah di Desa Cerme, Kecamatan Panjatan, Kulonprogo yang masih tergenang banjir, <TIMEX3 tid="t1" type="DATE" value="2016-06-19">kemarin (20/6)</TIMEX3>. 
+
+Banjir besar yang melanda wilayah Kulonprogo bagian selatan sudah surut, <TIMEX3 tid="t2" type="DATE" value="2016-06-19">kemarin (20/6)</TIMEX3>. 
+
+Namun di Kecamatan Panjatan, dan sebagian wilayah Lendah dan Galur banjir masih bertahan dan menggenangi puluhan hektare areal pertanian. 
+
+petani terancam gagal tanam. 
+
+Banjir di Kecamatan Panjatan disebabkan meluapnya sungai Haisero. 
+
+Limpasan banjir paling banyak masuk ke areal persawahan yang mendominasi wilayah Panjatan. 
+
+Banjir sulit turun kalera beberapa titik, posisi irigasi berada lebih tinggi daripada sawah sehingga air menggenang. 
+
+Saat banjir tahunan itu kembali terjadi, warga hanya bisa pasrah. 
+
+Terlebih, banjir kali ini terbilang paling besar dalam <TIMEX3 tid="t3" type="DURATION" value="P10Y">sepuluh tahun</TIMEX3> terakhir. 
+
+Langkah normaliasi sungai Haisero di beberapa titik belum mampu membebaskan kawasan Panjatan dari banjir. 
+
+Tapi banjir kali ini emang kelewat besar, bahkan menurut saya paling besar dalam <TIMEX3 tid="t4" type="DURATION" value="P10Y">10 tahun</TIMEX3> terakhir. 
+
+Sungai Haisero tetap meluap waluapuan sebagian sudah dinormaliasi, kebanyakan masuk ke persawahan dan sulit surut, kata Sunaryo, 42, warga Pedukuhan IX Gesikan, Desa Cerme, Kecamatan Panjatan, <TIMEX3 tid="t5" type="DATE" value="2016-06-19">kemarin (20/6)</TIMEX3>. 
+
+Diungkapkan Sunaryo, Musim Tanam (MT) III, petani di wilayah Panjatan kebanyakan menanam palawija seperti Melon, Cabai, Bawang Merah, dan Kedelai. 
+
+Kebanyakan tanaman masih muda, belum genap <TIMEX3 tid="t6" type="DURATION" value="P1M">sebulan</TIMEX3> ditanam dan semua terendam banjir. 
+
+Tanaman palawija ini awalnya digadang bisa bertahan dan bisa menhasilkan sambil menunggu musim tanam (MT) I. 
+
+Namun dengan banjir kali ini, prediksi petani meleset. 
+
+tanaman tidak bisa diselamatkan, sementara untuk menunggu surut dan memperbaiki lahan waktunya sudah tidak mencukupi. 
+
+Saya punya sawah seluas <TIMEX3 tid="t7" type="DATE" value="6000">6000</TIMEX3> meter persegi, semua saya tanami kedelai dan <TIMEX3 tid="t8" type="DATE" value="UNKNOWN">kini baru</TIMEX3> berumur <TIMEX3 tid="t9" type="DURATION" value="P3W">tiga minggu</TIMEX3>, baru satu jengkal jari orang dewasa tingginya. 
+
+Semua terendam banjir sampai <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>, kerugian sekitar Rp 3 juta, ungkapnya. 
+
+Petani lain Atmo Inangun, warga Pedukuhan X Desa Cerme merasakan nasib sama, Sawah seluas <TIMEX3 tid="t11" type="DATE" value="5000">5000</TIMEX3> meter persegi yang digarapnya tidak luput dari musibah banjir, bibit melon yang baru saja ditanam dan masih berumur <TIMEX3 tid="t12" type="DURATION" value="P1W">satu minggu</TIMEX3> tergenang banjir. 
+
+Sudah tidak bisa diselamatkan mas. 
+
+Sampai <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> saja air masih menggenang, belum lagi banyak sampah yang ikut masuk ke areal persawahan. 
+
+Pasti mati dan gagal tanam, kerugian sekitar Rp 7 juta, ucapnya dengan nada getir. 
+
+Kasi Pemerintah Desa Cerme, Hadi Rusmanto menjelaskan, desanya memang menjadi lagganan banjir luapan sungai Haisero dan beberapa selokan yang membelah wilayah desa. 
+
+Desa Cerme terbagi menjadi 10 Dusun dan dihuni <TIMEX3 tid="t14" type="DATE" value="1200">sekitar 1200</TIMEX3> kepala keluarga (KK), dimana 300 warga diantaranya sebagai petani. 
+
+Luas desa Cerme 379 hektare, sementara 87 hektare diantaranya merupakan lahan pertanian dan seluruhnya terendam banjir. 
+
+Desa kami memang menjadi lannganan banjir, namun kali ini termasuk yang terbesar, jelasnya. 
+
+Ditambahkan, komoditas tanaman di MT III kali ini yakni Melon, umur baru berkisar <TIMEX3 tid="t15" type="DURATION" value="P10D">sepuluh hari</TIMEX3> atau kurang dai <TIMEX3 tid="t16" type="DURATION" value="P1M">sebulan</TIMEX3>. 
+
+Kerugian belum kami data, warga <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">kini</TIMEX3> juga masih menunggu surut. 
+
+Pemukiman hanya kelewatan, hanya 10 rumah yang dilaporkan terendam tetapi tidak parah, imbuhnya. 
+
+Sebelumnya, Pejabat Pembuat Komitmen (PPK) Sungai Pantai 2 Balai Besar Wilayah Serayu Opak (BBWSSO) Suradi menyatakan, pihaknya akan segera melakukan penanganan darurat terhadap tanggul dan saluran yang menjadi kewenangan BBWSSO. 
+
+Sementara ini berdasarkan data BBWSO ada tiga titik tanggul yang jebol akibat banjir, yakni tanggul sungai Seling, saluran Kedundang di Girigondo dan jalan isnpeksi saluran Kalibawang di wilayah Nanggulan yang retak dan terancam jebol. 
+
+Akan segera kami tangani, stok bronjong, karung plastik dan sebagainya sudah siap, ucapnnya. 
+
+(tom/ong) 
+</TEXT>
+
+</TimeML>

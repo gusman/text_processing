@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0570</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-20" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-20</TIMEX3></DCT>
+
+<TITLE>Korban Banjir Mulai Gatal-gatal</TITLE>
+
+<TEXT>
+Sejumlah korban banjir di Kecamatan Tualan Hulu dan Desa Hanjalipan, Kecamatan Kota Besi, Kabupaten Kotawaringin Timur (Kotim), mulai terjangkit penyakit kulit akibat terendam air banjir. 
+
+Terlebih, banjir di wilayah Kecamatan Tualan Hulu hingga <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> masih terjadi seiring hujan deras yang terus turun. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Kotim M. 
+
+Yusuf mengatakan korban banjir mulai terserang penyakit kulit, seperti gatal-gatal. 
+
+Namun, pihaknya bersama kecamatan telah memberikan pemeriksaan kesehatan dan pengobatan gratis kepada para korban. 
+
+Sudah ada pemeriksaan kesehatan dan pengobatan gratis terkait penyakit yang ditimbulkan banjir. 
+
+Semoga saja bisa cepat pulih, ujarnya, <TIMEX3 tid="t2" type="DATE" value="2019-06-19">Rabu (19/6)</TIMEX3>. 
+
+Kepala Bidang Kedaruratan dan Logistik BPBD Kotim Yephi Hartadi Periyanto menambahkan wilayah Kotim yang terendam banjir makin meluas. 
+
+Pantauan <TIMEX3 tid="t3" type="DATE" value="2019-06-19">Rabu</TIMEX3>, ujarnya, ada 5 kecamatan yang dikepung banjir, yakni Kecamatan Tualan Hulu, Kota Besi, Bukit Santuai, Mentaya Hulu dan Parenggean. 
+
+Sementara untuk jumlah kepala keluarga (KK) yang terdampak, ia belum mengetahui secara pasti karena <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihaknya masih mendata jumlah desa dan KK yang terdampak. 
+
+Apalagi lokasi banjir termasuk di daerah pedalaman dan sinyal telepon sulit, sehingga pendataan tidak bisa dilakukan cepat. 
+
+Menurutnya, warga rata-rata tidak ada yang mengungsi. 
+
+Mereka masih bertahan di rumahnya masing-masing. 
+
+Bagi mereka yang memiliki rumah panggung akan menyelamatkan diri di bagian atas rumah. 
+
+Sedangkan bagi warga lain ada yang bertahan dengan media perahu kecil atau kelotok. 
+
+Karena banjir seperti ini sudah biasa bagi mereka yang bermukim di wilayah langganan banjir, sehingga mereka punya antisipasi sendiri, ujarnya. 
+
+Sementara itu, Camat Bukit Santuai Pungkal yang 5 desanya mengalami banjir setinggi 1 meter mengaku warganya belum mendapatkan bantuan dari pemerintah. 
+
+Para warga masih bertahan di rumahnya masing-masing dengan kondisi seadanya. 
+
+Tak hanya rumah warga, kantor desa dan sekretaris desa di kecamatan tersebut ikut terendam, sehingga mengganggu proses pemerintahan desa. 
+
+c-may 
+</TEXT>
+
+</TimeML>

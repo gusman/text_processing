@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0102</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-03-24" temporalFunction="false" functionInDocument="CREATION_TIME">2016-03-24</TIMEX3></DCT>
+
+<TITLE>Leman Masuk Angin Gara-gara Bersihkan Rumahnya</TITLE>
+
+<TEXT>
+Bau minyak angin menyeruak saat berada disamping Leman (51), warga Kelurahan Selindung Lama, Kecamatan Gabek, Pangkalpinang. 
+
+Semenjak pasca banjir <TIMEX3 tid="t1" type="DATE" value="2016-03-23">kemarin</TIMEX3>, rumahnya yang ikut tergenang air sekitar selutut orang dewasa ia bersama keluarga bersih-bersih hingga <TIMEX3 tid="t2" type="TIME" value="2016-03-23T10:00">pukul 10.00 WIB</TIMEX3>, <TIMEX3 tid="t3" type="TIME" value="2016-03-23TNI">malam</TIMEX3>. 
+
+Akibatnya terlalu lelah, beres-beres bersama keluarga dengan baju dan celana yang basah dirinya <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> jadi masuk angin. 
+
+" Iya masuk angin saya pak, habis berkerik minta tolong sama istri saya, Maila (45). 
+
+Soalnya semalem habis bersih rumah kena banjir, mulai dari <TIMEX3 tid="t5" type="TIME" value="2016-03-23TAF">sore</TIMEX3> sampai <TIMEX3 tid="t6" type="TIME" value="2016-03-23T10:00">pukul 10</TIMEX3> Wib baru selesai, pakei ember bersama isitri dan dua anaknya buang airnya, " kata Leman, kepada bangkapos. 
+
+com, <TIMEX3 tid="t7" type="DATE" value="2016-03-24">Kamis (24/3/2016)</TIMEX3>. 
+
+Menurutnya, pasca banjir tersebut disebabkan naiknya aliran air dari drainase sekitar gorong-gorong badan jalan yang tidak jauh dari seberang depan rumahnya. 
+
+" Banjir <TIMEX3 tid="t8" type="DATE" value="UNKNOWN">kemarin itu</TIMEX3> air meluber dari drainase depan rumah. 
+
+Kalau bapak liat <TIMEX3 tid="t9" type="DATE" value="2016-03-23">kemarin</TIMEX3> seperti laut dibelakang rumah tu, korsi dan kasur dak sempat lagi mau diangkat sudah basah. 
+
+Jadi ni <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> kami jemur bak mobil, " ungkapnya. 
+
+" Di kamar itu bau masem semua lah, " pungkas Maila, istri Leman. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0192</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-03-30" temporalFunction="false" functionInDocument="CREATION_TIME">2016-03-30</TIMEX3></DCT>
+
+<TITLE>Lantaran Terjebak Longsor, Penumpang Pria Diminta Dorong Bus Rombongan Wakil Gubernur Kepri</TITLE>
+
+<TEXT>
+BATAM. 
+
+TRIBUNNEWS. 
+
+COM, LINGGA- Perjalanan rombongan Wakil Gubernur Kepri Nurdin Basirun di Lingga dihadang musibah tanah longsor, <TIMEX3 tid="t1" type="DATE" value="2016-03-30">Rabu (30/3/2016)</TIMEX3>. 
+
+Bus yang berisi rombongan Wakil Gubernur (bukan Gubernur Kepri HM Sani, seperti yang diberitakan sebelumnya), terjebak di jalan yang langsor. 
+
+. 
+
+Pantauan Tribun Batam, dalam bus rombongan tersebut tidak terdapat Gubernur Kepri HM Sani lantaran Sani menempuh perjalanan ke daerah-daerah Lingga menggunakan kapal. 
+
+HM Sani dan Nurdin, awalnya memang berangkat bersama satu kapal dari Tanjungpinang ke Lingga, <TIMEX3 tid="t2" type="TIME" value="2016-03-30TMO">Rabu pagi</TIMEX3>. 
+
+Namun sampai di Lingga, rombongan dibagi menjadi dua, Gubernur Kepri dan Wakil Gubernur Kepri. 
+
+Akibatan longsor, bus rombongan Nurdin terjebak cukup lama dan nyaris masuk ke dalam jurang. 
+
+Untuk membebaskan bus dari hadangan lumpur tanah longsor, para penumpang disuruh turun dari bus. 
+
+Para penumpang pria diminta untuk mendorong mobil yang terjebak lumpur tersebut. 
+
+<TIMEX3 tid="t3" type="DURATION" value="PT30M">Sekitar 30 menit</TIMEX3> berselang, baru bus itu bisa keluar dari jebakan lumpur yang persis berada di bawah lokasi tanah longsor.Setelah terbebas dari kebakan longsor, bus ini kemudian melanjutkan perjalanan ke Sungai Besar.Beberapa kendaraan yang ada di belakangnya pun akhirnya bisa melintas dengan lancar di lokasi itu. 
+
+(*) 
+</TEXT>
+
+</TimeML>

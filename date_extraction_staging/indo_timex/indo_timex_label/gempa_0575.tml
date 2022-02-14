@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0575</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-11" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-11</TIMEX3></DCT>
+
+<TITLE>Pemkab Kapuas Peduli Korban Gempa</TITLE>
+
+<TEXT>
+Sehubungan dengan terjadinya musibah bencana alam gempa bumi yang terjadi di Lombok Provinsi Nusa Tenggara Barat, Bali dan sekitarnya, pada <TIMEX3 tid="t1" type="DATE" value="2018-08-05">hari Minggu (5/8)</TIMEX3> beberapa waktu yang lalu, maka Pj Bupati Kapuas Agus Pramono, S. 
+
+Sos mengimbau kepala seluruh Perangkat Daerah, BUMN, dan BUMD pada Pemerintah Kabupaten Kapuas dan instansi vertikal TNI, Polri agar berpartisipasi memberikan bantuan sosial kemanusiaan. 
+
+Hal ini dimaksud sebagai wujud kepedulian terhadap korban yang terkena musibah bencana alam tersebut. 
+
+Adapun bantuan kemanusiaan itu berupa uang, bahan makanan, pakaian layak pakai, obat-obatan dan lainnya, yang dapat meringankan beban bagi korban gempa. 
+
+Sesuai dengan Surat Himbauan Peduli Korban Gempa Bumi Lombok dan Bali dengan Nomor:466/762/DISSOS/2018, Bantuan Sosial Kemanusiaan yang dimaksud dapat disalurkan melalui Dinas Sosial Kabupaten Kapuas selambat-lambatnya <TIMEX3 tid="t2" type="DATE" value="2018-08-10">hari Jumat</TIMEX3> Tanggal <TIMEX3 tid="t3" type="DATE" value="2018-08-10">10 Agustus 2018</TIMEX3>, karena langsung segera disalurkan kepada korban bencana alam di Lombok Provinsi Nusa Tenggara Barat. 
+
+Informasi pengumpulan bantuan selanjutnya dapat menghubungi Kasi Perlindungan Sosial Korban Bencana Alam dan Sosial pada Dinas Sosial Kabupaten Kapuas. 
+
+c-hr/hmskmf 
+</TEXT>
+
+</TimeML>

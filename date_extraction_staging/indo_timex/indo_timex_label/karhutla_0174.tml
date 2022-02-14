@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0174</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-12" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-12</TIMEX3></DCT>
+
+<TITLE>Udara Pekanbaru Tidak Sehat</TITLE>
+
+<TEXT>
+Situasi kebakaran hutan dan lahan (karhutla) yang terjadi di Sumatera dan Kalimantan masih menunjukkan kondisi yang fluktiatif. 
+
+Di satu tempat mengalami penurunan, namun di sisi lain terjadi kenaikan jumlah titik api. 
+
+Berdasarkan pemantauan Badan Nasional Penanggulangan Bencana (BNPB), penurunan titik api paling tinggi terjadi di Provinsi Riau. 
+
+<TIMEX3 tid="t1" type="DATE" value="2019-08-11">Minggu (11/8)</TIMEX3>, titik api hanya tersisa 29 saja. 
+
+Jauh menurun dibandingkan data <TIMEX3 tid="t2" type="DATE" value="2019-08-11">sehari sebelumnya</TIMEX3> yang mencapai 126 titik. 
+
+Sementara untuk kenaikan tertinggi jumlah titik api terjadi di Kalimantan Barat. 
+
+Hingga <TIMEX3 tid="t3" type="DATE" value="2019-08-11">kemarin</TIMEX3> sudah ada 605 titik api yang terpantau atau naik 72 titik di bandingkan <TIMEX3 tid="t4" type="DATE" value="2019-08-11">sehari sebelumnya</TIMEX3>. 
+
+Selain dua provinsi tersebut, titik api juga terpantau di Jambi 3 titik, Sumatera Selatan 19 titik, Bangka Belitung 14 titik, Kalimantan Tengah 163 titik, Kalimantan Selatan 14 titik, Kalimantan Timur 20 titik, dan Kalimantan Utara 23 titik (-6 titik). 
+
+Pelaksana Tugas (Plt) Kepala Pusat Data Informasi dan Humas (Pusdatinmas) BNPB Agus Wibowo, mengatakan, keberadaan titik api membuat jarak pandang menurun akibat berasap. 
+
+Yang paling parah adalah Pekanbaru dengan jarak pandang lima kilometer dan Sanggau empat kilometer. 
+
+Sementara dari aspek keseha t an, kualitas udara tidak sehat terpantau di tiga kota. 
+
+Berdasar nilai PM10 menunjukkan Pekanbaru 166 tidak sehat, Pontianak 253 sangat tidak sehat, Palangkaraya 217 sangat tidak sehat, imbuhnya. 
+
+Meski cukup massif, Agus menegaskan, asap yang dihasilkan oleh Karhutla hanya mengudara di wilayah Indonesia. 
+
+Tidak ada transboundary haze atau asap yang melintas ke negeri tetangga Malaysia atau Singapura, kata suksesor almarhum Su to po tersebut.Dia menegaskan, upa ya pemadaman terus dilakukan jajarannya bersama instansi lain yang tediri dari TNI, POLRI, BNPB, BPBD, Masyarakat.Total personil yang diterjunkan sejumlah 9.072 orang yang tersebar di enam provinsi, meliputi Riau, Jambi, Sumatera Selatan, Kalimantar Barat, Kalimantan Tengah dan Kalimantan Selatan.Kita saling bahu membahu untuk memadamkan api baik dari darat maupun dari udara atau water bombing, terangnya.TNI sebagai salah satu instansi yang terlibat dalam upaya pemadaman api meninjau langsung daerah terdampak karhutla di Riau.Kepala Staf Umum (Kasum) TNI Letjen TNI Joni Supriyanto bersama jajaran pejabat teras Mabes TNI dan komando kewilayahan di Riau sudah turun ke beberapa daerah.Mulai <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">Pekan Baru</TIMEX3>, Taman Nasional Tesso Nilo, Desa Penarikan, serta Desa Begadu di Pelalawa.Senada dengan Agus, Joni menyampaikan bahwa semua pihak yang terlibat dalam upaya pemadaman api harus bahu membahu.Sejauh ini, TNI sudah mengerahkan pasukan dari Kodam I/Bukit Barisan. 
+
+Selanjutnya, jenderal bintang tiga TNI AD itu menjelaskan, pihaknya akan menempatkan helikopter water bombing di Riau.Penempatan alat utama sistem persenjataan (alutsista) itu berikut dengan bahan bakar yang memadai.Kedepana itu akan menjadi prioritas, imbuhnya.(far/syn/jpg) 
+</TEXT>
+
+</TimeML>

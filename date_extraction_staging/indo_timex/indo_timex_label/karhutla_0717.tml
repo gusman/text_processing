@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0717</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-11" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-11</TIMEX3></DCT>
+
+<TITLE>GALERI FOTO - Api Berkobar di Gunung Arjuno 4 Hari Ini, Meluas ke Desa Toyomarto Kecamatan Singosari</TITLE>
+
+<TEXT>
+Titik api kebakaran hutan Gunung Arjuno mengepulkan asap, terlihat dari kawasan Kelurahan Merjosari, Kota Malang, <TIMEX3 tid="t1" type="DATE" value="2019-10-11">Jumat (11/10/2019)</TIMEX3>. 
+
+Kebakaran hutan Gunung Arjuno yang sejak <TIMEX3 tid="t2" type="DURATION" value="P4D">empat hari</TIMEX3> meluas hingga masuk kawasan Desa Toyomarto Kecamatan Singosari, Kabupaten Malang dan belum bisa dipadamkan. 
+
+
+</TEXT>
+
+</TimeML>

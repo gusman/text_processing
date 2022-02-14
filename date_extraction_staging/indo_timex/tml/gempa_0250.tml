@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0250</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-10-20" temporalFunction="false" functionInDocument="CREATION_TIME">2017-10-20</TIMEX3></DCT>
+
+<TITLE>Gempa Tektonik Guncang Kepahiang</TITLE>
+
+<TEXT>
+Kabupaten Kepahiang kembali diguncang gempabumi tektonik, Jumat (20/10/2017).
+
+Gempa pertama terjadi pada pukul 07:36:06 WIB dan gempa kedua pada pukul 07:37:15 WIB.
+
+Kepala Stasiun Geofisika Kepahiang-Bengkulu Litman mengatakan hasil analisis BMKG menunjukkan bahwa gempabumi pertama yang berkekuatan M=3.0 SR terletak pada episenter dengan koordinat 3.66 LS dan 102.58 BT pada jarak 2 km Barat Kepahiang.
+
+Sedangkan gempabumi kedua yang berkekuatan M=2.8 SR terletak pada episenter dengan koordinat 3.60 LS dan 102.65 BT tepatnya pada jarak 8 km Timut Laut Kepahiang.
+
+Kedua gempabumi tersebut terjadi pada kedalaman 1 km.
+
+Berdasarkan rekaman alat intensitymeter dan info yang dirasakan oleh masyarakat, menunjukkan bahwa dampak kedua gempabumi ini menimbulkan guncangan yang dirasakan di Kepahiang II SIG BMKG ( III-IV MMI).
+
+Gempabumi ini menyebabkan kerusakan ringan berupa retakan pada dinding dan pagar di beberapa rumah di sekitar wilayah Pasar Ujung, Kepahiang,  ungkapnya.
+
+Ditinjau dari kedalaman hiposenternya, lanjutnya, gempa ini merupakan gempa dangkal akibat aktivitas Sesar Sumatera di daratan Bengkulu pada segmen Musi.
+
+Terkait dengan peristiwa gempabumi yang baru saja terjadi ini, hingga laporan ini disusun pada pukul 09.35 WIB telah terjadi tiga kali aktivitas gempabumi susulan.
+
+Ditinjau dari historis kegempaan, Kepahiang pernah di guncang gempa akibat sesar sumatera segmen musi pada tahun 1979, 1997 dan 2014.
+
+Kepada masyarakat di sekitar wilayah Kepahiang   Bengkulu dihimbau agar tetap tenang dan terus mengikuti arahan BPBD dan informasi BMKG.
+
+[CHO]
+</TEXT>
+
+</TimeML>
+

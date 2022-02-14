@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0364</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-04" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-04</TIMEX3></DCT>
+
+<TITLE>Badai Dorian, Siklon Tropis yang Merusak Bahama dan Ancam AS</TITLE>
+
+<TEXT>
+Badai Dorian menghantam wilayah Bahama pada <TIMEX3 tid="t1" type="DATE" value="2019-09-02">Senin</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2019-09-02">2 September 2019</TIMEX3>, waktu setempat. 
+
+Tiga negara bagian di Amerika Serikat (AS) <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3> bersiap menghadapi badai yang masuk di kategori 5 (tertinggi) di skala badai Saffir-Simpson ini. 
+
+Di Bahama, sebanyak tujuh orang dilaporkan meninggal dunia hingga <TIMEX3 tid="t4" type="TIME" value="2019-09-03TNI">Selasa (3/9) malam</TIMEX3> waktu setempat. 
+
+" Diperkirakan, korban terus bertambah, " kata Perdana Menteri Bahama, Hubert Minnis, dikutip AFP. 
+
+Menurutnya, korban jiwa tersebut berasal dari Kepulauan Abaco di timur laut, yang terdampak paling parah akibat badai. 
+
+Ia menyebut, kerusakan yang terjadi di sana " belum pernah terjadi sebelumnya ". 
+
+Di lokasi tersebut, Palang Merah Internasional memperkirakan, sekitar 13 ribu rumah rusak atau hancur akibat angina kencang yang disertai hujan deras. 
+
+(. 
+
+Terlihat ratusan rumah kehilangan atap dan mobil-mobil terbalik. 
+
+Banjir di sepanjang jalan menghanyutkan puing yang berserakan. 
+
+Pemerintah Bahama <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> telah menutup kawasan wisata dan mengevakuasi penduduk ke lokasi yang dianggap lebih aman. 
+
+Departemen Pembangunan Internasional Inggris akan mengirim tiga pakar kemanusiaan ke Bahama. 
+
+Tim ini akan meninjau kemungkinan pemberian bantuan kemanusiaan pasca-badai Dorian. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, Badai Dorian bergerak dengan status masih berbahaya ke pantai timur Florida, Amerika Serikat. 
+
+Pusat Badai Nasional Amerika Serikat (NHC) memperkirakan, Badai Dorian bisa menyebabkan ombak setinggi 5 sampai 7 meter. 
+
+Mereka menyatakan kemungkinan badai itu bisa mencapai pantai timur Negara Bagian Florida <TIMEX3 tid="t7" type="TIME" value="2018-09-04TNI">Rabu (4/9) malam</TIMEX3> waktu setempat. 
+
+Lantas, badai diperkirakan mengarah ke Georgia dan South Carolina. 
+
+Pemerintah di ketiga negara bagian AS itu sudah memerintahkan warganya mengungsi ke lokasi yang lebih aman, dengan menghindari jalur badai. 
+
+(. 
+
+" Dengan badai sebesar ini dapat menyebabkan kehancuran yang sangat besar. 
+
+Jangan membahayakan diri Anda dengan menetap di suatu tempat selagi bisa menyelamatkan diri, " kata Gubernur Florida, Ron DeSantis.Gubernur Carolina Selatan, Henry McMaster pun mewajibkan evakuasi pada delapan daerah pesisir. 
+
+Sedangkan Gubernur Georgia Brian Kemp mewajibkannya di enam daerah pesisir mulai <TIMEX3 tid="t8" type="TIME" value="2019-09-02TAF">Senin (2/9) siang</TIMEX3>. 
+
+Sebab, badai diperkirakan akan mengancam hingga <TIMEX3 tid="t9" type="DURATION" value="P5D">lima hari ke depan</TIMEX3>.Badai Dorian tergolong siklon tropis atlantik. 
+
+Badai Dorian terbentuk dari gelombang tropis pada <TIMEX3 tid="t10" type="DATE" value="2019-08-24">24 Agustus</TIMEX3> di Atlantik Tengah. 
+
+Siklon ini secara bertahap meningkat ketika bergerak menuju Antillen Kecil, sebelum menjadi badai pada <TIMEX3 tid="t11" type="DATE" value="2019-08-28">28 Agustus 2019</TIMEX3>.Pada <TIMEX3 tid="t12" type="DATE" value="2019-08-31">31 Agustus</TIMEX3>, Dorian diintensifkan menjadi badai besar kategori 4 dan naik menjadi kategori 5 pada hari berikutnya. 
+
+Di Bahama, Badai Dorian bertahan pada kategori 5 selama <TIMEX3 tid="t13" type="DURATION" value="PT185M">185 menit</TIMEX3> dengan intensitas angin sebesar 295 kilometer per jam, dan tekanan sentral minimum mencapai 910 milibar (26,87 inHg). 
+</TEXT>
+
+</TimeML>

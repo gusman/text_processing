@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0309</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-13" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-13</TIMEX3></DCT>
+
+<TITLE>Indahnya Kerja Bakti Bantu Rumah Korban Ambruk</TITLE>
+
+<TEXT>
+Pemandangan tidak biasa terlihat di Kampung Buninagara II, Kelurahan Nagarasari, Kecamatan Cipedes Kota Tasikmalaya, <TIMEX3 tid="t1" type="DATE" value="2020-02-13">Kamis (13/2/2020)</TIMEX3>. 
+
+Di pemukiman padat penduduk tersebut, sebanyak puluhan orang dengan berbagai seragam datang sejak <TIMEX3 tid="t2" type="TIME" value="2020-02-13TMO">pagi hari</TIMEX3>. 
+
+Ada yang dengan tangan kosong, ataupun membawa peralatan seadanya untuk membersihkan puing-puing rumah. 
+
+Mereka terdiri dari personil BPBD, Tagana, PMI, TNI dan Polri serta elemen lainnya hendak gotong royong memperbaiki rumah yang ambruk akibat diterpa hujan disertai angin kencang. 
+
+Sesekali ibu-ibu setempat menawari personil untuk makan terlebih <TIMEX3 tid="t3" type="DATE" value="PAST_REF">dahulu</TIMEX3>. 
+
+Pemandangan yang jarang ditemukan ketika penanganan bencana di berbagai lokasi. 
+
+Kita sebenarnya membawa logistik untuk penanganan seperti ini. 
+
+Alhamdulillah warga juga memberi perhatian, suasana seperti ini jarang sekali, reeus, ujar Manajer Pusdalops BPBD Kota Tasikmalaya, Harisman di lokasi. 
+
+Perbaikan rumah milik Ana yang atapnya ambruk dan sempat menimbulkan luka-luka penghuni seorang rumah. 
+
+Akibatnya seperempat bangunan beratapkan langit karena tertimpa material bangunan dari samping rumah. 
+
+Baik relawan dari BPBD, Tagana maupun anggota TNI-Polri hilir mudik membawa kayu, batu bata, semen dan material lainnya. 
+
+Karena lokasi di dalam gang, material dari jalan raya harus dipindahkan menggunakan gerobak. 
+
+Gangnya juga pas-pasan, makanya keluar masuk bergantian, katanya. 
+
+Seperti diberitakan sebelumnya, atap rumah tersebut ambruk sekira <TIMEX3 tid="t4" type="TIME" value="2020-02-12T17:00">pukul 17.00 WIB</TIMEX3>. 
+
+Salah satu anak mengalami luka ringan karena tertimpa material atap. 
+
+Wali Kota Tasikmalaya, H. 
+
+Budi Budiman dan Dandim <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">0612</TIMEX3> Letkol Inf Imam Wicaksana sempat menjenguk korban sekaligus berjanji memperbaiki rumah tersebut. 
+
+*** 
+</TEXT>
+
+</TimeML>

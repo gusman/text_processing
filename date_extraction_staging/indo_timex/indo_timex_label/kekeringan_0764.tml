@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0764</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-28" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-28</TIMEX3></DCT>
+
+<TITLE>Cerita Miris Warga Gunungkidul, Jual Ternak hingga Harta Benda demi Beli Air Bersih</TITLE>
+
+<TEXT>
+Kemarau yang terjadi di kawasan selatan Kabupaten Gunungkidul, Yogyakarta, menyebabkan warga harus rela menjual barang berharganya untuk membeli air bersih. 
+
+Ada lima kecamatan yang masuk zona merah kekeringan yang membutuhkan air bersih. 
+
+Kepala Pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Gunungkidul, Edy Basuki menyampaikan, ada lima kecamatan yang merupakan wilayah rawan kekeringan, yakni Kecamatan Semanu (Desa Dadapayu), Kecamatan Ngawen (Desa Jurangjero, Sambirejo, Besi), Kecamatan Gedangsari (Desa Watugajah, Mertelu, dan Hargomulyo), Kecamatan Girisubo (Desa Songbanyu, Tileng, Karangawen, Jepitu, dan Nglindur), Kecamatan Rongkop (Desa Melikan). 
+
+" Kelima kecamatan ini masuk zona merah, artinya paling membutuhkan air bersih, " katanya. 
+
+Edy mengatakan, wilayah yang mengalami kesulitan air bersih ada 77 desa yang tersebar di 15 kecamatan. 
+
+Jumlah warga yang terdampak juga terus mengalami penambahan, yaitu 38.937 KK atau 132.491 jiwa. 
+
+" Lima kecamatan yang mengalami kelangkaan yakni Girisubo, Rongkop, Ngawen, Gedangsari, dan Semanu. 
+
+Lima kecamatan ini masuk zona merah artinya sangat membutuhkan bantuan air bersih, " katanya saat dihubungi, <TIMEX3 tid="t1" type="DATE" value="2018-10-28">Minggu (28/10/2018)</TIMEX3> Menurut dia, kelangkaan ini dikarenakan tidak adanya sumber air, dan sudah berkurangnya sumber air akibat kemarau panjang. 
+
+" Untuk Girisubo sudah banyak bantuan dari swasta sehingga yang dari kami (BPBD) diarahkan ke lokasi yang lainnya, " ucapnya Camat Girisubo, Agus Sriyanto, mengatakan, di wilayahnya ada 8 desa yang semuanya mengalami kekeringan cukup parah. 
+
+Sebab, selama <TIMEX3 tid="t2" type="DURATION" value="P9M">9 bulan</TIMEX3> terakhir tidak ada hujan deras. 
+
+Wilayah Girisubo memang terletak di wilayah yang termasuk yang pertama mengalami kemarau panjang. 
+
+" Total ada 82 dusun di wilayah kami, yang kesulitan air ada 62 dusun, yang tidak mengalami kekeringan karena sudah ada sambungan PDAM, " ucapnya " Memang sudah terjadi hujan <TIMEX3 tid="t3" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>, tetapi hujan lokal belum merata dan tidak begitu deras, " tambahnya kemudian. 
+
+// Wilayah Girisubo, lanjut Agus, memang tidak memiliki banyak sumber air yang bisa diambil, karena memang wilayah kecamatan yang berbatasan langsung dengan Wonogiri ini berada di perbukitan cadas. 
+
+" Ada tiga sumber mata air, tetapi memang kami kesulitan untuk dikelola bersama PDAM. 
+
+Satu yang besar di Pule Jajar, lokasinya berbukit dan sulit diakses, " ujarnya Akibat kekeringan yang melanda, menurut dia, rata-rata masyarakat sudah membeli 8 hingga 20 an tangki per keluarganya. 
+
+Harga jual mencapai Rp 100.000 hingga Rp 200.000 per tangkinya. 
+
+" Paling parah di desa Songbanyu, lokasinya jauh dan sulit diakses, harganya mahal, " tuturnya. 
+
+Kondisi ini diperparah dengan habisnya anggaran droping gratis dari kecamatan. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> selain mengandalkan dari BPBD, pihaknya terus berupaya meminta bantuan dari pihak ketiga atau swasta untuk memberikan bantuan. 
+
+" Anggaran dari kecamatan 550 tangki sudah habis sejak <TIMEX3 tid="t5" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> mengandalkan bantuan dari BPBD dan swasta, " ujarnya Salah seorang perwakilan Alumni SMP N 2 Playen, Kolonel Inf Nurwahyu Widodo menyampaikan, pihaknya bersama alumni SMPN 2 Playen <TIMEX3 tid="t7" type="DATE" value="1984">tahun 1984</TIMEX3> mendengar informasi mengenai adanya masyarakat di Girisubo yang membutuhkan air bersih. 
+
+Bersama alumni yang lain, dirinya mengumpulkan anggaran untuk membeli air bersih. 
+
+" Total ada 100 tangki yang diserahkan ke desa Tileng, " katanya Dia mengatakan, upaya ini sebagai respons untuk meringankan beban masyarakat yang mengalami kekurangan air bersih. 
+
+" Harapan kami masyarakat tidak merasa sendiri saat mengalami kekurangan air bersih, " ucapnya // Jual ternak hingga pohon Salah seorang warga Desa Tileng, Gandi Suwarno mengatakan, dirinya sudah membeli puluhan tangki air bersih sejak <TIMEX3 tid="t8" type="DATE" value="2018-07">bulan Juli 2018 lalu</TIMEX3>. 
+
+Hal ini lantaran mereka keluarga besar dan juga memelihara lima ekor sapi indukan. 
+
+" Total ada 20-an tangki, mungkin lebih. 
+
+Harganya per tangki Rp 110.000, " katanya. 
+
+Meski berat, dirinya tak bisa berbuat banyak karena air merupakan kebutuhan pokok. 
+
+" Ya mau bagaimana, pohon jati sudah (dijual), kambing (juga). 
+
+Pokoknya apa pun, kalau pas tidak punya uang untuk beli air ya dijual. 
+
+Besuk pas panen beli lagi ndak apa-apa, " ujarnya. 
+
+Suwitorejo mengakui hal yang sama. 
+
+Namun dia sedikit beruntung karena rumahnya tak jauh dari bak penampungan yang biasanya bantuan air bersih ditaruh disana untuk dibagikan kepada masyarakat. 
+
+" Lumayan terbantu saat ada bantuan, saya sudah membeli delapan tangki air. 
+
+Sisanya mengandalkan bantuan air dari pemerintah dan swasta. 
+
+Jika enggak ada bantuan tidak tahu sudah habis berapa tangki, " katanya. 
+
+
+</TEXT>
+
+</TimeML>

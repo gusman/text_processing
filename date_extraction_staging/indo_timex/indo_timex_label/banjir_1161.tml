@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1161</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-03-23" temporalFunction="false" functionInDocument="CREATION_TIME">2016-03-23</TIMEX3></DCT>
+
+<TITLE>SMAN 7 Padang Masih Digenangi Banjir</TITLE>
+
+<TEXT>
+SMA Negeri 7 Padang yang berlokasi di Lubuk Buaya, Kecamatan Koto Tangah masih digenangi air sehingga aktivitas belajar mengajar belum dapat dilaksanakan. 
+
+Hingga <TIMEX3 tid="t1" type="DATE" value="2016-03-23">hari ini</TIMEX3> genangan air masih cukup tinggi, bangku-bangku juga banyak yang basah sehingga aktivitas belajar belum bisa dilaksanakan, kata Kepala SMA Negeri 7 Padang, Erny Sasmita di Padang, <TIMEX3 tid="t2" type="DATE" value="2016-03-23">Rabu (23/3)</TIMEX3>. 
+
+Menurutnya karena kondisi belum memungkinkan aktivitas belajar baru akan efektif dilaksanakan pada <TIMEX3 tid="t3" type="DATE" value="2016-03-26">Sabtu 26 Maret 2016</TIMEX3>. 
+
+<TIMEX3 tid="t4" type="DATE" value="2016-03-24">Besok</TIMEX3> direncanakan seluruh siswa akan bergotong royong membersihkan lingkungan sekolah usai direndam banjir setinggi satu meter lebih, tambah dia. 
+
+Ia menerangkan <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sedang dilaksanakan ujian tengah semester, namun karena direndam banjir sekolah libur sejak <TIMEX3 tid="t6" type="DATE" value="2016-03-22">Selasa (22/3)</TIMEX3>. 
+
+(*/lek) Sumber: 
+</TEXT>
+
+</TimeML>

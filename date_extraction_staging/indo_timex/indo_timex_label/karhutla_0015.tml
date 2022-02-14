@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0015</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-19</TIMEX3></DCT>
+
+<TITLE>Kabut Asap Selimuti Meulaboh Dinkes Aceh Barat Bagikan Masker</TITLE>
+
+<TEXT>
+Kabut asap mulai selimuti Aceh Barat, yang muncul dari Kebakaran Hutan dan Lahan (Karhutla) di wilayah itu. 
+
+Asap tebal mulai terlihat pada kawasan Kota Meulaboh, sejak <TIMEX3 tid="t1" type="TIME" value="2019-07-17">Rabu (17/7) pagi kemarin</TIMEX3>. 
+
+Kabut asap yang menyelimuti udara di kawasan Aceh Barat, sudah terjadi sejak <TIMEX3 tid="t2" type="TIME" value="2019-07-18TNI">malam hari</TIMEX3>, namun dampak Karhutla tersebut bakalan tanpak lebih jelas di <TIMEX3 tid="t3" type="TIME" value="2019-07-19TMO">pagi hari</TIMEX3>. 
+
+Kondisi asap tebal ini, membuat warga dan anak-anak terpaksa menggunakan masker, saat keluar rumah. 
+
+Termasuk pengguna kendaraan harus menyalakan lampu sebab jarak pandang mulai terganggu. 
+
+Hal serupa juga sangat dirasakan pengguna jalan lintas Meulaboh-Banda Aceh, tepatnya di Desa Suak Raya, Kecamatan Johan Pahlawan. 
+
+Sehingga membuat aktifitas warga ikut terganggu, terutama bagi siswa yang hendak ke sekolah melewati jalan tersebut. 
+
+Seorang warga Suak Raya, Syukri kepada wartawan mengatakan, asap tebal yang ditimbulkan dari Karhutla ini sangat dirasakan oleh warga desa setempat, sebab jarak lahan terbakar tidak jauh dari permukiman mereka. 
+
+Ia khawatir apabila tidak segera ditangani bencana kebakaran akan meluas. 
+
+Kalau saya khawatir api mendekat ke permukiman, ucapnya. 
+
+Kebakaran lahan gambut mulai terjadi sejak <TIMEX3 tid="t4" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir. 
+
+Sehingga kabut asap sering menyesaki pernafasan saat malam. 
+
+Kalau <TIMEX3 tid="t5" type="TIME" value="2019-07-18TNI">malam</TIMEX3> kami susah tidur karena asap. 
+
+Kalau <TIMEX3 tid="t6" type="TIME" value="2019-07-19TMO">pagi</TIMEX3>, lebih parah lagi karena asapnya sangat tebal dan tentu menganggu aktifitas <TIMEX3 tid="t7" type="TIME" value="2019-07-19TMO">pagi</TIMEX3> kami, urainya. 
+
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> bencana kebakaran belum memperlihatkan tanda-tanda adanya korban, tapi dampak yang dirasakan anak-anak sangat mengganggu, sewaktu <TIMEX3 tid="t9" type="TIME" value="2019-07-19TMO">pagi hari</TIMEX3> berangkat ke sekolah. 
+
+Pasalnya siswa yang hendak ke sekolah harus melewati kawasan yang diselimuti kabut asap tebal, tentu kondisi ini membahayakan bagi kesehatan. 
+
+Syukri berharap, pemerintah segera dapat memadamkan kebakaran lahan tersebut, sebab akibat kabut asap telah mengakibatkan sejumlah anak-anak mengalami sesak napas, juga menganggu pengguna jalan raya sewaktu <TIMEX3 tid="t10" type="TIME" value="2019-07-19TMO">pagi hari</TIMEX3>. 
+
+Menyikapi kondisi ini, Pemkab Aceh Barat melalui Dinas Kesehatan langsung membagikan ribuan masker untuk mencegah warga terserang Infeksi Saluran Pernapasan (ispa). 
+
+Pembagian masker dilakukan pada beberapa titik di kawasan Meulaboh. 
+
+Sekretaris Dinas Kesehatan Aceh Barat, Nasufiani, <TIMEX3 tid="t11" type="DATE" value="2019-07-18">Kamis (18/7)</TIMEX3> mengatakan pembagian masker dilakukan mengingat kabut asap mulai menyelimuti kawasan permukiman warga. 
+
+Dalam kondisi tersebut, pemerintah daerah menyalurkan penutup mulut untuk menjaga kesehatan warga agar tidak terserang ispa. 
+
+Pembagian masker kita lakukan mulai <TIMEX3 tid="t12" type="DATE" value="2019-07-19">hari ini</TIMEX3> dengan jumlah dua ribu masker, di empat titik meliputi jalan lintas Meulaboh-Banda Aceh, Simpang Kisaran, SD Negeri 8 Suak Raya dan SD Percontohan Seuneubok, detilnya. 
+
+Hal ini dilakukan untuk mencegah adanya korban. 
+
+Namun sampai <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">kini</TIMEX3>, belum adanya laporan dari maka pihak puskesmas tentang data warga terserang ISPA. 
+
+Berdasarkan rilis Badan Penanggulangan Bencana Aceh (BPBA) Provinsi Aceh menyebutkan lahan yang terbakar di sejumlah titik di Kabupaten Aceh Barat mencapai 122 hektar dengan meliputi enam kecamatan, yakni Kecamatan Johan Pahlawan, Bubon, Meureubo, Arongan Lambalek, Kaway XVI dan Woyla Barat. 
+
+Sementara pamadaman masih terus dilakukan dengan melibatkan seluruh pihak. 
+
+(den/han) 
+</TEXT>
+
+</TimeML>

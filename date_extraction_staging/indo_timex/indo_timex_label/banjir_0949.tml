@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0949</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-11-14" temporalFunction="false" functionInDocument="CREATION_TIME">2016-11-14</TIMEX3></DCT>
+
+<TITLE>Puluhan Rumah di Desa Silam Terendam Banjir</TITLE>
+
+<TEXT>
+Hujan lebat yang turun <TIMEX3 tid="t1" type="TIME" value="2016-11-13TNI">Minggu (13/11/2016) malam</TIMEX3>, bukan saja menyebabkan longsor di Kecamatan Kuok, Jalan Lintas Riau-Sumbar. 
+
+Hujan juga mengakibatkan bencana banjir di Desa Silam Kecamatan Kuok, <TIMEX3 tid="t2" type="DATE" value="2016-11-14">Senin (14/11)</TIMEX3>. 
+
+Banjir terpusat di Dusun Silam. 
+
+Puluhan rumah di desa ini dilaporkan terendam banjir. 
+
+Ini dibenarkan oleh Kepala Bidang Kedaruratan dan Logistik Badan Penanggulangan Bencana Daerah (BPBD) Kampar M. 
+
+Nasir, <TIMEX3 tid="t3" type="TIME" value="2016-11-07TAF">Senin sore</TIMEX3>. 
+
+" Ada sekitar 32 unit rumah warga dan sebuah bangunan SD (Sekolah Dasar) yang terendam banjir, " ungkap Nasir. 
+
+Ia mengatakan, ketinggian air mencapai 1 meter. 
+
+Nasir menjelaskan, banjir disebabkan meluapnya Sungai Silam yang berada di tengah desa tersebut. 
+
+Air mulai menggenangi rumah warga diperkirakan <TIMEX3 tid="t4" type="TIME" value="2016-11-13T03:00">pukul 03.00 WIB</TIMEX3>. 
+
+// " Luapan air merendam. 
+
+rumah warga yang berada di sekitar aliran sungai, " katanya. 
+
+Dikatakan dia, banjir mulai surut menjelang <TIMEX3 tid="t5" type="TIME" value="2016-11-07TAF">Senin sore</TIMEX3>. 
+
+Warga yang rumahnya tidak lagi terendam banjir, tambah dia, sudah mulai melakukan pembersihan dan mengeringkan harta benda mereka. 
+
+Nasir menuturkan, personil dari Kepolisian Resor Kampar dan TNI langsung terjun ke lokasi untuk membantu warga korban banjir. 
+
+Sementara Tim dari BPBD Kampar, kata dia, telah berkoordinasi dengan pihak Pemerintah Desa untuk mendirikan dapur umum dan tenda pengungsi. 
+
+" Tapi dari pihak desa, kebutuhan itu (dapur umum dan tenda pengungsi) belum dibutuhkan untuk <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, " pungkas Nasir. 
+
+(*) 
+</TEXT>
+
+</TimeML>

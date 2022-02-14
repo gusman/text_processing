@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0607</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-10" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-10</TIMEX3></DCT>
+
+<TITLE>Dalam Sehari, Terjadi Dua Kebakaran Hutan dan Lahan di Lokasi Berbeda</TITLE>
+
+<TEXT>
+Dalam <TIMEX3 tid="t1" type="DURATION" value="P1D">sehari</TIMEX3>, terjadi dua kebakaran hutan dan lahan di lokasi berbeda. 
+
+Karhutla pertama terjadi di Kelurahan Nenang, disusul tak lama di Kelurahan Petung. 
+
+Kepala Subbid Logistik dan Peralatan BPBD Kabupaten PPU Hj Nurlaila menjelaskan, kebakaran lahan di RT 15 Kelurahan Nenang terjadi <TIMEX3 tid="t2" type="TIME" value="2019-08-09T13:58">pukul 13.58</TIMEX3> Wita. 
+
+Penyebabnya disinyalir melebarnya api akibar pembakaran sampah. 
+
+" Bapak Ibrahim (40), membakar sampah di belakang rumahnya, namun karena angin cukup kencang, sehingga mengakibatkan api dengan cepat merember ke daerah sekitarnya, " jelas Kepala Subbid Logistik dan Peralatan BPBD Kabupaten PPU Hj Nurlaila, <TIMEX3 tid="t3" type="DATE" value="2019-08-10">Sabtu (10/8/2019)</TIMEX3>. 
+
+Luas lahan yang terbakar kurang lebih 0,5 hektar. 
+
+Api berhasil dipadamkan menggunakan 2 armada PMK Pos Penajam, 2 unit mobil RTU milik BPBD PPU. 
+
+Satu unit mobil patroli Polsek Penajam dan satu unit mobil tangki Dinas Pertanian (Distan) juga membantu memadamkan api. 
+
+Api berhasil dipadamkan. 
+
+Setelah itu dilakukan pendinginan atau clean up oleh daerah yang berasap untuk meminimalisir potensi munculnya api kembali. 
+
+Sedangkan karhutla di Kelurahan Petung, terjadi di RT 04, <TIMEX3 tid="t4" type="TIME" value="2019-08-09T14:40">pukul 14.40</TIMEX3> Wita. 
+
+Kejadian bermula saat PMK Pos Petung mendapatkan laporan dari masyarakat bahwa terlihat api di lokasi tersebut. 
+
+PMK Pos Petung beserta Pospol Petung langsung tanggap, dengan bergegas menuju lokasi untuk tindakan pemadaman. 
+
+Proses pemadaman selesai <TIMEX3 tid="t5" type="TIME" value="2019-08-09T15:30">pukul 15.30</TIMEX3> Wita menggunakan 2 unit armada PMK. 
+
+BPBD langsung berkoordinasi dengan PMK Pos Petung dan Pospol Petung untuk kebutuhan laporan dan pendataan. 
+
+Lahan yang terbakar jenis semak belukar seluas lebih kurang 50 x 50 m. " Sumber informasi dari Pospol Petung, Api diduga berasal dari puntung rokok, " sambung Kepala Subbid Logistik dan Peralatan BPBD Kabupaten PPU Hj Nurlaila. 
+
+// Masyarakat nampaknya betul-betul harus mengindahkan imbauan Pemerintah Kabupaten PPU juga instansi terkait lain perihal kewaspadaan dalam pembakaran didekat atau lokasi karhutla. 
+
+Karhutla bisa terjadi bukan hanya karena sengaja dibakar, namun kelalaian warga juga bisa menjadi penyebab penting terjadinya karhutla. 
+
+(*) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0400</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-02" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-02</TIMEX3></DCT>
+
+<TITLE>Kekeringan Mulai Landa Depok, PDAM Siapkan 3 Mobil Tangki</TITLE>
+
+<TEXT>
+KEKERINGAN mulai melanda sejumlah wilayah di Depok dalam <TIMEX3 tid="t1" type="DURATION" value="P1W">sepekan</TIMEX3> terakhir. 
+
+Akibatnya warga cukup kesulitan mendapatkan air bersih meski menggunakan mesin pompa air. 
+
+Untuk membantu warga yang kesulitan mendapatkan air bersih itu, PDAM Tirta Asasta Kota Depok menyiapkan tiga mobil tangki air berkapasitas <TIMEX3 tid="t2" type="DATE" value="4000">4000</TIMEX3> liter dan <TIMEX3 tid="t3" type="DATE" value="5000">5000</TIMEX3> liter. 
+
+Mobil tangki ini siap mendistribusikan air bersih ke pemukiman warga yang kekeringan. 
+
+Hal itu dikatakan Manajer Pemasaran PDAM Tirta Asasta Depok Imas Dyah Pitaloka, kepada Warta Kota, <TIMEX3 tid="t4" type="DATE" value="2018-10-02">Selasa (2/10/2018)</TIMEX3>. 
+
+" Untuk membantu warga yang kesulitan air bersih atau kekeringan, PDAM Tirta Asasta Kota Depok menyiapkan 3 armada mobil Tangki yang siap mengantarkan air bersih ke lokasi warga yang kekeringan, " kata Imas. 
+
+Ia mengatakan pada <TIMEX3 tid="t5" type="DATE" value="2018-09-28">Jumat (28/9/2018) lalu</TIMEX3>, pihaknya mengrimkan bantuan 2 mobil tangki berkapasitas <TIMEX3 tid="t6" type="DATE" value="4000">4000</TIMEX3> liter dan <TIMEX3 tid="t7" type="DATE" value="5000">5000</TIMEX3> liter ke warga Kampung Rawa Geni, Kelurahan Ratu Jaya, Cipayung, Depok, yang sempat mengalami kekeringan. 
+
+" Bantuan 2 mobil tangki kami kirimkan setelah ada laporan dan permintaan dari warga melalui RT hingga ke kepala desanya atau Lurah, setempat " katanya. 
+
+Imas menjelaskan ke depan, bagi warga atau masyarakat yang membutuhkan air bersih dan ingin mendapat bantuan air dari PDAM Depok agar berkoordinasi dengan lurah atau kepala desanya untuk meminta bantuan air bersih. 
+
+" Jadi permintaan bantuan, tidak langsung ke PDAM tetapi melalui Lurah atau perangkat kelurahan. 
+
+Ini supaya pemberian bantuan air bersih benar-bebar tepat sasaran ke warga yang belum di salurkan atau diberi bantuan air bersih, " kata Imas.Sebelumnya sejumlah warga di Kampung Rawa Geni, Kelurahan Ratu Jaya, Kecamatan Cipayung, Depok sempat mengalami kesulitan air bersih karena air tak keluar dari sumur pompa mereka.Salah seorang warga Toni mengatakan meski sumur untuk mesin pompanya sedalam 17 meter, air tak keluar. 
+
+Hal itu katanya terjadi sejak <TIMEX3 tid="t8" type="DATE" value="2018-08">pertengahan Agustus 2018</TIMEX3>. " Jadi harus didalemin sampai 20 meter, baru keluar air. 
+
+Untuk daleminnya mesti ngeluarin uang Rp 500 ribu, " kata dia.Selain itu kata dia jaringan PDAM belum masu di wikayahnya.Toni berharap, pemerintah segera membuat sumur artesis sebagai solusi kekeringan di wilayah Ratujaya Kota Depok. " <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> masih bisa bertahan dengan dapat air beberapa ember <TIMEX3 tid="t10" type="DURATION" value="P1D">sehari</TIMEX3> untuk mandi dan cuci. 
+
+Yang kami khawtirkan kalau benar-benar kering dan air gak keluar sama sekali, " kata dia. 
+</TEXT>
+
+</TimeML>

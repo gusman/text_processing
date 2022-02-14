@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0189</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>11 Jam Tertimbun Puing-puing Kayu, Bocah 5 Tahun Selamat dari Tsunami Banten dan Lampung</TITLE>
+
+<TEXT>
+Tsunami menerjang kawasan Pandeglang, Banten, dan Lampung Selatan pada <TIMEX3 tid="t1" type="TIME" value="2018-12-22T21:27">Sabtu (22/12/2018) pukul 21.27 WIB</TIMEX3>. 
+
+Berdasarkan penjelasan Sutopo Purwo Nugroho dan Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), tsunami Banten disebabkan bukan karena gempa. 
+
+Melainkan karena pengaruh aktivitas erupsi Gunung Anak Krakatau. 
+
+" Benar, ada tsunami yang menerjang pantai di Selat Sunda pada <TIMEX3 tid="t2" type="DATE" value="2018-12-22">Sabtu (22/12/2018)</TIMEX3> sekitar <TIMEX3 tid="t3" type="TIME" value="2018-12-22T20:27">pukul 20.27 WIB</TIMEX3>. 
+
+Penyebab tsunami bukan gempa bumi. 
+
+Namun kemungkinan adanya longsor bawah laut pengaruh erupsi Gunung Anak Krakatau. 
+
+Bersamaan dengan adanya gelombang pasang akibat bulan purnama, " jelas Sutopo lewat Twitter, <TIMEX3 tid="t4" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>. 
+
+Hingga <TIMEX3 tid="t5" type="TIME" value="2018-12-23TAF">Minggu siang ini</TIMEX3>, data sementara menyebutkan korban tewas tsunami Banten mencapai 62 orang, 584 lainnya luka-luka, sementara 20 orang dinyatakan hilang. 
+
+Lewat rilis yang diterima Tribunnews, seorang bocah <TIMEX3 tid="t6" type="DURATION" value="P5Y">lima tahun</TIMEX3> korban tsunami Banten ditemukan selamat.Saat ditemukan <TIMEX3 tid="t7" type="TIME" value="2018-12-22T08:30">sekitar pukul 08.30 WIB</TIMEX3>, bocah yang diketahui bernama Ali ini berada di antara timbunan puing-puing kayu. 
+
+// Ia ditemukan di lokasi Mutiara Resort Pantai Carita. 
+
+Ali langsung mendapat pertolongan dan ditangani oleh Bid Dikes Polda Banten. 
+
+Pertolongan terhadap Ali dipimpin langsung oleh Dansat Brimob Polda Banten. 
+
+Korban Tsunami Banten Bertambah Menjadi 62 OrangPenanganan bencana tsunami yang menerjang pantai di Selat Sunda, khususnya di daerah Pandenglang, Lampung Selatan dan Serang terus bertambah. 
+
+Hingga <TIMEX3 tid="t8" type="TIME" value="2018-12-23T10:00">Minggu (23/12/2018) pukul 10.00 WIB</TIMEX3>, data sementara jumlah korban dari bencana tsunami di Selat Sunda tercatat 62 orang meninggal dunia, 584 orang luka-luka dan 20 orang hilang. 
+
+Kerugian fisik akibat tsunami tersebut, meliputi 430 unit rumah rusak berat, 9 unit hotel rusak berat, 10 kapal rusak berat dan puluhan rusak. 
+
+Rilis yang diterima Tribunnews. 
+
+com dari Kepala Pusat Data Informasi dan Humas BNPB, Sutopo Purwo Nugroho menyebutkan, data tersebut akan terus bertambah. 
+
+" Data korban jiwa dan kerusakan akan bertambah, mengingat belum semua wilayah belum dapat di data, " ujar Sutopo. 
+
+<TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> petugas masih terus melakukan pendataan, baik korban jiwa maupun kerugian.Daerah yang terdampak adalah permukiman dan kawasan wisata di sepanjang Pantai seperti Pantai Tanjung Lesung, Sumur, Teluk Lada, Penimbang dan Carita.(Tribunnews.com/Pravitri Retno W/Whiesa) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0208</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-04-25" temporalFunction="false" functionInDocument="CREATION_TIME">2018-04-25</TIMEX3></DCT>
+
+<TITLE>Cerita Warga Soal Angin Puting Beliung di Yogyakarta: Langit Gelap dan Terdengar Suara Gemuruh</TITLE>
+
+<TEXT>
+Paska angin puting beliung melanda beberapa daerah di Yogyakarta, <TIMEX3 tid="t1" type="DATE" value="2018-04-25">Rabu</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2018-04-25">(25/4/2018)</TIMEX3> masyarakat tampak bahu membahu membersihkan puing-puing rumah yang rusak akibat sapuan angin. 
+
+Di Desa Banguntapan, Bantul, Yogyakarta misalnya, masyarakat setempat sejak <TIMEX3 tid="t3" type="TIME" value="2018-04-25TMO">pagi</TIMEX3> memilah barang-barang yang rusak terdampak angin puting beliung. 
+
+Seperti diketahui, angin dengan kecepatan 63 km/jam itu menghantam rumah warga, <TIMEX3 tid="t4" type="DATE" value="2018-04-24">Selasa (24/4/2018)</TIMEX3> dalam durasi <TIMEX3 tid="t5" type="DURATION" value="PT22M">22 menit</TIMEX3>. 
+
+Di Desa Banguntapan, terdapat tiga dusun terdampak angin puting beliung. 
+
+Ketiga desa itu antara lain Sorowajan, Karangbendo, dan Karangbendo. 
+
+" Data yang masuk di tiga pedukuhan itu ada 130 rumah rusak. 
+
+Paling banyak di Sorowajan dengan jumlah 108 rumah, " ucap Istiandanu, Koordinator Forum Pengurangan Resiko Bencana (FPRB) Desa Banguntapan dikutip Grid. 
+
+ID dari Kompas. 
+
+com. 
+
+Bersama 20 orang relawan, FPRB bersama warga bahu-membahu membantu evakuasi dan pembersihan bangunan.Sementara itu di daerah Gendeng, Banciro, Gondokusuman, Kota Yogyakarta, angin menyebabkan beberapa pohon tumbang dan atap rumah warga rusak.Warga setempat, Kabul (63) menuturkan angin puting beliung terjadi begitu mendadak. 
+
+// " Tiba-tiba saja muncul, tidak ada hujan, " ujar Kabul (63) dikutip Grid. 
+
+ID dari Kompas. 
+
+com. 
+
+Berdasarkan keterangan Kabul, angin puting beliung pertama kali muncul dari arah barat, <TIMEX3 tid="t6" type="TIME" value="2018-04-24T14:00">pukul 14.00 WIB</TIMEX3>. 
+
+" Saya lihatnya muncul dari arah Barat, seperti tornado, " ungkapnya. 
+
+Seperti halnya Kabul, Ahmad Mujasto (60) warga Gendeng lainnya, mengatakan angin kencang melintas diiringi suara gemuruh. 
+
+Langit gelap, tetapi tidak hujan. 
+
+Saat angin melintas, suaranya seperti gemuruh. 
+
+Ya sekitar 10 menitan. 
+
+Atap rumah saya berterbangan, rusak " kenang Ahmad Mujasto. 
+
+Ahmad akhirnya memberanikan diri, keluar rumah ketika angin mulai reda. 
+
+Meski tercatat tidak ada korban jiwa, Ahmad dan banyak warga di Yogyakarta menjadi saksi betapa dahsyatnya puting beliung memporak-porandakan atap rumah dan pohon di sekitar mereka. 
+</TEXT>
+
+</TimeML>

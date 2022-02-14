@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0152</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-24</TIMEX3></DCT>
+
+<TITLE>900 Hektare Sawah di Kramatwatu Kekurangan Air</TITLE>
+
+<TEXT>
+Seluas 900 hektare lahan pertanian (sawah) di Kecamatan Kramatwatu, Kabupaten Serang kekurangan air. 
+
+Sawah itu tersebar di Desa Tonjong 350 hektare, Pegadingan 270 hektare, Pamengkang 150 hektare, dan Toyomerto 130 hektare. 
+
+Sawah yang kekurangan air itu disebabkan <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau</TIMEX3>. 
+
+Selain itu juga ada buka-tutup saluran irigasi Bendung Pamarayan. 
+
+Akibat kondisi itu, tanaman padi terancam rusak. 
+
+Pantauan Banten Ekspres, <TIMEX3 tid="t2" type="DATE" value="2019-07-23">Selasa (23/7)</TIMEX3>, persawahan di Desa Tonjong, Kecamatan Kramatwatu, Kabupaten Serang mongering. 
+
+Tanaman padi yang awalnya terlihat hijau <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3> mulai menguning. 
+
+Wakil Ketua Kontak Tani Nelayan Andalan (KTNA) Kecamatan Kramatwatu, Anay Hasan mengatakan kekurangan air itu sudah berlangsung selama <TIMEX3 tid="t4" type="DURATION" value="P1M">satu bulan</TIMEX3>. 
+
+Hal itu akan merugikan petani karena sudah mengeluarkan modal hingga 100 persen. 
+
+Garapan saya ada 4 hektare dengan modal sampai dengan Rp20 juta, itu belum termasuk dengan obatnya, katanya saat ditemui di persawahan Desa Tonjong. 
+
+Sebelumnya kami tidak mengetahui informasi bahwa air dari Pamarayan akan digilir giling (buka-tutup), makanya begitu ditutup di sini langsung tidak ada (air), ujarnya. 
+
+Bila kondisi itu terus berlanjut hingga <TIMEX3 tid="t5" type="DURATION" value="P2D">dua hari ke depan</TIMEX3>, kata dia, ratusan hektare tanaman padi akan gagal panen. 
+
+Saya pasrah kalau <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">dua hari ini</TIMEX3> masih tidak terairi, makanya saya sangat berharap kepada pemerintah, ujarnya. 
+
+Ia meminta kepada Pemerintah Kabupaten (Pemkab) Serang menunda buka-tutup Bendung Pamarayan hingga <TIMEX3 tid="t7" type="DURATION" value="2019-08">1 bulan ke depan</TIMEX3>, sehingga kebutuhan air petani dapat terpenuhi hingga masa panen. 
+
+Istilahnya sedang hamil tinggal <TIMEX3 tid="t8" type="DURATION" value="P1M">sebulan</TIMEX3> lagi pasti panen. 
+
+Ini juga sesuai dengan pengalaman gilir giling sebelumnya, di <TIMEX3 tid="t9" type="DATE" value="UNKNOWN">sepuluh hari itu</TIMEX3> airnya belum sampai ke Kramatwatu, paparnya. 
+
+Di tempat yang sama, Kepala Seksi (Kasi) Ekonomi dan Pembangunan (Ekbang), Kecamatan Kramatwatu, Mamak Abror mengatakan sampai <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah ada beberapa desa yang melaporkan lahan pertaniannya kekurangan air. 
+
+<TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kita sedang inventarisir berapa total keseluruhan sawah yang kekurangan air, katanya. 
+
+Menurut dia, pihaknya akan melaporkan ke Camat Kramatwatu total luas sawah yang kekeringan dan meneruskannya ke Dinas Pertanian (Distan) Kabupaten Serang. 
+
+Kita respon cepat dan disampaikan segera agar petani mendapat solusi terbaik. 
+
+Kami khawatir petani akan rugi, karena mereka juga mendapatkan uang cukup sulit, paparnya. 
+
+Kepala Bidang Tanaman Pangan dan Hortikultura Distan Kabupaten Serang, Zaldi Dhuhana mengatakan <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah ada 300 hektare lahan pertanian yang mengalami kekeringan. 
+
+Selain itu ada 14 ribu hektare juga di jalur Pamarayan barat yang akan mengalami kekeringan akibat <TIMEX3 tid="t13" type="DATE" value="2019-SU">musim kemarau</TIMEX3> dan gilir giling bendungan Pamarayan. 
+
+Jalur itu mengairi beberapa kecamatan yaitu Kecamatan Lebakwangi, Ciruas, Pontang, Kramatwatu, dan Tirtayasa, katanya saat dihubungi melalui sambungan telepon seluler.Menurut dia, buka-tutup Bendungan Pamarayan terjadi karena kurangnya komunikasi. 
+
+Sebab sebelumnya bendungan sempat dibuka namun sayangnya tidak ada petani yang menanam padi. 
+
+Dibuka pada bulan puasa <TIMEX3 tid="t14" type="DATE" value="2019-07-23">kemarin</TIMEX3>, dan <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> ditutup malah petani menanam. 
+
+Harusnya memang tidak seperti itu karena jarang <TIMEX3 tid="t16" type="SET" value="UNKNOWN">sekali bulan</TIMEX3> puasa petani menanam padi, tuturnya.Bila terjadi kerusakan pada tanaman padi, kata dia, pihaknya telah menyediakan seribu benih padi sebagai pengganti. 
+
+Sementara untuk yang mengikuti asuransi, akan mendapat penggantian Rp6 juta per hektare. 
+
+Yang ikut asuransi tinggal di klaim pusonya, dan untuk pemberian benih saya yakin itu tidak bisa mengganti kerugian, tetapi paling tidak dapat mengurangi, ujarnya. 
+
+(mam/tnt) 
+</TEXT>
+
+</TimeML>

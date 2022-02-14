@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0288</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-11" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-11</TIMEX3></DCT>
+
+<TITLE>Banjir Rendam Rumah Warga di Desa Molingkapoto</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2016-12-11">Minggu (11/12)</TIMEX3>, sejumlah rumah warga di Desa Molingkapoto, Kabupaten Gorontalo Utara, terendam banjir. 
+
+Menurut informasi, banjir terjadi akibat meluapnya Sungai Londono. 
+
+Alhasil, tak kurang 6 rumah warga terendam air, setinggi lutut orang dewasa. 
+
+Rumah yang terendam, rata-rata lokasinya tak jauh dari Jembatan Baypas sungai tersebut. 
+
+Air mulai naik pada <TIMEX3 tid="t2" type="TIME" value="2016-12-10T13:45">pukul 13.45</TIMEX3> wita. 
+
+Sejumlah warga pemilik rumah, memilih bertahan, kendati banjir perlahan mulai meninggi. 
+
+Selain rumah warga, pantauan awak media ini Jalan Trans Sulawesi juga ikut terendam, sehingga membuat kendaraan kesulitan dan hati-hati melintas. 
+
+Bahkan luapan air sungai tersebut, juga merusak sejumlah tanaman padi milik petani setempat. 
+
+Sampai dengan berita ini di turunkan, aparat desa setempat dan warga, masih berupaya menghubungi instansi terkait, untuk menangani bencana tersebut. 
+
+(Rg-62). 
+
+
+</TEXT>
+
+</TimeML>

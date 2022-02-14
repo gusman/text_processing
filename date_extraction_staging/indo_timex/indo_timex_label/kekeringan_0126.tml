@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0126</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-25</TIMEX3></DCT>
+
+<TITLE>Di Kabupaten Serang, 167,5 Hektare Padi Puso</TITLE>
+
+<TEXT>
+Padi yang ditanam pada lahan seluas 167,5 hektare di Kabupaten Serang mengalami puso atau gagal panen. 
+
+Penyebabnya, padi kekurangan air dampak kemarau panjang. 
+
+Kepala Dinas Pertanian Kabupaten Serang Dadang Hermawan mengatakan, <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau</TIMEX3> panjang berdampak pada lahan pertanian di wilayah Kabupaten Serang. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, area sawah yang terdampak kekeringan di Kabupaten Serang mencapai seluas 4.083,5 hektare. 
+
+Yang terkena puso ada 167,5 hektare akibat kekeringan dampak dari kemarau panjang, selain penutupan irigasi Pamarayan Barat, ungkap Dadang kepada wartawan di halaman Pendopo Bupati Serang, <TIMEX3 tid="t3" type="DATE" value="2019-09-24">Selasa (24/9)</TIMEX3>. 
+
+Padi yang terkena puso, kata Dadang, merupakan data <TIMEX3 tid="t4" type="DATE" value="2019-Q2">periode April</TIMEX3> hingga <TIMEX3 tid="t5" type="DATE" value="2019-09">September</TIMEX3> tahun ini. 
+
+Dadang mengaku, pihaknya sudah mengimbau para petani agar tidak menanam padi pada <TIMEX3 tid="t6" type="DATE" value="2019-SU">musim kemarau</TIMEX3> dan masa penutupan irigasi Pamarayan. 
+
+Petani disarankan beralih tanam ke tanaman hortikultura. 
+
+Tapi ternyata masih ada petani yang menanam padi, tukasnya. 
+
+Dadang juga menyarankan, petani agar mengikuti program asurasi usaha tani padi (AUTP), agar kerugian tanam bisa mendapat klaim sebesar Rp6 juta per hektare. 
+
+Sementara bagi yang tidak ikut AUTP akan diberikan bantuan bibit benih. 
+
+Kita sudah ada stok bibit benih untuk bantuan yang puso, terangnya. 
+
+Terkait itu, Ketua Kontak Tani dan Nelayan Andalan (KTNA) Kabupaten Serang Subagyo membenarkan, sejumlah lahan pertanian di wilayahnya mengalami gagal panen. 
+
+Hal itu dampak kemarau panjang selain penutupan irigasi Pamarayan. 
+
+Terjadi misskomunikasi. 
+
+Saat irigasi dibuka, petani tidak menanam, saat ditutup petani menanam, terangnya. 
+
+Terkait klaim asuransi program AUTP yang bekerja sama dengan Jasindo, dijelaskan Subagyo, hanya akan dicairkan jika lahan yang terkena puso mencapai 85 persen dari satu hamparan. 
+
+Jika tidak, klaim tidak bisa dicairkan. 
+
+Kalau versi petani, 30 persen saja (lahan puso-red) itu sudah puso, jelasnya. 
+
+Mudah-mudahan pemerintah memberikan bantuan kepada petani yang mengalami puso agar dapat kembali tanam, harapnya. 
+
+(jek/zai) 
+</TEXT>
+
+</TimeML>

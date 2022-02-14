@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0623</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-17" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-17</TIMEX3></DCT>
+
+<TITLE>Setelah Diterjang Banjir, Kondisi Tiga Wilayah Sepaku kembali Normal</TITLE>
+
+<TEXT>
+Setelah sempat diterjang banjir dengan ketinggian air antara 80 hingga 100 centimeter pada <TIMEX3 tid="t1" type="DATE" value="2019-06-15">Sabtu (15/06/2019)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2019-06-16T16:50">pukul 16.50</TIMEX3> Wita, <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3> kondisi tiga wilayah di Kecamatan Sepaku, Kabupaten Penajam Paser Utara (PPU) kembali normal pasalnya air telah menyurut. 
+
+Demikian diungkapkan, Kasubid Logistik dan Peralatan Badan Penanggulangan Bencana Daerah (BPBD) PPU, Hj Nurlaila, kepada newskaltim. 
+
+com, <TIMEX3 tid="t4" type="DATE" value="2019-06-17">Senin (17/06/2019)</TIMEX3>. 
+
+Menurutnya, banjir yang terjadi diakibatkan tingginya intensitas curah hujan dan berdampak bencana di tiga wilayah di kecamatan Sepaku yakni, di Desa Karang Jinawi, Desa Sukaraja dan Kelurahan Sepaku. 
+
+Penyebab terjadinya banjir ketika itu akibat hujan dengan intensitas yang cukup tinggi dengan durasi yang lama sejak <TIMEX3 tid="t5" type="TIME" value="2019-06-16T04:00">pukul 04.00</TIMEX3> Wita <TIMEX3 tid="t6" type="TIME" value="2019-06-17TMO">dini hari</TIMEX3> hingga <TIMEX3 tid="t7" type="TIME" value="2019-06-16TAF">sore hari</TIMEX3>, ujarnya. 
+
+Kondisi banjir yang terjadi di desa Karang Jinawi <TIMEX3 tid="t8" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3> terbilang cukup parah air mencapai setinggi dada orang dewasaDibeberkan Nurlaila, dampak dari hujan tersebut membuat meluapnya sungai sehingga masuk ke pemukiman warga dengan jumlah warga terdampak antara lain, Desa Karang Jinawi di RT 01 jumlah Kepala Keluarga (KK) 13 sebanyak 46 jiwa, RT 02 berjumlah 10 KK dan 29 jiwa, RT 03 sebanyak tiga KK delapan jiwa, RT 04 jumlah KK lima dan jiwa 14, RT 05 sejumlah 27 KK 80 Jiwa, RT 06 terdapat tujuh KK dan jumlah jiwa 21 serta di RT 08 jumlah enam KK dengan 24 Jiwa total korban terdampak di Desa Karang Jinawi 71 KK dengan jumlah jiwa 222. 
+
+Meskipun hampir seluruh korban terdampak banjir di Desa ini, namun tidak ada yang mengungsi karena masih terdapat bagian rumah yang telah ditinggikan oleh warga, katanya. 
+
+Sementara itu, lanjutnya, kondisi warga terdampak paling parah dan tidak bisa melakukan aktivitas masak memasak dalam rumah ada sebanyak enam rumah dengan jumlah KK delapan dan jiwa 22. 
+
+Sedangkan untuk di Desa Sukaraja, tambahnya, wilayah yang terdampak banjir terjadi di RT 24 satu rumah dan RT 25 berpotensi 10 Rumah. 
+
+Jadi secara keseluruhan, belum ada rumah warga yang terdampak cukup parah karena air masih tergenang di halaman rumah saja. 
+
+Di Kelurahan Sepaku banjir terdampak di RT 01 dan RT 02, tetapi secara keseluruhan juga belum ada rumah warga yang terdampak cukup parah, air masih tergenang di halaman rumah, urainya. 
+
+Upaya tim gabungan dalam penanggulangan bencana ini, lanjutnya, adalah langsung mendatangi lokasi ke titik banjir dan melakukan pendataan, pemantauan dan lain lain kebutuhan lapangan. 
+
+Tim di lapangan terdiri dari Koramil dan Polsek Sepaku, BPBD PPU, seluruh aparat desa, relawan Santana SPMAA serta warga. 
+
+Untuk Desa Karang Jinawi informasi yang kami peroleh, selain intensitas hujan yang tinggi dengan durasi lama juga dikarenakan penyebab banjir sama seperti <TIMEX3 tid="t9" type="DATE" value="2017">tahun 2017 lalu</TIMEX3>, yaitu banyaknya limbah perusahaan berupa potongan batang pohon besar memenuhi sungai sungai di Desa Karang Jinawi sehingga air meluber ke halaman dan masuk ke rumah warga, pungkasnya. 
+</TEXT>
+
+</TimeML>

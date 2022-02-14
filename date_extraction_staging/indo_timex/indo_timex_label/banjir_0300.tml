@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0300</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">2017-01-28</TIMEX3></DCT>
+
+<TITLE>Banjir Landa Desa Tangkobu</TITLE>
+
+<TEXT>
+Setelah Kabupaten Gorontalo Utara dan Pohuwato, <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> giliran Kabupaten Boalemo yang dilanda bencana banjir. 
+
+Tejadi mulai <TIMEX3 tid="t2" type="TIME" value="2017-01-21T17:00">pukul 17.00 WITA Sabtu</TIMEX3> (28/01) di Desa Tangkobu, Kecamatan Paguyaman. 
+
+Puluhan rumah warga baik yang berada ditepian jalan trans Sulawesi dan di pedalaman desa tersebut, direndam air setinggi sekitar 15 Cm, dan sekitar 500 meter dari badan jalan trans sulawesi direndam air dengan ketinggian sekitar 30 Cm. 
+
+Akibatnya membuat pengguna jalan sulit melintas, karena lajunya arus air yang berada di badan jalan tersebut. 
+
+Dari pengakuan Aisyah, ibu rumah tangga berusia <TIMEX3 tid="t3" type="DURATION" value="P56Y">56 tahun</TIMEX3> juga merupakan warga setempat, bahwa banjir itu terjadi diduga diakibatkan karena intensitas curah hujan di Kabupaten Boalemo <TIMEX3 tid="t4" type="DATE" value="PAST_REF">saat itu</TIMEX3> cukup tinggi. 
+
+Sehingga nya membuat sejumlah air di saluran drainase meluap kejalan, sampai memasuki lahan rumah warga di desa tesebut. 
+
+Beruntung dalam bencana itu tidak ada korban jiwa, namun air yang menggenangi rumah mereka pada <TIMEX3 tid="t5" type="SET" value="PT1H">setiap jam</TIMEX3> tingginya terus bertambah. 
+
+Air ini berasal dari pegunungan yang ada di Desa Tangkobu, dan kami belum mau mengungsi, karena masih mengevakuasi barang kami jangan sampai tergenang air, ujarnya. 
+
+Sampai berita ini diturunkan, Pemerintah Daerah setempat masih melakukan koordinasi pada instansi terkait, untuk melakukan evakuasi banjir di desa itu. 
+
+(rg-62) 
+</TEXT>
+
+</TimeML>

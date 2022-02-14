@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0925</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-24</TIMEX3></DCT>
+
+<TITLE>Ibunda Sempat Syok Dengar Kabar Ifan Seventeen Jadi Korban Tsunami di Banten</TITLE>
+
+<TEXT>
+Sebelum manggung di Banten, Ifan Seventeen berada di rumahnya di Pontianak. 
+
+Dijumpai tribunpontianak. 
+
+co. 
+
+id, <TIMEX3 tid="t1" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3> di kediaman Ifan Seventeen Jl Perdana Komplek Bali Agung 2, kerabat yang <TIMEX3 tid="t2" type="DATE" value="PAST_REF">saat itu</TIMEX3> tinggal dirumah Ifan, Muhammad Arif (25) mengaku syok dan terkejut saat menerima kabar kalau Ifan menjadi salah satu korban tsunami saat sedang manggung di pantai Tanjung Lesung, BantenArif menuturkan bahwa <TIMEX3 tid="t3" type="TIME" value="2018-12-19TNI">Rabu (19/12/2018) malam</TIMEX3> Ifan Seventeen datang ke Pontianak, <TIMEX3 tid="t4" type="TIME" value="2018-12-20TAF">Kamis (20/12) siang</TIMEX3> Ifan ada dirumahnya di Jl Perdana, Komplek Bali Agung 2, <TIMEX3 tid="t5" type="TIME" value="2018-12-21">Jumat (21/12) pagi</TIMEX3>. 
+
+Ifan berangkat ke Tangerang untuk manggung selesai disitu Ifan dan team nya geser ke Banten, <TIMEX3 tid="t6" type="DATE" value="2018-12-22">Sabtu (22/12)</TIMEX3> Irfan sedang manggung dan saat itulah ia terkena musibah tsunami. 
+
+Arif mengatakan Ifan berangkat bersama 7 orang keluarganya yang akan berlibur ke pantai Tanjung Lesung, Banten yakni Istri Ifan, saudaranya Heri dan Dani, Istri Idan, serta dua orang ponakan Ifan anak dari Idan yakni Kenji dan Danis. 
+
+<TIMEX3 tid="t7" type="TIME" value="2018-12-23T22">Sekitar jam 22.00 WIB</TIMEX3> Ifan menelpon ibundanya Mama Uti, yang <TIMEX3 tid="t8" type="DATE" value="PAST_REF">saat itu</TIMEX3> berada di Sambas mengatakan bahwa ia terkena musibah. 
+
+" Bang Ifan menelpon Mama Uti pinjam Hp warga, mendengar kabar itu Mama Uti terkejut dan syok, terus menangis tak henti-henti sambil berdoa, " ujar Arif. 
+
+Mama Uti menghubungi Ferdy abang angkat dari Ifan, kemudian Ferdy memberitahukan kepada Arif yang <TIMEX3 tid="t9" type="DATE" value="PAST_REF">saat itu</TIMEX3> sedang berada dirumah Ifan di Pontianak.Arif mengaku terkahir bertemu Ifan <TIMEX3 tid="t10" type="TIME" value="2018-12-22TMO">Jumat (22/12) pagi</TIMEX3>, saat Ifan mau berangkat ke Tangerang, karena ada undangan main oleh Pemerintah Kota Tangerang. 
+
+// Sesaat sebelum kejadian Arif sempat mengirim pesan Whatsapp kepada Ifan. 
+
+" <TIMEX3 tid="t11" type="TIME" value="2018-12-23T09">Jam 09.00 WIB</TIMEX3> saya masih berhubungan dengan bang Ifan, kemudian <TIMEX3 tid="t12" type="TIME" value="2018-12-23T10">jam 10.00</TIMEX3> saya chat dia sudah tidak deliv, " ujar Arif. 
+
+Bunyi chat terakhir Arif yakni bertanya, " bang main ke?, " chat tersebut masuk, " centang dua, " ucap Arif. 
+
+Setelah dapat kabar ada tsunami, Arif mengirim pesan Whatsapp lagi kepada Ifan, namun tidak delivery. 
+
+Sampai <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> Arif belum mendapat kabar yang pasti terkait kondisi Ifan Seventeen di Banten " Saya belum ada berhubungan secara langsung dengan bang Ifan, namun saya sudah mendengar kalau bang Ifan selamat, beberapa temannya dinyatakan tidak selamat dari kejadian itu, " tuturnya. 
+
+Arif mengaku mendengar kabar bahwa Istri Ifan Seventeen belum ditemukan, dan dia masih berharap-harap cemas, sembari mendoakan keselamatan mereka. 
+
+" Kepada seluruh masyarakat Indonesia, khususnya Pontianak, saya sebagai kerabat bang Ifan, memohon do'a dari kalian agar bang Ifan dan keluarganya yang <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sedang terkena musibah baik-baik saja, " pintanya.Sebelumnya pada <TIMEX3 tid="t15" type="DATE" value="2018-12-19">hari Rabu (19/12)</TIMEX3> tepat <TIMEX3 tid="t16" type="TIME" value="2018-12-23T19:23">pukul 19:23 WIB</TIMEX3> Ifan Seventeen mengirimkan sebuah pesan Whatsapp kepada Arif dengan Judul " Pulang Karena Cinta, " kemudian <TIMEX3 tid="t17" type="DATE" value="2018-12-20">Jumat (20/12)</TIMEX3> Arif sempat mengirimkan sebuah instastory sebuah minuman coklat bertuliskan " Balek Karne Cinte " dan itu di replay oleh Ifan dengan tertawa. 
+</TEXT>
+
+</TimeML>

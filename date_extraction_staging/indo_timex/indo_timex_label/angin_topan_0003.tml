@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0003</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-01-04" temporalFunction="false" functionInDocument="CREATION_TIME">2018-01-04</TIMEX3></DCT>
+
+<TITLE>Pohon Tumbang Timpa Warga Korban Meninggal Dalam Kapal BRR</TITLE>
+
+<TEXT>
+Seorang pengendara motor dilaporkan mengalami luka berat hingga tewas akibat tertimpa pohon tumbang di ruas jalan Jurong Perikanan, Gampong Kuta Timu, Kecamatan Sukakarya Sabang, <TIMEX3 tid="t1" type="DATE" value="2018-01-03">Rabu (3/1)</TIMEX3>. 
+
+Selain menewaskan seorang pengendara motor, pohon juga menimpa satu unit rumah dan merobohkan dua tiang listrik milik PLN. 
+
+Kapolres Sabang AKBP Slamet Wahyudi, mengatakan korban Hasra Rudi (38), warga Jurong Putro Ijo, Gampong Aneuk Laot, Kecamatan Sukakarya, Kota Sabang. 
+
+Ia mengalami luka berat tertimpa dahan pohon tumbang, meninggal dunia di kapal BRR saat hendak dirujuk ke rumah Sakit Zainoel Abidin Banda Aceh. 
+
+Peristiwa tersebut terjadi saat kondisi dalam keadaan hujan disertai angin kencang. 
+
+Disaat itulah korban Hasra Rudi, pedagang dengan menggunakan sepeda motor jenis SUPRA X125 berwarna Biru, No. 
+
+Pol BL <TIMEX3 tid="t2" type="DATE" value="4014">4014</TIMEX3> AM melaju dari arah Aneuk Laot menuju ke kota. 
+
+Namun naas, ketika sepeda motor korban melintas di ruas Jalan Jurong Perikanan tiba-tiba saja tumbang pohon berukuran besar. 
+
+Kita perkirakan korban <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3> panik tidak lagi mampu mengelakkan kendaraannya dari timpaan dahan kayu yang tumbang, jelasnya. 
+
+Akibatnya kepala korban bagian belakang tertimpa dahan kayu, dan sepeda motor korban juga ikut tertimpa. 
+
+Masyarakat yang mengetahui terjadinya peristiwa itu langsung menolong korban. 
+
+Membawanya ke RSU Kota Sabang untuk mendapatkan pertolongan medis, kata Kapolres. 
+
+Katanya, saat korban dibawa ke rumah sakit kondisinya sudah dalam keadaan tidak sadar. 
+
+Sehingga diambil tindakan pihak Rumah Sakit Umum Sabang penanganan pasien keadaan darurat sementara, lalu dilanjutkan dengan memberikan rujukan atas korban ke RSU Zainoel Abidin di Banda Aceh. 
+
+Untuk memfasilitasi rujukan dimaksud pihak RSU Sabang menugaskan dua orang perawat dan satu ambulan beserta supir dan alat-alat medis yang diperlukan selama perjalanan menuju tempat rujukan. 
+
+Pihak RSU Sabang memberikan informasi korban tertimpa pohon akan dibawa ke Banda Aceh menggunakan kapal Ferry KMP BRR, sebutnya. 
+
+Tapi pada <TIMEX3 tid="t4" type="TIME" value="2018-01-03T11:20">pukul 11.20 WIB</TIMEX3>, diperoleh informasi dari pihak kapal KMP BRR korban yang rencananya akan dirujuk ke Zainoel Abidin harus dibawa kembali ke Sabang. 
+
+Saat kapal baru melintas perairan Ujong Seuke terjadi cuaca buruk yang mengharuskan kapten menghentikan perjalanan dan kembali ke Pelabuhan Balohan Sabang, jelasnya lagi. 
+
+Setibanya di Pelabuhan Sabang korban dinyatakan meninggal dunia oleh pihak medis, <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> almarhum dibawa ke rumah duka, untuk kemudian di kebumikan. 
+
+(han/mai) 
+</TEXT>
+
+</TimeML>

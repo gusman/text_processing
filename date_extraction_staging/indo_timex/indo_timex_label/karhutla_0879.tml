@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0879</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-09-01" temporalFunction="false" functionInDocument="CREATION_TIME">2016-09-01</TIMEX3></DCT>
+
+<TITLE>BMKG Deteksi 10 Titik Api di Kabupaten Merauke</TITLE>
+
+<TEXT>
+Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Kabupaten Merauke melakukan deteksi kebakaran hutan melalui satelit di beberapa wilayah di daerah pedalaman. 
+
+Dari deteksi yang dilakukan, ditemukan sepuluh titik api. 
+
+Namun demikian, langsung dipadamkan warga setempat. 
+
+Kalau dibandingkan <TIMEX3 tid="t1" type="DATE" value="2015">tahun 2015</TIMEX3>, terdapat ratusan titik api di berbagai tempat. 
+
+Tetapi <TIMEX3 tid="t2" type="DATE" value="2016">tahun ini</TIMEX3>, mengalami penurunan drastis, kata Kepala BMKG Kabupaten Merauke, Sugeng Sudarjo saat ditemui Jubi di ruang kerjanya <TIMEX3 tid="t3" type="DATE" value="2016-09-01">Kamis (1/9/2016)</TIMEX3>. 
+
+Secara umum, demikian Sugeng, titik api lebih banyak di Distrik Waan dan Kimaam. 
+
+Itu karena masyarakat membakar hutan. 
+
+Memang hanya satu atau <TIMEX3 tid="t4" type="DURATION" value="P2D">dua hari</TIMEX3> kebakaran dan tidak merambah dan meluas ke tempat lain. 
+
+Karena langsung dipadamkan masyarakat setempat, ujarnya. 
+
+Pemantauan melalui satelit, lanjut dia, tidak hanya di Merauke tetapi di tiga kabupaten pemekaran lain yakni Boven Digoel, Mappi serta Asmat. 
+
+Ketiga kabupaten itu, tidak terjadi kebakaran. 
+
+Hanya di beberapa wilayah pedalaman di Kabupaten Merauke. 
+
+Bupati Merauke, Frederikus Gebze mengimbau kepada masyarakat agar tetap menjaga dan memelihara hutan dengan baik. 
+
+Tidak boleh membakar sembarangan, karena bisa berdampak besar terhadap ekosistem yang ada di dalam. 
+
+Kita harus tetap memelihara hutan dengan baik. 
+
+Tidak boleh dibakar apalagi pada <TIMEX3 tid="t5" type="DATE" value="2016-SU">musim kemarau</TIMEX3> sekarang. 
+
+Karena dampaknya sangat luas, dimana akan merambah hutan lain di sekeliling, katanya. 
+
+
+</TEXT>
+
+</TimeML>

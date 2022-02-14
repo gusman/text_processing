@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0064</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-16</TIMEX3></DCT>
+
+<TITLE>Genteng Berjatuhan dan Plafon Jebol Akibat Gempa, Siswa SD No 1 Ungasan Dipulangkan</TITLE>
+
+<TEXT>
+Gempabumi yang terjadi <TIMEX3 tid="t1" type="TIME" value="2019-07-16TMO">Selasa (16/7) pagi</TIMEX3> mengakibatkan sejumlah kerusakan. 
+
+Salah satunya di SD No 1 Ungasan, Kuta Selatan. 
+
+Dari informasi yang berhasil dihimpun, sebanyak 3 siswa dan guru luka-luka akibat tertimpa genteng. 
+
+Genteng yang ada di sekolah itu berjatuhan karena gempabumi berkekuatan 5,8 SR itu. 
+
+Tak hanya genteng yang berjatuhan, gempabumi yang terjadi <TIMEX3 tid="t2" type="TIME" value="2019-07-15T08:18">sekitar pukul 08.18</TIMEX3> Wita itu pun mengakibatkan plafon di ruangan jebol. 
+
+Murid-murid pun dipulangkan karena situasi belajar mengajar sudah tidak kondusif. 
+
+Menurut penuturan Kepala Sekolah SD no. 
+
+1 Ungasan, Ni Made Asri S. 
+
+Pd. 
+
+Sd. 
+
+, saat kejadian gempa, seluruh siswa dan guru panik. 
+
+Pihaknya mengaku sedih, karena <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3>, guru kelas 1 sedang berada di kelas sedang menemani siswa. 
+
+Akibat kena runtuhan genteng, guru atas nama Ni Nengah Sukensi, mengalami luka di kepala. 
+
+Sedangkan tiga siswa lainnya juga mengalami luka dan sudah dibawa ke puskesmas terdekat. 
+
+. 
+
+Meski sudah beberapa kali dilakukan renovasi, namun diakui, kondisi bangunan yang cukup lama, juga sangat mengkhawatirkan. 
+
+Akibat kondisi ini, siswa terpaksa dipulangkan. 
+
+Sedangkan untuk <TIMEX3 tid="t4" type="DATE" value="2019-07-17">esok harinya</TIMEX3>, siswa juga akan diliburkan sementara, sampai menunggu keputusan dari UPT Kuta Selatan. 
+
+Berdasarkan laporan BMKG, gempa mengguncang Bali itu terjadi di selatan Bali, wilayah Samudera Hindia selatan Bali-Nusa Tenggara. 
+
+Subduksi Lempeng Indo-Australia yang menyusup ke bawah Lempang Eurasia merupakan pemicu gempabumi ini. 
+
+Dari keterangan resminya, Kepala Pusat Gempabumi dan Tsunami BMKG, Rahmat Triyono, S.T., Dipl. 
+
+Seis, M.Sc mengatakan hasil analisis mekanisme sumber menunjukkan bahwa gempabumi ini dibangkitkan oleh deformasi batuan dengan mekanisme pergerakan jenis naik mendatar (oblique thrust fault). 
+
+(Yudi Karnaedi/balipost) 
+</TEXT>
+
+</TimeML>

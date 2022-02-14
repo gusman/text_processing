@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0388</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Cium dan Peluk Berkali-kali Jelang Berangkat Manggung, Istri Gitaris Seventeen: Pamitnya Juga Beda</TITLE>
+
+<TEXT>
+Herman Sikumbang, gitaris Seventeen, meninggal dunia. 
+
+Ia jadi korban tsunami Banten, <TIMEX3 tid="t1" type="TIME" value="2018-12-22TNI">Sabtu (22/12/2018) malam</TIMEX3>. 
+
+Juliana Moechtar, sang istri, tak bisa kesedihan. 
+
+Ia menangis mengetahui suaminya sudah tak bernyawa. 
+
+Wanita yang akrab disapa Uli ini mempunyai firasat sebelum keberangkatan Herman ke Tanjung Lesung, tempat grup musik Seventen mengisi acara. 
+
+" Pamitnya juga beda, memang ini sudah beda. 
+
+Dipeluk, dicium, biasanya ciuman tangan, cium biasa. 
+
+Ini berkali-kali dipeluk, dicium. 
+
+Saya bercandain, 'kok <TIMEX3 tid="t2" type="DATE" value="2018-12-23">hari ini</TIMEX3> wangi? ' Biasanya dia nge-rokok atau apa, " kata Uli di rumah duka, Kalibata, Jakarta Selatan, <TIMEX3 tid="t3" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>. 
+
+Herman juga sempat menanyakan kegiatan sang istri dengan anak-anaknya selama dirinya tidak ada. 
+
+" Anak-anak jadinya ke mana, anak saya abis sakit cacar, saya bilang dia cuma ingin makan MCD, 'ya sudah <TIMEX3 tid="t4" type="DATE" value="FUTURE_REF">nanti</TIMEX3> makan sama mamah ya'. 
+
+Terus dia cium anak-anak. 
+
+Memang beda, <TIMEX3 tid="t5" type="DATE" value="2018-12-23">hari itu</TIMEX3> emang beda, " katanya. 
+
+Pantauan tribunnews. 
+
+com, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pelayat masih terus berdatangan ke rumah duka, beberapa rekan artis turut hadir seperti Said Bajuri dan Zora Vidyanata. 
+
+Juliana Moechtar, istri Herman gitaris Seventeen mengungkapkan jika sebelum suaminya berangkat untuk mengisi acara di Tanjung Lesung Beach Resort, Pandeglang, Banten, <TIMEX3 tid="t7" type="DATE" value="2018-12-22">Sabtu (22/12/2018) kemarin</TIMEX3>, ia sempat berkali-kali diajak untuk ikut dalam acara tersebut. 
+
+Menurutnya Herman Seventeen sempat mengajaknya sampai empat kali ajakan, tetapi ia tolak karena masih ada syuting sinetron yang harus ia jalankan.Terlebih dirinya juga memikirkan kondisi kedua putranya yang masih kecil jika harus berpergian jauh. 
+
+// " Jadwal Seventeen ini setiap minggunya padat, jadi saya bilang <TIMEX3 tid="t8" type="DATE" value="2018-01-01">tahun baru</TIMEX3> mau sama-sama, tapi karena <TIMEX3 tid="t9" type="DATE" value="2018-01-01">tahun baru</TIMEX3> jadwalnya di Kalimantan, dan perjalananya jauh, dan cuma <TIMEX3 tid="t10" type="DURATION" value="P1D">satu hari</TIMEX3>, jadi dia memutuskan yang di Tanjung Lesung ini. 
+
+" " Dia kabarin <TIMEX3 tid="t11" type="DATE" value="2018-12-16">seminggu yang lalu</TIMEX3>, 'Hun, <TIMEX3 tid="t12" type="DATE" value="2018-12-21">tanggal 21</TIMEX3>, 22 libur nggak? ' Dia ngomong gitu. 
+
+Saya bilang, 'enggak bisa kan lagi syuting, ' 'oh'. 
+
+<TIMEX3 tid="t13" type="DURATION" value="P3D">Tiga hari</TIMEX3> menuju tanggal segitu tanya lagi, 'hun, pergi nggak ke Tanjung Lesung? ', " " Dia itu pengin banget satu keluarga itu ikut dia, pengin banget, <TIMEX3 tid="t14" type="DURATION" value="P1D">satu hari</TIMEX3> mau berangkat dia nanya lagi, 'hun yakin nggak ikut? ' dia ngomong gitu, " ungkap Juliana saat ditemui Grid. 
+
+ID di komplek DPR-RI, Pancoran, Jakarta Selatan, <TIMEX3 tid="t15" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>. 
+
+Setelahnya Uli sapaan akrabnya kembali menolak ajakan Herman Seventeenkarena ia harus menuntaskan proses syutingnya itu. 
+
+Sebelumnya juga Herman sempat mengajak anak-anaknya untuk bermain terlebih <TIMEX3 tid="t16" type="DATE" value="PAST_REF">dahulu</TIMEX3> sebelum ia berangkat ke Tanjung Lesung. 
+
+" Dia <TIMEX3 tid="t17" type="DATE" value="UNKNOWN">satu hari itu</TIMEX3> sama-sama anak-anak. 
+
+Ke mall bawa anak-anak, cerita-cerita. 
+
+Sampe rumah, di kamar cuma cerita aja, dimana anak-anak <TIMEX3 tid="t18" type="DATE" value="FUTURE_REF">nanti</TIMEX3>, sekolahnya, " jelasnya. 
+
+Lalu pada <TIMEX3 tid="t19" type="TIME" value="2018-12-23TMO">pagi hari</TIMEX3>, Herman langsung pergi pamit untuk manggung di acara itu, tetapi sempat mengisi acara terlebih <TIMEX3 tid="t20" type="DATE" value="PAST_REF">dahulu</TIMEX3> di kawasan BSD. " Sampai besoknya <TIMEX3 tid="t21" type="TIME" value="2018-12-23TMO">pagi</TIMEX3>, <TIMEX3 tid="t22" type="DATE" value="2018-12-21">hari Jumat</TIMEX3>, dia mandi, pamit bawa baju sekalian, karena <TIMEX3 tid="t23" type="TIME" value="2018-12-22TNI">malam</TIMEX3> sabtunya dia main di BSD, manggung. 
+
+Dia pamit enggak akan pulang lagi, " tambahnya.Sebelumnya, Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) dalam konferensi pers yang dilaksanakan <TIMEX3 tid="t24" type="TIME" value="2018-12-22T02:00">pukul 02.00 WIB</TIMEX3> dini <TIMEX3 tid="t25" type="DATE" value="UNKNOWN">hari tadi</TIMEX3>, menyatakan bahwa gelombang itu merupakan tsunami.BMKG menyampaikan kesimpulan tersebut setelah mendapatkan data dari 4 stasiun pengamatan pasang surut di sekitar Selat Sunda pada waktu kejadian tsunami, yaitu <TIMEX3 tid="t26" type="TIME" value="2018-12-22T21:27">pukul 21.27 WIB</TIMEX3>. 
+
+// Hasil pengamatan menunjukkan tinggi gelombang masing-masing 0.9 meter di Serang pada <TIMEX3 tid="t27" type="TIME" value="2018-12-22T21:27">pukul 21.27 WIB</TIMEX3>, 0,35 meter di Banten pada <TIMEX3 tid="t28" type="TIME" value="2018-12-22T21:33">pukul 21.33 WIB</TIMEX3>, 0,36 meter di Kota Agung pada <TIMEX3 tid="t29" type="TIME" value="2018-12-22T21:35">pukul 21.35 WIB</TIMEX3>, dan 0,28 meter pada <TIMEX3 tid="t30" type="TIME" value="2018-12-22T21:53">pukul 21.53 WIB</TIMEX3> di Pelabuhan Panjang. 
+
+Saat kejadian, kebetulan grup band Seventeen sedang manggung di Tanjung Lesung Beach Resort, Banten, ketika gelombang tinggi melanda lokasi tersebut <TIMEX3 tid="t31" type="TIME" value="2018-12-22T21:33">sekitar pukul 21.33 WIB</TIMEX3>. 
+
+Pada <TIMEX3 tid="t32" type="DATE" value="2018-12-22">Sabtu</TIMEX3>, <TIMEX3 tid="t33" type="TIME" value="2018-12-22TNI">(22/12/2018) malam</TIMEX3>, <TIMEX3 tid="t34" type="TIME" value="2018-12-22T21:27">sekitar pukul 21.27 WIB malam</TIMEX3>, tsunami di Selat Sunda menerjang pantai di Kabupaten Pandeglang, Serang, dan Lampung Selatan. 
+
+Hingga <TIMEX3 tid="t35" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, <TIMEX3 tid="t36" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>, Tim SAR Gabungan terus berupaya mengevakuasi korban meninggal maupun selamat. 
+
+Berikut TribunWow. 
+
+com rangkum fakta-fakta mengenai bencana tsunami Banten dan Lampung di <TIMEX3 tid="t37" type="DATE" value="2018">penghujung tahun 2018 ini</TIMEX3>:1. 
+
+Pemicu Gelombang TsunamiKepala Pusat Data Informasi dan Humas BNPB, Sutopo Purwo Nugroho dalam press release membenarkan bahwa bencana yang melanda wilayah pantai di Selat Sunda merupakan tsunami. 
+
+Tsunami tersebut bukan akibat dari gempa bumi, melainkan adanya aktivitas tektonik. 
+
+Tsunami dimungkinkan akibat longsor bawah laut karena pengaruh dari erupsi Gunung Anak Krakatau. 
+
+Selain itu, pada saat yang bersamaan terjadi gelombang pasang akibat pengaruh bulan purnama. 
+
+// Sehingga, terdapat kombinasi fenomena alam, yakni tsunami dan gelombang pasang. 
+
+Menurut keterangan Sutopo, Badan Geologi mendeteksi adanya erupsi Gunung Anak Krakatau pada <TIMEX3 tid="t38" type="TIME" value="2018-12-22T21:30">pukul 21.30 WIB</TIMEX3>. 
+
+Erupsi itu menyebabkan peralatan seismograf setempat rusak. 
+
+Di sisi lain, seismik Stasiun Sertung berhasil merekam adanya getaran tremor yang masif. 
+
+Namun, dari semua getaran tersebut tidak ditemukan adanya getaran dengan frekuensi tinggi yang mencurigakan. 
+
+Longsornya material sedimen di sekitar Anak Gunung Krakatau di di bawah laut lah yang dimungkinkan menjadi pemicu tsunami. 
+
+Sejumlah korban selamat mengunggah video dan foto-foto keadaan lokasi sesaat saat tsunami melanda, bahkan juga video saat Gunung Anak Krakatau erupsi, dan kepanikan warga sekitar. 
+
+. 
+
+Update Korban MeninggalDari data yang disampaikan Sutopo, per <TIMEX3 tid="t39" type="DATE" value="2018-12-23">hari ini</TIMEX3>, <TIMEX3 tid="t40" type="TIME" value="2018-12-23TAF">Minggu (23/12/2018) sore</TIMEX3>, jumlah orang meninggal dunia sebanyak 222 orang. 
+
+Sementara itu, 843 orang luka-luka, dan 28 orang hilang. 
+
+Terkait bangunan, 556 unit rumah rusak, 9 hotel rusak berat, 60 warung rusak. 
+
+Sebanyak 350 perahu rusak serta puluhan kendaraan roda dua dan roda empat mengalami kerusakan. 
+
+Sutopo menerangkan, hingga <TIMEX3 tid="t41" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, penanganan terus dilakukan dan evakuasi korban masih berlangsung.Data yang disampaikan merupakan data sementara.Sutopo menyampaikan kemungkinan data korban dan kerusakan akan bertambah, karena belum semua daerah terdampak tsunami terdata. 
+
+. 
+
+Kisah Korban SelamatDikutip TribunWow.com dari Kompas.com, seorang saksi mata bernama Kamila Aprianti (18), yang merupakan warga setempat, membagikan kesaksiannya.Ia menuturkan <TIMEX3 tid="t42" type="DATE" value="PAST_REF">saat itu</TIMEX3> melihat <TIMEX3 tid="t43" type="TIME" value="2018-12-22T19:00">sekitar pukul 19.00 WIB</TIMEX3>, pantai di belakang Hotel Marina Anyer sempat surut. " Ombak dari <TIMEX3 tid="t44" type="TIME" value="2018-12-22TAF">sore</TIMEX3> sudah besar, tapi pas <TIMEX3 tid="t45" type="TIME" value="2018-12-23T19">jam 7 malam itu</TIMEX3> sempat menghilang dan air laut surut banget, saya sih belum berpikir macam-macam <TIMEX3 tid="t46" type="DATE" value="PAST_REF">saat itu</TIMEX3>, " cerita Kamila kepada Kompas.com, <TIMEX3 tid="t47" type="DATE" value="2018-12-23">Minggu</TIMEX3> (<TIMEX3 tid="t48" type="DATE" value="2018-12-23">23/12/2018)</TIMEX3> dini hari.Tak berselang lama, kemudian <TIMEX3 tid="t49" type="DURATION" value="PT10M">sekitar 10 menit</TIMEX3> ombak besar datang dan mengguyur daratan.Ombak besar itu terus naik hingga ke pekarangan hotel. " Saya lihat di jalan sudah ramai sekali warga dan wisatawan lain, ada teriakan tsunami-tsunami, semua panik, jalan raya sudah tergenang air setinggi tumit saya, banyak yang berlarian dan bawa kendaraan masing-masing menuju arah bukit, " kata dia.Kamila memilih pulang ke rumahnya, di Kampung Kosambi, Kecamatan Cinangka, Kabupaten Serang, yang berada sekitar 500 meter dari hotel dan mengamankan diri.Kisah lain juga dituturkan vokalis band Seventeen, Ifan, dikutip dari tayangan Breaking News, Tv One.Kala itu, Seventeen mengisi acara milik PLN dan baru saja menyanyikan lagu kedua saat ombak menerjang. " Tiba-tiba panggungnya terbalik, tergulung-gulung, nelen air lumpur banyak, kaki di atas kepala di bawah, besi di mana-mana, kepentok sana-kepentok sini, makanya memang banyak yang patah, " tambahnya.Ketika terapung di tengah laut, Ifan mengatakan dirinya sempat menyerah karena tak kunjung menyentuh pinggir pantai. " Di pinggir pantai saya ketemu sama jenazahnya Mas Oki dan Mas Bani dalam keadaan terjepit dan ditolong warga, " tambahnya.5. 
+
+Sirine Berbunyi Kembali Warga PanikDilansir Tribunwow.com dari Youtube KompasTV yang diunggah pada <TIMEX3 tid="t50" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>, terlihat warga berhamburan ke tengah jalan, setelah dengar bunyi sirine peringatan dini tsunami kedua.Dalam video tersebut terlihat sejumlah warga di Kecamatan Pandeglang berlarian ke tengah jalan.Warga yang cemas dan panik berhamburan ke tengah jalan untuk mengikuti arahan pihak Kepolisian dan TNI.Warga yang tinggal di dekat Pantai Carita dan Tanjung Lesung itu tampak berusaha menjauh ke tempat yang aman.Aparat Kepolisian dan TNI tampak mengarahkan dan memberi instruksi pada warga untuk berlindung menyelamatkan diri ke tempat yang lebih tinggi melalui mobil yang terus melaju sambil menyerukan peringatan pada warga.Namun Sutopo mengatakan tidak ada peringatan tsunami lanjutan pasca tsunami di Banten.Bunyi sirine yang ditimbulkan tersebut merupakan kerusakan teknis yang memungkinan terjadi. " Tidak ada warning (tsunami lanjutan) dari BMKG. 
+
+Adanya sirine tsunami di Teluk Labuhan, Kecamatan Labuhan, Kabupaten Pandenglang yang tiba-tiba bunyi sendiri bukan dari aktivasi BMKG atau BNPB. 
+
+Kemungkinan ada kerusakan teknis sehingga bunyi sendiri, " papar Sutopo saat dikonfirmasi, <TIMEX3 tid="t51" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>, seperti dilansir dari Kompas.com.6. 
+
+Bantuan Segera DiturunkanSatu di antara pihak yang tengah mengirimkan bantuan, adalah Pemerintah Provinsi DKI Jakarta.Gubernur DKI Jakarta Anies Baswedan mengatakan, korban-korban akan dievakuasi terutama yang membutuhkan penanganan kesehatan. " Kami sudah mengirimkan ambulans-ambulans dari Jakarta ke Anyer untuk membantu membawa korban dari sana yang memerlukan penanganan kesehatan, " ujar Anies di Pulau Maju, Kamal Muara, Penjaringan, Jakarta Utara, <TIMEX3 tid="t52" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>, dikutip dari Kompas.com.Kondisi daerah Wisma Musro tepi Pantai Anyer pasca-tsunami. 
+
+(Twitter/ jamesmassola) Selain itu, kata Anies, tim yang diturunkan juga menyisir lokasi-lokasi yang membutuhkan bantuan dan penanganan. " Dari <TIMEX3 tid="t53" type="TIME" value="2018-12-22TMO">subuh tadi</TIMEX3>, saya sudah komunikasi terus dengan Kepala BPBD DKI, dan sudah disisir informasinya mana-mana saja yang membutuhkan bantuan dan posisi kita adalah bersiap, " ujar Anies.Ia menambahkan, Pemprov DKI Jakarta sudah mempersiapkan bantuan baik dari ambulans untuk mengevakuasi maupun logistik. " Begitu mereka menentukan kebutuhannya apa, kami langsung kirim. 
+
+Tapi posisi kami, kami sudah siap untuk kirim, " kata dia.7. 
+
+Penyaluran DonasiAksi Cepat Tanggap menjadi satu di antara pihak yang membuka donasi untuk korban tsunami Banten dan Lampung.Dikutip dari act.id, ACT mengajak Sahabat Peduli untuk memberikan donasi kepedulian bagi para korban bencana tsunami di Pantai Anyer Banten, Lampung, dan sekitarnya.Karena di masa-masa emergency bencana ini, berbagai macam bantuan akan sangat diperlukan.Berikut link penyaluran donasi ACT, beserta nomor rekening lengkap: 
+</TEXT>
+
+</TimeML>

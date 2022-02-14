@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0698</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-01-18" temporalFunction="false" functionInDocument="CREATION_TIME">2016-01-18</TIMEX3></DCT>
+
+<TITLE>Pemkot Ambon Distribusikan Air Bersih Di 25 Titik</TITLE>
+
+<TEXT>
+Pemerintah Kota (Pemkot) Ambon mendistribusikan air bersih ke 25 titik yang mengalami krisis air bersih. 
+
+Distribusi air bersih dilakukan selama <TIMEX3 tid="t1" type="DURATION" value="P1M">satu bulan</TIMEX3> secara bergilir guna mengatasi dampak kekeringan yang berkepanjangan, kata Wali Kota Ambon Richard Louhenapessy di Ambon, <TIMEX3 tid="t2" type="DATE" value="2016-01-18">Senin (18/1)</TIMEX3>. 
+
+Ia mengatakan, pihaknya menyiapkan tiga mobil tangki untuk menyalurkan air bersih di sejumlah kawasan yang mengalami krisis air bersih. 
+
+Setiap kawasan memperoleh jatah 5.000 liter air bersih. 
+
+Lokasi yang memperoleh distribusi air bersih dari pemerintah di antaranya Wainitu, Batu Merah, Kudamati, Kelurahan Nusaniwe, Benteng, Laha, Tawiri, Lata, Lateri, dan Wailiha. 
+
+Dia mengakui tidak semua wilayah mendapat bantuan air bersih, salah satunya akibat sulit dijangkau kendaraan. 
+
+Kami telah berupaya untuk melakukan yang terbaik untuk masyarakat, walaupun belum seluruh kawasan yang mengalami krisis air dapat dijangkau, tandasnya. 
+
+Ia pun mengaku di rumah dinas wali kota juga mengalami krisis air. 
+
+Sama dengan warga Kota Ambon rasakan sehingga harus menggunakan air dengan hemat, katanya. 
+
+Menurut dia, pimpinan SKPD diinstruksikan untuk memberikan contoh kepada masyarakat, untuk tidak menggunakan air berlebihan karena warga kota sementara mengalami krisis air bersih. 
+
+Marilah kita hemat menggunakan air bersih, dimanfaatkan dengan baik jangan seenaknya menggunakan seperti mencuci kendaraan dengan air yang terus mengalir tanpa dimatikan dari keran air. 
+
+Karena di sebagian tempat ada yang tidak merasakan air bersih, tandasnya. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0026</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-28" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-28</TIMEX3></DCT>
+
+<TITLE>Geolog: Mata Ie Butuh Vegetasi</TITLE>
+
+<TEXT>
+Bencana kekeringan yang melanda kawasan Mata Ie, Aceh Besar, dan sebagian besar wilayah di Aceh tidak mutlak disebabkan oleh kemarau panjang. 
+
+Kekeringan juga dapat berhubungan dengan kondisi geologi Mata Ie, yaitu terkait dengan jenis dan sifat dari tanah serta bebatuan yang berdampak pada kemampuan menyerap dan menyimpan air. 
+
+Maka, dibutuhkan vegetasi (tutupan hutan) pada daerah berkondisi geologi yang ekstrem seperti Mata Ie. 
+
+Hal itu diungkapkan ahli geologi Aceh, Joni ST MT PhD, menjawab Serambi di Banda Aceh, <TIMEX3 tid="t1" type="TIME" value="2017-07-26TAF">Rabu (26/7) siang</TIMEX3>. 
+
+Kata Joni, Gunung Mata Ie memiliki karakteristik tanah yang tipis dan bebatuan yang pejal (padat dan keras), sehingga pada umumnya tak mampu menyimpan air dalam waktu yang lama. 
+
+Bahkan ada yang dapat langsung menjadi surface runoff atau lolos ke bawah permukaan melalui celah-celah batuan, ujarnya. 
+
+Menurut Joni, kondisi itu menyebabkan Mata Ie rentan terhadap kekeringan saat musim kemarau datang. 
+
+Di samping itu, pola dan intensitas hujan juga telah berubah akibat perubahan iklim global. 
+
+Kekeringan sumber air secara geologi adalah karena jenis tanah seperti Mata Ie memang bukan daerah yang prospek menyimpan air, tukasya. 
+
+Geolog ini menambahkan, konservasi sumber daya air sangat penting untuk mempertahankan air pada <TIMEX3 tid="t2" type="DATE" value="2017-SU">musim kemarau</TIMEX3> di daerah ekstrem seperti ini. 
+
+Di Mata Ie, sebenarnya terdapat gua-gua gamping yang mampu menyimpan air. 
+
+Namun, jika hutan di atas gua gamping sudah tandus, maka air hujan akan mengalir menjadi aliran permukaan. 
+
+Vegetasi adalah kuncinya, selain memang hujannya sendiri, ujar Ketua Ikatan Ahli Geologi Indonesia (IAGI) Aceh ini. 
+
+Joni mengatakan, kawasan karst seperti Mata Ie mempunyai karakteristik pola aliran bawah tanah yang unik. 
+
+Menurutnya, bisa saja daerah resapan Mata Ie tidak hanya sebatas kawasan gunung Mata Ie, tetapi bisa lebih luas daripada itu. 
+
+Kalau kita lihat luas gunung Mata Ie yang relatif sempit, tentu tidak dapat dibayangkan dari mana asal air di kolam yang melimpah itu. 
+
+Hal ini sebagai indikasi bahwa suplesi air ke bawah Mata Ie berasal dari daerah lain yang secara geologis saling berhubungan, jelasnya. 
+
+(fit) 
+</TEXT>
+
+</TimeML>

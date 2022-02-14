@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0554</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-08" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-08</TIMEX3></DCT>
+
+<TITLE>PSP : Mari Bergerak Bantu Korban Gempa Aceh</TITLE>
+
+<TEXT>
+Prananda Surya Paloh turut berduka atas musibah gempa bumi berkekuatan 6,4 Skala Ritcher (SR) yang mengguncang Pidie Jaya, Aceh <TIMEX3 tid="t1" type="TIME" value="2016-12-07TMO">rabu pagi</TIMEX3>. 
+
+Saya menyampaikan turut berbela sungkawa atas musibah yang di alami saudara saudari kita di Aceh sana. 
+
+Peristiwa ini menggugah rasa solidaritas dan persatuan kita sebagai anak bangsa untuk bergerak membantu sesama yang sedang tertimpa musibah. 
+
+PSP berharap pemerintah segera mengirim bantuan untuk korban gempa. 
+
+Anggota Komisi I DPR RI ini juga mendorong masyarakat indonesia untuk bergerak memberikan pertolongan untuk para korban gempa dalam bentuk apapun demi meringankan beban mereka yang terkena musibah. 
+
+Gempa dengan kekuatan 6,4 pada skala Richter (SR) dirasakan di Kabupaten Pidie Jaya pada <TIMEX3 tid="t2" type="TIME" value="2016-12-07TMO">Rabu pagi</TIMEX3>. 
+
+Dari data Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), pusat gempa berada di 18 kilometer sebelah timur laut Kabupaten Pidie Jaya dengan kedalaman 10 kilometer. 
+
+
+</TEXT>
+
+</TimeML>

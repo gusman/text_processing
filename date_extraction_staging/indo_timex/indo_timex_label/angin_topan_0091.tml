@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0091</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-12" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-12</TIMEX3></DCT>
+
+<TITLE>Angin Kencang Terjang Pangkalpinang, Puluhan Rumah Rusak, Warga Pasang Atap Terpal</TITLE>
+
+<TEXT>
+Angin kencang disertai hujan lebat melanda Kota Pangkalpinang, <TIMEX3 tid="t1" type="TIME" value="2019-01-12TAF">Sabtu (12/1/2019) siang</TIMEX3>. 
+
+Data yang dihimpun dari Dinas Sosial Pemberdayaan Perempuan dan Perlindungan Anak (Dinsos PPPA) Pangkalpinang hingga <TIMEX3 tid="t2" type="TIME" value="2019-01-11T19:30">pukul 19.30 WIB</TIMEX3>, jumlah rumah rusak akibat amukan angin kencang <TIMEX3 tid="t3" type="TIME" value="2019-01-11T14:00">sekitar pukul 14.00 WIB</TIMEX3> sebanyak 28 unit rumah. 
+
+Sebagian warga terpaksa memasang atap terpal sebagai pengganti sementara atap yang beterbangan disapu angin kencang. 
+
+Rumah rusak tersebar di Kampung Seberang (25 rumah), Kampung Opas (dua rumah), dan Semabung Lama (satu rumah). 
+
+Dari sejumlah wilayah tersebut, wilayah Kampung Seberang dinyatakan sebagai wilayah terdampak paling parah. 
+
+" Sampai <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> laporan yang kami terima 28 rumah. 
+
+25 rumah di Kampung Seberang dan 2 rumah di Kampung Opas, dan satu rumah di Semabung Lama. 
+
+Jadi totalnya 28 rumah. 
+
+Untuk yang di Paritlalang sebelumnya, itu kejadiannya <TIMEX3 tid="t5" type="TIME" value="2019-01-11TNI">malam hari</TIMEX3>, " kata Kepala Bidang Perlindungan dan Jaminan Sosial Dinsos PPPA Pangkalpinang Chomsatul Ichwan Nurrahman, <TIMEX3 tid="t6" type="TIME" value="2019-01-12TNI">Sabtu (12/1/2019) malam</TIMEX3>. 
+
+Sebelumnya, Ichwan menyatakan, rata-rata rumah terdamlak mengalami wilayah kerusakan di bagian atap. 
+
+" Kerusakan rata-rata itu, kebanyakan atap rumah yang terbang. 
+
+cuma ada yang parah, ada yang tidak saja, " kata Ichwan. 
+
+// Pantauan Bangkapos. 
+
+com di Kampung Seberang <TIMEX3 tid="t7" type="TIME" value="2019-01-11TAF">sore tadi</TIMEX3>, tim Tagana Pangkalpinang dan instansi terkait telah berada di lokasi. 
+
+" Dari Tagana, untuk tanggap darurat, kamu bantu terpal <TIMEX3 tid="t8" type="DATE" value="PAST_REF">dulu</TIMEX3> untuk seng dan atap rumah yang terbang ini supaya mereka bisa berteduh kalau ada <TIMEX3 tid="t9" type="DATE" value="FUTURE_REF">nanti</TIMEX3> ada hujan lagi, " kata Ichwan. 
+
+Angin kencang terjadi <TIMEX3 tid="t10" type="TIME" value="2019-01-11T14:15">sekitar pukul 14.15 WIB</TIMEX3>. 
+
+Selama <TIMEX3 tid="t11" type="DATE" value="2019">2019</TIMEX3>, kejadian serupa telah dua kali terjadi di Kampung Seberang Kota Pangkalpinang. 
+
+" Kejadian <TIMEX3 tid="t12" type="TIME" value="2019-01-11T14">jam 14.15 WIB</TIMEX3>. 
+
+<TIMEX3 tid="t13" type="TIME" value="2019-01-11T16">Sekitar jam 16.00</TIMEX3> kami dapat laporan dari masyarakat. 
+
+Kami langsung turun. 
+
+Kampung Seberang ini sudah dua kali. 
+
+Baru <TIMEX3 tid="t14" type="DURATION" value="PXD">beberapa hari</TIMEX3> jaraknya. 
+
+Yang pertama <TIMEX3 tid="t15" type="DATE" value="2019-01-11">kemarin</TIMEX3> yang menimpa rumah, " kata dia. 
+
+Tidak ada korban jiwa dalam kejadian ini. 
+
+Dinsos dan PPPA Pangkalpinang <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tengah mendata jumlah kerugian material. 
+
+" Kerugian dan segala macam tengah pendataan. 
+
+Data sementara yang pasti, ada terdampak ada 23 kepala keluarga di empat kelurahan yang terdampak, " ujarnya. 
+
+Selain atap rumah yang beterbangan, Tagana Pangkalpinang juga mendapat laporan banjir di kawasan Kampung Opas.10 Kasus Puting Beliung di Babel 2018Provinsi Kepulauan Bangka Belitung sebagai daerah kepulauan rentan terjadi bencana alam angin puting beliung atau angin kencang yang dapat merusak bangunan.Khsusnya, untuk daerah dekat pesisir. 
+
+// Sepanjang <TIMEX3 tid="t17" type="DATE" value="2018">tahun 2018</TIMEX3>, Badan Penanggulangan Bencana Daerah (BPBD) Babel mencatat ada 10 kasus angin puting dengan jumlah korban 165 kepala keluarga. 
+
+Bencana ini tidak hanya menimpa rumah masyarakat melainkan juga sarana kesehatan, sarana peribadatan sosial, sarana pendidikan dan sarana pemerintahan. 
+
+" Dengan kondisi Babel sebagai daerah kepulauan, semua daerah di Babel berpotensi terkena angin kencang atau puting beliung, terutama daerah pesisir, " kata Kepala BPBD Babel, Mikron Antariksa, <TIMEX3 tid="t18" type="DATE" value="2019-01-12">Sabtu (12/1/2019)</TIMEX3>. 
+
+Mikron mengatakan, ini baru yang terlaporkan ke pihkanya, namun diyakininya masih ada lagi musibah puting beliung yang belum dilaporkan ke pihaknya sehingga belum terdata. 
+
+" Pangkalpinang memang banyak, karena yang melapor ini pangkalpinang. 
+
+Tapi mungkin saja ada juga terjadi di pelosok daerah yang laporannya tidak sampai ke kita, " ujarnya. 
+
+Ia menyebutkan, untuk daerah yang belum terlaporkan umumnya daerah yang belum memiliki BPBD secara mandiri yang menangani khusus kebencanaan. 
+
+" Ini belum terjangkau, karena kabupatennya belum bentuk BPBD. 
+
+Bangka, Basel, Babar, dan Belitung BPBDnya masih bergabung dengan OPD lainnya, " ujar Mikron. 
+
+Menurutnya, belum adanya OPD yang berkompeten yang menjelaskan soal kebencaan memberikan beberapa kerugian, isu kebencanaan menjadi liar dan tidak terverifikasi secara cepat.Jangkauan, ketika terjadi bencana belum bisa dilakukan maksimal. 
+
+Mitigasi pencegahan bencana juga belum dilakukan secara optimal. " Belum adanya BPBD yang terbentuk secara mandiri membuat jangkauannya terbatas. 
+
+Contoh kerugiannya seperti ketika ada hoax tsunami di Toboali Kabupaten Bangka Selatan belum lama ini.Ini karena enggak ada instansi yang bisa jelaskan dari instansi yang berkompeten soal kebencanaan, " kata Mikron.(BANGKAPOS.COM/Dedy Qurniawan/Krisyanidayati) 
+</TEXT>
+
+</TimeML>

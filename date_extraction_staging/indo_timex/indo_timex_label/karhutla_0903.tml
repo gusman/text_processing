@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0903</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-18" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-18</TIMEX3></DCT>
+
+<TITLE>Pasca Kunjungan Jokowi Udara Masih Sangat Tidak Sehat di Pelalawan, Disdik Perpanjang Libur Sekolah</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DURATION" value="P1D">Sehari</TIMEX3> pasca kunjungan Presiden Joko Widodo ke Desa Merbau Kecamatan Bunut Kabupaten Pelalawan Riau, kabut asap di Pelalawan tetap bertahan pada <TIMEX3 tid="t2" type="TIME" value="2019-09-18TMO">Rabu (18/9/2019) pagi</TIMEX3> dari hari-hari sebelumnya. 
+
+Kabut tebal sangat terasa mulai <TIMEX3 tid="t3" type="TIME" value="2019-09-18TMO">pagi hari</TIMEX3> dan belum berkurang menjelang <TIMEX3 tid="t4" type="TIME" value="2019-09-17TAF">siang</TIMEX3>. 
+
+Akibat jerebu yang menguasai angkasa Kota Pangkalan Kerinci, langit biru dan mentari <TIMEX3 tid="t5" type="TIME" value="UNKNOWN">pagi sama</TIMEX3> sekali tidak kelihatan. 
+
+Aroma terbakar cukup menyengat terasa di hidung dan perih di mata jika terkena secara langsung. 
+
+" Jarak pandang kita <TIMEX3 tid="t6" type="TIME" value="2019-09-18TMO">pagi ini</TIMEX3> sedikit menurun jadi 400 meter. 
+
+Asap bercampur dengan embun, " kata Kepala Badan Penanggulangan Bencana Daerah (BPBD) Pelalawan, <TIMEX3 tid="t7" type="DATE" value="2019-09-18">Rabu (18/9/2019)</TIMEX3>. 
+
+Ia menerangkan, asap yang menyelimuti Pelalawan sebagian besar merupakan kiriman dari provinsi dan daerah tetangga yang terbawa angin. 
+
+Apalagi arah pergerakan angin menuju Pelalawan dan sekitarnya. 
+
+Biasanya kabut akan berangsur hilang menjelang <TIMEX3 tid="t8" type="TIME" value="2019-09-17TAF">siang</TIMEX3> dan <TIMEX3 tid="t9" type="TIME" value="2019-09-17TAF">sore hari</TIMEX3>. 
+
+Berdasarkan pantauan satelit Badan Meteorologi Klimatologi dan Geofisika (BMKG) Stasiun Pekanbaru hotspot di Pelalawan <TIMEX3 tid="t10" type="DATE" value="2019-09-18">hari ini</TIMEX3> menunjukan peningkatan. 
+
+Dari 334 titik panas yang tersebar di Riau, sebanyak 93 hotspot diantaranya berada di Pelalawan. 
+
+Dari jumlah itu hotspot yang level confidence diatas 70 persen mencapau 61 titik yang mengarah ke titik api atau firespot. 
+
+" Sebaran hotspot dan firespot ada di beberapa kecamatan yang lokasinya di tempat lama, " tambah Hadi Penandio. 
+
+// Kepala Bidang Pengendalian Pencemaran dan Kerusakan Lingkungan DLH Pelalawan, Davis Riswan S. 
+
+Hut M. 
+
+Si menuturkan, dari data Indeks Standar Pencemaran Udara (ISPU) yang didapatkan menunjukan konsentrasi PM 10 pada angka 318. 
+
+ISPU tersebut berapa dapa indikator berwarna merah yang levelnya sangat tidak sehat. 
+
+" Itu ISPU dari Pekanbaru yang kondisinya tidak berbeda jauh dengan di tempat kita di Pelalawan. 
+
+Data pembanding diambil lantaran kita belum memiliki alatnya, " tutur Davis. 
+
+Sementara itu Dinas Pendidikan (Disdik) Kabupaten Pelalawan Riau kembali memperpanjang libur bagi siswa sekolah selama <TIMEX3 tid="t11" type="DURATION" value="P2D">dua hari</TIMEX3> kedepan mulai <TIMEX3 tid="t12" type="DATE" value="2019-09-18">Rabu (18/9/2019)</TIMEX3> sampai <TIMEX3 tid="t13" type="DATE" value="2019-09-19">Kamis (19/9/2019)</TIMEX3>. 
+
+Penambahan libur ini berdasarkan Surat Edaran yang diterbitkan Disdik dengan nomor 421/Disdik-PPSD/2019/1094 yang ditandatangani Pelaksana tugas (plt) Kepala Disdik Pelalawan M Zalal S. 
+
+Pd. 
+
+Siswa-siswi yang diliburkan secara total mulai tingkat TK, SD, SMP, dan SMA sederajat akan kembali bersekolah pada <TIMEX3 tid="t14" type="DATE" value="2019-09-20">Jumat (20/9/2019)</TIMEX3>. 
+
+" Libur kembali ditambah <TIMEX3 tid="t15" type="DURATION" value="P2D">dua hari</TIMEX3> lagi, karena kabut asap masih parah dan belum berkurang, " kata Kepala Bidang Pembinaan dan Pengembangan SMP Disdik Pelalawan, H Anton Timur Jaelani MH, kepada tribunpelalawan. 
+
+com, <TIMEX3 tid="t16" type="DATE" value="2019-09-18">Rabu (18/9/2019)</TIMEX3>. 
+
+Menurut Anton Timur, dasar pemberlakuan libur bagi peserta didik berlandaskan surat Disdik Provinsi Riau terkait tindak pengamanan dampak kabut asap. 
+
+Kemudian kualitas udara berdasarkan Indeks Standar Pencemaran Udara (ISPU) berkisar 315 sampai 484 yang sangat tidak baik untuk kesehatan.Selain itu, keputusan merumahkan lagi pelajar atas kesepakatan bersama Dinas Kesehatan (Diskes) dan Dinas Lingkungan Hidup (DLH) atas. 
+
+Disdik memastikan <TIMEX3 tid="t17" type="DATE" value="2019-09-13">Jumat</TIMEX3> dan <TIMEX3 tid="t18" type="DATE" value="2019-09-14">Sabtu</TIMEX3> aktivitas belajar mengajar di sekolah akan kembali normal, agar siswa tidak ketinggalan pelajaran. " Libur sudah cukup lama, kita takut anak-anak ketinggal pelajar terlalu jauh. 
+
+Makanya akan kembali sekolah <TIMEX3 tid="t19" type="DATE" value="2019-09-13">Jumat</TIMEX3> dan <TIMEX3 tid="t20" type="DATE" value="2019-09-14">Sabtu</TIMEX3>, " tambah Anton.Pelaksana tugas (Plt) Kepala Dinas Kesehatan (Diskes) Pelalawan, Asril M.Kes membenarkan kebijakan meliburkan anak sekolah lantaran kondisi kabut asap yang belum menunjukan pengurangan. 
+
+Termasuk kualitas udara yang masih kategori sangat tidak sehat akibat pencemaran yang tinggi. " Keputusan bersama untuk kembali meliburkan anak sekolah itu, " kata Asril. 
+
+(Tribunpelalawan.com/Johannes Wowor Tanjung) 
+</TEXT>
+
+</TimeML>

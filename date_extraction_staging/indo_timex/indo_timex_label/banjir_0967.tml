@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0967</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-04" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-04</TIMEX3></DCT>
+
+<TITLE>Sempat Jalani Ulangan di Tengah Genangan Banjir, Sekolah di Landak Akhirnya Ambil Kebijakan Ini</TITLE>
+
+<TEXT>
+Siswa SMA Santo Benediktus Pahauman, Kecamatan Sengah Temila tetap melaksanakan ulangan semester <TIMEX3 tid="t1" type="DURATION" value="P1Y">1 tahun</TIMEX3> 2018 meski air banjir meluap hingga ke ruang kelas pada <TIMEX3 tid="t2" type="DATE" value="2018-12-04">Selasa (4/12/2018)</TIMEX3>. 
+
+Seperti diketahui, pelaksanaan Ulangan Umum Bersama semester 1 sudah dimulai sejak <TIMEX3 tid="t3" type="DATE" value="2018-12-03">Senin kemarin</TIMEX3>, dan berjalan dengan tertib dan lancar. 
+
+Terlihat dibeberapa kelas, para peserta didik serius dan disiplin dalam mengerjakan soal-soal ulangan, walau pun di dalam kelas telah digenangi air. 
+
+Kepala SMA Santo Benediktus Pahauman Ramli SP mengakui, dengan adanya air di dalam kelas memang sedikit mengganggu. 
+
+Tetapi untuk jam pertama pelaksanaan Ulangan Umum Bersama masih tetap dilaksanakan. 
+
+" Namun pada <TIMEX3 tid="t4" type="TIME" value="UNKNOWN">jam kedua</TIMEX3>, karena kondisi ruang kelas sudah sekitar 30 cm air masuk ke ruang kelas. 
+
+Maka ulangan Umum Bersama pada mata pelajaran Sejarah akan dilanjutkan <TIMEX3 tid="t5" type="TIME" value="2018-12-05TMO">besok pagi</TIMEX3>, " ucapnya. 
+
+Kapolsek Sengah Temila Iptu Sujiyanto mengatakan, memang benar kondisi ruang kelas di SMA Santo Benekditus Pahauman terkena banjir. 
+
+" Air berangsur naik, jadi ulangan <TIMEX3 tid="t6" type="TIME" value="UNKNOWN">jam kedua</TIMEX3> diundur <TIMEX3 tid="t7" type="DATE" value="2018-12-05">besok</TIMEX3>, " jelas Kapolsek. 
+</TEXT>
+
+</TimeML>

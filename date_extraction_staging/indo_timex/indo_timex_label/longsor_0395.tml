@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0395</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-01</TIMEX3></DCT>
+
+<TITLE>11 Jam Tertimbun, Jasad Terakhir Korban Longsor di Cinere Depok Berhasil Dievakuasi</TITLE>
+
+<TEXT>
+Setelah <TIMEX3 tid="t1" type="DURATION" value="PT11H">11 jam</TIMEX3> kurang lebih lamanya tertimbun longsor, jasad Amelia (27) akhirnya berhasil dievakuasi petugas. 
+
+Diketahui, Amelia merupakan satu dari tiga korban tanah longsor akibat hujan deras yang terus mengguyur Kota Depok sejak <TIMEX3 tid="t2" type="DATE" value="2019-12-31">Selasa (31/12/2019) kemarin</TIMEX3>. 
+
+Dua korban sebelumnya Rusminah (68) dan N (8) telah berhasil dievakuasi lebih dahulu sekira <TIMEX3 tid="t3" type="TIME" value="2019-12-31T06:00">pukul 06.00 WIB pagi tadi</TIMEX3>. 
+
+" Dua korban sebelumnya <TIMEX3 tid="t4" type="TIME" value="2019-12-31T06:00">pukul 06.00 WIB</TIMEX3> lebih <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dulu</TIMEX3> berhasil dievakuasi, alhamdulillah ini yang terakhir berhasil kami evakuasi pada <TIMEX3 tid="t6" type="TIME" value="2019-12-31T15:00">pukul 15.00 WIB</TIMEX3>, " kata Putra salah seorang petugas Damkar di lokasi kejadian di Jalan Al Barokah, Cinere, Kota Depok, <TIMEX3 tid="t7" type="DATE" value="2020-01-01">Rabu (1/1/2020)</TIMEX3>. 
+
+Sebelumnya diberitakan, longsor tersebut terjadi pada <TIMEX3 tid="t8" type="TIME" value="2019-12-31T04:30">pukul 04.30 WIB</TIMEX3>. 
+
+Tak hanya di Cinere, korban tewas akibat banjir juga terjadi di Perumahan Puri Citayam, Bojonggede, Kabupaten Bogor, dengan korban atas nama Bagas Marsdianto (20). 
+
+Warga padati lokasi longsorWarga terus memadati lokasi longsor yang menewaskan tiga orang di Jalan Al Barokah, Cinere, Kota Depok. 
+
+Bahkan, seorang petugas pemadam kebakaran (Damkar) Kota Depok sempat mengimbau warga agar tak berkerumun. 
+
+// " Jangan ngumpul disini, kasian petugas yang lagi evakuasi, " kata petugas tersebut di lokasi kejadian, <TIMEX3 tid="t9" type="DATE" value="2020-01-01">Rabu (1/1/2020)</TIMEX3>. 
+
+Tak jarang, beberapa warga mengabadikan momen evakuasi tersebut menggunakan handphonenya. 
+
+Pantauan TribunJakarta. 
+
+com, evakusi masih berlangsung lantaran satu orang korban atas nama Amelia masih tertimbun reruntuhan longsor. 
+
+Sementara dua korban lainnya atas nama Rumsinah (68) dan bocah laki-laki berinisial N (8), telah berhasil dievakuasi terlebih <TIMEX3 tid="t10" type="DATE" value="PAST_REF">dahulu</TIMEX3>. 
+
+<TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, petugas dari Damkar Kota Depok, Polisi, TNI, Tagana, hingga warga sekitar masih berjibaku mengevakuasi jasad Amelia.3 orang tewas, sempat terdengar teriakan minta tolongAdi sempat mendengar teriakan minta tolong ketika longsor menimpa rumah tetangganya dan menewaskan tiga orang di Jalan Al Barokah, Cinere, Kota Depok. 
+
+" <TIMEX3 tid="t12" type="TIME" value="2019-12-31T04:40">Pukul 04.40 WIB</TIMEX3> kaget ada suara minta tolong, sebelumnya ada suara gemuruh kaya benda besar jatuh, " kata Adi di lokasi kejadian, <TIMEX3 tid="t13" type="DATE" value="2020-01-01">Rabu (1/1/2020)</TIMEX3>. 
+
+Adi menduga, teriakan tersebut merupakan suara Amelia (27), satu dari tiga korban meninggal akibat longsor. 
+
+" Kayaknya itu suaranya Amelia, saya inget banget suaranya kesakitan gitu, " tambahnya. 
+
+// Diwartakan sebelumnya, longsor tersebut juga menyebabkan dua orang lainnya meninggal dunia atas nama Rumsinah (68) dan seorang bocah laki-laki berinsial N (8). 
+
+<TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, hanya tersisa jasad Amelia yang belum berhasil dievakuasi keluar dari reruntuhan longsor. 
+
+Kakak adik meninggal ditemukan dalam kondisi berangkulanTiga orang meninggal dunia akibat tertimbun longsor di Jalan Al Barokah, Pangkalan Jati, Cinere, Kota Depok. 
+
+Berdasarkan data yang dihimpun, korban tiga orang atas nama Rumsinah (68), Amelia (27), dan seorang bocah berinisial N (8). 
+
+Adi tetangga sekitar yang ikut membantu mengevakuasi korban mengatakan, <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> hanya tersisa korban atas nama Amelia yang belum berhasil dievakuasi keluar. 
+
+" Yang dua sudah berhasil dievakuasi, sisa satu yang Amelia itu, " kata Adi di lokasi kejadian, <TIMEX3 tid="t16" type="DATE" value="2020-01-01">Rabu (1/1/2020)</TIMEX3>. 
+
+Adi mengatakan, Amelia dan N merupakan kakak beradik anak dari bapak Ade Istaqori. 
+
+Ketika dievakuasi, Adi mengatakan jasad Amelia ditemukan tengah merangkul adiknya N. 
+
+" Posisi kaya berangkulan gitu, saya pas lihat langsung istighfar gak tega " ujar Adi. 
+
+// Adu mengatakan, jasad Amelia cukup sulit dievakuasi lantaran posisi tubuh bagian bawahnya tertimpa pondasi bangunan pagar yang runtuh dari atas rumahnya. 
+
+" Badannya sudah kelihatan tapi masih susah diangkat, kakinya tertimpa besi pagar yang runtuh dari atas, " bebernya. 
+
+<TIMEX3 tid="t17" type="TIME" value="UNKNOWN">Saat ini pukul 13.00 WIB</TIMEX3>, petugas dari Damkar Kota Depok, Polisi, TNI, Tagana, serta unsur yan lainnya masih berjibaku mengevakuasi korban dari reruntuhan. 
+
+Longsor terjadi menjelang subuhSebanyak tiga orang tertimbun longsor di Cinere, akibat hujan deras mengguyur Kota Depok, <TIMEX3 tid="t18" type="DATE" value="2020-01-01">Rabu (1/1/2020)</TIMEX3>. 
+
+<TIMEX3 tid="t19" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> dua orang sudah berhasil dievakuasi keluar dan satu orang lagi masih tertimbun longsor. 
+
+Sanih warga sekitar mengatakan, longsor tersebut terjadi pada sekiranya <TIMEX3 tid="t20" type="TIME" value="2019-12-31T04:30">pukul 04.30 WIB</TIMEX3>. 
+
+" Kejadiannya <TIMEX3 tid="t21" type="TIME" value="2019-12-31T04:30">pukul 04.30 WIB</TIMEX3>, " kata Sanih di lokasi kejadian di Jalan Al Barokah RT <TIMEX3 tid="t22" type="DATE" value="2019-07-01">01/07</TIMEX3> Pangkalan Jati, Cinere, Kota Depok, <TIMEX3 tid="t23" type="DATE" value="2020-10-01">Rabu (1/10/2020)</TIMEX3>. 
+
+Berdasarkan data yang berhasil dihimpun TribunJakarta. 
+
+com, dua korban yang berhasil dievakuasi bernama Rumsinah (68) dan seorang bocah laki-laki berinisial N (8).Sementara seorang korban lagi yang masih tertimbun longsor adalah seorang wanita bernama Amelia (27).Saat ini, kondisi di lokasi kejadian sedang dipadati warga dan petugas dari Pemadam Kebakaran Kota Depok, Polisi, TNI, Tagana, dan juga unsur lainnya. 
+</TEXT>
+
+</TimeML>

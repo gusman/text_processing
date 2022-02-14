@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0966</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-28" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-28</TIMEX3></DCT>
+
+<TITLE>BMKG Akui Terjadi Tsunami di Palu dengan Ketinggian Maksimal 3 Meter, Ini Penjelasannya</TITLE>
+
+<TEXT>
+Badan Klimatologi Meteorologi dan Geofisika (BMKG) membenarkan telah terjadi tsunami, <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Hal itu diungkapkan Kepala BMKG, Dwikorita Karnawati, saat memberikan keterangan pers. 
+
+BKMG pada <TIMEX3 tid="t2" type="DATE" value="2018-09-28">hari ini</TIMEX3> menyampaikan informasi terkuat dengan gempa bumi tektonik yang telah terjadi di Donggala, pada jarak 26 kilometer kota donggala. 
+
+Dengan kekuatan magnitudo 7,7. 
+
+Terjadi <TIMEX3 tid="t3" type="DATE" value="2019-09-28">jumat 28 September 2019</TIMEX3>, <TIMEX3 tid="t4" type="TIME" value="2018-09-27T17:02">pukul 17.02 WIB</TIMEX3>, kata Dwikorita saat live di TV ONe. 
+
+Ia mejelaskan poisi pusat gempa berada di Kabupaten Donggala. 
+
+Dengan makin bertambahnya getaran gempa yang terkumpul, maka parameter gempa kami perbaharui, kami mutakhirkan menjadi 7,4 SR, ujarnya. 
+
+Menurutnya kedalaman pusat gempa kedalaman 11 meter. 
+
+Gempa bumi menimbulkan tsunamai dengan lecvel siaga, dengan ketinggian 1,5 hingga 3 meter, tegasnya. 
+
+Menurutnya, <TIMEX3 tid="t5" type="DATE" value="PAST_REF">saat itu</TIMEX3> diperkirakan tsunami <TIMEX3 tid="t6" type="TIME" value="2018-09-27T17:00">pukul 17</TIMEX3>. 
+
+22 WIB, sehingga saat mengumumkan nformasi gempa, BKMG juga menegluarkan peringatan dini tsunami. 
+
+Kami keluarkan <TIMEX3 tid="t7" type="TIME" value="PT5M">5 menit</TIMEX3> setelah kejadian gempa, katanya. 
+
+Dwi menjelaskan, BMKG juga melakukan pemantauan muka air di pantai. 
+
+// Termasuk mengumpulkan keterangan saksi mata. 
+
+Staf BMKG di lapangan di Palu, dari hasil pengamatan, terlihat adanya tinggi muka air laut setinggi 6 centimeter pada <TIMEX3 tid="t8" type="TIME" value="2018-09-27T17:27">Pukul 17.27 WIB</TIMEX3>, paparnya. 
+
+Kemudian terpantau dari saksi mata di lapangan ektingguian naiknya muka air laut setinggi 1,5 meter di Pantai Palu. 
+
+Namun kemudian, setelah kita pantau setelah stunami datang, terlihat air naik semakin surut dan akhirnya dengan surutnya air yang teramati, maka peringatan dini tsunami dini ini kami akhiri <TIMEX3 tid="t9" type="TIME" value="2018-09-27T17:30">pukul 17.30 WIB</TIMEX3>, ucap Dwi Korta. 
+
+Atau peringatan ini, tsunami telah berakhir <TIMEX3 tid="t10" type="TIME" value="2018-09-27T18:36">18.36 WIB</TIMEX3>. 
+
+Memang benar tsunami terjadi hingga ketinggian 1,5 meter. 
+
+Namun kejadian tsunami tesebut berakhir pukl <TIMEX3 tid="t11" type="TIME" value="2018-09-27T18:36">18.36 WIB</TIMEX3>, kata dia lagi. 
+
+Dan menurut Dwi, hasil monitoring BMKG hingga <TIMEX3 tid="t12" type="TIME" value="2018-09-27T20:00">pukul 20.00</TIMEX3> Wib, telah terjadi 22 gempa susulan dengan magnitudo terbesar 6,3 dan terkecil 2,9 SR. 
+
+Pihaknya terus melakukan pemantauan terhadap gempa dan kami akan informasikan. 
+
+Pasca gempa kami kehilangan kontak dengan Donggala. 
+
+Sehingga kami laporkan ke Panglima TNI. 
+
+Kami mengimbau agar masyarakat tetap tenang meskipun gempa-gempa susulan masih akan terjadi, tegasnya. 
+
+Dan gempa ini menurut analisi kami merupakan gempa bumi akibat aktviasi sesar geser Palu Poso. 
+
+Terjadi mekasnisme eprgerakan dari struktur bebatuan denan mekanisme sesar mendatar, ungkap Dwi. 
+
+// Sebelumnya beredar video detik-detik tsunami menerjang pesisir Kota Palu, <TIMEX3 tid="t13" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Video diambil warga melalui kamera amatir dari atas Palu Grand Mall. 
+
+Tsunami itu terjadi <TIMEX3 tid="t14" type="DATE" value="PXX">beberapa saat</TIMEX3> setelah gempa 7,7 SR mengguncang Kota Donggala, Sulawesi Tengah. 
+
+Dalam video yang beredar itu, air laut terlihat menerjang daratan. 
+
+Air dengan ketinggian setinggi papan baliho itu, meluncur deras di sepanjang garis pantai. 
+
+Rumah dan kendaraan yang ada tersapu. 
+
+Kepanikan terdengar dari warga yang menyaksikan tingginya air laut dari atas Palu Grad Mall. 
+
+Dalam seketika, deretan rumah yang ada di pinggir pantai, tersapu air bah. 
+
+Air juga masuk deras ke dalam kota. 
+
+Masuk ke dalam masjid dan pusat pertokoan. 
+
+Teriakan warga terdengar dari atas Palu Grand Mall. 
+
+Pekik ketakutan pun terdengar dari warga. 
+
+// Video tsunami itu menyebar di jejaring media sosial facebook. 
+
+Satu di antaranya seperti yang dibagikan akun Del Piero. 
+
+Tsunami di palu akibat gempa 7,7 scala righter. 
+
+. 
+
+. 
+
+Berikan kami kesabaran dan kekuatan ya Alloh, tulisnya. 
+
+Di Twitter, akun PMII juga membagikan video bagaimana air laut menerjang pesisir Kota palu. 
+
+" Selamatkan saudara " kami di Donggala, Palu, Ya Allah gempa, " tulis pmiichannel. 
+
+(*) 
+</TEXT>
+
+</TimeML>

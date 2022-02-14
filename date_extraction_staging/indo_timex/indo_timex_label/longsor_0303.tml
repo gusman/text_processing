@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0303</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-03-01" temporalFunction="false" functionInDocument="CREATION_TIME">2017-03-01</TIMEX3></DCT>
+
+<TITLE>Lima Hari Terisolasi Total Kerugian 8 Miliar</TITLE>
+
+<TEXT>
+Bencana alam tanah longsor yang melanda Kabupaten Gorontalo Utara (Gorut) sejak <TIMEX3 tid="t1" type="DATE" value="2017-02-23">Kamis</TIMEX3> pekan <TIMEX3 tid="t2" type="DATE" value="2017-02-28">kemarin</TIMEX3>, tidak hanya memporak-porandakan jalan di daerah itu. 
+
+Tapi juga merusak hasil bumi, yang siap dijual petani. 
+
+Tidak terkecuali 120 Ton Sawit yang sudah membusuk karena mengendap di dalam bak 12 truk, yang antri di lokasi jembatan putus yang ada di Kecamatan Sumalata. 
+
+Tercatat hingga, <TIMEX3 tid="t3" type="DATE" value="2017-02-28">Selasa (28/2)</TIMEX3>, sudah <TIMEX3 tid="t4" type="DURATION" value="P5D">lima hari</TIMEX3> truk-truk bermuatan hasil bumi berupa kelapa sawit, tertahan di Sumalata. 
+
+Satu-satunya jalan menuju Kabupaten Buol Sulawesi Tengah tempat tujuan truk-truk itu, belum bisa dilewati. 
+
+Alhasil, hasil bumi bernilai ratusan juta itupun mulai membusuk. 
+
+Kata Amran, seorang supir truk sawit, hal ini bukan hanya merugikan pihak perusaan, tapi ia bersama rekannya terpaksa harus rela menerima upah sedikit dari muatan sawit yang sudah susut itu. 
+
+Apalagi hasil bumi yang mereka muat tersebut, baru merupakan muatan pertama. 
+
+Padahal seperti biasanya, ketika di <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">hari kelima</TIMEX3> muatan yang diangkut tersebut sudah memasuki muatan pada ret ke dua. 
+
+Dalam satu truk, sebanyak 10 ton sawit yang kami muat. 
+
+Ini kemungkinan besar sudah susut menjadi 7 ton, karena kami sudah tertahan <TIMEX3 tid="t6" type="DURATION" value="P5D">lima hari</TIMEX3> disini, ujar Amran, yang memperkirakan ada sekitar 120 ton sawit yang diangkutnya rekan-rekannya. 
+
+Masih kata Amran, sekali muat, Ia bersama 11 rekannya diberi upah satu truk Rp 5.700.000. 
+
+Namun mengingat berat dari sawit telah menurun, kemungkinan besar upah mereka dikurangi. 
+
+Jika di hitung-hitung, dari 120 ton sawit, kami harusnya menerima upah sebesar Rp 68.400.000. 
+
+Dan dalam <TIMEX3 tid="t7" type="TIME" value="2017-03-01TNI">satu malam itu</TIMEX3>, sawit bisa susutnya sampai 5 persen, jelas Amran. 
+
+Ada kemungkinan, kerugian masih akan bertambah menyusul pembuatan jembatan darurat di atas jembatan yang amblas itu, waktu selesainya belum pasti. 
+
+Dan truk-truk itu, masih akan tertahan lebih lama. 
+
+Kami memastikan pengerjaan jembatan darurat ini selesai pada <TIMEX3 tid="t8" type="DATE" value="2017-02-23">Kamis</TIMEX3> pekan depan, itu pun jika kondisi cuaca memungkinkan. 
+
+Karena jika cuaca terus-menerus masih belangsung hujan, maka akan lebih lama lagi kami mengerjakan jebatan tersebut, jelas Istanto Ruchban, salah soerang petugas Balai Jalan Gorontalo. 
+
+Menanggapi hal tersebut, Bupaten Gorut Indra Yasin menjelaskan, ada beberapa kendala yang dialami baik Pemerintah Daerah dan instansi terkait, yakni minimnya alat berat. 
+
+Meski demikian, pihaknya akan terus berupayah melakukan perbaikan terhadap sejumlah akses jalan yang sulit di lalui, akibat dampak dari bencana longsor. 
+
+Hanya dua alat berat yang stand bay di lokasi <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, dan kami akan terus berupaya agar semua akses bisa dilalui kendaraan. 
+
+Apalagi akses jalan di daerah ini, adalah satu-satunya akses yang bisa dilalui kendaraan menuju ke luar daerah, tutur Indra. 
+
+Banjir Longsor di 87 Titik Sementara itu dari BNPB (Badan Nasional Penanggulangan Bencana) Gorontalo Utara tercatat, ada 87 titik bencana di 4 kecamatan yang terisolasi akibat bencana banjir dan tanah longsor. 
+
+Terparah longsor di kecamatan Biau sepanjang 1 kilometer. 
+
+Selain itu pula, infrastruktur jalan dan jembatan ambruk, membuat semua akses transportasi terputus, <TIMEX3 tid="t10" type="DURATION" value="P5D">5 hari</TIMEX3> berturut-turut. 
+
+Namun demikian, hingga memasuki hari ke-5 sejak musibah longsor Sumalata-Biau, semua akses infrastruktur perlahan mulai diperbaiki. 
+
+Ya, untuk jembatan dan jalan, hingga <TIMEX3 tid="t11" type="DATE" value="2017-03-01">hari ini</TIMEX3> sudah mulai dilakukan pemasangan rel jembatan, baik jalan dan jembatan yang ambruk. 
+
+Untuk infrasturktur lainnya juga sementara dilakukan, terang Kepala BNPB Nurhadi Rahim <TIMEX3 tid="t12" type="DURATION" value="2017-03-01TNI">semalam</TIMEX3>. 
+
+Sehingganya dari musibah ini ditaksir kerugian yang terjadi, ada sekitar Rp 8 milyar lebih untuk <TIMEX3 tid="t13" type="DURATION" value="P5D">5 hari</TIMEX3> terakhir tersebut. 
+
+Kerugian ini, dihitung dari tidak tersalurkannya hasil-hasil pertanian atau perkebunan warga, karena akses jalan putus, tukas Nurhadi.Namun untuk korban jiwa, dari informasi yang kami terima dilapangan itu tidak ada. 
+
+Bahkan tidak ada yang terpaksa harus direlokasi (dipindahkan-red), urainya. 
+
+Pemerintah pun hingga <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih terus melakukan evakuasi untuk titik-titik bencana itu hingga semuanya terselesaikan dengan maksimal, tutup Nurhadi. 
+
+(rg-53/rg-62) 
+</TEXT>
+
+</TimeML>

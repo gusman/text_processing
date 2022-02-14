@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0517</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-11-29" temporalFunction="false" functionInDocument="CREATION_TIME">2017-11-29</TIMEX3></DCT>
+
+<TITLE>Talud Jebol di Perumahan Mutiara Tamanan Bantul, Kerugian Capai Ratusan Juta Rupiah</TITLE>
+
+<TEXT>
+Kerugian material dari jebolnya talud sungai gajah wong di Perumahan Mutiara Tamanan yang menghanyutkan satu halaman rumah dan satu unit mobil, ditaksir capai ratusan juta rupiah. 
+
+Pemilik rumah, Adi Pryastiawan (38) mengatakan akibat jebolnya tanggul tersebut akses jalan menuju ke rumahnya terputus. 
+
+Halaman rumah dan satu unit mobil miliknya juga ikut terbawa longsoran tanah. 
+
+Akibatnya, ia mengaku menanggung kerugian material yang tidak sedikit. 
+
+" Ditaksir lebih dari Rp 200 juta, untuk perbaikan dan pembenahan tanggul, " ungkap Adi, saat ditemui dilokasi kejadian, <TIMEX3 tid="t1" type="TIME" value="2017-11-29TAF">Rabu (29/11/2017) siang</TIMEX3>. 
+
+Diketahui sebelumnya, kronologi ambruknya talud bermula ketika hujan deras melanda. 
+
+Pemilik rumah <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">kala itu</TIMEX3> ada didalam rumah. 
+
+<TIMEX3 tid="t3" type="TIME" value="2017-11-28T20:00">Pukul 20.00 WIB</TIMEX3>, ia mengaku lampu perumahan miliknya padam.Saat lampu padam tersebut, Adi menyalakan lampu mobil yang terparkir di halaman rumah untuk menerangi area di sekitar rumahnya. 
+
+//. 
+
+Tanah seluas hampir 4 meter persegi dihalaman rumahnya ambruk beserta satu unit mobil miliknya ikut terbawa longsoran arus sungai. 
+
+" Bruuukkk, ambruknya seketika, saya langsung loncat ke pagar samping rumah tetangga, " ujar Adi, saat ditemui dilokasi kejadian, <TIMEX3 tid="t4" type="TIME" value="2017-11-29TMO">Rabu pagi</TIMEX3>. 
+
+Dikatakan Adi, ia sebenarnya sudah curiga talud sungai gajah wong disamping rumahnya bakal ambruk. 
+
+Kecurigaan itu bermula dari sebuah lubang kecil yang mulai terlihat dihalaman rumah miliknya sekira <TIMEX3 tid="t5" type="TIME" value="2017-11-28T15:00">pukul 15.00 WIB</TIMEX3>. 
+
+. 
+
+" Saya sudah curiga karena ada lubang kecil dihalaman rumah, apalagi diperparah mulai ada retakan-retakan, " ungkapnya. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> pihak BPBD, SAR, Kepolisian, TNI dan sejumlah relawan bencana sudah berada Dilokasi untuk bersiap melakukan evakuasi. 
+
+Sampai berita ini ditulis, walaupun relawan sudah berkumpul namun belum ada proses evakuasi. 
+
+Hal itu mengingat medan yang terlampau sulit. 
+
+Diperoleh informasi juga, tim Evakuasi tengah mendatangkan alat berat untuk membantu proses evakuasi mobil. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0350</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-04-27" temporalFunction="false" functionInDocument="CREATION_TIME">2019-04-27</TIMEX3></DCT>
+
+<TITLE>Imas Tewas Terseret Banjir saat Akan Ambil Termos yang Hanyut, Anies Baswedan Bagikan Kisahnya</TITLE>
+
+<TEXT>
+Kabar duka cita disampaikan oleh Gubernur DKI Jakarta Anies Baswedan ketika meninjau langsung ketinggian debit air di Pintu Air Manggarai. 
+
+Imas (48) salah seorang warga DKI yang menjadi korban banjir, tewas akibat terseret arus ketika hendak mengambil sebuah termos. 
+
+" Jadi saya tadi melayat namanya Ibu Imas. 
+
+Beliau itu mencoba mengambil barang yang mengalir ke sungai, " kata Anies Baswedan, <TIMEX3 tid="t1" type="DATE" value="2019-04-26">Jumat (26/4/2019)</TIMEX3>. 
+
+Imas, memang bekerja sebagai seorang pemulung. 
+
+Saat banjir Jakarta, Imas berniat hendak mengambil sebuah termos yang menghanyut, namun nahas, Imas harus terbawa arus yang <TIMEX3 tid="t2" type="DATE" value="PAST_REF">saat itu</TIMEX3> sedang deras-derasnya. 
+
+" Termosnya kepegang, tapi alirannya kuat dan airnya dalam, akhirnya jatuh ke dalam jembatan. 
+
+Jadi di daerah tempatnya Kebon Pala, " kata Anies Baswedan. 
+
+Anies Baswedan bercerita, bahwa saat kejadian berlangsung Imas yang juga bersama suaminya di lokasi kejadian, sempat diingatkan. 
+
+Sang suami mencoba memberitahu Imas agar ia melepaskan termos tersebut.Namun sangat disayangkan, termos itu sudah digenggam Imas. 
+
+Ia pun sontak terbawa arus. " Karena itu saya mengimbau kepada semua jangan mendekati arus yang keras. 
+
+Bila lihat ada barang-barang di situ, jangan berusaha untuk mengambil barang di tengah-tengah arus yang deras seperti ini. 
+
+Lebih baik pikirkan keselamatan, itu yang tadi <TIMEX3 tid="t3" type="TIME" value="2019-04-27TMO">pagi</TIMEX3> terjadi <TIMEX3 tid="t4" type="TIME" value="2019-04-26T09">jam 09.00 WIB</TIMEX3>, " tuturnya. 
+
+. 
+
+// Ia pun meminta agar masyarakat tak mengambil barang apapun yang terlihat menganyut. 
+
+Tagar AniesDimana Sempat Merajai Trending TopicBanjir yang melanda sejumlah kawasan di DKI Jakarta memunculkan reaksi di dunia maya. 
+
+Tagar AniesDimana pun merajai trending topic di Twitter, yang terpantau pada <TIMEX3 tid="t5" type="DATE" value="2019-04-27">hari Sabtu (27/4/2019)</TIMEX3>. 
+
+Tagar ini seolah meminta pertanggungjawaban Sang Gubernur atas banjir yang sudah mengepung ibukota. 
+
+Gubernur DKI Jakarta, Anies Baswedan memberikan jawaban pada Banjir Jakarta melalui Twitter. 
+
+Anies Baswedan juga memberikan sebuah tayangan video dalam postingan di Twitter. 
+
+Beginilah situasi Pintu Air Manggarai mulai <TIMEX3 tid="t6" type="TIME" value="2019-04-26">kemarin malam</TIMEX3> sampai datangnya air dan sampah <TIMEX3 tid="t7" type="TIME" value="2019-04-26TMO">pagi tadi</TIMEX3>. 
+
+Ini menunjukkan pentingnya kita sama-sama menjaga sungai, tidak membuang sampah ke sungai sejak dari hulu sampai hilir.2.258 Jiwa Mengungsi Akibat Banjir Ibu KotaHujan deras yang mengguyur wilayah Bogor telah menyebabkan meluapnya sungai Katulampa, Jawa Barat. 
+
+// Hal ini berdampak pada naiknya debit Sungai Ciliwung sejak tadi <TIMEX3 tid="t8" type="TIME" value="2019-04-26TNI">malam</TIMEX3>. 
+
+Tinggi muka air Sungai Ciliwung diketahui mencapai 220 hingga 250 centimeter atau berstatus Siaga 1. 
+
+" Sebanyak 285 KK dan <TIMEX3 tid="t9" type="DATE" value="2258">2258</TIMEX3> Jiwa mengungsi akibat banjir pada <TIMEX3 tid="t10" type="DATE" value="2019-04-26">tanggal 26 April 2019</TIMEX3>. 
+
+<TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> lokasi pengungsi berada di 12 titik lokasi yang terdiri dari 2 titik lokasi di Jakarta Selatan dan 10 titik lokasi di Jakarta Timur, " kata Kepala Pusat Data Informasi dan Humas BNPB, Sutopo Purwo Nugroho dalam keterangannya, <TIMEX3 tid="t12" type="DATE" value="2019-04-26">Jumat (26/4/2019)</TIMEX3>. 
+
+Selain menewaskan Imah, Sutopo menjelaskan bahwa banjir tersebut juga menewaskan Suyanto (70) di Kelurahan Bidara Cina, Jakarta Timur. 
+
+Ia tewas akibat serangan jantung. 
+
+Ada 32 titik terdampak banjir kiriman akibat luapan sungai tersebut. 
+
+Berdasarkan laporan laporan Pusdalops BPBD titik tersebut diantaranya adalah RW 01, 02, 011 Kel. 
+
+Pengadegan, RW 01, 03, 07 di Kel. 
+
+Rawa Jati, RW 01 di Kel. 
+
+Cikoko, dan RW 010 di Kel. 
+
+Kebon Baru, dengan ketinggian banjir rata-rata 10 sampai dengan 250 cm di kawasan Jakarta Selatan, Juga di wilayah Jakarta Timur tepatnya di RW 01, 02, 03, 05, 08, 012 Kel. 
+
+Cawang, RW 01, 02, 04, 05 Kel. 
+
+Balekambang, RW 05, 06, 07, 015, 016 Kel. 
+
+Cililitan, RW 04 s. 
+
+d RW 08 Kel. 
+
+Kamp. 
+
+Melayu dan RW 06,07,011,014 Kel. 
+
+Bidara Cina, dengan ketinggian banjir rata-rata 10 sampai 250 cm. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0103</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-12" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-12</TIMEX3></DCT>
+
+<TITLE>Usai Bencana Gempa dan Tsunami, Begini Kondisi Ikon Kebanggaan Palu dan Keberadaan Buaya Kalung Ban</TITLE>
+
+<TEXT>
+Jembatan Ponulele atau yang disebut oleh masyarakat setempat Jembatan Kuning menjadi saksi bisu bencana gempa dan tsunami yang mengguncang Palu, Sulawesi Tengah. 
+
+Pantauan wartawan TribunJakarta. 
+
+com, jembatan berbentuk melengkung yang menjadi ikon Kota Palu itu <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> terputus dan tak bisa dilalui. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> ada beberapa coretan " Saksi Bisu Tsunami dan Pray for Palu Palu Kuat " terlihat di dinding jembatan. 
+
+Darmo, salah satu warga yang berada di Jembatan Kuning mengatakan saat bencana gempa dan tsunami terjadi jembatan ini sedang ditutup karena sedang ada kegiatan Festival Palu Nomoni " Coba saja kalau tak sedang ditutup pasti akan banyak warga yang jadi korban karena jembatan ini ramai dipenuhi warga, " kata Darmo kepada TribunJakarta. 
+
+com, <TIMEX3 tid="t3" type="DATE" value="2018-10-11">Kamis (11/10/2018)</TIMEX3>. 
+
+Kendati <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> Jembatan Kuning telah terputus, jembatan tersebut tetap menjadi daya tarik bagi masyarakat Palu dan sekitarnya. 
+
+Seperti terlihat <TIMEX3 tid="t5" type="DATE" value="2018-10-12">hari ini</TIMEX3>, dimana banyak masyarakat yang datang ke Jembatan Kuning untuk melihat kondisi ikon kesayangan Palu yang luluh lantak pasca diguncang gempa dan tsunami. 
+
+Mereka mengabadikan kondisi Jembatan Kuning <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> menggunakan ponselnya.Beberapa dari mereka juga tak menyangka bahwa jembatan itu <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">kini</TIMEX3> sudah hancur karena bencana yang tak pernah bisa diprediksi sebelumnya.Bayu (25) salah satu warga yang berfoto di Jembatan Kuning mengatakan jembatan ini memiliki banyak kenangan dan cerita bagi masyarakat Palu. 
+
+// Sebab, selain bentuknya yang unik dan indah, Jembatan Kuning juga menjadi lokasi favorit masyarakat setempat. 
+
+Bila berada di Jembatan Kuning, kita bisa melihat pemandangan pegunungan di sisi barat dan Pantai Talise di bagian utaranya. 
+
+Karenanya, bagi para wisatawan yang datang ke ibukota Provinsi Sulawesi Tengah ini seolah belum lengkap bila tak melihat Jembatan Kuning. 
+
+" Ini memang menjadi ikon Palu. 
+
+Banyak warga yang berhenti di jembatan ini untuk berfoto-foto melihat pemandangan yang ada, " kata Bayu. 
+
+Dibawah jembatan sepanjang 300 meter ini adalah Sungai Palu yang airnya mengalir menuju Pantai Talise yang menjadi lokasi wisata di kota ini. 
+
+Bayu menuturkan biasanya masyarakat memadati Jembatan Kuning pada <TIMEX3 tid="t8" type="TIME" value="2018-10-11TAF">sore</TIMEX3> hingga <TIMEX3 tid="t9" type="TIME" value="2018-10-11TNI">malam hari</TIMEX3>. 
+
+" Kalau <TIMEX3 tid="t10" type="TIME" value="2018-10-12TNI">malam itu</TIMEX3> lampunya berwarna warni sehingga pemandangan sangat indah dan cocok untuk foto-foto, " ucap Bayu. 
+
+Selain keindahan tersebut, ada hal unik lain yang melekat dengan Jembatan Kuning ini. 
+
+Nugratma, warga Palu lainnya, menyebut kalau Jembatan Kuning menjadi tempat untuk menunggu kemunculan buaya kalung ban yang kerap terlihat disana. 
+
+Dikatakannya, buaya kalung ban adalah seekor buaya muara yang di lehernya dikalungi ban motor oleh orang tak bertanggungjawab sehingga penampilan hewan predator itu berbeda dengan yang lainnya. " Buaya kalung ban itu memang sering terlihat dari Jembatan Kuning ini. 
+
+<TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> warga sini sudah menganggapnya sebagai ikon disini karena memang unik dan sudah dikenal, " kata Nugratma.Bahkan, lanjut dia, Panji si Petualang pun pernah berusaha untuk menangkap buaya tersebut namun tak berhasil. " Jadi memang buaya kalung ban ini bisa dibilang sebagai ikon kota Palu, " ujarnya. 
+</TEXT>
+
+</TimeML>

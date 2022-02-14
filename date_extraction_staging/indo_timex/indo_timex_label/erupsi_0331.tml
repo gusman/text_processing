@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0331</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-27" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-27</TIMEX3></DCT>
+
+<TITLE>Kumpulan Foto Erupsi Gunung Tangkuban Parahu, Abu Tebal Sampai Selimuti Mobil</TITLE>
+
+<TEXT>
+Warga di wilayah Bandung Raya dikagetkan oleh erupsi Gunung Tangkuban Parahu, <TIMEX3 tid="t1" type="DATE" value="2019-07-25">Jumat (25/7/2019)</TIMEX3>. 
+
+Menurut keterangan Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG), Badan Geologi, Gunung Tangkuban Parahu mengalami erupsi pada <TIMEX3 tid="t2" type="TIME" value="2019-07-26T15:48">pukul 15.48</TIMEX3>. 
+
+Sejumlah foto-foto yang menunjukkan abu tebal dan dampak erupsi pun beredar di media sosial dan aplikasi perpesanan instan WhatsApp. 
+
+Melalui akun Twitter resminya, Badan Nasional Penanggulangan Bencana (BNPB) juga turut membagikan beberapa foto terkini. 
+
+Akibat erupsi Gunung Tangkuban Parahu, abu vulkanik terlihat bertebaran ke wilayah permukiman dan daerah wisata di sekitarnya. 
+
+Abu tebal juga terlihat menempel di mobil-mobil. 
+
+Di kaca depan sebuah mobil, tampak abu itu menumpuk tebal. 
+
+Tak hanya di kaca depan mobil, abu tebal tersebut juga menyelimuti bagian atas. 
+
+Mobil terlihat sudah dikosongkan, beberapa orang tampak berdiri di sekitarnya. 
+
+// Di foto lainnya, kolom abu tebal terlihat membubung tinggi di atas Gunung Tangkuban Parahu. 
+
+Langit di sekitar lokasi pun berubah menjadi lebih gelap dari biasanya. 
+
+PVMBG menjelaskan, tinggi kolom abu itu teramati mencapai 200 meter di atas puncak. 
+
+Abu tebal tersebut mengarah condong ke arah timur laut dan selatan. 
+
+" Erupsi ini terekam di seismogram dengan amplitudo maksimum 38 mm dan durasi kurang lebih <TIMEX3 tid="t3" type="DURATION" value="PT5M30S">5 menit 30 detik</TIMEX3>, " tulis Kepala PVMBG, Kasbani, dalam keterangan terulis yang diterima TribunJabar. 
+
+id. 
+
+Gunung Tangkuban Parahu <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih berada pada status level I atau normal. 
+
+Ada beberapa rekomendasi yang diberikan PVMBG. 
+
+Pertama, masyarakat, pengunjung, atau wisatawan di sekitar Gunung Tangkuban Parahu tidak diperbolehkan turun mendekati dasar kawah Ratu dan Kawah Upas. 
+
+Pengunjung juga tidak boleh menginap dalam kawasan kawah-kawah aktif yang ada di dalam kompleks Gunung Tangkuban Parahu. " Serta ketika cuaca mendung dan hujan dikarenakan terdapatnya gas-gas vulkanik yang dapat membahayakan kehidupan manusia, " tulis Kasbani. 
+
+// Pihak PVMBG juga meminta masyarkat di sekitar Gunung Tangkuban Parahu agar mewaspadai terjadinya letusan freatik. 
+
+Letusan itu bersifat tiba-tiba dan tanpa didahului oleh gejala-gejala vulkanik yang jelas. 
+
+Aktivitas MeningkatSebelumnya diberitakan aktivitas vulkanik Gunung Tangkuban Parahu di Kabupaten Bandung Barat kembali meningkat. 
+
+Hal itu berdasarkan pengamatan visual Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG), <TIMEX3 tid="t5" type="DATE" value="2019-07-22">Senin (22/7/2019)</TIMEX3>. 
+
+Dari hasil rekaman seismograf PVMBG, terpantau sudah terjadi 425 kali gempa. 
+
+Hembusan dan Asap kawah utama bertekanan lemah hingga sedang teramati berwarna putih dengan intensitas sedang hingga tebalSelain itu sudah terjadi dua kali gempa Tremor Harmonik, tiga kali gempa frekuensi rendah, tiga kali gempa vulkanik dalam, dan tiga kali gempa tektonik jauh. 
+
+. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> PVMBG masih mengevaluasi data lengkapnya. 
+
+" Intinya masih dievaluasi karena aktivitas Gunung Tangkuban Parahu masih didominasi gempa hembusan yang berfluktuasi dan masih kami evaluasi data lengkapnya, " ujarnya saat dikonfirmasi Tribun melalui pesan singkat. 
+
+// Namun secara umum, kata dia, variasi gempa hembusan berfluktuasi ini pernah terjadi di tahun tahun sebelumnya. 
+
+Hal tersebut akibat efek perubahan muka air tanah akibat perubahan musim. 
+
+. 
+
+" Atas kejadian ini wisatawan agar tidak turun mendekat ke kawah aktif serta tetap mengikuti perkembangan dari BPBD dan pengelola (Gunung Tangkuban Parahu), " katanya. 
+
+Ia mengatakan, evaluasi aktivitas vulkanik Gunung Tangkuban Parahu hingga <TIMEX3 tid="t7" type="DURATION" value="PXD">beberapa hari ke depan</TIMEX3> akan selesai, <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> datanya masih terus dikumpulkan dan dianalisis. 
+
+" Intinya tergantung kapan ada perubahan muka air tanah, yang naik turunnya muka air tanah bergantung musim, tapi ini semua baru dugaan, karena evaluasi dan analisis kami belum final, " katanya. 
+
+
+</TEXT>
+
+</TimeML>

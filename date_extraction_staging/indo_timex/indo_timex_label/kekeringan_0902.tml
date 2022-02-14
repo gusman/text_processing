@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0902</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-28" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-28</TIMEX3></DCT>
+
+<TITLE>Warga Terdampak Kekeringan Panjang, DPC PDI Perjuangan Solo Grojog 50 Ribu Liter Air Bersih</TITLE>
+
+<TEXT>
+Sebanyak 50 ribu liter air bersih dikirimkan ke Kelurahan Mojosongo dan Joglo oleh DPC PDI Perjuangan Solo, <TIMEX3 tid="t1" type="DATE" value="2019-10-28">Senin (28/10/2019)</TIMEX3>. 
+
+Wakil Ketua DPC Bidang Pemuda Olahraga dan Komunitas Budaya, Her Suprabu mengatakan, kegiatan ini dilakukan dalam rangka peringatan Sumpah Pemuda. 
+
+" Ini merupakan bantuan sosial untuk masyarakat yang membutuhkan air bersih, " papar Her Suprabu, <TIMEX3 tid="t2" type="DATE" value="2019-10-28">Senin (28/10/2019)</TIMEX3>. 
+
+Solo <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sedang terdampak kekeringan panjang yang membuat mereka kekurangan air bersih untuk kebutuhan <TIMEX3 tid="t4" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+Permintaan air bersih yang masuk ke BPBD cukup banyak namun armada dari BPBD tidak mencukupi. 
+
+. 
+
+Her Suprabu mengatakan, ada sekitar 7 tangki air dengan total 50 ribu liter yang akan dibagikan ke warga. 
+
+Mereka sudah melakukan pemetaan meminta data dari BPBD Solo untuk mengetahui warga mana yang membutuhkan air. 
+
+Sementara itu, rincian RT yang mendapatkan bantuan yakni: 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0520</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-09" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-09</TIMEX3></DCT>
+
+<TITLE>Tanah Longsor Jebol Rumah Warga Samigaluh</TITLE>
+
+<TEXT>
+Bencana tanah longsor kembali terjadi di wilayah Kecamatan Samigaluh, Kabupaten Kulon Progo, <TIMEX3 tid="t1" type="DATE" value="2018-12-08">Sabtu (8/12/2018)</TIMEX3>. 
+
+Material longsoran itu mengenai tiga rumah warga Pedukuhan Keceme, Desa Gerbosari hingga mengalami kerusakan pada beberapa bagiannya. 
+
+Peristiwa itu terjadi setelah hujan deras mengguyur kawasan tersebut sejak <TIMEX3 tid="t2" type="DATE" value="2018-12-07">Jumat (7/12/2018)</TIMEX3> hingga <TIMEX3 tid="t3" type="DATE" value="2018-12-08">Sabtu</TIMEX3> dinihari. 
+
+Guyuran hujan terus menerus membuat struktur tebing di dekat rumah warga rapuh dan kemudian ambrol. 
+
+Jarak yang cukup dekat membuat material longsoran itu langsung menghantam bangunan rumah warga. 
+
+Tidak ada korban jiwa dalam kejadian ini. 
+
+Upaya penanganan awal pun telah dilakukan oleh masyarakat bersama relawan kebencanaan dan petugas terkait. 
+
+Rumah yang rusak antara lain milik warga bernama Karno, Palal, dan Sunaryo. 
+
+Kerusakan terparah dialami rumah milik Karno. 
+
+Tebing setinggi sekitar 10 meter dan lebar 15 meter di belakang rumahnya ambrol. 
+
+Dinding beton ruang dapurnya jebol dihantam material longsoran. 
+
+Beruntung, enam orang penghuni rumah bisa selamat karena tengah berada di ruangan depan. 
+
+// " Saya terbangun mendengar suara gemuruh. 
+
+Ternyata ruang dapur kena longsoran, " kata Karno, <TIMEX3 tid="t4" type="DATE" value="2018-12-09">Minggu (9/12/2018)</TIMEX3>. 
+
+Akibat kejadian itu, dirinya mengalami kerugian sekitar Rp15 juta karena rusaknya bagian belakang rumah. 
+
+Menurutnya, tebing tersebut memang sudah seringkali mengalami longsor dan <TIMEX3 tid="t5" type="SET" value="UNKNOWN">hampir setiap tahun</TIMEX3> terjadi. 
+
+Namun, baru kali ini longsoran terjadi cukup besar hingga menjebol dinding rumahnya. 
+
+" <TIMEX3 tid="t6" type="SET" value="UNKNOWN">Hampir setiap tahun</TIMEX3> pasti longsor kalau <TIMEX3 tid="t7" type="DATE" value="2017-WI">musim hujan</TIMEX3>. 
+
+Saya tidak ada tempat lain untuk pindah. 
+
+Jadi, ya tetap " tinggal di sini saja, " jelasnya. 
+
+Hal senada diungkapkan Palal, warga lainnya. 
+
+Tebing setinggi 10 meter dan lebar 8 meter di samping rumahnya longsor hingga menjebol dinding kayu bagian belakang rumahnya. 
+
+Namun begitu, ia enggan pindah dari lokasi tersebut. 
+
+Para warga itu menyadari bencana bisa datang lagi kapan saja namun mereka memilih untuk tetap tinggal di rumahnya <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> atas berbagai pertimbangan sembari terus meningkatkan kewaspadaan saat hujan mengguyur. 
+
+" Sudah <TIMEX3 tid="t9" type="DURATION" value="PXY">bertahun-tahun</TIMEX3> tinggal di sini, sudah nyaman dan tidak ingin pindah ke lain tempat, " kata dia.Badan Penanggulangan Bencana Daerah (BPBD) Kulon Progo memetakan ada sekitar 200 pedukuhan di 21 desa yang rawan terjadi tanah longsor, terutama di kawasan perbukitan Menoreh. 
+
+// Antara lain di Kecamatan Kokap, Samigaluh, Girimulyo, Kalibawang, dan Pengasih. 
+
+Kepala Seksi Pencegahan dan Kesiapsiagaan, BPBD Kulon Progo, Hepy Eko Nugroho mengatakan, pihaknya sudah menggelar rapat koordinasi lintas instansi <TIMEX3 tid="t10" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3> untuk menyamakan persepsi dalam mengantisipasi datangnya <TIMEX3 tid="t11" type="DATE" value="2017-WI">musim hujan</TIMEX3> beserta bencana yang mengintai sesuai kewenangan masing-masing. 
+
+Juga, berkoordinasi dengan jaringan relawan. 
+
+Pihaknya telah memasang 87 unit early warning system (EWS) di sejumlah titik yang memiliki risiko berdampak pada pemukiman warga. 
+
+Antara lain di Kokap (Soropati, Jeruk) Girimulyo (Ngrancah, Pendoworejo), dan Samigaluh (Sulur, Sidoarjo). 
+
+Namun, BPBD tak mau tergantung pada EWS karena alat tersebut bisa saja rusak. 
+
+" Hal utama adalah mengajak warga untuk lebih siaga dan tanggap bencana. 
+
+Masyarakat sudah kami sosialisasikan untuk peningkatan kewaspadaan, " kata Hepy. 
+
+
+</TEXT>
+
+</TimeML>

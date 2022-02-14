@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1008</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-25</TIMEX3></DCT>
+
+<TITLE>Kebakaran Lahan di Kolut, Diduga Dilakukan OTK</TITLE>
+
+<TEXT>
+Kebakaran lahan perkebunan yang berada di perbatasan Desa Mosiku dan Desa Lelewawo Kecamatan Batuputih Kabupaten Kolaka Utara (Kolut) menghanguskan kurang lebih tiga hektare di wilayah tersebut. 
+
+Kapolsek Batu putih Iptu Jamil mengatakan, berdasarkan laporan masyarakat kobaran api mulai terlihat di salah satu lahan milik warga bernama Timber <TIMEX3 tid="t1" type="TIME" value="2019-10-24T13:00">sekitar pukul 13:00</TIMEX3> wita pada <TIMEX3 tid="t2" type="DATE" value="2019-10-24">kamis (24/10/2019)</TIMEX3>. 
+
+Hanya <TIMEX3 tid="t3" type="DURATION" value="PTXH">beberapa jam</TIMEX3> kobaran api semakin luas hingga mendekati jalan Trans Sulawesi. 
+
+. 
+
+Yang terbakar itu bukan hutan tetapi lahan masyarakat yang akan dijadikan lahan pertanian, adapun penyebabnya masih dalam lidik siapa pelakunya apakah ada unsur kesengajaan, karena berdasarkan laporan masyarakat kawasan tersebut kerap dibakar seseorang, kata Jamil, <TIMEX3 tid="t4" type="DATE" value="2019-10-25">Jumat (25/10/2019)</TIMEX3>. 
+
+Lanjut dia, sebanyak 2 unit mobil pemadam kebakaran diterjunkan dari Kecamatan Ngapa dan Lasusua dibantu beberapa anggota polsek dan bhabinsa serta pemerintah setempat berupaya memadamkan api yang dapat dijangkau. 
+
+Namun kuatnya tiupan angin sempat menyebabkan tim gabungan kewalahan dalam memadamkan kobaran api tersebut. 
+
+. 
+
+Untung <TIMEX3 tid="t5" type="DURATION" value="2019-10-01TNI">semalam</TIMEX3> hujan <TIMEX3 tid="t6" type="TIME" value="2019-10-24T23:00">sekitar pukul 23:00</TIMEX3> wita dan <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> apinya sudah padam, ujarnya. 
+
+Atas kejadian tersebut, ia mengimbau agar pemilik lahan maupun warga supaya tidak membakar lahan sembarangan meski milik sendiri. 
+
+Pasalnya, dampak kebakaran bisa fatal dan membahayakan bagi diri sendiri dan orang lain. 
+
+(B) Kontributor: Rusman Editor: Muhamad Taslim Dalma 
+</TEXT>
+
+</TimeML>

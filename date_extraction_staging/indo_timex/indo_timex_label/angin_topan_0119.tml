@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0119</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-11-14" temporalFunction="false" functionInDocument="CREATION_TIME">2017-11-14</TIMEX3></DCT>
+
+<TITLE>Waduh! Tak Hanya Bandara Syamsudin Noor, Rupanyak Banyak Kerusakan Akibat Angin di Banjarbaru</TITLE>
+
+<TEXT>
+Hujan deras terpantau masih berlangsung hingga <TIMEX3 tid="t1" type="TIME" value="2017-11-13T00:47">pukul 00.47</TIMEX3> Wita di kawasan Banjarbaru dan sekitarnya. 
+
+Hujan disertai angin kencang ternyata tak hanya rusak sejumlah fasilitas di Bandara Syamsudin Noor. 
+
+Mulai dari pohon sampai tiang listrik roboh terjadi di Banjarbaru. 
+
+Kondisi jalanan pun sebagian besar tampak kotor oleh dedaunan bercampur ranting pohon. 
+
+Beberapa diantara ruas jalan juga tergenang. 
+
+Akibat cuaca buruk dari informasi yang terhimpun menyebabkan kabel listrik putus di RO ulin Loktabat simpang tiga ambulung dekat SMP 5. 
+
+Membahayakan karena kabel tersebut menghalangi jalan. 
+
+Tidak hanya itu, kerusakan lainnya yakni tiang listrik samping makam di kasturi tembus jakan gotong royong roboh. 
+
+" Hujan <TIMEX3 tid="t2" type="TIME" value="2017-11-14TNI">malam ini</TIMEX3> banyak membawa bencana mana banjir, mobil tecabur, bandara juga atapnya runtuh, " ucap Adrian rekanan emergency. 
+
+Warga, Suyono juga melaporkan jika ada pohon tumbang di taman Rindam. 
+
+" Ijin rekan ada pohon tumbang di taman rindam, " katanya. 
+
+Simak videonya: 
+</TEXT>
+
+</TimeML>

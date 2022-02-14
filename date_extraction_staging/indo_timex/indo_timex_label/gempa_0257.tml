@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0257</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-10" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-10</TIMEX3></DCT>
+
+<TITLE>Korem 041/Gamas Do akan Korban Bencana Sulteng</TITLE>
+
+<TEXT>
+Bencana nasional Gempa dan Tsunami yang melanda wilayah Indonesia di Sulawesi Tengah pada <TIMEX3 tid="t1" type="DATE" value="2018-09-28">28 September lalu</TIMEX3> menjadi perhatian di tingkat nasional maupun internasional. 
+
+Hal serupa juga berlaku bagi Korem 041 Gamas. 
+
+Turut peduli terhadap sesama, Korem 041/ Gamas melakukan Istiqosah, Dzikir dan Doa bersama serta Penggalangan Dana Sosial untuk korban bencana nasional gempa bumi dan tsunami di Lombok, Sumbawa, Palu dan Donggala di Masjid Agung At- Taqwa Kota Bengkulu, <TIMEX3 tid="t2" type="DATE" value="2018-10-03">Rabu (10/10/2018)</TIMEX3>. 
+
+Dalam sambutan tertulis Komandan Korem O41 Gamas Kol. 
+
+Inf Irnando Arnold B Sinaga yang di. 
+
+M. 
+
+Fathur Rahman mengatakan semoga seluruh masyarakat di Lombok, Sumbawa, Palu dan Donggala yang <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terkena musibah gempa dan tsunami diberi ketabahan dan ikhlas menerima cobaan tersebut. 
+
+Serta, saudara-saudara kita yang sedang mengalami cobaan semoga diberi ketabahan, keikhlasan serta dipulihkan seperti sedia <TIMEX3 tid="t4" type="DATE" value="UNKNOWN">kala</TIMEX3>, kata Fathur saat menyampaikan sambutan Danrem. 
+
+Setelah melakukan Shalat Ghaib bersama, kegiatan akan dilanjutkan dengan dzikir dan doa bersama, serta pengggalangan donasi. 
+
+Semoga arwah para korban diterima di tempatnya, mari kita bekerja bahu-membahu meringankan beban yang mereka alami, tutupnya. 
+
+Deni Dwi Cahya 
+</TEXT>
+
+</TimeML>

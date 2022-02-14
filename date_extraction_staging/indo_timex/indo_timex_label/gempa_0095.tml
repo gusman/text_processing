@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0095</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-12-16" temporalFunction="false" functionInDocument="CREATION_TIME">2017-12-16</TIMEX3></DCT>
+
+<TITLE>Gempa Sebabkan Atap Kantor Bupati Tasikmalaya Roboh</TITLE>
+
+<TEXT>
+Bupati Tasikmalaya mengalami kerusakan cukup parah akibat gempa berskala 6,9 skala richter yang terjadi di wilayah Tasikmalaya <TIMEX3 tid="t1" type="TIME" value="2017-12-14TNI">tengah malam tadi</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017-12-16">Jumat (16/12/2017)</TIMEX3>. 
+
+Bagian atap lantai empat bangunan tersebut ambrol dan bagian lantai dan dinding rusak akibat getaran hebat yang terasa sampai Jakarta dan Yogyakarta tersebut. 
+
+. 
+
+Lantai dan dinding bangunan empat lantai tersebut ada yang retak parah, " jelas Edi, salah seorang petugas jaga yang sedang piket <TIMEX3 tid="t3" type="TIME" value="2017-12-15TNI">malam</TIMEX3> di lokasi kejadian, <TIMEX3 tid="t4" type="DATE" value="2017-12-16">Sabtu (16/12/2017)</TIMEX3> dini hari. 
+
+Edi menuturkan, kejadian gempa besar yang terjadi <TIMEX3 tid="t5" type="TIME" value="2017-12-15TNI">tengah malam</TIMEX3> membuat kaget para petugas jaga dan berhamburan keluar perkantoran. 
+
+Terdengar suara benda besar jatuh di dalam gedung dan teriakan warga sekitar yang berhamburan keluar rumah. 
+
+. 
+
+Dinding dan lantai bangunan banyak yang retak. 
+
+Beruntung di tempat kejadian enggak ada orang, " kata dia. 
+
+Menurutnya, selain bangunan kantor bupati, beberapa bangunan perkantoran lainnya dan beberapa rumah warga mengalami hal sama pasca-gempa. 
+
+. 
+
+" Rumah warga juga sama banyak yang retak, tapi jumlah pastinya belum bisa dipastikan, " tambahnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

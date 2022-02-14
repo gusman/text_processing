@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1000</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-11" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-11</TIMEX3></DCT>
+
+<TITLE>Peduli Korban Bencana Alam, HSL Salurkan Bantuan</TITLE>
+
+<TEXT>
+Ketua Markas Cabang Laskar Merah Putih (LMP) Kota Parepar, H. 
+
+Syamsul Latanro (HSL), didampingi sejumlah pengurus, menyerahkan bantuan kepada korban bencana angin kencang pada tiga kelurahan di Kecamatan Bacukiki Barat. 
+
+Bantuan berupa beras dan mie instans diberikan kepada 85 Kepala Keluaga di Kelurahan Lumpue, Kelurahan Sumpang Minangae dan Kelurahan Tiro Sompe. 
+
+HSL mengatakan, bantuan tersebut diberikan sebagai bentuk kepedulian untuk meringankan beban warga, yang menjadi korban bencana. 
+
+Terlebih, kata dia, duka mereka merupakan duka bersama. 
+
+Ini adalah ujian dan cobaan bagi kita, agar kita dapat memetik hikmahnya, dan mempertebal iman kita, katanya, <TIMEX3 tid="t1" type="DATE" value="2020-01-11">Sabtu (11/01/2020)</TIMEX3>. 
+
+HSL mengungkapkan, pihaknya juga telah mengomunimasikan dan mendorong Pemerintah Kota Parepare melalui Sekda, agar bantuan peralatan perbaikan rumah dapat disalurkan. 
+
+Bantuan yang diberikan sesuai dengan data di lapangan, dan Pemkot berjanji segera menyalurkannya kepada para korban, tutupnya. 
+
+
+</TEXT>
+
+</TimeML>

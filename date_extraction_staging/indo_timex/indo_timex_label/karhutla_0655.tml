@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0655</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-09" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-09</TIMEX3></DCT>
+
+<TITLE>Kylie Jenner Sumbang Rp 13,9 Miliar Atasi Kebakaran Hutan di Australia, Dua Ribu Rumah Ludes</TITLE>
+
+<TEXT>
+Kebakaran hebat yang melanda wilayah Australia <TIMEX3 tid="t1" type="DATE" value="PAST_REF">akhir-akhir ini</TIMEX3> telah menggerakkan hati bintang televisi Kylie Jenner turut menyumbang. 
+
+Tak mau ketinggalan, Kylie Jenner menyumbang sebesar satu juta dollar AS atau setara dengan Rp 13,9 miliar untuk mengatasi dan membantu korban kebakaran hutan di negeri Kanguru tersebut. 
+
+Tetapi, dilansir dari Eonline, <TIMEX3 tid="t2" type="DATE" value="2020-01-07">Selasa (7/1/2020)</TIMEX3>, sebelum memberikan sumbangan, perempuan <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">22 tahun ini</TIMEX3> menjadi sorotan dan dikritik di media sosial. 
+
+Pasalnya, netizen menganggap ibu dari Stormi Webster ini mengunggah hal yang dianggap tidak sejalan dengan apa yang dikampanyekannya. 
+
+Selama <TIMEX3 tid="t4" type="DATE" value="2020-01-02">akhir pekan kemarin</TIMEX3>, pendiri Kylie Cosmetics ini berbagi kisah di Instagram untuk meningkatkan kepedulian terhadap kebakaran hutan yang memengaruhi penduduk dan binatang di Australia. 
+
+Tetapi, dalam unggahan selanjutnya di Instagram Story, Kylie Jenner membagikan foto yang memperlihatkan tengah mengenakan sandal tidur Luis Vuiton yang terbuat dari bulu cerpelai. 
+
+Sontak, Kylie Jenner langsung mendapat banyak kritikan dari netizen di Twitter. 
+
+Pasalnya, tindakan sang bintang dianggap tidak sesuai dengan kampanye yang yang digaungkan. 
+
+Kylie Jenner unggah tentang menyelamatkan Koala. 
+
+Kemudian, unggah sandal tidurnya yang terbuat dari bulu cerpelai Apakah masuk akal? tulis netizen di Twitter. 
+
+Di balik kontroversi yang dibuatnya, Kylie Jenner sudah berbaik hati menyumbang Rp 13,9 miliar untuk mengatasi kebakaran hutan di Australia. 
+
+// Diberitakan CBN News, sekitar 12,35 juta hektar lahan di Australia terbakar. 
+
+Kebakaran hutan itu disebut merusak lebih dari 1.400 rumah dan merenggut setidaknya 23 nyawa. 
+
+Selain itu, belakangan diberitakan bahwa kebakaran hutan di Australia juga merenggut nyawa lebih dari setengah miliar hewan liar. 
+
+Sebelum Kylie Jenner, bintang film Thor, Chris Hemsworth juga menyumbang Rp 13,9 miliar untuk atasi kebakaran hutan di Australia. 
+
+Lebih Dari Dua Ribu Rumah di Australia TerbakarKondisi cuaca yang lebih sejuk dalam <TIMEX3 tid="t5" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir memberikan kesempatan kepada petugas pemadam kebakaran di Australia untuk istirahat, sebelum cuaca buruk akan kembali pada <TIMEX3 tid="t6" type="DATE" value="2020-01-10">hari Jumat (10/1/2020)</TIMEX3>. 
+
+Sejauh ini Dinas Pemadam Kebakaran di negara bagian New South Wales, yakni RFS, mengatakan sudah ada 1.588 rumah di negara bagian tersebut yang hancur.653 diantaranya mengalami kerusakan. 
+
+Di negara bagian Victoria, Menteri Utama Daniel Andrews mengatakan sedikitnya 200 rumah musnah terbakar sejauh ini. 
+
+Angka ini diperkirakan akan meningkat, setelah berwenang selesai melakukan pengecekan secara menyeluruh. 
+
+// Dewan Asuransi Australia (ICA) memperkirakan kerusakan akibat kebakaran semak sejak <TIMEX3 tid="t7" type="DATE" value="2019-09">bulan September</TIMEX3> hingga <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> telah mencapai AU 700 juta, atau kurang dari Rp 7 triliun. 
+
+Sudah ada 8.985 pengajuan klaim asuransi dan angkanya diperkirakan akan meniingkat secara signifikan. 
+
+<TIMEX3 tid="t9" type="TIME" value="2020-01-06">Hari Senin malam</TIMEX3>, hujan turun di sebagian New South Wales dan RFS menggunakan kesempatan tersebut untuk memperkuat usaha mereka menanggulangi api. 
+
+Tapi diperkirakan suhu udara akan kembali meningkat, bahkan kembali mecapai 40 derajat di <TIMEX3 tid="t10" type="DATE" value="2020-W02-WE">akhir pekan mendatang</TIMEX3>. 
+
+Peramal cuaca dari Biro Meteorologi (BOM), Dean Sgarbossa, mengatakan suhu dingin hanya akan bertahan sampai <TIMEX3 tid="t11" type="DATE" value="2020-01-03">hari Jumat</TIMEX3>, sebelum kemudian memanas lagi dimulai dari Australia Selatan, bergerak ke Victoria dan New South Wales. 
+
+Suhu diperkirakan akan di atas 30 derajat Celcius di kawasan garis pantai, sementara di daerah pedalaman bisa mencapai lebih dari 40 derajat Celcius, seperti di kawasan seperti Griffith, Hay dan Broken Hill. 
+
+Dan mengatakan kondisi akan mirip dengan yang terjadi <TIMEX3 tid="t12" type="DATE" value="2020-01-04">hari Sabtu</TIMEX3> pekan lalu. 
+
+Di Victoria, hujan yang turun selama <TIMEX3 tid="t13" type="DURATION" value="P2D">dua hari</TIMEX3> terakhir memperlambat gerak api yang masih membakar di beberapa tempat dan sejauh ini sudah menghanguskan 1,2 juta hektar lahan. 
+
+Suhu udara <TIMEX3 tid="t14" type="DATE" value="2020-01-04">hari Sabtu lalu</TIMEX3> mencapai rekor baru 48.9 derajat Celcius yang tercatat di Penrith, dekat kota Sydney, yang menjadikannya terpanas di kawasan New South Wales sejak <TIMEX3 tid="t15" type="DATE" value="1939">tahun 1939</TIMEX3>. 
+
+Menurut Dan suhu udara di Australia selama <TIMEX3 tid="t16" type="DURATION" value="PXM">beberapa bulan</TIMEX3> terakhir memang 'kering dan pans', hal yang tidak biasa, menyebabkan kebakaran. 
+
+" Kita <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> mulai melihat penumpukkan uap air di bagian Barat Daya Australia Barat dan nantinya bisa menyebabkan hujan dan pembentukan awan dalam <TIMEX3 tid="t18" type="DATE" value="2020-02-09">bulan mendatang</TIMEX3>, " katanya.(Kompas.com/ABC News Indonesia) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0792</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-23" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-23</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS: 6 Wisatawan yang Tertimpa Batu dari Air Terjun Ternyata Sekeluarga, 3 Meninggal Dunia</TITLE>
+
+<TEXT>
+Enam wisatawan menjadi korban musibah di lokasi pemandian Air Terjun Salak di Kabupaten Langkat. 
+
+Hasil identifikasi Polres Langkat, para korban merupakan satu keluarga. 
+
+" Ada korbannya enam orang, tiga meninggal dunia dan tiga lagi luka-luka. 
+
+Mereka satu keluarga. 
+
+Mereka pergi rekreasi, mandi-mandi pakai ban, tiba-tiba ada bongkahan batu dari atas air terjun jatuh menimpa mereka, " kata Kasubbag Humas Polres Langkat AKP Arnold. 
+
+Bencana longsor ini terjadi <TIMEX3 tid="t1" type="TIME" value="2019-06-22T13:20">sekitar pukul 13.20 WIB</TIMEX3>. 
+
+Tiga wisatawan lokal meninggal dunia di tempat, setelah tertimpa bongkahan batu akibat longsor, dan dua korban yang mengalami luka-luka. 
+
+Tiga korban meninggal dunia, Irham Efendi Lubis (38) warga Jalan Baut Marelan, Raidah (37) IRT warga Istiqomah Medan Helvetia, Rahel Qori (9), pelajar, Jln Baut Marelan, Medan Labuhan. 
+
+Korban luka-luka yakni Yuni Ulpa (48) seorang ibu rumah tangga warga Marelan, dan Bintang (15) seorang pelajar warga Marelan Medan " <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> para korban telah dibawa menuju ke rumah sakit Tanjung Selamat untuk dilakukan visum, " kata Kasat Reskrim Polres Langkat AKP Teuku Fathir Mustafa. 
+
+Belakangan diketahui, Irham merupakan tersangka pelemparan polisi saat aksi demonstrasi di depan Gedung DPRD Sumut, <TIMEX3 tid="t3" type="DATE" value="2019-05-24">24 Mei lalu</TIMEX3>. 
+
+Kapolrestabes Medan, Kombes Pol Dadang Hartanto saat dikonfimasi membenarkan hal tersebut. 
+
+" Iya, dia salah satu tersangka yang sempat ditahan <TIMEX3 tid="t4" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>, " kata Dadang, <TIMEX3 tid="t5" type="DATE" value="2019-06-24">Senin (24/6/2019)</TIMEX3>.Atas kejadian tersebut, pihak Polrestabes Medan terpaksa menutup penanganan kasus yang menjerat Irham.Sebelumnya, Irham ditangkap penyidik Polrestebes Medan pada <TIMEX3 tid="t6" type="DATE" value="2019-05">akhir Mei lalu</TIMEX3>. 
+
+// Irham ditangkap karena diduga menjadi pelaku pelempar botol kaca pada aksi unjuk rasa massa GNKR di depan Gedung DPRD Sumut pada <TIMEX3 tid="t7" type="DATE" value="2019-05-24">24 Mei lalu</TIMEX3>. 
+
+Akibat pelemparan tersebut, seorang polisi mengalami luka pada bagian tangan pada <TIMEX3 tid="t8" type="DATE" value="UNKNOWN">waktu itu</TIMEX3>. 
+
+Irham ditangkap bersama Ketua Presidium GNKR Sumut, Rabualam Syahputra pada <TIMEX3 tid="t9" type="DATE" value="2019-06-23">hari yang sama</TIMEX3>. 
+
+Sempat ditahan <TIMEX3 tid="t10" type="DURATION" value="PXD">beberapa hari</TIMEX3>, keduanya dilepas menjadi tahanan kota setelah ditangguhkan. 
+
+Permintaan penangguhan penahanan datang dari pengurus Partai Gerindra Sumut. 
+
+(dyk/mak/tribun-medan. 
+
+com) 
+</TEXT>
+
+</TimeML>

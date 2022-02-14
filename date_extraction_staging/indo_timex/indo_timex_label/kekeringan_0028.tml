@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0028</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-16" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-16</TIMEX3></DCT>
+
+<TITLE>Warga Darul Aman Aceh Timur Shalat Minta Hujan, 500 Hektare Padi Terancam Gagal Panen</TITLE>
+
+<TEXT>
+Warga dari berbagai gampong dalam Kecamatan Darul Aman, Aceh Timur, menggelar shalat minta turun hujan (Shalat Istisqa), akibat daerah dilanda kekeringan <TIMEX3 tid="t1" type="DURATION" value="P1M">sebulan</TIMEX3> terakhir, <TIMEX3 tid="t2" type="DATE" value="2020-01-16">Kamis (16/1/2020)</TIMEX3>. 
+
+Sejak <TIMEX3 tid="t3" type="TIME" value="2020-01-16TMO">Kamis pagi</TIMEX3> warga mulai memadati lapangan yang berada di antara area persawahan yang kering di Gampong Bagok Panah Dua, Kecamatan Darul Aman. 
+
+Proses shalat Istisqa ini juga diikuti oleh, aparatur gampong dan pengurus imam mukim setempat, anggota DPRK Aceh Timur seperti Tgk. 
+
+Tarmizi (Geuchik Midi) dan Tgk Iskandar (Tgk Ih). 
+
+. 
+
+Setelah shalat yang diiringi dengan pem. 
+
+" Mari kita bertaubat dengan mengerjakan perintah-Nya dan meninggalkan larangan-Nya. 
+
+Taubatlah dengan sebenarnya taubat. 
+
+Perbanyak istighfar dan ramaikan shalat berjamaah dan makmurkan masjid dengan pengajian, " ujar Tgk Marzuki. 
+
+. 
+
+" Perbanyak infak dan sedekah serta bantu fakir miskin. 
+
+Semoga Allah mengampuni dosa kita semua dan menurunkan hujan, sehingga kekeringan segera berakhir, " ujar Tgk. 
+
+Marzuki. 
+
+Imam Mukim Pulo Blang, Tgk Ibrahim, menambahkan shalat istisqa yang dilaksanakan tersebut terlebih <TIMEX3 tid="t4" type="DATE" value="PAST_REF">dahulu</TIMEX3> dengan do'a selama <TIMEX3 tid="t5" type="DURATION" value="P7D">tujuh hari</TIMEX3> di seluruh masjid dan meunasah dalam kemukiman itu. 
+
+" Kita berdoa semoga segera turun hujan, amin.Apalagi padi <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah mulai berbuah, jika kekeringan ini berlanjut maka otomatis 500 hektare sawah tadah hujan akan mengalami gagal panen, " kata Tgk Ibrahim seraya mengajak umat bertaubat dan berdoa setiap salat lima waktu. 
+
+(*) 
+</TEXT>
+
+</TimeML>

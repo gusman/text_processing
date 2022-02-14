@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0023</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Video Detik-detik Tsunami Anyer, Sutopo Purwo Nugroho Ungkap Dugaan Penyebabnya</TITLE>
+
+<TEXT>
+Video detik-detik tsunami Anyer dibagikan oleh Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho (23/21/2018). 
+
+Video detik-detik tsunami Anyer tersebut menunjukan gelombang air laut yang menerjang pantai Selat Sunda <TIMEX3 tid="t1" type="TIME" value="2018-12-22TNI">Sabtu malam</TIMEX3> (22/12/2018). 
+
+Dengan dibagikannya video detik-detik tsunami Anyer tersebut, Sutopo menyampaikan bahwa BMKG telah resmi menyatakan adanya tsunami di beberapa wilayah di selat Sunda. 
+
+Beberapa wilayah yang terkena tsunami tersebut antara lain Kabupaten Pandenglang, Lampung Selatan dan Serang. 
+
+Tsunami terjadi <TIMEX3 tid="t2" type="TIME" value="2018-12-22T21:27">sekitar pukul 21.27 WIB</TIMEX3>. 
+
+. 
+
+Kemungkinan tsunami ini disebabkan oleh longsor bawah laut akibat erupsi Gunung Anak Krakatau. 
+
+Selain itu juga ditambah dengan adanya gelombang pasang akibat bulan purnama. 
+
+Dua penyebab tersebut menimbulkan gelombang air laut yang menerjang pantai cukup parah. 
+
+Hal ini disampaikan oleh Sutopo Purwo di akun Instagramnya. 
+
+// " Dampak dari tsunami yang menerjang pantai di sekitar Selat Sunda, khususnya di Kabupaten Pandenglang, Lampung Selatan dan Serang terus bertambah. 
+
+Tsunami terjadi pada <TIMEX3 tid="t3" type="DATE" value="2018-12-22">22/12/2018</TIMEX3> sekitar <TIMEX3 tid="t4" type="TIME" value="2018-12-22T21:27">pukul 21.27 WIB</TIMEX3>. 
+
+Faktor penyebab tsunami masih dilakukan penyelidikan oleh BMKG untuk mengetahui secara pasti. 
+
+Kemungkinan disebabkan longsor bawah laut akibat erupsi Gunung Anak Krakatau dan gelombang pasang akibat bulan purnama. 
+
+Dua kombinasi tersebut menyebabkan tsunami yang terjadi tiba-tiba yang menerjang pantai. 
+
+BMKG masih berkoordinasi dengan Badan Geologi untuk memastikan faktor penyebabnya. 
+
+" Tulis Sutopo dikutip Grid. 
+
+ID dari akun Instagram sutopopurwo <TIMEX3 tid="t5" type="DATE" value="2018-12-23">(23/12/2018)</TIMEX3>. 
+
+. 
+
+Badan Geologi sendiri telah mendeteksi adanya erupsi gunung Anak Krakatau pada <TIMEX3 tid="t6" type="TIME" value="2018-12-22T21:03">pukul 21.03 WIB</TIMEX3> (22/12/2018). 
+
+Hal itu sempat menyebabkan alat seismograf setempat rusak. 
+
+Jumlah korban tewas menurut data sementara pukul <TIMEX3 tid="t7" type="TIME" value="2018-12-22T04:30">04.30 WIB</TIMEX3> 20 orang meninggal dunia, 165 orang luka-luka dan 2 orang hilang serta puluhan bangunan rusak. 
+
+. 
+
+Sutopo juga mengingatkan kepada semua masyarakat agar tetap tenang dan dilarang menyebarkan berita yang menyesatkan. 
+
+Selain itu juga masyarakat dihimbau untuk tidak melalukan aktivitas di Selat Sunda untuk <TIMEX3 tid="t8" type="DURATION" value="PXX">sementara waktu</TIMEX3>. 
+
+" BMKG telah menyampaikan secara resmi bahwa tsunami telah terjadi dan menerjang beberapa wilayah pantai di Selat Sunda, diantaranya di pantai di Kabupaten Pandeglang, Serang, dan Lampung Selatan. 
+
+Tsunami terjadi pada <TIMEX3 tid="t9" type="DATE" value="2018-12-22">22/12/2018</TIMEX3> sekitar <TIMEX3 tid="t10" type="TIME" value="2018-12-22T21:27">pukul 21.27 WIB</TIMEX3>. 
+
+Tsunami bukan dipicu oleh gempabumi. 
+
+Tidak terdeteksi adanya aktivitas tektonik. 
+
+Kemungkinan tsunami terjadi akibat longsor bawah laut karena pengaruh dari erupsi Gunung Anak Krakatau. 
+
+Pada saat bersamaan terjadi gelombang pasang akibat pengaruh bulan purnama. 
+
+Jadi ada kombinasi antara fenomena alam yaitu tsunami dan gelombang pasang. 
+
+// Badan Geologi mendeteksi pada <TIMEX3 tid="t11" type="TIME" value="2018-12-22T21:03">pukul 21.03 WIB</TIMEX3> Gunung Anak Krakatau erupsi kembali dan menyebabkan peralatan seismograf setempat rusak. 
+
+Namun seismik Stasiun Sertung merekam adanya getaran tremor terus menerus (tidak ada frekuensi tinggi yang mencurigaikan). 
+
+Kemungkinan material sedimen di sekitar Anak Gunung Krakatau di bawah laut longsor sehingga memicu tsunami. 
+
+Dampak tsunami menerjang pantai di sekitar Selat Sunda. 
+
+Dampak tsunami menyebabkan korban jiwa dan kerusakan. 
+
+Data sementara hingga <TIMEX3 tid="t12" type="TIME" value="2018-12-23T04:30">23/12/2018 pukul 04.30 WIB</TIMEX3> tercatat 20 orang meninggal dunia, 165 orang luka-luka, 2 orang hilang dan puluhan bangunan rusak. 
+
+Data korban kemungkinan masih akan terus bertambah mengingat belum semua daerah terdampak di data. 
+
+. 
+
+Jangan terpancing isu yang menyesatkan yang disebarkan oleh pihak yang tidak jelas. 
+
+Masyarakat dihimbau tidak melakukan aktivitas di pantai Selat Sunda untuk <TIMEX3 tid="t13" type="DURATION" value="PXX">sementara waktu</TIMEX3>. 
+
+BMKG dan Badan Geologi masih melakukan penelitian lebih lanjut. 
+
+BNPB telah berada di lokasi bencana mendampingi BPBD. 
+
+Bupati Pandeglang telah berkoordinasi dengan Kepala BNPB untuk penanganan darurat. 
+
+" Tulis Sutopo Purwo. 
+
+Berikut ini video detik-detik terjadinya tsunami Anyer. 
+</TEXT>
+
+</TimeML>

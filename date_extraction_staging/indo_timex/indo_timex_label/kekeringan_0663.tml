@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0663</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-10" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-10</TIMEX3></DCT>
+
+<TITLE>Atasi Kekeringan saat Musim Kemarau, PDAM Dropping Air ke Lebih dari 100 Desa di Sampang Madura</TITLE>
+
+<TEXT>
+PDAM Sampang akan mendropping air di seratus lebih desa se Kabupaten Sampang. 
+
+Droping air tersebut dilakukan PDAM Sampang untuk menghadapi kekeringan saat musim kemarau <TIMEX3 tid="t1" type="DATE" value="2019">tahun ini</TIMEX3>. 
+
+Kabag Hubungan Langganan PDAM Sampang, Yasid Solihin mengatakan, jumlah desa dilanda kekeringan <TIMEX3 tid="t2" type="DATE" value="2019">tahun ini</TIMEX3> meningkat dibanding <TIMEX3 tid="t3" type="DATE" value="2018-07-10">tahun lalu</TIMEX3>. 
+
+. 
+
+com, <TIMEX3 tid="t4" type="DATE" value="2019-07-10">Rabu (10/7/2019)</TIMEX3>. 
+
+Yasid Solihin menyebut, pihaknya mendapat banyak laporan dari kepala desa jika di daerahnya terdampak kekeringan. 
+
+" <TIMEX3 tid="t5" type="DATE" value="2018-07-10">Tahun kemarin</TIMEX3>, banyak kepala desa yang tidak mengumpulkan laporan terdampak kekeringan. 
+
+Mungkin banyak desa yang belum paham, " ucap dia. 
+
+" Setelah di setiap kecamatan dikumpulkan, maka banyak desa yang melaporkan kekeringan, " imbuhnya. 
+
+.Namun, kata dia, daerah yang paling parah terdampak kekeringan terjadi di Kecamatan Kedungdung, Robatal, dan Sokobanah. " Terutama di Kecamatan Tambelangan, karena di sana tidak ada mata air, " pungkasnya. 
+
+
+</TEXT>
+
+</TimeML>

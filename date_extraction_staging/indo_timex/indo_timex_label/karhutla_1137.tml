@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1137</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-15" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-15</TIMEX3></DCT>
+
+<TITLE>Titik Api Terus Meluas di Jatim</TITLE>
+
+<TEXT>
+Hotspot atau titik api yang diduga akibat kebakaran hutan terus meluas di sejumlah wilayah di Jatim. 
+
+Hingga <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih ada lima kabupaten yang terpantau masih dilanda kebakaran hutan. 
+
+Mulai dari Kediri, Lamongan, Pasuruan, Sidoarjo, dan Situbondo. 
+
+Sebagaimana rilis di BKMG Juanda, banyak titik api yang <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> terus menyebar. 
+
+Sebelumnya titik api yang sama dari kebakaran hutan itu terjadi di belasan wilayah kabupaten di Jatim. 
+
+Sebagaimana terpantau melalui satelit BKMG, titik-titik api ini mengakibatkan asap kecokelatan. 
+
+Akibat dari sebaran titik api ini menimbulkan asap. 
+
+" Titik api di Jatim belum mereda. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> sejumlah daerah masih ditemukan hotspot akibat kebakaran. 
+
+Bahkan kami prediksi akan terus terjadi hingga menjelang <TIMEX3 tid="t4" type="DATE" value="2014-WI">musim hujan</TIMEX3> akhir <TIMEX3 tid="t5" type="DATE" value="2015-11">November nanti</TIMEX3>, " kata Kasi Data dan Informasi Bambang Setiajid. 
+
+Berikut titik hotspot yang terdeteksi hingga <TIMEX3 tid="t6" type="TIME" value="2015-10-15TMO">pagi ini</TIMEX3> melalui kamera satelit BMKG Juanda. 
+
+Dimulai dari Kabupaten Kediri, kebakaran hutan terjadi di Kecamatan Purwoasri. 
+
+Kemudian titik api yang sama ditemukan di Lamongan.Bahkan, dua titik api di Lamongan ini ditemukan yakni di Kecamatan Kali Tengah dan Mantup. 
+
+Di Pasuruan dua titik api ditemukan, yakni di Kecamatan Purwodadi dan Purwosari. 
+
+Di Sidoarjo ditemuka di Kecamatan Balongbendo.Sementara dua kecamatan di Situbondo juga ditemukan hotspot. 
+
+Yakni di Kecamatan Arjasa dan Kendit. 
+
+
+</TEXT>
+
+</TimeML>

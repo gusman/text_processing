@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0704</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-14" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-14</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS - Jalur Selatan Lumajang-Malang Longsor, Jalan Penghubung Lumajang ke Malang Macet</TITLE>
+
+<TEXT>
+Jalur selatan Lumajang-Malang kembali diterjang longsor, <TIMEX3 tid="t1" type="DATE" value="2019-06-14">Jumat (14/6/2019)</TIMEX3>. 
+
+Hal ini membuat jalur penghubung antara Kabupaten Lumajang ke Kabupaten Malang dan Kota Malang di lewat sisi selatan itu macet. 
+
+Dari informasi yang didapatkan Surya (Grup Tribunmadura. 
+
+com), longsor terjadi <TIMEX3 tid="t2" type="TIME" value="2019-06-13T14:00">sekitar pukul 14.00</TIMEX3> Wib. 
+
+Longsoran itu berupa batu besar yang berada di tepi jalur, dan pohon tumbang. 
+
+Kepala Bidang Kesiapsiagaan, Kedaruratan, dan Logistik Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Lumajang Wawan Hadi Siswoyo membenarkan peristiwa longsornya jalur selatan Lumajang-Malang tersebut. 
+
+. 
+
+Titik longsoran batu sekitar kawasan Piket Nol. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> tim dari BPBD Kabupaten Lumajang dan instansi terkait masih mengupayakan pembersihan jalur. 
+
+Karenanya bagi anda yang hendak lewat jalur selatan Lumajang-Malang sebaiknya memilih jalur lain supaya tidak terkena kemacetan akibat longsor tersebut. 
+
+
+</TEXT>
+
+</TimeML>

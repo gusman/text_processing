@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0467</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-13" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-13</TIMEX3></DCT>
+
+<TITLE>Lontaran Material Sejauh Satu Kilometer</TITLE>
+
+<TEXT>
+Erupsi Gunung Merapi, <TIMEX3 tid="t1" type="TIME" value="2020-02-13TMO">Kamis pagi</TIMEX3> (13/2) tak hanya menghasilkan kolom abu vulkanik. 
+
+Tercatat pula lontaran material di kawasan puncak. 
+
+Balai Penyelidikan Pengembangan Teknologi Kebencanaan Geologi (BPPTKG) Jogjakarta mencatat lontaran terjauh dalam radius satu kilometer. 
+
+Walau begitu dipastikan tak ada dampak langsung. 
+
+Terutama kepada kawasan permukiman warga. 
+
+Ini karena jarak lontaran material masih jauh di bawah batas aman. 
+
+Sesuai catatan BPPTKG Jogjakarta, radius jarak mencapai tiga kilometer dari puncak. 
+
+Lontaran material cuma sejauh satu kilometer. 
+
+Tidak sampai permukiman, karena dalam radius tersebut memang tidak ada aktivitas manusia. 
+
+Tidak ada awan panas hanya abu vulkanik akibat akumulasi gas, jelas Kepala BPPTKG Jogjakarta Hanik Humaida, <TIMEX3 tid="t2" type="DATE" value="2020-02-13">Kamis (13/2)</TIMEX3>. 
+
+Munculnya erupsi diakui oleh Hanik tak terprediksi. 
+
+Hanya saja ada peningkatan aktivitas menjelang erupsi. 
+
+Tercatat terjadi empat guguran dengan durasi 37 hingga <TIMEX3 tid="t3" type="DURATION" value="PT72S">72 detik</TIMEX3>. 
+
+Gempa low frekuensi sebanyak 4 kejadian, gempa fase banyak sebanyak 5 kejadian dan gempa vulkanik dangkal sebanyak satu kejadian. 
+
+Kejadian ini turut menjadi pertimbangan konsistensi status level II Waspada. 
+
+Hanik memastikan suplai dari dapur magma masih terus mengalir. 
+
+Sehingga ancaman bahaya erupsi hingga letusan bisa terjadi sewaktu-waktu. 
+
+Merapi terakhir erupsi medio <TIMEX3 tid="t4" type="DATE" value="2019-11">November 2019</TIMEX3>, lalu tenang hingga <TIMEX3 tid="t5" type="TIME" value="2020-02-13TMO">pagi ini</TIMEX3> erupsi ini. 
+
+Itulah mengapa status tetap kami pertahankan di Waspada karena roduksi dapur magma masih berlangsung hingga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, ujarnya. 
+
+BPPTKG Jogjakarta mencatat adanya empat kejadian erupsi. 
+
+Seluruhnya terjadi medio <TIMEX3 tid="t7" type="DATE" value="2019-09">September</TIMEX3> hingag <TIMEX3 tid="t8" type="DATE" value="2019-11">November 2019</TIMEX3>. 
+
+Fenomena ala mini disertai dengan aktivitas kegempaan vulkanik dalam. 
+
+Kedalaman aktivitas gempa lebih dari 1,5 kilometer. 
+
+Berhentinya erupsi bukan berarti aktivitas menurun. 
+
+Pada <TIMEX3 tid="t9" type="DATE" value="2019-12">pertengahan Desember 2019</TIMEX3> hingga <TIMEX3 tid="t10" type="DATE" value="2020-01">pertengahan Januari 2020</TIMEX3> terjadi peningkatan aktivitas kegempaan vulkanik dalam. 
+
+Disertai pula dengan peningkatan aktivitas di permukaan. 
+
+Ada peningkatan gempa guguran, hembusan, low frequency, multiphase, dan vulkano tektonik dangkal. 
+
+Data observasi ini menunjukkan kelanjutan aktivitas intrusi magma menuju permukaan, yang merupakan fase ke 7 dari kronologi aktivitas erupsi gunung Merapi <TIMEX3 tid="t11" type="DATE" value="2018">2018</TIMEX3> hingga <TIMEX3 tid="t12" type="DATE" value="2020">2020</TIMEX3>, katanya. 
+
+Erupsi Merapi terjadi tepatnya <TIMEX3 tid="t13" type="TIME" value="2020-02-12T15:16">15:16 WIB</TIMEX3>. 
+
+Seismograf mencatat besaran amplitudo 75 mm dengan durasi <TIMEX3 tid="t14" type="DURATION" value="PT150S">150 detik</TIMEX3>. 
+
+Selain lontaran material juga disertai kolom asap letusan setinggi <TIMEX3 tid="t15" type="DATE" value="2000">2000</TIMEX3> meter. 
+
+Adapula hujan abu yang terjadi di sejumlah desa di Kecamatan Pakem dan Cangkringan. 
+
+Hujan abu dilaporkan mencapai radius 10 kilometer. 
+
+Terdampak di sisi selatannya, seperti Kaliurang, lalu Desa Hargobinangun, Glagaharjo, dan Kepuharjo, ujarnya. 
+
+(dwi/tif) 
+</TEXT>
+
+</TimeML>

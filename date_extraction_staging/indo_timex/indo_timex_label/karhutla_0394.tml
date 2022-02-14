@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0394</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-26</TIMEX3></DCT>
+
+<TITLE>Puncak Gunung Rakutak Pacet Bandung Terbakar</TITLE>
+
+<TEXT>
+Gunung Rakutak di kawasan Kecamatan Pacet Kabupaten Bandung terbakar sehingga mengancam hutan di kawasan pegunungan Bandung Selatan itu. 
+
+" Sejak <TIMEX3 tid="t1" type="DATE" value="2015-10-25">Minggu kemarin</TIMEX3> dua titik api terlihat di atas Gunung Rakutak. 
+
+Mungkin juga dibakar para warga yang membuka lahan pertanian, " kata Undang, salah seorang warga di Pacet Kabupaten Bandung, <TIMEX3 tid="t2" type="DATE" value="2015-10-26">Senin (26/10/2015)</TIMEX3>. 
+
+Nyala api dan kepulan asap terlihat jelas dari Jalan Pacet-Kertasari. 
+
+Api terus meluas mendekati puncak pegunungan yang tersambung ke barisan Gunung Geber itu. 
+
+Menurut warga, gunung di kawasan itu kerap terbakar <TIMEX3 tid="t3" type="SET" value="XXXX-SU">setiap musim kemarau</TIMEX3>. 
+
+Namun <TIMEX3 tid="t4" type="DATE" value="2015-SU">musim kemarau</TIMEX3> saat ini membuat hutan menjadi lebih kering dan dikhawatirkan kebakaran hutan di sana cepat meluas. 
+
+" Gunung Rakutan rutin ada kebakaran hutan <TIMEX3 tid="t5" type="SET" value="XXXX-SU">setiap musim kemarau</TIMEX3>, " katanya. 
+
+Hal senada juga diungkapkan oleh Wawan, warga lainnya yang menyebutkan kawasan Ganung Rakutan bagian atasnya memang masih terjaga, meski bagian lerengnya sudah mulai gundul akibat dirambah dan beralih fungsi menjadi lahan pertanian. 
+
+" Satu titik api di bagian puncak, saya khawatir terus meluas karena kondisinya sangat kering, " kata Wawan. 
+
+Ia menyebutkan, kawasan Gunung Rakutak yang terbakar itu berlokasi di kawasan yang sebenarnya jarang terjamah oleh warga atau hutan yang masih rapat.Namun sejumlah lahan yang dibuka pada bagia lerengnya itu menjadi tanah bera atau kosong karena tidak menghasilkan. 
+
+Lahan itu menjadi lahan rawan erosi karena tidak ada pohon yang bisa menahan atau menyerap air.Kebiasaan membuka lahan dengan dibakar juga terjadi di sejumlah lokasi lainnya di kawasan Bandung bagian selatan. 
+
+Meski demikian selama ini tidak sampai meluas. 
+
+(Antara) 
+</TEXT>
+
+</TimeML>

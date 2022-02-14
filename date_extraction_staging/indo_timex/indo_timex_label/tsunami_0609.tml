@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0609</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Berikut Daftar Daerah yang Terdampak Tsunami Banten dan Lampung Selatan</TITLE>
+
+<TEXT>
+Badan Meteorologi Klimatologi dan Geofisika (BMKG) memastikan jika gelombang pasang yang terjadi di Laut Selat Sunda merupakan peristiwa tsunami. 
+
+Tsunami terjadi pada <TIMEX3 tid="t1" type="DATE" value="2018-12-22">Sabtu (22/12/2018)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2018-12-22T21:27">pukul 21.27</TIMEX3> WIBBerdasarkan data yang dirilis BMKG, gelombang tinggi yang terjadi diwilayah perairan Selat Sunda karena cuaca. 
+
+Menurut Kepala BMKG, Dwikorita Karnawati dalam keterangan persnya menjelaskan, dari laporan tim yang berada di lapangan hujan lebat dan angin kencang sempat terjadi diwilayah perairan Anyer pada <TIMEX3 tid="t3" type="TIME" value="2018-12-22T09:00">pukul 09.00</TIMEX3> hingga <TIMEX3 tid="t4" type="TIME" value="2018-12-22T11:00">pukul 11.00 WIB</TIMEX3>. 
+
+" BMKG mendeteksi dan memberikan peringatan dini gelombang tinggi yang berlaku <TIMEX3 tid="t5" type="TIME" value="2018-12-22T07:00">tanggal 22 Desember pukul 07.00</TIMEX3> hingga <TIMEX3 tid="t6" type="DATE" value="2017-12-25">tanggal 25 Desember</TIMEX3> Pkl <TIMEX3 tid="t7" type="TIME" value="2018-12-22T07:00">07.00 WIB</TIMEX3> (peringatan terlampir) di wilayah perairan Selat Sunda, " tuturnya dalam keterangan pers yang diterima TribunnewsBogor. 
+
+comData yang di rilis BMKG, pukul 21.0 <TIMEX3 tid="t8" type="TIME" value="UNKNOWN">WIB</TIMEX3>, Gunung Krakatau kembali erupsi dan Stasiun Sertuang merekam adanya getaran tremor terus menerus atau tidak ada freskuensi tinggi yang mencurigakan. 
+
+" Berdasarkan rekaman seismik dan laporan masyarakat, peristiwa ini tidak disebabkan oleh aktivitas gempabumi tektonik, " kata dia. 
+
+Namun, sensor Cigeulis (CGJI) mencatat adanya aktivitas sesmic dengan durasi <TIMEX3 tid="t9" type="DURATION" value="PT24S">24 detik</TIMEX3> dengan frekuensi 8-16 Hz pada <TIMEX3 tid="t10" type="TIME" value="2018-12-22T21:03:24">pukul 21.03.24 WIB</TIMEX3>. 
+
+BMKG memastikan jika tingginya gelombang laut di perairan Selat Sunda merupakan peristiwa tsunami. 
+
+// Ada sejumlah daerah yang terdampak akibat gelombang besar hingga berakibat tsunami seperti di wilayah Banten dan Lampung. 
+
+Berdasarkan hasil pengamatan tidegauge (sementara) yang dilakukan BMKG, didapatkan data sebagai berikut:a. 
+
+Tidegauge Serang di pantai jambu, desa bulakan, Kec Cinangka, Kab Serang: tercatat <TIMEX3 tid="t11" type="TIME" value="2018-12-22T21:27">pukul 21.27 WIB</TIMEX3> ketinggian 0.9 mb. 
+
+Tidegauge Banten di pelabuhan Ciwandan, kecamatan Ciwandan: tercatat <TIMEX3 tid="t12" type="TIME" value="2018-12-22T21:33">pukul 21.33 WIB</TIMEX3> ketinggian <TIMEX3 tid="t13" type="TIME" value="2018-12-22T00:35">0.35</TIMEX3> mc. 
+
+Tidegauge Kota Agung di Desa Kota Agung, Kec Kota Agung, Lampung: tercatat <TIMEX3 tid="t14" type="TIME" value="2018-12-22T21:35">pukul 21.35 WIB</TIMEX3> ketinggian <TIMEX3 tid="t15" type="TIME" value="2018-12-22T00:36">0.36</TIMEX3> md. 
+
+Tidegauge Pelabuhan Panjang Kec Panjang Kota Bandar Lampung: tercatat <TIMEX3 tid="t16" type="TIME" value="2018-12-22T21:53">pukul 21.53 WIB</TIMEX3> ketinggian <TIMEX3 tid="t17" type="TIME" value="2018-12-22T00:28">0.28</TIMEX3> mSementara itu, Kepala Pusat Data Informasi dan Humas BNPB, Sutopo Purwo Nugroho menerangkan, BMKG telah menyampaikan secara resmi bahwa tsunami telah terjadi dan menerjang beberapa wilayah pantai di Selat Sunda, diantaranya di pantai di Kabupaten Pandeglang, Serang, dan Lampung Selatan. 
+
+Menurutnya, tsunami yang terjadi pada <TIMEX3 tid="t18" type="DATE" value="2018-12-22">Sabtu (22/12/2018)</TIMEX3> sekitar <TIMEX3 tid="t19" type="TIME" value="2018-12-22T21:27">pukul 21.27 WIB</TIMEX3> bukan dipicu oleh gempabumi. 
+
+" Tidak terdeteksi adanya aktivitas tektonik. 
+
+Kemungkinan tsunami terjadi akibat longsor bawah laut karena pengaruh dari erupsi Gunung Anak Krakatau, " ujarnya dalama keterangan kepada wartawan. 
+
+Sebab, kata Sutopo Purwo Nugroho, pada saat bersamaan terjadi gelombang pasang akibat pengaruh bulan purnama. 
+
+// Jadi ada kombinasi antara fenomena alam yaitu tsunami dan gelombang pasang. 
+
+Badan Geologi mendeteksi pada <TIMEX3 tid="t20" type="TIME" value="2018-12-22T21:03">pukul 21.03 WIB</TIMEX3> Gunung Anak Krakatau erupsi kembali dan menyebabkan peralatan seismograf setempat rusak. 
+
+Namun seismik Stasiun Sertung merekam adanya getaran tremor terus menerus (tidak ada frekuensi tinggi yang mencurigaikan). 
+
+" Kemungkinan material sedimen di sekitar Anak Gunung Krakatau di bawah laut longsor sehingga memicu tsunami, " ungkapnya. 
+
+Dampak tsunami menyebabkan korban jiwa dan kerusakan. 
+
+Data sementara, pada <TIMEX3 tid="t21" type="TIME" value="2018-12-23T04:30">Minggu (23/12/2018) pukul 04.30 WIB</TIMEX3> tercatat 20 orang meninggal dunia, 165 orang luka-luka, 2 orang hilang dan puluhan bangunan rusak. 
+
+Menurutnya, Data korban kemungkinan masih akan terus bertambah mengingat belum semua daerah terdampak di data. 
+
+Ia menambahkan, Bupati Pandeglang telah berkordinasi dengan kepala BNPB untuk melakukan penanganan darurat. 
+
+Pihaknya mengimbau agar masyarakat tetap tenang dan jangan terpancing isu yang menyesatkan yang disebarkan oleh pihak yang tidak jelas. 
+
+" Masyarakat juga diimbau tidak melakukan aktivitas di Pantai Selat Sunda untuk <TIMEX3 tid="t22" type="DURATION" value="PXX">sementara waktu</TIMEX3>. 
+
+BMKG dan Badan Geologi masih melakukan penelitian lebih lanjut. 
+
+BNPB telah berada di lokasi bencana mendampingi BPBD, " tutupnuya. 
+</TEXT>
+
+</TimeML>

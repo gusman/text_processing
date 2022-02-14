@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0302</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-03</TIMEX3></DCT>
+
+<TITLE>Lahan Perkebunan Warga di Tasik Selatan Terbakar</TITLE>
+
+<TEXT>
+Perkebunan milik Oksun dan Martin di Blok Pasir Angin Kampung Pasir Angin Dusun Karangsari Desa Karangnunggal Kecamatan Karangnunggal Kabupaten Tasikmalaya kebakaran. 
+
+Musibah itu terjadi, <TIMEX3 tid="t1" type="DATE" value="2019-10-02">Rabu (2/10/2019)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2019-10-02T17:00">pukul 17.00 WIB</TIMEX3>. 
+
+Tidak ada korban dalam kebakaran lahan kebun warga tersebut. 
+
+Kadus Karangsari Dede Rohidin mengungkapkan, Areal yang terbakar di blok Cikamasan dan blok Pasir Angin Kp. 
+
+Pasir angin Dusun Karangsari. 
+
+Api diketahui warga saat lokasi gelap dan api sudah membesar pada <TIMEX3 tid="t3" type="TIME" value="2019-10-02TNI">malam hari</TIMEX3>. 
+
+Diketahui kebakaran karena dari kejauhan sangat kontras terlihatApi diduga dari sisa pembakaran kayu bekas penebangan pohon dari blok Cikamasan dan menyebar ke blok pasir angin dengan luas lahan kurang lebih 1 hektar yang terbakar. 
+
+Ketua RT setempat Juhari mengatakan, Babinsa dan Bhabinmas mendatangin TKP kejadian kebakaran dan langsung mengajak warga untk memadamkan api sebelum merambat lebih luas. 
+
+Api bisa dipadamkan oleh warga <TIMEX3 tid="t4" type="TIME" value="2019-10-02T22:19">sekitar pukul 22.19 WIB</TIMEX3>. 
+
+Namun api masih ada yang masih menyala dan sisa-sisa rumput serta pohon masih mengeluarkan api. 
+
+<TIMEX3 tid="t5" type="TIME" value="2019-10-02T22:30">Sekitar pukul 22.30 WIB</TIMEX3> mobil dinas Damkar Kabupaten Tasikmalaya datang dan langsung memadamkan titik-titik api yang masih menyala, katanya. 
+
+Pihaknya bersama Babinsa dan Babhinkamtibmas menghimbau kepada masyarakat agar berhati-hati karena <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> musim kemarau dan lahan perkebunan warga kering serta banyak daun-daun kering yang mudah terbakar. 
+
+(KP-07) 
+</TEXT>
+
+</TimeML>

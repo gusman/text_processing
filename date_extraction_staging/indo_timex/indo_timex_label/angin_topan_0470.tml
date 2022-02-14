@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0470</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-06" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-06</TIMEX3></DCT>
+
+<TITLE>Hujan Deras dan Angin Kencang, Pohon Trembesi Tumbang Timpa Mobil di Jalan Raya Gubeng Surabaya</TITLE>
+
+<TEXT>
+Hujan deras disertai angin kencang di Surabaya menyebabkan sebuah pohon trembesi di Jalan Raya Gubeng nomor 2, Kecamatan Gubeng, Kota Surabaya tumbang, <TIMEX3 tid="t1" type="DATE" value="2020-01-06">Senin (6/1/2020)</TIMEX3>. 
+
+Imbasnya, pohon tersebut menimpa sebuah mobil dengan jenis Daihatsu Sigra hingga penyok di bagian atas tepatnya sebelah kiri. 
+
+Berdasarkan pantauan TribunJatim. 
+
+com di lokasi, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, proses evakuasi telah selesai dilakukan oleh pihak gabungan dari Pemkot Surabaya. 
+
+" Kejadian <TIMEX3 tid="t3" type="TIME" value="2020-01-05T16:13">sekitar 16.13 WIB</TIMEX3>, " ujar salah seorang petugas Satpol PP Surabaya di lokasi. 
+
+Beruntung tak ada korban jiwa dalam insiden pohon tumbang ini. 
+
+" Korban nihil, " ujarnya menambahkan.Surabaya memang terpantau hujan lebat disertai angin kencang, <TIMEX3 tid="t4" type="TIME" value="2020-01-06TAF">Senin (6/1/2020) sore</TIMEX3>. 
+
+
+</TEXT>
+
+</TimeML>

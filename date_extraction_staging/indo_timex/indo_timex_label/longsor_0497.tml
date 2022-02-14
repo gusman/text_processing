@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0497</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-07-27" temporalFunction="false" functionInDocument="CREATION_TIME">2016-07-27</TIMEX3></DCT>
+
+<TITLE>Korban Karangrejo Tersisa Ditemukan</TITLE>
+
+<TEXT>
+Proses evakuasi jasad Slamet Ngusman, 64, warga Desa Rimun RT 2 RW 2 Kecamatan Loano, Purworejo. 
+
+Korban ditemukan di bagian selatan bawah titik longsor. 
+
+PURWOREJO- Satu lagi korban tanah longsor di Dusun Caok, Karangrejo, Loano ditemukan <TIMEX3 tid="t1" type="DATE" value="2016-07-26">kemarin (26/7)</TIMEX3>. 
+
+Slamet Ngusman, 64, warga Desa Rimun RT 2 RW 2 Kecamatan Loano, Purworejo ditemukan di bagian selatan bawah titik longsor. 
+
+Kondisi jasadnya sudah rusak, kata Yuli Haryono petugas dari PMI Purworejo. 
+
+Pencarian dilakukan keluarga bersama warga dan SAR Garda Magelang serta PMI Purworejo sejak <TIMEX3 tid="t2" type="DATE" value="2016-07-25">Senin (25/7)</TIMEX3>. 
+
+Petunjuk yang diperoleh dari temuan tas pinggang milik korban. 
+
+Korban ditemukan tidak jauh lokasi penemuan tas di kedalaman satu meter. 
+
+Dalam tas korban ditemukan uang Rp 2.831.000, jam tangan, dan KTP. 
+
+Jasad korban kemudian dibawa ke Rumah Sakit Umum dr Tjitrowardojo Purworejo untuk dilakukan identifikasi. 
+
+Pihak keluarga langsung melakukan pemakaman. 
+
+Kepala Pelaksana BPBD Purworejo Boedi Harjono mengatakan, pihaknya telah menghentikan operasi dan tidak akan melakukan pencarian kembali. 
+
+Sesuai tahapan yang ada, pencarian telah kita tutup, tegasnya. 
+
+(udi/din/ong) 
+</TEXT>
+
+</TimeML>

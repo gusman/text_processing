@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0188</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-04" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-04</TIMEX3></DCT>
+
+<TITLE>Bantu Warga yang Alami Krisis Air, Polres Bintan Gunakan Kendaraan Water Cannon untuk Salurkan Air</TITLE>
+
+<TEXT>
+Deru mesin kendaraan taktis water cannon milik Polres Bintan terdengar saat melintasi jalur rimbun pepohonan sawit, kawasan Tirta Madu Bintan. 
+
+Water Cannon dikawal ketat unit kendaraan patroli, dari jalan Tirta Madu, water cannon lantas mengarah ke Kijang, Bintan Timur. 
+
+Pengerahan Water Cannon oleh Polres Bintan ini bukan dalam rangka menghalau aksi huru hara sebagaimana umumnya. 
+
+Tapi, dalam rangka misi sosial, dropping air bersih ke rumah rumah warga yang <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">sebulan ini</TIMEX3> dilaporkan mengalami krisis air bersih. 
+
+Maklum, sudah <TIMEX3 tid="t2" type="DURATION" value="P2M">dua bulan</TIMEX3> Bintan jarang turun hujan. 
+
+Beberapa warga yang sumber air bersihnya dari sumur mengalami krisis air. 
+
+Aksi bagi bagi air bersih dipimpin Kanit Patroli Sat Samapta Bripka Arya. 
+
+Sejumlah personil yang terlibat diantaranya, Brigadir M Kurniawan, Brigadir Boy Raju, Bripda Dwi Kartono Putra, bersama Saka Bhayangkara Bintan. 
+
+Aksi ini disambut gembira warga Tanah Kuning, Kelurahan Kijang Kota. 
+
+Brigadir M Kurniawan dan teman temannya terlihat bekerja keras mengerahkan selang panjang dari water cannon ke tangki warga. 
+
+Dari perbincangan Kanit Patroli Sat Samapta Bripka Arya dengan warga, terungkap bahwa warga di lokasi sudah lebih sepekan mengalami krisis air bersih. 
+
+" Selama ini, ada sekitar puluhan warga di sini benar benar kekeringan air, " kata warga.Bripka Arya mengatakan, mereka akan mencoba semaksimal mungkin untuk menyalurkan air bersih ke rumah rumah warga yang mengalami kekeringan air bersih. " Kami dari Polres Bintan akan semaksimal mumgkin mengirim air bersih ke rumah rumah warga, " kata dia. 
+
+(min) 
+</TEXT>
+
+</TimeML>

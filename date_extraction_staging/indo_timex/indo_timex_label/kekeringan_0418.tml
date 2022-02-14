@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0418</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-08-01" temporalFunction="false" functionInDocument="CREATION_TIME">2015-08-01</TIMEX3></DCT>
+
+<TITLE>Petani di Jambi Hanya Bisa Pasrah</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2015-SU">Musim kemarau</TIMEX3> panjang yang terjadi di Kota Jambi membuat sejumlah petani terancam gagal panen akibat kurangnya pasokan air untuk lahan tanamannya <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Pantauan Tribun saat menyambangi beberapa lahan pertanian di wilayah Jambi Selatan tepatnya di Paal Merah Lama, terlihat tanaman yang ditanam para petani <TIMEX3 tid="t3" type="DATE" value="PXM">beberapa bulan lalu</TIMEX3> mulai kering. 
+
+Hal tersebut dipicu akibat sejumlah tanaman yang tidak disiram dengan air. 
+
+Warga Paal Merah lama RT 03 kecamatan Jambi Selatan, Surif <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> hanya bisa pasrah dengan keadaan lahan pertaniannya yang <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> mulai mengalami kekeringan, akibat pasokan air miliknya sudah habis. 
+
+" Pasrah saja lah <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Berapa yang panen saja kita ambil. 
+
+Selebihnya kita cabut lagi, " ungkap seorang petani sawi, kangkung dan bayam ini. 
+
+Untuk menyiasati kurangnya air irigasi, seringkali Surif memanfaatkan air limbah dari pabrik yang berada disebelah rumahnya. 
+
+Namun hal tersebut tidak <TIMEX3 tid="t7" type="SET" value="P1D">setiap hari</TIMEX3> dilakukannya, karena akan berdampak dengan kualitas hasil panenya. 
+
+" Sering kami ambil air limbah pabrik sebelah. 
+
+Tetapi tidak <TIMEX3 tid="t8" type="SET" value="P1D">setiap hari</TIMEX3> air limbahnya mengalir, " katanya. 
+
+Akibatnya, pendapatannya <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> mengalami penurunan jika dibandingkan sebelum <TIMEX3 tid="t10" type="DATE" value="2015-SU">musim kemarau</TIMEX3> terjadi. 
+
+Padahal pekerjaannya sebagai petani merupakan mata pencarian utamanya untuk menghidupi keluarganya. 
+
+" Waktu masih belum susah mencari air dalam <TIMEX3 tid="t11" type="DURATION" value="P1W">seminggu</TIMEX3> bisa mendapat satu setengah juta. 
+
+Kalau <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> dapat Rp 500 ribu hingga Rp 800 ribu sudah syukur, " ujarnya.Hal serupa juga diungkapkan warga talang bakung, Hardi mengatakan, mulai mengeringnya sumur yang berada di belakang rumahnya membuat dirinya harus mengurangi waktu penyiraman lahannya. " Kalau biasa tiga sampai empat kali <TIMEX3 tid="t13" type="DURATION" value="P1D">sehari</TIMEX3>, <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> hanya satu atau dua kali menyiramnya. 
+
+Terkadang kalau hujan gerimis <TIMEX3 tid="t15" type="DATE" value="UNKNOWN">sebentar itu</TIMEX3> sehari tidak menyiram, " katanya. 
+</TEXT>
+
+</TimeML>

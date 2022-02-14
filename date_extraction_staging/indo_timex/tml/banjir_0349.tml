@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0349</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-06-08" temporalFunction="false" functionInDocument="CREATION_TIME">2016-06-08</TIMEX3></DCT>
+
+<TITLE>BERITA FOTO: Petugas DPPK Kota Bandung Sedot Genangan Banjir Gunakan Pompa</TITLE>
+
+<TEXT>
+Petugas dari Dinas Pencegahan dan Penanggulangan Kebakaran (DPPK) Kota Bandung melakukan penyedotan air menggunakan mobil pompa penyedot air di salah satu rumah warga yang terendam banjir di Perumahan Bumi Panyileukan, Kelurahan Cipadung kidul, Kecamatan Panyileukan, Kota Bandung, Rabu (8/6/2016).
+
+Beberapa unit mobil pompa penyedot air ini juga dikerahkan ke sejumlah titik kawasan terendam banjir di wilayah Bandung Timur.
+
+(*)
+</TEXT>
+
+</TimeML>
+

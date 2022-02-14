@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1009</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-13" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-13</TIMEX3></DCT>
+
+<TITLE>Sejumlah Kawasan di Mamuju Tergenang Air</TITLE>
+
+<TEXT>
+Hujan deras selama <TIMEX3 tid="t1" type="DATE" value="PTXH">beberapa jam</TIMEX3> yang melanda Kota Mamuju, Sulbar, <TIMEX3 tid="t2" type="DATE" value="2018-10-13">Sabtu (13/10/2018)</TIMEX3>, menyebabkan sejumlah kawasan di kota ini terendam banjir. 
+
+Pantauan mamujupos. 
+
+com, kawasan yang terendam banjir di antaranya jalan M. 
+
+Tahir Imam Lapeo, Jalan Diponegoro, Jalan Andi Depu, Jalan nelayan, dan sejumlah jalan lainnya. 
+
+Ketinggian air di sejumlah kawasan itu rata-rata mencapai 20 cm. 
+
+Akibatnya, terjadi pengenangan air. 
+
+Seorang warga Mamuju, Siti mengatakan, banjir di jalan M. 
+
+Tahir Imam Lapeo Salah sudah menjadi pemandangan biasa tiap turun hujan. 
+
+Ini sudah pemandangan biasa. 
+
+Kalau hujan deras saja <TIMEX3 tid="t3" type="DURATION" value="PT1H">lebih dari satu jam</TIMEX3>, di sini jadi seperti kolam, kata Siti. 
+
+Menurut Siti, meski sudah sering tergenang banjir belum ada upaya nyata dari Pemda Mamuju untuk mengatasi banjir tersebut. 
+
+Upaya perbaikan drainase di sepanjang jalan ini juga belum mampu mengatasi banjir. 
+
+Genangan air hujan di jalan M. 
+
+Tahir Imam Lapeo. 
+
+Harusnya, Pemda Mamuju lebih serius. 
+
+Karena perbaikan drainasenya terjadi tidak mengurangi genangan air, ujarnya. 
+
+(toni) 
+</TEXT>
+
+</TimeML>

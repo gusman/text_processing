@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0803</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-05" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-05</TIMEX3></DCT>
+
+<TITLE>50 Genset Siap Dikirim untuk Bantu Korban Gempa di Palu-Donggala</TITLE>
+
+<TEXT>
+Kodam IV Diponegoro menambah alat untuk membantu proses evakuasi pasca- gempa di Donggala, yang disusul tsunami di Palu, Sulawesi Tengah. 
+
+Alat yang akan dikirim untuk membantu evakuasi yaitu genset. 
+
+Sebelumnya, 2 helikopter dari Penerbangan Angkatan Darat (Penerbad) Semarang telah dikirim pada <TIMEX3 tid="t1" type="DATE" value="2018-09-28">akhir pekan kemarin</TIMEX3>. 
+
+" Bantuan semua yang dibutuhkan kita himpun, dan juga kirim 50 genset tinggal diberangkatkan, " ujar Panglima Kodam IV Diponegoro Mayor Jenderal Wuryanto, seusai upacara HUT Ke-73 TNI tingkat Jateng-DIY di Lanumad Ahmad Yani Semarang, <TIMEX3 tid="t2" type="DATE" value="2018-10-05">Jumat (5/10/2018)</TIMEX3>. 
+
+Jenderal bintang dua itu menambahkan, seluruh prajurit di Kodam IV juga telah menghimpun bantuan untuk membantu meringankan para korban gempa. 
+
+Bantuan yang dihimpun dari para prajurit seluruhnya akan disalurkan ke Palu. 
+
+" <TIMEX3 tid="t3" type="DATE" value="2018-10-05">Hari ini</TIMEX3> semua angkatan di Kodam IV siap untuk dikirim ke Palu, semua angkatan sudah siap, tinggal melalukan pemberangkatan dari instruksi Mabes TNI, " tandasnya. 
+
+. 
+
+" Semuanya siap, berapapun perintahnya kita sediakan, " tambahnya. 
+
+Gempa dan tsunami di Sulawesi Tengah hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> telah menelan ribuan korban jiwa. 
+
+Berdasarkan data dari Badan Penanggulangan Bencana (BNPB) per <TIMEX3 tid="t5" type="DATE" value="2018-10-03">3 Oktober 2018</TIMEX3>, total jumlah korban tewas mencapai 1.374 orang. 
+
+
+</TEXT>
+
+</TimeML>

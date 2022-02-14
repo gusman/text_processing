@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0143</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-10" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-10</TIMEX3></DCT>
+
+<TITLE>Rumah Ambruk Disapu Angin Kencang</TITLE>
+
+<TEXT>
+Rumah semi permanen milik Sakon (48), buruh tani di Kampung Bojong Herang, Desa Pamanuk, Kecamatan Carenang, ambruk diterjang hujan deras yang disertai angin kencang. 
+
+Kondisi rumah <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> mengalami rusak berat. 
+
+Pantauan Radar Banten, <TIMEX3 tid="t2" type="TIME" value="2020-01-09TAF">Kamis (9/1) siang</TIMEX3> di lokasi kejadian, pemilik rumah dibantu Babinsa Koramil Carenang membereskan puing-puing bangunan. 
+
+Kondisi rumah terlihat tinggal kerangka. 
+
+Camat Carenang Samsuri mengatakan, pihaknya sudah berkoordinasi dengan Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Serang dan Pemerintah Desa Pemanuk untuk membantu warga yang rumahnya ambruk. 
+
+Cuacanya ekstrem, makanya rumah warganya sampai ambruk, ungkap Samsuri kepada Radar Banten. 
+
+Samsuri mengaku, sudah mengunjungi lokasi kejadian dan memastikan keadaan warga yang rumahnya roboh dalam keadaan selamat. 
+
+Rumah ambruk karena hujan deras yang disertai angin kencang, terangnya. 
+
+Samsuri mengimbau agar warga selalu waspada lantaran <TIMEX3 tid="t3" type="DATE" value="2020-WI">musim penghujan ini</TIMEX3> curah hujan tinggi dan angin kencang. 
+
+Kami harap warga Carenang berhati-hati dan tetap waspada, imbaunya. 
+
+Terkait itu, Kepala Pelaksana Harian BPBD Kabupaten Serang Nana Sukmana Kusuma mengaku, sudah menerjunkan tim untuk melakukan validasi data ke lokasi kejadian. 
+
+Kami pastikan tidak ada korban jiwa atas kejadian ini, tegasnya. 
+
+Kata Nana, rumah yang ambruk dihuni lima jiwa itu kondisinya <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> mengalami rusak berat. 
+
+<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> korban membutuhkan beberapa bantuan logistik seperti family kit, peralatan kebersihan, terpal, baby kit, dan makanan. 
+
+Kami sudah berikan bantuan sederhana, ungkapnya. 
+
+Akibat kejadian itu, lanjut Nana, pemilik rumah mengalami kerugian sebesar Rp25 juta. 
+
+Untuk membereskan puing bangunan dibantu Bintara Pembina Desa (Babinsa) Koramil Carenang, Pemerintah Desa Pamanuk, dan warga setempat. 
+
+Cuaca memang sedang ekstrem, jadi harus lebih wapada pada bencana, imbaunya. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0820</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-03-09" temporalFunction="false" functionInDocument="CREATION_TIME">2017-03-09</TIMEX3></DCT>
+
+<TITLE>Detik-detik Dramatis Bidan Melahirkan, Mau Bantu Persalinan Pasiennya di Lokasi Banjir</TITLE>
+
+<TEXT>
+Kisah mengharukan nan dramatis diperlihatkan saat bidan melahirkan yang tadinya hendak membantu persalinan warga yang terkena dampak bencana di lokasi banjir di Kabupaten Limapuluh Kota, Sumatera Barat. 
+
+Adalah bidan Yunita Sari alias Sari (27), dari desa Nagari Galugua, Kecamatan Kapur IX yang melahirkan saat di tengah perjalanan. 
+
+Saat di tengah perjalanan Sari sudah memperlihatkan tanda-tanda ingin melahirkan, sehingga ia kemudian melakukan persalinan di mobil double kabin yang ditumpanginya. 
+
+Detik-detik video saat Sari dibantu warga melakukan persalinan diunggah oleh Bupati Limapuluh Kota Irfendi Arbi dalam akun media sosial miliknya di Instagram irfendiarbi. 
+
+.00 <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">WIB</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2017-03-08">Rabu itu</TIMEX3> terlihat sejumlah warga yang membawa Sari menggunakan tandu dari kain dan dililitkan dua bilah kayu panjang. 
+
+Banjir dan longsor yang melanda Kabupaten Limapuluh Kota <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih menghancurkan infrastruktur, ratusan hektare sawah rusak, hingga memakan korban jiwa. 
+
+Lihat videonya di sini:Sari harus melahirkan di lokasi bencana banjir dan longsor saat dalam perjalanan menuju rumah pasiennya, Esis (19), yang juga sedang hamil <TIMEX3 tid="t4" type="DURATION" value="P11M">hampir 11 bulan</TIMEX3>. 
+
+// Belum sempat membantu pasienya itu, Sari mengalami kontraksi dan harus melahirkan. 
+
+Karena terputusnya akses jalan untuk menuju rumah sakit karena longsor, membuat Sari harus rela melahirkan seadanya dalam keadaan darurat. 
+
+Terlihat di belakang dalam bak terbuka mobil, usai melakukan persalinan yang hanya ditutupi hanya ditutupi terpal. 
+
+Usai melahirkan darurat, Sari terpaksa ditandu oleh warga sejauh 8 kilometer untuk mencari bantuan berupa kendaraan agar mendapat perawatan ke rumah sakit. 
+
+Sementara bayi Sari yang belum diketahui jenis kelaminnya itu digendong oleh dua orang warga sambil berteduh dengan payung. 
+
+Video yang berdurasi <TIMEX3 tid="t5" type="TIME" value="UNKNOWN">satu menit itu</TIMEX3>, juga memperlihatkan salah satu jalan disekitar lokasi masih terputus karena longsor. 
+
+Dua mobil dengan bak terbuka terlihat menunggu warga yang sedang menaikan bidan Sari ke atas mobil. 
+
+Dalam tulisannya, Irfendi Arbi menjelasakan videonya amatirnya itu ia dapat Kadis Kesehatan Tien Suptino:BIDAN MELAHIRKAN DI LOKASI BENCANA GALUGUA dan DITANDU SEJAUH 8 KILOMETERInilah kisah Yunita Sari alias Sari (27), bidan desa di Nagari Galugua, satu dari 4 kampung terisolir pasca banjir dan longsor di Kapur IX, Limapuluh Kota. 
+
+// Bidan Sari, melahirkan di lokasi bencana dan material longsor, saat dalam perjalanan menuju rumah pasiennya, Esis (19), yang hamil <TIMEX3 tid="t6" type="DURATION" value="P11M">hampir 11 bulan</TIMEX3> namun belum menjalani proses persalinan. 
+
+Usai melahirkan darurat, bidan Sari ditandu oleh warga sejauh 8 kilometer dan kemudian baru dapat bantuan kendaraan. 
+
+Simak videonya amatirnya yang <TIMEX3 tid="t7" type="DURATION" value="2017-03-01TNI">semalam</TIMEX3> saya dapat dari Kadis Kesehatan Ibu dr Tien Suptino. 
+
+prayfor50kota 
+</TEXT>
+
+</TimeML>

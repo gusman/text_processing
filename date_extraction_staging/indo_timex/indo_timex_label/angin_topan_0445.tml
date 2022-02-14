@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0445</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-05" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-05</TIMEX3></DCT>
+
+<TITLE>BPBD Boyolali Bantu Korban Angin Ribut</TITLE>
+
+<TEXT>
+Memasuki <TIMEX3 tid="t1" type="DATE" value="2017-WI">musim hujan</TIMEX3>, bencana seperti tanah longsor dan angin puting beliung melanda sejumlah tempat. 
+
+Seperti yang baru baru ini terjadi di wilayah Kabupaten Boyolali tepatnya di Kecamatan Selo yang diterjang angin puting beliung, pada <TIMEX3 tid="t2" type="TIME" value="2018-12-04TAF">Selasa (4/12/2018) siang</TIMEX3>. 
+
+Ratusan rumah warga di Desa Samiran dan Desa Lencoh mengalami sapuan angin ribut yang disertai dengan hujan ini. 
+
+Diungkapkan oleh Kepala Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Boyolali, Bambang Sinungharjo bahwa sebanyak 198 rumah warga mengalami kerusakan dengan terbangnya genting dan asbes saat sapuan angin menerjang. 
+
+Sedangkan di Dukuh Tegalsruni; Desa Samiran terdapat satu rumah yang terkena tanah longsor. 
+
+<TIMEX3 tid="t3" type="TIME" value="2018-12-05TMO">Pagi ini</TIMEX3> dilaksanakan kerja bakti gotong royong. 
+
+Tadi <TIMEX3 tid="t4" type="TIME" value="2018-12-04T08">jam 8.00</TIMEX3> sudah dipimpin Camat (Selo-red) dan dibantu sebanyak 120 relawan, dari Pemda (Pemerintah Daerah) menyiapkan dapur umum, terangnya di lokasi bencana pada <TIMEX3 tid="t5" type="DATE" value="2018-12-05">Rabu (5/12)</TIMEX3>. 
+
+BPBD Kabupaten Boyolali juga turut membantu dari kebutuhan logistik untuk keperluan <TIMEX3 tid="t6" type="DATE" value="2018-12-08">tiga hari depan</TIMEX3> berbentuk 25 paket. 
+
+Paket tersebut diperuntukan keluarga atau rumah yang membutuhkan dengan kategori rusak berat yakni <TIMEX3 tid="t7" type="DATE" value="1000">1000</TIMEX3> genteng yang lengkap. 
+
+Langkah pertama yakni pembenahan dari genteng yang masih bisa digunakan, ujarnya. 
+
+Sementara itu, salah seorang warga, Widodo mengatakan angin puting beliung yang datang secara mendadak tersebut diawali dengan hujan intensitas sedang kemudian disusul hembusan angin kencang yang mampu memporak porandakan rumah dengan disertai hujan lebat. 
+
+Hanya <TIMEX3 tid="t8" type="DURATION" value="PXX">beberapa saat</TIMEX3> saja itu terjadi dan warga yang ada di ladang juga tidak tahu. 
+
+Sekitar jam 02.00-03.00 karena masih banyak warga yang beraktivitas pada <TIMEX3 tid="t9" type="DATE" value="PAST_REF">saat itu</TIMEX3>. 
+
+Yang paling parah genteng, banyak genteng yang kabur, ungkap Widodo. 
+
+(*) 
+</TEXT>
+
+</TimeML>

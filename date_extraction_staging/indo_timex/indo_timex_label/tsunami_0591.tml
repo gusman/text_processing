@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0591</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>BMKG Beberkan Kronologi Peristiwa Tsunami di Banten dan Lampung, Ternyata Berawal dari Sini!</TITLE>
+
+<TEXT>
+Kepala Badan Meteorologi, Klimatologi dan Geofisika (BMKG), Dwikorita Karnawati memaparkan kronologi terjadinya peristiwa tsunami di wilayah pantai di sekitar kawasan Selat Sunda. 
+
+Hal itu ia sampaikan dalam konferensi pers di gedung BMKG, Jakarta, <TIMEX3 tid="t1" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3> dini hari.21 <TIMEX3 tid="t2" type="DATE" value="2018-12">Desember</TIMEX3>, BMKG deteksi erupsi anak gunung KrakatauDwikorita memaparkan pada <TIMEX3 tid="t3" type="DATE" value="2018-12-21">Jumat (21/12/2018)</TIMEX3> sekitar <TIMEX3 tid="t4" type="TIME" value="2018-12-22T13:51">pukul 13.51 WIB</TIMEX3>, BMKG telah mengumumkan erupsi gunung anak Krakatau dengan status level Waspada. 
+
+" <TIMEX3 tid="t5" type="TIME" value="2018-12-22">Kemarin pukul 13.51 WIB</TIMEX3> pada <TIMEX3 tid="t6" type="DATE" value="2018-12-21">tanggal 21 Desember</TIMEX3> Badan Geologi telah mengumumkan erupsi gunung anak Krakatau dan levelnya pada level Waspada, " kata Dwikorita.22 <TIMEX3 tid="t7" type="DATE" value="2018-12">Desember</TIMEX3>, BMKG umumkan peringatan dini potensi gelombang tinggiPada <TIMEX3 tid="t8" type="DATE" value="2018-12-22">Sabtu (22/12/2018)</TIMEX3>, kata Dwikorita, BMKG mengeluarkan peringatan dini sekitar <TIMEX3 tid="t9" type="TIME" value="2018-12-22T07:00">pukul 07.00 WIB</TIMEX3> akan potensi gelombang tinggi di sekitar perairan Selat Sunda. 
+
+" Diperkirakan (gelombang tinggi terjadi) <TIMEX3 tid="t10" type="DATE" value="2018-12-22">kemarin</TIMEX3> tanggal 21 hingga <TIMEX3 tid="t11" type="DATE" value="UNKNOWN">nanti 25 Desember 2012</TIMEX3>. 
+
+Ini peristiiwa beda tapi terjadi pada lokasi yang sama. 
+
+Yang pertama erupsi Gunung Krakatau dan potensi gelombang tinggi, " katanya. 
+
+Menurut dia, sekitar pukul 09.00-11.00 <TIMEX3 tid="t12" type="TIME" value="UNKNOWN">WIB</TIMEX3>, tim BMKG ada yang sedang berada di perairan Selat Sunda melakukan uji coba instrumen. 
+
+// " Di situ memang terverifikasi bahwa terjadi hujan lebat dengan gelombang dan angin kencang, karena itu tim kami segera kembali ke darat, " ujarnya.22 <TIMEX3 tid="t13" type="DATE" value="2018-12">Desember</TIMEX3>, BMKG deteksi gunung Krakatau alami erupsi lagi <TIMEX3 tid="t14" type="TIME" value="2018-12-22T21:03">Sekitar pukul 21.03 WIB</TIMEX3>, BMKG mencatat erupsi gunung anak Krakatau. 
+
+Di satu sisi sejumlah tide gauge (alat pendeteksi tsunami) BMKG menunjukkan ada potensi kenaikan permukaan air di pantai sekitar Selat Sunda. 
+
+" Dan kami analisis, kami memerlukan waktu analisis apakah kenaikan air itu air pasang akibat fenomena atmosfer yang tadi ada gelombang tinggi? Jadi memang ada fase seperti itu. 
+
+Namun ternyata setelah kami analisis lanjut gelombang itu merupakan gelombang tsunami, " kata dia. 
+
+Adapun rinciannya, berdasarkan hasil pengamatan tidegauge Serang di Pantai Jambu, Desa Bulakan, Cinangka, Serang, tercatat <TIMEX3 tid="t15" type="TIME" value="2018-12-22T21:27">pukul 21.27 WIB</TIMEX3> ketinggian gelombang 0,9 meter. 
+
+" Kemudian tidegauge Banten di pelabuhan Ciwandan, tercatat <TIMEX3 tid="t16" type="TIME" value="2018-12-22T21:33">pukul 21.33 WIB</TIMEX3> ketinggian <TIMEX3 tid="t17" type="TIME" value="2018-12-22T00:35">0.35</TIMEX3> meter, " kata Dwikorita. 
+
+// Selanjutnya, lewat tidegauge Kota Agung di Desa Kota Agung, Kota Agung, Lampung tercatat <TIMEX3 tid="t18" type="TIME" value="2018-12-22T21:35">pukul 21.35 WIB</TIMEX3> ketinggian <TIMEX3 tid="t19" type="TIME" value="2018-12-22T00:36">0.36</TIMEX3> meter. 
+
+Yang terakhir tidegauge Pelabuhan Panjang, Kota Bandar Lampung tercatat <TIMEX3 tid="t20" type="TIME" value="2018-12-22T21:53">pukul 21.53 WIB</TIMEX3> ketinggian <TIMEX3 tid="t21" type="TIME" value="2018-12-22T00:28">0.28</TIMEX3> meter. 
+
+Menurut dia, berdasarkan ciri gelombangnya, tsunami yang terjadi kali ini mirip dengan yang terjadi di Palu, Sulawesi Tengah lalu. 
+
+" Periodenya (periode gelombang) pendek-pendek, " katanya. 
+
+" Masyarakat diimbau agar tetap tenang dan tidak terpengaruh oleh isu yang tidak dapat dipertanggungjawabkan kebenarannya. 
+
+Juga diiimbau untuk tetap menjauh dari pantai perairan Selat Sunda, hingga ada perkembangan informasi dari BMKG dan Badan Geologi, " ujarnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

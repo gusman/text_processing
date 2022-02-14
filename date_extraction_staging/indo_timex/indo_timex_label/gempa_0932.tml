@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0932</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-10" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-10</TIMEX3></DCT>
+
+<TITLE>Mahasiswa Maybrat  Kumpulkan  Rp 9,4 Juta</TITLE>
+
+<TEXT>
+Puluhan mahasiswa-mahasiswi yang tergabung dalam Forum Komunikasi Mahasiswa-Mahasiswi Maybrat (Forkomam) Universitas Pendidikan Muhammadiyah, (Unimuda) Sorong menggelar aksi penggalangan dana peduli korban gempa di Ambon, Maluku. 
+
+Aksi peduli yang dilaksanakan hanya <TIMEX3 tid="t1" type="DURATION" value="P1D">sehari</TIMEX3> tanggal <TIMEX3 tid="t2" type="DATE" value="2019-10-02">2 Oktober</TIMEX3> tersebut berhasil mengumpulkan dana Rp 9,4 juta. 
+
+Ketua Forkomam, Samuel A. 
+
+Isir kepada Radar Sorong <TIMEX3 tid="t3" type="DATE" value="2019-10-09">kemarin (9/10)</TIMEX3> menerangkan, dari apa yang dilakukan berbeda dengan komunitas lain yang dalam melaksanakan aksi penggalangan terpusat di lampu lampu merah, mereka melakukan aksi penggalangan dengan cara mendatangi rumah rumah warga dan atau pedagang usaha seperti kios di sepanjang jalan utama, lengkap dengan jas almamater kampus mulai dari titik nol kampus Unimuda dan finish di Alun-alun Aimas. 
+
+Ia menjelaskan, aksi penggalangan dana penduli korban bencana gempa bumi Ambon, Maluku, adalah bentuk rasa empati dan simpati terhadap saudara saudara sebangsa dan setanah air. 
+
+Biar bagaimanapun, duka mereka adalah duka kita, sakit mereka adalah sakit kita juga, karena mereka adalah kita sesama anak bangsa, katanya. 
+
+(ris) 
+</TEXT>
+
+</TimeML>

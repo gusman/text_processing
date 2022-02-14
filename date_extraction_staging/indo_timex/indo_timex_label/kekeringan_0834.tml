@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0834</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-11-12" temporalFunction="false" functionInDocument="CREATION_TIME">2015-11-12</TIMEX3></DCT>
+
+<TITLE>Petani Mengaku Tak Punya Stok Beras Lagi</TITLE>
+
+<TEXT>
+Salah seorang petani di Kampung Kuprik, Distrik Semangga, Kabupaten Merauke, Marlina mengaku memiliki lahan empat hektar. 
+
+Dari luasan lahan tersebut, <TIMEX3 tid="t1" type="SET" value="P1Y">setiap tahun</TIMEX3> semuanya ditanami padi <TIMEX3 tid="t2" type="SET" value="P1Y">setiap tahun</TIMEX3>. 
+
+Hanya saja, dalam musim tanam kedua atau gaduh, gagal panen akibat kemarau panjang. 
+
+Saat ditemui Jubi di rumahnya di Kampung Kuprik, <TIMEX3 tid="t3" type="DATE" value="2015-11-04">Rabu (11/11/2015)</TIMEX3>, Marlina menuturkan pada musim tanam pertama (rendengan) hasil padi sangat memuaskan. 
+
+Satu hektar lahan bisa panen hingga 100 karung lebih. 
+
+Sayangnya, ketika memasuki musim tanam kedua, hampir semua petani tidak dapat berbuat apa-apa karena lahan sawah kekeringan. 
+
+Kita sudah menanam bahkan sampai memupuk anakan padi. 
+
+Tetapi akibat kemarau panjang, tanaman padi mati kekeringan. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> cadangan padi di rumah sudah tidak ada. 
+
+Kita sudah jual semua padi dari hasil panen pertama. 
+
+Harapannya bisa panen lagi di <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">musim kedua</TIMEX3>. 
+
+Ternyata puso, katanya. 
+
+Diakui <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, ia hanya memiliki enam karung padi yang akan dijadikan bibit untuk ditanam pada musim berikutnya, setelah datang hujan. 
+
+Saya tidak bisa bawa padi ke tempat penggilingan untuk digiling dan dijual. 
+
+Karena itu bibit untuk tanam berikutnya, katanya. 
+
+Dalam <TIMEX3 tid="t7" type="DURATION" value="PXM">beberapa bulan</TIMEX3> terakhir, demikian Marlina, mereka juga harus membeli beras miskin (raskin) di kampungnya. 
+
+Karena tidak ada beras cadangan lagi untuk dimakan <TIMEX3 tid="t8" type="SET" value="P1D">setiap hari</TIMEX3>. 
+
+Sebelumnya, Kepala Bulog Sub Divre Merauke, Zulkarnaen Nurdin, mengatakan akibat gagal panen kuota pembelian beras dari petani <TIMEX3 tid="t9" type="DATE" value="2015">tahun 2015</TIMEX3> tidak bisa terpenuhi. 
+
+Target awal 40 ribu ton, namun hanya terbeli 20 ribu ton. 
+
+
+</TEXT>
+
+</TimeML>

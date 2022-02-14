@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0001</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-01</TIMEX3></DCT>
+
+<TITLE>Puting Beliung Rusak Sembilan Rumah</TITLE>
+
+<TEXT>
+Puting beliaung kembali terjadi di Bener Meriah, akibatnya sembilan rumah rusak dan satu orang warga mengalami luka. 
+
+Peristiwa tersebut terjadi di Kampung Wih Pesam, Kecamatan Wih Pesam, Kabupaten Bener Meriah, <TIMEX3 tid="t1" type="TIME" value="2018-09-30TAF">Sabtu (30/9) sore</TIMEX3>. 
+
+Mariati (40), pedagang setempat mengaku, panik saat angin puting beliung menghatam rumahnya. 
+
+Saya sedang menjaga kios di ruang depan dan orang disekitar berteriak ketakutan, sehingga saya berlari kedalam rumah dan memapah bapak saya (Sulaiman) keluar dari dalam rumah yang dalam kondisi sakit lumpuh, ungkapnya. 
+
+Ia menambahakan, saat sudah berada diluar rumah ia melihat kaki bapaknya sudah terluka dan berdarah. 
+
+Saya tidak tahu entah kena apa tiba-tiba sudah berdarah dan saya baru melihat setelah kami berada disana, kata Mariati menujuk ke arah depan rumahnya. 
+
+Sementara itu, Mazda (27), warga Kampung Pante Raya, saat melintas melihat seng atap rumah warga berterbangan, sehingga ia berhenti dan mengabadikan sebuah foto dari jalan jalur dua bandara Pante Raya. 
+
+Angin berputar-putar dan menerbangkan peralatan rumah warga dan saya juga melihat dari kejauhan percikan api dari tiang listrik, jelasnya. 
+
+Ia menambahkan, suara angin putting beliung terdengar seperti suara mobil damtruk menurunkun material batu dan ia juga mengaku mendengar suara warga panik berteriak dari kejauhan. 
+
+Sementara itu Kapolres Bener Meriah, AKBP Fahmi Irwan Ramli, <TIMEX3 tid="t2" type="DATE" value="2018-09-30">Minggu (30/9)</TIMEX3> menyebutkan bencana alam angin puting beliung dan di sertai hujan gerimis mengakibatkan sembilan unit rumah warga mengalami kerusakan. 
+
+Adapun rumah masyarakat yang rusak berat akibat angin kencang tersebut diantaranya Siti Dahlina, Sulaiman, Saiful Pasaribu, Sudirman Sl, Mujakir, Ramlan, Aripin, Juliana/Muklisdan Hasanah. 
+
+Selain itu Iwan Pasa, Camat Wih Pesam, menyampaikan, pemerintah daerah telah menyalurkan bantuan kepada warga yang terkena musibah gempa. 
+
+Tadi <TIMEX3 tid="t3" type="TIME" value="2018-09-30TNI">malam</TIMEX3>, Plt Bupati Bener Meriah juga sudah mengunjungi dan menyalurkan bantuan kepada korban, katanya. 
+
+(uri/bai) 
+</TEXT>
+
+</TimeML>

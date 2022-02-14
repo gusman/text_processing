@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0561</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-22</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS, Ditemukan Mayat Lelaki di Lokasi Lahan Terbakar di Palingkau Kabupaten Kapuas Kalteng</TITLE>
+
+<TEXT>
+Awalnya warga digegerkan adanya kebakaran lahan di kawasan Jalan Manunggal 7 RT 04 Kelurahan Palingkau Baru, Kecamatan Kapuas Murung, Kabupaten Kapuas, <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">Senin (21/10/2019) siang lalu</TIMEX3>. 
+
+Tim terpadu pun melakukan pemadaman api yang membakar lahan persawahan di lokasi tersebut. 
+
+<TIMEX3 tid="t2" type="DURATION" value="PT1H">Sekitar satu jam</TIMEX3> berjibaku memadamkan api, hingga kondisi api padam total dan situasi dipastikan aman terkendali. 
+
+Berdasarkan data diterima dari Pusdalops-PB BPBD Kabupaten Kapuas, luasan lahan terbakar sekitar satu setengah hektare. 
+
+. 
+
+Identitas mayat yang ditemukan itu belakang diketahui adalah Jaini (33) warga Kelurahan Palingkau Baru, Kecamatan Kapuas Murung Kabupaten Kapuas. 
+
+Mayat laki-laki tersebut pun langsung dievakuasi ke rumah duka atas permintaan pihak keluarga. 
+
+Diduga korban sebelumnya ikut memadamkan lahan yang terbakar. 
+
+Namun hingga <TIMEX3 tid="t3" type="TIME" value="2019-10-21TAF">sore hari</TIMEX3> tak kunjung pulang ke rumah. 
+
+Hingga pihak keluarga mencari dan akhirnya korban ditemukan di tengah lahan bekas terbakar itu dalam keadaan sudah tak bernyawa. 
+
+Kejadian ini juga langsung ditindaklanjuti jajaran Polsek Kapuas Murung. 
+
+Pihak kepolisian pun mendatangi lokasi penemuan mayat hingga ke rumah duka. 
+
+// " Ya, laporan awal terjadi karhutla. 
+
+Tim terpadu pun melakukan pemadaman <TIMEX3 tid="t4" type="TIME" value="2019-10-21TAF">siang kemarin</TIMEX3>. 
+
+<TIMEX3 tid="t5" type="TIME" value="2019-10-21TAF">Sore harinya</TIMEX3>, dapat laporan ada penemuan mayat dengan luka bakar di lokasi tersebut, " kata Kapolsek Kapuas Murung, Iptu Subandi, <TIMEX3 tid="t6" type="DATE" value="2019-10-22">Selasa (22/10/2019)</TIMEX3>. 
+
+Kapolsek pun menjelaskan kronologi kejadian penemuan mayat tersebut. 
+
+Dimana awalnya, <TIMEX3 tid="t7" type="DATE" value="2019-10-21">Senin (21/10/2019)</TIMEX3> sekitar <TIMEX3 tid="t8" type="TIME" value="2019-10-21T15:00">pukul 15.00 WIB</TIMEX3>, Misbah, istri Jaini (korban), bersama Raihanah (saksi) ingin melihat lokasi sawahnya yang terbakar. 
+
+Kemudian terlihat dari kejauhan tepatnya di tengah-tengah sawah lokasi kebakaran lahan ada seseorang yang sedang tertelungkup. 
+
+Setelah dilihat dari dekat ternyata orang tersebut adalah suaminya (Jaini). 
+
+Kemudian saksi, Raihanah, langsung berlari meminta bantuan kepada warga sekitar. 
+
+" Mayat korban sempat dibawa ke rumah singgah (rumah tunggu kesehatan) untuk dilakukan pemeriksaan dan hasil dari pemeriksaaan tersebut korban dinyatakan meninggal dunia, " pungkasnya. 
+
+(Banjarmasinpost. 
+
+co. 
+
+id/Fadly SR) 
+</TEXT>
+
+</TimeML>

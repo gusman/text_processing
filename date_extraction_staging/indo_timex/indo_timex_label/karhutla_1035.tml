@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1035</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-23" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-23</TIMEX3></DCT>
+
+<TITLE>Pessel Diselimuti Kabut Asap, Bupati Hendrajoni Bagikan Masker ke Masyarakat</TITLE>
+
+<TEXT>
+Bupati Pesisir Selatan H. 
+
+Hendrajoni berserta Perangkat Daerah bagikan masker gratis ke pengendara di Jalan Raya depan tugu Adipura di SMP 1 Painan sebagai bentuk peduli kesehatan pada masyarakat, <TIMEX3 tid="t1" type="DATE" value="2019-09-23">Senin</TIMEX3> (23/09/2019)Bentuk kepedulian terhadap masyarakat di Kabupaten Pesisir Selatan yang <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> diselimuti kabut asap tebal, diduga akibat asap kiriman dari kabupaten tetangga yang Kebakaran Lahan dan hutan (Karlahut), Pemkab Kabupaten bersama Dinas terkait bagikan masker gratis. 
+
+Masker gratis dibagikan Bupati H. 
+
+Hendrajoni ke masyarakat maupun pengendara kendaraan bermotor yang melintas di jalan Ilyas Yakub. 
+
+Kegiatan sosial itu, untuk memberikan kesadaran dan pemahaman ke masyarakat, disaat keluar rumah, harus gunakan masker, sebagai antisipasi dan mencegah masyarakat terserang penyakit inspeksi saluran pernapasan atas (Ispa) akibat paparan Udara yang tidak sehat bercampur kabut asap. 
+
+Bupati Pesisir Selatan dan pejabat lainnya, bagikan serta memasangkan masker ke pengendara sepeda motor dan mobil yang melintas. 
+
+Pembagian masker gratis secara bersama-sama sebagai bentuk bakti sosial. 
+
+Bupati H. 
+
+Hendrajoni mengaku, kabut asap yang menyelimuti wilayah 15 kecamatans se-kabupaten merupakan kabut asap kiriman dari kabupaten tetangga. 
+
+Karena untuk sementara ini, upaya pemerintah daerah bersama Kapolres dan Dandim tetap mencegah terjadinya Karlahut, mesti <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> ada titik api, tapi masyarakat harus waspada, bagi yang membuka ladang atau kebun tidak dengan cara membakar. 
+
+Harapan Bupati masyarakat bisa terus menjaga hal ini agar tidak ada kebakaran lahan dan hutan di daerah Pesisir Selatan. 
+
+(Rega Desfinal) 
+</TEXT>
+
+</TimeML>

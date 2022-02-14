@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0708</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-14" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-14</TIMEX3></DCT>
+
+<TITLE>Sempat Terputus Akibat Longsor, Jalan Antardesa di Kecamatan Waru Pamekasan Sudah Bisa Dilewati</TITLE>
+
+<TEXT>
+Jalan penghubung dua desa Kecamatan Waru, Kabupaten Pamekasan, <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> sudah bisa dilewati, <TIMEX3 tid="t2" type="DATE" value="2020-01-14">Selasa (14/1/2020)</TIMEX3>. 
+
+Sebelumnya, jalan penghubung Desa Waru Barat dengan Desa Tlonto Ares, Kecamatan Waru, terputus setelah diterjang hujan deras selama <TIMEX3 tid="t3" type="DURATION" value="PT5H">lima jam</TIMEX3>, <TIMEX3 tid="t4" type="TIME" value="2020-01-13TNI">Senin (13/1/2020) malam</TIMEX3>. 
+
+Akibatnya, jalan penghubung Desa Waru Barat dengan Desa Tlonto Ares mengalami longsor. 
+
+. 
+
+Kata dia, jalan tersebut ambles dan longsor akibat lamanya hujan yang telah mengguyur di wilayah setempat. 
+
+Ia juga mengutarakan, <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">kini</TIMEX3>, jalan tersebut sudah bisa dilewati warga setempat. 
+
+Namun warga diminta, harus tetap berhati-hati. 
+
+Selain itu, Letda Chb Firdausi mengaku, langsung mengerahkan 8 personel Koramil Waru ke lokasi untuk melakukan perbaika jalan yang ambles. 
+
+// " Saat melakukan perbaikan, kami juga dibantu oleh 3 personel dari Polsek Waru dan 8 orang masyarakat setempat, " kata Letda Chb Firdausi kepada TribunMadura. 
+
+com. 
+
+Tidak hanya itu saja, Letda Chb Firdausi juga mengutarakan, pihaknya bersama instansi terkait akan bekerja keras untuk kembali melakukan penataan. 
+
+Pihaknya juga melakukan penimbunan kembali jalan dengan batu gunung di pinggi lokasi supaya lebih kuat dan tahan lama. 
+
+" Kami akan selalu berusaha bergerak cepat untuk melakukan perbaikan ini, " ucap dia. 
+
+" Agar lingkungan Kecamatan Waru dan akses jalan penghuhung dua desa itu kembali normal dan bisa dilewati warga sekitar, " tambahnya. 
+
+Letda Chb Firdausi juga memastikan tidak ada korban jiwa dalam kejadian amblesnya jalan penghubung dua desa itu. 
+
+Lebih lanjut, ia mengimbau kepada masyarakat agar tetap melakukan siaga bencana, mengingat pada <TIMEX3 tid="t6" type="DATE" value="2019-WI">musim hujan</TIMEX3> kali ini merupakan rawan bencana. 
+
+
+</TEXT>
+
+</TimeML>

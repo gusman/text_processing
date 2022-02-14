@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0308</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-05" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-05</TIMEX3></DCT>
+
+<TITLE>Longsor di Sukasari, Sebabkan Rumah Hancur dan Korban Terluka</TITLE>
+
+<TEXT>
+Bencana longsor mengakibatkan rumah rusak serius, di Dusun Kuta Rt 08 Rw 06 Desa Genteng, Kec. 
+
+Sukasari, Kab. 
+
+Sumedang <TIMEX3 tid="t1" type="DATE" value="2020-02-04">Selasa 4 Februari 2020</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2020-02-04T20:00">pukul 20.00</TIMEX3> Wib. 
+
+Diketahui, rumah milik Aminah (65) dan korban terluka di bagian kepala. 
+
+Dandim 0610/Sumedang, Letkol Arh Novianto Firmansyah mengatakan, Babinsa dan Bhabinkamtibmas ke TKP untuk membantu mengevakuasi korban ketempat yang aman dan koordinasi dengan aparat desa Situasi terakhir, korban di relokasi ke tempat yang aman di rumah saudaranya, ujarnya. 
+
+*** 
+</TEXT>
+
+</TimeML>

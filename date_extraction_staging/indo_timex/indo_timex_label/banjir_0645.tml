@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0645</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-04-06" temporalFunction="false" functionInDocument="CREATION_TIME">2017-04-06</TIMEX3></DCT>
+
+<TITLE>Beras Bantuan Habis, Ratusan Warga Korban Banjir di Perbatasan Ini Terpaksa Menahan Lapar</TITLE>
+
+<TEXT>
+Terbatasnya stok bantuan beras menyebabkan ratusan keluarga korban banjir Sungai Sembakung hingga <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> masih kekurangan beras. 
+
+Informasi yang diperoleh dari Pemerintah Kabupaten Nunukan, 747 keluarga masih kekurangan beras karena stok telah habis. 
+
+. 
+
+Di Desa Pagar, Kecamatan Sembakung ada 106 keluarga yang kekurangan beras. 
+
+Sedangkan di Desa Atap, Kecamatan Sembakung ada 641 keluarga yang kekurangan beras. 
+
+. 
+
+Dia mengatakan, dibutuhkan beras hingga 5 ton untuk memenuhi kebutuhan warga korban banjir hingga operasi selesai dilaksanakan. 
+
+<TIMEX3 tid="t2" type="DATE" value="2017-04-05">Kemarin</TIMEX3> memang ada yang terdistribusi bantuan kepada mereka. 
+
+Cuma nggak cukup. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> mereka kekurangan setidaknya 3.205 kilogram beras, ujarnya. 
+
+Selain beras, stok makanan seperti mie instan dan bahan makanan lainnya dipastikan masih aman. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, diupayakan menyalurkan beras untuk korban banjir di Desa Pagar. 
+
+Namun untuk Desa Atap, petugas masih menunggu informasi lebih lanjut dari pemerintah, ujarnya. 
+
+Banjir akibat luapan Sungai Sembakung yang berhulu di Sungai Pensiangan, Sabah, Malaysia, merendam puluhan desa di Kecamatan Lumbis, Kecamatan Lumbis Ogong, Kecamatan Sembakung dan Kecamatan Sembakung Atulai sejak <TIMEX3 tid="t5" type="DATE" value="2017-04-01">Sabtu (1/4/2017)</TIMEX3>. 
+
+// Sukarnain memastikan, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> genangan air mulai menyusut dan perlahan terus turun. 
+
+Kecamatan Sembakung yang terdampak paling parah juga berangsur normal. 
+
+<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> ketinggian air tersisa sekitar lutut orang dewasa di wilayah terendah di Kecamatan Sembakung. 
+
+Sebelumnya banjir sempat mencapai tiga meter, ujarnya. 
+
+Dari pendataan yang dilakukan Tim Pemuda Penjaga Perbatasan Republik Indonesia, di Kecamatan Lumbis Ogong banjir merendam pemukiman warga di Desa Samunti, Desa Salan, Desa Sungoi, Desa Sinampila, Desa Kalambuku. 
+
+juga Desa Sadalid, Desa Tadungus, Desa Tambalang Hilir, Desa Sinampila II, Desa Ubol Alung, Desa Ubol Sulok, Desa Nansapaan, Desa Batung, Desa Bulu Mangolom Suyadon, Desa Payang, Desa Nainsid Hulu dan Long Bulu. 
+
+Sementara di Kecamatan Lumbis banjir merendam pemukiman warga di Desa Patal I, Desa Patal II, Desa Lintong, Desa Taluan, Desa Pulu Bulawan, Desa Tubus, Desa Likos, Desa Tanjung Hulu, Desa Mansalong, Desa Kalampising, Desa Sodongon, Desa Liang, Desa Sapuyan, Desa Nainsid dan Desa Sisibu. 
+
+Di Kecamatan Sembakung Atulai, kawasan yang terkena banjir berada di Desa Liuk Bulu, Desa Binanun, Desa Pulau Keras, Desa Lubok dan Desa Katul. 
+
+Sementara di Kecamatan Sembakung, banjir merendam pemukiman penduduk di Desa Butas Bagu, Desa Labuk, Desa Pagar, Desa Tujung, Desa Manuk Bungkul, Desa Tembalunu, Desa Atap, Desa Tagul, Desa Lubakon, Desa Palaju, Desa Labion dan Desa Tepian. 
+
+(*) 
+</TEXT>
+
+</TimeML>

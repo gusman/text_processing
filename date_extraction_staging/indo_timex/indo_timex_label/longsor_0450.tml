@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0450</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-02-06" temporalFunction="false" functionInDocument="CREATION_TIME">2016-02-06</TIMEX3></DCT>
+
+<TITLE>Masih Lima Orang Tertimbun Longsor di Purworejo</TITLE>
+
+<TEXT>
+Sebanyak tiga rumah di Desa Penungkulan, Kecamatan Gebang Kabupaten Purworejo, Jawa Tengah, tertimbun longsor. 
+
+Menurut rilis yang disampaikan Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana (BNPB), Sutopo Purwo Nugroho mengatakan ada tujuh orang yang juga tertimbun longsor lantaran masih berada di dalam tiga rumah tersebut. 
+
+" Hujan deras yang berintensitas tinggi dan kondisi tanah yang labil telah menyebabkan longsor di Purworejo pada <TIMEX3 tid="t1" type="DATE" value="2016-02-05">hari Jumat (5/2/2016) kemarin</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2016-02-05T17:00">jam 17.00 WIB</TIMEX3>, " ujarnya, <TIMEX3 tid="t3" type="DATE" value="2016-02-06">Sabtu (6/2/2016)</TIMEX3>. 
+
+Dia memaparkan dua orang sudah berhasil dievakuasi dalam kondisi meninggal dunia yaitu Suprapti (45) dan Erni Yulianti (8). 
+
+" Lima orang masih tertimbun longsor. 
+
+Petugas gabungan menghentikan pencarian korban karena hujan dan kondisi gelap sehingga melanjutkan pada <TIMEX3 tid="t4" type="TIME" value="2016-02-06TMO">Sabtu pagi ini</TIMEX3>, " sambungnya. 
+
+Data kelima korban yang masih tertimbun longsor yakni Salimah (60), Triyanto (9), Sumini (80), Fitri (16), dan Amat Sarengat (80). 
+
+BPBD Purworejo bersama TNI, Polri, SAR, SKPD, relawan dan masyarakat masih melakukan upaya pencarian kelima korban. 
+
+Selain menyebabkan longsor, hujan deras yang merata juga menyebabkan banjir setinggi satu meter di Desa Rowobayen Kecamatan Kutoarjo dan Desa Pucangagung Kecamatan Bayan, Kabupaten Purworejo. 
+
+" Akibat banjir, sebanyak 75 orang mengungsi di Mako Brimob Purworejo. 
+
+Masyarakat juga kami dihimbau untuk waspada ancaman banjir, longsor dan puting beliung, karena hujan <TIMEX3 tid="t5" type="DATE" value="2016-02">bulan Februari</TIMEX3> masih tinggi dan berpotensi memicu bencana, " tandasnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

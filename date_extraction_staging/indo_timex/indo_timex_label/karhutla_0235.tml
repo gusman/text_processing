@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0235</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-09-21" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-21</TIMEX3></DCT>
+
+<TITLE>Kabut Asap Masuk Kota Bengkulu</TITLE>
+
+<TEXT>
+Bencana kabut asap <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> semakin parah. 
+
+Setelah Kabupaten Rejang Lebong, kabut asap yang berasal dari kebakaran hutan sudah masuk ke daerah Kota Bengkulu. 
+
+Kabut asap yang tebal <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">sekarang ini</TIMEX3> ada di Kabupaten Rejang Lebong dan Kepahiang. 
+
+Dan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> juga sudah merambah ke Kota Bengkulu dan Kabupaten Bengkulu Tengah, ujar Sekretaris Badan Penanggulangan Bencana Daerah (BPBD) Provinsi Bengkulu, Damin kepada wartawan, <TIMEX3 tid="t4" type="DATE" value="2015-09-21">Senin (21/09/2015)</TIMEX3>. 
+
+Dikatakan Damin, kabut asap yang sampai ke sejumlah daerah di Provinsi Bengkulu merupakan asap kiriman dari beberapa beberapa provinsi tetangga di Pulau Sumatera. 
+
+Asap dari Provinsi tetangga yaitu Provinsi Jambi, Sumatera Selatan dan Riau, katanya. 
+
+Untuk mengantisipasi dampak dan merambatnya kebakaran hutan tersebut, BPBD Provinsi Bengkulu sudah melakukan rapat koordinasi bersama Pemda dan Dinas Kehutanan. 
+
+BPBD Provinsi Bengkulu juga telah membagikan ratusan masker ke sejumlah kabupaten di Provinsi Bengkulu. 
+
+Masker sudah kita bagikan ke Kabupaten Rejang Lebong 300 lembar dan Kepahiang sebanyak 100 lembar, demikian Damin. 
+
+(Dil) 
+</TEXT>
+
+</TimeML>

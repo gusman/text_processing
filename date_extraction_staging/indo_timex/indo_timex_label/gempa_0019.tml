@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0019</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-17" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-17</TIMEX3></DCT>
+
+<TITLE>Kirim Bantuan Korban Gempa Halmahera Selatan, Dua Desa Sulit Ditembus</TITLE>
+
+<TEXT>
+Kementerian Sosial (Kemensos) menyalurkan bantuan Rp 1,39 miliar kepada korban gempa di Halmahera Selatan. 
+
+Bantuan itu untuk sembilan desa terdampak bencana. 
+
+Santunan bagi korban meninggal dunia masing-masing akan mendapat Rp 15 juta. 
+
+Gempa 7,2 skala richter (SR) yang melanda Halmahera Selatan, <TIMEX3 tid="t1" type="DATE" value="2019-07-14">Minggu (14/7)</TIMEX3> menelan enam korban jiwa, 51 orang luka-luka, dan 971 rumah rusak berat. 
+
+Jumlah pengungsi juga bertambah dari 2000-an jiwa menjadi total 3.100 jiwa. 
+
+Ada tujuh fasilitas pendidikan rusak berat, tiga fasilitas peribadatan rusak, dan tiga jembatan rusak. 
+
+Dirjen Perlindungan dan Jaminan Sosial Kemensos, Harry Hikmat mengatakan, sesuai arahan presiden Jokowi penangan korban bencana alam harus secepatnya. 
+
+Untuk itu, kementeriannya langsung memberikan bantuan berupa beras, lauk pauk, tenda dan santunan bagi korban yang meninggal dunia. 
+
+Tercatat sebanyak bangunan yang rusak di sembilan desa itu. 
+
+Total semuanya ada 971 unit, ujar Harry. 
+
+Kendati demikian, Kemensos sendiri menemui banyak rintangan untuk menyalurkan bantuan. 
+
+Untuk mencapai Desa Gane Luar sebagai daerah terparah, tim Kemensos harus menempuh perjalanan darat dan laut selama <TIMEX3 tid="t2" type="DURATION" value="PT10H">10 jam</TIMEX3> dari kota ternate. 
+
+Tercatat sebanyak 380 unit rumah mengalami kerusakan di desa tersebut. 
+
+Untuk bisa mencapai desa ini kami harus menggunakan speedboat selama <TIMEX3 tid="t3" type="DURATION" value="PT1H">1 jam</TIMEX3> perjalanan menuju pelabuhan Sofifi. 
+
+Kemudian dilanjutkan menggunakan jalaur darat selama <TIMEX3 tid="t4" type="DURATION" value="PT5H">5 jam</TIMEX3> menuju desa Matuting. 
+
+Sesampai di desa Matuting dilanjutkan dengan menggunakan sepada motor selama <TIMEX3 tid="t5" type="DURATION" value="PT2H">lebih dari 2 jam</TIMEX3>, jelasnya. 
+
+Minimnya transportasi juga menjadi kendala penyaluran bantuan hingga daerah tersulit. 
+
+Karena untuk bisa mencapai kedua desa terparah transportasi satu-satunya adalah dengan menggunakan sepeda motor. 
+
+Ada juga via laut tetapi dengan kondisi cuaca yang tidak menentu <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sangat beresiko bagi penyaluran logistik bantuan, pungkasnya. 
+
+Editor: Dimas RyandiReporter: Indra Eka Setiawan 
+</TEXT>
+
+</TimeML>

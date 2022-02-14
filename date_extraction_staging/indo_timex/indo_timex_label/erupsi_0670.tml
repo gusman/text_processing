@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0670</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-07-16" temporalFunction="false" functionInDocument="CREATION_TIME">2015-07-16</TIMEX3></DCT>
+
+<TITLE>Kasihan, Ratusan Penumpang Bandara Abdul Rachman Saleh Batal Mudik</TITLE>
+
+<TEXT>
+Ratusan penumpang tujuan Jakarta yang mengalami penundaan penerbangan masih bertahan di Bandara Abdulrachman Saleh, Kabupaten Malang hingga <TIMEX3 tid="t1" type="TIME" value="2015-07-16TAF">Kamis (16/7/2015) sore ini</TIMEX3>. 
+
+Mereka berharap bisa terbang ke Jakarta karena tak ada pilihan angkutab lain. 
+
+Salah satunya adalah Muhaimmin (34), penumpang tujuan Jakarta dengan Pesawat Sriwijaya Air. 
+
+Pria yang bekerja sebagai jurnalis lokal di Malang ini memiluh bertahan di bandara guna keperluan reschedule jadwal keberangkatan. 
+
+Pilihan reschedule pesawat, kata dia, harus diambil lantaran dirinya harus berada di Jakarta <TIMEX3 tid="t2" type="DATE" value="2015-07-17">esok</TIMEX3> hari. 
+
+" Kalau pakai angkutan lain ke Jakarta, <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>, pasti susah mendapatkan tiketnya, " kata pria yang biasa disapa Aim ini. 
+
+Hal serupa disampaikan sejumlah penumpang pesawat yang lain. 
+
+Mereka berharap bisa berangkat ke Jakarta menggunakan pesawat terbang. 
+
+Sebelumnya Kementrian Perhubungan memastikan penutupan sementara Bandara Abdulrachman Saleh menyusul erupsi Gunung Raung. 
+
+Penutupan tersebut berdasarkan Notice to Airmen Nomor A1447/15 dan Nomor C0552/15 yang dikeluarkan Direktorat Jenderal Perhubungan.Di Bandara Abd Saleh total ada enam keberangkatan tujuan Jakarta, serta satu tujuan Denpasar. 
+
+Seluruh pesawat ini mengalami penundaan, dan ada 400 penumpang yang batal berangkat karena keputusan ini.(*) 
+</TEXT>
+
+</TimeML>

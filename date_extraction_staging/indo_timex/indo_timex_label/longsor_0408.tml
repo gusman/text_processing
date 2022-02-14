@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0408</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-29</TIMEX3></DCT>
+
+<TITLE>Pemkot Bekasi Mau Survei dan Menangani Tanah Longsor Perumahan Kemang Pratama 2 yang Dinilai Lambat</TITLE>
+
+<TEXT>
+Pemerintah Kota Bekasi melalui Dinas Bina Marga dan Sumber Daya Air (DBMSDA) akan melakukan survei lokasi titik tanah longsor di Perumahan Kemang Pratama 2, Jalan Kemang Melati 11, RW 36 Kelurahan Bojongrawalumbu, Kecamatan Rawalumbu. 
+
+" Kita survei <TIMEX3 tid="t1" type="DATE" value="PAST_REF">dulu</TIMEX3> ya, akan segera kita tangani, " ujar Kepala Bidang Sumber Daya Air pada DBMSDA Kota Bekasi, Zainal Zainal Abidinsyah saat dihubungi Wartakotalive. 
+
+com, pada <TIMEX3 tid="t2" type="DATE" value="2020-01-29">Rabu (29/1/2020)</TIMEX3>. 
+
+Saat ditanya lambatnya proses penanganan padahal kejadian tanah longsor itu sudah cukup lama, Zainal mengaku, pihaknya tengah sibuk menangani pascabanjir di Kota Bekasi. 
+
+" Ya kita lagi mengurusi penanganan di Pondok Gede Permai, Kemang IFI dan banyak titik lainnya soal penanganan lumpur dan saluran. 
+
+Sampai ada persoalan lain kelewat, " ungkap dia. 
+
+. 
+
+" <TIMEX3 tid="t3" type="DATE" value="2020-01-30">Besok</TIMEX3>, kita langsung survei ke lokasi, kita cek <TIMEX3 tid="t4" type="DATE" value="PAST_REF">dulu</TIMEX3> apakah itu kewenangan Balai Besar Wilayah Sungai Ciliwung dan Cisadane (BBWSCC) atau kita (Pemkot), " ungkap dia. 
+
+Sementara Kepala Dinas Perumahan, Kawasan Permukiman dan Pertanahan (Disperkimtan), Jumhana Luthfi menerangkan penanganan tebing rusak akibat tanah longsor itu merupakan wewenang Dinas Bina Marga dan Sumber Daya Air (DBMSDA). 
+
+Kewenangan instansinya ialah ketika ada kerusakan rumah akibat tanah longsor. 
+
+" Itu wewenang DBMSDA, termasuk soal perbaikan tebing itu apakah tanggungjawab Pemkot, BBWSCC atau pengembang disitu. 
+
+Tapi kalau itu karena bencana bisa masuk dana tanggap darurat, BPBD yang usulkan maka harua di cek lokasi <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dulu</TIMEX3>, " kata Luthfi.Terjadi tanah longsor di perumahan Kemang Pratama 2, Jalan Kemang Melati 11, RW 36 Kelurahan Bojongrawalumbu, Kecamatan Rawalumbu, Kota Bekasi.Tanah longsor itu terjadi pada <TIMEX3 tid="t6" type="DATE" value="2020-01">awal Januari 2020</TIMEX3> atau bersamaan dengan bencana banjir yang menimpa pada <TIMEX3 tid="t7" type="DATE" value="2020-01-01">1 Januari 2020</TIMEX3>. 
+
+// Pantauan Wartakotalive. 
+
+com di lokasi, tanah longsor itu berada diperbatasan antara perumahan dan perkampungan. 
+
+Tanah lonsor itu terjadi sepanjang 20 meter. 
+
+Tebing setinggi sekira 15 meter yang memisahkan antara perkampungan dengan perumahan itu longsor hingga ke jalan perumahan di Jalan Kemang Melati 11, Kemang Pratama 2. 
+
+Sebagian tanah maupun material tebing itu menutupi jalan perumahan tersebut. 
+
+Bekas longsoran juga telah dirapihkan ke pinggir jalan sehingga tak menutup akses jalan. 
+
+. 
+
+Ada juga sebuah rumah di atas tebing itu yang mepet dengan titik longsor. 
+
+Aripudin seorang petugas keamanan mengatakan tebing itu longsor pada <TIMEX3 tid="t8" type="DATE" value="2020-01-28">Selasa</TIMEX3>, <TIMEX3 tid="t9" type="TIME" value="2019-12-31TAF">31 Desember 2019 sore</TIMEX3>. 
+
+Awalnya longsor hanya sedikit, akan tetapi pada <TIMEX3 tid="t10" type="DATE" value="2020-01-01">Rabu 1 Januari 2020</TIMEX3> pada <TIMEX3 tid="t11" type="TIME" value="2020-01-29TMO">subuh hari</TIMEX3> longsor itu menutup semua jalan disampingnya. 
+
+" Untung engga ada warga melintas dan petugas keamanan yang lagi patroli di titik itu. 
+
+Kalau ada bisa tertimbun itu, " kata dia kepada Wartakotalive. 
+
+com, pada <TIMEX3 tid="t12" type="DATE" value="2020-01-29">Rabu (29/1/2020)</TIMEX3>. 
+
+Adapun sisa longsoran itu baru dibenani pada <TIMEX3 tid="t13" type="DATE" value="2020-01-25">Sabtu</TIMEX3> Minggu <TIMEX3 tid="t14" type="DATE" value="2020-01-28">kemarin</TIMEX3>. 
+
+Pembersihan meterial longsor menggunakan dua alat berat. 
+
+. 
+
+// " Lebih dominannya si ini swadaya warga penanganannya. 
+
+Soalnya kan biar jalan engga ketutup longsoran, " jelas dia. 
+
+Hingga <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">kini</TIMEX3> belum ada perbaikan atau penanganan dari dinas terkait. 
+
+Kondisi ini cukup membahayakan baik warga kampung maupun perumahan. 
+
+" Di atas itu kampung Markan, ada satu rumah mepet dekat tebing dan perumahan juga kan titiknya dekat rumah juga. 
+
+Bahaya kalau ada longsor susulan, apalagi kan ada pohon besar dan ini masih <TIMEX3 tid="t16" type="DATE" value="2019-WI">musim hujan</TIMEX3>, " imbuh dia. 
+
+Sebelumnya, diberitakan Tribunnews. 
+
+com, Teguh, warga perumahan Kemang Pratama 2, Bekasi mengaku, belakangan ini, merasa khawatir. 
+
+Pasalnya, sejak <TIMEX3 tid="t17" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir terjadi tanah longsor di perumahannya, namun belum ada penanganan dari Pemerintah Kota Bekasi. 
+
+Tanah longsor ini terjadi di Jalan Kemang Melati 11. 
+
+Lokasi tanah longsor berada di pembatas antara perumahan dengan kampung. 
+
+Menurut keterangan Teguh, tanah longsor ini terjadi bersamaan dengan bencana banjir besar <TIMEX3 tid="t18" type="DATE" value="UNKNOWN">beberapa pekan lalu (1/1/2020)</TIMEX3>. 
+
+" Sampai <TIMEX3 tid="t19" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada pihak yang bertanggung jawab. 
+
+Pak Camat, Pak Lurah dan Kapolsek sudah meninjau, tapi sampai <TIMEX3 tid="t20" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> belum ada respons lanjutan, " ujar Teguh kepada Tribunnews.com, <TIMEX3 tid="t21" type="DATE" value="2020-01-27">Senin (27/1/2020)</TIMEX3>.Teguh menuturkan warga Kemang Pratama 2 telah menyewa peralatan berat untuk menangani tanah longsor tersebut. 
+
+Biaya penyewaan berasal dari swadaya masyarakat. " Potensi longsor masih mengintai warga kampung atas dan Kemang, " kata Teguh.Secara terpisah, Ponco, ketua Rukun Warga 36 Kemang Pratama 2, menuturkan, pihaknya telah berkomunikasi dengan pihak pengembang perumahan Kemang Pratama. 
+
+// Pihak pengembang mengatakan, <TIMEX3 tid="t22" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, hal tersebut menjadi tanggung jawab RW masing-masing. 
+
+Ponco menuturkan rukun warga Kemang Pratama 2 sementara menutup pagar yang roboh agar bisa digunakan untuk lalu lintas warga. 
+
+Menurut Ponco, penanganan ini tidak efektif karena longsor harus ditangani secara permanen. 
+
+" Kami sudah menghubungi Dinas SDA, pihak Kecamatan, dan Kelurahan. 
+
+Dari Kelurahan dan Kecamatan hanya menjanjika akan meneruskan ke pihak yang terkait, " tutur Ponco kepada Tribunnews. 
+
+com, <TIMEX3 tid="t23" type="TIME" value="2020-01-27TNI">Senin (27/1/2020) malam</TIMEX3>. 
+
+. 
+
+Namun demikian, sampai <TIMEX3 tid="t24" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada kejelasan soal siapa yang menyediakan bahan bangunan seperti batu. 
+
+" Saya sudah keluar Rp10 juta. 
+
+Dari sumbangan warga. 
+
+Tadinya mau dilanjutkan tutup sementara, tapi kita tunda karena dirasa tidak efektif, " kata Ponco. 
+
+. 
+
+Tanah longsor itu terjadi pada <TIMEX3 tid="t25" type="DATE" value="2020-01">awal Januari 2020</TIMEX3> atau bersamaan dengan bencana banjir yang menimpa pada <TIMEX3 tid="t26" type="DATE" value="2020-01-01">1 Januari 2020</TIMEX3>. 
+
+Pantauan Wartakotalive. 
+
+com di lokasi, tanah longsor itu berada diperbatasan antara perumahan dan perkampungan. 
+
+Tanah lonsor itu terjadi sepanjang 20 meter.Tebing setinggi sekira 15 meter yang memisahkan antara perkampungan dengan perumahan itu longsor hingga ke jalan perumahan di Jalan Kemang Melati 11, Kemang Pratama 2.Sebagian tanah maupun material tebing itu menutupi jalan perumahan tersebut. 
+
+Bekas longsoran juga telah dirapihkan ke pinggir jalan sehingga tak menutup akses jalan.Terlihat ada sejumlah di dinding pada tebing itu retak sehingga berpotensi menimbulkan longsor susulan.Ada juga sebuah rumah di atas tebing itu yang mepet dengan titik longsor.Aripudin seorang petugas keamanan mengatakan tebing itu longsor pada <TIMEX3 tid="t27" type="DATE" value="2020-01-28">Selasa</TIMEX3>, <TIMEX3 tid="t28" type="TIME" value="2019-12-31TAF">31 Desember 2019 sore</TIMEX3>.Awalnya longsor hanya sedikit, akan tetapi pada <TIMEX3 tid="t29" type="DATE" value="2020-01-01">Rabu 1 Januari 2020</TIMEX3> pada <TIMEX3 tid="t30" type="TIME" value="2020-01-29TMO">subuh hari</TIMEX3> longsor itu menutup semua jalan disampingnya. " Untung engga ada warga melintas dan petugas keamanan yang lagi patroli di titik itu. 
+
+Kalau ada bisa tertimbun itu, " kata dia kepada Wartakotalive.com, pada <TIMEX3 tid="t31" type="DATE" value="2020-01-29">Rabu (29/1/2020)</TIMEX3>.Adapun sisa longsoran itu baru dibenani pada <TIMEX3 tid="t32" type="DATE" value="2020-01-25">Sabtu</TIMEX3> Minggu <TIMEX3 tid="t33" type="DATE" value="2020-01-28">kemarin</TIMEX3>. 
+
+Pembersihan meterial longsor menggunakan dua alat berat. 
+
+Satu dari Pemkot Bekasi dan satu lagi dari swadaya masyarakat. " Lebih dominannya si ini swadaya warga penanganannya. 
+
+Soalnya kan biar jalan engga ketutup longsoran, " jelas dia.Hingga <TIMEX3 tid="t34" type="DATE" value="PRESENT_REF">kini</TIMEX3> belum ada perbaikan atau penanganan dari dinas terkait. 
+
+Kondisi ini cukup membahayakan baik warga kampung maupun perumahan. " Di atas itu kampung Markan, ada satu rumah mepet dekat tebing dan perumahan juga kan titiknya dekat rumah juga. 
+
+Bahaya kalau ada longsor susulan, apalagi kan ada pohon besar dan ini masih <TIMEX3 tid="t35" type="DATE" value="2019-WI">musim hujan</TIMEX3>, " imbuh dia.Sebelumnya diberitakan Tribunnews.com, Teguh, warga perumahan Kemang Pratama 2, Bekasi mengaku belakangan ini merasa khawatir. 
+
+Pasalnya, sejak <TIMEX3 tid="t36" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir terjadi tanah longsor di perumahannya, namun belum ada penanganan dari Pemerintah Kota Bekasi.Tanah longsor ini terjadi di Jalan Kemang Melati 11. 
+
+Lokasi tanah longsor berada di pembatas antara perumahan dengan kampung. 
+
+Menurut keterangan Teguh, tanah longsor ini terjadi bersamaan dengan bencana banjir besar <TIMEX3 tid="t37" type="DATE" value="UNKNOWN">beberapa pekan lalu (1/1/2020)</TIMEX3>. " Sampai <TIMEX3 tid="t38" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada pihak yang bertanggung jawab. 
+
+Pak Camat, Pak Lurah dan Kapolsek sudah meninjau, tapi sampai <TIMEX3 tid="t39" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> belum ada respons lanjutan, " ujar Teguh kepada Tribunnews.com, <TIMEX3 tid="t40" type="DATE" value="2020-01-27">Senin (27/1/2020)</TIMEX3>.Teguh menuturkan warga Kemang Pratama 2 telah menyewa peralatan berat untuk menangani tanah longsor tersebut. 
+
+Biaya penyewaan berasal dari swadaya masyarakat. " Potensi longsor masih mengintai warga kampung atas dan Kemang, " kata Teguh.Secara terpisah, Ponco, ketua Rukun Warga 36 Kemang Pratama 2, menuturkan pihaknya telah berkomunikasi dengan pihak pengembang perumahan Kemang Pratama. 
+
+Pihak pengembang mengatakan <TIMEX3 tid="t41" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> hal tersebut menjadi tanggung jawab RW masing-masing.Ponco menuturkan rukun warga Kemang Pratama 2 sementara menutup pagar yang roboh agar bisa digunakan untuk lalu lintas warga. 
+
+Menurut Ponco penanganan ini tidak efektif karena longsor harus ditangani secara permanen. " Kami sudah menghubungi Dinas SDA, pihak Kecamatan, dan Kelurahan. 
+
+Dari Kelurahan dan Kecamatan hanya menjanjika akan meneruskan ke pihak yang terkait, " tutur Ponco kepada Tribunnews.com, <TIMEX3 tid="t42" type="TIME" value="2020-01-27TNI">Senin (27/1/2020) malam</TIMEX3>.Ponco mengatakan Dinas Bina Marga dan Sumber Daya Air Kota Bekasi menjanjikan akan mendatangkan alat berat untuk menangani tanah longsor tersebut. 
+
+Namun demikian, sampai <TIMEX3 tid="t43" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada kejelasan soal siapa yang menyediakan bahan bangunan seperti batu. " Saya sudah keluar Rp10 juta. 
+
+Dari sumbangan warga. 
+
+Tadinya mau dilanjutkan tutup sementara, tapi kita tunda karena dirasa tidak efektif, " kata Ponco. 
+
+
+</TEXT>
+
+</TimeML>

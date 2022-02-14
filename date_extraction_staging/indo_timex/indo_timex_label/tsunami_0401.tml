@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0401</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-02" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-02</TIMEX3></DCT>
+
+<TITLE>Selly Memeluk Terus  Foto Almarhum Suami</TITLE>
+
+<TEXT>
+DUKA mendalam menyelimuti rumah Muhammad Ikhsan Imban (34) di Komplek Billymoon, Duren Sawit, Jakarta Timur, <TIMEX3 tid="t1" type="DATE" value="2018-10-01">Senin (1/10/2018)</TIMEX3>. 
+
+Di depan rumah, sebuah tenda putih berdiri dan beberapa karangan bunga duka cita terpajang. 
+
+Beberapa orang tampak berbincang. 
+
+Di dalam rumah, Selly terus memeluk foto suaminya, Ikhsan. 
+
+Ibu dua anak itu hanya bisa pasrah atas kenyataan bahwa suaminya menjadi salah satu korban tewas akibat gempa berkekuatan magnitudo 7,4 SR yang mengguncang Kota Palu dan disusul tsunami, <TIMEX3 tid="t2" type="TIME" value="2018-09-28TEV">Jumat (28/9) petang</TIMEX3> pukul <TIMEX3 tid="t3" type="TIME" value="2018-10-01T17:02">17.02</TIMEX3>. 
+
+Saat kejadian, Ikhsan berada di Hotel Roa Roa, Palu. 
+
+Hotel itu merupakan salah satu bangunan yang rusak parah akibat gempa di Palu. 
+
+Diduga puluhan orang menjadi korban, mengingat hotel yang memiliki 80 kamar itu, pada saat kejadian terdapat 76 kamar yang sedang terisi oleh tamu. 
+
+Namun bangunan hotel yang roboh secara bertumpuk menyulitkan evakuasi dan pencarian korban. 
+
+Menurut Selly, sebelum gempa terjadi, Ikhsan sempat melakukan panggilan video call. 
+
+// Ia sempat berbicara dengan Selly dan dua anak mereka. 
+
+Ketika itu Ikhsan mengaku sangat rindu ingin bertemu istri dan anaknya. 
+
+" Kita <TIMEX3 tid="t4" type="TIME" value="2018-10-02T14">sekitar jam 14.30 itu</TIMEX3> sempat video call, nanyain kabar, biasalah kalau seperti itu. 
+
+Nanyain juga mau ngerayain ultah anaknya <TIMEX3 tid="t5" type="DATE" value="2018-10-25">25 Oktober nanti</TIMEX3>. 
+
+Kalau video call biasa saya kasih ke anaknya, karena anaknya itu suka berebutan kalo bapaknya telepon. 
+
+Dia juga sempat bilang kangen, katanya mau pulang, " tutur Selly. 
+
+Namun <TIMEX3 tid="t6" type="TIME" value="2018-10-01TAF">sore harinya</TIMEX3>, Selly mendapat telepon yang mengabarkan jika terjadi gempa di Palu. 
+
+Mendengar kabar tersebut, ia mencoba menghubungi suaminya. 
+
+Akan tetapi Ikhsan sudah tidak dapat dihubungi. 
+
+<TIMEX3 tid="t7" type="DATE" value="2018-10-03">Sehari kemudian</TIMEX3>, <TIMEX3 tid="t8" type="DATE" value="2018-09-30">Sabtu (30/9)</TIMEX3> sekitar <TIMEX3 tid="t9" type="TIME" value="2018-10-01T13:00">pukul 13.00</TIMEX3>, Selly mendapat kabar yang membuatnya sempat jatuh pingsan. 
+
+Ikhsan dikabarkan tewas dalam reruntuhan di Hotel Roa Roa tempatnya menginap. 
+
+" Itu dikabarin adik ipar aku, dia bilang: 'lo harus kuat, lo harus kuat'. 
+
+Dia ngasih foto tempat Ikhsan nginep yang ambruk. 
+
+Reaksi aku pertama cuma bisa bilang: 'Masya Allah ancur ya', dan adik ipar aku bilang: 'Iya suami kamu masih terjebak di sana, belum bisa keluar'. 
+
+Langsung selesai itu saya nggak inget lagi. 
+
+Bangun udah di kamar, " ujar Selly.Menurut Sally, sebelumnya memang Ikhsan berencana akan pulang ke Jakarta pada <TIMEX3 tid="t10" type="DATE" value="2018-10-01">Senin (1/10) kemarin</TIMEX3>. 
+
+// Hal itu dikatakan almarhum ketika berkomunikasi terakhir dengannya. 
+
+" Dia emang bilang kangen, aku bilang: 'ya udah balik kalo kangen', terus dia bilang: 'ya udah <TIMEX3 tid="t11" type="DATE" value="FUTURE_REF">nanti</TIMEX3> Senin aku pulang'. 
+
+Tapi benar kan Ikhsan pulang <TIMEX3 tid="t12" type="DATE" value="2018-10-02">hari ini</TIMEX3> (<TIMEX3 tid="t13" type="DATE" value="2018-10-01">kemarin</TIMEX3>). 
+
+Dia tepati janjinya untuk pulang bertemu keluarga, " kata Selly lirih. 
+
+Yakin syahidAyah korban, Rizaludin Imban (73) juga tak kuasa menahan tangis saat menunggu kehadiran jenazah anaknya <TIMEX3 tid="t14" type="DATE" value="2018-10-01">kemarin</TIMEX3>. 
+
+Rizaludin mengatakan bahwa dirinya tak menyangka jika anaknya menjadi salah satu korban gempa di Palu. 
+
+Ia menuturkan bahwa Ikhsan sudah berada di luar kota selama <TIMEX3 tid="t15" type="DURATION" value="P1M">1 bulan</TIMEX3> terakhir, tepatnya di Gorontalo. 
+
+Namun karena ada keperluan pekerjaan, pada <TIMEX3 tid="t16" type="DATE" value="2018-09-28">Jumat (28/9)</TIMEX3> Ihsan pergi ke Palu dan menginap di Hotel Roa-Roa. 
+
+" Kebetulan Ikhsan ada keperluan di Palu, urusan pekerjaan, tapi hanya transit. 
+
+Paginya dia harus jalan lagi. 
+
+Tapi <TIMEX3 tid="t17" type="TIME" value="2018-10-02TAF">sore itu</TIMEX3> dapat kabar bahwa di Palu terjadi gempa. 
+
+Sebelum terjadi gempa, saya sempat menghubungi dia untuk menanyakan kabar, " kata Rizaludin. 
+
+Setelah terjadi gempa, semua komunikasi terputus. 
+
+Pihak keluarga terus berupaya menghubungi korban, namun saat tidak kunjung mendapat kabar. 
+
+Karena tak kunjung mendapat kabar atas keberadaan Ikhsan, kakak dan adik Ikhsan pun mencoba mencari ke Palu pada <TIMEX3 tid="t18" type="DATE" value="2018-09-29">Sabtu (29/9)</TIMEX3>. 
+
+// Hingga akhirnya jenazah Ikhsan ditemukan pada <TIMEX3 tid="t19" type="TIME" value="2018-09-29T13:00">Sabtu pukul 13.00</TIMEX3>. 
+
+Namun <TIMEX3 tid="t20" type="DATE" value="2018-10-02">hari itu</TIMEX3> jenazah belum dapat dievakuasi karena keterbatasan alat. 
+
+Evakuasi jenazah Ikhsan baru dapat dilakukan pada <TIMEX3 tid="t21" type="DATE" value="2018-09-30">Minggu (30/9/2018)</TIMEX3>. 
+
+" Setelah <TIMEX3 tid="t22" type="TIME" value="2018-10-01T13">jam 1 siang</TIMEX3> jenazahnya udah diketemukan, tapi belum dievakuasi. 
+
+Baru bisa di evakuasi <TIMEX3 tid="t23" type="DATE" value="2018-09-30">hari Minggu</TIMEX3>. 
+
+Kemudian dibawa ke rumah sakit di Palu, dan memang direncanakan di makamkan di Jakarta karena keluarganya berada di sini, " ucap Rizaludin. 
+
+Ia mengaku hanya dapat mengikhlaskan kepergian almarhum akibat musibah ini. 
+
+" Kami yakin dia syahid. 
+
+Itu karena dia ke sana bekerja untuk bangun PLTN, untuk listrik bagi kepentingan masyarakat banyak yang ada di daerah. 
+
+Namun takdir berkata lain, " katanya. 
+
+Amblas 20 meterSementara itu Badan Penanggulangan Bencana Daerah (BPBD) Kota Palu menyebutkan, kerusakan paling dahsyat akibat gempa bumi dan tsunami yang melanda Palu, Donggala, dan Sigi, Sulawesi Tengah, pada <TIMEX3 tid="t24" type="DATE" value="2018-09-29">Jumat (29/9)</TIMEX3>, terjadi di Kelurahan Balaroa dan Kelurahan Petobo, Palu. 
+
+Menurut BPBD, hampir seluruh rumah dan fasilitas publik di titik itu tertimbun tanah, bak ditelan bumi. 
+
+Ribuan orang diperkirakan masih tertimbun tanah bersama bangunan di dua lokasi tersebut. 
+
+" Kami belum identifikasi di Perumnas Balaroa dan Kelurahan Petobo karena lokasinya sangat parah, " kata Kepala BPBD Kota Palu Fresly Tampubolon di Palu, Sulawesi Tengah, <TIMEX3 tid="t25" type="DATE" value="2018-10-01">Senin (1/10)</TIMEX3>.Lurah Balaroa, Rahmatsyah, mengatakan, ada sekitar 900 kepala keluarga (KK) yang tinggal di kawasan itu.Hampir seluruh rumah di Perumahan Balaroa hancur dan ambles, bahkan hingga 20 meter. " Ada 90 sampai 100-an orang sudah dipastikan meninggal dunia berdasarkan laporan warga. 
+
+Diperkirakan masih banyak lagi korban. 
+
+Ratusan bahkan ribuan warga tertimbun yang tidak bisa kami angkat, " tuturnya seperti ditayangkan di Metro TV, <TIMEX3 tid="t26" type="DATE" value="2018-10-01">Senin (1/10)</TIMEX3>.Rahmatsyah membenarkan bahwa rumah-rumah warga di Perumnas Balaroa itu ambles tak lama setelah gempa terjadi.Dia mengatakan, hingga <TIMEX3 tid="t27" type="TIME" value="2018-10-01">Senin pagi kemarin</TIMEX3>, pada <TIMEX3 tid="t28" type="DATE" value="UNKNOWN">hari keempat</TIMEX3> pasca-gempa, belum ada bantuan sama sekali dari pemerintah.Berdasarkan pantauan, lokasi perumahan pascabencana sulit untuk dijangkau, termasuk oleh alat berat.Perumahan ini terletak di lereng kawasan bukit dengan luas 10 hektar.Ada sekitar 4 RW di perumahan ini.Di wilayah itu, menurut sejumlah saksi, <TIMEX3 tid="t29" type="DATE" value="PTXS">beberapa detik</TIMEX3> setelah gempa bermagnitudo 7,4 mengguncang Palu, terlihat semburan air yang cukup tinggi di kelurahan itu, lalu tiba-tiba permukaan tanah menurun sehingga ikut menarik seluruh benda di atasnya.Bahkan, beberapa bangunan seperti masjid bergeser jauh sekitar 50 meter dari posisi semula. " Istri dan anak-anak saya tidak bisa diselamatkan. 
+
+Saya perkirakan mereka terperangkap dalam rumah lalu digulung tanah, " kata Husnan, salah seorang keluarga korban.Saat kejadian, Husnan sedang berada di kantor, sedangkan istri dan anak-anaknya ada di rumah.Ribuan rumahHal senada dikemukakan Kepala Pusat Data, Informasi dan Hubungan Masyarakat Badan Nasional Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho.Dikatakan Sutopo, sebanyak 1.747 unit rumah di Perumnas Balaroa dan 744 unit rumah di kompleks Perumahan Patobo, Kota Palu, ambles pascagempa.Kedua perumahan tersebut menjadi wilayah terdampak gempa paling parah karena berada di jalur sesar Palu Koro, atau jalur pusat gempa. " Posisinya Perumnas Patobo berada tepat sekali dengan sesar Palu Koro yang jadi tempat jalannya gempa. 
+
+Demikian juga Perumnas Balaroa, berada dalam sesar Palu Koro, " kata Sutopo di kantor BNPB, Utan Kayu, Jakarta Timur, <TIMEX3 tid="t30" type="DATE" value="2018-10-01">Senin (1/10)</TIMEX3>.Ketika gempa terjadi, menurut Sutopo, terjadi mekanisme kenaikan dan penurunan di Perumnas Balaroa. " Saat turun ambles 5 meter, tetapi ada juga jalan yang naik setinggi rumah 2 meter. 
+
+Nah di sini kita belum tahu berapa jumlah korban yang tertimbun di dalam rumah perumnas ini, " jelas Sutopo.Tewas 925 orangSejak gempa berkekuatan magnitudo 7,4 SR mengguncang dan tsunami melanda Kota Palu dan Kabupaten Donggala, <TIMEX3 tid="t31" type="TIME" value="2018-09-28T17:02">Jumat (28/9) pukul 17.02</TIMEX3>, korban jiwa, hingga <TIMEX3 tid="t32" type="DATE" value="2018-10-01">Senin (1/10)</TIMEX3> tercatat korban tewas 925 orang.Data terbaru itu disampaikan oleh Kapendam XIII Merdeka Kolonel Inf Muhammad Thohir, <TIMEX3 tid="t33" type="DATE" value="2018-10-01">Senin kemarin</TIMEX3>.Sedangkan jumlah pengungsi sebanyak 59.450 jiwa yang terpapar di 109 titik. " Sementara luka-luka sebanyak 799 jiwa. 
+
+Sementara untuk korban yang hilang sebanyak 99 jiwa, " kata Kolonel Inf Thohir di posko utama Korem 132.Untuk korban yang masih tertimbun, yang tercatat ada sebanyak 152 jiwa. " Sementara rumah rusak sama dengan <TIMEX3 tid="t34" type="DATE" value="2018-10-01">kemarin</TIMEX3> 65.733, " ujarnya.Makam untuk 1000Korban gempa bumi dan tsunami dimakamkan secara massal oleh pihak kepolisian dan anggota TNI di Tempat Pemakaman Umum (TPU) Poboyo Indah, Palu, Sulawesi Tengah, <TIMEX3 tid="t35" type="DATE" value="2018-10-01">kemarin</TIMEX3>.Jenazah yang dimakamkan merupakan jenazah yang telah diidentifikasi namun tidak diketahui keluarganya.Pada tahap awal sebanyak 18 jenazah yang dimakamkan, dan selanjutnya akan dilakukan secara bertahap.Adapun ke-18 jenazah itu dimasukkan ke dalam liang lahat seluas 10x100 meter yang dapat menampung jenazah hingga 1.000 lebih.Bau menyengat sangat tercium dari kondisi mayat yang memang sudah banyak membengkak. 
+
+
+</TEXT>
+
+</TimeML>

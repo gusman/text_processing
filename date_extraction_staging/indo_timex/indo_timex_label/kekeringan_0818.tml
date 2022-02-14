@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0818</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-23</TIMEX3></DCT>
+
+<TITLE>Kemarau Panjang, Masyarakat OKU Timur Kekurangan Air hingga Harus Beli Air</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-SU">Musim kemarau</TIMEX3> yang sudah berlangsung sejak <TIMEX3 tid="t2" type="DURATION" value="PXM">beberapa bulan</TIMEX3> terakhir mulai dirasakan masyarakat yang sumurnya mengalami kekeringan. 
+
+Bahkan sebagian masyarakat terpaksa harus membeli air PDAM untuk mencukupi kebutuhan <TIMEX3 tid="t3" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+" Ada juga warga yang terpaksa berkeliling membawa jeriken untuk meminta air kepada tetangga karena sumur mengalami kekeringan, " ungkap Hanapi (35) warga Kotabaru <TIMEX3 tid="t4" type="DATE" value="2018-09-23">Minggu (23/9/2018)</TIMEX3>. 
+
+Menurut Hanapi, kemarau yang sudah berlangsung sejak <TIMEX3 tid="t5" type="DURATION" value="PXM">beberapa bulan</TIMEX3> terakhir sangat menganggu masyarakat karena kebutuhan akan air baik untuk konsumsi maupun untuk menggarap lahan terhenti karena mengalami kekeringan. 
+
+" <TIMEX3 tid="t6" type="DATE" value="2018">Tahun ini</TIMEX3> musim kemarau sangat terasa. 
+
+<TIMEX3 tid="t7" type="DATE" value="2017-09-23">Tahun lalu</TIMEX3> tidak ada kemarau sehingga masyarakat tidak merasakan kekurangan air. 
+
+Berbeda dengan <TIMEX3 tid="t8" type="DATE" value="2018">tahun ini</TIMEX3>. 
+
+Kemarau sudah berlangsung sejak <TIMEX3 tid="t9" type="DURATION" value="PXM">beberapa bulan</TIMEX3> terakhir, " jelasnya. 
+
+Menurut dia, sebagian warga terpaksa menambah bak penampungan ekstra untuk mencukupi kebutuhan air bersih mengingat kemungkinan besar kemarau <TIMEX3 tid="t10" type="DATE" value="2018">tahun ini</TIMEX3> akan berlangsung cukup lama bahkan diprediksi kemarau akan terjadi hingga <TIMEX3 tid="t11" type="DATE" value="2018">akhir tahun 2018</TIMEX3>. 
+
+" Warga yang membeli air dari PDAM atau dari penjual air keliling menambah bak penampungan untuk memenuhi kebutuhan air bersih hingga <TIMEX3 tid="t12" type="DURATION" value="PXD">beberapa hari</TIMEX3> kedepan. 
+
+Namun bagi warga yang memiliki ekonomi pas-pasan terpaksa meminta air kepada tetangga yang sumurnya masih mengalir, " katanya.Sementara Rahman penjual air keliling diwilayah Batumarta mengatakan, sejak <TIMEX3 tid="t13" type="DURATION" value="PXM">beberapa bulan</TIMEX3> terakhir dirinya berkeliling mengantarkan air kepada warga yang memesan. 
+
+Satu buah bak penampungan berisi <TIMEX3 tid="t14" type="DATE" value="1200">1200</TIMEX3> liter kata dia, dijual dengan harga Rp. 
+
+50 ribu. " Itu sudah termasuk biaya BBM mengantar dan biaya listrik untuk menyedot air dari sumur bor. 
+
+Rata-rata penjual air di wilayah ini menjual air dari sumur bor, " jelasnya.Menurutnya, saat musim kemarau, pengusaha air meraup untuk cukup besar. 
+
+Bahkan dalam <TIMEX3 tid="t15" type="DURATION" value="P1D">satu hari</TIMEX3> omzet penjual air bisa mencapai hingga Rp. 
+
+500 ribu bahkan lebih tergantung kesanggupan mengantar. " Ada juga yang hanya menggunakan jasa antar saja dengan mengambil keuntungan dari selisih BBM. 
+
+Karena ada juga yang hanya menyediakan air dan tidak mengantar ke lokasi, " jelasnya.Sementara Kepala BPBD OKU Timur Mgs Habibullah SIP ketika dikonfirmasi berharap kepada warga agar bersabar dalam menghadapi <TIMEX3 tid="t16" type="DATE" value="2018-SU">musim kemarau</TIMEX3>. 
+
+Dirinya juga berharap agar masyarakat waspada selama <TIMEX3 tid="t17" type="DATE" value="2018-SU">musim kemarau</TIMEX3> dan menghindari membakar hutan dan lahan karena bisa merugikan masyarakat itu sendiri. " Bahkan bisa dipidana dan didenda sesuai dengan ketentuan yang berlaku, " jelasnya. 
+</TEXT>
+
+</TimeML>

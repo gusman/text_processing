@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0121</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-10" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-10</TIMEX3></DCT>
+
+<TITLE>Reaksi BPBD Banjar Pasca Warga Tewas Kesetrum, Irwan Kumar : Kami Sudah Minta Warga Mengungsi</TITLE>
+
+<TEXT>
+Insiden tragis terjadi saat banjir melanda Kabupaten Banjar. 
+
+Dua orang, ayah dan anak tewas bersamaan akibat kesetrum di rumah yang terendam banjir, <TIMEX3 tid="t1" type="DATE" value="2020-02-10">Senin (10/2/2020)</TIMEX3>. 
+
+Kabar ini mengejutkan warga Jalan Kertak Bahalang Rt.06 Rw.03 Desa Murung Kenanga, Kecamatan Martapura Kota. 
+
+<TIMEX3 tid="t2" type="DATE" value="PAST_REF">Saat itu</TIMEX3> sekira <TIMEX3 tid="t3" type="TIME" value="2020-02-09T10:30">pukul 10.30</TIMEX3> Wita, Kedua korban Bapak dan anak itu adalah H Rasyidi (60) dan Ainussyifa (30) yang tinggal dalam satu rumah. 
+
+H Rasyidi <TIMEX3 tid="t4" type="DATE" value="PAST_REF">saat itu</TIMEX3> tengah memperbaiki kipas angin di rumah, rumah dalam kondisi kebanjiran. 
+
+Saat tengah memperbaiki kipas angin itulah, sang ayah kemudian disusul anaknya tewas kesetrum. 
+
+Kepala Pelaksana BPBD Banjar, Irwan Kumar, kepada reporter banjarmasinpost. 
+
+co. 
+
+id, menyampaikan <TIMEX3 tid="t5" type="DATE" value="PXD">beberapa hari</TIMEX3> sebelum kejadian, korban dan seluruh warga Desa Murung Kenanga yang rumahnya terdampak banjir sudah diminta untuk dievakuasi. 
+
+Namun, menurut Irwan, mereka semua tidak mau dievakuasi. 
+
+Mereka, sudah terbiasa dengan situasi banjir seperti <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>. 
+
+" Ketinggian air masuk ke rumah cuma 20-30 sentimeter. 
+
+karena itu, warga mengaku masih bisa beraktivitas di tengah kondisi banjir, " kata Irwan.Dia pun menyatakan turut berduka atas adanya dua warga yang tewas karena kesetrum saat memperbaiki kipas angin di tengah kondisi banjir. " Ya kami tentu ikut berduka, tetapi intinya kami sudah ingatkan kepada semuanya termasuk para relawan dan pemerintah setempat, " ungkapnya. 
+
+(banjarmasinpost.co.id/niakurniawan) 
+</TEXT>
+
+</TimeML>

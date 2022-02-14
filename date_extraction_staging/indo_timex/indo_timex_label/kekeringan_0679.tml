@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0679</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-07-31" temporalFunction="false" functionInDocument="CREATION_TIME">2015-07-31</TIMEX3></DCT>
+
+<TITLE>Kolam Air Kering, Kecamatan Kejayan di Pasuruan Terancam Krisis Air Bersih</TITLE>
+
+<TEXT>
+Kabupaten Pasuruan mulai mengalami kekeringan di beberapa wilayah. 
+
+Di Kecamatan Kejayan dan Nguling, kekeringan sudah melanda sejak <TIMEX3 tid="t1" type="DURATION" value="PXW">beberapa minggu</TIMEX3> terakhir. 
+
+Di Kejayan, misalnya, kekeringan ditandai dengan menipisnya kolam penyimpanan air (embung) Krikilan di Desa Kedung Pengaron. 
+
+Perangkat desa setempat, M Rosyid, mengatakan biasanya, embung seluas tiga hektar dan tinggi 13 meter ini dipenuhi air hingga ketinggian 8 - 10 meter. 
+
+" <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> sudah susut lebih dari separonya. 
+
+Artinya, wilayah kami terancam kekeringan, " kata Rosyid, <TIMEX3 tid="t3" type="DATE" value="2015-07-31">Jumat (31/7/2015)</TIMEX3>. 
+
+Susutnya air di embung ini sudah mulai terjadi sejak Bulan Ramadan lalu. 
+
+Rosyid menuturkan pembangunan embung ini dibuat untuk mengatasi kekeringan yang sering melanda wilayah Kejayan ketika kemarau. 
+
+Embung ini mulai menjalani fungsinya sebagai penyimpanan air pada <TIMEX3 tid="t4" type="DATE" value="2015">2015 ini</TIMEX3> karena pada <TIMEX3 tid="t5" type="DATE" value="2014-07-31">tahun sebelumnya</TIMEX3> masih dalam tahap pengisian air dengan cara menampung air hujan dan menyimpan aliran sungai kecil di wilayah tersebut. 
+
+Jika ketinggian sudah mencapai 10 meter, air langsung di tampung di tandon berkapasitas 2.500 meter kubik dan biasa dimanfaatkan warga untuk keperluan rumah tangga. 
+
+" <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> kalinya pun juga kecil alirannya, " sambungnya.Tak hanya susut, kondisi air di embung yang dibangun <TIMEX3 tid="t7" type="DATE" value="2013">2013 lalu ini</TIMEX3> pun sangat keruh. 
+
+Bahkan, ungkapnya, pada waktu-waktu tertentu air embung tersebut memiliki bau yang tak sedap. " Sejak puasa <TIMEX3 tid="t8" type="DATE" value="2015-07-30">kemarin</TIMEX3> mulai muncul bau tak sedap pada airnya. 
+
+Tapi kadang hilang, kadang bau lagi, " ungkap Rosyid.Warga setempat, Prihartini (65), biasa memanfaatkan embung ini untuk keperluan mencuci dan mandi. 
+
+Namun, <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">sekarang ini</TIMEX3> ia mulai resah sebab kondisi air di embung itu mulai keruh. " Saya tidak lagi berani pakai air ini untuk mandi, " imbuh Prihartini.Memang diakuinya aliran PDAM masih bisa ia terima meski debitnya semakin kecil. 
+
+Ia merasa jika air tetap surut atau malah kekeringan, maka kehadiran embung yang sejatinya menjadi cadangan air warga ini seperti tak ada artinya. " Kalau tetap kering, berati sama saja. 
+
+Tak ada perubahan. 
+
+Semoga Pemkab segera melakukan sesuatu, " ujarnya. 
+</TEXT>
+
+</TimeML>

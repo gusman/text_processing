@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0023</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-23" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-23</TIMEX3></DCT>
+
+<TITLE>Badan Jalan Amblas Warga Sikundo Aceh Barat Terisolir</TITLE>
+
+<TEXT>
+Arus lalu lintas ke Desa Sikundo, Kecamatan Pante Ceureumen, Kabupaten Aceh Barat hingga <TIMEX3 tid="t1" type="TIME" value="2019-11-23TAF">Sabtu (23/11/2019) siang</TIMEX3> masih lumpuh total paska amblasnya bandan jalan akibat ekses bajir. 
+
+Hal itu diperparah lagi oleh tanah longsor yang menutupi badan jalan sepanjang 10 meter dan ketebalan hingga 2 meter lebih. 
+
+Setelah badan jalan yang amblas itu terjadi, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> badan jalan hanya tinggal 1 meter lagi arah ke tebing gunung. 
+
+Sementara para warga melakukan gotong royong bersama guna membesihkan tanah yang menutupi badan jalan secara manual, karena belum ada bantuan alat berat dari dinas terkait untuk menangani pembersihan material longsor dan penanganan jalan yang telah amblas itu. 
+
+Amblasnya badan jalan yang disertai tanah longsor terjadi pada <TIMEX3 tid="t3" type="TIME" value="2019-11-21TNI">Kamis malam</TIMEX3>, <TIMEX3 tid="t4" type="DATE" value="2019-11-21">sekitar dua hari yang lalu</TIMEX3>. 
+
+Namun untuk <TIMEX3 tid="t5" type="DURATION" value="PXX">sementara waktu</TIMEX3> kita sedang bergotong royong bersama warga Sikundo dan warga Desa Jambak untuk sekedar bisa dilewati kendaraan roda dua saja, ungkap M Johari, Keuchik Sikundo kepada Serambinews. 
+
+com, <TIMEX3 tid="t6" type="DATE" value="2019-11-23">Sabtu (23/11/2019)</TIMEX3>. 
+
+Ia menambahkan, demi bisa dilalui kendaraan roda dua warga terus bergotong royong agar tidak terisolir di sana, setidaknya untuk kebutuhan hal kecil keluar desa tersebut bisa menggunakan jalan setapak yang masih tersisa itu. 
+
+Kami berharap kepada pemerintah untuk segera menangani badan jalan yang telah amblas tersebut, sebab jalan tersebut sebagai satu-satunya akses yang digunakan oleh masyarakar Sikundo selama ini, dan tidak ada jalan lain di daerah ini yang bisa digunakan untuk keluar masuk ke desa kita, jelas M Johari. 
+
+Lebih lanjut ungkap Johari, seharusnya desa terpencil itu yang pernah dikunjungi Gubernur hendaknya menjadi perhatian kusus, terutama masalah akses jalan dan kepentingan umum lainnya yang <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih memperihatinkan. 
+
+Namun hingga <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> badan jalan menuju ke desa masih berlumpur dan mengalami kerusakan parah, ditambah kondisi <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> dimana badan jalan telah amblas ke sungai yang menyebabkan akses lalu lintas lumpuh. 
+
+Menurut Jauhari, longsor tersebut terjadi akibat hujan deras yang melanda Kabupaten Aceh Barat <TIMEX3 tid="t10" type="DATE" value="PXD">beberapa hari yang lalu</TIMEX3>, sehingga masyarakat sempat terkurung sejak <TIMEX3 tid="t11" type="DATE" value="2019-11-22">Jumat</TIMEX3> hingga hingga <TIMEX3 tid="t12" type="TIME" value="2019-11-23TAF">Sabtu (23/11/2019) siang</TIMEX3>. 
+
+Bagian longsor tersebut hanya diratakan saja, sedangkan gotong royong yang dilaksanakan bersama itu baru bisa di lewati oleh kendaraan roda dua saja, itu pun harus didorong di atas tanah liat yang menutupi badan jalan.(*) 
+</TEXT>
+
+</TimeML>

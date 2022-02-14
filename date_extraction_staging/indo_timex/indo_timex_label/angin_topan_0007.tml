@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0007</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-12-07" temporalFunction="false" functionInDocument="CREATION_TIME">2017-12-07</TIMEX3></DCT>
+
+<TITLE>Dua Rumah Warga Nagan Raya Ketimpa Pohan</TITLE>
+
+<TEXT>
+Akibat angin kencang menerjang Kabupaten Nagan Raya mengakibatkan dua rumah warga di Gampong Krueng Ceh, Kecamatan Seunagan, Kabupaten setempat ketimpa pohon kayu, <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">Rabu (6/12) siang</TIMEX3>. 
+
+Zulfikar, warga setempat, mengatakan, ke dua rumah tersebut, masing-masing, milik Idris (65) yang ketimba pohon jengkol, dan rumah Ibrahim (50) tertimpa pohon karet di Gampong Krueng Ceh. 
+
+Kata Zulfikar, rumah Idris dengan jumlah keluarga lima orang bersama istri dan anaknya, yaitu Malaiman (52) Tarmidi (25) Dewi (23) dan Maida (18). 
+
+Sedangkan rumah Ibrahim di tempati empat orang, Raihanah (45) Babang Arianda (18) dan Irwansyah (17). 
+
+Kedua rumah ketimpa pohon ini yang mengalami rusak parah tumah mikik Idris, sedangkan rumah Ibrahim rusak ringan, kata Zulfikar, kepada Rakyat Aceh, <TIMEX3 tid="t2" type="DATE" value="2017-12-06">kemarin</TIMEX3>. 
+
+Keuchik Gampong Krueng Ceh, Adnan membenarkan ada dua rumah warnya ketimpa pohon akibat diterjang angin kencang <TIMEX3 tid="t3" type="TIME" value="2017-12-06">kemarin siang</TIMEX3>. 
+
+Ke dua rumah tersebut tertimpa pohon di bagian dapur masing-masing, sejumlah peralatan dapur dan perabotan rumah mengalami rusak parah. 
+
+Yang parah mengalami kerusakan rumah Idris, sementara rumah Ibrahim hanya rusak ringan akibat di terjang angin kencang. 
+
+Dan mereka masih bisa menempati rumah tersebut, kata Keuchik. 
+
+(ibr). 
+
+
+</TEXT>
+
+</TimeML>

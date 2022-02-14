@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0027</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-11-04" temporalFunction="false" functionInDocument="CREATION_TIME">2016-11-04</TIMEX3></DCT>
+
+<TITLE>Dihempas Badai, Lima Nelayan Simeulue Hilang</TITLE>
+
+<TEXT>
+Cuaca buruk melanda perairan Simeulue, mengakibatkan sembilan nelayan Simeulue yang menangkap ikan menggunakan alat tangkap bagan apung tenggelam setelah dihempas badai, <TIMEX3 tid="t1" type="DATE" value="2106-11-04">Jumat (4/11/2106)</TIMEX3> dini hari. 
+
+Dari sembilan awak yang mengoperasikan alat tangkap ikan tersebut, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> lima orang dilaporkan selamat dan empat orang lainnya masih dinyatakan hilang. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> upaya pencarian terhadap nelayan tersebut masih dilakukan oleh tim gabungan di wilayah itu. 
+
+Pantauan Serambinews. 
+
+com di lapangan, upaya pencarian melibatkan para pihak seperti Pos SAR Simeulue, BPBD, TNI/Polri dan juga nelayan setempat ikut membantu upaya pencarian korban tang masih dinyatakan hilang itu. 
+
+Adapun data korban nelayan yang masih dinyatakan hilang, yakni Rizal setiawan (32), Said (32), Erianto (30), Andi (21), Roking (34). 
+
+(*) 
+</TEXT>
+
+</TimeML>

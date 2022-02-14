@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0949</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-05</TIMEX3></DCT>
+
+<TITLE>Lahan Dua Desa di Kecamatan Sendana Ludes Dilalap Api</TITLE>
+
+<TEXT>
+Kendati jajaran kepolisian setempat memasang baliho agar mewaspadai kebakaran lahan ditengah <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau ini</TIMEX3>, namun amukan si jago merah tetap saja tidak bisa dibendung. 
+
+Api kembali menghanguskan lahan dua dusun di Kecamatan Sendana <TIMEX3 tid="t2" type="DATE" value="2019-09-04">Rabu</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2019-08-04">04 Agustus 2019 kemarin</TIMEX3>. 
+
+Menurut Kapolsek Sendana AKP Achmad Syarif Tola, <TIMEX3 tid="t4" type="DATE" value="2019-09-05">Kamis (5/9/2019)</TIMEX3>, kebakaran lahan atau kebun warga pertama kali terjadi di Desa Putta da Kecamatan Sendana pada <TIMEX3 tid="t5" type="DATE" value="2019-09-04">Rabu kemarin</TIMEX3> sekitar <TIMEX3 tid="t6" type="TIME" value="2019-09-04T13:00">pukul 13.00</TIMEX3> Wita. 
+
+Menurut keterangan warga setempat, bahwa api mulai muncul dari desa Putta da <TIMEX3 tid="t7" type="TIME" value="2019-09-04T09:00">sekitar pukul 09.00</TIMEX3> Wita, namun masih kecil dan <TIMEX3 tid="t8" type="TIME" value="2019-09-04T13:30">sekitar pukul 13.30</TIMEX3> Wita, api sudah membesar dan merambat dengan cepat membakar lahan dan kebun warga dan sampai ke lahan Desa Limbua, ungkap AKP Achmad Syarif Tola. 
+
+Karena tiupan angin kencang, serta banyaknya daun kering di lahan atau kebun milik rakyat sehingga titik-titik api menyebar. 
+
+Titik api mulai banyak dan menyala. 
+
+Kemudian ditiup angin. 
+
+Apalagi, medan ke sumber api sangat sulit dijangkau, kata Achmad Syarif Tola. 
+
+<TIMEX3 tid="t9" type="DATE" value="FUTURE_REF">Nanti</TIMEX3>, lanjut dia, <TIMEX3 tid="t10" type="TIME" value="2019-09-04T20:29">pukul 20.29</TIMEX3> Wita, amukan api berhasil dipadamkan dengan alat seadanya. 
+
+Kita kerahkan personil Polsek Sendana dan dibantu warga Desa Puttada, warga Desa Lalatedong, serta warga Desa Limbua sekitar 100 Orang dengan cara berpencar ditiap titik kebakaran lahan tersebut untuk memadamkan api, kata Achmad Syarif Tola. 
+
+Dilaporkan, tidak ada korban rumah milik warga maupun korban jiwa dalam peristiwa itu, namun luas lahan yang terbakar mencapai 10 hektar. 
+
+(ipunk) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0498</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-21" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-21</TIMEX3></DCT>
+
+<TITLE>Kabut Asap Selimuti Sungai Pinyu</TITLE>
+
+<TEXT>
+Kabut asap menyelimuti wilayah Kecamatan Sungai Pinyuh, Kabupaten Mempawah dalam <TIMEX3 tid="t1" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir. 
+
+Kabut asap ini merupakan dampak kebakaran hutan dan lahan (karhutla) yang terjadi di wilayah itu. 
+
+Dari pantauan, kabut asap semakin pekat saat malam hari dan <TIMEX3 tid="t2" type="TIME" value="2019-07-21TMO">pagi hari</TIMEX3>. 
+
+Kondisi ini dikhawatirkan dapat menganggu kesehatan warga. 
+
+Kondisi udara <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tidak sehat. 
+
+Lebih baik kurangi aktivitas keluar rumah, kalaupun keluar harus pakai masker agar kesehatan pernafasan kita tidak terganggu, kata Camat Sungai Pinyuh, Daeng Dicky, <TIMEX3 tid="t4" type="DATE" value="2019-07-18">Kamis</TIMEX3> (18/). 
+
+Selain itu, Daeng Dicky juga meminta, warga untuk tidak membuka lahan dengan cara membakar. 
+
+Karena hal tersebut dapat memicu kebakaran lahan, apalagi dengan kondisi kemarau <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Jangan lagilah membuka lahan dengan cara membakar. 
+
+Lihat saja akibatnya, selain kabut asap seperti ini, bisa juga mengganggu kesehatan terutama anak-anak, katanya. 
+
+Lebih jauh, Daeng Dicky mengimbau, masyarakat untuk selalu menjaga kebersihan, mencuci tangan sebelum makan serta mengonsumsi makanan dan minuman yang benar-benar bersih agar terhindar dari penyakit saat musim kemarau <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Apalagi didukung kondisi kabut asap terlihat semakin tebal <TIMEX3 tid="t7" type="SET" value="P1D">setiap hari</TIMEX3>, tentu mempercepat terjadinya penyakit Infeksi Saluran Pernafasan Akut (ISPA), ucapnya. 
+
+Dia juga menyarankan kepada kaum ibu yang memiliki anak bayi untuk menjaga kebersihan makanan dan minuman anaknya. 
+
+Untuk anak-anak, juga harus diwaspadai kebersihan makanan yang diperoleh dari jajanan. 
+
+Karena hal ini juga bisa menjadi faktor penyebab penyakit yang sering menimpa saluran tenggorokan. 
+
+Terapkanlah perilaku hidup bersih dan sehat, serta bagi balita diperhatikan kebersihan lingkungan bisa dikatakan sebagai upaya untuk meminimalisasi penyebaran penyakit ISPA, tukasnya. 
+
+Karhutla yang terjadi di kawasan gambut Desa Sungai Rasau, Kecamatan Sungai Pinyuh, sejak <TIMEX3 tid="t8" type="DATE" value="2019-07-15">Selasa (15/7)</TIMEX3>, hingga <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terus meluas. 
+
+Petugas kesulitan memadamkan api karena minimnya sumber air dan sulitnya akses ke lokasi titik api. 
+
+Hingga <TIMEX3 tid="t10" type="DATE" value="2019-07-19">Jumat (19/7)</TIMEX3>, sudah puluhan hektar lahan yang terbakar. 
+
+Petugas pemadam kebakaran masih terus siaga, mengantisipasi jika kebakaran besar kembali terjadi. 
+
+Walaupun asap telah sedikit berkurang. 
+
+Tapi kita masih tetap siaga, karena ditakutkan api kembali membesar, kata Ahin, salah seorang petugas pemadam kebakaran BPA Sungai Pinyuh.Ahin mengakui, dalam memadamkan lahan gambut yang terbakar, petugas sedikit terkendala. 
+
+Selain sulitnya menemukan titik api dan dihalang asap tebal, juga ketersedian sumber air yang minim membuat para petugas pemadam kebakaran tidak dapat bekerja secara optimal.Kita sulit menemukan sumber air, karena parit-parit disini kering. 
+
+Tapi beruntung kabut asapnya sudah tidak tebal lagi, ungkapnya.Kepala Desa Sungai Rasau, Edwar, yang terus memantau kondisi di lapangan, juga mengakui kesulitan para petugas pemadam kebakaran dalam menangani kebakaran lahan.Apalagi lahan gambut seperti ini, api juga ada di dalam tanah, sehingga sulit dipadamkan. 
+
+Tapi kita bersyukur, karena kabut asapnya sudah agak menipis, ucapnya. 
+
+(sky) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0773</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-14" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-14</TIMEX3></DCT>
+
+<TITLE>Wisatawan Kecewa Tak Bisa Nikmati Keindahan Danau Toba karena 'Tertutup' Kabut Asap</TITLE>
+
+<TEXT>
+Wisatawan Kecewa Tak Bisa Nikmati Keindahan Danau Toba karena 'Tertutup' Kabut Asap. 
+
+Sejak <TIMEX3 tid="t1" type="DURATION" value="P3D">tiga hari</TIMEX3> terakhir, asap kebakaran hutan dan lahan (Karhutla) di Riau sudah sampai ke wilayah Danau Toba. 
+
+Jarak pandang di danau terbesar di Indonesia itu sudah terganggu. 
+
+Para wisatawan baik domestik maupun luar yang datang, sudah kecewa dengan dampak yang timbul karena asap. 
+
+Penyelenggara Volcano Floating Party, Hamlet alias Halasan Maruli Manurung mengatakan, adanya asap di Danau Toba, membuat tamu-tamu sudah terlihat kecewa. 
+
+Asap sudah mengganggu wisatawan untuk menikmati keindahan Danau terbesar di Asia Tenggara tersebut. 
+
+" Sudah <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">tiga hari ini</TIMEX3> asap ada di Danau Toba, tamu kita kecewa. 
+
+Jarak pandang memang masih jauh. 
+
+Tapi nampak lah asap itu. 
+
+Jadinya kan tidak cantik pemandangannya, " kata Hamlet, <TIMEX3 tid="t3" type="DATE" value="2019-09-14">Sabtu (14/9/2019)</TIMEX3>. 
+
+Sementara itu, pantauan Balai Besar Meteorologi Klimatologi dan Geofisika (BBMKG) Wilayah I Medan. 
+
+Kepala BBMKG Wilayah I Medan Edison Kurniawan mengatakan, angin dari tenggara telah membawa asap kebakaran hutan di Provinsi Riau ke wilayah Danau Toba. 
+
+Dalam pantauan di Sumut, pada <TIMEX3 tid="t4" type="DATE" value="2019-09-12">Kamis (12/9/2019)</TIMEX3> terdeteksi sebanyak 20 titik panas masing-masing di Kabupaten Asahan, Karo, Deliserdang, Labura, Madina, Sergai, Tapteng, dan juga Taput. 
+
+// Sedangkan pada <TIMEX3 tid="t5" type="DATE" value="2019-09-13">Jumat (13/9/2019)</TIMEX3> titik panas yang terpantau hanya berada di Kabupaten Tapteng saja. 
+
+" Titik panas ini berada dengan tingkat kepercayaan diatas 50 persen, " jelasnya. 
+
+. 
+
+" Kalau di Padang Lawas ini, kabut asapnya sudah mulai mengganggu pernafasan, " kata Farman. 
+
+Kepala Dinas Kesehatan Sumut dr Alwi Mujahit Hasibuan mengatakan bahwa kabut asap memang telah melanda beberapa wilayah di Provinsi Sumut. 
+
+. 
+
+Artinya masih bisa di toleransi, " kata Alwi. 
+
+" Kalau situasinya terus dibiarkan memang akan tidak baik untuk kesehatan, " sambungnya. 
+
+Lebih lanjut, Alwi mengimbau kepada masyarakat yang daerahnya terdampak agar mengurangi aktivitasnya keluar rumah. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kondisi kabut asap kian hari akan semakin menebal. 
+
+Apabila terpaksa harus keluar rumah, kami ingatkan agar dapat menggunakan masker. " Kalau ada yang sakit segera melapor dan berobat ke fasilitas kesehatan, " pungkas Alwi.(mak/tribun-medan.com) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1195</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-04-23" temporalFunction="false" functionInDocument="CREATION_TIME">2017-04-23</TIMEX3></DCT>
+
+<TITLE>Longsor, Kendaraan tidak Berani Melintas di Jalan Penghubung Palas</TITLE>
+
+<TEXT>
+Kerusakan parah terjadi di jalan provinsi di Kabupaten Padang Lawas, tepatnya di Desa Hutaraja Tinggi Kecamatan Hutaraja Tinggi akibat longsor. 
+
+Mobil besar baik truk maupun bus, tidak berani melintas. 
+
+Jika tak cepat ditangani, akses yang menghubungkan dua provinsi ini akan benar-benar terputus. 
+
+<TIMEX3 tid="t1" type="TIME" value="2017-04-22TAF">Sabtu (22/4/2017) sore</TIMEX3>, hanya beberapa mobil besar yang berani melintas. 
+
+Itu pun, yang tidak ada muatan. 
+
+<TIMEX3 tid="t2" type="TIME" value="2017-04-22TAF">Sore harinya</TIMEX3>, badan jalan makin tergerus, hingga bus dan truk tak berani melintas. 
+
+Bus PT Batang Pane trayek Rokan Hulu, Riau Medan, terakhir berani melintas <TIMEX3 tid="t3" type="TIME" value="2017-04-22T16:30">sekitar pukul 16.30 WIB</TIMEX3>. 
+
+Namun, karena badan jalan menyempit, bus dan truk besar yang berada di belakang tak berani lagi lewat. 
+
+Solusinya, terpaksa dicarikan jalan alternatif lewat kebun dan jalan perkampungan. 
+
+Untuk bus dan truk kecil, memang masih bisa melintas. 
+
+Itu pun, khusus untuk yang tidak bermuatan berat. 
+
+Untuk bermuatan sampai 5 ton ke atas, memilih berhenti dan mencari jalan alternatif. 
+
+Melihat kondisi jalan yang longsor, terlihat masih berpotensi terus bertambah. 
+
+Artinya, makin menghabisi badan jalan. 
+
+Karena, gorong-gorong yang sebelumnya ada sudah tersumbat dan air terlihat menembus pori-pori tanah. 
+
+Otomatis membuat tanah di bagian bawah aspal jadi lembek. 
+
+Tadi <TIMEX3 tid="t4" type="TIME" value="2017-04-23TMO">pagi</TIMEX3> masih sedikit ini longsornya. 
+
+Masih di bagian beram jalan. 
+
+Belum sampai ke aspal. 
+
+Tapi ini sudah lebih separuh badan jalan, nkata M Hasibuan, satu warga di lokasi. 
+
+Ternyata, longsornya terjadi sekira <TIMEX3 tid="t5" type="TIME" value="2017-04-22T13:00">pukul 13.00 WIB</TIMEX3>. 
+
+Badan jalan pun terus retak dan amblas, hingga nyaris memutus badan jalan. 
+
+Yang mengkhawatirkan lagi, badan jalan yang tergerus terjadi di dua sisi jalan. 
+
+Dari badan jalan yang sebelah juga terus dikikis air, karena banyaknya debit air yang tertahan. 
+
+Beruntung, tidak ada kendaraan yang melintas saat longsor terjadi. 
+
+Memang, tadi longsornya juga pelan kok. 
+
+Retak <TIMEX3 tid="t6" type="DATE" value="PAST_REF">dulu</TIMEX3>, baru pelan-pelan turun. 
+
+Macam hidup tanahnya, kata Siti Lubis, warga yang rumahnya hanya berjarak beberapa meter dan lokasi jalan longsor. 
+
+Hingga <TIMEX3 tid="t7" type="TIME" value="2017-04-22">kemarin sore</TIMEX3> belum ada penanganan dari pihak terkait. 
+
+Untuk mengatur lalu lintas, warga membantu agar tidak mobil yang terjatuh. 
+
+<TIMEX3 tid="t8" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, pihak keplosian dari Polsek Sosa sudah turun ke lokasi. 
+
+Mirisnya, lokasi jalan yang amblas ini sebenarnya baru mendapat perbaikan dari Dinas Bina Marga Provinsi Sumut. 
+
+Pelapisan ulang aspal dan ditambah pelebaran baru saja <TIMEX3 tid="t9" type="DURATION" value="PXM">beberapa bulan</TIMEX3> di lokasi ini. 
+
+Terlihat di dekat lokasi longsor memang ada pengerjaan lahan. 
+
+Ada pemotongan lahan yang dikabarkan untuk pembuatan Islamic Center Kecamatan Hutaraja Tinggi. 
+
+
+</TEXT>
+
+</TimeML>

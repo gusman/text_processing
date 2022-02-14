@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0755</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-10" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-10</TIMEX3></DCT>
+
+<TITLE>Kekeringan 5 Bulan, Puluhan Warga Dusun Ini Bolak-balik Ambil Air dari Satu Sumur</TITLE>
+
+<TEXT>
+Masyarakat di Dusun Karangpilang Lor, Desa Rejosari, Kecamatan Semin, Gunungkidul, Yogyakarta, harus rela memanfaatkan satu sumur untuk puluhan kepala keluarga selama <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau</TIMEX3>. 
+
+Dusun yang berbatasan langsung dengan Wonogiri, Jawa Tengah, sudah merasakan kekeringan sejak <TIMEX3 tid="t2" type="DURATION" value="P5M">5 bulan</TIMEX3> terakhir. 
+
+Dusun Karangpilang Lor berada diperbukitan, dan jauh dari pusat kota Wonosari, jika menggunakan sepeda motor membutuhkan <TIMEX3 tid="t3" type="DURATION" value="PT1H30M">sekitar 1,5 jam</TIMEX3> perjalanan. 
+
+Sampai di dusun Karangpilang Lor, akan dijumpai beberapa warga yang membawa jeriken dan wadah air lainnya menuju ke sebuah sumur. 
+
+Di sekitar sumur belasan jeriken menunggu untuk diisi oleh pemiliknya. 
+
+. 
+
+Sebagian warga yang menunggu sabar menunggu giliran sambil asyik ngobrol bersama warga lain tentang keseharian. 
+
+Salah seorang warga Karangpilang Lor, Lasimin menceritakan di dusunnya ada dua sumur air yang biasa digunakan warga untuk kebutuhan <TIMEX3 tid="t4" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+Namun warga memilih satu sumur karena airnya lebih jernih. 
+
+" Saat musim penghujan warga di sini menggunakan mesin pompa, tapi saat musim kemarau hasil kesepakatan hanya diperbolehkan menggunakan timba (tali dan ember kecil), " katanya kepada wartawan di lokasi <TIMEX3 tid="t5" type="DATE" value="2019-09-02">Senin (9/9/2019)</TIMEX3>. 
+
+// Sumur yang memiliki diameter 2 meter dengan kedalaman antara 10 sampai 15 meter digunakan oleh 42 kepala keluarga untuk memenuhi kebutuhan <TIMEX3 tid="t6" type="SET" value="P1D">sehari-hari</TIMEX3> seperti memasak hingga mencuci. 
+
+Warga sudah puluhan tahun memanfaatkan sumber tersebut. 
+
+" Dari <TIMEX3 tid="t7" type="TIME" value="2019-09-10TMO">pagi</TIMEX3> hingga kadang sampai <TIMEX3 tid="t8" type="TIME" value="2019-09-09TNI">malam</TIMEX3> warga mengambil air, tetapi airnya tidak habis, kalau berkurang memang berkurang tetapi tidak sampai habis, " katanya. 
+
+Belasan kali bolak-balikWarga lainnya, Aan Suryani mengaku <TIMEX3 tid="t9" type="SET" value="P1D">setiap hari</TIMEX3> bisa belasan kali mengambil air bersih di sumur tersebut untuk kebutuhan air bersih keluarganya. 
+
+Meski jarak rumahnya tergolong jauh sekitar 300 meter, dirinya mengaku bersyukur airnya tidak habis saat musim kemarau. 
+
+" Sudah <TIMEX3 tid="t10" type="DURATION" value="P5M">sekitar 5 bulan</TIMEX3> terakhir kalau tidak salah mulai mengambil air di sini. 
+
+Biasanya menggunakan pompa, tapi tidak masalah karena masih bisa keluar airnya, " ucapnya. 
+
+" Warga disini tidak ada yang membeli air dari tangki swasta karena sumbernya sudah memenuhi kebutuhan, " ujarnya. 
+
+Rizki Angga Saputra warga lainnya mengaku <TIMEX3 tid="t11" type="SET" value="P1D">setiap hari</TIMEX3> belasan kali mengambil air dari sumur menggunakan galon, dan digunakan untuk memenuhi kebutuhan air keluargannya. 
+
+Setiap keluarga memiliki bak penampungan untuk menyimpan air. 
+
+" Kalau bantuan air dari BPBD setahu saya baru sekali, diisi ke sumur sehingga menimbanya tidak perlu dalam, " katanya. 
+
+// Anggaran sudah menipis Kekeringan yang makin meluas membuat anggaran droping air milik BPBD Gunungkidul, semakin menipis. 
+
+Pasalnya, dari alokasi Rp530 juta sudah banyak digunakan dan diperkirakan sisa 440 tangki atau <TIMEX3 tid="t12" type="DATE" value="2019-09">akhir September ini</TIMEX3>. 
+
+" Kami sudah menyalurkan <TIMEX3 tid="t13" type="DATE" value="1560">sekitar 1560</TIMEX3> tangki, dan <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> anggaran kita diperkirakan tinggal 440 tangki, " kata Kepala Pelaksana BPBD Gunungkidul Edy Basuki. 
+
+Anggaran yang dimiliki sudah menipis, Namun Edy mengaku tidak khawatir karena masih memiliki anggaran cadangan di belanja dana tak terduga. 
+
+Namun untuk mengakses dana ini, BPBD harus meningkatkan status menjadi darurat kekeringan. 
+
+Namun selain dari anggaran pemerintah, juga mengandalkan pihak ketiga. 
+
+" Untuk penyaluran dari pihak ketiga sudah mencapai 900 an tangki yang melalui kita, tetapi yang tidak melalui kita mungkin jumlahnya hampir sama, " ucapnya. 
+
+Menurut dia banyaknya bantuan yang datang ke Gunungkidul bisa mengurangi beban masyarakat membeli air bersih yang semakin sulit di puncak <TIMEX3 tid="t15" type="DATE" value="2019-SU">musim kemarau</TIMEX3> seperti <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+" Sudah banyak masuk dan keberadaannya sangat membantu BPBD dalam mengatasi masalah kekeringan. 
+
+Yang jelas kami berharap agar pemberi bantuan bisa berkoordinasi dengan BPBD agar bantuan dapat tepat sasaran, " ucapnya. 
+
+. " Untuk tahap awal kami serahkan ke warga di Dusun Ploso Doyong, Ngalang, Gedangsari. 
+
+Lokasi ini kami pilih karena ada karyawan kami yang berasal dari sana dan kebetulan juga mengalami krisis air, " ucapnya. 
+
+Seorang warga Ploso Doyong, Bambang mengaku setiap beberapa hari sekali PDAM yang masuk di wilayahnya berhenti beroperasi. 
+
+Hal itu menyulitkan warga untuk beraktivitas.Warga harus berhemat air bersih meski tidak sampai membeli air dari tangki swasta. " Air dari PDAM sering macet, jadi kami memilih untuk berhemat, " ucapnya. 
+
+
+</TEXT>
+
+</TimeML>

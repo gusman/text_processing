@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1132</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-14" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-14</TIMEX3></DCT>
+
+<TITLE>Ratusan Rumah di Solok Selatan Terendam Banjir, 469 Warga Mengungsi</TITLE>
+
+<TEXT>
+Banjir bandang kembali melanda Kabupaten Solok Selatan, <TIMEX3 tid="t1" type="DATE" value="2019-12-13">Jumat (13/12/2019) kemarin</TIMEX3>, mengakibatkan 469 warga mengungsi. 
+
+Kabag Humas Pemerintah Kabupaten Solok Selatan Firdaus Firman mengatakan, berdasarkan laporan yang diterima sebanyak 815 Kepala Keluarga (KK) terdampak banjir. 
+
+Dia menuturkan, tercatat ada tiga kecamatan yang terdampak banjir cukup parah yaitu Sungai Pagu dengan 585 KK terdampak dan 420 warga mengungsi. 
+
+Kemudian, kata Firman, 219 KK terdampak di Sangir Batang Hari dan Koto Parik Gadang Diateh dengan 11 KK terdampak serta 49 orang mengungsi. 
+
+Pengungsi berasal dari dua kecamatan yaitu Sungai Pagu dan Koto Parik Gadang Diateh. 
+
+Sementara di Sangir Batang Hari belum dilaporkan ada pengungsi, kata Firdaus seperti dilansir Kompas. 
+
+com, pada <TIMEX3 tid="t2" type="DATE" value="2019-12-14">Sabtu (14/12/2019)</TIMEX3>. 
+
+Dia menambahkan, untuk rumah yang terendam banjir tercatat ada 750 rumah dengan rincian 530 di Sungai Pagu, 219 di Sangir Batang Hari dan satu rumah di Koto Parik Gadang Diateh. 
+
+Sebanyak 10 rumah warga hancur atau rusak berat diterjang banjir. 
+
+Dilaporkan juga ada jembatan yang mengalami rusak berat, jelas Firdaus. 
+
+Pemkab Solok Selatan menetapkan status tanggap darurat bencana hingga <TIMEX3 tid="t3" type="DATE" value="2019-12-05">5 Desember</TIMEX3>. 
+
+Selanjutnya, masa tanggap darurat diperpanjang hingga <TIMEX3 tid="t4" type="DATE" value="2019-12-19">19 Desember mendatang</TIMEX3>. 
+
+sumber; kompas. 
+
+comeditor; saptarius 
+</TEXT>
+
+</TimeML>

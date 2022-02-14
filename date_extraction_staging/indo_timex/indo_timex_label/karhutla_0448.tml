@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0448</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-25</TIMEX3></DCT>
+
+<TITLE>Jawa Timur Kirim Masker dan 7500 Makanan Kaleng untuk Warga Terdampak Karhutla</TITLE>
+
+<TEXT>
+Pemerintah Provinsi Jawa Timur mengirimkan bantuan khusus untuk Provinsi Jambi yang sedang terserang bencana kebakaran hutan dan lahan (karhutla). 
+
+Bantuan tersebut diserahkan langsung oleh Gubernur Jawa Timur Khofifah Indar Parawansa ke perwakilan tagana Jambi secara simbolis saat Gala Dinner Jambore dan Bakti Sosial Tanaga Nasional di Grahadi, <TIMEX3 tid="t1" type="TIME" value="2019-09-25TNI">Rabu (25/9/2019) malam</TIMEX3>. 
+
+Bantuan yang diserahkan untuk warga masyarakat Jambi adalah masker N95 yang memiliki daya saring polutan lebih baik dibandingkan masker biasanya. 
+
+Bantuan masker yang diberikan lebih dari satu juta masker. 
+
+Pemprov Jawa Timur juga mengirimkan makanan kaleng sebanyak 7.500 buah yang diharapkan bisa bermanfaat bagi masyarakat yang sedang kesulitan mendapatkan bahan makanan. 
+
+" Semoga bisa bermanfaat bagi masyarakat di sana, " kata Khofifah. 
+
+Gubernur Khofifah menyampaikan bahwa kegiatan mengajak segenap warga Jawa Timur untuk menyukseskan Jambore dan Bakti Sosial Tagana Nasional, 25-28 <TIMEX3 tid="t2" type="DATE" value="2019-09">September 2019</TIMEX3> di Jawa Timur. 
+
+Khofifah menyampaikan rasa bangga dan terimakasih Jawa Timur menjadi tuan rumah bagi penyelenggaraan Jambore Nasional TAGANA <TIMEX3 tid="t3" type="DATE" value="2019">tahun 2019</TIMEX3>. 
+
+Kegiatan ini berlangsung di tiga titik di Kabupaten Pasuruan yakni di Graha Wilwatikta Kecamatan Pandaan, Danau Ranu Grati Kecamatan Grati, dan Lautan Pasir Taman Nasional Gunung Bromo. 
+
+" Selama <TIMEX3 tid="t4" type="DATE" value="UNKNOWN">sepekan ini</TIMEX3> Jawa Timur akan menjadi tuan rumah 350 personel Tagana dari 34 provinsi, perwakilan Pengurus Kampung Siaga Bencana (KSB) se-Jawa Timur, relawan-relawan kemanusiaan, delegasi negara-negara ASEAN, dan tentu saja 1.600 Tagana Jawa Timur, " terang Gubernur Khofifah. 
+
+// Untuk menyambut pelaksanaan Jambore, Tagana Jawa Timur telah merintis berbagai kegiatan dengan melibatkan masyarakat aktif dalam pengurangan risiko bencana. 
+
+" Di antaranya mendirikan Kampung Siaga Bencana dan menyelenggarakan kegiatan Tagana Masuk Sekolah serentak di berbagai sekolah di kota dan kabupaten se-Jawa Timur, " katanya. 
+
+Di sisi lain Kepala BPBD Provinsi Jawa Timur Subhan mengatakan bahwa bantuan ini nantinya akan didistribusikan untuk warga masyarakat di Jambi. 
+
+Pengiriman akan dilakukan langsung dan diserahkan kepada masyarakat. 
+
+" Karena kalau di wilayah bencana yang sering ditemui orang menjual makanan itu susah. 
+
+Maka kita harap makanan kaleng juga bisa menjawab kebutuhan makanan di sana, " tambah Subhan. 
+</TEXT>
+
+</TimeML>

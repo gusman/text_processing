@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0665</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-20" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-20</TIMEX3></DCT>
+
+<TITLE>Warga Bersihkan Material Longsor di Selalejo Mauponggo</TITLE>
+
+<TEXT>
+Sejumlah warga Desa Selalejo dan Selalejo Timur di Kecamatan Mauponggo, Kabupaten Nagekeo, membersihkan material longsor di Lokatonga Selalejo, <TIMEX3 tid="t1" type="DATE" value="2020-02-19">Rabu (19/2/2020)</TIMEX3>. 
+
+Warga berinisiatif membersihkan supaya bisa melintas. 
+
+Karena sebelumnya tidak bisa diakses karena tumpukan material sangat banyak dan tidak bisa menggunakan tenaga manusia. 
+
+Kepala Desa Selalejo, Kun Senda, kepada POS-KUPANG. 
+
+COM, menjelaskan, daerah itu rawan longsor. 
+
+Kawasan Lokatonga sudah dibersihkan sebelumnya menggunakan exavator milik Pemda Nagekeo. 
+
+Namun karena hujan terus melanda wilayah tersebut banyak tanah longsor dan tertimbun di badan jalan. 
+
+Warga terpaksa bekerja keras membersihkan material longsor sehingg kendaraan bermotor bisa melintas. 
+
+" Ini tadi <TIMEX3 tid="t2" type="TIME" value="2020-02-20TMO">pagi</TIMEX3> di Lokatonga yang <TIMEX3 tid="t3" type="DATE" value="2020-02-19">kemarin</TIMEX3> sudah dibersihkan dengan exavator PUPR. 
+
+Tapi <TIMEX3 tid="t4" type="TIME" value="2020-02-19TAF">sore harinya</TIMEX3> runtuh lagi. 
+
+Tadi <TIMEX3 tid="t5" type="TIME" value="2020-02-20TMO">pagi</TIMEX3> oto tidak bisa lewat. 
+
+Maka masyarakat berusaha supaya oto bisa lewat untuk ke Pasar boawae, " ujar Kades Kun. 
+
+Kades Kun mengatakan jalan tersebut menghubungkan Selalejo Kecamatan Mauponggo dan Kotakeo Kecamatan Nangaroro.Jika tidak dibersihkan maka akses transportasi akan putus total dan memang perlu mendorong warga agar selalu kerjasama. " Ini kerjasama warga Selalejo dan Selalejo Timur yang melewati ruas jalan itu. 
+
+Tadi <TIMEX3 tid="t6" type="TIME" value="2020-02-20TMO">pagi</TIMEX3> karena banyak kendaraan roda empat dari Selalejo yang mau ke Pasar tidak bisa lintas. 
+
+Sampai <TIMEX3 tid="t7" type="TIME" value="UNKNOWN">sore tadi jam 18.00</TIMEX3> Wita, saya pulang dari Mbay oto belum bisa lewat. 
+
+Hanya motor sudah bisa lewat tapi harus dengan teman untuk dorong. 
+
+Exavator PU ada juga disini, " ujar Kades Kun. 
+
+
+</TEXT>
+
+</TimeML>

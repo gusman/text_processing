@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_1097</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-24</TIMEX3></DCT>
+
+<TITLE>Polres Nganjuk Intensif Salurkan Bantuan Air Berih di Daerah Kekeringan Kawasan Pegunungan</TITLE>
+
+<TEXT>
+Penyaluran bantuan air bersih semakin intensif dilakukan jajaran Polres Nganjuk bekerjasama dengan Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Nganjuk. 
+
+Ini setelah terjadinya kesulitan air oleh warga di sejumlah daerah terutama wilayah pegunungan di Kabupaten Nganjuk terus terjadi menyusul belum turunya hujan. 
+
+Kapolres Nganjuk, AKBP Handono Subiakto menjelaskan, penyaluran bantuan air bersih yang dilakukanya sebagai bentuk kepedulian jajaran Kepolisian terhadap beban berat warga yang kesulitan air bersih. 
+
+Di samping itu, diharapkan dengan kehadiran anggota Kepolisian ditengah warga masyarakat yang kesulitan air bersih bisa memberi rasa tenang dan aman serta sejuk sehingga tidak ada gejolak seperti berebut bantuan air bersih dan sebagainya. 
+
+" Kami belum mengetahui sampai kapan bantuan air bersih dihentikan melihat kondisi kekeringan masih terus terjadi di sejumlah wilayah. 
+
+Yang jelas, kami akan terus menyalurkan bantuan air bersih yang dibutuhkan warga, " kata Handono Subiakto, <TIMEX3 tid="t1" type="DATE" value="2019-11-24">Minggu (24/11/2019)</TIMEX3>. 
+
+Dijelaskan Handono, sejumlah daerah yang belakangan intensif disalurkan bantuan air bersih yakni di wilayah Kecamatan Ngluyu Kabupaten Nganjuk. 
+
+Setidaknya sekitar 29.600 liter air disalurkan <TIMEX3 tid="t2" type="SET" value="P1D">setiap hari</TIMEX3> untuk membantu warga yang kesulitan air bersih. 
+
+Di mana bantuan air bersih tersebut selain untuk kebutuhan memasak juga untuk mandi dan cuci.Ini setelah sumber air atau sumur di wilayah pegunungan tersebut mengalami kekeringan sejak <TIMEX3 tid="t3" type="DURATION" value="P2M">dua bulan</TIMEX3> terakhir. " Air merupakan kebutuhan pokok masyarakat <TIMEX3 tid="t4" type="SET" value="P1D">sehari-hari</TIMEX3>, untuk itu apabila air bersih sulit didapat tentunya beban berat akan dipikul masyarakat yang harus mencari air ke sumber yang cukup jauh, " ujar Handono Subiakto. 
+
+// Sementara salah satu warga Desa Gampeng Kecamatan Ngluyu Kabupaten Nganjuk, Sunardi mengatakan, warga pada umumnya cukup terbantu dengan distribusi bantuan air bersih dari jajaran Polres Nganjuk. 
+
+Setidaknya, warga tidak lagi harus mencari air bersih turun cukup jauh hingga belasan kilometer ke desa terdekat yang sumber airnya masih tersedia. 
+
+" Kami berterima kasih kepada Bapak Polisi yang sudah mengirim bantuan air bersih untuk memenuhi kebutuhan sehari-sehari, " kata Sunardi. 
+
+Untuk itu, ungkap Sunardi, pihaknya dan warga pada umumnya berharap bantuan air bersih terus diberikan oleh jajaran Kepolisian Polres Nganjuk sampai warga mampu mendapatkan air bersih sendiri atau setelah datang <TIMEX3 tid="t5" type="DATE" value="2018-WI">musim penghujan</TIMEX3>. 
+
+Di mana hingga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> di wilayah Kecamatan Ngluyu belum turun hujan meskipun di daerah lain sudah mulai turun hujan. 
+
+" Kami terus berdoa semoga hujan segera turun sehingga kesulitan air bersih warga bisa teratasi dan kondisi kembali normal, " tutur Sunardi. 
+
+
+</TEXT>
+
+</TimeML>

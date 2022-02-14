@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0008</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-28" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-28</TIMEX3></DCT>
+
+<TITLE>Heli Bom Air Ditambah</TITLE>
+
+<TEXT>
+Badan Nasional Penanggulangan Bencana (BNPB), berencana menambah helicopter water bombing ke lokasi lokasi lahan gambut yang terbakar di Aceh Barat. 
+
+Jadwalnya dalam <TIMEX3 tid="t1" type="DURATION" value="P7D">tujuh hari</TIMEX3> kerja, bencana kebakaran lahan gambut di daerah itu dapat teratasi. 
+
+Danrem 012/TU Kolonel Inf. 
+
+Nefra Firdaus, menyatakan tim reaksi cepat (TRC) penanganan kebakaran lahan gambut di Aceh Barat, telah gelar evaluasi <TIMEX3 tid="t2" type="DATE" value="2017-07-26">Rabu (26/7)</TIMEX3>. 
+
+Hasilnya, di hari kerja pertama helicopter jenis MI 17 VN yang berkapasitas water bombing 4 ton air masih kurang optimal. 
+
+Hasil rapat evalusi, perlu penambahan satu unit heli water bombing, kata Danrem yang juga bagian dari tim terpadu tersebut, <TIMEX3 tid="t3" type="DATE" value="2017-07-27">Kamis (27/7)</TIMEX3>. 
+
+Menurutnya, dijadwalkan <TIMEX3 tid="t4" type="TIME" value="2017-07-27">kemarin siang</TIMEX3> heli tambahan akan segera mendarat di bandara Cut Nyak Dhein, Nagan Raya. 
+
+Namun heli tambahan tergolong minim kapasitas penampung airnya. 
+
+Heli tambahan jenis Bell 412 yang kapasitas hanya 1 ton air, ucapnya. 
+
+Nefra berharap dengan adanya heli tambahan akan benar-benar optimal dalam penanganan bencana kebakaran lahan gambut. 
+
+Sebab jadwal kerja penanganan ditargetkan akan tuntas dalam <TIMEX3 tid="t5" type="DURATION" value="P7D">7 hari</TIMEX3>. 
+
+Hasil evaluasinya, satu unit heli kurang optimal, sebab jumlah luasan lahan gambut terbakar terus bertambah luas, ujarnya. 
+
+Mengatasi kebakaran lahan gambut di Aceh Barat, Nefra merincikan, Badan Penanggulangan Bencana Aceh (BPBA) telah membentuk tim TRC. 
+
+Penanganannya, juga dibentuk Satuan Tugas (Satgas) darat, Satgas Udara, dan Satgas Doa yang melakukan salat Istisqa (memohon turun hujan). 
+
+Hari pertama kerja Satgas udara mengandalkan helicopter jenis MI 17 VN kapasitas water bombing 4 ton air. 
+
+<TIMEX3 tid="t6" type="DATE" value="2017-07-26">Rabu lalu</TIMEX3>, menyemprotkan bom air memadamkan kebakaran lahan di area Peunaga Cut Ujong, Kecamatan Meureubo. 
+
+Hasil kerja <TIMEX3 tid="t7" type="DURATION" value="P1D">sehari</TIMEX3> penuh, mampu melakukan penerbangan (sorti) sebanyak 22 kali. 
+
+Sekali water bombing, menyemprotkan 4 ton air. 
+
+Di hari pertama mampu menyemprotkan air sebanyak 88 ton. 
+
+Tapi jika satu unit heli masih tergolong optimal juga, katanya. 
+
+Pada <TIMEX3 tid="t8" type="DATE" value="UNKNOWN">hari kedua</TIMEX3> kerja, helicopter jenis MI 17 VN mulai melakukan bom air di kawasan lahan gambut yang terbakar pada derah Suak Raya, Kecamatan Johan Pahlawan. 
+
+Dengan adanya tambahan dua unit heli penanganan kebakaran Satgas Udara, diharapkan mampu segera mengatasi kebakaran lahan gambut. 
+
+(den/mai) 
+</TEXT>
+
+</TimeML>

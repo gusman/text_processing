@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0840</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-31" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-31</TIMEX3></DCT>
+
+<TITLE>Material Gunung Cyclop Masih Menyisakan Potensi Banjir Susulan</TITLE>
+
+<TEXT>
+Hujan lebat yang turun selama <TIMEX3 tid="t1" type="DURATION" value="PTXH">beberapa jam</TIMEX3> pada <TIMEX3 tid="t2" type="DATE" value="2019-03-30">Sabtu (30/3/2019)</TIMEX3> dan aliran air dari Gunung Cyclop menyebabkan beberapa titik kawasan Kota Sentani, Kabupaten Jayapura, kembali terendam banjir. 
+
+Banjir susulan pun diperkirakan masih mungkin terjadi. 
+
+Sebab, longsor yang terjadi di punggung Gunung Cyclop pada <TIMEX3 tid="t3" type="DATE" value="2019-03-20">20 Maret 2019</TIMEX3>, menimbulkan potensi adanya banjir bandang susulan karena terdapat material yang posisinya menggantung. 
+
+. 
+
+Kami yakin sekali pasti ada guguran lanjutan, tapi sampai <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> potensi material yang ada belum bisa dihitung, ini tergantung cuaca kalau hujan (lebat) pasti (materialnya) turun, " kata Kepala Balai Wilayah Sungai Papua, Yulianus Mambrasar, di Bandara Sentani, <TIMEX3 tid="t5" type="DATE" value="2019-03-31">Minggu (31/3/2019)</TIMEX3>. 
+
+Hujan deras selama <TIMEX3 tid="t6" type="DURATION" value="PTXH">beberapa jam</TIMEX3> pada <TIMEX3 tid="t7" type="TIME" value="2019-03-30TNI">Sabtu (30/3/2019) malam</TIMEX3>, menyebabkan kawasan Kota Sentani, Kabupaten Jayapura, kembali terendam banjir dari air yang berasal dari Gunung Cyclop. 
+
+Banjir yang terjadi kali ini diakibatkan munculnya aliran air baru pasca-banjir bandang pada <TIMEX3 tid="t8" type="DATE" value="2019-03-16">16 Maret 2019</TIMEX3>. 
+
+" Alur sungai pertama sudah kami arahkan ke sungai (Kemiri), kalau tadi <TIMEX3 tid="t9" type="TIME" value="2019-03-30TNI">malam</TIMEX3> menurut kesaksian (masyarakat) setempat itu ada guguran baru, jadi ada bunyi kuat, ternyata dia membentuk aliran baru, " ujar dia. 
+
+. 
+
+Mambrasar menambahkan, pengungsi yang tempat tinggalnya terkena dampak langsung banjir bandang diminta untuk tidak kembali karena sangat berbahaya. 
+
+" Antisipasinya, kami harus lakukan pengalihan, pembersihan dan pengerukan sungai karena dengan situasi <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>, belum bisa ditentukan kapan ini selesai, " tutur dia. 
+
+
+</TEXT>
+
+</TimeML>

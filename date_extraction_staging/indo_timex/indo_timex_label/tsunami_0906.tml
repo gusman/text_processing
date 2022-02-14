@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0906</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-24</TIMEX3></DCT>
+
+<TITLE>Peneliti Sebut Tsunami Banten - Lampung Unik, Pertama Kali di Indonesia dan Tanpa Gempa</TITLE>
+
+<TEXT>
+Peristiwa gelombang tsunami yang terjadi di Selat Sunda pada <TIMEX3 tid="t1" type="TIME" value="2018-12-22TNI">Sabtu (22/12/2018) malam</TIMEX3> dinilai sebagai fenomena unik. 
+
+Pasalnya peristiwa semacam itu baru pertama kali terjadi di Indonesia. 
+
+Peneliti Bidang Geofisika Laut Pusat Penelitian Oseanografi Lembaga Ilmu Pengetahuan Indonesia (P2O LIPI), Nugroho Dwi Hananto, mengatakan peristiwa semacam ini merupakan fenomena unik dan langka. 
+
+Sangat unik dan di Indonesia sepertinya baru ini kita jumpai sehingga ini mengejutkan kita semua. 
+
+Para ilmuwan bersama-sama menganalisis apa sih sebenarnya yang menjadi sebab dari fenomena itu, katanya. 
+
+Nugroho beralasan gelombang tsunami yang terjadi di Selat Sunda dikatakan unik karena tidak disertai gempa yang besar. 
+
+Selain itu tidak juga disertai letusan gunung api maupun angin ribut atau angin topan yang besar. 
+
+Semuanya seperti biasa-biasa saja tapi tiba-tiba air naik dan naik lagi dengan kuat sehingga menyebabkan banyak kerugian dan juga mencabut nyawa manusia, ungkapnya. 
+
+Adapun sebelum tsunami Selat Sunda yang terjadi <TIMEX3 tid="t2" type="DATE" value="2018-12-23">kemarin</TIMEX3>, bencana serupa dan lebih dahsyat pernah terjadi pada <TIMEX3 tid="t3" type="DATE" value="1883">tahun 1883</TIMEX3> silam. 
+
+Ketika itu, tsunami besar yang terjadi menelan ribuan korban jiwa setelah Gunung Krakatau meletus dahsyat. 
+
+Namun demikian kejadiannya kan <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> berbeda. 
+
+Tidak ada kejadian letusan gunung api yang besar. 
+
+Ada letusan kecil saja tapi itu menyebabkan tsunami yang cukup besar, kata Nugroho // Kepala Pusat Data, Informasi, dan Hubungan Masyarakat BNPB, Sutopo Purwo Nugroho, mengungkapkan fenomena tsunami di Selat Sunda termasuk langka. 
+
+Melalui akun twitter, Sutopo Purwo Nugroho menuturkan jika letusan Gunung Anak Krakatau tidak besar. 
+
+Tremor menerus namun tidak ada frekuensi tinggi yang mencurigakan. 
+
+Bahkan juga tidak ada gempa yang memicu tsunami. 
+
+Seorang warga yang berada di lokasi tsunami Banten mengungkapkan detik-detik gelombang air menerjang. 
+
+Kamila Aprianti, menyaksikan air laut pantai di belakang Hotel Marina Anyer sempat surut <TIMEX3 tid="t5" type="TIME" value="2018-12-23T19:00">sekitar pukul 19.00 WIB</TIMEX3>, <TIMEX3 tid="t6" type="DATE" value="2018-12-23">Sabtu (23/12/2018)</TIMEX3>. 
+
+Sejak <TIMEX3 tid="t7" type="TIME" value="2018-12-23TAF">sore</TIMEX3> ombak sudah besar. 
+
+Namun <TIMEX3 tid="t8" type="TIME" value="2018-12-23T19:00">sekitar pukul 19.00 WIB</TIMEX3>, air sempat surut. 
+
+<TIMEX3 tid="t9" type="DATE" value="PAST_REF">Saat itu</TIMEX3> diakui Kamila dirinya tak berpikir macam-macam. 
+
+" Ombak dari <TIMEX3 tid="t10" type="TIME" value="2018-12-23TAF">sore</TIMEX3> sudah besar, tapi pas <TIMEX3 tid="t11" type="TIME" value="2018-12-24T19:00">jam 7 malam itu</TIMEX3> sempat menghilang dan air laut surut banget, saya sih belum berpikir macam-macam <TIMEX3 tid="t12" type="DATE" value="PAST_REF">saat itu</TIMEX3>, " cerita Kamila kepada Kompas. 
+
+com, <TIMEX3 tid="t13" type="DATE" value="2018-12-23">Minggu</TIMEX3> (<TIMEX3 tid="t14" type="DATE" value="2018-12-23">23/12/2018)</TIMEX3> dini hari. 
+
+// Namun, selang <TIMEX3 tid="t15" type="TIME" value="2018-12-24T00:10:00">10 menit kemudian</TIMEX3>, ombak besar datang, mengempas ke darat dan diikuti oleh air laut yang terus naik hingga ke pekarangan hotel. 
+
+Kamila yang <TIMEX3 tid="t16" type="DATE" value="PAST_REF">saat itu</TIMEX3> tengah bersama belasan temannya di hotel berhamburan keluar bersama pengunjung hotel lain. 
+
+" Saya lihat di jalan sudah ramai sekali warga dan wisatawan lain, ada teriakan tsunami-tsunami, semua panik, jalan raya sudah tergenang air setinggi tumit saya, banyak yang berlarian dan bawa kendaraan masing-masing menuju arah bukit, " kata dia. 
+
+Kamila yang juga merupakan warga setempat, memilih untuk menyelamatkan diri ke rumahnya, di Kampung Kosambi, Kecamatan Cinangka, Kabupaten Serang, yang berada sekitar 500 meter dari hotel. 
+
+Menurut penuturannya, air laut mulai surut dari daratan <TIMEX3 tid="t17" type="TIME" value="UNKNOWN">sekitar pukul 24.00</TIMEX3>. 
+
+Namun warga belum berani untuk kembali ke arah pantai karena khawatir terjadi gelombang susulan. 
+
+" Apalagi <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> tengah hujan deras, kami para perempuan tetap terjaga di dalam rumah, sementara pemuda dan bapak-bapak ronda di halaman depan, " tutup dia. 
+</TEXT>
+
+</TimeML>

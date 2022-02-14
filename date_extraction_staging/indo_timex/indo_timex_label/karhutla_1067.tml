@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1067</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-07-06" temporalFunction="false" functionInDocument="CREATION_TIME">2015-07-06</TIMEX3></DCT>
+
+<TITLE>Riau Diselumuti Kabut Asap Kiriman dari Sumsel dan Jambi</TITLE>
+
+<TEXT>
+Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Stasiun Pekanbaru menyatakan wilayah Provinsi Riau masih diselimuti kabut asap kiriman akibat kebakaran hutan dan lahan yang terjadi di Provinsi Sumatera Selatan dan Jambi. 
+
+Kepala BMKG Stasiun Pekanbaru, Sugarin mengatakan, kabut asap dari Sumatera Selatan dan Jambi menuju wilayah Riau karena arah angin yang bergerak dari Barat Daya ke Timur Laut. 
+
+Jadi memang sejak <TIMEX3 tid="t1" type="DATE" value="2015-06-29">akhir pekan lalu</TIMEX3> hingga <TIMEX3 tid="t2" type="DATE" value="2015-07-06">hari ini</TIMEX3>, arah angin itu bergerak ke Timur Laut dari Barat Daya. 
+
+Jadi memang mengarah ke negara luar, termsuk Riau mendapatkan asap kiriman, jelasnya. 
+
+asap yang menyelimuti provinsi tersebut terjadi mulai <TIMEX3 tid="t3" type="TIME" value="2015-07-05TNI">malam</TIMEX3> hingga <TIMEX3 tid="t4" type="TIME" value="2015-07-06TMO">pagi hari</TIMEX3>. 
+
+Asap dari kedua provinsi tersebut terbawa angin berhembus dari Selatan ke Barat dengan kecepatan rata-rata 05 sampai 15 knots atau setara 09-29 kilometer per jam. 
+
+Kondisi ini telah mulai terjadi seperti menyelimuti Kota Pekanbaru sejak <TIMEX3 tid="t5" type="DATE" value="2015-07-03">hari Jumat (3/7)</TIMEX3>, sampai <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> dan yang membuat jarak pandang menurun drastis pada <TIMEX3 tid="t7" type="TIME" value="2015-07-05TNI">malam hari</TIMEX3>. 
+
+Selain berasal dari asap kiriman, ditambah lagi dengan asap yang berasal dari kebakaran pada sejumlah kabupaten/kota di Riau, terangnya. 
+
+
+</TEXT>
+
+</TimeML>

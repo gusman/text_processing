@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1103</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-04-15" temporalFunction="false" functionInDocument="CREATION_TIME">2019-04-15</TIMEX3></DCT>
+
+<TITLE>Wali Kota Kendari Tinjau Lokasi Banjir</TITLE>
+
+<TEXT>
+Wali Kota Kendari Sulkarnain Kadir turun langsung meninjau sejumlah lokasi banjir, <TIMEX3 tid="t1" type="DATE" value="2019-04-15">Senin (15/4/2019)</TIMEX3>. 
+
+Adapun wilayah yang terdampak banjir yakni Transito, Jalan Durian, dan BTN Graha Raya. 
+
+Sulkarnain mengatakan, tinjauan ini untuk mengetahui penyebab banjir sekaligus mencari solusi penanganan banjir. 
+
+(. 
+
+Saya sudah menginstruksikan Dinas Pekerjaan Umum dan Penataan Ruang Kota Kendari untuk segera melakukan pembenahan pada kali di Kelurahan Wuawua tersebut, kata Sulkarnain. 
+
+(. 
+
+Sebab, drainase yang mampet akibat sampah menjadi salah satu penyebab banjir. 
+
+Tentunya kita semua berharap segala usaha Pemerintah Kota Kendari mengurangi banjir dapat membuahkan hasil, kata Sulkarnain. 
+
+(b) Kontributor: M Rasman Saputra Editor: Jumriati // BANJIR Wakil Wali Kota Kendari Mussadar Mapasomba saat menemui Kapolres Kendari AKBP Sigid Hariadi di lokasi banjir Kali Wanggu, <TIMEX3 tid="t2" type="DATE" value="2017-05-12">Jumat (12/5/2017)</TIMEX3>. 
+
+(ILHAM SURAHMIN/ZONASULTRA. 
+
+COM) ZONASULTRA. 
+
+COM, KENDARI Wakil Wali Kota Kendari Mussadar Mapasomba, <TIMEX3 tid="t3" type="TIME" value="2017-05-12TAF">Jumat (12/5/2017) sore</TIMEX3>, meninjau warga korban banjir di Kali Wanggu, Kelurahan Wawowanggu, Kecamatan Baruga. 
+
+Mussadar mengatakan kondisi banjir yang menggenangi hampir seluruh rumah warga merupakan sudah kerap kali terjadi dan disini merupakan lokasi yang medannya rendah dan menjadi daerah resapan air. 
+
+Kami pemerintah sebenarnya sudah pernah mencoba untuk memindahkan mereka ketempat yang lebih aman, akan tetapi kita tidak bisa memaksakan kehendak sepihak, ungkap Mussadar. 
+
+. 
+
+Oleh karena itu pemerintah <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> hanya dapat melakukan pelebaran dan pemasangan tanggul yang lebih tinggi agar air tidak terlalu banyak yang meluap keluar hingga ke pekarangan rumah warga. 
+
+Kendati demikian, kader PKS ini menegaskan jika banjir yang terjadi tidak parah. 
+
+. 
+
+Kalaupun kondisinya <TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">nanti</TIMEX3> akan lebih parah maka pihaknya siap <TIMEX3 tid="t6" type="DURATION" value="PT24H">24 jam</TIMEX3> untuk mengambil langkah lebih dulu. 
+
+Sementara itu data Polres Kendari, Kompol Robby Topan Manusiwa mengatakan pihaknya telah menurunkan pasukan gabungan TNI/Polri dan Basarnas sebanyak 125 orang yang akan membantu warga untuk dievakuasi serta melakukan pengawasan akan banjir susulan dan penjagaan keamanan selama banjir masih berlangsung. 
+
+. 
+
+Sejak <TIMEX3 tid="t7" type="TIME" value="2019-04-14T08:00">pukul 08.00 pagi</TIMEX3> kami berada disini bersama TNI, Brimob dan SAR membantu warga dan membangun posko, pungkasnya. 
+
+Untuk diketahui dalam musibah ini tidak menelan korban jiwa dan pihaknya akan meninggalkan lokasi hingga dikategorikan aman dan warga dapat pulang kembali ke rumah. 
+
+(B) Reporter: Ilham Surahmin Editor: Tahir Ose 
+</TEXT>
+
+</TimeML>

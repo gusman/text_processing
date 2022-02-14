@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0676</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-07" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-07</TIMEX3></DCT>
+
+<TITLE>Astaga, Kekeringan di Pasuruan Kian Parah, Usaha Tambak Terancam</TITLE>
+
+<TEXT>
+Wilayah kekeringan di Kabupaten Pasuruan semakin bertambah. 
+
+Pada <TIMEX3 tid="t1" type="DATE" value="2015-08">Agustus lalu</TIMEX3>, wilayah kekeringan mencakup tujuh kecamatan, meliputi Lumbang, Pasrepan, Lekok, Grati, Kejayan, Winongan dan Puspo. 
+
+<TIMEX3 tid="t2" type="DATE" value="2015-10">Awal Oktober</TIMEX3>, satu kecamatan lagi mengalami hal yang sama. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Pasuruan, Bhakti Djati Permana, mengatakan wilayah yang juga kekeringan bertambah, yaitu Kecamatan Nguling. 
+
+" <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> sudah delapan kecamatan dan 23 desa yang kekeringan, " kata Bhakti, <TIMEX3 tid="t4" type="DATE" value="2015-10-07">Rabu (7/10/2015)</TIMEX3>. 
+
+Dijelaskan, Nguling merupakan wilayah yang sebagian warganya memiliki tambak, baik ikan laut maupun air tawar. 
+
+<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, air tambak warga masih dikategorikan cukup. 
+
+Namun, jika kekeringan terus berlanjut, tambak-tambak ikan air tawar dikhawatirkan akan kehabisan air. 
+
+" Warga sudah kesulitan air bersih, " sambungnya. 
+
+Pihak BPBD Kabupaten Pasuruan pun telah mengantarkan air bersih ke desa-desa yang minim air bersih. 
+
+Setiap seminggu sekali mobil tangki air memasok air bersih ke desa-desa secara bergiliran. 
+
+" Tapi kapasitas yang mampu kami salurkan masih belum maksimal karena kekurangan armada, " tuturnya.Terpisah, Satuan Sabhara Polres Pasuruan menurunkan satu unit mobil water cannon berkapasitas 8.000 liter guna membantu menyalurkan air bersih.Kepala Satuan Sabhara Polres Pasuruan, A Firman W, menambahkan mulai <TIMEX3 tid="t6" type="DATE" value="2015-10-07">Rabu (7/10/2015)</TIMEX3> pihaknya mulai memasok air bersih ke desa-desa terdampak kekeringan. 
+
+// " Kami mulai dari Desa Benerwojo, Kejayan. 
+
+Kami akan keliling desa-desa tersebut <TIMEX3 tid="t7" type="SET" value="UNKNOWN">seminggu sekali</TIMEX3>, " imbuh Firman. 
+
+Air bersih yang disalurkan diambil dari sumur bor di wilayah Kejayan. 
+
+Diutamakan warga desa yang ada kecamatan tersebut yang akan mendapat bantuan air bersih. 
+
+Rata-rata, satu kepala keluarga (KK) akan menghabiskan 50 liter air perharinya. 
+
+" Setidaknya, ada tiga desa dengan 550 KK di wilayah Kejayan yang kekeringan. 
+
+Akan kami bantu menyuplai airnya dari wilayah Kejayan juga, " ujarnya. 
+
+Warga Desa Benerwojo, Naimah berseri-seri ketika diberitahu akan ada pembagian air bersih. 
+
+Bak mandinya sudah kosong sejak <TIMEX3 tid="t8" type="DURATION" value="P2D">dua hari</TIMEX3>. 
+
+" Mobilnya datang <TIMEX3 tid="t9" type="TIME" value="2015-10-06T10:00">pukul 10.00 WIB</TIMEX3>, tapi saya sudah antre sejak <TIMEX3 tid="t10" type="TIME" value="2015-10-07TMO">pagi</TIMEX3>. 
+
+Biar kebagian banyak, " tukas Naimah. 
+
+Naimah membawa dua ember ukuran 10 liter. 
+
+Ia sampai bolak-balik lima kali mengambil air dari mobil water cannon. 
+
+" Bak kamar mandi saya penuh lagi dan ada sisa simpanannya juga. 
+
+Bisa buat <TIMEX3 tid="t11" type="DURATION" value="P2D">dua hari</TIMEX3>, " ucap Naimah sumringah. 
+</TEXT>
+
+</TimeML>

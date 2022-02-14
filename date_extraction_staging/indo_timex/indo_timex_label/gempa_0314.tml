@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0314</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-09" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-09</TIMEX3></DCT>
+
+<TITLE>Gempa Tasik, Rumah di Sodonghilir Ambruk</TITLE>
+
+<TEXT>
+Gempa yang berpusat di 54 km barat daya Kabupaten Tasikmalaya <TIMEX3 tid="t1" type="TIME" value="2020-01-08T05:05">pukul 05.05 WIB</TIMEX3> diduga menyebabkan rumah warga di Kampung Gunungbubut RT 17/ 09 Desa Pakalongan Kecamatan Sodonghilir Kabupaten Tasikmalaya ambruk, <TIMEX3 tid="t2" type="DATE" value="2020-01-09">Kamis (9/1/2020)</TIMEX3>. 
+
+Dinding dapur rumah milik Suparti (44) tiba-tiba bergetar dibarengi suara gemuruh. 
+
+Waktu hendak memasak, ada terdengar gemuruh kaca dan dinding lalu saya lari keluar dan dinding rumah ambruk. 
+
+Saya hanya bisa meminta tolong dan istigfar, kata Suparti. 
+
+Beruntung <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3> kedua anak korban sedang berada di rumah adik yang berseberangan dengan rumahnya. 
+
+Tidak ada korban jiwa dari kejadian tersebut, kerugian ditaksir mencapai Rp 45 juta. 
+
+Babinsa dan Binmas dengan Perangkat Desa membantu mengamankan barang-barang yang ada di rumah korban. 
+
+Serta mengevakuasi Supriati bersama dua anaknya. 
+
+Warga diharapkan waspada terkait potensi bencana, apalagi <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> memasuki musim, ujar Babinsa Desa Pakalongan, Koramil <TIMEX3 tid="t5" type="DATE" value="1223">1223</TIMEX3> Sodonghilir Pelda Hermawan. 
+
+(Ibnu Bukhari)*** 
+</TEXT>
+
+</TimeML>

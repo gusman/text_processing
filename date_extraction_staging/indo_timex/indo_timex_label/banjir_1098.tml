@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1098</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-07-26" temporalFunction="false" functionInDocument="CREATION_TIME">2016-07-26</TIMEX3></DCT>
+
+<TITLE>Pasca Banjir, Pemda Konut Salurkan Bantuan Seragam Sekolah</TITLE>
+
+<TEXT>
+Pemerintah kabupaten konawe utara (Konut), Sulawesi tenggara (Sultra), menyalurkan sejumlah bantuan berupa seragam sekolah ke sejumlah sekolah yang menjadi korban banjir. 
+
+Salah satunya SDN 5 andowia kencamatan Andowia. 
+
+Bupati Konut melalui wakil Bupati konut, Raup, bersama sekretaris daerah (Sekda) Marthaya, dan Kadis sosial, Bahrudin Ashad yang turun langsung ke lapangan untuk memberikan bantuan tersebut pada <TIMEX3 tid="t1" type="DATE" value="2016-07-26">Selasa</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2016-07-26">(26/7/2016)</TIMEX3>. 
+
+Dia mengatakan, bantuan yang diberikan berupa wujud keprihatinan pemerintah Konut kepada siswa yang fasilitas sekolahnya rusak akibat tertimpa banjir <TIMEX3 tid="t3" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>, hingga mengalami hambatan dalam proses belajar mengajar. 
+
+Bantuan ini tidak ada lain, bagaimana kita berupaya untuk meningkatkan kembali motovasi dan semangat belajara siswa, agar tercipta ganerasi penerus masyarakat konut yang lebih baik, kata Raup. 
+
+Selain itu, ketua anggota DPRD Konut ini juga, segera memberikan bantuan ke sejumlah sekolah yang fasilitasnya rusak akibat diterjang banjir. 
+
+Kami juga sudah melihat beberapa fasilitas rumah sekolah yang rusak, dan insya allah kita akan bantu untuk memperbaiki semua yang rusak, demi terciptanya dunia pendidikan dikonut yang lebih baik, terangnya. 
+
+Selain itu, Mujiatin kepala sekolah SDN 5 Andowia, merasa sangat bersyukur atas kedatangan wakil bupati Konut ke sekolah yang dipimpinnya, bahkan memberikan bantuan kepada sisiwa sekolah. 
+
+Kami pihak sekolah merasa sangat bersyukur dan berterimakasih kepada wakil bupati Konut beserta timnya yang telah menyalurkan bantuan kepada sisiwa kami, dan kami sangat bangga, karena baru kali ini wakil bupati turun langsung ke sekolah, sebelumnya kami tidak pernah diperhatikan, ucap Suriatin. 
+
+(B) Reporter: Jefri Ipnu Editor: Kiki 
+</TEXT>
+
+</TimeML>

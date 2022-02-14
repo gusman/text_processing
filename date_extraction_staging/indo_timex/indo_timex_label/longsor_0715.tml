@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0715</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-07" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-07</TIMEX3></DCT>
+
+<TITLE>Pembersihan Jalan Claket-Trawas Terkendala Alat Berat, Evakuasi Material Longsor Minim Penerangan</TITLE>
+
+<TEXT>
+Upaya membuka akses di Jalan Raya Claket-Trawas, Desa Claket, Kecamatan Pacet, Kabupaten Mojokerto, masih diterus dilakukan, <TIMEX3 tid="t1" type="TIME" value="2020-02-07TNI">Jumat (7/2/2020) malam</TIMEX3>. 
+
+Akses di Jalan Raya Claket-Trawas sebelumnya tertutup akibat tertimbun material longsoran tebing setinggi 30 meter. 
+
+Pantauan di lapangan, petugas gabungan dari TNI/ Polri bersama anggota TRC BPBD Kabupaten Mojokerto dan masyarakat berjibaku membersihkan material longsor yang menutup akses jalan tersebut. 
+
+. 
+
+Air berwarna coklat dari timbunan material longsor mengakibatkan kondisi jalan beton menjadi licin. 
+
+Beberapa petugas terlihat bekerja sama berupaya menyingkirkan baru berukuran besar yang terbawa longsoran tebing ini. 
+
+Evakuasi material tanah longsor ini berlangsung lama. 
+
+Lantaran, evakuasi terkendala tidak ada alat berat untuk menyingkirkan bongkahan batu besar yang terbawa material longsor tersebut. 
+
+Kondisi di lokasi musibah tanah longsor ini begitu gelap gulita. 
+
+// Petugas memanfaatkan sorot lampu dari mobil rescue sebagai penerangan. 
+
+. 
+
+" Dampak hujan deras mengakibatkan tanah longsor berupa material tanah bercampur batu panjang sekitar 15 meter, " ujar Kepala BPBD Kabupaten Mojokerto, Muhammad Zaini. 
+
+Ia mengatakan, penanganan bencana tanah longsor di Desa Claket <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih dilakukan proses pembersihan material berupa tanah dan bebatuan. 
+
+" Rekomendasi dibutuhkan alat berat untuk evakuasi material longsor di lokasi, " ungkapnya. 
+
+Seperti yang diberitakan, hujan deras dengan intensitas tinggi mengakibatkan sebuah tebing setinggi 30 meter longsor di Desa Claket, Kecamatan Pacet, <TIMEX3 tid="t3" type="DATE" value="2020-02-07">Jumat (7/2/2020)</TIMEX3> sekira <TIMEX3 tid="t4" type="TIME" value="2020-02-06T15:00">pukul 15.00 WIB</TIMEX3>. 
+
+Longsoran berupa tanah bercampur batu berukuran besar berdiameter sekitar lebih dari satu meter itu menimbun jalan raya setempat. 
+
+Akibatnya, akses Jalan Raya Claket menuju Kecamatan Trawas untuk <TIMEX3 tid="t5" type="DURATION" value="PXX">sementara waktu</TIMEX3> terputus karena tertimbun material longsor. 
+</TEXT>
+
+</TimeML>

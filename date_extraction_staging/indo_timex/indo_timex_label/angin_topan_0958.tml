@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0958</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-11" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-11</TIMEX3></DCT>
+
+<TITLE>Paska Rusak, Perbaikan Skybridge Diusulkan Jelang Natal dan Tahun Baru karena Ada Lonjakan Penumpang</TITLE>
+
+<TEXT>
+Perbaikan skybridge penghubung Terminal Tirtonadi dan Stasiun Solo Balapan yang hancur karena amukan angin kencang saat hujan deras diusulkan sebelum <TIMEX3 tid="t1" type="DATE" value="2018-12-25">Hari Raya Natal</TIMEX3> dan <TIMEX3 tid="t2" type="DATE" value="2020-01-01">Tahun Baru 2020</TIMEX3>. 
+
+Kepala Stasiun Kereta Api Solo Balapan Suharyanto mengatakan, setalah diperbaiki dan jalur dibuka kembali, pihaknya lantas mengusulkan perbaikan kepada PT KAI menjelang momen Natal dan <TIMEX3 tid="t3" type="DATE" value="2019-01-01">Tahun Baru</TIMEX3>. 
+
+" Karena ada kejadian kerusakan kita akan mengusulkan perbaikan sekaligus perubahan di skybridge agar tidak terulang, " jelas Suharyanto kepada TribunSolo. 
+
+com, <TIMEX3 tid="t4" type="DATE" value="2019-12-11">Rabu (11/12/2019)</TIMEX3>. 
+
+Namun menurut dia, perubahan, konsep, dan lain sebagainya tetap menjadi keputusan pusat. 
+
+Suharyanto sudah melaporkan kejadian ini pada managemen PT KAI. 
+
+" Kita menunggu respon <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dulu</TIMEX3>, " tutur Suharyanto. 
+
+.Sebelumnya, skybridge atau jembatan penghubung Terminal Tirtonadi dan Stasiun Solo Balapan yang hancur karena amukan angin kencang saat hujan deras sudah selesai dibersihkan pada <TIMEX3 tid="t6" type="DATE" value="2019-12-11">Rabu (11/12/2019)</TIMEX3>. 
+
+.55 <TIMEX3 tid="t7" type="TIME" value="UNKNOWN">WIB</TIMEX3>.Beberapa material seperti pecahan kaca dan beberapa ornamen yang berserakan di lantai skybridge sudah dibersihkan. " Petugas sudah membersihkan puing dari kerusakan tersebut, " papar Suharyanto pada TribunSolo.com.Suharyanto mengatakan, <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> skybridge yang sempat ditutup sementara sudah dibuka kembali. " <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> sudah dibuka kembali, " terang Suharyanto. 
+
+(*) 
+</TEXT>
+
+</TimeML>

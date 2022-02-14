@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0390</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-02" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-02</TIMEX3></DCT>
+
+<TITLE>Bar di Kemang Rugi Ratusan Juta, Manajer: Ini Banjir Terparah</TITLE>
+
+<TEXT>
+Bar bernama Eastern Promise yang berada di Kelurahan Bangka, Mampang Prapatan, Jakarta Selatan menjadi salah satu tempat yang tergenang banjir. 
+
+Menurut Manajer Food and Beverages Eastern Promise, Lens Terwee, semenjak bekerja di bar itu <TIMEX3 tid="t1" type="DATE" value="2007">tahun 2007</TIMEX3>, banjir yang <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> merupakan terparah. 
+
+Pria asal Belanda itu menaksir kerugian mencapai ratusan juta rupiah lantaran banyak perlengkapan bar yang rusak dan harus diganti. 
+
+Misalnya, pihak bar bakal mengganti kulkas chiller, beberapa lantai berbahan kayu, maupun kursi dan bangku. 
+
+" Ini paling parah semenjak <TIMEX3 tid="t3" type="DATE" value="2007">2007</TIMEX3>. 
+
+Banjir ini juga terlalu lama dan tinggi, " ungkapnya kepada TribunJakarta. 
+
+com pada <TIMEX3 tid="t4" type="DATE" value="2020-01-02">Kamis (2/1/2020)</TIMEX3>. 
+
+Lens turut membantu sejumlah karyawan untuk membersihkan bar yang sudah berdiri sejak <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">tahun 1989 itu</TIMEX3>. 
+
+Ia mengatakan sejak <TIMEX3 tid="t6" type="TIME" value="2020-01-01T07:00">pukul 07.00</TIMEX3>, banjir di Kemang sudah mulai berangsur surut.Banjir surut Jalan Kemang Raya bisa dilalui kendaraanJalan Kemang Raya sudah bisa dilalui oleh kendaraan setelah banjir mulai surut. 
+
+// Pantauan Wartawan TribunJakarta. 
+
+com sekira <TIMEX3 tid="t7" type="TIME" value="2020-01-01T11:47">pukul 11.47 WIB</TIMEX3> pada <TIMEX3 tid="t8" type="DATE" value="2020-01-02">Kamis (2/1/2020)</TIMEX3>, jalan tersebut sudah tak tergenang air. 
+
+Sejumlah petugas Sudin Sumber Daya Air Jakarta Selatan masih lalu lalang untuk menyedot air menggunakan mesin pompa di dekat Jembatan Kali Krukut. 
+
+Pascabanjir, terdapat banyak lumpur di Jalan Kemang raya. 
+
+.00 <TIMEX3 tid="t9" type="TIME" value="UNKNOWN">WIB</TIMEX3>. 
+
+" Setelah <TIMEX3 tid="t10" type="TIME" value="2020-01-01T06">jam 6 pagi</TIMEX3> air sudah terlihat surut. 
+
+Sebelumnya air sampai masuk ke dalam gedung, " ungkapnya kepada Wartawan TribunJakarta. 
+
+com di lokasi pada <TIMEX3 tid="t11" type="DATE" value="2020-01-02">Kamis (2/1/2020)</TIMEX3>. 
+
+Sementara itu, beberapa mobil yang terparkir di sekitar lokasi banjir, sudah mulai diangkut menggunakan truk. 
+
+
+</TEXT>
+
+</TimeML>

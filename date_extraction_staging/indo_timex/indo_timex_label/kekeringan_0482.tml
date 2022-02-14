@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0482</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-05</TIMEX3></DCT>
+
+<TITLE>Upaya Global Wakaf-ACT DIY Atasi Krisis Air di Gunungkidul</TITLE>
+
+<TEXT>
+Mengurai permasalahan kekeringan di Kabupaten Gunungkidul memang memerlukan waktu yang cukup panjang, karena kekeringan dan krisis air bersih di wilayah ini terjadi hampir di <TIMEX3 tid="t1" type="SET" value="XXXX-SU">setiap musim kemarau</TIMEX3>. 
+
+Salah satu upaya yang dilakukan Global Wakaf-ACT DIY untuk mengatasi masalah periodik ini adalah dengan membangun sumur wakaf. 
+
+Sumur wakaf ini merupakan program wakaf yang di tujukan untuk mengatasi masalah krisis air bersih di wilayah-wilayah rawan air terutama di Gunungkidul. 
+
+Sampai dengan <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah ada 18 titik sumur wakaf di area Jogjakarta untuk membantu mengatasi masalah kekeringan air bersih. 
+
+Sumur bor yang dibangun di Dusun Plembutan Barat, Desa Plembutan, Kecamatan Playen ini dibangun diatas tanah wakaf Masjid Baiturrahman dan diharapkan dapat membantu keperluan dan aktivitas masjid serta warga Dusun Plembutan Barat, <TIMEX3 tid="t3" type="DATE" value="2019-03-05">Selasa (5/3)</TIMEX3>. 
+
+Ketika <TIMEX3 tid="t4" type="DATE" value="2018-SU">musim kemarau</TIMEX3> kesusahan memperoleh air bersih, sumur-sumur gali sudah mengering dan PDAM hanya mengalir sekali dalam <TIMEX3 tid="t5" type="DURATION" value="P1W">sepekan</TIMEX3>, bahkan ketika <TIMEX3 tid="t6" type="DATE" value="2018-SU">musim kemarau</TIMEX3> tahun <TIMEX3 tid="t7" type="DATE" value="2019-03-04">kemarin</TIMEX3> cukup lama tidak mengalir, ujar ketua RW Sunardi. 
+
+Sumur bor yang dibangun oleh Global Wakaf-ACT DIY ini adalah sumur bor pertama yang dibangun di Dusun Plembutan. 
+
+Ke depannya pemanfaatan sumur ini tidak hanya untuk kebutuhan dan aktivitas masjid, tapi juga untuk kebutuhan dan aktivitas <TIMEX3 tid="t8" type="SET" value="P1D">sehari-hari</TIMEX3> warga. 
+
+Seperti air minum, minum ternak, dan juga untuk mengaliri perkebunan masyarakat, ungkap Sunardi. 
+
+Koordinator Program Sumur Wakaf Kharis menyampaikan, ACT akan terus membangun sumur wakaf walaupun sudah masuk <TIMEX3 tid="t9" type="DATE" value="2018-WI">musim hujan</TIMEX3> karena di Gunungkidul selalu terjadi kekeringan ketika <TIMEX3 tid="t10" type="DATE" value="2018-SU">musim kemarau</TIMEX3>. 
+
+Dengan adanya keberadaan sumur wakaf ini, masyarakat yang biasanya mengalami kesusahan mendapat air bersih. 
+
+<TIMEX3 tid="t11" type="DATE" value="2019">Tahun ini</TIMEX3> sudah lebih lega karena di dusun mereka sudah ada sumber air bersih, yang semoga akan terus mengalir meski memasuki <TIMEX3 tid="t12" type="DATE" value="2018-SU">musim kemarau</TIMEX3>, tuturnya. 
+
+Selama ini kendala mengebor di area Gunungkidul adalah jenis tanahnya yang didominasi bebatuan sehingga cukup sulit untuk ditembus mata bor dan tekstur tanahnya yang berongga sehingga kadang menghabiskan puluhan air truk tangki untuk satu kali pengeboran. 
+
+(*/ila) 
+</TEXT>
+
+</TimeML>

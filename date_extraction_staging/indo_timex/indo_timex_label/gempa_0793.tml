@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0793</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-03" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-03</TIMEX3></DCT>
+
+<TITLE>Gempa Banten - Respon Cepat, Kemensos Kerahkan 11 Kampung Siaga Bencana dan Tagana</TITLE>
+
+<TEXT>
+Kementerian Sosial RI merespon cepat gempa bumi di Banten dengan mengerahkan 11 Kampung Siaga Bencana (KSB) dan Taruna Siaga Bencana (Tagana) Provinsi Banten, <TIMEX3 tid="t1" type="DATE" value="2019-08-02">Jumat</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2019-08-02">2 Agustus 2019</TIMEX3>, <TIMEX3 tid="t3" type="TIME" value="2019-08-02TNI">malam</TIMEX3>. 
+
+" Merespon cepat bencana gempa bumi berkekuatan magnitudo 7.4 yang kemudian dimutakhirkan berkekuatan magnitudo 6,9, maka personel Tagana telah bergerak melakukan evakuasi warga dari wilayah pesisir pantai menuju ke tempat yang lebih tinggi, " tutur Menteri Sosial RI Agus Gumiwang Kartasasmita di Jakarta, <TIMEX3 tid="t4" type="TIME" value="2019-08-02TNI">Jumat malam</TIMEX3>. 
+
+Demikian pula, lanjut Agus, Tagana di wilayah lainnya yang terdampak gempa juga telah bersiaga. 
+
+Yakni 37 Tagana Kota Serang, 200 Tagana Pandeglang, 65 Tagana Kabupaten Serang, 30 Tagana Lebak, 35 Tagana Lampung Selatan, 20 Tagana BAndar Lampung, dan 25 Tagana Bengkulu. 
+
+" Untuk di Pandeglang melalui KSB yang dibentuk setelah tsunami Selat Sunda, sesaat setelah gempa terjadi secara efektif telah membantu masyarakat, " katanya. 
+
+Ia menjelaskan KSB bergerak cepat membantu evakuasi dan mengatur rute evakuasi. 
+
+Selain itu, kata dia, KSB juga memastikan mereka bergerak ke titik lokasi yang aman di ketinggian, dan memberikan penyuluhan ke titik pengungsian setelah ada informasi potensi tsunami telah berakhir pada <TIMEX3 tid="t5" type="TIME" value="2019-08-02T21:35">21.35 WIB</TIMEX3>.KSB tersebut adalah KSB Cigeulis, KSB Sumur, KSB Angsana, KSB Pagelaran, KSB Cibitung, KSB Panimbang, KSB Cibaliung, KSB Carita, KSB Sukaresmi, KSB Sidamukti dan KSB Labuan. " <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> 200 Tagana Pandeglang bersiaga dan berkoordinasi dengan pihak kecamatan dan aparat desa setempat. 
+
+Mereka mulai mengidentifikasi kerusakan rumah dan bangunan, serta memastikan korban yang terdampak, " katanya.Dikatakan Mensos, pihaknya juga segera mengirimkan kebutuhan dasar untuk warga terdampak bencana gempa. 
+
+// Bantuan kebutuhan dasar dikirimkan dari Gudang Logistik Regional milik Kemensos di Bekasi. 
+
+Direktur Jenderal Perlindungan dan Jaminan Sosial Harry Hikmat menambahkan untuk tahap pertama ini dikirimkan bantuan berupa 500 Tenda Gulung, 500 lembar selimut, 800 makanan siap saji, 300 paket lauk pauk, 20 ribu bungkus mie instan. 
+
+Selain itu, lanjut Dirjen, Dinas Sosial Provinsi Banten <TIMEX3 tid="t7" type="TIME" value="2019-08-03TNI">malam ini</TIMEX3> sudah mulai mendistribusikan bantuan darurat berupa tenda, makanan siap saji, perlengkapan anak dan keluraga. 
+
+" Bantuan tersebut akan didistribusikan kepada korban yang rumahnya mengalami rusak berat dan mengungsi. 
+
+" Berita Populer " Seperti yang dialami warga di Kecamatan Mandalawangi, Kecamatan Carita dan kecamatan lain yang terdampak parah di Pandeglang maupun di kabupaten lain yg terdampak, " tutur Dirjen. 
+
+Sementata itu Anggota KSB Cigeulis, Sukron Suryanto menjelaskan pihaknya mengevakuasi warga Desa Banyuasih Kecamatan Cigeleuis untuk mengungsi ke Desa Karang Bolong Kecamatan Cigeleuis. 
+
+Pada <TIMEX3 tid="t8" type="DATE" value="UNKNOWN">saat yang sama</TIMEX3>, KSB juga mengungsikan Warga Desa Citereup Kecamatan Panimbang ke Desa Tarumanagara dan Desa Cigeleuis Kecamatan Cigeleuis. 
+
+Sementara itu Lia Rahmawati, Tagana Kota Serang yang sedang KKN di Desa Sumber Jaya Kecamatan Sumur menceritakan sesaat setelah gempa terjadi ia bersama teman-teman KKN dan warga saling bahu-membahu melakukan evakuasi warga Desa Sumber Jaya, Kecamatan Sumur. 
+
+" Warga melewati hutan menuju ke Hunian Sementara (Huntara) Sumber Jaya. 
+
+Warga membawa tas, karpet, selimut, makanan, tikar gulung. 
+
+Mereka ada yang berlarian dan ada juga yang menggunakan sepeda motor, " tuturnya. 
+
+// Lia menuturkan hingga <TIMEX3 tid="t9" type="TIME" value="2019-08-02TNI">Jumat malam</TIMEX3> pukul <TIMEX3 tid="t10" type="TIME" value="2019-08-02T23:00">23.00 WIB</TIMEX3>, warga berkumpul di mushalla dan tanah lapang yang ada di Huntara Sumber Jaya. 
+
+Di Huntara ini <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> juga masih tinggal sejumlah warga yang terdampak tsunami Selat Sunda <TIMEX3 tid="t12" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+Seperti diketahui Badan Meterologi, Klimatologi dan Geofisika (BMKG) menyatakan bahwa telah terjadi gempa magnitudo 6.9 pada <TIMEX3 tid="t13" type="TIME" value="2019-08-02T19:03">pukul 19.03 WIB</TIMEX3> yang berlokasi 147 km barat daya Sumur, Banten. 
+
+Peringatan dini tsunami yang disebabkan gempa berakhir pada <TIMEX3 tid="t14" type="TIME" value="2019-08-02T21:35">pukul 21.35 WIB</TIMEX3>. 
+
+(Rilis Kementerian Sosial RI/*)Berita Terkait 
+</TEXT>
+
+</TimeML>

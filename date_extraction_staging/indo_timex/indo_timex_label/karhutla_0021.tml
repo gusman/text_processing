@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0021</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-23" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-23</TIMEX3></DCT>
+
+<TITLE>Pemantauan Satelit Hanya Dua Titik Api</TITLE>
+
+<TEXT>
+KEPALA Badan Meteorologi Klimatologi dan Geofisika (BMKG) Meulaboh-Nagan Raya, Edi Darlupti mengatakan dari pemantauan satelit hanya terlihat dua titik api di wilayah barat-selatan Aceh yaitu di Nagan Raya dan Aceh Singkil. 
+
+Sedangkan asap yang mengepung wilayah Aceh Barat karena kebakaran lahan masyarakat. 
+
+Edi meminta masyarakat menghentikan kegiatan bakar membakar ketika berkebun. 
+
+Ia juga berharap pemerintah daerah dan lembaga terkait di wilayah itu perlu secepatnya melakukan upaya pencegahan sehingga pembakaran lahan segera dihentikan. 
+
+Potensi hujan masih belum dapat kita ketahui. 
+
+Sedangkan suhu wilayah Aceh Barat dan sekitarnya 33 derajat Celsius, kata Edi. 
+
+Wakil Ketua Majelis Permusyawaratan Ulama (MPU) Aceh Barat, Tgk Khairul Azhar MA kembali mengimbau masyarakat untuk melaksanakan shalat istisqa (shalat minta hujan) agar hujan turun lagi seperti <TIMEX3 tid="t1" type="DURATION" value="PXW">beberapa pekan</TIMEX3> silam. 
+
+Mari kita minta kepada Allah SWT semoga hujan segera turun. 
+
+Lakukan zikir dan shalat minta hujan, imbaunya. 
+
+Menurut Tgk Khairul, kemarau ektrem bukan saja memunculkan kabut asap dan mengganggu pernapasan tetapi juga kekeringan sawah, matinya tanaman dan berbagai dampak lainnya. 
+
+(riz) 
+</TEXT>
+
+</TimeML>

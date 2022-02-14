@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0419</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Video Penampakan Daerah Terparah di Palu dan Kondisi Pesisir Pantai Usai Dihantam Tsunami</TITLE>
+
+<TEXT>
+Seorang warga merekam kondisi bangunan yang telah rata dengan tanah setelah gempa berkekuatan 7,4 SR melanda Donggala, Palu, Sulawesi Tengah, <TIMEX3 tid="t1" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3>. 
+
+Pada video terlihat bangunan yang telah rata dengan tanah, sementara masyarakat terlihat mengecek lokasi tersebut. 
+
+. 
+
+Karena bangunan yang rubuh, jalan utama pun tidak terlihat karena tertututp timbunan bangunan. 
+
+Sementara pada video lain, tampak sebuah masjid masih kokoh berdiri di antara reruntuhan bangunan yang berserakan di sekitar masjid. 
+
+Bahkan, bangunan lain berupa menara di masjid tidak terlihat ada tanda kerusakan. 
+
+Video lain memperlihatkan kondisi pesisir pantai yang ada di Teluk Palu. 
+
+Terlihat tiang listrik miring sekitar 15 derajat namun kabel masih tersambung dengan tiang listrik lainnya. 
+
+Bangunan sekitar pantai pun juga rata dengan tanah. 
+
+Serta puing-puing bangunan telah berserakan. 
+
+// Sementara itu, kondisi yang hampir serupa juga diungkapkan Humas Badan Nasional Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho. 
+
+Hal ini diungkapkan Sutopo melalui Twitter miliknya, Sutopo_PN, <TIMEX3 tid="t2" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3>. 
+
+Sutopo juga mengatakan jika jumlah korban semakin bertambah namun tidak menginformasikan secara mendetail jumlah korban. 
+
+" Kondisi kerusakan di pesisir dan rumah sakit di Kota Palu. 
+
+. 
+
+Evakuasi terus dilakukan. 
+
+Potensi nasional digerakkan membantu penanganan darurat di Palu dan Donggala, " tulis Sutopo. 
+</TEXT>
+
+</TimeML>

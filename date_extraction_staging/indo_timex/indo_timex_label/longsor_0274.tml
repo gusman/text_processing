@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0274</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-11-08" temporalFunction="false" functionInDocument="CREATION_TIME">2015-11-08</TIMEX3></DCT>
+
+<TITLE>Tebing Tujuh Meter di Bogor Longsor, Sebuah Rumah Rusak Tertimpa</TITLE>
+
+<TEXT>
+Sebuah rumah warga di Kampung Cincau RT <TIMEX3 tid="t1" type="DATE" value="2015-02">02/02</TIMEX3>, Kelurahan Gudang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat rusak tertimpa longsorang tebing. 
+
+Tebing setinggi sekitar tujuh meter tersebut menimpa rumah milik Yuniarti (30) pada <TIMEX3 tid="t2" type="TIME" value="2015-11-07T00:30">pukul 00.30 WIB</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2015-11-08">Minggu (8/11/2015)</TIMEX3>. 
+
+Yuniarti menceritakan, awalnya ia sedang menonton televisi di ruang tengah rumah. 
+
+Tiba-tiba ia mendengar suara gemuruh dari belakang rumah. 
+
+" Saya dengar suara seperti gempa dari belakang rumah. 
+
+Makin lama suaranya makin kencang. 
+
+Pas saya tengok bagian dapur hancur, " katanya kepada TribunnewsBogor. 
+
+com. 
+
+Yuniarti beserta suami dan dua anaknya langsung mengamankan diri keluar rumah. 
+
+Saat di luar rumah, suara gemuruh masih terus terdengah hingga <TIMEX3 tid="t4" type="DURATION" value="PT5M">sekitar lima menit</TIMEX3> lamanya.Setelah suara gemuruh sudah tak terdengar, ia kembali mengecek ke dalam rumah dan melihat kondisi dapur dan kamar mandi rumahnya sudah hancur.Tumpukan beton tebingan serta tanah memenuhi bagian dapur dan kamar mandi. 
+
+// " Alhamdulillah tidak ada korban jiwa. 
+
+Saya langsung lapor pihak kelurahan dan nggak lama mereka datang, " ungkapnya. 
+
+Ia menuturkan, saat kejadian, kondisi cuaca sedang tidak turun hujan. 
+
+Hujan justru terjadi pada <TIMEX3 tid="t5" type="TIME" value="2015-11-07TAF">sore harinya</TIMEX3>. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Kini</TIMEX3>, ia dan keluarganya terpaksa haru mengungsi ke rumah keluarganya. 
+
+Kasie Logistik dan Kedaruratan Badan Penanggulangan Bencana Daerah (BPBD) Kota Bogor, Budi Hendrawan mengatakan pihaknya melakukan langkah antisipasi agar longsoran tidak kembali terjadi. 
+
+" Kita lakukan penutupan longsoran tebing menggunakan terpal, agar bila hujan <TIMEX3 tid="t7" type="DATE" value="FUTURE_REF">nanti</TIMEX3> tidak akan menggerus longsoran. 
+
+Kita juga tebang pohon yang berada di dekat longsoran, " jelasnya. 
+
+
+</TEXT>
+
+</TimeML>

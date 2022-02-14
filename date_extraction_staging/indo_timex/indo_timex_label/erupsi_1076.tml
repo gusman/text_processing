@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_1076</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-09-26" temporalFunction="false" functionInDocument="CREATION_TIME">2017-09-26</TIMEX3></DCT>
+
+<TITLE>Gunung Agung Berstatus Awas - Aktivitas Gunung Agung Meningkat, Magma Bergerak ke Permukaan</TITLE>
+
+<TEXT>
+Aktivitas vulkanik Gunung Agung terus meningkat, <TIMEX3 tid="t1" type="DATE" value="2017-09-26">Selasa (26/9/2017)</TIMEX3>. 
+
+Pergerakan magma ke permukaan juga makin meningkat, mengindikasikan magma terus bergerak ke permukaan. 
+
+Indikasi itu terlihat dari meningkatnya frekuensi gempa vulkanik dalam, gempa vulkanik dangkal dan gempa tektonik lokal. 
+
+Berdasarkan pantauan Pos Pengamatan Gunung Agung PVMBG, jumlah gempa vulkanik dalam 564 kali, gempa vulkanik dangkal 547 kali, dan gempa tektonik lokal 89 kali pada <TIMEX3 tid="t2" type="DATE" value="2017-09-25">Senin (25/9/2017)</TIMEX3>. 
+
+Jumlah gempa itu lebih banyak dari sebelumnya. 
+
+Gunung Agung <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> memasuki fase kritis. 
+
+Meski sudah dinyatakan status Awas (level IV) sejak <TIMEX3 tid="t4" type="DATE" value="2017-09-22">22/9/2017</TIMEX3>, namun bukan jaminan akan meletus. 
+
+" Tergantung pada kekuatan dorongan magma. 
+
+Jika kekuatan dorongan besar dan mampu menjebol sumbat lava maka akan terjadi letusan, " kata Sutopo Purwo Nugroho, Kepala Pusat Data Informasi dan Humas BNPB, <TIMEX3 tid="t5" type="DATE" value="2017-09-26">Selasa (26/9/2017)</TIMEX3>. 
+
+Menurut Sutopo, peluang terjadi letusan cukup besar namun tidak dapat dipastikan waktunya.Radius berbahaya tetap, yaitu 9 km dan tambahan 12 km di sektoral utara-timur laut dan 12 km di sektor tenggara-selatan-barat daya. 
+
+Zona berbahaya harus dikosongkan.Mayoritas masyarakat di zona tersebut telah mengungsi. 
+
+Jumlah pengungsi hingga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah mencapai 57.428 jiwa di 357 titik yang tersebar di 9 kabupaten/kota di Bali.Sebaran jumlah pengungsi tersebut di Kabupaten Badung 3 titik (328 jiwa), Kabupaten Bangli 28 titik (4.690 jiwa), Kabupaten Buleleng 24 titik (8.518 jiwa), Kota Denpasar 26 titik (2.212 jiwa), Kabupaten Gianyar 9 titik (137 jiwa), Jembrana 4 titik (82 jiwa), Kabupaten Karangasem 84 titik (21.280 jiwa), Kabupaten Klungkung 162 titik (19.456 jiwa), Kabupaten Tabanan 17 titik (715 jiwa). 
+
+(Robinson Gamar)Berita ini sudah tayang di kompas.com dengan judul: Aktivitas Gunung Agung Meningkat, 57 Ribu Jiwa Mengungsi 
+</TEXT>
+
+</TimeML>

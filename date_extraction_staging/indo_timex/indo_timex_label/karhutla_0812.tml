@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0812</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-31" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-31</TIMEX3></DCT>
+
+<TITLE>Dinkes Pekanbaru Imbau Waspadai Lima Penyakit Akibat Kabut Asap</TITLE>
+
+<TEXT>
+Kabut asap bekas Kebakaran Lahan dan Hutan (Karlahut) menyelimuti Kota Pekanbaru, <TIMEX3 tid="t1" type="DATE" value="2019-07-30">Selasa (30/7/2019)</TIMEX3>. 
+
+Dinas Kesehatan Kota Pekanbaru mengimbau agar masyarakat waspadai sejumlah penyakit sebagai dampak kabut asap. 
+
+Ada sejumlah penyakit sebagai dampak kabut asap yakni Infeksi Saluran Pernafasan Akut (ISPA), asma, iritasi mata, penyakit paru kronik hingga penyakit jantung. 
+
+" Jadi masyarakat kami imbau untuk antisipasi semua penyakit yang merupakan dampak kabut asap, " jelas Plt Kepala Dinas Kesehatan Kota Pekanbaru, Muhammad Amin, <TIMEX3 tid="t2" type="DATE" value="2019-07-30">Selasa (30/7/2019)</TIMEX3>. 
+
+Menurutnya, dinas sudah menyampaikan agar puskesmas di Kota Pekanbaru menyiapkan ruangan khusus bagi pasien ISPA. 
+
+Hal ini untuk mempercepat akses layanan kesehatan bagi pasien ISPA yang terkena dampak kabut asap. 
+
+Ia menyebut bahwa anak-anak, ibu hamil dan lansia rentan kena dampak kabut asap. 
+
+" Maka kami sediakan ruangan khusus ISPA di puskesmas, " terangnya. 
+
+Amin berharap agar kondisi seperti <TIMEX3 tid="t3" type="DATE" value="2015">tahun 2015</TIMEX3> tidak terulang. 
+
+<TIMEX3 tid="t4" type="DATE" value="PAST_REF">Saat itu</TIMEX3> kualitas udara di Kota Pekanbaru sempat menyentuh level berbahaya. 
+
+(akn) 
+</TEXT>
+
+</TimeML>

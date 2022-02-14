@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0193</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-19</TIMEX3></DCT>
+
+<TITLE>Warga Kesulitan Air Bersih, Polres Bintan Kerahkan Water Cannon</TITLE>
+
+<TEXT>
+Kepolisian Resor (Polres) Bintan mengirimkan bantuan air bersih bagi warga yang mengalami kekeringan air di Gang Natuna Kampung Jawa RT 01 RW 02 dan Perumahan Buana Asri RT 04 RW 02 Kelurahan Sei Lekop, Kecamatan Bintan Timur. 
+
+Dalam proses penyuplaian kendaraan taktis (rantis) water cannon Kepolisian Resor (Polres) Bintan dikerahkan ke lokasi pemukiman warga. 
+
+Kapolres Bintan, AKBP Boy Herlambang menyampaikan, water cannon banyak membantu warga pada saat musim kemarau. 
+
+Selain membantu memadamkan api jika terjadi kebakaran hutan dan lahan (karhutla) di wilayah hukum Polres Bintan. 
+
+" Kendaraan ini juga membantu menyuplai air ke warga yang mengalami kekeringan air di Bintan, " ujar Boy, <TIMEX3 tid="t1" type="DATE" value="2019-09-19">Kamis (19/9/2019)</TIMEX3>. 
+
+Boy juga menyebutkan, penyuplaian air bersih sudah dilakukan <TIMEX3 tid="t2" type="DATE" value="2019-09-18">Rabu (18/9/2019) kemarin</TIMEX3>. 
+
+Penyuplaian air ini juga atas laporan yang diterima dari Satgas Korwil Melayu Raya bahwa warga di Gang Natuna Kampung Jawa RT 01 RW 02 dan Perumahan Buana Asri RT 04 RW 02 Kelurahan Sei Lekop, Kecamatan Bintan Timur telah mengalami kekeringan. 
+
+" Informasinya di sana warga sudah kesulitan mendapatkan air bersih untuk kebutuhan <TIMEX3 tid="t3" type="SET" value="P1D">sehari-hari</TIMEX3>, maka dari itu tanpa membuang waktu kita langsung menyuplai air ke sana, " tuturnya.Adapun kendaraan yang dikerahkan untuk menyuplai air bersih yaitu kendaraan water cannon.Air bersih yang diberikan kepada warga diambil dari Waduk Bintan Buyu lalu melakukan pendistribusian air bersih kepada warga. " Kalau untuk jumlah warga yang dibantu sebanyak 80 KK dan air bersih yang didistribusikan sekitar 16 ton, <TIMEX3 tid="t4" type="DATE" value="PAST_REF">saat itu</TIMEX3>, " tutupnya. 
+
+(tribunbatam.id/alfandi simamora) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0193</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-29</TIMEX3></DCT>
+
+<TITLE>Sedang Tidur Lelap saat Hujan, Satu Keluarga Tewas Tertimbun Longsor</TITLE>
+
+<TEXT>
+Bencana tanah longsor di Buleleng, Bali kembali menelan korban jiwa. 
+
+Kali ini, satu keluarga tertimbun longsor hingga semuanya meninggal dunia. 
+
+Peristiwa tragis tersebut terjadi pada <TIMEX3 tid="t1" type="TIME" value="2019-01-28T05:00">pukul 05.00</TIMEX3> Wita dan menimpa satu keluarga di Banjar Sangker, Desa Mengening, Kubutambahan, Buleleng, Bali, <TIMEX3 tid="t2" type="DATE" value="2019-01-29">Selasa (29/1/2019)</TIMEX3>. 
+
+Dari informasi yang diterima Tribun Bali, awal mula petaka tanah longsor bermula dari hujan lebat secara terus menerus sejak <TIMEX3 tid="t3" type="DATE" value="2019-01-29">Selasa</TIMEX3> dini hari. 
+
+Nahas, satu keluarga atas nama Ketut Budikaca yang sedang terlelap tidur menjadi korban tanah longsor. 
+
+Sementara itu mengutip dari laman resmi BPBD Kabupaten Buleleng, peristiwa bencana longsor menyebabkan satu keluarga tewas tertimpa tanah longsor. 
+
+Korban meninggal dunia atas nama Ketut Budikaca (33 tahun), Luh Sentiani (27 tahun), Putu Rikasih (9 tahun), Kadek Sutama. 
+
+Semua korban ditemukan dalam keadaan meninggal. 
+
+Merespon bencana longsor tersebut, BPBD Kabupaten Buleleng langsung menurunkan tim TRC menuju lokasi kejadian untuk melakukan evakuasi dan pertolongan. 
+
+Sementara itu, dikonfirmasi terpisah Kepala Pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Buleleng, Ida Bagus Suadnyana menuturkan, lokasi terjadinya bencana termasuk wilayah yang rawan terjadinya tanah longsor. 
+
+Rumah keluarga yang menjadi korban tewas tersebut berada dalam perbukitan rawan longsor. 
+
+// Pohon tumbang juga banyak terjadi. 
+
+" Rumah penduduk di sini termasuk daerah rawan longsor, karena tanahnya gembur dan tak ada tanaman keras, " ucapnya singkat. 
+
+Ida Bagus Suadnyana menuturkan, satu dari penyebab terjadinya longsor adalah tidak adanya tanaman keras di perbukitan tersebut, sehingga ketika terjadi hujan, tidak ada yang menahan air. 
+
+" Tanaman keras diganti dengan tanaman bunga, selain itu tanah di sana gembur, sehingga ketika kering <TIMEX3 tid="t4" type="DATE" value="2019-02-05">seminggu kemudian</TIMEX3> diguyur hujan maka terjadi longsor, " paparnya kepada tribun-bali. 
+
+com. 
+
+Seperti diberitakan sebelumnya, peristiwa tanah longsor juga terjadi di Karangasem, bencana tanah longsor menghantam rumah yang dihuni tiga kepala keluarga (KK) di Banjar Dinas Jatituhu, Ban, Kecamatan Kubu, Karangasem, pada <TIMEX3 tid="t5" type="TIME" value="2019-01-27TNI">Minggu (27/1) malam</TIMEX3>, menyisakan kisah tragis. 
+
+Saat kejadian warga kalang kabut. 
+
+Kondisi di rumah gelap. 
+
+Dipikiran korban hanya satu yakni keluar dari dalam rumah, dan menyelamatkan diri dari bencana. 
+
+Beberapa korban tertimpa reruntuhan bangunan hingga mengalami luka serius di bagian wajah dan ada beberapa yang patah tulang. 
+
+Ni Ketut Tirta, korban longsor menambahkan, dua orang cucunya juga menjadi korban longsor, yakni Ni Luh Ari (10) dan Gede Napendra. 
+
+Kedua cucunya itu alami luka dibagian hidungnya, dan tangannya. 
+
+Ada juga anak kecil berumur <TIMEX3 tid="t6" type="DURATION" value="P4Y">sekitar 4 tahun</TIMEX3> patah kaki bagian kiri, dan dirujuk ke RSUD Karangasem. " Korban longsor masih keluarga. 
+
+Saya tidak menyangka kejadian akan seperti ini. 
+
+Sampai <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> saya masih syok. " // " Kepikiran cucu, dan keluarga yang telah meninggal dunia, " kata Ni Ketut Tirta dengan nada sedih, sembari mengeluarkan air mata. 
+
+Ditambahkan, sebelum kejadian sekitar rumah diguyur hujan sejak <TIMEX3 tid="t8" type="TIME" value="2019-01-28TAF">sore hari</TIMEX3>. 
+
+Intensitas hujan kecil. 
+
+Pihaknya mengaku tak menyangka kejadian nahas ini terjadi. 
+
+Tak ada tanda, dan geteran apapun saat kejadian. 
+
+" Tiba-tiba longsor datang dan hantam rumah, " imbuh Ni Ketut Tirta. 
+
+<TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> Ni Ketut Tirta berharap, kedua cucu dan keluarganya segera sembuh. 
+
+<TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> mereka sudah dirawat di RSUD Karangasem. 
+
+Sedangkan dua jenazah korban yang meninggal msih dititipkan di Puskesmas Kubu. 
+
+" Satu orang meninggal ditempat. 
+
+Dan satu lagi meninggal di Puskesmas, " akuinya. 
+
+Seperti diberitakan sebelumnya, tanah longsor di Desa Ban, Kubu, Karangasem menyebabkan dua orang tewas, yakni Ni Ketut Puspa dan Ni Komang Mertini.Sejumlah korban lain mengalami luka-luka, dan dirawat di puskesmas setempat serta RSUD Karangasem.Kadek Jirna (35), salah-satu korban selamat dalam longsor di Jatituhu itu menjelaskan bahwa semua korban sedang menonton film di rumah Nengah Suarta saat kejadian. 
+
+// Mereka tidak memiliki firasat apapun sebelum kejadian. 
+
+Tanda-tanda akan terjadi longsor juga tak mereka rasakan. 
+
+<TIMEX3 tid="t11" type="DATE" value="PAST_REF">Saat itu</TIMEX3> para korban sedang bersenda gurau sembari melihat tayangan film di televisi. 
+
+" Rumah saya dengan paman I Nengah Suarta dekat. 
+
+Rumah korban lainnya juga masih satu pekarangan. 
+
+Makanya kita semua ngumpul jadi satu nonton TV, " kata Kadek Jirna saat ditemui <TIMEX3 tid="t12" type="TIME" value="2019-01-28T23:00">sekitar pukul 23.00</TIMEX3> Wita, <TIMEX3 tid="t13" type="DATE" value="2019-01-27">Sabtu (27/1)</TIMEX3>, di RSUD Karangasem. 
+
+Saat asyik menonton TV itu, tiba-tiba kejadian nahas menimpa. 
+
+Tebing setinggi sekitar tujuh meter di belakang rumah mereka ambruk, dan menimpa rumah I Nengah Suarta. 
+
+Tiga KK yang berada di dalam rumah kalang kabut. 
+
+Atap rumah dan dindingnya ambruk menimpa yang berada di dalam. 
+
+Sebagian korban berusaha keluar. 
+
+" Saat kejadian saya langsung keluar rumah. 
+
+Cuma istri saya, Ni Komang Mertini meninggal dunia. 
+
+Anak pertama saya berumur <TIMEX3 tid="t14" type="DURATION" value="P10M">10 bulan</TIMEX3> juga sedang dirawat di RSUD Karangasem, " kata Jirna dengan nada sedih. 
+
+Jirna tak menyangka peristiwa nahas nimpa keluarganya. 
+
+Informasi di lapangan menyebutkan, akibat kejadian itu dua orang tewas. 
+
+Sedangkan yang mengalami luka-luka antara lain I Nengah Suarta, Ni Kadek Nitasari, Ketut Sukartawan, Ni Wayan Ari Kartika Dewi, serta Kadek Ari Wirawan. 
+
+<TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> mereka dirawat di Puskesmas Kubu dan RSUD Karangasem. 
+
+Luka mereka cukup parah. 
+</TEXT>
+
+</TimeML>

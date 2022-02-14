@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0373</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Pemkot Bekasi Kirim 3 Tim Relawan ke Banten, Bantu Evakuasi Bencana Tsunami</TITLE>
+
+<TEXT>
+Pemerintah Kota Bekasi mengirim tim relawan ke Banten untuk membantu evakuasi korban bencana gelombang tsunami yang terjadi di Selat Sunda pada, <TIMEX3 tid="t1" type="TIME" value="2018-12-22TNI">Sabtu (22/12/2018) malam</TIMEX3>. 
+
+Wali Kota Bekasi Rahmat Effendi melepas langsung keberangkatan tim relawan yang terdiri dari 10 orang anggota Badan Penanggulangan Bencana Daerah (BPBD) Kota Bekasi, 5 orang anggota PMI Kota Bekasi, dan 5 orang Pramuka Kota Bekasi. 
+
+" Jadi ada tiga tim yang tergabung dalam tim relawan yang dikirim Kota Bekasi <TIMEX3 tid="t2" type="DATE" value="2018-12-23">hari ini</TIMEX3> untuk membantu evakuasi bencana tsunami di Banten, " kata Rahmat di Kantor BPBD Kota Bekasi, Jalan Jenderal Ahmad Yani, Bekasi Selatan, <TIMEX3 tid="t3" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>. 
+
+Rahmat mengatakan, tim relawan ini diharapkan dapat membantu saudara-saudara korban bencana tsunami tersebut. 
+
+" Mudah-mudahan tim ini bisa sedikit banyak membantu pencarian korban dan evakuasi korban yang terdampak tsunami, " kata Rahmat. 
+
+Selain itu kata dia, empat orang warga Kota Bekasi dipastikan menjadi korban gelombang tsunami saat mereka tengah berlibur di Pantai Anyer. 
+
+Kehadiran tim relawan juga sekaligus diharapkan dapat mengakomodir pencarian korban yang berasal dari Kota Bekasi. 
+
+" Karena memang ada warga Kota Bekasi dari Kecamatan Medan Satria yang empat orang belum ditemukan, mudah-mudahan mereka cepat ditemukan dan dalam kondisi selamat, " ungkap Rahmat. 
+
+Dia juga mendapat laporan bahwa warga lain di Kecamatan Bekasi Selatan dikabarkan jadi korban bencana gelombang tsunami di Banten. 
+
+Namun dia memastikan korban tersebut selamat. 
+
+" Ada beberapa dari kelurahan Pekayon Bekasi Selatan, mereka juga sedang berlibur ke sana (Banten) alhamdulilah informasinya mereka selamat, hanya empat orang warga itu tadi saja yang belum ditemukan, " jelas dia. 
+
+Keempat orang yang hilang diantaranya Masnadi, Sulaiman, Soleh dan Nurhasan, mereka dikabarkan hilang hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> belum ditemukan. 
+
+Selain itu, terdapat satu korban luka yakni Nurdin.Korban merupakan rombongan dari pengurus Partai Golkar tingkat Kelurahan Pejuang yang berlibur ke Pantai Anyer sejak, <TIMEX3 tid="t5" type="TIME" value="2018-12-22TAF">Sabtu (22/12) siang</TIMEX3> tiba di lokasi. 
+
+. 
+
+Adapun jumlah rombongan pengurus Partai Golkar tingkat Kelurahan Pejuang yang ikut berlibur ke Pantai Anyer berjumlah 65 orang. 
+
+Kegiatan berlibur itu digelar dalam rangka silaturahmi sekaligus family gathering antar pegurus. 
+
+
+</TEXT>
+
+</TimeML>

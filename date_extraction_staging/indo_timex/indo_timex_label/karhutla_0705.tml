@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0705</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-30" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-30</TIMEX3></DCT>
+
+<TITLE>Korban Kebakaran Hutan: Saya Terus Berlari saat Lihat Kobaran Api Terbang</TITLE>
+
+<TEXT>
+Kebakaran hutan pinus di petak 49 hutan Desa Ngilo-ilo, Ponorogo menjadi kenangan buruk bagi Toiman (42) dan Madin (48). 
+
+Kedua orang itu menjadi korban selamat saat api membakar hutan pinus. 
+
+Seperti warga lainnya yang berniat gotong royong untuk memadamkan api yang membakar hutan pinus. 
+
+Toiman bergabung bersama warga lainnya untuk memadamkan api. 
+
+Tapi saat warga berupaya untuk melokalisir api di kawasan hutan mendadak ada angin puting beliung. 
+
+Angin itu malahan dengan cepat membawa kobaran api ke udara. 
+
+" Angin bercampur kobaran api itu jadinya api beliuang yang dengan cepat membakar kawasan hutan pinus. 
+
+Sehingga banyak warga yang terjebak di tengah kobaran api, " ungkapnya kepada Surya, <TIMEX3 tid="t1" type="DATE" value="2015-10-30">Jumat (30/10/2015)</TIMEX3>. 
+
+Mengatahui bencana itu Toiman kemudian berlari sekencang-kencangnya ke arah puncak bukit. 
+
+Namun api yang merembet dari bawah bukit itu seolah terus mengejarnya. 
+
+" Saya terus lari meski api ada di belakang saya. 
+
+Sampai tenaga saya terkuras habis dan hampir pingsan, " tuturnya. 
+
+Api beliuang itu dengan cepat melalap hutan pinus mulai dari bawah sampai ke atas puncak bukit. 
+
+Dari kejauhan api malahan terlihat membakar sampai puncak pohon pinus yang tingginya mencapai 30 - 40 meter. " Teman-teman yang menjadi korban karena kehabisan oksigen setelah dikepung api, " tambahnya.Sementara Madin menceritakan lolos dari kobaran api karena berlari ke arah hutan yang tidak terbakar. 
+
+" Setelah api membesar kami lari ke arah barat, " ungkapnya. 
+
+// Namun Madin sempat cemas karena angin puting beliung yang disertai kobaran api itu semakin membesar. 
+
+Kobaran api itu terjadi <TIMEX3 tid="t2" type="TIME" value="2015-10-29T11:15">sekitar pukul 11.15 WIB</TIMEX3> dan berlangsung selama <TIMEX3 tid="t3" type="DURATION" value="PTXM">beberapa menit</TIMEX3> ke arah barat. 
+
+" Dalam tempo <TIMEX3 tid="t4" type="DURATION" value="PT1M">satu menit</TIMEX3> api sudah membesar mulai dari bawah sampai ke atas bukit. 
+
+Apalagi pohon pinus yang ada getahnya membuat api tetap membara, " ungkapnya. 
+
+Warga juga mengaku heran dengan musibah kebakaran yang baru pertama kali terjadi. 
+
+" Sejak saya menjadi pencari getah baru kali ini ada kebakaran besar, " ungkapnya. 
+
+Sebelumnya hanya ada kebakaran kecil yang segera dapat dipadamkan bersama masyarakat. 
+
+Namun kebakaran kali ini berlangsung cepat dan meluas melalap areal lahan hutan pinus puluhan hektar. 
+
+Korban selamat lainnya bernama Parman yang sebenarnya ikut rombongan 4 korban kebakaran hutan pinus. 
+
+Namun Parman terus berlari sekuat tenaga menghindari kobaran api. 
+
+Korban sempat jatuh pingsan dan segera mendapat pertolongan masyarakat. 
+
+Malahan Parman sempat dirujuk ke rumah sakit. 
+
+" Pak Parman ini bersama rombongan Pak Suyitno, mandor Perhutani yang menjadi korban, " ungkapnya. 
+
+
+</TEXT>
+
+</TimeML>

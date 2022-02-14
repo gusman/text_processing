@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0677</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-03-30" temporalFunction="false" functionInDocument="CREATION_TIME">2017-03-30</TIMEX3></DCT>
+
+<TITLE>Puluhan Sumur di Desa Motaain Tercemar Pasca Banjir</TITLE>
+
+<TEXT>
+Sepuluh sumur permanen dan belasan sumur semi permanen di Desa motaain, Kecamatan Malaka Barat tercemar pasca banjir yang melanda desa tersebut, pada <TIMEX3 tid="t1" type="DATE" value="2017-03-27">Senin (27/3/2017) lalu</TIMEX3>. 
+
+Akibatnya, masyarakat setempat harus mencari sumur yang belum tercemar untuk memenuhi kebutuhan air <TIMEX3 tid="t2" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+Hal ini diungkapkan Sekertaris Desa Motaain, Markus Atok saat ditemui pos kupang, <TIMEX3 tid="t3" type="DATE" value="2017-03-30">Kamis (30/3/2017)</TIMEX3> di kantor desa setempat. 
+
+Ia mengatakan, pihaknya sudah memasukkan laporan kerugian akibat bencana banjir kepada pemerintah malaka. 
+
+Dijelaskannya, terdapat tiga dusun di desa motaain yang mendapat imbas paling parah akibat bencana banjir tersebut. 
+
+Tiga dusun tersebut yaitu, dusun Sukaerlaku, Debukametan dan Doroklaran. 
+
+Terdapat sekitar 20-an sumur tercemar akibat lumpur yang dibawa banjir. 
+
+" 10 sumur permanen yang tercemar akibat banjir ini memiliki dinding (cincin, red) yang pendek sehingga lumpur yang terbawa banjir masuk ke dalam. 
+
+Sedangkan belasan sumur semi permanen, belum memiliki dinding/ nyaris rata dengan tanah, " ungkap Atok. 
+
+(*) 
+</TEXT>
+
+</TimeML>

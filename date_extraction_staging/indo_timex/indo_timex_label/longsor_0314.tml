@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0314</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-29" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-29</TIMEX3></DCT>
+
+<TITLE>Evakuasi Longsor Santanamekar Dihentikan, BPBD Kota Ikut Bantu</TITLE>
+
+<TEXT>
+Misi evakuasi korban longsor di Kampung Palasari RT. 
+
+<TIMEX3 tid="t1" type="DATE" value="2020-02-01">01/02</TIMEX3> Desa Santanamekar Kecamatan Cisayong Kabupaten Tasikmalaya terhenti melihat kondisi cuaca dan medan di lapangan. 
+
+Tim gabungan yakni BPBD Kab dan Kota, TNI (Kodim, TNI AU, Koramil), SAR POS Tasikmalaya, PMI, Tagana Kabupaten Tasikmalaya bahu membahu hingga <TIMEX3 tid="t2" type="DATE" value="2020-02-29">Sabtu (29/2/2020)</TIMEX3> menjelang <TIMEX3 tid="t3" type="TIME" value="2020-02-28TAF">sore</TIMEX3>. 
+
+Kita sifatnya hanya membantu, ada 10 personil dengan peralatan SAR di lapangan. 
+
+Medannya cukup luas meski banyak orang yang terlibat, ujar Kepala Pelaksana BPBD Kota Tasikmalaya, Ucu Anwar. 
+
+Ia mengatakan 10 personil tersebut akan bergabung kembali <TIMEX3 tid="t4" type="DATE" value="2020-03-01">esok</TIMEX3> hari. 
+
+Pasalnya di lokasi masih terdapat ancaman longsor susulan dan membahayakan tim evakuasi. 
+
+Setelah tadi selesai <TIMEX3 tid="t5" type="TIME" value="2020-02-28TAF">sore</TIMEX3> ditarik <TIMEX3 tid="t6" type="DATE" value="PAST_REF">dahulu</TIMEX3>, <TIMEX3 tid="t7" type="DATE" value="2020-03-01">besok</TIMEX3> bergabung kembali. 
+
+Ancaman longsor susulan terlihat dari rekahan di tebing, menurut informasi juga tak lama setelah longsor pertama terjadi longsor susulan beberapa kali, ujarnya menambahkan. 
+
+Sebagaimana diketahui, di kampung tersebut terjadi longsor <TIMEX3 tid="t8" type="DATE" value="2020-02-28">Jumat</TIMEX3> sekira <TIMEX3 tid="t9" type="TIME" value="2020-02-28T05:00">pukul 05.00</TIMEX3> WIb. 
+
+Tebing setinggi 30 meter membawa material sepanjang lebih dari 1,5 km yang memutus jembatan penghubung ke dua kampung dan satu desa. 
+
+*** 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0294</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-02-21" temporalFunction="false" functionInDocument="CREATION_TIME">2017-02-21</TIMEX3></DCT>
+
+<TITLE>Lagi, Boalemo Diterjang Banjir</TITLE>
+
+<TEXT>
+Kabupaten Boalemo lagi-lagi dirundung bencana. 
+
+Hujan deras yang mengguyur wilayah Kabupaten Boalemo sejak Senin(20/2)siang, menyebabkan banjir dan tanah longsor di beberapa wilayah. 
+
+Berdasarkan informasi dari Dinas Sosial dan Pemberdayaan Masyarakat Desa (Dinsos-PMD), Desa Tangga Barito Kecamatan Dulupi, khususnya wilayah KM 25 hingga 26 tergenang air dengan ketinggian sekitar 1 meter. 
+
+Banjir bandang menerjang 30 rumah yang ada di wilayah itu. 
+
+Air merangsek ke dalam rumah mulai dari <TIMEX3 tid="t1" type="TIME" value="2017-02-20T16:00">pukul 16.00 WITA</TIMEX3> atau <TIMEX3 tid="t2" type="TIME" value="2017-02-20T16:00">jam 4 sore</TIMEX3>. 
+
+Hingga berita ini diturunkan, belum ada bantuan evakuasi yang bisa menembus lokasi tersebut. 
+
+Dikarenakan oleh kendala tanah longsor yang terjad di KM 21 hingga KM 24. 
+
+Pelaksana Tugas (Plt) Kepala Dinas Sosial dan Pemberdayaan Masyarakat Desa (Dinsos-PMD) Kabupaten Boalemo Syafruddin Lamusu yang diwawancarai RADAR Gorontalo melalui telepon seluler menjelaskan bahwa hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihaknya masih bersiaga. 
+
+Menurutnya, tim evakuasi mengalami kesulitan untuk bisa menembus KM 25 dan 26. 
+
+Untuk menuju ke lokasi kami masih terkendala dengan longsor. 
+
+Bahu jalan tergerus air hingga separuh jalan amblas. 
+
+Dan sebagian jalan lainnya tertimbun longsoran dari atas bukit. 
+
+Gundukan tanah menghalangi jalan. 
+
+Bisa saja dilewati, namun hanya dengan cara berjalan kaki. 
+
+Itupun harus ekstra hati-hati, sebaba kondisi jalan licin dan berair, ungkap Syafruddin. 
+
+Selain Desa Tangga Barito Kecamatan Dulupi, bencana banjir juga mengancam wilayah Kecamatan Wonosari. 
+
+Ia menuturkan, kurang lebih <TIMEX3 tid="t4" type="TIME" value="2017-02-20T21:00">sekitar pukul 21.00</TIMEX3>, air sungai Dimito terpantau naik akibat curah hujan yang tinggi. 
+
+Naiknya air sungai Dimito ini juga dipengaruhi oleh kiriman air dari Desa Tangga Barito Kecamatan Dulupi. 
+
+Informasi yang kami terima sekarangi ini, sungai di Desa Bongo II semakin naik. 
+
+Kami khawatir bila hujan terus turun di kawasan pegunungan, maka air ini bisa meluap dan berpotensi menerjang rumah warga yang ada di Desa Sukamaju, Bongo I hingga Diloato. 
+
+<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, kami meminta warga untuk tetap waspada, ucapnya. 
+
+Sementara itu, berdasarkan informasi yang berhasil diperoleh RADAR Gorontalo, proses evakuasi warga berlangsung dramatis. 
+
+Ini disebabkan oleh aliran listrik yang padam di wilayah yang tergenang. 
+
+(RG-59) 
+</TEXT>
+
+</TimeML>

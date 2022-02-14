@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1091</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-21" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-21</TIMEX3></DCT>
+
+<TITLE>Besok, Panglima TNI dan Kapolri Sambangi Korban Banjir di Konut</TITLE>
+
+<TEXT>
+Panglima TNI Marsekal Hadi Tjahjanto dan Kapolri Jenderal Polisi Tito Karnavian dijadwalkan datang langsung menyambangi warga korban banjir bandang di wilayah Kabupaten Konawe Utara (Konut), Sulawesi Tenggara (Sultra) <TIMEX3 tid="t1" type="DATE" value="2019-06-22">besok</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2019-06-22">Sabtu (22/6/2019)</TIMEX3>. 
+
+Bupati Konut Ruksamin mengatakan kunjungan Panglima TNI dan Kapolri di wilayah Bumi Oheo itu untuk melihat langsung kondisi masyarakat yang terdampak banjir bandang, serta meninjau posko-posko pengusian dan jembatan penghubung Trans Sulawesi yang berada di Kecamatan Asera. 
+
+<TIMEX3 tid="t3" type="DATE" value="2019-06-22">Besok</TIMEX3> Pak Panglima TNI dan Kapolri tiba di Kendari, <TIMEX3 tid="t4" type="TIME" value="2019-06-20T11:35">pukul 11.35</TIMEX3> Wita sudah berada di Konawe Utara, mendarat di pelataran Kantor Bupati Konut. 
+
+Selanjutnya, menuju ke Pos Komando Penaggulangan Korban Banjir di Rumah Jabatan Bupati Konut. 
+
+Setelah kami menerima, Pak Panglima TNI dan Kapolri selanjutnya meninjau saudara-saudara kita yang dilanda banjir, kata Ruksamin di Posko Induk Korban Banjir Konut, <TIMEX3 tid="t5" type="DATE" value="2019-06-21">Jumat (21/6/2019)</TIMEX3>. 
+
+. 
+
+Masyarakat kita yang di Desa Tapuwatu rumahnya hanyut dan <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> berada di posko pengungsian wilayah Tangguluri. 
+
+Pak Panglima TNI dan Kapolri juga akan meninjau jembatan penghubung Asera yang sudah kami benahi, yang sebelumnya putus diterjang banjir bandang, serta melihat kondisi masyarakat dan melihat penanganan tim penanggulangan bencana mulai dari TNI, Polri, BNPB, Basarnas, BPBD, medis, PMI dan tim relawan lainnya yang turut andil, ujarnya. 
+
+Ditanyai soal kesiapan, Ruksamin mengungkapkan, untuk dari Pemda Konut, telah menyiapkan khusus mulai dari tempat dan kegiatan kunjungan. 
+
+Namun, tak semewah acara seremonial biasanya dikarenakan kondisi keadaan yang dalam situasi darurat. 
+
+Dipastikan, acaranya sederhana tapi penuh hikmah. 
+
+Kami dari pemerintah dan masyarakat Konawe Utara menyampaikan terima kasih banyak kepada Panglima dan Kapolri dan pak Kasat TNI Angkatan Udara (AU) beserta seluruh jajarannya, yang mana di tengah-tengah kesibukan memikirkan negeri ini masih menyempatkan waktu melihat kondisi di Konawe Utara, terangnya. 
+
+(B) 
+</TEXT>
+
+</TimeML>

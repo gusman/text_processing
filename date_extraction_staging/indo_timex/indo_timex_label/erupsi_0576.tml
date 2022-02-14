@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0576</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-11-26" temporalFunction="false" functionInDocument="CREATION_TIME">2017-11-26</TIMEX3></DCT>
+
+<TITLE>Gunung Agung Kembali Erupsi, Warga di Kawasan Rawan Bencana III dan II Kembali Mengungsi</TITLE>
+
+<TEXT>
+Gunung Agung kembali erupsi. 
+
+Warga di sekitar lereng Gunung Agung dibuat khawatir. 
+
+Sebagian masyarakat yang berada di Kawasan Rawan Bencana (KRB) III dan II terpaksa kembali mengungsi karena khawatir dan takut dengan aktivitas Gunung Agung. 
+
+<TIMEX3 tid="t1" type="DATE" value="2017-11-25">Sabtu (25/11/2017) kemarin</TIMEX3>, Bandesa Adat Besakih, Jro Mangku Widiarta menjelaskan, letusan Gunung <TIMEX3 tid="t2" type="TIME" value="2017-11-25TAF">sore tadi</TIMEX3> sempat kagetkan warga di sekitar Besakih. 
+
+<TIMEX3 tid="t3" type="TIME" value="2017-11-24TNI">Malam tadi</TIMEX3> sebagian masyarakat kembali mengungsi ke daerah lebih rendah, seperti Desa Rendang, Pesaban, Sidemen, dan Klungkung. 
+
+" Walaupun ada letusan, tapi warga tak panik. 
+
+Warga yang khawatir dan takut tetap mengungsi, yang masih nyaman tetap tinggal di rumah. 
+
+Tadi memang ada berapa warga yang mengungsi, " kata dia. 
+
+Untuk hujan abu, akuinya, belum sampai ke Besakih. 
+
+Bau belerang juga tak tercium. 
+
+Aktivitas warga masih tetap berjalan, tidak ada gangguan. 
+
+Warga tetap dihimbau agar waspada, dan berhati - hati menyusul kondisi Gunung yang prihatiinkan. 
+
+" Jangan sampai ada korban lah, " harapnya. 
+
+Informasi yang dihimpun Tribun Bali, warga yang berada di KRB III lantaran khawatir. 
+
+Seperti di Desa Adat Sogra, Kecamatan Selat, Desa Amerta Bhuana Kecamatan Selat, Pempatan Kecamatan Rendang, serta Yeh Kori Desa Jungutan, Kecamatan Bebandem. 
+
+Warganya mengungsi.Kepala Sub Bidang Mitigasi Gunung Berapi, Devy Kamil Syahbana meminta warga di radius 6 kilo ditambah perluasan sektoral 7.5 kilo ke arah utara, timur laut, tenggara, dan selatan barat daya, tak melakukan aktivitas apapun.Warga harus tenang dan ikuti rekomendasi dari PVMBG. 
+
+// Abu erupsi Gunung Agung berketinggian 1.500 meter dari puncak kawah gunung. 
+
+Asap kelabu kehitaman bertekanan sedang. 
+
+Jenis letusan ini masih belum bisa dipastikan lantaran masih dalam penelitian. 
+
+Apakah letusan ini termasuk letusan freaktif atau letusan freatomagmatif. 
+
+. 
+
+Apakah ada material magma baru (juvenile) atau tidak. 
+
+Seandainya ada, maka erupsi <TIMEX3 tid="t4" type="DATE" value="2017-11-25">kemarin</TIMEX3> akan bernama erupsi freato - magmatik. 
+
+" Jika juvenile tidak signifikan maka erupsi <TIMEX3 tid="t5" type="DATE" value="2017-11-25">kemarin</TIMEX3> akan bernama erupsi freatik, " ungkap Devy Kamil Syahbana. 
+
+Sampai <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> hipotesis kami adalah erupsi freatik karena kita tidak melihat adanya ramp up (peningkatan) kegempaan vulkanik yang signifikan sebelum terjadinya erupsi. 
+
+Sebelumnya telah terjadi erupsi Gunung Agung pada <TIMEX3 tid="t7" type="TIME" value="2017-11-25T17:30">pukul 17:30</TIMEX3> Wita. 
+
+Kolom abu teramati berwarna kelabu-kehitaman bertekanan sedang setinggi <TIMEX3 tid="t8" type="DATE" value="1500">1500</TIMEX3> meter di atas puncak Gunung Agung. 
+
+// Masyarakat agar tetap tenang dan tetap mengikuti rekomendasi PVMBG pada status Level III (Siaga) yaitu agar tidak melakukan aktivitas apapun di dalam radius 6 km ditambah perluasan sektoral sejauh 7.5 km ke arah Utara-Timurlaut, Tenggara dan Selatan-Baratdaya. 
+
+VONA color code: ORANGE. 
+
+Rekomendasi:1. 
+
+Masyarakat di sekitar G. 
+
+Agung dan pendaki/pengunjung/wisatawan agar tidak berada, tidak melakukan pendakian dan tidak melakukan aktivitas apapun di Zona Perkiraan Bahaya yaitu di dalam area kawah G. 
+
+Agung dan di seluruh area di dalam radius 6 km dari Kawah Puncak G. 
+
+Agung dan ditambah perluasan sektoral ke arah Utara-Timurlaut dan Tenggara-Selatan- Baratdaya sejauh 7.5 km. 
+
+Zona Perkiraan Bahaya sifatnya dinamis dan terus dievaluasi dan dapat diubah sewaktu-waktu mengikuti perkembangan data pengamatan G. 
+
+Agung yang paling aktual/terbaru. 
+
+Daerah yang terdampak antara lain Dusun Br. 
+
+Belong, Pucang, dan Pengalusan (Desa Ban); Dusun Br. 
+
+Badeg Kelodan, Badeg Tengah, Badegdukuh, Telunbuana, Pura, Lebih dan Sogra (Desa Sebudi); Dusun Br. 
+
+Kesimpar, Kidulingkreteg, Putung, Temukus, Besakih dan Jugul (Desa Besakih); Dusun Br. 
+
+Bukitpaon dan Tanaharon (Desa Buana Giri); Dusun Br. 
+
+Yehkori, Untalan, Galih dan Pesagi (Desa Jungutan); dan sebagian wilayah Desa Dukuh.2. 
+
+Jika erupsi terjadi maka potensi bahaya lain yang dapat terjadi adalah terjadinya hujan abu lebat yang melanda seluruh Zona Perkiraan Bahaya. 
+
+Hujan abu lebat juga dapat meluas dampaknya ke luar Zona Perkiraan Bahaya bergantung pada arah dan kecepatan angin. 
+
+Pada saat rekomendasi ini diturunkan, angin bertiup dominan ke arah Selatan-Tenggara. 
+
+Oleh karena itu, diharapkan agar hal ini dapat diantisipasi sejak dini terutama dalam menentukan lokasi pengungsian.3. 
+
+Mengingat adanya potensi bahaya abu vulkanik yang dapat mengakibatkan gangguan pernapasan akut (ISPA) pada manusia maka diharapkan seluruh masyarakat, utamanya yang bermukim di sekitar G. 
+
+Agung maupun di Pulau Bali, segera menyiapkan masker penutup hidung dan mulut maupun pelindung mata sebagai upaya antisipasi potensi bahaya abu vulkanik.4. 
+
+Pemerintah Daerah beserta jajarannya maupun BNPB agar segera membantu dalam membangun jaringan komunikasi melalui telepon seluler (Grup WhatsApp) maupun komunikasi melalui radio terintegrasi untuk mengatasi keterbatasan sinyal telepon seluler di antara pihak-pihak terkait mitigasi bencana letusan G. 
+
+Agung. 
+
+Diharapkan agar proses diseminasi informasi yang rutin dan cepat dapat terselenggara dengan baik. 
+
+// 5. 
+
+Seluruh pemangku kepentingan di sektor penerbangan agar terus mengikuti perkembangan aktivitas G. 
+
+Agung secara rutin karena data pengamatan dapat secara cepat berubah sehingga upaya-upaya preventif untuk menjamin keselamatan udara dapat dilakukan.6. 
+
+Seluruh pihak agar menjaga kondusivitas suasana di Pulau Bali, tidak menyebarkan berita bohong (hoax) dan tidak terpancing isu-isu tentang erupsi G. 
+
+Agung yang tidak jelas sumbernya.7. 
+
+Pusat Vulkanologi dan Mitigasi Bencana Geologi, Badan Geologi terus berkoordinasi dengan Pemerintah Daerah, BNPB, BPBD Provinsi Bali dan BPBD Kabupaten Karangasem dalam memberikan informasi tentang aktivitas G. 
+
+Agung.8. 
+
+Masyarakat di sekitar G. 
+
+Agungdan pendaki/pengunjung/wisatawan diharap untuk tetap tenang namun tetap menjaga kewaspadaan dan mengikuti imbauan Pemerintah Daerah, Pemerintah Kabupaten/Kota, BPBD Provinsi/Kabupaten/Kota beserta aparatur terkait lainnya sesuai dengan rekomendasi yang telah dikeluarkan oleh Pusat Vulkanologi dan Mitigasi Bencana Geologi, Badan Geologi sehingga jika diperlukan upaya-upaya mitigasi strategis yang cepat, dapat dilakukan dengan segera dan tanpa menunggu waktu yang lama.9. 
+
+Seluruh masyarakat maupun Pemerintah Oaerah, BNPB, BPBD Provinsi Bali, BPBD Kabupaten Karangasem, dan instansi terkait lainnya dapat memantau perkembangan tingkat aktivitas maupun rekomendasi G. 
+
+Agung setiap saat melalui aplikasi MAGMA Indonesia yang dapat diakses melalui website https://magma. 
+
+vsi. 
+
+esdm. 
+
+go. 
+
+id atau melalui aplikasi Android MAGMA Indonesia yang dapat diunduh di Google Play. 
+
+Partisipasi masyarakat juga sangat diharapkan dengan melaporkan kejadian-kejadian yang berkaitan dengan aktivitas G. 
+
+Agung melalui fitur Lapor Bencana. 
+
+Para pemangku kepentingan di sektor penerbangan dapat mengakses fitur VONA (Volcano Observatory Notice for Aviation. 
+
+Sumber Data:Pusat Vulkanologi dan Mitigasi Bencana GeologiBadan GeologiKementerian Energi dan Sumber Daya Mineral 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0484</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-03</TIMEX3></DCT>
+
+<TITLE>Selain Bantuan Logistik, Kodam V/Brawijaya Siapkan 1500 Pasukan Bantu Korban Gempa di Palu-Donggala</TITLE>
+
+<TEXT>
+Pangdam V Brawijaya, Mayjend TNI Arif Rahman mengaku siap bila personelnya diminta untuk membantu korban tsunami dan gempa di Kota Palu dan Donggala, Sulawesi Tengah. 
+
+Hal tersebut disampaikannya seusai pemberangkatan empat truk berisi sejumlah bantuan logistik ke Sulawesi Tengah pada <TIMEX3 tid="t1" type="TIME" value="2018-10-02">Selasa (2/10/2018) pagi</TIMEX3>. 
+
+Arif menegaskan kembali, pihaknya mengaku siap memberikan bantuan personel dari Kodam V/Brawijaya yang diperuntukan pada proses evakuasi para korban maupun hal lain. 
+
+Menurutnya, sudah ada beberapa batalyon dalam kondisi siap siaga, mulai Batalyon Arhanud, Yonif Raider 500/Sikatan, sampai Batalyon Kavaleri. 
+
+Kata Arif, bila ditotal, ada sekitar 1.500 pasukan dalam keadaan siap siaga. 
+
+Semua (pasukan) siap bila sewaktu-waktu dibutuhkan. 
+
+Jumlah personel kami siapkan ada dua batalyon. 
+
+Dari batalyon 500 Raider, ada juga dari batalyon Kavaleri dan batalyon Arhanud, imbuh Mantan Gubernur Akademi Militer (Akmil) itu. 
+
+Para personel tersebut, sambung alumnus Akmil <TIMEX3 tid="t2" type="DATE" value="1988">1988 ini</TIMEX3>, sudah memenuhi kualifikasi untuk membantu menangani berbagai hal. 
+
+
+</TEXT>
+
+</TimeML>

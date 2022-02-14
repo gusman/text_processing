@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0651</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-26" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-26</TIMEX3></DCT>
+
+<TITLE>Tanggulangi Kekeringan yang Melanda Pamekasan Madura, BPBD Distribusikan 1.848 Tangki Air Bersih</TITLE>
+
+<TEXT>
+Badan Penanggulangan Bencana Daerah (BPBD) Pamekasan mendistribusikan sebanyak 1.848 tangki bantuan air bersih ke desa-desa yang dilanda kekeringan dan kekurangan air bersih di wilayah Kabupaten Pamekasan, Madura, Jawa Timur, <TIMEX3 tid="t1" type="DATE" value="2019-09-26">Kamis (26/9/2019)</TIMEX3>. 
+
+Dari jumlah bantuan sebanyak itu dikirim ke 325 dusun di 80 desa yang tersebar di 11 kecamatan di Kabupaten Pamekasan. 
+
+Supervisor Pusdal Ops BPDB Pamekasan, Budi Cahyono mengatakan, kekeringan kekurangan air bersih di 325 dusun yang tersebar di wilayah Pamekasan berdampak pada 212.321 jiwa yang terdiri dari 71.032 kepala keluarga. 
+
+Pengiriman air bersih itu kata Budi Cahyono dilakukan dari <TIMEX3 tid="t2" type="TIME" value="2019-09-26TMO">pagi hari</TIMEX3> hingga <TIMEX3 tid="t3" type="TIME" value="2019-09-25TNI">malam hari</TIMEX3>. 
+
+Hal itu dilakukan BPBD Pamekasan untuk memenuhi kebutuhan air bersih bagi warga Pamekasan yang dilanda kekeringan. 
+
+" Desa-desa yang dilanda kekeringan ini bukan hanya di sekitar Kota Pamekasan saja, akan tetapi banyak di antaranya di pelosok desa, seperti di wilayah utara Pamekasan, " katanya kepada TribunMadura. 
+
+com. 
+
+Budi Cahyono mengaku, dalam pendistribusian air bersih, BPBD Pemkab Pamekasan juga melibatkan kelompok relawan, seperti Forum Relawan Penanggulangan Bencana Daerah (FRPB), kelompok sosial peduli lingkungan dan organisasi kemasyarakatan lainnya. " Lembaga pendidikan, dan pondok pesantren, serta tempat-tempat ibadah yang digunakan untuk kepentingan masyarakat umum, menjadi prioritas bantuan distribusi air bersih yang dilakukan Pemkab Pamekasan ini, " ujarnya. 
+
+// Sementara, dari sebanyak 80 desa yang <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> dilanda kekeringan tersebut, BPBD Pemkab Pamekasan mencatat sebanyak 47 mengalami kering langka. 
+
+Sedangkan 33 desa sisanya mengalami kering kritis. 
+
+Kekeringan kritis terjadi karena pemenuhan air di dusun mencapai 10 liter lebih per orang per hari. 
+
+Jarak yang ditempuh masyarakat untuk mendapatkan ketersediaan air bersih sejauh 3 kilometer bahkan lebih. 
+
+Sementara yang dimaksud dengan kering langka, kebutuhan air di dusun itu di bawah 10 liter saja per orang, per hari. 
+
+" Jarak tempuh dari rumah warga ke sumber mata air terdekat, sekitar 0,5 kilometer hingga 3 kilometer, " ungkapnya. 
+
+Budi Cahyono menjelaskan, <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> Pemkab Pamekasan juga berupaya melakukan penanganan kasus kekeringan ini secara terintegratif, dengan melibatkan instansi dinas terkait di lingkungan Pemkab Pamekasan. 
+
+
+</TEXT>
+
+</TimeML>

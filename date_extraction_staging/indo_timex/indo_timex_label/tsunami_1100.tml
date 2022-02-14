@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1100</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-26" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-26</TIMEX3></DCT>
+
+<TITLE>Air Mata Ifan Seventeen Terus Saja Menentes</TITLE>
+
+<TEXT>
+Saat prosesi pemakaman istrinya yang meninggal akibat tsunami di Tanjung Lesung, Banten. 
+
+Sesekali Ifan terlihat mengusapnya. 
+
+Prosesi pemakaman Dylan di Tempat Pemakaman Umum (TPU) Tamanarum, Ponorogo <TIMEX3 tid="t1" type="TIME" value="2018-12-26TAF">siang itu</TIMEX3> dihadiri oleh ratusan pelayat. 
+
+Mereka adalah orang tua almarhum, saudara, kerabat, tetangga, teman dan juga warga Ponorogo. 
+
+Bahkan para pelayat sudah hadir sebelum iring-iringan jenazah tiba di pemakaman. 
+
+Sekira <TIMEX3 tid="t2" type="TIME" value="2018-12-25T11:30">pukul 11.30 WIB</TIMEX3> jenazah tiba di pemakaman. 
+
+Selanjutnya, prosesi pemakaman dilakukan. 
+
+Sebelum dimasukkan liang lahat, peti berwarna putih pun dibuka. 
+
+Jenazah pun dimasukkan ke liang lahat. 
+
+Usai memakamkan istri tercintanya, Ifan menyampaikan rasa terimakasih kepada masyarakat Ponorogo dan juga rekan-rekannya. 
+
+Saya berterimakasih kepada warga, dan saya menyampaikan permohonan maaf. 
+
+Jika istri saya melakukan kesalahan mohon dimaafkan, dan semoga istri saya mendapatkan tempat terbaik, ucap Ifan dengan suara terbata-bata. 
+
+Saat menyampaikan hal itu, sesekali Ifan berhenti berucap. 
+
+Ia menghela napas sembari terus bersikap tegar. 
+
+Ifan sedikit menceritakan mengenai bencana tersebut. 
+
+Dengan suara berat, Ifan menyampaikan bahwa <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3> air datang dengan sangat tiba-tiba. 
+
+Dirinya pun tidak menyangka hal itu akan terjadi. 
+
+Bahkan Ifan mengatakan, ketinggian air bah sampai setinggi lima meter. 
+
+Ketinggian air lima meter dan cukup kencang, tembok dengan setebal setengah meter bisa roboh. 
+
+Lantai bisa tergulung, dan saya terseret, urainya. 
+
+Ifan juga mengatakan, dirinya <TIMEX3 tid="t4" type="TIME" value="2018-12-26TNI">malam itu</TIMEX3> juga sudah berusaha untuk mencari keberadaan istrinya tersebut. 
+
+Tetapi, upaya tersebut tidak membuahkan hasil. 
+
+Bahkan dirinya sempat terombang ambing lebih kurang <TIMEX3 tid="t5" type="DURATION" value="PT2H">dua jam</TIMEX3> di lautan. 
+
+Saya terombang ambing di lautan lebih kurang <TIMEX3 tid="t6" type="DURATION" value="PT2H">dua jam</TIMEX3>, ungkapnya. 
+
+Tetapi, saat ditanya bagaimana dirinya bisa selamat dari amukan air bah <TIMEX3 tid="t7" type="TIME" value="2018-12-26TNI">malam itu</TIMEX3>, Ifan langsung meminta maaf kepada awak media dan pamit untuk kembali. 
+
+(apl/JPC) 
+</TEXT>
+
+</TimeML>

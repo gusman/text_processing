@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0776</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-02-14" temporalFunction="false" functionInDocument="CREATION_TIME">2014-02-14</TIMEX3></DCT>
+
+<TITLE>Hirup udara abu vulkanik, puluhan pengungsi di Pujon pingsan</TITLE>
+
+<TEXT>
+Para pengungsi yang berada di kecamatan Pujon, Malang, terlihat banyak yang pingsan karena menghirup udara abu vulkanik Gunung Kelud. 
+
+Warga yang pingsan langsung mendapat perawatan di Puksemas maupun rumah sakit terdekat di Kota Batu. 
+
+Salah satu pengungsi, Supriyadi mengatakan, warga yang mengungsi di Pujon berasal dari Dusun Maron, Ngantruk, Monjung, Desa Mulyorejo, Dusun Kambal, Ngeramban, Kecamatan Pujon. 
+
+" Warga di sini berasal dari beberapa desa, " katanya, <TIMEX3 tid="t1" type="DATE" value="2014-02-14">Jumat (14/2/2014)</TIMEX3>. 
+
+Sementara itu, hingga <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> kondisi pengungsian di Pujon serta Kota Batu sangat membutuhkan bantuan dari masyarakat baik makanan maupun minuman, serta obat-obatan. 
+
+
+</TEXT>
+
+</TimeML>

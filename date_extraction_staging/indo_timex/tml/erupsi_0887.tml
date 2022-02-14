@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0887</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-05-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-05-24</TIMEX3></DCT>
+
+<TITLE>Terdengar Suara Gemuruh, Gunung Merapi Kembali Erupsi Pukul 10.48 WIB</TITLE>
+
+<TEXT>
+Gunung Merapi baru saja kembali erupsi.
+
+Berdasarkan pantauan Tribun Jogja melalui CCTV BPPTKG Yogyakarta saat ini, tercatat pada pukul 10.48 WIB erupsi terlihat di CCTV BPPTKG yang terpasang di Pos Pengamatan Stasiun Merbabu, Kamis (24/5/18).
+
+Hingga berita ini diturunkan, informasi sementara yang bisa dikumpulkan, erupsi berdurasi selama 2 menit dengan tinggi kolom mencapai 1500 meter dengan arah letusan masih ke barat.
+
+Amplitudo erupsi tercacat mencapai 44 mm.
+
+.
+
+Sejak pukul 00.00 hingga pukul 11.10 WIB hari ini, tercatat Gunung Merapi telah erupsi dua kali.
+
+Erupsi pertama terjadi pada pukul 02.56 WIB mengakibatkan hujan abu disertai pasir.
+
+Erupsi kedua terjadi pada pukul 10.48 WIB.
+
+
+</TEXT>
+
+</TimeML>
+

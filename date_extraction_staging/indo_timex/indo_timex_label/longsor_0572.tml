@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0572</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-19</TIMEX3></DCT>
+
+<TITLE>Jalan Asam Baru Putus</TITLE>
+
+<TEXT>
+Ruas Jalan Trans Kalimantan Sampit-Pangkalan Bun, tepatnya di dekat Jembatan Asam Baru, Desa Asam Baru, Kecamatan Danau Seluluk, Kabupaten Seruyan, mengalami longsor dan ambruk, <TIMEX3 tid="t1" type="TIME" value="2019-11-18TAF">Senin (18/11) siang</TIMEX3>. 
+
+Akibatnya satu-satunya jalur penghubung trans Kalimantan, terutama pada jalur Sampit-Pangkalan Bun putus dan menyebabkan kemacetan kendaraan cukup panjang. 
+
+Diduga penyebab terjadinya kejadian ini, akibat hujan deras yang turun <TIMEX3 tid="t2" type="DATE" value="PXX">beberapa waktu sebelumnya</TIMEX3>, sehingga gorong-gorong yang berjarak sekitar 10 meter dari Jembatan Asam Baru, Desa Asam Baru itu amblas. 
+
+Wakil Ketua DPRD Seruyan M Aswin yang berada di lokasi menuturkan, amblasnya gorong-gorong itu terjadi <TIMEX3 tid="t3" type="TIME" value="2019-11-18T14:00">sekitar pukul 14.00 WIB</TIMEX3>. 
+
+Gorong-gorong itu berjarak sekitar 10 meter dari Jembatan Asam Baru. 
+
+Memang hanya terbuat dari material seng, mungkin lantaran sudah termakan usia hingga amblas dengan sendirinya, kata M Aswin. 
+
+Seorang pengemudi mobil bernama Ferdi, kepada Tabengan, menuturkan, peristiwa itu terjadi secara mendadak, tiba-tiba saja jalan tersebut ambruk dan putus di saat terjadi hujan. 
+
+Sebuah truk yang melintasi ruas jalan juga sempat terjebak dan bannya tertinggal di bagian belakang. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> pengendara, baik dari arah Pangkalan Bun maupun Sampit, tidak bisa melewati jalan tersebut, ungkapnya. 
+
+Terpisah, Kepala Dinas PUPR Provinsi Kalimantan Tengah (Kalteng) Shalahuddin, ketika dikonfirmasi di Palangka Raya, <TIMEX3 tid="t5" type="TIME" value="2019-11-18TAF">Senin sore</TIMEX3>, membenarkan amblasnya eks gorong-gorong aramco atau oprit Jalan Asam Baru arah Sampit tersebut. 
+
+Menurut Shalahuddin, berdasarkan laporan Pejabat Pembuat Komitmen (PPK) di sana, kondisi lapangan <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> alat berat sudah digerakkan menuju tempat kejadian untuk melakukan penanggulangan. 
+
+<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> sudah dilakukan penanganan darurat. 
+
+<TIMEX3 tid="t8" type="TIME" value="2019-11-19TAF">Sore ini</TIMEX3> (<TIMEX3 tid="t9" type="DATE" value="2019-11-18">kemarin</TIMEX3>), sudah dilakukan upaya penimbunan. 
+
+Dan Insya Allah, sebelum magrib penanganan telah berhasil dilakukan dan ruas jalan sudah mulai bisa dilalui, harap Shalahuddin. 
+
+jsi/dkw/yml 
+</TEXT>
+
+</TimeML>

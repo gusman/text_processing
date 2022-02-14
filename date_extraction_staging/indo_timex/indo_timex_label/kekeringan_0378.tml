@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0378</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-21" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-21</TIMEX3></DCT>
+
+<TITLE>Musim Kemarau, Sudah Enam Bulan Warga di Munjul Jakarta Timur Alami Krisis Air Bersih</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2019-SU">Musim kemarau</TIMEX3> yang melanda DKI Jakarta dan diperkirakan berakhir saat memasuki <TIMEX3 tid="t2" type="DATE" value="2019-11">bulan November 2019</TIMEX3> nyatanya belum berakhir. 
+
+Bagi sejumlah warga Jakarta yang mengalami krisis air bersih, <TIMEX3 tid="t3" type="DATE" value="2019-SU">musim kemarau</TIMEX3> tahun ini disebut yang paling parah bila dibanding <TIMEX3 tid="t4" type="DATE" value="2018-11-21">tahun sebelumnya</TIMEX3>. 
+
+Pardi (48), satu warga RW 06 Kelurahan Munjul sudah <TIMEX3 tid="t5" type="DURATION" value="P6M">enam bulan</TIMEX3> lamanya dia mengalami krisis air bersih karena sumurnya berhenti mengeluarkan air. 
+
+" <TIMEX3 tid="t6" type="DATE" value="PAST_REF">Dulu</TIMEX3> kekeringan paling sekitar <TIMEX3 tid="t7" type="DURATION" value="P3M">tiga bulan</TIMEX3>, itu pun air sumur enggak sepenuhnya kering, " kata Pardi di Cipayung, Jakarta Timur, <TIMEX3 tid="t8" type="DATE" value="2019-11-21">Kamis (21/11/2019)</TIMEX3>. 
+
+" Kalau <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sumur benar-benar kering. 
+
+Sudah <TIMEX3 tid="t10" type="DURATION" value="P6M">enam bulan</TIMEX3> seperti ini, " sambungnya. 
+
+. 
+
+Mengeringnya sumur warga memaksa mereka harus keluar uang membeli galon isi ulang guna memenuhi kebutuhan <TIMEX3 tid="t11" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+" Kalau dibilang tekor ya tekor, habis mau bagaimana lagi. 
+
+Anak saya di rumah masih ada yang bayi, kebutuhan airnya kan lebih banyak. 
+
+Apalagi sekeluarga ada enam orang, " ujarnya.Ketua RT 02/RW 06 Kelurahan Munjul Siti Romlah membenarkan pernyataan Pardi bahwa <TIMEX3 tid="t12" type="DATE" value="2019-SU">musim kemarau</TIMEX3> tahun ini jadi yang paling parah. 
+
+// Ketika sejumlah warga Jakarta sibuk menghadapi ancaman banjir, sedikitnya 50 kepala keluarga (KK) di RW 06 justru baru mendapat bantuan air bersih. 
+
+" <TIMEX3 tid="t13" type="DURATION" value="P1M">Satu bulan</TIMEX3> terakhir ini baru minta bantuan air ke pemerintah, untuk warga RT 01, 02, dan 03. 
+
+<TIMEX3 tid="t14" type="DATE" value="2018-11-21">Tahun sebelumnya</TIMEX3> kita enggak minta karena masih bisa saling bantu. 
+
+Enggak semua sumur warga kering, " tutur Romlah. 
+
+. 
+
+Buruknya <TIMEX3 tid="t15" type="DATE" value="2019-SU">musim kemarau</TIMEX3> yang membuat warga Jakarta mengalami krisis air bersih dibenarkan Ketua RW 03 Kelurahan Bambu Apus, Herman. 
+
+" Kalau warga saya <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sudah enggak ada yang krisis air bersih. 
+
+Tapi memang kemarau <TIMEX3 tid="t17" type="DATE" value="2019">tahun ini</TIMEX3> paling parah dibanding tahun-tahun sebelumnya, " kata Herman. 
+
+<TIMEX3 tid="t18" type="DURATION" value="P4M">Lebih dari empat bulan</TIMEX3> sejumlah warganya mengalami kekeringan sehingga harus meminta bantuan air bersih ke pemerintah. 
+
+Herman mencontohkan sekitar 30 KK warganya di RT 02 yang sebelumnya tak pernah merasakan krisis air bersih harus meminta bantuan air bersih. 
+
+Beruntung selepas wilayah Jakarta dan sekitarnya mulai diguyur hujan sejak <TIMEX3 tid="t19" type="DATE" value="2018-11">awal bulan November lalu</TIMEX3> sumur warga RW 03 kembali terisi air. 
+
+" Seumur-umur warga RT 02 enggak pernah kekeringan, baru <TIMEX3 tid="t20" type="DATE" value="2019">tahun ini</TIMEX3> kekeringan. 
+
+Jadi memang ini <TIMEX3 tid="t21" type="DATE" value="2019-SU">musim kemarau</TIMEX3> paling lama dan parah, " ujarnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

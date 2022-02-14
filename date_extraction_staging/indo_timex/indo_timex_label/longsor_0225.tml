@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0225</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-09-11" temporalFunction="false" functionInDocument="CREATION_TIME">2014-09-11</TIMEX3></DCT>
+
+<TITLE>Jalan Longsor Ancam Pengendara</TITLE>
+
+<TEXT>
+Pondasi tebing amblas di jalan lintas Bengkulu Curup, tepatnya dikelurahan Pasar Kepahiang, mengancam keselamatan para pengguna jalan. 
+
+Amblasnya dinding tebing setinggi 4 meter tersebut, mengakibatkan bongkahan batu dan tanah hampir menutupi seluruh badan jalan. 
+
+Musibah longsor tersebut terjadi <TIMEX3 tid="t1" type="DATE" value="2014-09-10">Rabu</TIMEX3> dini hari (10/9) <TIMEX3 tid="t2" type="TIME" value="2014-09-10T04:00">sekitar pukul 04.00 WIB</TIMEX3>, akibat hujan deras yang mengguyur bumi sehasen. 
+
+Hujan yang terjadi <TIMEX3 tid="t3" type="TIME" value="2014-09-10TNI">malam hari</TIMEX3> tersebut, membuat pondasi tebing yang sudah cukup tua itu, tidak kuat menahan beban sehingga mengalami longsor. 
+
+Tati (32) warga yang menghuni rumah tepat diatas tebing yang amblas mengaku khawatir dan was was, bila longsor tersebut semakin besar sehingga rumah yang dikontraknya, bersama keluarga tersebut bisa ikut terjatuh. 
+
+Kami ngontrak disini, <TIMEX3 tid="t4" type="TIME" value="2014-09-09TNI">malam tadi</TIMEX3> amblasnya. 
+
+Pas hujan deras kita juga tidak berani keluar karena hujan itu, tutur Tati. 
+
+Sementara itu, Julis Saputra (28) warga Desa Tebat Monok mengungkapkan kecemasannya. 
+
+Pasalnya, longsor bisa saja sewaktu-waktu datang dan tebing tersebut kembali amblas. 
+
+Padahal dirinya <TIMEX3 tid="t5" type="SET" value="P1D">setiap hari</TIMEX3> melalui lokasi kejadian untuk berjualan dipasar. 
+
+<TIMEX3 tid="t6" type="SET" value="XXXX-XX-XXTMO">Setiap pagi</TIMEX3> saya lewat sini, kalau longsong lagi. 
+
+Kita lagi lewat bisa berbahaya untuk kita. 
+
+Sebab tidak menghindar posisinya jalan menanjak juga, kita tidak bisa memacu sepeda motor, ucapnya, ditemui dilokasi kejadian, <TIMEX3 tid="t7" type="DATE" value="2014-09-10">kemarin</TIMEX3>. 
+
+Lebih lanjut Julis berserta warga lainya mengharapkan, segera dilakukan perbaikan oleh pemerintah daerah. 
+
+Hal itu untuk mengurangi kekhawatiran warga sekitar, dan pengguna jalan lainnya Pantauan di lapangan, lokasi dinding tebing tersebut amblas sepanjang kurang lebih 3 meter. 
+
+Hingga <TIMEX3 tid="t8" type="TIME" value="2014-09-10TAF">siang hari kemarin</TIMEX3>, belum ada pembersihan atas reruntuhan dinding tersebut. 
+
+Baik dari aparat pemerintahan maupun warga setempat. 
+
+Meskipun bebatuan dan tanah berserakan hampir ketengah jalan, dan bila hujan kembali melanda, kemungkinan batu dan tanah tersebut akan masuk ke badan jalan, yang menyebabkan kondisi jalan tersebut licin. 
+
+(320) 
+</TEXT>
+
+</TimeML>

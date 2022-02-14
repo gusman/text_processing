@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0809</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-27" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-27</TIMEX3></DCT>
+
+<TITLE>Waspadai Kabut Asap, Kebakaran Hutan dan Lahan di Riau Capai 731 Hektare</TITLE>
+
+<TEXT>
+Kebakaran hutan dan lahan (Karhutla) yang melanda Provinsi Riau sudah mencapai 731 hektare. 
+
+Bertambahnya luas lahan yang terbakar diakibatkan meluasnya kebakaran di sejumlah wilayah. 
+
+Misalnya kebakaran di Kabupaten Siak tepatnya di Desa Tuah Indrapura, Kecamatan Bunga Raya dimana bertambah menjadi 50 hektare. 
+
+Kemudian di Desa Bunsu, Kecamatan Sungai Apit, Siak kebakaran mencapai 6 hektare dan Desa Penyengat, Sungai Apit mencapai 10 hektare. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Riau, Edwar Sanger mengatakan, hasil pendataan, luas areal yang terbakar bahwa kebakaran terparah berada di Kepulauan Meranti dengan luas 213 hektare. 
+
+Kemudian Kota Dumai dengan luasan areal yang terbakar adalah 109,25 hektare dan Bengkalis 100 hektare. 
+
+" Di Kabupaten Indragiri Hulu (Inhu) juga cukup parah dengan luasan areal hutan dan lahan yang terbakar mencapai 121 hektaree. 
+
+Di Kabupaten Siak luas areal terbakar adalah 59.5 hektar. 
+
+Kota Pekanbaru dan Kabupaten Pelalawan masing masing 31 hektare. 
+
+Di Kabupaten Inhil luasan areal terbakar adalah 24 hektare dan Kabupaten Kampar dengan luasan yang dilalap si jago merah adalah 15,5 hektare, " kata Edwar Sanger. 
+
+Sementara di Kabupaten Rokan Hilir (Rohil) daerah yang terbakar jumlahnya 26 hektare. 
+
+Sementara wilayah tetangganya yakni Kabupaten Rokan Hulu (Rohul) luas areal yang terbakar hanya 1 hektare. 
+
+Hanya Kabupaten Kuansing saja sampai <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada laporan kebakaran. 
+
+" Untuk memadamkan kebakaran kita bekerjasama dengan TNI AD, TNI AU, polisi dan manggala aqni. 
+
+Pemadaman dilakukan dari udara yakni dengan helikopter water bombing (bom air) dan darat melalui tim gabungan dengan pompa air, " ungkap Wakil Komandan Satgas Penanggulangan Kebakaran Hutan Riau ini. 
+
+(sms) 
+</TEXT>
+
+</TimeML>

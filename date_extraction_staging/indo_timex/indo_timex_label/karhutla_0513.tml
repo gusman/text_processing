@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0513</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-03-17" temporalFunction="false" functionInDocument="CREATION_TIME">2017-03-17</TIMEX3></DCT>
+
+<TITLE>Bukit Sebedang Terbakar</TITLE>
+
+<TEXT>
+Api menghanguskan lahan kosong di Bukit Sebedang, Sebawi. 
+
+Kebakaran baru diketahui <TIMEX3 tid="t1" type="TIME" value="2017-03-16T11:30">sekitar pukul 11.30</TIMEX3>. 
+
+Lokasi yang jauh dari sumber air membuat petugas pemadam kebakaran kewalahan. 
+
+Lokasinya yang jauh dari pusat air, membuat petugas belum bisa memadamkan api. 
+
+Lokasi yang berbukit juga menjadi kendala. 
+
+Mobil tangki hanya bisa sampai di sekitar 300meter dari titik lokasi kebakaran, kata Yakob Pujana, Sekertarias Badan Pemadam Kebakaran (BPK) Sambas, <TIMEX3 tid="t2" type="DATE" value="2017-03-16">Kamis (16/3)</TIMEX3>. 
+
+Memadamkan api, diturunkan dua pemadam kebakaran, BPK Swasta Sambas dan Sera BPK Bhakti Mulya Kecamatan Tebas. 
+
+Api yang menyebar di beberapa titik. 
+
+Kita melakukan penyambungan selang hingga 30 gulung, agar air bisa menyemprot titik api, ungkap Yakob. 
+
+Diprediksi, api menghanguskan tiga hektar lahan. 
+
+Titik api terpencar, membuat petugas kesulitan memadamkannya. 
+
+Memasuki musim kering, daerah sini sudah beberapa kali terbakar, jelas Yakob. 
+
+Yakob yang juga anggota DPRD Sambas ini mengimbau masyarakat, selalu meningkatkan kewaspadaan. 
+
+Apalagi warga yang tinggal di daerah rawan kebakaran lahan dan hutan. 
+
+Kami harapkan Pemkab Sambas menambah peralatan untuk memadamkan api. 
+
+Peralatan yang kita miliki <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> jumlahnya masih kurang, ujarnya. 
+
+(sai) 
+</TEXT>
+
+</TimeML>

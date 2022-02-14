@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1200</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-01</TIMEX3></DCT>
+
+<TITLE>Puluhan Perantau Jember Jadi Korban Gempa dan Tsunami di Palu dan Donggala.
+
+Bagaimana Nasibnya?</TITLE>
+
+<TEXT>
+Badan Penanggulangan Bencana Daerah (BPBD) Jember membuka posko pelaporan korban gempa bumi dan tsunami di Palu dan Donggala, Sulawesi Tengah. 
+
+Posko pelaporan itu ditempatkan di Pusat Pengendali Operasi (Pusdalops) BPBD Jember. 
+
+Posko yang dibuka sejak <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">Sabtu (29/9/2018) itu</TIMEX3> telah menerima laporan adanya 44 orang perantau asal Jember yang saat gempa mengguncang, sedang berada di Palu dan Donggala. 
+
+Sebanyak 44 orang itu terdiri atas 21 orang belum diketahui keberadaannya (lost contact), 20 orang selamat, satu orang terluka dan dirawat di sebuah rumah sakit, dan dua orang meninggal dunia. 
+
+Data itu didapatkan Surya hingga <TIMEX3 tid="t2" type="TIME" value="2018-10-01TAF">Senin (1/10/2018) siang</TIMEX3>. 
+
+Dua orang yang meninggal dunia adalah suami istri asal Desa Curahlele, Kecamatan Balung, yakni H Sulaiman dan Hj Zubaidah. 
+
+Keduanya tinggal di Palu dan meninggal dunia setelah gempa dan tsunami merusakkan tempat tinggal mereka. 
+
+Pasutri itu meninggal dunia dan meninggalkan dua anak serta seorang menantu yang berhasil selamat. 
+
+" H Sulaiman dan Hj Zubaidah meninggal dunia, dan sudah dimakamkan. 
+
+Sedangkan dua anaknya dan menantu akan pulang ke Jember karena rumah mereka di sana sudah rusak, tidak ada tempat tinggal. 
+
+Menunggu bandara normal supaya saudara saya bisa pulang ke Jember, " ujar Ahmad, saudara Zubaidah yang dihubungi Surya, <TIMEX3 tid="t3" type="DATE" value="2018-10-01">Senin (1/10/2018)</TIMEX3>. 
+
+. 
+
+Hanya saja, keluarga yang tersisa berkehendak pulang ke Jember menunggu situasi membaik dan ada penerbangan yang membawa mereka ke Jawa. 
+
+" Sebenarnya memang mau pulang ke Jember, terutama Ibu Zubaidah dan anak perempuannya karena kangen Jember. 
+
+Ngontak saya <TIMEX3 tid="t4" type="DATE" value="P4D">empat hari</TIMEX3> sebelum gempa, minta disusul di Juanda (Bandara Juanda). 
+
+Tetapi terus ada gempa dan kehilangan kontak. 
+
+Akhirnya kami ketahui kalau Pak Sulaiman dan Bu Zubaidah meninggal dunia, " lanjutnya. 
+
+Sedangkan salah satu anak Pasutri itu, Nur baru diketahui keberadaannya <TIMEX3 tid="t5" type="DATE" value="2018-09-30">Minggu (30/9/2018)</TIMEX3> dalam kondisi selamat. 
+
+Sang anak tidak bisa mengikuti prosesi pemakaman orang tuanya karena sempat hilang kontak <TIMEX3 tid="t6" type="DURATION" value="PXD">beberapa hari</TIMEX3> paska gempa dan tsunami itu. 
+
+Menurut Ahmad, saat gempa yang kemudian diikuti tsunami pada <TIMEX3 tid="t7" type="DATE" value="UNKNOWN">Jumat (28/9/2018) itu</TIMEX3>, anak Sulaiman - Zubaidah yang bernama Nur sedang mengikuti acara kampus di sebuah pegunungan di Palu. 
+
+// " Alhamdulillah dia selamat karena berada di pegunungan. 
+
+Sempat tidak ada kabar saja, tetapi <TIMEX3 tid="t8" type="DATE" value="2018-09-30">kemarin</TIMEX3> sudah ketemu. 
+
+Hanya tidak bisa mengikuti pemakaman orang tuanya, " pungkas Ahmad. 
+
+. 
+
+Salah satu warga yang melapor antara lain Khoirul Anam, yang melaporkan ibunya bernama Maria yang tinggal di Donggala dan sampai <TIMEX3 tid="t9" type="DATE" value="2018-10-01">Senin (1/10/2018)</TIMEX3> belum diketahui keberadaannya. 
+
+Menurut Bupati Jember Faida, seluruh laporan yang diterima Posko Pusdalops BPBD Jember akan diteruskan ke Sulawesi Tengah. 
+
+" Baik melalui posko TNI, Polri, BPBD, juga PMI. 
+
+Semua laporan kami telusuri dan teruskan untuk mengetahui keberadaan keluarga masing-masing, " ujar Faida, <TIMEX3 tid="t10" type="DATE" value="2018-09-10">Senin (10/9/2018)</TIMEX3>. 
+
+Faida mengakui ada sejumlah pelaporan yang diterima posko tersebut. 
+
+Dari laporan itu setelah ditelusuri akhirnya diketahui ada warga yang selamat, meninggal dunia, dirawat di rumah sakit, juga belum diketahui keberadaannya. 
+
+" Untuk dua orang yang meninggal dunia sudah dimakamkan di sana, " imbuh Faida. 
+
+
+</TEXT>
+
+</TimeML>

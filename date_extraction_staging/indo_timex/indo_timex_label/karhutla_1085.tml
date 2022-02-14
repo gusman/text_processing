@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1085</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-11" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-11</TIMEX3></DCT>
+
+<TITLE>BPPIKHL Bagi-bagi Masker ke Masyarakat</TITLE>
+
+<TEXT>
+Kegiatan ini merupakan wujud kepedulian terhadap masyarakat. 
+
+Terutama yang berada di sekitar kantor dan pengguna jalan yang belum memahami bahaya kabut asap terhadap kesehatan. 
+
+Dalam kondisi seperti ini, masyarakat perlu menggunakan masker, ujar Kepala Balai BPPIKHL, Dr. 
+
+Israr, S. 
+
+Hut M. 
+
+Sc. 
+
+Selain itu, kegiatan ini sekaligus memberikan penyuluhan agar masyarakat tidak membuka lahan dengan cara membakar. 
+
+Dimana dapat menimbulkan kabut asap yang dampaknya bisa mengganggu kesehatan. 
+
+Seperti terkena Infeksi Saluran Pernapasan Akut (ISPA). 
+
+Diharapkan kegiatan ini dapat bermanfaat. 
+
+Kabut asap sangat berbahaya dan mengganggu kesehatan masyarakat. 
+
+Terutama kelompok masyarakat rentan seperti ibu hamil, lansia, pelajar, dan anak- anak yang mayoritas beraktifitas di luar rumah. 
+
+Masyarakat dihimbau mengurangi aktifitas di luar rumah sampai udara di Kota Palembang kembali normal, bebas kabut asap dan langit menjadi biru kembali. 
+
+Berdasarkan data Kementerian Lingkungan Hidup dan Kehutanan RI. 
+
+Luas kebakaran hutan dan lahan di Sumsel <TIMEX3 tid="t1" type="DATE" value="2019">tahun 2019</TIMEX3> tercatat 11.826,00 ha dengan jumlah hotspot 2.118 (data Terra/Aqua 80). 
+
+Adapun kondisi Indeks Pencemaran Udara (ISPU) Kota Palembang pada <TIMEX3 tid="t2" type="DATE" value="2019-10-10">hari kamis</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2019-10">10 Oktober 2019</TIMEX3> tercatat 120 (kriteria tidak sehat). 
+
+(Ril) 
+</TEXT>
+
+</TimeML>

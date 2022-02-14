@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0453</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-06" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-06</TIMEX3></DCT>
+
+<TITLE>Kiper PSIS Lelang Jersey Berlangsung 3 Hari, Untuk Korban Gempa Lombok</TITLE>
+
+<TEXT>
+Turut merasakan gempa yang mengguncang Nusa Tenggara Barat saat berada di Bali, Joko Ribowo melakukan pelelangan jersey miliknya. 
+
+Jersey Arema yang pernah ia gunakan saat membela Singo Edan tersebut ia lelang, dibuka dengan nominal awal Rp 500.000, -. 
+
+Joko Ribowo membuka lelang jerseynya tersebut selama <TIMEX3 tid="t1" type="DURATION" value="P3D">tiga hari</TIMEX3> terhitung dari <TIMEX3 tid="t2" type="DATE" value="2018-08-06">hari ini</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2018-08-06">Senin (6/8/2018)</TIMEX3>. 
+
+Terdapat kurang lebih sepuluh orang yang sudah melakukan penawaran atas jerseynya tersebut setelah <TIMEX3 tid="t4" type="DURATION" value="PT2H">dua jam</TIMEX3> Joko Ribowo mengumumkan pelelangan di akun instagram pribadinya joko_ribowo. 
+
+" <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> mungkin ada sekitar sepuluhan yang sudah ikut lelang, lelang saya batasi sampai <TIMEX3 tid="t6" type="DURATION" value="P3D">3 hari</TIMEX3>, " tutur Joko Ribowo pada Tribunjateng. 
+
+com, <TIMEX3 tid="t7" type="DATE" value="2018-08-06">Senin (6/8/2018)</TIMEX3>. 
+
+Pria kelahiran Demak tersebut menambahkan bahwa ini adalah lelang keduanya dimana lelang pertama pernah ia lakukan dengan seluruh kiper seIndonesia untuk Almarhum Choirul Huda. 
+
+Lelang jersey kali ini dilakukan Jokori sapaan akrabnya melihat saudara-saudara setanah air di NTB yang sedang terkena musibah gempa. " Mungkin ini lelang ke 2 saya yang pertama ketika Almarhum cak Huda, saya bersama kiper seIndonesia mengadakan pelelangan dan ini saudara Kita dan NTB juga terkena musibah, " tambah Joko Ribowo.Semoga apa yang dilakukan dilakukan Joko Ribowo bisa berjalan lancar ya Tribuners.(*) 
+</TEXT>
+
+</TimeML>

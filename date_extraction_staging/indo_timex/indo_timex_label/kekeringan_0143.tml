@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0143</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-21" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-21</TIMEX3></DCT>
+
+<TITLE>Enam Bulan Warga Sedayu Kesulitan Air Bersih, Belum Dapat Bantuan Pemkab</TITLE>
+
+<TEXT>
+Warga Kampung Sidayu, RT <TIMEX3 tid="t1" type="DATE" value="2019-01-02">02/01</TIMEX3>, Desa Kebon, Kecamatan Tirtayasa, sudah <TIMEX3 tid="t2" type="DURATION" value="P6M">enam bulan</TIMEX3> kesulitan air bersih. 
+
+Bahkan, sampai <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada bantuan dari Pemkab Serang. 
+
+Misan salah satu warga Sidayu mengaku, sejak <TIMEX3 tid="t4" type="DATE" value="2019-03">Maret</TIMEX3> belum ada bantuan dari pemerintah, terutama Pemkab Serang. 
+
+Selama <TIMEX3 tid="t5" type="DATE" value="2019-SU">musim kemarau</TIMEX3> tersebut warga hanya mendapatkan bantuan air bersih dari kelompok yang peduli kepada mereka. 
+
+Selama ini warga bertahan dari musim kekeringan dengan cara membeli air dan mendapatkan bantuan dari kelompok-kelompok yang mempedulikan mereka. 
+
+Selama <TIMEX3 tid="t6" type="DATE" value="2019-SU">musim kemarau</TIMEX3> yang paling sering membantu kami pak Lukman (tokoh masyakarat, red) dan kawan-kawannya, katanya saat sedang mengambil air bersih yang diberikan oleh Komunitas Jorangan Bae, <TIMEX3 tid="t7" type="DATE" value="2019-10-20">Minggu (20/10)</TIMEX3>. 
+
+Lanjutnya, bantuan air yang diberikan kepada mereka rasanya asin, dan hanya bantuan dari Komunitas Jorangan Bae yang rasa airnya tawar dan itu pun kiriman kedua. 
+
+Baru air ini yang enak rasanya, air yang dikirimkan sebelumnya rasanya tidak enak (asin), katanya. 
+
+Sementara itu dikesempatan yang sama Ketua Comunitas Jorangan Bae Khairul mengatakan pihaknya merasa simpati terhadap apa yang dialami oleh warga Kampung Sidayu, karena warga kampung Sidayu mengalami kesulitan untuk mengajukan surat permohonan bantuan kepada Pemkab Serang. 
+
+Kata warga dalam pengajuan surat permohonan tersebut kelamaan, makanya kami merasa kasihan dan memberikan bantuan, katanya. 
+
+Lanjutnya sampai <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihaknya sudah mengirimkan bantuan air bersih sebanyak <TIMEX3 tid="t9" type="DATE" value="8000">8000</TIMEX3> liter dan akan ada tambahan lagi, air bersih tersebut langsung didatangkan dari sumber mata air bersih yang layak untuk diminum. 
+
+Hal itu dilakukan karena warga mengeluh air yang dibantukan selalu asin. 
+
+Kita ambil air langsung ke Ciomas supaya dapat diminum oleh warga dan saya sudah meminum air tersebut sebelum diberikan ke warga, katanya. 
+
+Untuk <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihaknya juga sudah dihubungi oleh warga kampung Lialang yang <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> juga membutuhkan bantuan air minum, dikarenakan ia mendatangkan air bersih tersebut secara dadakan jadi tidak sempat untuk mengirimkan bantuan kepada warga Lialang. 
+
+Jadi saya sudah menghubungi anggota yang lain untuk membelikan bantuan kepada warga Lialang, katanya. 
+
+(mg-6/and) 
+</TEXT>
+
+</TimeML>

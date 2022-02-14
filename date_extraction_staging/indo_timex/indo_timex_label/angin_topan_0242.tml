@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0242</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2012-11-04" temporalFunction="false" functionInDocument="CREATION_TIME">2012-11-04</TIMEX3></DCT>
+
+<TITLE>Mina Weiler, Perempuan asal Bandung Korban Badai Sandy di AS</TITLE>
+
+<TEXT>
+Bahkan, separo rumah yang ditempati bersama sang suami, Arthur Weiler, 72, dan empat anak mereka sudah rata dengan jalan akibat tersapu air laut. 
+
+Yang masih tersisa hanya lantai kayu. 
+
+Ocean City memang termasuk yang paling parah terkena dampak Sandy. 
+
+Parahnya lagi, rumah kayu dua lantai itu merupakan tumpuan hidup bagi Mina dan keluarga. 
+
+Di rumah yang sudah berumur <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">100 tahun itu</TIMEX3> perempuan asal Bandung yang menjadi warga negara AS sejak <TIMEX3 tid="t2" type="DATE" value="2001">2001</TIMEX3> tersebut bersama Arthur membuka usaha persewaan boat dan kapal pesiar (cruise). 
+
+Pasangan tersebut dikaruniai empat anak laki-laki. 
+
+Ocean City memang dikenal sebagai kawasan wisata marina di pantai timur AS. 
+
+Namun, usaha yang saya rintis <TIMEX3 tid="t3" type="DURATION" value="P8Y">delapan tahun</TIMEX3> silam lalu itu <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> tinggal puing-puing saja, katanya. 
+
+Saking traumanya, Mina mengaku ingin cepat-cepat pindah dari kawasan itu. 
+
+Namun, itu tidak bisa segera dia lakukan karena harus menunggu pihak asuransi yang akan menilai (claim adjuster) kerusakan akibat badai berkekuatan 120 kilometer per jam itu. 
+
+Saat menunggu itu, praktis tidak banyak yang bisa dia lakukan. 
+
+Sebab, pihak asuransi berpesan agar tidak menyentuh barang-barang yang tersisa di rumah itu. 
+
+Pikirannya semakin kalut. 
+
+Apalagi, dia mempunyai bayi yang baru berumur <TIMEX3 tid="t5" type="DURATION" value="P2Y">dua tahun</TIMEX3>. 
+
+Sudah <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">tiga hari ini</TIMEX3> saya tidak doyan makan, aku Mina. 
+
+Kediaman pasangan Arthur-Mina Weiler termasuk yang paling parah kerusakannya di Ocean City. 
+
+Arthur juga menyebut bahwa badai kali ini yang terburuk yang menimpa mereka. 
+
+Tahun-tahun sebelumnya tidak pernah sampai rusak parah seperti ini, tambah warga AS itu. 
+
+Saat badai datang <TIMEX3 tid="t7" type="DATE" value="2012-10-29">Senin (29/10) lalu</TIMEX3>, keduanya sudah mengungsi ke rumah saudara di kawasan lain yang lebih aman. 
+
+Itu dilakukan karena ada perintah wajib mengungsi (mandatory evacuation) dari pemerintah kota pada <TIMEX3 tid="t8" type="TIME" value="2012-11-04TMO">Minggu pagi</TIMEX3>. 
+
+Saat berangkat mengungsi itu pun, air laut sudah menggenangi lantai satu rumah mereka. 
+
+<TIMEX3 tid="t9" type="DATE" value="2012-11-04">Minggu</TIMEX3> dini hari Mina mengaku sangat kaget ketika setelah salat <TIMEX3 tid="t10" type="TIME" value="2012-11-04TMO">Subuh</TIMEX3> membuka pintu dari lantai atas dan melihat jalanan sudah tergenang air laut setinggi lutut. 
+
+Mina pun sontak membangunkan anak-anaknya dan berangkat mengungsi tanpa sempat mengemasi barang-barang mereka. 
+
+Pikirnya <TIMEX3 tid="t11" type="DATE" value="UNKNOWN">kala itu</TIMEX3>, perintah wajib mengungsi bisa dilakukan paling lambat <TIMEX3 tid="t12" type="TIME" value="UNKNOWN">pukul empat sore</TIMEX3>. 
+
+Namun, ternyata air laut singgah lebih dulu di kawasan itu. 
+
+Praktis, lantai satu yang merupakan tempat usaha dan dapur hancur berantakan. 
+
+Peralatan dapur, perkantoran, dan alat-alat bengkel dan kapal berhamburan di lantai kayu yang sudah menganga dan sekitar rumah. 
+
+Suami Mina memperkirakan peralatan bengkel dan perkapalan yang rusak parah itu kurang lebih USD 100 ribu (sekitar Rp 960 juta). 
+
+Itu belum termasuk perabotan dan alat-alat dapur yang semuanya tidak bisa dimanfaatkan lagi. 
+
+Kondisi lantai dua juga sudah memprihatinkan. 
+
+Sebagian lantainya miring. 
+
+Bahkan, bagian belakang sudah roboh. 
+
+Mina memastikan bahwa rumahnya itu sudah tidak bisa diperbaiki lagi. 
+
+Satu-satunya jalan adalah dirobohkan dan dibangun baru. 
+
+Tapi, itu tentu butuh ratusan ribu dolar. 
+
+Saya dan suami terus terang belum tahu berapa yang <TIMEX3 tid="t13" type="DATE" value="FUTURE_REF">nanti</TIMEX3> bisa ditanggung oleh asuransi, kata Mina sambil menunjukkan bagian rumahnya yang hancur. 
+
+Rumah kayu bercat merah muda itu memang merupakan rumah panggung yang berlokasi tepat di bibir pantai. 
+
+Fondasinya berupa puluhan balok kayu yang tertancap di pasir pantai.Halaman belakangnya merupakan teluk (bay) yang memisahkan kota marina itu dengan New Jersey daratan. 
+
+Umumnya, rumah-rumah di kawasan itu dilengkapi dermaga-dermaga kecil di belakang rumah. 
+
+Namun, sandaran-sandaran kapal kecil itu <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">kini</TIMEX3> porak-poranda.Rumah berukuran 8 x 18 meter (setara tipe 144) yang dibeli pada <TIMEX3 tid="t15" type="DATE" value="UNKNOWN">2004 itu</TIMEX3> merupakan hasil jerih payah Mina dan suami selama <TIMEX3 tid="t16" type="DURATION" value="PXY">bertahun-tahun</TIMEX3>. 
+
+Sebelumnya, pasangan itu mempunyai bisnis katering di Philadelphia. 
+
+Usaha kateringnya bisa dibilang sukses <TIMEX3 tid="t17" type="DATE" value="UNKNOWN">kala itu</TIMEX3>.Namun, pada <TIMEX3 tid="t18" type="DATE" value="2004">2004</TIMEX3>, mereka memutuskan untuk pensiun dari bisnis tata boga tersebut dan menggunakan tabungannya untuk membuka usaha persewaan boat dan kapal pesiar yang bernama The Pirates Cove Marina di Ocean City, New Jersey.Saat kembali dari mengungsi <TIMEX3 tid="t19" type="DATE" value="2012-11-02">dua hari lalu</TIMEX3>, listrik di kawasan itu masih padam. 
+
+Tetapi, air sudah tidak lagi menggenang. 
+
+Namun, suhu udara yang mencapai dua derajat Celsius membuat kondisi duka semakin dalam. 
+
+Penghangat ruang tidak bisa digunakan.Satu-satunya yang masih berfungsi adalah kompor gas dan oven. 
+
+Mina pun akhirnya menggunakan oven gas tersebut untuk menghangatkan ruang agar anak-anaknya tidak kedinginan.Saudara-saudaranya sebenarnya sudah mencegah Mina dan keluarga untuk balik ke rumah mereka. 
+
+Namun, rasa cintanya pada rumah dan kawasan teluk itu mendorongnya untuk segera kembali. 
+
+Apalagi, Arthur dikenal sebagai penghobi berlayar dan mengutak-atik kapal. 
+
+Dia tidak bisa diam melihat kondisi ini meskipun <TIMEX3 tid="t20" type="DATE" value="PXY">beberapa tahun lalu</TIMEX3> kakinya patah tulang akibat hobinya itu, kata Mina tentang suaminya.Arthur mengaku belum punya rencana pasti tentang <TIMEX3 tid="t21" type="DATE" value="FUTURE_REF">masa depan</TIMEX3> bisnisnya karena harus menunggu pihak asuransi. 
+
+Namun, dia optimistis bisa membuka lagi usahanya <TIMEX3 tid="t22" type="DURATION" value="UNKNOWN">tiga empat bulan</TIMEX3> atau pada <TIMEX3 tid="t23" type="DATE" value="2012-SP">awal musim semi</TIMEX3> (spring) <TIMEX3 tid="t24" type="DATE" value="2013-11-04">tahun depan</TIMEX3>.Satu lagi kekhawatiran Mina adalah nasib sekolah anak-anakya yang libur sejak <TIMEX3 tid="t25" type="DATE" value="2012-10-29">Senin lalu</TIMEX3>. 
+
+Jika pindah ke tempat lain, tiga anaknya harus pindah sekolah juga. 
+
+Padahal, menurut dia, kualitas sekolah di Ocean City salah satu yang terbaik di kawasan pantai timur (East Coast). 
+
+Sangat mungkin untuk sementara Mina dan keluarga pindah lagi ke Philadelphia yang hanya <TIMEX3 tid="t26" type="DURATION" value="PT1H">satu jam</TIMEX3> mengemudi dari Ocean City sambil menunggu rumahnya dibangun lagi.Keluarga besar Mina di Bandung juga sangat mencemaskan kondisinya dan keluarga. 
+
+Namun, Mina mengaku sangat susah untuk menceritakan kondisi yang sebenarnya pada mereka.Setelah <TIMEX3 tid="t27" type="DURATION" value="P3D">tiga hari</TIMEX3> berlalu dari bencana yang menakutkan itu, Mina baru mengangkat telepon dari saudara-saudaranya di Bandung, termasuk dari ibunya yang sudah sepuh. 
+
+Kesedihan Mina dan keluarga sedikit terobati <TIMEX3 tid="t28" type="DATE" value="2012-11-01">Kamis lalu</TIMEX3>, saat beberapa orang dari Indonesian Community of Greater Philadelphia (ICGP) dan perwakilan Konsul Jenderal RI (KJRI) New York menyambangi rumah mereka. 
+
+Menurut Hani White, koordinator ICGP, kunjungan itu merupakan bentuk simpati keluarga besar perantau Indonesia di Philadelphia dan sekitarnya untuk keluarga Mina.Hani dan dua rekannya <TIMEX3 tid="t29" type="TIME" value="2012-11-01TAF">Kamis sore itu</TIMEX3> membawakan Mina masakan khas Indonesia, lengkap dengan sambel terasi dan krupuk. 
+
+Di perantauan kami semua saudara, kata Hani yang sudah <TIMEX3 tid="t30" type="DURATION" value="P11Y">sebelas tahun</TIMEX3> merantau di Philadelphia.Menurut konsul konsuler KJRI New York, Zahermann Muabezi, sedikitnya ada empat orang asal Indonesia, baik yang sudah menjadi warga negara AS ataupun WNI, yang terdeteksi terkena dampak relatif serius badai Sandy. 
+
+Setelah mendapatkan alamat lengkap, kami akan mengunjungi mereka satu per satu, kata Zahermann.WNI yang bermukim di pantai timur AS dalam catatan KJRI ada sekitar 25.746 orang yang tersebar di 15 negara bagian yang menjadi wilayah kerja KJRI New York. 
+
+Dari total tersebut, 85 persen dipastikan overstay. 
+
+(*/c2/ttg) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0256</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-08" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-08</TIMEX3></DCT>
+
+<TITLE>Musim Kemarau, 6 Kecamata Di Kabupaten Bogor Alami Kekeringan</TITLE>
+
+<TEXT>
+Sejumlah desa yang tersebar di enam kecamatan di Kabupaten Bogor mengalami kekurangan air bersih. 
+
+Hal itu disebabkan terjadinya kekeringan di wilayah tersebut sejak memasuki <TIMEX3 tid="t1" type="DATE" value="2018-SU">musim kemarau</TIMEX3>. 
+
+Kabid Kedaruratan dan Logstik Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Bogor, Asep Usman pun membenarkan hal tersebut. 
+
+Ia mengatakan bahwa enam wilayah yang terkena dampak kekeringan diantaranya adalah Kecamatan Ciampea, Tenjo, Rancabungur, Sukajaya, Klapanunggal, dan Citeureup. 
+
+" Ada sekitar enam kecamatan, kalau dihitung yang terkena dampaknya lebih dari 600 kepala keluarga, " ujarnya kepada TribunnewsBogor. 
+
+com, <TIMEX3 tid="t2" type="DATE" value="2018-08-01">Rabu (8/8/2018)</TIMEX3>. 
+
+Ia pun menerangkan, keenam wilayah kecamatan tersebut sudah mengalami kekeringan sejak <TIMEX3 tid="t3" type="DATE" value="2018-07-27">tanggal 27 Juli 2018 kemarin</TIMEX3>. 
+
+Sejauh ini, kata dia, pihaknya telah melakulan upaya penanganan dengan memberikan bantuan air bersih " Kita rutin berikan bantuan air bersih, satu tanki lima ribu liter, untuk pasokan airnya kota bekerja sama dengan PDAM dan perusahaan air curah, " jelasnya.Lebih lanjut dia mengatakan bahwa dari enam kecamatan tersebut, Kecamatan Tenjo yang paling banyak terkena dampak dari kekeringan tersebut. " Di Tenjo itu ada tiga desa tapi kampungnya banyak, kalau yang lain seperti Ciampea itu paling hanya satu desa saja, " pungkasnya. 
+</TEXT>
+
+</TimeML>

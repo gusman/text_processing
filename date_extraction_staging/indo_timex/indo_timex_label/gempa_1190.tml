@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1190</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-07" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-07</TIMEX3></DCT>
+
+<TITLE>Aceh Utara Galang Dana untuk Korban Gempa Pidie Jaya</TITLE>
+
+<TEXT>
+Gempa bumi 6,5 Skala Richter mengguncang Kabupaten Pidie Jaya, <TIMEX3 tid="t1" type="TIME" value="2016-12-06TMO">pagi tadi</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2016-12-06T05:05">pukul 05.05 WIB</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2016-12-07">Rabu (7/12/2016)</TIMEX3>. 
+
+Menanggapi kejadian ini, Ikatan Pekerja Sosial Masyarakat (IPSM) Kabupaten Aceh Utara juga ikut menggalang dana untuk korban gempa Pidie Jaya. 
+
+" Sejak <TIMEX3 tid="t4" type="TIME" value="2016-12-06TMO">pagi tadi</TIMEX3> kita langsung lakukan penggalangan dana untuk korban gempa bumi Pidie Jaya, " kata Ketua IPSM Kecamatan Tanah Jambo Aye, Akmal Daud kepada GoAceh, <TIMEX3 tid="t5" type="DATE" value="2016-12-07">Rabu (7/12/2016)</TIMEX3>. 
+
+Pantauan GoAceh, penghalangan dana untuk korban gempa Pidie Jaya ini dilakukan di beberapa titik di Keude Pantonlabu, Kecamatan Tanah Jambo Aye. 
+
+Turut dilakukan juga oleh IPSM Kecamatan Baktiya. 
+
+Akmal mengatakan, dari pantauan IPSM, belum terlihat ada kerusakan bangunan di Kabupaten Aceh Utara akibat gempa bumi yang berpusat di Pidie Jaya itu. 
+
+Namun tadi <TIMEX3 tid="t6" type="TIME" value="2016-12-07TMO">pagi</TIMEX3> banyak warga yang berhamburan keluar dari rumah masing-masing karena khawatir akan gempa bumi tersebut. 
+
+" Sejauh ini belum ada laporan kerusakan bangunan akibat gempa tadi, meski gempa terasa ke daerah sini. 
+
+Namun di Pidie Jaya saya dengar sudah 25 orang meninggal dunia. 
+
+Dana hasil penggalangan ini adalah inisiatif dan partisipasi kita dan akan kita kirim segera ke Pidie Jaya, " imbuh Akmal. 
+
+* 
+</TEXT>
+
+</TimeML>

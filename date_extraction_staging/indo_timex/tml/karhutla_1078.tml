@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1078</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-03</TIMEX3></DCT>
+
+<TITLE>Palembang Berkabut Pagi Ini</TITLE>
+
+<TEXT>
+Aktifitas pagi di selimuti kabut asap, di jalan Demang Lebar Daun Palembang, Kamis (3/9).
+
+Titik panas di wilayah sebelah selatan-tenggara Kota Palembang dengan tingkat kepercayaan di atas 80% yang berkontribusi asap ke wilayah Kota Palembang yakni pada kawasan SP Padang, Banyu Asin I, Pampangan, Pedamaran, Tulung Selapan, Cengal, Pematang Panggang, Air Sugihan, Pedamaran dan Mesuji.
+
+// Sejumlah warga menggunakan masker, untuk beraktifitas di sebabkan Palembang di selimuti kabut pagi ini, Kamis (5/9).
+
+Penanggulangan kebakaran  lahan masih tetap dilakukan di kabupaten Ogan Ilir, Musi Banyuasin, Muara Enim dan Ogan Komering Ilir.
+
+
+</TEXT>
+
+</TimeML>
+

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0793</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-07-06" temporalFunction="false" functionInDocument="CREATION_TIME">2018-07-06</TIMEX3></DCT>
+
+<TITLE>Ini Penyebab Angin Kencang dan Hujan Lebat yang Terpa Kota Medan, Kecepatan Angin Sampai 20 Knot</TITLE>
+
+<TEXT>
+Hujan deras dan angin kencang, menyebabkan beberapa pohon tumbang di beberapa wilayah di Kota Medan pada <TIMEX3 tid="t1" type="TIME" value="2018-07-05TNI">Kamis (5/7/2018) malam</TIMEX3>. 
+
+Penyebab hujan deras disertai angin kencang itu, karena adanya belokan angin di wilayah Pantai Barat dan adanya pertemuan massa angin di Pantai Timur. 
+
+Salah satu petugas perkiraan cuaca BMKG Wilayah 1 Medan, Lestari Irene Purba mengatakan bahwa dari catatan BMKG, curah hujan yang terjadi pada <TIMEX3 tid="t2" type="TIME" value="UNKNOWN">Kamis (5/7/2018) malam kemarin</TIMEX3>, mencapai 33,5 dengan kecepatan angin 20 knot. 
+
+" Jadi, kejadian tadi <TIMEX3 tid="t3" type="TIME" value="2018-07-06TNI">malam itu</TIMEX3> cukup ekstrim terjadi karena ada faktor lokal. 
+
+Dimana, kejadian tersebut terjadi karena ada belokan angin di wilayah Pantai Barat dan ada pertemuan massa angin di Pantai Timur, makanya hujan cukup merata di daerah Pantai Timur dan Pantai Barat, " kata Irene, <TIMEX3 tid="t4" type="DATE" value="2018-07-06">Jumat (6/7/2018)</TIMEX3>. 
+
+Masih kata Irene, bahwa BMKG mencatat pada <TIMEX3 tid="t5" type="DATE" value="2018-07">Juli ini</TIMEX3> masuk <TIMEX3 tid="t6" type="DATE" value="2018-SU">musim kemarau</TIMEX3>. 
+
+Namun, biasanya pada <TIMEX3 tid="t7" type="DATE" value="2018-06">Juni</TIMEX3> dan <TIMEX3 tid="t8" type="DATE" value="2018-07">Juli itu</TIMEX3> sering terjadi angin kencang sehingga beberapa kawasan mengalami <TIMEX3 tid="t9" type="DATE" value="2017-WI">musim hujan</TIMEX3>. 
+
+" Karena ada peralihan musim itulah terjadi cuaca ekstrim seperti di Kota Medan, " jelasnya. 
+
+Lebih lanjut, Irena menjelaskan bahwa di daerah pegunungan tercatat untuk <TIMEX3 tid="t10" type="DURATION" value="P2D">dua hari</TIMEX3> kedepan relatif akan mengalami hujan relatif dengan intensitas yang ringan. 
+
+Tapi, juga harus mewaspadai adanya cuaca ekstrim. 
+
+BMKG juga menghimbau kepada masyarakat terutama masyarakat di kota agar selalu mewaspadai apabila terjadi peralihan cuaca. 
+
+" Kami menghimbau kepada masyarakat kota yang apabila sedang berkendaran terjadi hujan agar berhenti dan berteduh di tempat yang lebih aman, " katanya. " Untuk daerah pegunungan selalu mewaspadai sungai. 
+
+Begitu juga masyarakat yang tinggal di pinggir aliran sungai untuk selalu waspada apabila air sungai naik, " jelasnya.(cr9/tribun-medan.com). 
+</TEXT>
+
+</TimeML>

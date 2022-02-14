@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0646</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-01</TIMEX3></DCT>
+
+<TITLE>Longsor di Cisolok, Sukabumi: 2 Orang Meninggal, 41 Belum Ditemukan</TITLE>
+
+<TEXT>
+Kabupaten Sukabumi, Jawa Barat, <TIMEX3 tid="t1" type="TIME" value="2018-12-31T17:00">Senin (31/12) pukul 17.00 WIB</TIMEX3>, menyebabkan longsor perbukitan dan materialnya meluncur menuruni lereng kemudian menimbun sekitar 34 rumah kampung adat. 
+
+Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho megatakan, data sementara diperkirakan 8 orang tertimbun longsor, dimana 4 orang berhasil dievakuasi dalam kondisi meninggal dunia. 
+
+4 korban lainnya dalam upaya evakuasi namun terkendala cuaca hujan dan gelap karena <TIMEX3 tid="t2" type="TIME" value="2018-12-31TNI">malam</TIMEX3>. 
+
+Selain itu listrik padam dan komunikasi seluler juga sulit, kata Sutopo dalam siaran persnya <TIMEX3 tid="t3" type="TIME" value="2019-01-01TMO">Selasa (1/1) pagi</TIMEX3>. 
+
+Namun <TIMEX3 tid="t4" type="DATE" value="PXX">beberapa saat kemudian</TIMEX3> Sutopo merilis data baru, yang menyebutkan korban meninggal 2 orang. 
+
+Ia menyebutkan, Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten bersama TNI, Polri, Basarnas, aparat setempat, relawan dan masyarakat melakukan evakuasi, pencarian dan penyelamatan korban. 
+
+Pendataan masih dilakukan untuk memastikan jumlah korban dan rumah tertimbun longsor. 
+
+Akses jalan menuju lokasi longsor jalanan yang terjal, berbatu dan ditambah cuaca hujan rintik menyulitkan tim untuk melakukan evakuasi, ungkap Sutopo seraya menambahkan, Posko BNPB terus memantau penanganan bencana dan berkoordinasi dengan BPBD Kabupaten Sukabumi dan BPBD Provinsi Jawa Barat.41 Orang Belum DitemukanMenurut Sutopo, hingga <TIMEX3 tid="t5" type="TIME" value="2018-01-01T02:30">Selasa (1/1) pukul 02.30 WIB</TIMEX3> tercatat 32 Kepala Keluarga (107 jiwa) terdampak longsor, dengan rincian:2 orang meninggal dunia, 3 orang luka-luka, 61 orang di pengungsian, dan 41 orang belum ditemukan. 
+
+Diakui oleh Kepala Pusat Data Informasi dan Humas BNPB itu, korban meninggal awalnya simpang siur karena kondisi yang panik. 
+
+Informasi yang beredar di lapangan dan sosial media, korban meninggal 2, 4, 5 dan 8 orang. 
+
+Namun setelah dilakukan verifikasi di posko sementara, ada 2 korban meninggal, ujarnya. 
+
+Kerugian fisik sementara terdapat 30 unit rumah tertimbun (data sementara/masih dalam pendataan). 
+
+Upaya penanganan terus dilakukan meliputi: BPBD Kab. 
+
+Sukabumi mengirim tim ke lokasi kejadian. 
+
+Selain itu, BPBD Kab. 
+
+Sukabumi bersama Basarnas dan warga setempat melakukan evakuasi dan pendataan. 
+
+Sedangkan kondisi di lapangan, menurut Sutopo, cuaca hujan di lokasi kejadian, listrik padam/mati lampu, seluruh jaringan komunikasi (HP) terhambat. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kegiatan pencarian serta evakuasi korban terdampak longsor dihentikan, karena kondisi di lapangan diguyur hujan dan listrik padam/mati, jelas Sutopo seraya menambahkan, komunikasi dengan tim di lapangan hanya bisa menggunakan radio komunikasi/Handy Talkie (jaringan lokal/point to point). 
+
+Jalanan yang terjal, berbatu dan ditambah cuaca hujan rintik, lanjut Sutopo, menyulitkan tim untuk melakukan evakuasi. 
+
+Untuk evakuasi diperlukan alat berat namun kondisi akses jalan dan medan cukup berat menuju lokasi bencana, ucapnya. 
+
+(Humas BNPB/ES) 
+</TEXT>
+
+</TimeML>

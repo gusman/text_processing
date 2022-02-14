@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0715</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-26" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-26</TIMEX3></DCT>
+
+<TITLE>Dua Puncak Kawah Karangetang Sempat Keluarkan Asap 500 Meter</TITLE>
+
+<TEXT>
+Dua puncak kawah gunung Karangetang, Kabupaten Kepulauan Sitaro terus mengeluarkan asap putih tebal sepanjang hari, <TIMEX3 tid="t1" type="DATE" value="2019-03-26">Selasa (26/3/2019)</TIMEX3>. 
+
+Pada <TIMEX3 tid="t2" type="TIME" value="2019-03-25TAF">siang hari</TIMEX3> sangat jelas terlihat kawah bertekanan lemah hingga sedang berwarna putih dengan intensitas tebal dan tinggi 300-500 meter di atas puncak kawah. 
+
+" Juga asap kawah dua putih tebal, tinggi sekitar 200-500 meter, sehingga terlihat hampir sama tinggi, " jelas Didi Wahyudi, petugas pos PGA Karangetang. 
+
+Untuk kegempaan tercatat guguran terjadi sekali dengan amplitudo 2 mm, durasi <TIMEX3 tid="t3" type="DURATION" value="PT25S">25 detik</TIMEX3>, hybrid tiga kali dengan amplitudo <TIMEX3 tid="t4" type="DATE" value="2018-08-05">5-8</TIMEX3> mm, S-P:0 detik, durasi 12-15 detik. 
+
+Vulkanik dangkal empat kali dengan amplitudo <TIMEX3 tid="t5" type="DATE" value="2018-06-04">4-6</TIMEX3> mm, durasi <TIMEX3 tid="t6" type="DATE" value="2018-05-03">3-5</TIMEX3> detik, vulkanik dalam sekali terjadi dengan amplitudo 24 mm, S-P:0.5 detik, durasi <TIMEX3 tid="t7" type="DURATION" value="PT15S">15 detik</TIMEX3>. 
+
+Terktonik jauh 3 kali dengan amplitudo 5-36 mm, S-P:20 detik, durasi 35-70 detik, dan microtremor terekam dengan amplitudo <TIMEX3 tid="t8" type="TIME" value="2019-03-25T00:25">0.25</TIMEX3> mm (dominan <TIMEX3 tid="t9" type="TIME" value="2019-03-25T00:25">0.25</TIMEX3> mm). 
+
+Sedangkan pada <TIMEX3 tid="t10" type="TIME" value="2019-03-25TAF">sore hari</TIMEX3> amatan visual gunung terlihat jelas asap kawah bertekanan lemah teramati berwarna putih dengan intensitas tebal dan tinggi 300 meter di atas puncak kawah. 
+
+" Asap kawah dua putih tebal, tinggi sekitar 100-200 meter, " jelas Wahyudi.Sementara dari catatan kegempaan tercatat guguran dua kali terjadi dengan amplitudo <TIMEX3 tid="t11" type="DATE" value="2019-03-02">2-3</TIMEX3> mm, durasi 30-35 detik.Hembusan tiga kali dengan amplitudo <TIMEX3 tid="t12" type="DATE" value="2018-04-02">2-4</TIMEX3> mm, durasi <TIMEX3 tid="t13" type="DURATION" value="PT15S">15 detik</TIMEX3>, hybrid 7 kali, amplitudo <TIMEX3 tid="t14" type="DATE" value="2018-12-08">8-12</TIMEX3> mm, S-P:0 detik, durasi 15-20 detik. 
+
+// Vulkanik dangkal 3 kali, amplitudo <TIMEX3 tid="t15" type="DATE" value="2018-05-03">3-5</TIMEX3> mm, durasi <TIMEX3 tid="t16" type="DATE" value="2018-05-04">4-5</TIMEX3> detik, terktonik jauh dua kali dengan amplitudo <TIMEX3 tid="t17" type="DATE" value="2018-06-04">4-6</TIMEX3> mm, S-P: tidak ter.25 mm (dominan <TIMEX3 tid="t18" type="TIME" value="2019-03-25T00:25">0.25</TIMEX3> mm). 
+
+" Untuk status gunung Karangetang masih pada level III atau siaga, " kata Wahyudi. 
+
+Rekomendasi PVMBG Bandung pun belum berubah, warga masih tetap yaitu dilarang mendekati, melakukan pendakian atau beraktivitas di dalam zona bahaya. 
+
+Radiusnya 2,5 km dari puncak kawah dua (Kawah Utara) dan kawah utama (selatan) serta area perluasan sektoral dari Kawah Dua ke arah Barat-Baratlaut sejauh 3 km dan ke arah Baratlaut-Utara sejauh 4 km. 
+
+Warga yang berada di area Baratlaut-Utara dari Kawah Dua, di antaranya Kampung Niambangeng, Beba dan Batubulan agar dievakuasi ke tempat yang aman dari ancaman guguran lava atau awan panas guguran gunung Karangetang yaitu di luar zona bahaya. 
+
+Masyarakat tetap dianjurkan agar menyiapkan masker penutup hidung dan mulut, guna mengantisipasi potensi bahaya gangguan saluran pernapasan jika terjadi hujan abu. 
+
+Masyarakat yang tinggal di sekitar bantaran sungai-sungai yang berhulu dari puncak gunung Karangetang agar meningkatkan kesiapsiagaan dari potensi ancaman lahar hujan dan banjir bandang yang dapat mengalir hingga ke pantai. 
+
+
+</TEXT>
+
+</TimeML>

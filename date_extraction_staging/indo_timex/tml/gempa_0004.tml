@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0004</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-07" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-07</TIMEX3></DCT>
+
+<TITLE>Pidie Jaya Gempa, Terasa Hingga Banda Aceh</TITLE>
+
+<TEXT>
+Sekitar pukul 05.03 WIB, gempa bumi tektonik dengan kekuatan 6,5 SR melanda wilayah Kabupaten Pidie Jaya, Aceh.
+
+Gempa juga dirasakan di Banda Aceh, Langsa, hingga Simeulue, Rabu (7/12).
+
+Sejumlah rumah dikabarkan rusak, termasuk diantaranya masjid dan pertokoan hingga kampus.
+
+Masyarakat setempat juga ikut mengungsi, menghindari gempa susulan.
+
+Berdasarkan hasil analisis Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), pusat gempa terletak pada 5,25 lintang utara dan 96,24 bujur timur, tepatnya di darat pada jarak 106 km arah tenggara Kota Banda Aceh pada kedalaman 15 km.
+
+Gempa tidak memicu tsunami.
+
+Masyarakat panik dan berhamburan ke luar rumah.
+
+Berdasarkan laporan Badan Penanggulangan Bencana Daerah (BPBD) Aceh, gempa sangat kuat dirasakan selama 15 detik di Kabupaten Pidie Jaya dan Kabupaten Pidie.
+
+Salah satu mahasiswa di Banda Aceh, Muhammad Afif yang tinggal di Kahju, juga ikut merasakan gempa, dirinya langsung berpindah tempat, menuju Ulee Kareng.
+
+Karena dekat dengan pantai, saya khawatir, untuk lebih aman, saya pindah ke rumah teman di Ulee Kareng sementara,  ujarnya.
+
+Hingga berita ini diturunkan, evakuasi terhadap korban gempa terus berlangsung di Pidie Jaya.
+
+(rif)
+</TEXT>
+
+</TimeML>
+

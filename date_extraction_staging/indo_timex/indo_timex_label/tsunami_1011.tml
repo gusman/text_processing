@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1011</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-13" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-13</TIMEX3></DCT>
+
+<TITLE>Prodia dan PT Kalla Kakao Industri Donasikan Darah untuk Korban Bencana Sulteng</TITLE>
+
+<TEXT>
+Prodia Kendari bersama dengan PT Kalla Kakao Industri Kendari menggelar kegiatan donor darah, <TIMEX3 tid="t1" type="DATE" value="2018-10-13">Sabtu (13/10/2018)</TIMEX3>. 
+
+Hasil dari donor darah tersebut nantinya akan diberikan kepada korban gempa dan tsunami di Sulawesi Tengah (Sulteng) melalui PMI Kendari. 
+
+Legal and Corporate Relation PT Kalla Kakao Eka Angga Pratama mengungkapkan, PT Kalla Kakao sebelumnya juga telah memberikan bantuan kepada korban bencana, berupa dana. 
+
+Dan kali ini, pihaknya pun kembali mengadakan donasi dalam bentuk donor darah. 
+
+Kebetulan memang kakao cukup aktif dalam hal menggelar kegiatan sosial. 
+
+Semoga saja dengan bantuan ini, korban bencana di Palu bebannya bisa sedikit berkurang, terutama yang sedang sakit dan memerlukan donor darah, kata Eka ditemui di Laboratorium Prodia Kendari, <TIMEX3 tid="t2" type="DATE" value="2018-10-13">Sabtu (13/10/2018)</TIMEX3>. 
+
+Sementara itu, Laboratory Information Service Prodia Kantor Cabang Kendari Orda Meilkianus mengungkapkan, pada kegiatan ini pihaknya bersama tim dari PT Kalla Kakao Industri menargetkan bisa mengumpulkan 100 kantong darah, dari seluruh pendonor yang bukan hanya berasal dari Prodia maupun PT Kalla Kakao, tetapi juga masyarakat umum. 
+
+Jadi darah ini nantinya akan disumbangkan untuk korban bencana di Palu. 
+
+Untuk yang sakit semoga lekas diberi kesembuhan, dan aktivitas di Kota Palu bisa secepatnya pulih kembali, kata Orda. 
+
+Pasokan darah tersebut anntinya akan dikirimkan ke Palu melalui tim PMI Kota Kendari pada <TIMEX3 tid="t3" type="DATE" value="2018-10-08">Senin</TIMEX3>, <TIMEX3 tid="t4" type="DATE" value="2018-10-15">15 Oktober 2018</TIMEX3>. 
+
+(B) Reporter: Sri Rahayu Editor: Jumriati 
+</TEXT>
+
+</TimeML>

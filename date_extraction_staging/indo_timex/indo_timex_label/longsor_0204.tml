@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0204</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-02-11" temporalFunction="false" functionInDocument="CREATION_TIME">2017-02-11</TIMEX3></DCT>
+
+<TITLE>MENGHARUKAN! Bayi Ini Selamat di Dekapan Kakeknya yang Meninggal, 4 Jam Tertimbun Longsor</TITLE>
+
+<TEXT>
+Selalu ada keajaiban di balik peristiwa bencana alam. 
+
+Seperti dalam bencana tanah longsor yang terjadi di Desa Sukawana, Kintamani, Bangli, Bali, <TIMEX3 tid="t1" type="TIME" value="2017-02-10T01:00">Jumat (10/2/2017) pukul 01.00</TIMEX3> Wita, seorang bayi berusia <TIMEX3 tid="t2" type="DURATION" value="P2M">dua bulan</TIMEX3> selamat setelah tertimbun <TIMEX3 tid="t3" type="DURATION" value="PT4H">empat jam</TIMEX3>. 
+
+Sang bayi bertahan hidup dalam dekapan kakeknya yang sudah tak bernyawa. 
+
+Suasana Posko darurat korban longsor di Kintamani, Bangli. 
+
+Suasana Posko darurat korban longsor di Kintamani, Bangli. 
+
+(Tribun Bali/Zaenal Nur Arifin)Jumat dinihari <TIMEX3 tid="t4" type="DATE" value="2017-02-10">kemarin</TIMEX3>, tanah longsor menerjang tiga desa di Kintamani. 
+
+Selain Desa Sukawana, tanah longsor terjadi di Desa Songan B yang menimbun lima rumah warga serta di Desa Awan yang menimbun satu rumah warga. 
+
+Total 12 orang meninggal dunia, tiga orang luka berat, dan dua orang luka ringan. 
+
+Tujuh korban meninggal dunia di Desa Songan B yakni ibu dan dua orang anaknya Jro Balian Resmi (33), Jro Balian Kadek Sriasih (7), dan Komang Agus Putra Santi (1). 
+
+Satu keluarga lain yakni pasangan suami istri dan anaknya yakni I Gede Sentana (40), Luh Bunga (40), Kadek (20), serta seorang warga lain Ni Luh Susun (40). 
+
+// Sedang empat korban tewas di Desa Awan yakni ibu dan anak NI Kadek Arini (27) dan Ni Putu Natalia (10), serta dua kerabatnya Nengah Parmini (40) dan I Nyoman Budiarta (45). 
+
+Keduanya berasal dari Desa Suter yang kebetulan menginap di rumah tersebut. 
+
+Sementara di Desa Sukawana longsor menimpa satu rumah mengakibatkan satu penghuninya tewas yakni I Made Kawi (50). 
+
+Anak korban I Wayan Selang (19) mengalami luka berat dan tadi <TIMEX3 tid="t5" type="TIME" value="2017-02-10TNI">malam</TIMEX3> dirujuk dari RSUD Bangli ke RSUP Sanglah. 
+
+Adapun cucu korban, sang bayi yang baru berusia <TIMEX3 tid="t6" type="DURATION" value="P2M">dua bulan</TIMEX3> selamat dari peristiwa maut tersebut. 
+
+Menurut penuturan anak korban yang selamat, I Ketut Arya (22), tanah longsor terjadi saat ayahnya, Made Kawi, ibunya Wayan Suwari, adiknya Wayang Selang, dan keponakannya tengah tidur pulas. 
+
+Sedang Arya tidak ada di rumah saat peristiwa nahas itu. 
+
+Ia baru pulang ke rumah setelah rumahnya tertimbun longsoran tebing. 
+
+Pria yang berprofesi sebagai sopir ini langsung mencari keberadaan keluarganya. 
+
+Lumpur tanah dan puing-puing bangunan disingkirkannya menggunakan tangan kosong. 
+
+Keringat, air mata, serta tetesan hujan bercampur jadi satu. 
+
+// Namun upayanya tersebut tidak membuahkan hasil, sanak saudaranya tidak ditemukan. 
+
+Tidak berselang lama, petugas Badan Penanggulangan Bencana Daerah (BPBD) Bangli, TNI, dan pihak kepolisian datang ke lokasi. 
+
+Mereka pun tidak menemukan keluarga Arya. 
+
+Namun setelah <TIMEX3 tid="t7" type="DURATION" value="PT4H">hampir empat jam</TIMEX3>, tiba-tiba terdengar suara tangisan bayi dari dalam timbunan reruntuhan. 
+
+Ternyata keponakannya yang masih berumur <TIMEX3 tid="t8" type="DURATION" value="P2M">dua bulan</TIMEX3> masih hidup. 
+
+Saat petugas menggali tepat di atas sumber tangisan, petugas menemukan bayi tersebut berada dalam dekapan kakeknya, Made Kawi, yang telah meninggal. 
+
+Di dekat bayi tersebut juga ditemukan tubuh Wayan Selang yang mengalami patah tulang pinggang, serta Suwari yang hanya mengalami luka lecet. 
+
+Sementara bayi tersebut mengalami sesak napas, karena menghirup lumpur yang menimbun rumah mereka. 
+
+Pantauan Tribun Bali di RSUD Bangli, bayi <TIMEX3 tid="t9" type="DURATION" value="P2M">dua bulan</TIMEX3> tersebut tidak henti-henti menangis. 
+
+Ia tidak kuasa menahan sesak napas yang dialaminya. 
+
+Saat dokter menyedot lumpur di paru-parunya, lumpur yang keluar relatif banyak. 
+
+// Keadaannya semakin memperihatinkan, karena tidak ada keluarga yang menemaninya di RSUD. 
+
+Berdasarkan informasi, bayi tersebut telah ditelantarkan ayah-ibunya. 
+
+Selama ini ia hanya tinggal bersama kakek, nenek, dan pamannya. 
+
+Menjelang <TIMEX3 tid="t10" type="TIME" value="2017-02-10TAF">sore</TIMEX3>, bayi yang belum memiliki nama ini dirujuk ke RSUP Sanglah bersama pamannya, Wayan Selang. 
+
+Tampak Arya turut mengantar dan menemani adik dan ponakannya di ruang IGD RSUP Sanglah, tadi <TIMEX3 tid="t11" type="TIME" value="2017-02-10TNI">malam</TIMEX3>. 
+
+Arya mengatakan sudah memiliki firasat sebelum bencana tanah longsor terjadi. 
+
+Saat hujan disertai angin mengguyur desanya selama <TIMEX3 tid="t12" type="DURATION" value="P3D">tiga hari</TIMEX3> berturut-turut, ia sudah mengingatkan ayahnya untuk pindah sementara di rumah keluarga yang lebih aman. 
+
+" Firasat saya sudah tidak enak saat hujan campur angin yang terjadi di desa saya. 
+
+Saya juga sudah mengajak ayah saya untuk pindah sementara di rumah keluarga di desa sebelah. 
+
+Namun, beliau menolaknya karena masih ingin berkumpul sama keluarga di rumah sendiri, " ungkapnya. 
+
+Arya berharap adiknya dan ponakannya segera pulih. 
+
+Ia juga berharap kepada pemerintah dan masyarakat segera memberikan bantuan kepada semua korban tanah longsor. 
+
+(*) 
+</TEXT>
+
+</TimeML>

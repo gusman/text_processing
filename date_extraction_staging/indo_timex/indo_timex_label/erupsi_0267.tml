@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0267</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-05-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-05-24</TIMEX3></DCT>
+
+<TITLE>Gunung Merapi Kembali Meletus, Terdengar Suara Gemuruh hingga Hujan Pasir</TITLE>
+
+<TEXT>
+Gunung Merapi kembali meletus pada <TIMEX3 tid="t1" type="TIME" value="2018-05-24T02:56">Kamis (24/5/2018) pukul 02.56 WIB</TIMEX3> dengan durasi <TIMEX3 tid="t2" type="DURATION" value="PT4M">4 menit</TIMEX3>. 
+
+Tinggi kolom mencapai 6.000 meter dari puncak Merapi ke arah Barat. 
+
+Berdasarkan Twitter BPPTKG pada <TIMEX3 tid="t3" type="TIME" value="2018-05-23T02:55">pukul 02.55 WIB</TIMEX3>, terjadi letusan durasi <TIMEX3 tid="t4" type="DURATION" value="PT4M">4 menit</TIMEX3>. 
+
+Tinggi Kolom 6.000 meter arah barat dan terdengar dari semua pos pengamatan. 
+
+Letusan yang terjadi pada <TIMEX3 tid="t5" type="TIME" value="2018-05-23T02:55">pukul 02.55</TIMEX3> Wib terdengar suara gemuruh dari Selo tampak kepulan asap dan pijar visual berwarna sinar merah di belakang awan mendung. 
+
+Pada <TIMEX3 tid="t6" type="TIME" value="2018-05-23T03:48">pukul 03.48 WIB</TIMEX3> Twitter BPPGKG menyampaikan agar masyarakat tetap tenang dan mempersiapkan masker, kacamata, obat tetes, topi, jaket lengan panjang jika berpergian. 
+
+Pascaletusan, hujan pasir terjadi di Desa Sumber, Dukun, Magelang. 
+
+Artikel ini telah tayang di Kompas. 
+
+com dengan judul " Merapi Kembali Meletus, Terdengar Suara Gemuruh dan Hujan Pasir " 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0769</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-28</TIMEX3></DCT>
+
+<TITLE>Hujan dari Kemarin, Sejumlah Rumah di Desa Sopi Terendam Banjir</TITLE>
+
+<TEXT>
+Hujan deras yang mengguyur wilayah Kabupaten Pulau Morotai sejak Minggu (27/01/2019) hingga Senin (28/01/2019) hari ini membuat puluhan rumah warga di Desa Sopi Majiko Kecamatan Morotai Jaya Kabupaten Pulau Morotai terendam air.
+
+Roni Sumahi, salah satu warga setempat ketika dihubungi via telepon mengatakan, selain tingginya intensitas hujan, banjir juga disebabkan meluapnya sungai di Desa Sopi.
+
+Banjir tadi sekitar pukul 04.00 WIT, yang diakibatkan oleh hujan yang terus terjadi sejak hari Minggu tanggal 27 Januari 2019 sehingga mengakibatkan sungai di Desa Sopi Majiko meluap,  katanya.
+
+Ketinggian air yang merendam Desa Sopi Majiko Kecamatan Morotai Jaya mencapai lutut orang dewasa,  katanya lagi.
+
+Banjir tersebut merendam perumahan warga dan gedung sekolah serta sarana ibadah, sehingga mengakibatkan aktifitas masyarakat tidak berjalan normal sedangkan aktifitas pendidikan di Desa Sopi Majiko terpaksa diliburkan.
+
+(Dy)
+</TEXT>
+
+</TimeML>
+

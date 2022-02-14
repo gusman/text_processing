@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0162</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-09" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-09</TIMEX3></DCT>
+
+<TITLE>Asap Menyeberang Lagi ke Malaysia</TITLE>
+
+<TEXT>
+Asap akibat kebakaran hutan dan lahan (karhutla) di Sumatera dan Kalimantan lagi-lagi menyebabkan transboundary haze pollution atau polusi lintas batas. 
+
+Data satelit citra sebaran asap di laman BMKG pada <TIMEX3 tid="t1" type="TIME" value="2019-09-08T11:00">Minggu (8/9) pukul 11.00 WIB</TIMEX3> menunjukkan adanya sejumlah besar asap yang bergerak dari wilayah barat Provinsi Kalimantan Barat menuju ke wilayah Sarawak Malaysia. 
+
+Asap fluktuatif masuk ke Malaysia. 
+
+Hanya <TIMEX3 tid="t2" type="TIME" value="2019-09-08T11:00">pukul 11.00 WIB</TIMEX3>, setelah itu tidak terdeteksi asap lagi, jelas Plh Kapusdatin dan Humas Badan Nasional Penanggulangan Bencana (BNPB) Agus Wibowo, <TIMEX3 tid="t3" type="DATE" value="2019-09-08">Minggu (8/9/2019)</TIMEX3>. 
+
+Selain itu, citra BMKG juga memperlihatkan banyak titik panas (hotspot) karhutla terdapat di wilayah perbatasan Kalimantan Barat maupun dan Serawak-Malaysia, sehingga transboundary haze tersebut kemungkinan besar merupakan gabungan dari asap karhutla di kedua wilayah tersebut. 
+
+Sedangkan di wilayah Singapura dan Semenanjung Malaysia tidak terdeteksi asap lintas batas atau transboundary haze dari Sumatera, lanjut Agus. 
+
+Agus menyatakan, BNPB dan pemerintah daerah masih bekerja keras untuk memadamkan karhutla yang masih terjadi di beberapa tempat di Indonesia. 
+
+Untuk 6 Provinsi prioritas BNPB menerjunkan 9.072 personel untuk patroli, sosialisasi, dan pemadaman darat, juga dikerahkan 37 pesawat untuk water bombing dan patroli. 
+
+Di Provinsi Riau dikerahkan juga pesawat untuk operasi teknologi modifikasi cuaca atau hujan buatan. 
+
+Berdasarkan data BMKG, sedikitnya 2.510 titik panas terpantau tersebar di seluruh wilayah ASEAN. 
+
+Seluruh titik panas tersebut terpantau oleh citra Satelit Terra Aqua MODIS, SNPP, NOAA20 dan Satelit Himawari-8 selama kurun <TIMEX3 tid="t4" type="DATE" value="2019-07-04">4-7</TIMEX3> September <TIMEX3 tid="t5" type="DATE" value="2019">2019</TIMEX3>. 
+
+(tau) 
+</TEXT>
+
+</TimeML>

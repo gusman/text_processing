@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0004</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-02" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-02</TIMEX3></DCT>
+
+<TITLE>Alasan Pertamina Soal Lambatnya Distribusi BBM ke Palu dan Donggala</TITLE>
+
+<TEXT>
+Bantuan untuk korban gempa dan tsunami di Palu serta Donggala tengah menjadi perbincangan hangat di media sosial. 
+
+Bahkan, muncul meme-meme yang menyindir pemerintah soal lambatnya bantuan yang masuk. 
+
+Malahan, <TIMEX3 tid="t1" type="DATE" value="PAST_REF">baru-baru ini</TIMEX3> marak informasi soal penjarahan dari para korban gempa ke sejumlah minimarket, ATM, bahkan juga Stasiun Pengisian Bahan Bakar Umum (SPBU). 
+
+Khusus soal SPBU, PT Pertamina (Persero) tengah disorot. 
+
+Kebutuhan akan bahan bakar minyak (BBM) dianggap tidak mampu dipenuhi lantaran lambatnya distribusi. 
+
+Menanggapi hal itu, VP Corporate Communication Pertamina Adiatma Sardjito mengungkapkan, lambatnya distribusi disebabkan karena akses jalan menuju Palu dan Donggala banyak mengalami kerusakan dan sulit ditempuh. 
+
+Disana jalannya kecil-kecil dan gunung-gunung. 
+
+Jaraknya 250 km dari Poso. 
+
+Kita masih kirim terus, ujarnya saat dikonfirmasi JawaPos. 
+
+com, <TIMEX3 tid="t2" type="DATE" value="2018-10-02">Selasa (2/10)</TIMEX3>. 
+
+Selain itu, lanjutnya, banyak terminal BBM perseoran yang mengalami kerusakan. 
+
+Hal itu juga menyulitkan pihaknya mendistribusikan BBM meskipun sudah tersedia. 
+
+Jadi kondisi itu Donggala itu terminal BBM Pertamina mengalami kerusakan. 
+
+Ada tangki bergeser kena tsunami. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> sudah bisa beroperasi minimal, tuturnya. 
+
+Meski demikian, Adiatma menegaskan jika pihaknya terus melakukan upaya pendistribusian melalui beberapa jalur alternatif. 
+
+Hingga <TIMEX3 tid="t4" type="TIME" value="2018-10-01TMO">pagi tadi</TIMEX3>, sudah 4 ribu liter BBM yang sudah tiba di Palu. 
+
+Kita juga menggunakan pesawat udara dari Tarakan. 
+
+Ini udah <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">hari kedua</TIMEX3> sudah sampai Palu. 
+
+Tarakan ke Palu <TIMEX3 tid="t6" type="DATE" value="4000">4000</TIMEX3> liter. 
+
+Dari Poso dan seterusnya tadi, tandasnya. 
+
+(hap/JPC) 
+</TEXT>
+
+</TimeML>

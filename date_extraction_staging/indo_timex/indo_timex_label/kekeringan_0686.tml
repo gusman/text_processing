@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0686</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-04-13" temporalFunction="false" functionInDocument="CREATION_TIME">2016-04-13</TIMEX3></DCT>
+
+<TITLE>Pemkot Ambon Distribusikan Air Bersih di 70 Lokasi</TITLE>
+
+<TEXT>
+Pemerintah Kota (Pemkot) Ambon mendistribusikan air bersih ke 70 lokasi di lima kecamatan yang mengalami krisis air bersih. 
+
+Distribusi air bersih akan dilakukan selama <TIMEX3 tid="t1" type="DURATION" value="P1M">satu bulan</TIMEX3> secara bergilir guna mengatasi dampak kekeringan yang berkepanjangan, kata Wali Kota Ambon Richard Louhenapessy di Ambon, <TIMEX3 tid="t2" type="DATE" value="2016-04-13">Rabu (13/4)</TIMEX3>. 
+
+Pemkot menyiapkan delapan mobil tangki untuk menyalurkan air bersih itu ke sejumlah kawasan yang mengalami krisis air bersih, di antaranya Gunung Nona, Wainitu, Batu Merah, Kudamati, Benteng, Kelurahan Nusaniwe, Mangga Dua, Halong, Lata, Lateri, Wailiha, hingga Laha. 
+
+Richard menyatakan, air bersih menjadi perhatian utama sehingga Pemkot Ambon melakukan langkah penanganan berkoordinasi dengan Badan Nasional Penanggulangan Bencana (BNPB). 
+
+BNPB, lanjutnya, telah mengalokasikan anggaran sebesar Rp300 juta untuk operasi air bersih di kota Ambon. 
+
+Kita berharap warga kota dapat memanfaatkan air bersih secara gratis dengan baik, katanya. 
+
+Ia mengatakan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> air bersih menjadi masalah serius bagi masyarakat Ambon di pusat kota. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> daerah resapan air semakin berkurang seperti kawasan Gunung Nona, Halong, dan Air Besar, sementara hanya ada dua kawasan yang masih aman yakni Soya dan Hatalai. 
+
+Bahkan kawasan air keluar di Mangga Dua yang <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dahulu</TIMEX3> merupakan sumber air utama mengalami masalah kekeringan serius, tandasnya. 
+
+Richard menambahkan, sejak <TIMEX3 tid="t6" type="DATE" value="2016-01">Januari 2016</TIMEX3> Kota Ambon mengalami kemarau panjang yang berdampak pada kebakaran hutan dan lingkungan, serta krisis air bersih. 
+
+Untuk mengantisipasi kekeringan yang berdampak pada kebakaran hutan pihaknya bersama Kantor Pemadam Kebakaran menyiagakan petugas untuk melakukan pemadaman di lokasi kebakaran. 
+
+Sementara untuk mengantisipasi krisis air bersih kita terus mengimbau masyarakat untuk menggunakan air bersih secara efisien, katanya. 
+
+
+</TEXT>
+
+</TimeML>

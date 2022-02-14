@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1060</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-08-28" temporalFunction="false" functionInDocument="CREATION_TIME">2015-08-28</TIMEX3></DCT>
+
+<TITLE>Kabut Asap Kian Parah di Agam dan Bukittinggi</TITLE>
+
+<TEXT>
+Kota Bukittinggi dan Kabupaten Agam dalam <TIMEX3 tid="t1" type="DURATION" value="P1W">satu minggu</TIMEX3> terakhir kembali diselimuti kabut Asap. 
+
+Bahkan <TIMEX3 tid="t2" type="SET" value="P1D">tiap hari</TIMEX3> semakin pekat sehingga membatasi jarang pandang. 
+
+Kepala Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Kototabang, Palupuah Agam, Edison Kurniawan mengakui terjadi peningkatan partikel debu (PM-10), yang sudah mencapai 110 migkrogam /meter kubit (ug/m3). 
+
+Hal itu berdasarkan hasil pematau atmosfir global di Bukik Koto Tabang Palupuah, <TIMEX3 tid="t3" type="DATE" value="2015-08-28">Jumat (28/8)</TIMEX3> sekitar <TIMEX3 tid="t4" type="TIME" value="2015-08-27T10:00">pukul 10.00 WIB</TIMEX3>. 
+
+Menurut Edison peningkatan partikel debu itu kemungkinan dipengaruhi kebakaran hutan yang terjadi di Sumatera Selatan dan Jambi yang disertai arah angin yang bergerak dari selatan masuk wilayah Sumbar. 
+
+
+</TEXT>
+
+</TimeML>

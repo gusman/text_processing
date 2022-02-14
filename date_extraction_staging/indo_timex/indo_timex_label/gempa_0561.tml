@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0561</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-01</TIMEX3></DCT>
+
+<TITLE>Bantu Korban Bencana Alam Gempa Palu dan Donggala  Indosat Ooredoo Turunkan Mobil Klinik dan Telepon Gratis</TITLE>
+
+<TEXT>
+Gempa bumi dan tsunami yang melanda wilayah Palu dan Donggala, Sulawesi Tengah, sejak <TIMEX3 tid="t1" type="DATE" value="2018-09-28">28 September lalu</TIMEX3> telah menelan korban jiwa dan kerusakan yang cukup serius. 
+
+Bencana tersebut telah menghentikan aktivitas <TIMEX3 tid="t2" type="SET" value="P1D">sehari-hari</TIMEX3> masyarakat bahkan sebagian besar masyarakat harus diungsikan dan tinggal dalam kondisi darurat. 
+
+Indosat Ooredoo terpanggil untuk meringankan beban masyarakat sekitar yang terdampak melalui beberapa program kepedulian sosial, selain upaya pemulihan jaringan telekomunikasi yang masih terus dilakukan. 
+
+Indosat Ooredoo turut berduka cita dan prihatin atas musibah bencana alam gempa bumi dan tsunami di wilayah Palu, Donggala dan sekitarnya. 
+
+Upaya pertama yang kami lakukan adalah melakukan berbagai upaya pemulihan layanan dan jaringan yang terdampak, mengingat komunikasi dibutuhkan pada saat-saat genting setelah gempa. 
+
+Disusul kemudian dengan pengoperasian Mobil Klinik yang memberikan pertolongan pertama kepada korban gempa, terutama di masa tanggap darurat yang masih berlangsung <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Selanjutnya kami juga menyediakan layanan telekomunikasi gratis agar masyarakat yang terdampak dapat menghubungi dan memberi kabar kepada sanak saudaranya. 
+
+Kami berharap kondisi segera berangsur baik dan masyarakat dapat segera menjalankan aktivitas normal kembali, ujar Joy Wahjudi, President Director amp; CEO Indosat Ooredoo. 
+
+Indosat Ooredoo masih terus berupaya memulihkan jaringan telekomunikasi yang terkendala karena ketiadaan daya listrik dan jaringan transmisi down. 
+
+Tim teknis jaringan langsung terjun ke lapangan untuk mengatasi berbagai kendala agar site dan BTS dapat segera pulih di tengah ketiadaan daya listrik, kelangkaan bahan bakar serta beberapa kondisi medan/lokasi site yang rusak karena gempa. 
+
+Sementara itu, Indosat Ooredoo mengirimkan Mobil Klinik yang berada di Makassar dengan membawa tenaga medis dan petugas kesehatan. 
+
+Kegiatan yang direncanakan akan berlangsung selama <TIMEX3 tid="t4" type="DURATION" value="P2W">2 minggu</TIMEX3> di 12 titik tersebut meliputi layanan kesehatan umum, pemberian makanan tambahan, pemulihan trauma untuk anak-anak, dan pembagian paket kebutuhan darurat. 
+
+Penerima manfaat ditargetkan sebanyak 3.000 orang menerima layanan ini. 
+
+Selain bantuan kesehatan, Indosat Ooredoo memberikan telpon dan SMS gratis sampai dengan <TIMEX3 tid="t5" type="DATE" value="2018-10-14">tanggal 14 Oktober 2018</TIMEX3> ke semua operator, tanpa perlu mendaftar paket tertentu, dan bisa langsung dinikmati oleh pelanggan yang berada di wilayah bencana. 
+
+Selain memberikan bantuan kemanusian berupa layanan kesehatan dan layanan telekomunikasi gratis, Indosat Ooredoo melalui Indosat Ooredoo Business selaku penyedia layanan Teknologi, Komunikasi dan Informasi (ICT) bagi perusahaan/instansi di Palu amp; Donggala menyiapkan langkah-langkah guna memberikan bantuan dan dukungan bagi para instansi/perusahaan yang menjadi korban bencana. 
+
+Indosat Ooredoo Business akan bertemu dengan pihak instansi/perusahaan yang menjadi korban bencana menyiapkan beberapa langkah berupa penyiapan tim khusus guna menganalisa amp; memperbaiki kerusakan-kerusakan dari segi IT/komunikasi yang berdampak dari bencana serta menyiapkan telepon satelit guna membantu pihak instansi/perusahaan menjalin koordinasi. 
+
+Kami berharap berbagai upaya ini akan bermanfaat dan membantu masyarakat yang terdampak bencana agar mereka dapat segera melewati masa-masa sulit tanggap darurat serta masa-masa pemulihan setelah bencana, sehingga dapat segera hidup dan beraktivitas secara normal kembali, tutup Joy. 
+
+rel/hms 
+</TEXT>
+
+</TimeML>

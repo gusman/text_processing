@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0444</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-11-28" temporalFunction="false" functionInDocument="CREATION_TIME">2017-11-28</TIMEX3></DCT>
+
+<TITLE>117 Warga Negara Asing Urus Izin Tinggal Darurat di Posko Imigrasi Bandara Ngurah Rai</TITLE>
+
+<TEXT>
+Pihak Imigrasi Kelas I Khusus Ngurah Rai hingga <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih membuka posko Imigrasi di lantai 2 Terminal Internasional Bandara I Gusti Ngurah Rai, <TIMEX3 tid="t2" type="TIME" value="2017-11-28TEV">Selasa (28/11/2017) petang</TIMEX3>. 
+
+Kepala Kantor Imigrasi Kelas I Khusus Ngurah Rai, Ari Budijanto mengatakan pemberian izin darurat (Visit Stay On Force Majeure) terhadap penumpang WNA di Bandara Ngurah Rai terdaftar sebanyak 117 orang. 
+
+Data tersebut merupakan data <TIMEX3 tid="t3" type="DATE" value="2017-11-28">Selasa 28 November 2017</TIMEX3> hingga <TIMEX3 tid="t4" type="TIME" value="2017-11-27T17:27">pukul 17.27 WITA tadi</TIMEX3>. 
+
+Izin tinggal emergency bagi mereka yang telah mendaftar berlaku selama <TIMEX3 tid="t5" type="DURATION" value="P14D">14 hari</TIMEX3> dan dapat diperpanjang. 
+
+Pemberian izin darurat ini diberikan kepada WNA dengan catatan kalau sebelum Gunung Agung erupsi sudah over stay maka akan diberlakukan ketentuan normal. 
+
+Berita di atas sebelumnya telah dipublikasikan di Tribun Bali dengan judul 117 WNA Urus Visit Stay On Force Majeure di Posko Imigrasi Bandara Ngurah Rai 
+</TEXT>
+
+</TimeML>

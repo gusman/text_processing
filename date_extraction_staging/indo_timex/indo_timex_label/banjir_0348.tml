@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0348</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-11-08" temporalFunction="false" functionInDocument="CREATION_TIME">2017-11-08</TIMEX3></DCT>
+
+<TITLE>Jalan Rancakalong Sumedang Terputus, Pelajar Diangkut Perahu karena Angkot Tak Beroperasi</TITLE>
+
+<TEXT>
+Akibat banjir yang menggenangi wilayah kampung Cibawang, Desa Sukasirna, Kecamatan Rancakalong, Kabupaten Sumedang, Jalan Sumedang-Subang via Rancakalong terputus. 
+
+Ketinggian banjir yang mencapai 1,5 meter membuat kendaraan, baik motor maupun mobil, tidak sanggup lewat. 
+
+Bukan itu saja, angkutan kota (angkot) nomor 08 dengan jalur Rancakalong-Tanjungsari pun <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> tidak beroperasi akibat jalan terputus. 
+
+Hal ini membuat warga kesulitan untuk berpergian karena angkot nomor 08 tersebut satu-satunya kendaraan umum yang beroperasi di wilayah tersebut " Sebetulnya ada jalur kampung kalau mau lewat, tapi angkot tidak mau karena jalur itu kecil, " ujar Jeki, warga Rancakalong, ketika ditemui Tribun Jabar di lokasi, <TIMEX3 tid="t2" type="DATE" value="2017-11-08">Rabu (8/11/2017)</TIMEX3>. 
+
+Gelandang Persib Bandung Ini Akan Gantikan Peran 2 Pemain dan WHU Sebut Shaun Evans Wasit Terburuk https://t. 
+
+co/oUGSLUcsv3 via tribunjabarTidak adanya angkot menyulitkan warga untuk beraktivitas, warga kesulitan berangkat ke pasar ataupun beraktivitas. 
+
+Para pelajar bahkan harus diangkut oleh perahu karet milik Taruna Siaga Bencana (Tagana) agar dapat meneruskan perjalanan ke sekolah. 
+
+Beberapa warga bahkan mengaku anaknya tidak dapat sekolah karena dari lokasi menuju sekolah seharusnya menggunakan angkot. " Kalau jalan kan jauh, tapi angkot tidak beroperasi, jadi bingung, " ujar Cicih, warga Rancakalong.Cicih berharap ada angkutan sementara agar aktivitas warga tidak terganggu dan dapat mengangkut para pelaja 
+</TEXT>
+
+</TimeML>

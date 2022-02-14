@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_1079</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-12-14" temporalFunction="false" functionInDocument="CREATION_TIME">2015-12-14</TIMEX3></DCT>
+
+<TITLE>Bandara Abd Saleh Malang Beroperasi Kembali</TITLE>
+
+<TEXT>
+Pihak otoritas Bandara Abdulrachman Saleh Malang, Jawa Timur membuka kembali layanan muai <TIMEX3 tid="t1" type="TIME" value="2015-12-13T07:30">pukul 07.30 tadi</TIMEX3>. 
+
+Badara ini beroperasi kembali setelah sejak <TIMEX3 tid="t2" type="DATE" value="2015-12-11">Jumat lalu</TIMEX3> ditutup karena dampak meluasnya semburtan debu vulkanik Gunung Bromo. 
+
+Namun tadi <TIMEX3 tid="t3" type="TIME" value="2015-12-14TMO">pagi</TIMEX3> terkirim pemberitahuan resmi bahwa bandara di Malang ini sudah bisa beroperasi kembali. 
+
+" Sesuai Notarm, untuk Bandara Abdulrachman Saleh Malang sudah kembali normal lagi. 
+
+Pemberitahuan bahwa bandara kembali itu sudah dikirim ke kita " kata Kasi Data dan Informasi BMKG Juanda, Bambang Setiajid. 
+
+Meski di Gunung Bromo <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> terus menunjukkan peningkatan akvitas. 
+
+Hingga tetjadi hujan abu vukanik. 
+
+Diduga dikhabarkan bahwa arah angin menjauh menuju Malang. 
+
+. 
+
+com/SURYAonline FOLLOW Twitter Surya - http://twitter. 
+
+com/portalSURYA 
+</TEXT>
+
+</TimeML>

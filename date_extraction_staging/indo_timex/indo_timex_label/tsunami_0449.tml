@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0449</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-29</TIMEX3></DCT>
+
+<TITLE>Prihatin Bencana Tsunami Banten, Muslimat NU Jatim Bakal Gelar Doa Keselamatan Bangsa Besok</TITLE>
+
+<TEXT>
+Pengurus Wilayah (PW) Muslimat NU Jatim akan mengadakan doa keselamatan bangsa, dan juga memperingati maulid nabi, yang akan digelar di Jatim Expo Surabaya, <TIMEX3 tid="t1" type="DATE" value="2018-12-30">Minggu (30/12/2018)</TIMEX3>. 
+
+Berdasarkan rilis yang diterima oleh TribunJatim. 
+
+com, acara yang rencananya digelar mulai <TIMEX3 tid="t2" type="TIME" value="2018-12-29T08:00">pukul 08.00 WIB itu</TIMEX3> sebagai bentuk keprihatinan warga Muslimat NU terkait musibah dan bencana alam Tsunami di Selat Sunda. 
+
+Mariyam Baharuddin selaku Sekretaris PW Muslimat NU Jatim menjelaskan, doa bersama tersebut juga digelar agar negara Indonesia tetap damai dan utuh. 
+
+. 
+
+Tidak ada bencana, tidak ada hoax, dan Muslimat NU berusaha menjaga bangsa ini agar tetap utuh, " ujar Sekretaris PW Muslimat NU Jatim, Mariyam Baharuddin di Surabaya, <TIMEX3 tid="t3" type="DATE" value="2018-12-29">Sabtu (29/12/2018)</TIMEX3>. 
+
+Ia menambahkan, acara tersebut rencananya akan dihadiri oleh Khofifah Indar Parawansa selaku ketua umum Muslimat NU yang juga selaku Gubernur Jatim terpilih 2019-2024. 
+
+Selain itu, diperkirakan akan hadir 24 ribu warga Muslimat yang mengikuti kegiatan doa bersama itu. 
+
+Selain Doa untuk Keselamatan Bangsa dan Maulidur Rasul, kata Maryam, acara ini sekaligus untuk menyongsong Harlah ke-73 Muslimat NU. 
+
+" <TIMEX3 tid="t4" type="DATE" value="2018-12">Desember ini</TIMEX3> juga masih nuansa Hari Ibu, jadi ini moment yang tepat bagi para ibu untuk mendoakan bangsa, " katanya. 
+</TEXT>
+
+</TimeML>

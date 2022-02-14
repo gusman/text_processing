@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0170</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-21" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-21</TIMEX3></DCT>
+
+<TITLE>2019, Karhutla di Tanjungriau Paling Banyak</TITLE>
+
+<TEXT>
+Kepala Bidang (Kabid) Pemadam dan Penanggulangan Bencana Damkar Batam, Tongam Reigianto, mengatakan selama <TIMEX3 tid="t1" type="DATE" value="2019">2019</TIMEX3>, kasus kebakaran yang paling besar ditangani adalah kebakaran hutan dan lahan (Karhutla) di Tanjungriau. 
+
+Kami berkoordinasi dengan Penanggulangan Bahaya Kebakaran (PBK) BP Batam, dan Mangga Agni Daops Batam, dengan medan yang sulit, terpaksa harus mendatangkan helikopter, ucapnya, <TIMEX3 tid="t2" type="DATE" value="2019-12-20">Jumat (20/12/2019)</TIMEX3>. 
+
+Selain itu, kasus terbesar lainnya adalah kebakaran yang menghanguskan dua unit ruko di Kompleks Green Town Bengkong, Batam dan 41 rumah liar (ruli) yang ludes di Baloi Persero Bawah, tepatnya di belakang Indomobil. 
+
+Ini penanganannya memakan waktu yang lama, <TIMEX3 tid="t3" type="DURATION" value="UNKNOWN">hampir seharian</TIMEX3>, karena banyak juga bahan yang mudah terbakar di dalamnya, ucap Tongam. 
+
+Tongam mengatakan, dalam menjalankan tugasnya, Damkar tidak hanya bekerja sendiri, melainkan bersinergi bersama PBK BP Batam dan Manggala Agni beserta Kepolisian dan TNI, Misalnya polisi membantu kami dalam menyediakan water canon sebagai tambahan air dalam melakukan pemadaman, ucapnya. 
+
+Selain memadamkan kebakaran, Damkar Batam juga melakukan penyelamatan atau evakuasi terhadap hewan yang menganggu masyarakat. 
+
+Tongam mengimbau masyarakat untuk melakukan pencegahan kebakaran dari sedini mungkin. 
+
+Kami sering mengimbau khususnya warga yang bercocok tanam, untuk tidak membakar lahan, terus di rumahnya masing-masing, misalnya dalam penggunaan gas elpiji dan daya listrik harus berhati-hati, ujarnya. 
+
+(mib) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1128</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-21" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-21</TIMEX3></DCT>
+
+<TITLE>Akses Jalan Negara Lumpuh, Puluhan Rumah dan Toko Warga di Nagari Kunpar Sijunjung Terendam Banjir</TITLE>
+
+<TEXT>
+Akibat hujan deras sepanjang <TIMEX3 tid="t1" type="DATE" value="2020-01-21">Selasa (21/1/2020)</TIMEX3> dini hari, puluhan rumah dan toko serta kios warga di Nagari Kunangan Parit Rantang (Kunpar), Kecamatan Kamang Baru, Kabupaten Sijunjung, Sumatera Barat terendam banjir. 
+
+Bahkan akses jalan negara di sepanjang Jorong Sungai Tambang, Nagari Kunpar itu lumpuh. 
+
+Hingga <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> banjir masih merendam pemukiman warga. 
+
+Selain rumah dan toko serta kios warga, banjir juga merendam sejumlah kantor di Kunpar, ucap Syafri Chomang dan Indrawadi tokoh masyarakat Kamang Baru. 
+
+Warga yang terendam banjir berupa mengevakuasi barang dan harta mereka agar tidak terjangkau banjir. 
+
+Selain di Kunpar, banjir juga melanda Nagari Muaro Takung. 
+
+Banjir di Nagari Muaro Takung dipicu akibat meluapnya Batang Takung. 
+
+Banjir tersebut juga merendam puluhan rumah di daerah itu. 
+
+Tak hanya banjir, tanah longsor juga menimbun sejumlah badan jalan yang ada di Kamang Baru. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> petugas juga sedang mengerahkan alat berat untuk membuka akses jalan yang tertimpa longsor. 
+
+Selain di Kamang Baru, banjir dan longsor juga menimpa Kecamatan Tanjung Gadang. 
+
+Seperti Jorong Tandikek Nagari Tembulun dan Nagari Tanjung Gadang juga dilanda. 
+
+banjir dan longsor. 
+
+Plt BPBD (Badan Penanggulangan Bencana Daerah) Sijunjung, Hendri Caniago membenarkan bencana banjir dan tanah longsor melanda Kecamatan Kamang Baru dan Tanjung Gadang itu. 
+
+Ya, selain Muaro Takung di rendam banjir, juga terdapat beberapa daerah terkena longsor. 
+
+Seperti, Nagari Kunpar, Nagari Tembulun dan Nagari Tanjung Gadang di Kecamatan Tanjung Gadang juga terkena bencana. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kami berada dilokasi bencana membantu warga, ucap Hendri Caniago. 
+
+Kapolres Sijunjung, AKBP Driharto, SIK, melalui Paur Humas Polres Sijunjung, Iptu Nasrul, membenarkan peristiwa tersebut. 
+
+Benar, <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> Kecamatan Kamang Baru dan Tanjung Gadang dilanda banjir dan longsor. 
+
+Kita masih menunggu data lengkap akibat bencana tersebut, ucap Ajo panggilan akrab Iptu Nastul. 
+
+saptarius 
+</TEXT>
+
+</TimeML>

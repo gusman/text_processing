@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0162</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-02-01" temporalFunction="false" functionInDocument="CREATION_TIME">2019-02-01</TIMEX3></DCT>
+
+<TITLE>Korban Tewas Banjir Sulsel 79 Orang</TITLE>
+
+<TEXT>
+Badan Nasional Penanggulangan Bencana (BNPB) mencatat sebanyak 79 orang dinyatakan meninggal dunia dan satu orang hilang akibat bencana banjir, puting beliung, tanah longsor, dan abrasi di wilayah Sulawesi Selatan. 
+
+Selain itu, puluhan orang mengalami luka-luka dan ribuan orang masih mengungsi. 
+
+Data tersebut didapatkan dari pembaruan yang dilakukan pada <TIMEX3 tid="t1" type="DATE" value="2019-01-31">Kamis 31 Januari 2019</TIMEX3>. 
+
+Sampai <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> update 79 orang meninggal dunia, satu orang hilang masih dalam proses pencarian, 48 jiwa luka-luka. 
+
+Dan total pengungsi 5.506 jiwa, ujar Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho, di kantornya, <TIMEX3 tid="t3" type="DATE" value="2019-01-31">Kamis (31/1)</TIMEX3>. 
+
+Rangkaian bencana di Sulawesi Selatan ini juga turut mengakibatkan kerusakan fisik di antaranya, 1.397 unit rumah rusak, 22.506 unit rumah terendam, dan 12.785 unit lahan sawah ikut terdampak. 
+
+Jembatan rusak 56 unit, kemudian lahan pertanian sawah yang terendam 12.785 unit, kata Sutopo. 
+
+Sementara itu, Sutopo mengatakan proses masa tanggap darurat masih berlangsung hingga <TIMEX3 tid="t4" type="DATE" value="2019-02-06">6 Februari 2019 mendatang</TIMEX3>. 
+
+Perpanjangan masa tanggap darurat itu akan disesuaikan dengan kondisi di lapangan. 
+
+Apakah diperpanjang apa tidak oleh Gubernur akan disesuaikan dengan kondisi lapangan yang ada, ucapnya. 
+
+Sutopo mengatakan <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> petugas fokus melakukan pembersihan lingkungan akibat lumpur dan material yang terbawa oleh banjir. 
+
+Ia mengaku tim di lapangan masih kesulitan untuk mengakses daerah yang terdampak longsor. 
+
+Alhasil, proses distribusi logistik ke lokasi bencana terkendala. 
+
+Karena akses kendaraan tidak bisa dilalui sehingga terpaksa pengiriman melalui jalur darat. 
+
+Oleh karena itu TNI, Polri, atau relawan mereka terpaksa jalan kaki untuk mendistribusikan bantuan, karena jalannya masih tertutup oleh material-material longsor, dan itu terjadi di beberapa tempat, papar Sutopo. 
+
+Sutopo juga mengatakan Wakil Presiden Jusuf Kalla telah memerintahkan BNPB agar membantu proses penanganan pasca bencana. 
+
+Nantinya rehabilitasi rekonstruksi pasti <TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">nanti</TIMEX3> juga akan dilakukan, ucap Sutopo. 
+
+Sebelumnya, Wakil Presiden RI HM Jusuf Kalla mengatakan korban meninggal akibat bencana banjir dan tanah longsor di Sulawesi Selatan akan mendapat santunan sebesar Rp15 juta perorang. 
+
+Hal itu merupakan keputusan bersama pada rapat yang digelar di Ruang Rapat Pimpinan Kantor Gubernur Sulawesi Selatan, Makassar, <TIMEX3 tid="t7" type="DATE" value="2019-01-27">Minggu (27/1)</TIMEX3>. 
+
+Santunan akan segera disalurkan oleh Kementerian Sosial. 
+
+Jadi program yang segera (dilakukan) ialah membantu korban yang meninggal. 
+
+Dari Kemensos akan segera dibantu santunan Rp15 juta perorang, kata JK.Jusuf Kalla menginstruksikan santunan bagi ahli waris korban meninggal dunia akibat bencana banjir, longsor dan angin kencang di Provinsi Sulawesi Selatan segera disalurkan.Kementerian Sosial RI sendiri memutuskan menambah alokasi bantuan untuk penanganan banjir dan tanah longsor di Sulawesi Selatan.Seperti diketahui hujan dengan intensitas tinggi disertai angin kencang melanda wilayah Sulawesi Selatan pada <TIMEX3 tid="t8" type="DATE" value="2019-01-22">22 Januari lalu</TIMEX3>. 
+
+Tercatat 53 kecamatan di 12 kabupaten/kota di wilayah Provinsi Sulawesi Selatan yang mengalami banjir, tanah longsor dan angin kencang Kabupaten Jeneponto, Kabupaten Gowa, Kabupaten Maros, Kabupaten Soppeng, Kabupaten Barru, Kabupaten Wajo, Kabupaten Pangkajene Kepulauan, Kabupaten Bantaeng, Kota Makassar, Kabupaten Selayar, dan Kabupaten Takalar.(cnn/rep) 
+</TEXT>
+
+</TimeML>

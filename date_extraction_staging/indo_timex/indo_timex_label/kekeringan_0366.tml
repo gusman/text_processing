@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0366</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-18" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-18</TIMEX3></DCT>
+
+<TITLE>19 Kecamatan Krisis Air Bersih Hingga Kekeringan, Pemkab Tangerang Gelar Salat Minta Hujan</TITLE>
+
+<TEXT>
+Pemerintah Kabupaten Tangerang bersama PDAM TKR (Tirta Kerta Raharja) menggelar salat Istisqo untuk meminta hujan kepada sang kuasa. 
+
+Salat meminta hujan dilakukan berjamaah lantaran <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau</TIMEX3> yang terlampau panjang sehingga hujan tak kunjung membasahi Tangerang terutama Kabupaten Tangerang sejak <TIMEX3 tid="t2" type="DATE" value="2019-07">bulan Juli 2019</TIMEX3>. 
+
+Sekretaris Daerah Kabupaten Tangerang Moch. 
+
+Maesyal Rasyid mengatakan salat yang dilaksanakan pada <TIMEX3 tid="t3" type="DATE" value="2019-09-18">Rabu (18/9/2019)</TIMEX3> tak lain tujuannya untuk meminta hujan. 
+
+Sebab, bahan baku air di Sungai Cisadane sudah semakin surut dan kualitas yang memburuk. 
+
+" Karena memang situasi kondisi air Sungai <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> musim kemarau air Sungai Cisadane itu betul-betul berkurang volumenya, termasuk kualitasnya sudah berkurang, " ujar Maesyal, <TIMEX3 tid="t5" type="DATE" value="2019-09-18">Rabu (18/9/2019)</TIMEX3>. 
+
+Ia menjelaskan, setidaknya ada 19 kecamatan dari 29 kecamatan di Kabupaten Tangerang yang terdampak kemarau panjang.19 kecamatan yang didera kekeringan tersebut, kata Maesyal, kebanyakan berlokasi di bagian Utara Tangerang. 
+
+" Di bagian pantura yang paling banyak terdampak kekeringan. 
+
+Itu berdasarkan laporan warga dan perangkat daerah setempat, " kata Maesyal.Namun, Pemerintahan Kabupaten Tangerang bersama instansi lain telah mengedarkan 492 tangki air bersih ke warganya yang terdampak kekeringan. 
+
+// Atau senilai dengan, 2.145.000 liter air bersih yang sudah didistribusikan ke 19 kecamatan yang terdampak kekeringan. 
+
+" Memang masih banyak yang kita juga belum distribusikan lagi, jadi sekali lagi mohon doanya supaya <TIMEX3 tid="t6" type="DATE" value="2019-09-18">hari ini</TIMEX3> kita minta dan semoga <TIMEX3 tid="t7" type="DATE" value="2019-09-18">hari ini</TIMEX3> diturunkan hujan, " ujar Maesyal. 
+
+. 
+
+" Mudah-mudahan dengan ketulusan hati dari kita semua yang hadir pada <TIMEX3 tid="t8" type="DATE" value="2019-09-18">hari ini</TIMEX3> semoga <TIMEX3 tid="t9" type="DATE" value="FUTURE_REF">nanti</TIMEX3> doa dan salat yang kita lakukan bersama-sama ini segera dikabulkan oleh Allah subhanahu wa ta'ala dalam rangka memohon hujan, " katanya. 
+
+Rusdy menceritakan bahwa sampai <TIMEX3 tid="t10" type="DATE" value="2019-09-18">hari ini</TIMEX3> pelayanan PDAM kepada konsumen masih normal tidak ada yang terganggu. 
+
+Namun dengan volume air baku yang berkurang terus menerus akibat kemarau, kemudian juga banyak limbah sehingga menambah beban biaya produksi dari PDAM TKR. 
+
+" Sampai <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih aman kita dalam melayani konsumen makanya kita kan harus antisipasi ya kalau dibiarkan ini kemarau berkepanjangan kondisi air baku semakin surut kalau sampai begini terus bisa berdampak nantinya, " harap Rusdy. 
+
+
+</TEXT>
+
+</TimeML>

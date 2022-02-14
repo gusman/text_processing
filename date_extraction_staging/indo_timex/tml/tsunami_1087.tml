@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1087</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-27" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-27</TIMEX3></DCT>
+
+<TITLE>Ini Jumlah Korban Jiwa Tsunami</TITLE>
+
+<TEXT>
+Korban jiwa bencana tsunami di pesisir Pantai Anyer, Banten terus bertambah.
+
+Badan Nasional Penanggulangan Bencana (BNPB) menyebut hingga H+4, total korban jiwa 430 orang, 1.495 orang luka-luka, 159 orang hilang dan 21.991 orang mengungsi.
+
+Terbanyak meninggal berada di Kabupaten Pandeglang sebanyak 290 orang.
+
+Lalu di Kabupaten Lampung Selatan terdapat 113 orang meninggal dunia,  ungkap Kepala Pusat Data dan Informasi BNPB Sutopo Purwo Nugroho kemarin (26/12) saat jumpa pers di Graha BNPB, Jakarta.
+
+Kendala di lapangam seperti evakuasi korban di laut sempat terhambat karena cuaca ekstrem seperti ombak tinggi di laut dan bibir laut, alat berat masih kurang untuk mempercepat proses penyelamatan dan pencarian serta membuka akses jalan yang terputus.
+
+Luasnya wilayah yang terkenda dampak tsunami menyebabkan kesulitan dalam penanganan secara bersamaan serta jalan berlumpur pasca tsunami,  ujarnya.
+
+(ran)
+</TEXT>
+
+</TimeML>
+

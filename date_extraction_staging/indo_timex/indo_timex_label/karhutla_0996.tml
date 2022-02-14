@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0996</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-28" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-28</TIMEX3></DCT>
+
+<TITLE>Asap Masih Menyelimuti, Para Remaja di Koltim Terserang ISPA</TITLE>
+
+<TEXT>
+Warga yang terkena dampak asap kebakaran lahan gambut dan lahan perkebunan kelapa sawit milik PT Sari Asri Rejeki Indonesia (PT SARI) terus bertambah. 
+
+Berdasarkan catatan dari Puskesmas Kecamatan Tinondo, Kabupaten Kolaka Timur (Koltim), Sulawesi Tenggara (Sultra), sejak <TIMEX3 tid="t1" type="DATE" value="2019-11-23">23 November 2019</TIMEX3> sampai dengan <TIMEX3 tid="t2" type="DATE" value="2019-11-28">hari ini</TIMEX3> (<TIMEX3 tid="t3" type="DATE" value="2019-11-28">Kamis</TIMEX3>, <TIMEX3 tid="t4" type="DATE" value="2019-11-28">28/11/2019)</TIMEX3>, jumlah pasien yang mengalami infeksi saluran pernapasan akut (ISPA) mencapai 11 orang. 
+
+(. 
+
+Semuanya pasien rawat jalan dan masuk kategori ISPA ringan. 
+
+Untuk penanganannya kami memberikan obat penanganan gejala serta suplemen berupa vitamin, katanya, saat ditemui di Puskesmas Tinondo, <TIMEX3 tid="t5" type="DATE" value="2019-11-28">Kamis (28/11/2019)</TIMEX3>. 
+
+Para remaja yang terserang ISPA tersebut berasal dari Kelurahan Tinengi, Desa Talata dan Desa Tawarombadaka. 
+
+Tiga wilayah ini menjadi sasaran kabut asap selama <TIMEX3 tid="t6" type="DURATION" value="P1W">sepekan</TIMEX3>. 
+
+(. 
+
+Desa yang dimaksud itu antara lain, Desa Lamunde, Tinengi, Tawarombadaka, Talata, Tawatawaro, Solewatu dan Desa Weamo. 
+
+Pihak Puskesmas Tinondo, sejauh ini masih menunggu data laporan warga terkena dampak asap khususnya dari Puskesdes Desa Weamo serta Pustu Desa Solewatu. 
+
+Untuk mengantisipasi dampak kabut asap, petugas medis Puskesmas Tinondo telah membagikan masker kepada warga baik kepada anak sekolah, orang dewasa maupun lanjut usia. 
+
+(.000 lembar. 
+
+<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> persediaan masker masih ada sekitar 400-an lembar. 
+
+Kami juga sudah mengajukan permintaan ke dinas kesehatan untuk mengantisipasi. 
+
+Kami akan segera mengambilnya. 
+
+Jumlahnya mencapai 3.000 lembar, tandasnya. 
+
+Amar mengajak kepada warga untuk segera memeriksakan kesehatan apabila mengalami gejala ISPA, baik memeriksakan diri di Puskesmas Tinondo, pustu ataupun puskesdes yang ada. 
+
+(A) 
+</TEXT>
+
+</TimeML>

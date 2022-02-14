@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0133</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-01-26" temporalFunction="false" functionInDocument="CREATION_TIME">2018-01-26</TIMEX3></DCT>
+
+<TITLE>Reklame Berukuran Besar Tumbang di Persimpangan Pasar Lama</TITLE>
+
+<TEXT>
+Diduga akibat hujan deras dan angin kencang yang menerjang Kota Serang <TIMEX3 tid="t1" type="TIME" value="2018-01-25TNI">malam</TIMEX3> hingga <TIMEX3 tid="t2" type="TIME" value="2018-01-25TMO">dini hari tadi</TIMEX3>, reklame berukuran besar yang berada di persimpangan Lopang (dekat Polsek Serang) tumbang. 
+
+Berdasarkan informasi yang dihimpun, diperkirakan reklame tersebut roboh <TIMEX3 tid="t3" type="TIME" value="2018-01-25TMO">dini hari tadi</TIMEX3>. 
+
+Beton penahan tiang reklame tersebut pun terangkat. 
+
+Iya benar om (menyebut Radar Banten Online), <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sudah ditangani polsek, kata Kasatlantas Polres Serang AKP Ali Rahman Cipta Perwira saat dikonfirmasi Radar Banten Online, <TIMEX3 tid="t5" type="DATE" value="2018-01-26">Jumat (26/1)</TIMEX3>. 
+
+Berdasarkan informasi, tidak ada korban jiwa akibat tumbangnya reklame tersebut. 
+
+Namun reklame sempat menutup sebagian besar badan jalan menuju Kebaharan. 
+
+Lebih detail silakan tanya ke Polsek, ujarnya. 
+
+Untuk diketahui, sejak <TIMEX3 tid="t6" type="TIME" value="2018-01-25TNI">malam</TIMEX3> hingga <TIMEX3 tid="t7" type="TIME" value="2018-01-25TMO">pagi tadi</TIMEX3>, sejumlah wilayah di Kota Serang diguyur hujan deras dan angin kencang. 
+</TEXT>
+
+</TimeML>

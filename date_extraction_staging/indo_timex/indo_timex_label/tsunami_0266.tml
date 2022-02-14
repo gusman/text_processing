@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0266</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-06" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-06</TIMEX3></DCT>
+
+<TITLE>Pasca Tsunami Selat Sunda, Hunian Sementara Akan Dibangun di Pandeglang</TITLE>
+
+<TEXT>
+Pemerintah masih melakukan penanganan darurat pascatsunami di yang menerjang lima kabupaten di sekitar Selat Sunda, pada <TIMEX3 tid="t1" type="DATE" value="2018-12">akhir bulan Desember 2018</TIMEX3>. 
+
+Berdasarkan rapat koordinasi yang dipimpin Gubernur Banten, Wahidin Halim disepakati selesainya masa tanggap darurat pada <TIMEX3 tid="t2" type="DATE" value="2019-01-04">(4/1/2019)</TIMEX3> maka dilanjutkan periode transisi darurat menuju peralihan selama <TIMEX3 tid="t3" type="DURATION" value="P2M">2 bulan</TIMEX3> yaitu <TIMEX3 tid="t4" type="DATE" value="2019-01-06">(6/1/2019)</TIMEX3> hingga <TIMEX3 tid="t5" type="DATE" value="2019-03-06">(6/3/2019)</TIMEX3>. 
+
+Selama <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">masa ini</TIMEX3> akan dibangun hunian sementara (huntara). 
+
+Kepala Pusat Data Informasi dan Humas BNPB, Sutopo Purwo Nugroho, mengatakan Huntara dibangun untuk menampung pengungsi yang rumahnya rusak berat dan rusak ringan. 
+
+Huntara diperlukan untuk meminimalisir gejolak sosial dan mengantisipasi <TIMEX3 tid="t7" type="DATE" value="2018-WI">musim hujan</TIMEX3> agar pengungsi dapat lebih nyaman. 
+
+" Diperlukan waktu selama <TIMEX3 tid="t8" type="DURATION" value="P2M">2 bulan</TIMEX3> untuk membangun huntara sebelum dilakukan pembangunan hunian tetap yang waktunya lebih panjang. 
+
+Pemda Pandeglang akan mengajukan dana siap pakai ke BNPB untuk pembangunan huntara. 
+
+Pengerjaan fisik huntara akan dilakukan oleh TNI, " kata dia, <TIMEX3 tid="t9" type="DATE" value="2019-01-06">Minggu (6/1/2019)</TIMEX3>. 
+
+Dia menjelaskan, untuk perbaikan rumah rusak ringan Pemda Pandeglang dan Banten akan mengalokasikan anggaran untuk perbaikan sedangkan untuk perbaikan rumah rusak berat dan rusak sedang akan diusulkan melalui hibah rehabilitasi dan rekonstruksi ke BNPB. 
+
+Berdasarkan catatan BNPB, hingga <TIMEX3 tid="t10" type="DATE" value="2019-01-05">Sabtu (5/1/2019)</TIMEX3> jumlah korban tercatat 437 orang meninggal dunia, 9.061 orang luka, 10 orang hilang dan 16.198 orang mengungsi. 
+
+Di Kabupaten Pandeglang terdapat 296 orang meninggal dunia, 3 orang hilang, dan 7.972 orang mengungsi. 
+
+Sebanyak 1.071 rumah rusak berat dan rusak sedang, dan 457 rumah rusak ringan. 
+
+Sebelumnya, bantuan terhadap korban bencana alam Tsunami Selat Sunda ke Pandeglang, Banten, terus mengalir. 
+
+Salah satu diantaranya datang dari Dewan Pengurus Pusat (DPP) dan anggota Persatuan Alumni Gerakan Mahasiswa Nasional Indonesia (PA GMNI)Mereka mengirim Tim Aksi Kemanusiaan Bencana Tsunami Selat Sunda ke Pandeglang Banten. 
+
+Tim Aksi Kemanusiaan PA GMNI dipimpin oleh Desta Ardiyanto, mengantarkan bantuan dengan didampingi langsung oleh Ketua Steering Committee (SC) Tim Aksi Kemanusiaan, Tri Budiarto. 
+
+Dalam laporannya, Ketua Tim Penyalur Bantuan Bencana, Desta Ardiyanto menjelaskan bahwa DPP PA GMNI memberikan bantuan yang utamanya berupa kebutuhan pokok balita, perempuan dan dukungan kebutuhan untuk sarana pendidikan bagi anak-anak sekolah. 
+
+Barang-barang tersebut dikirimkan sebanyak dua kendaraan truk menuju Pandeglang. 
+
+Bantuan-bantuan tersebut adalah cerminan dari bagaimana DPP PA GMNI memandang keberadaan perempuan, seperti yang dikatakan Bung Karno dalam autobiografinya, Sarinah (Perempuan) mengajarku untuk mencintai rakyat; rakyat kecil, kata Ardiyanto(Tribunnews.com, Glery Lazuardi) 
+</TEXT>
+
+</TimeML>

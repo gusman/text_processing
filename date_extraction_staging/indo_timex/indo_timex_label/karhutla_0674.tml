@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0674</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-14" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-14</TIMEX3></DCT>
+
+<TITLE>Presiden Jokowi Telepon 5 Petinggi untuk Atasi Kebakaran Hutan dan Lahan di Riau</TITLE>
+
+<TEXT>
+Kebakaran hutan dan lahan (karhutla) di Provinsi Riau, semakin parah hingga menimbulkan kabut asap yang pekat. 
+
+Atas kejadian tersebut, Presiden Joko Widodo (Jokowi) sudah meminta jajarannya untuk berkoordinasi terkait penanganan kebakaran hutan dan lahan (karhutla) yang menimbulkan kabut asap pekat di Provinsi Riau. 
+
+Hal tersebut disampaikan Kepala Biro Pers Media dan Informasi Sekretariat Presiden Erlin Suastini, seperti dikutip dari Kompas. 
+
+com. 
+
+" Presiden Joko Widodo telah memerintahkan Menteri Lingkungan Hidup dan Kehutanan Siti Nurbaya, Kepala BNPB Doni Monardo, Panglima TNI Marsekal Hadi Tjahjanto, Kapolri Jenderal Tito Karnavian, dan Kepala BMKG Dwikorita Karnawati melalui sambungan telepon pada <TIMEX3 tid="t1" type="TIME" value="2019-09-13TNI">Jumat malam</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2019-09-13">13 September 2019</TIMEX3>, untuk berkoordinasi terkait penanganan kebakaran hutan dan lahan (karhutla) di wilayah Provinsi Riau, " kata Erlin dalam siaran pers, <TIMEX3 tid="t3" type="DATE" value="2019-09-14">Sabtu (14/9/2019)</TIMEX3>. 
+
+Sementara itu, dalam penjelasannya kepada Biro Pers Sekretariat Presiden, Panglima TNI Hadi Tjahjanto menjelaskan bahwa pihaknya telah melakukan Teknologi Modifikasi Cuaca (TMC) atau hujan buatan di wilayah yang terdampak karhutla. 
+
+Hasil hujan buatan <TIMEX3 tid="t4" type="DATE" value="2019-09-14">hari ini</TIMEX3> (<TIMEX3 tid="t5" type="DATE" value="2019-09-13">Jumat</TIMEX3>) hujan di Kabupaten Indragiri Hilir, Provinsi Riau, ucap Panglima TNI. 
+
+Hadi mengatakan akan mengirim tambahan pesawat CN-295 dan Hercules untuk kembali membuat hujan buatan dengan skala yang lebih besar. 
+
+Kami tambah pesawat untuk menebar garam langsung 3,5 ton sekaligus dengan pesawat CN, ujar Hadi. 
+
+Menurut Panglima TNI, ia dan Kapolri Jenderal Tito Karnavian sudah terjun langsung ke lapangan untuk menangani karhutla <TIMEX3 tid="t6" type="DATE" value="PAST_REF">beberapa waktu yang lalu</TIMEX3>.Sementara itu, Kepala BMKG juga mengatakan, bahwa ada potensi hujan di Provinsi Riau untuk <TIMEX3 tid="t7" type="DATE" value="2019-09-14">hari ini</TIMEX3>. 
+
+// Kepala BNPB telah memberikan keterangan pers pada <TIMEX3 tid="t8" type="DATE" value="2019-09-14">hari ini</TIMEX3>, <TIMEX3 tid="t9" type="DATE" value="2019-09-14">Sabtu</TIMEX3>, <TIMEX3 tid="t10" type="DATE" value="2019-09-14">14 September 2019</TIMEX3>, terkait langkah-langkah yang telah dilakukan pemerintah dalam upaya pemadaman karhutla. 
+
+Doni meminta kepada seluruh elemen, khususnya pejabat-pejabat daerah mulai dari bupati, wali kota, camat, lurah, hingga RT-RW, turut membantu untuk bersinergi melakukan upaya pengendalian karhutla. 
+
+" Kita tidak ingin kehabisan tenaga, energi, uang, biaya dan sebagainya hanya karena penanganan belum optimal. 
+
+Sekali lagi saya berharap bupati, wali kota, camat, lurah lebih peduli, " ujar Doni. 
+
+<TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, Panglima TNI Marsekal Hadi Tjahjanto dan Kepala BNPB Doni Monardo telah berada di Pekanbaru, Provinsi Riau, untuk memimpin langsung pengendalian karhutla.4 Fakta Baru Bencana Kabut Asap di RiauBencana kabut asap membuat warga di Pekanbaru berbondong-bondong mengantri pengobatan gratis yang digelar di kepolisian Satuan Lalu lintas (Satlantas) Polresta Pekanbaru, pada <TIMEX3 tid="t12" type="DATE" value="2019-09-13">hari Jumat (13/9/2019)</TIMEX3>. 
+
+Menurut Kasat Lantas Polresta Pekanbaru AKP Emil Eka Putra, kebanyakan warga yang datang mengeluhkan sesak napas dan batuk pilek. 
+
+Sementara itu, di Kota Dumai, beredar sebuah video seorang perempuan yang sedang mengendarai sepeda motor tiba-tiba lemas di tengah jalan yang dipenuhi kabut asap. 
+
+Sejumlah warga dan petugas kesehatan yang berada di sekitar lokasi, segera membantu perempuan tersebut. 
+
+Diduga perempuan itu lemas karena terpapar kabut asap. 
+
+Berikut ini fakta lengkap bencana asap di Riau: // 1. 
+
+Korban kabut asap mengantri pengobatan gratisAKP Emil Eka Putra mengatakan, masyarakat korban kabut asap cukup antusias mengikuti pengobatan gratis. 
+
+" Cukup ramai warga datang manfaatkan pengobatan gratis ini. 
+
+Mereka rata-rata mengeluhkan gangguan pernapasan, seperti batuk, sesak napas. 
+
+Karena kabut asap cukup pekat <TIMEX3 tid="t13" type="DATE" value="UNKNOWN">beberapa hari ini</TIMEX3>, " kata Emil kepada Kompas. 
+
+com melalui keterangan tertulis, <TIMEX3 tid="t14" type="DATE" value="2019-09-13">Jumat</TIMEX3>. 
+
+Selain itu, pihaknya juga mengimbau masyarakat, terutama pengguna jalan, agar menggunakan masker. 
+
+Pengguna jalan juga diimbau agar lebih berhati-hati saat berkendara, karena jarak pandang terbatas. 
+
+" Pengguna jalan agar menyalakan lampu kendaraan di <TIMEX3 tid="t15" type="TIME" value="2019-09-13TAF">siang hari</TIMEX3>. 
+
+Kemudian mengurangi kecepatan, karena jarak pandang terbatas. 
+
+Dan, jangan melanggar peraturan lalu lintas, " imbau Emil. 
+
+2. 
+
+Kabut asap membuat jarak pandang sekitar 300 meter Pada <TIMEX3 tid="t16" type="DATE" value="2019-09-13">hari Jumat (13/9/2019)</TIMEX3>, kabut asap dari kebakaran lahan dan hutan di Pekanbaru membuat jarak pandang makin menurun. 
+
+Selain itu, kualitas udara sudah masuk dalam kategori tidak sehat hingga berbahaya. 
+
+Berdasarkan pantauan Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Stasiun Pekanbaru, jarak pandang <TIMEX3 tid="t17" type="TIME" value="2019-09-13T07:00">pukul 07.00 WIB</TIMEX3> di Pekanbaru hanya 300 meter. 
+
+// <TIMEX3 tid="t18" type="DATE" value="UNKNOWN">Waktu itu</TIMEX3>, BMKG sudah mengeluarkan peringatan untuk waspada terhadap penurunan kualitas udara dan jarak pandang tersebut. 
+
+Prakirawan BMKG Stasiun Pekanbaru Bibin Sulianto menyampaikan, <TIMEX3 tid="t19" type="TIME" value="2019-09-14TMO">pagi ini</TIMEX3> titik panas atau hotspot di Riau terdeteksi 239, yang tersebar di sembilan kabupaten dan kota di Riau. 
+
+" Pantauan kita <TIMEX3 tid="t20" type="TIME" value="2019-09-13T07:00">jam 07.00 WIB</TIMEX3>, Pekanbaru jarak pandang 300 meter, Kabupaten Indragiri Hulu 300 meter, Dumai 400 meter dan Pelalawan 200 meter, " sebut Bibin dalam keterangan tertulis yang diterima Kompas. 
+
+com, <TIMEX3 tid="t21" type="DATE" value="2019-09-13">Jumat</TIMEX3>. 
+
+3. 
+
+Viral video perempuan lemas di tengah kabut asap Sebuah Video seorang perempuan yang nyaris jatuh dari atas kendaraan roda dua, menjadi viral di media sosial. 
+
+Peristiwa tersebut diketahui terjadi di perempatan lampu lalu lintas Tugu PON Kota Dumai. 
+
+Diduga, perempuan tersebut lemas dan sesak nafas karena menghidrup udara berasap pada <TIMEX3 tid="t22" type="TIME" value="2019-09-13">Jumat (13/9/2019) pagi</TIMEX3> sekitar <TIMEX3 tid="t23" type="TIME" value="2019-09-13T07:35">pukul 07.35 WIB</TIMEX3>, seperti dikutip dari Antara. 
+
+" Terlihat dia sudah linglung dan beberapa kali menyandarkan kepala ke stang sepeda motor, saya mulai curiga dan tidak lama beberapa orang langsung membawanya ke ambulans, " kata Rudi Fajrin, pemilik video. 
+
+4. 
+
+Klaim Menhub terkait bencana kabut asap Menteri Perhubungan Budi Karya Sumadi mengklaim kabut asap kebakaran hutan yang terjadi di Riau dan Kalimantan tak ganggu penerbangan. 
+
+Sejauh ini belum ada dampak yang serius ya, tapi ke depan kalo tidak ada upaya-upaya menyelesaikan, ini akan serius, ujar Budi di JCC Senayan, Jakarta, <TIMEX3 tid="t24" type="DATE" value="2019-09-13">Jumat (13/9/2019)</TIMEX3>. 
+
+Sementara itu, Budi mengatakan telah meminta Dirjen Perhubungan Udara Polana B Pramesti berkoordinasi dengan Kementerian Lingkungan Hidup dan Kehutanan terkait kebakaran hutan di Riau dan Kalimantan. 
+
+Memang Riau yang dalam posisi paling besar, karena 2 hal, yang dari selatan itu ke arah Riau dan dari Riau enggak bisa kemana-mana, karena ada angin tertentu yang di Selat Malaka, jadi mereka (asap) stop di Riau, kata Budi. 
+</TEXT>
+
+</TimeML>

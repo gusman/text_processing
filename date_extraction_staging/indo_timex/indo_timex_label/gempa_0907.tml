@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0907</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-03-11" temporalFunction="false" functionInDocument="CREATION_TIME">2018-03-11</TIMEX3></DCT>
+
+<TITLE>West Papua gelar 1000 lilin untuk korban gempa PNG</TITLE>
+
+<TEXT>
+West Papua untuk korban gempa bumi menyampaikan berbelasungkawa terhadap korban gempa di di Papua New Guinea. 
+
+Rasa belasungkwa solidaritas akan diungkapkan dengan mengelar aksi <TIMEX3 tid="t1" type="DATE" value="1000">1000</TIMEX3> lilin di Abepura, Kota Jayapura. 
+
+" Rakyat West Papua menyampaikan Turut Berbelangsukawa atas peristiwa bencana alam yang menimpa saudara-saudara kami di Papua New Guinea, " ujar kepala Biro United Liberation Movement for West Papua, Sem Awom, kepada Jubi, <TIMEX3 tid="t2" type="DATE" value="2018-03-11">Minggu (11/3/2018)</TIMEX3>. 
+
+Acara itu akan dilakukan sekaligus peluncuran solidaritas West Papua untuk korban gempa di PNG. 
+
+" Mulai <TIMEX3 tid="t3" type="DATE" value="2018-03-11">hari ini</TIMEX3>, kami akan sosialiasikan aksi solidaritas untuk korban gempa bumi di Papua New Guinea, " ujar Sem Awom, menambahkan. 
+
+Sem menyatakan aksi yang akan digelar di Kota Jayapura itu tidak menutup kemungkinan hadirnya beberapa solidaritas daerah lain di Papua, termasuk orang West Papua di PNG. 
+
+Selain itu United Liberation Movement for West Papua, juga mohon masyarakat Internasional mengalang tim solidaritas. 
+
+Karena korban gempa mencapai 17 ribu mengungsi dan sangat menantikan kasih sayang. 
+
+Tercatat gempa berkekuatan 7,5 skala richter menguncang pegunungan Southen Highlands Province, Papua New Guinea, pada <TIMEX3 tid="t4" type="DATE" value="2018-02-26">26 Februari 2018</TIMEX3>. 
+
+Peristiwa ini menyebabkan infrastruktur berupa perumahan dan jalan raya dengan korban meninggal lebih dari 100 orang, dan 500 orang luka. 
+
+Tercatat gempa bumi itu mengakibatkan masyarakat kehilangan tempat tinggal dan lebih 17 ribu orang masih menggungsi. 
+
+Aktivis HAM Papua, Markus Haluk, mengharapkan seluruh rakyat Papua terlibat membantu bencana yang menimpa negara tetangga itu. 
+
+Terlibat langsung dalam aksi solidaritas yang akan di gelar, kata Haluk.Menurut dia aksi simpati sebagai bukti mereka yang menjadi korban adalah saudara. 
+
+Saya mengharap aksi ini menggema ke seluruh negeri Papua, katanya. 
+</TEXT>
+
+</TimeML>

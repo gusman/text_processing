@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0444</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-09-07" temporalFunction="false" functionInDocument="CREATION_TIME">2017-09-07</TIMEX3></DCT>
+
+<TITLE>Kekeringan di Brebes, Polisi Kerahkan Kendaraan Penghalau Massa untuk Distribusi Air Bersih</TITLE>
+
+<TEXT>
+Krisis air bersih akibat kekeringan mulai terjadi di Kabupaten Brebes. 
+
+Sejumlah pihak berupaya untuk mendistribusikan air bersih kepada warga. 
+
+Begitu juga dengan pihak kepolisian yang mendistribusikan air bersih kepada warga yang membutuhkan menggunakan kendaraan water cannon. 
+
+Kepolisian Resor Brebes mendistribusikan air bersih menggunakan water canon kepada warga di Desa Karangbale, Kecamatan Larangan, Kabupaten Brebes. 
+
+Kapolres Brebes, AKBP Sugiarto, melalui Kasat Sabhara, AKP Guritno, menyatakan penggunaan mobil armor water cannon (AWC) tersebut dinilai sangat efektif dalam menyalurkan bantuan air bersih. 
+
+" Kendaraan taktis water cannon tersebut sangat efektif. 
+
+Sekali jalan bisa mengangkut banyak air sehingga menghemat dalam biaya operasional, " kata Guritno, <TIMEX3 tid="t1" type="DATE" value="2017-09-07">Kamis (7/9/2017)</TIMEX3>. 
+
+Sekali angkut, water cannon yang biasa dipakai menyemprot pengunjuk rasa membandel itu dapat menampung enam ribu liter air. 
+
+" Kendaraan taktis tersebut digunakan untuk pembubaran massa saat terjadi demonstrasi. 
+
+Kali ini dialihfungsikan membawa bantuan air bersih, " ucapnya.Air yang didistribusikan kepada warga, kata dia, merupakan air bersih dari PDAM.Kedatangan kendaraan taktis pembawa air bersih tersebut langsung diserbu warga yang membawa jeriken untuk diisi air bersih. 
+
+// " Masyarakat di sini sangat membutuhkan air bersih untuk kebutuhan sehari- hari. 
+
+Semoga dengan pemberian air bersih ini bisa bermanfaat untuk masyarakat, " imbuhnya. 
+
+Tidak hanya di Desa Karangbale, water cannon juga akan mendistribusikan air bersih ke desa yang membutuhkannya. 
+
+Sementara itu, Kapolsek Larangan AKP Joko Witanto, menyatakan sebelumnya Polsek Larangan juga sudah membagikan sedikitnya 30 jeriken air bersih di Desa Pamulihan. 
+
+Pihaknya membenarkan adanya beberapa desa di wilayahnya kesulitan air bersih. 
+
+Di Desa Karangbale misalnya, kondisi tersebut dikarenakan banyak warga yang belum memiliki PDAM dan mengandalkan air sungai. 
+
+Sedangkan kondisi sungai <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sedang kering dan masyarakat harus membeli air bersih per-galon-nya bisa mencapai Rp 12.000. 
+
+Dengan kondisi tersebut, sebagian masyarakat dirasa sangat memberatkan. 
+
+Akibatnya, sebagian besar warga harus menghemat air untuk kebutuhan <TIMEX3 tid="t3" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+" Dengan bantuan ini, mudah-mudahan bisa sedikit membantu warga yang kesulitan air bersih didesa ini, " kata Joko. 
+
+(*) 
+</TEXT>
+
+</TimeML>

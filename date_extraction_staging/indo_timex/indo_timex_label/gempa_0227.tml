@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0227</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-08" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-08</TIMEX3></DCT>
+
+<TITLE>Dampak Likuifaksi Pasca Gempa dan Tsunami di Sulteng</TITLE>
+
+<TEXT>
+Likuifaksi menjadi ancaman serius di Sulawesi Tengah (Sulteng). 
+
+Sebanyak lima ribu orang dikabarkan hilang. 
+
+Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana (BNPB), Sutopo Purwo Nugroho, mengungkapkan hal tersebut. 
+
+Menurut dia, peristiwa likuifaksi <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> menjadi perhatian serius pemerintah. 
+
+Bukan hanya gempa dan tsunami. 
+
+Namun, kita lihat bagaimana likuifaksi di Palu mampu menyapu ribuan rumah dan menelan korban, ujar Sutopo di Gedung BNPB, <TIMEX3 tid="t2" type="DATE" value="2018-10-07">Minggu</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2018-10-07">(7/10)</TIMEX3>. 
+
+Proses likuifaksi memang kerap terjadi pasca gempa. 
+
+Akan tetapi, kata Sutopo, likuifaksi di Palu merupakan peristiwa terparah karena terjadi pada cakupan daerah yang sangat luas. 
+
+Dan, itu terjadi pas di wilayah ramai pemukiman penduduk. 
+
+Kita lihat bagaimana tanah itu bergerak dan menimbun bangunan di atasnya, jelasnya. 
+
+Saat memasuki tahap rehabilitasi dan rekonstruksi, pemerintah akan melarang untuk kembali membangun di atas tanah dengan potensi likuifaksi yang tinggi. 
+
+Jadi daerah itu (terkena likuifaksi) telah kita tandai. 
+
+Kita himbau kepada warga nantinya agar tak mendirikan bangunan di wilayah itu. 
+
+Sebab, kalau gempa terjadi, hal itu akan terulang lagi, kata Sutopo. 
+
+Likuifaksi merupakan fenomena yang terjadi ketika tanah yang jenuh kehilangan kekuatan dan kekakuan akibat adanya tegangan. 
+
+Seperti getaran gempa bumi. 
+
+Dijelaskan Sutopo, peristiwa likuifaksi semestinya harus menjadi peringatan terhadap wilayah lain di Tanah Air. 
+
+Ini agar area dengan potensi likuifaksi tinggi bisa segera dideteksi dan menghindarkan warga untuk membangun permukiman. 
+
+Pada <TIMEX3 tid="t4" type="DATE" value="2012">tahun 2012</TIMEX3> juga sudah dilakukan penelitian oleh badan geologi. 
+
+Hasil dari penelitian itu memang menunjukkan Palu menjadi wilayah dengan potensi likuifaksi yang sangat tinggi, terang Sutopo. 
+
+Berdasarkan data BNPB, dampak likuifaksi di daerah Petobo dan Balaora menunjukkan, <TIMEX3 tid="t5" type="DATE" value="3095">3095</TIMEX3> unit bangunan rusak. 
+
+Parahnya, kata Sutopo, menurut laporan kepala desa Balaora dan Petobo lima ribu orang belum ditemukan. 
+
+Namun informasi dari kepala desa masih perlu kita konfirmasi. 
+
+Dan korban meninggal yang ditemukan di daerah itu baru 285 orang. 
+
+Hingga <TIMEX3 tid="t6" type="DATE" value="2018-10-07">Minggu</TIMEX3>, <TIMEX3 tid="t7" type="DATE" value="2018-10-07">7 Oktober</TIMEX3>, <TIMEX3 tid="t8" type="DATE" value="2018-10-07">kemarin</TIMEX3>, tercatat 1.763 orang meninggal. 
+
+Korban tertimbun, 152 orang dan masih hilang 265 jiwa. 
+
+Hingga <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">kini</TIMEX3> 1.755 jenazah telah dimakamkan, urai Sutopo. 
+
+Terpisah, Satgas Yonzipur-8/SMG Kodam XIV/Hasanuddin di bawah pimpinan Koamdan SSK Kapten Czi Basor Hermawan, melakukan evakuasi di lokasi gereja GPI dengan menggunakan alat peralatan seadanya. 
+
+Alhasil personel Yonzipur berhasil menemukan satu buah brankas milik GPI, yang berisikan sertifikat gereja, dokumen penting lainnya serta uang tunai lebih Rp1 miliar. 
+
+Saat dikonfirmasi, Pendeta geraja GPI Wilson Wetzler Lampie (44 tahun), membenarkan bahwa brankas tersebut adalah milik gereja GPI. 
+
+Beliau sangat mengapresiasi upaya yang dilakukan oleh Satgas Yonzipur-8/SMG dan beliau juga tak lupa menyampaikan ucapan terima kasih. 
+
+Terima kasih, pak, ucap Pendeta Wilson. 
+
+(FIN) 
+</TEXT>
+
+</TimeML>

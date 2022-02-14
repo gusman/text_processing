@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1156</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-02-11" temporalFunction="false" functionInDocument="CREATION_TIME">2016-02-11</TIMEX3></DCT>
+
+<TITLE>Empat Sekolah di Solsel Belum Laksanakan PBM</TITLE>
+
+<TEXT>
+Sebanyak empat sekolah di Kabupaten Solok Selatan, Sumatera Barat, hingga <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum bisa melaksanakan Proses Belajar Mengajar (PBM) pasca-dilanda banjir <TIMEX3 tid="t2" type="DATE" value="PXD">beberapa hari lalu</TIMEX3>, karena material berupa lumpur belum bisa dibersihkan. 
+
+Untuk sementara siswa di empat sekolah tersebut dialihkan PBM-nya ke sekolah terdekat agar mereka bisa kembali belajar seperti biasa, kata Kepala Dinas Pendidikan Solok Selatan, Fidel Efendi di Padang Aro, <TIMEX3 tid="t3" type="DATE" value="2016-02-11">Kamis (11/2)</TIMEX3>. 
+
+Empat sekolah yang belum bisa melaksanakan PBM itu yakni SMPN 2 Solok Selatan dengan jumlah siswa 245, SDN 10 Pasar Muaralabuh 133 siswa, SDN 22 Kiambang 108 siswa serta SD IT Marhamah 193 siswa yang semuanya terletak di Kecamatan Sungai Pagu. 
+
+Dia menambahkan, siswa di empat sekolah ini mulai mengikuti PBM <TIMEX3 tid="t4" type="DATE" value="2016-02-11">hari ini</TIMEX3> pada <TIMEX3 tid="t5" type="TIME" value="2016-02-10TAF">siang hari</TIMEX3> atau setelah siswa di sekolah utama selesai belajar. 
+
+(hendrivon) 
+</TEXT>
+
+</TimeML>

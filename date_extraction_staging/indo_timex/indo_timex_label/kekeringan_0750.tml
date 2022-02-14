@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0750</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-19</TIMEX3></DCT>
+
+<TITLE>Kekeringan, Masyarakat Gunungkidul Tampung Air PDAM yang Bocor</TITLE>
+
+<TEXT>
+Saat masuk musim kering, warga Dusun Ploso, Desa Tileng, Kecamatan Girisubo, Kabupaten Gunungkidul memanfaatkan air bocoran pipa PDAM untuk memenuhi kebutuhan air bersih. 
+
+Sebelumnya, mereka harus membeli air bersih dengan harga mencapai ratusan ribu untuk satu tangki air. 
+
+Seperti yang dilakukan Westini (47) warga Dusun Ploso, Desa Tileng, Kecamatan Girisubo. 
+
+<TIMEX3 tid="t1" type="SET" value="P1D">Setiap hari</TIMEX3>, ia bersama puluhan warga lainnya membawa jeriken atau ember untuk menampung air bersih yang bocor dari pipa milik PDAM. 
+
+Pipa tersebut terletak di pinggir jalan kabupaten, arah ke Girisubo. 
+
+. 
+
+" Dalam satu kali pengabilan warga bisa membawa dua sampai empat jeriken, " katanya saat ditemui <TIMEX3 tid="t2" type="DATE" value="2019-06-18">Selasa (18/6/2019)</TIMEX3>. 
+
+Sambil mengobrol dengan warga yang ikut mengantri, Westini menunggu aliran air dari bocoran pipa yang dialirkan ke potongan kaleng yang kemudian dialirkan ke penampungan. 
+
+Desa Tileng sendiri adalah salah satu desa yang selalu kekeringan <TIMEX3 tid="t3" type="SET" value="P1Y">setiap tahun</TIMEX3>, karena tidak ada sumber air di desa tersebut. 
+
+Selama ini, warga hanya mengandalkan bak penapung air hujan untuk kebutuhan air bersih yang ditampung di bak Penampungan Air Hujan (PAH). 
+
+Untuk satu kali pembelian tangki air kapasitas 5.000 liter, hanya mampu bertahan selama 3 - <TIMEX3 tid="t4" type="DURATION" value="P4W">4 minggu</TIMEX3> saja, tergantung dari banyaknya pemakaian serta jumlah keluarga yang menggunakan. 
+
+" Harga satu tangki air bersih di sini Rp 110.000 sampai Rp 140.000 tergantung lokasi pengambilan air. 
+
+Kalau dari sumber air Sadeng paling murah, " ucapnya. 
+
+. 
+
+// Iswayanto, warga lainnya menggatakan jika air bersih digunakan warga untuk keperluan <TIMEX3 tid="t5" type="SET" value="P1D">sehari-hari</TIMEX3> mulai dari mencuci, masak hingga meberi minum ternak. 
+
+Dirinya dan warga melakukan pengambilan air bersih dari bocoran pipa air sejak <TIMEX3 tid="t6" type="DURATION" value="P1M">sebulan</TIMEX3> terakhir. 
+
+" Lumayanlah mengurangi pemakaian air yang dibeli dari tangki, " ucapnya. 
+
+Dia berharap, pemerintah segera memberikan solusi jangka panjang untuk penanggulangan kekeringan di desanya, sehingga warga tidak membeli air bersih dari tangki swasta. 
+
+" Semoga ada solusi mengatasi kekeringan, " ucapnya. 
+
+Sementara itu, Kepala Pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Edy Basuki mengatakan dari data terakhir ada 10 kecamatan yang terdampak kekeringan. 
+
+. 
+
+" Untuk <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kita sudah salurkan bantuan air bersih kepada masyarakat, " katanya. 
+
+Keringan akan terdampak pada 248 dusun, 50 desa dan 21.519 kepala keluarga. 
+
+Total ada 76.514 jiwa yang tersebar di sepuluh kecamatan. 
+
+Pihaknya akan terus melakukan pendataan sehingga data penyaluran bantuan bisa akurat. 
+
+Menurut dia, potensi bertambahnya desa maupun jiwa yang terdampak kekeringan masih sangat mungkin terjadi seiring datangnya puncak <TIMEX3 tid="t8" type="DATE" value="2018-SU">musim kemarau</TIMEX3>. " <TIMEX3 tid="t9" type="DATE" value="2019-06-01">Tanggal 1 Juni</TIMEX3> sudah ke Kecamatan Paliyan, Girisubo. 
+
+Kemudian setelah libur lebaran kita juga ke Kecamatan Rongkop. 
+
+Anggaran BPBD sekitar Rp 530 juta untuk 2.200 tangki air, " katanya. 
+</TEXT>
+
+</TimeML>

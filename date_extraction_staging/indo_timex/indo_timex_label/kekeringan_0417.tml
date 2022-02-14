@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0417</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-24" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-24</TIMEX3></DCT>
+
+<TITLE>Dilanda Kekeringan, Korut Batalkan Festival Bir</TITLE>
+
+<TEXT>
+Festival bir yang rencananya akan dihelat secara rutin <TIMEX3 tid="t1" type="SET" value="P1Y">setiap tahun</TIMEX3> di Korea Utara (Korut) sepertinya gagal diadakan pada <TIMEX3 tid="t2" type="DATE" value="2017">tahun ini</TIMEX3>. 
+
+Asal tahu saja, sejak <TIMEX3 tid="t3" type="DATE" value="2016-07-24">tahun lalu</TIMEX3>, Korut memulai festival bir yang dinamakanTaedonggang Beer Festival. 
+
+<TIMEX3 tid="t4" type="DATE" value="2017">Tahun ini</TIMEX3>, rencananya festival bir serupa akan digelar pada <TIMEX3 tid="t5" type="DATE" value="2016-07-26">26 Juli</TIMEX3>. 
+
+Namun, menurut dua perusahaan perjalanan yang mengatur wisata ke Korut, terjadi pembatalan secara tiba-tiba dari pemerintah Korut atas festival tersebut. 
+
+Kedua perusahaan tersebut, yakni Koryo Tours dan Young Pioneer Tours, mengatakan bahwa mereka menerima kabar pembatalan tersebut pada <TIMEX3 tid="t6" type="DATE" value="2017-07-23">Minggu (23/7)</TIMEX3>. 
+
+Tidak ada alasan resmi mengenai hal tersebut. 
+
+Hanya saja, Koryo Tours yang berbasis di Beijing mengatakan bahwa pembatalan itu akibat kekeringan yang melanda Korut. 
+
+" Menggelar festival bir <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> dirasa kurang tepat, " jelas Simon Cockerell, general manager Koryo. 
+
+Dia menambahkan, akan terlihat tidak elok bagi warga kelas menengah Pyongyang untuk mengadakan pesta bir, sementara ada sebagian masyarakat yang tengah berjuang melawan kekeringan. 
+
+Sekadar informasi, data Perserikatan Bangsa-Bangsa menunjukkan, Korut <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tengah mengalami masa kekeringan terburuk sejak <TIMEX3 tid="t9" type="DATE" value="2001">2001</TIMEX3>. 
+
+Kondisi ini akan meningkatkan kemungkinan kian menipisnya bahan pangan di negara itu. 
+
+Masa kekeringan yang berkepanjangan biasanya dialami Korut saat musim tanam, yaitu <TIMEX3 tid="t10" type="DATE" value="2017-Q2">periode April</TIMEX3> hingga <TIMEX3 tid="t11" type="DATE" value="2017-06">Juni</TIMEX3>. 
+
+Itu sebabnya, cadangan beras dan tepung mereka berisiko menipis. 
+
+Informasi tambahan, pabrik Taedonggang Beer didirikan pada <TIMEX3 tid="t12" type="DATE" value="2000">tahun 2000</TIMEX3>, saat negara tersebut mulai pulih dari bencana kelaparan. 
+
+Pimpinan Korut <TIMEX3 tid="t13" type="DATE" value="PAST_REF">saat itu</TIMEX3>, Kim Jong Il, membeli perusahaan asal Inggris -Ushers of Townbridge- pada <TIMEX3 tid="t14" type="DATE" value="2000">tahun 2000</TIMEX3>. 
+
+Pada <TIMEX3 tid="t15" type="DATE" value="UNKNOWN">waktu itu</TIMEX3>, nilai pembeliannya mencapai 1,5 juta poundsterling atau US 1,95 juta untuk pabrik Ushers. 
+
+Festival bir yang dihelat <TIMEX3 tid="t16" type="DATE" value="2016-07-24">tahun lalu</TIMEX3> berhasil menarik sekitar 4.500 wisatawan, baik asing maupun domestik. 
+</TEXT>
+
+</TimeML>

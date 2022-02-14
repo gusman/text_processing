@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0641</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-09" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-09</TIMEX3></DCT>
+
+<TITLE>Angin Puting Beliung Rusak Rumah Warga Desa Putat</TITLE>
+
+<TEXT>
+Kejadian ini terjadi tepatnya di Desa Putat Kecamatan Malinau Utara pada <TIMEX3 tid="t1" type="TIME" value="2019-11-07TAF">Kamis sore</TIMEX3>. 
+
+Angin puting beliung ini merusak beberapa rumah warga dan fasilitas desa seperti Kantor Desa dan Perpustakaan sekolah. 
+
+Kejadian ini juga mengakibatkan salah satu warga bernama Fila yang berusia <TIMEX3 tid="t2" type="DURATION" value="P9Y">9 tahun</TIMEX3> mengalami musibah namun dapat tertolong. 
+
+Berawal dari suara guntur lalu hujan <TIMEX3 tid="t3" type="TIME" value="2019-11-08T16:00">sekitar pukul 16.00</TIMEX3> wita yang diikuti dengan angin kencang sampai rumah-rumah warga mulai atap hingga dinding berbunyi. 
+
+Seperti biasa <TIMEX3 tid="t4" type="SET" value="UNKNOWN">hampir setiap sore</TIMEX3> anak-anak bermain di halaman balai adat. 
+
+Saat itulah salah satu anak tertimpa balok dan papan rumah yang terhempas akibat tiupan angin kencang. 
+
+Beruntung anak tersebut dapat tertolong dan segera dibawa ke rumah sakit. 
+
+Selama kejadian sebagian warga bersembunyi didalam rumah, namun ada juga yang berusaha membantu warga lain yang terkena musibah. 
+
+Angin mulai reda <TIMEX3 tid="t5" type="TIME" value="2019-11-08T18:00">sekitar pukul 18.00</TIMEX3> wita. 
+
+Sekretaris Daerah Dr. 
+
+Ernes Silvanus, S. 
+
+Pi. 
+
+, MM yang berada di lokasi musibah menyampaikan bahwa sejak kejadian <TIMEX3 tid="t6" type="TIME" value="2019-11-08">kemarin sore</TIMEX3> tim Badan Penanggulangan Bencana Daerah (BPBD) sudah hadir dan melihat kondisi lapangan. 
+
+Tim BPBD juga sudah mengevakuasi salah satu korban anak-anak ke rumah sakit karena tertimpa bahan bangunan yang terkena angin, ucapnya didampingi beberapa kepala OPD yang berkunjung ke lokasi kejadian. 
+
+Pemkab Malinau melalui Sekda Ernes menyampaikan kepada masyarakat untuk tetap berhati-hati dengan kondisi cuaca ekstrim seperti ini dan kejadian ini termasuk yang baru pertama kali terjadi di desa Putat. 
+
+Bapak Bupati (Dr. 
+
+Yansen TP, M. 
+
+Si) tadi juga sudah memerintahkan staf termasuk kami untuk segera menginfentarisir rumah-rumah yang terkena musibah untuk segera di bantu, ungkapnya. 
+
+Sekda Ernes juga berharap masyarakat bisa saling bahu membahu membersihkan kayu-kayu yang sudah tumbang. 
+
+Tampak terlihat juga beberapa rumah yang sudah dikerjakan kembali oleh pemilik rumah. 
+
+Semoga <TIMEX3 tid="t7" type="DATE" value="2019-11-09">hari ini</TIMEX3> data bisa masuk dan segera kita bantu seperti bantuan seng untuk rumah-rumah yang tertimpa musibah dan bantuan lainnya, ujarnya. 
+
+(red/hms) 
+</TEXT>
+
+</TimeML>

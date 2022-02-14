@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0937</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-23" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-23</TIMEX3></DCT>
+
+<TITLE>Sebagian Wilayah Bintuni Banjir</TITLE>
+
+<TEXT>
+Hujan deras yang mengguyur wilayah Kabupaten Teluk Bintuni kembali menyebabkan banjir. 
+
+Puluhan rumah warga di Kampung Bina Desa, Bintuni terencam air hingga pinggang orang dewasa. 
+
+Sebagian warga tak bisa menyelamatkan barang-barang elektronik lantaran air cepat luap dan menggenangi rumah. 
+
+SAR Pos Bintuni yang mendapat laporan langsung mengerahkan personel dan peralatan untuk membantu evakuasi warga ke tempat aman. 
+
+Pos SAR Bintuni mendapat laporan banjir di Kampung Bina Desa dari Brigadir Ilham Aanggota Sabhara Polres Bintuni. 
+
+Kepala Kantor Pencarian dan Pertolongan (Kakansar) Manokwari, George Leo Mercy Randang, SIP kepada wartawan mengatakan, SAR Pos Bintuni mendapat laporan banjir pada, <TIMEX3 tid="t1" type="DATE" value="2020-03-20">Jumat (20/3)</TIMEX3> tengah <TIMEX3 tid="t2" type="TIME" value="2020-03-22TNI">malam</TIMEX3> sekitar <TIMEX3 tid="t3" type="TIME" value="2020-03-22T23:35">pukul 23.35 WIT</TIMEX3>. 
+
+Sedangkan Tim Rescue berangkat ke lokasi <TIMEX3 tid="t4" type="TIME" value="2020-03-22T23:50">pukul 23.50 WIT</TIMEX3>. 
+
+Genang air terus menendam rumah warga hingga <TIMEX3 tid="t5" type="DATE" value="2020-03-21">Sabtu (21/3)</TIMEX3> dini hari pukul <TIMEX3 tid="t6" type="TIME" value="2020-03-22T02:10">02.10 WIT</TIMEX3>. 
+
+Banjir yang merendam rumah warga di Kampung Bina Desa mulai berangsur surut dan tim SAR gabungan tetap melakukan pemantauan, ujar Randang. 
+
+Upaya upaya menolang warga yang kebanjiran, SAR Pos Bintuni mengerahkan 3 personel dibantu anggota Polres Teluk Bintuni, serta peralatan perahu karet dan truk personel. 
+
+Sedikitnya ada 14 warga yang terdampak langsung banjir ini, Juan Simanjuntak, Tan, Safril, Tono, Max, Bambang, Supri, Metandi, Wati, Tina, Nurul, Sukianti, Yuni dan Mutia. 
+
+(***/lm) 
+</TEXT>
+
+</TimeML>

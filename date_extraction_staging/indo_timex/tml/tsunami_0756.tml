@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0756</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>124 Gempa Susulan Mengguncang Sulteng Sejak Gempa Bermagnitudo 7,4</TITLE>
+
+<TEXT>
+Gempa bermagnitudo 7,4 (sebelumnya 7,7) mengguncang wilayah Donggala, Sulawesi Tengah pada Jumat (28/9/2018) pukul 17.02 WIB.
+
+Gempa besar ini kemudian disusul dengan gelombang tsunami yang menyebabkan permukiman di sekitar Pantai Palu porak-poranda terbawa gelombang air laut.
+
+Gempa susulan terjadi setelah gempa besar dan tsunami ini.
+
+Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) melalui akun resmi Twitter @InfoHumasBMKG menyatakan, hingga pukul 11.33 WIB setelah gempa bermagnitudo 7.4 ini, diikuti gempa susulan sebanyak 124 kali.
+
+Saat dikonfirmasi, Kepala Humas BMKG Hary Tirto Djatmiko membenarkan informasi itu.
+
+"Yup (124 gempa susulan terjadi setelah gempa bermagnitudo 7,4).
+
+Yang terkecil magnitudo 2,9 dan yang terbesar magnitudo 6,3, " kata Hary, saat dihubungi Kompas.
+
+com, Sabtu (29/9/2018).
+
+Seperti diketahui, banyak bangunan roboh hingga jalan raya rusak parah akibat bencana ini.Pasokan listrik pun sempat terhenti, sehingga menyebabkan jaringan telekomunikasi terganggu.
+
+Hingga saat ini, evakuasi terhadap korban terus dilakukan oleh pemerintah.
+</TEXT>
+
+</TimeML>
+

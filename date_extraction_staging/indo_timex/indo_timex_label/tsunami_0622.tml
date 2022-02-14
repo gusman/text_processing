@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0622</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-02" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-02</TIMEX3></DCT>
+
+<TITLE>Ratusan Korban Tsunami Palu Tiba di Kota Tarakan</TITLE>
+
+<TEXT>
+Sebanyak 120an lebih korban gempa dan tsunami Palu dan Donggala, Sulawesi Tengah tiba di Kota Tarakan, Kalimantan Utara, para korban di evakuasi melalui jalur laut menggunakan Kapal Pelni Lambelu dari Pelabuhan Pantoloan Palu, para korban yang mengaku masih trauma ini berharap segera di pulangkan ke kampung halaman mereka. 
+
+Ratusan korban tersebut diantaranya adalah anak-anak dan balita, saat tiba di Kota Tarakan mereka tak kuasa ingin segera di pulangkan ke kampung halamannya masing-masing untuk bertemu sanak saudara yang sudah menunggu kepulangan mereka. 
+
+Harapannya sih mau segera di pulangkan ke kampung halaman karena kita kan sudah terkantung kantung di perantauan, selain itu juga kita disini masih mengalami trauma, trauma sekali, Kata Sugiono salah seorang korban dari palu. 
+
+Lanjut dia menjelaskan, sebelumnya mereka telah mengungsi <TIMEX3 tid="t1" type="DURATION" value="2018-02-01TNI">2 malam</TIMEX3> di Bandara Mutiara Sis Al Jufri, Palu, namun karena menunggu lama di evakuasi menggunakan pesawat hercules, akhirnya para korban tersebut memilih di evakuasi menggunakan jalur laut. 
+
+Sebelumnya sudah <TIMEX3 tid="t2" type="DURATION" value="2018-10-02TNI">dua malam</TIMEX3> tinggal di bandara, karena lama menunggu giliran di evakuasi menggunaka hercules ya kami memilih lewat jalur laut saja menggunakan kapal, katanya lewat Makassar tapi tau taunya ke Tarakan <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">dulu setelah itu</TIMEX3> ke Nunukan habis ke Nunukan kembali lagi ke Pantoloan, sedangkan kami ini kan sudah trauma disitu makanya kami takut untuk kembali kesitu lagi dan tidak berani, Jelasnya. 
+
+Sementara itu, seluruh pihak terkait baik Pemerintah Daerah, TNI dan Polri serta pihak lainnya. 
+
+Masih melakukan koordinasi terhadap kepulangan para korban gempa tersebut. 
+
+Rencananya untuk <TIMEX3 tid="t4" type="DURATION" value="PXX">sementara waktu</TIMEX3>, para korban akan di ungsikan ke Rumah Sakit Umum Daerah (RSUD) Tarakan. 
+
+Mereka yang masih belum mempunyai biaya sama sekali dan identitas, untuk <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih tinggal di Tarakan, kita akan tampung, layani dan membantu selama mereka disini. 
+
+Jadi kita sudah siapkan tempat di RSUD Tarakan, begitu <TIMEX3 tid="t6" type="DATE" value="2018-10-03">besok</TIMEX3> sudah siap kita akan langsung pindahkan mereka kesana, Jelas Kapolres Tarakan, Yudhistira Midyahwan. 
+
+Selain itu, dia menambahkan sementara ini para korban akan di tampung <TIMEX3 tid="t7" type="DATE" value="PAST_REF">dulu</TIMEX3> dan diberi pengertian kepada mereka sekaligus menyiapkan sarana bagi para korban agar bisa pulang ke kampung halamannya masing masing. 
+
+Kita sudah menjelaskan ke mereka bahwa semua jadwal kapal feri yang dari Tarakan ke Jawa itu tidak ada, yang ada transit ke Palu baru ke Makassar, namun mereka menolak kalau itu transit di Palu, maunya kapal yang dari Tarakan langsung ke Surabaya atau Makassar, kita masih carikan jadwal kapal yang bisa membawa semua pengungsi ke Makassar atau Jawa tapi kemungkinannya Makassar tutunya. 
+
+Selama di Kota Tarakan, para korban bencana gempa dan tsunami palu tersebut di sediakan kebutuhan seperti makanan, minuman, pakaian layak pakai, dan apa yang mereka butuhkan akan dibantu. 
+
+(SHR) 
+</TEXT>
+
+</TimeML>

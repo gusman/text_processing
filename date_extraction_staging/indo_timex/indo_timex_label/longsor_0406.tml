@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0406</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-03-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-03-29</TIMEX3></DCT>
+
+<TITLE>Jalur Puncak Ditutup, Ini Jalur Alternatif Menuju Cianjur</TITLE>
+
+<TEXT>
+Aparat kepolisian Polres Bogor megimbau pengendara yang mengarah ke jalur puncak hingga cianjur menggunakan jalur alternatif lain. 
+
+. 
+
+Kapolres Bogor, AKBP A. 
+
+M Dicky mengatakan untuk sementara pengendara dari Jakarta yang hendak ke Cianjur bisa menggunakan jalur alternatif via Jonggol atau Sukabumi. 
+
+" <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">Sekitar pukul sembilan malam tadi</TIMEX3> ada longsor susulan di daerah Puncak Pass, kita lihat sudah diambil langkah-langkah untuk melakukan antisipasi terhadap longsor tersebut, " ujar Dicky di sekitar lokasi longsor, <TIMEX3 tid="t2" type="TIME" value="2018-03-28TNI">Rabu (28/3/2018) malam</TIMEX3>. 
+
+. 
+
+AKBP Dicky mengatakan bahwa <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihak PUPR sedang melakukan penanganan terhadap longsoran tersebut. 
+
+Ia menjelaskan bahwa <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihak PUPR sedang melakukan penelitian untuk langkah-langkah yang akan diambil oleh mereka. 
+
+Lanjut dia, pihaknya bekerja sama dengan Polres Cianjur untuk penutupan jalan. 
+
+" Para ahli juga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sedang melakukan penelitian termasuk langkah-langlah dari PUPR. 
+
+Dengan kondisi ini kita mengambil diskresi kepolisian bekerjasama dengan Polres Cianjur melakukan penutupan sambil <TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">nanti</TIMEX3> berkonsultasi dengan Dirjen Perhubungan Darat, " ungkapnya. 
+
+(Naufal Fauzy) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0045</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-09" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-09</TIMEX3></DCT>
+
+<TITLE>Lagi, Hutan di Lereng Gunung Agung Terbakar</TITLE>
+
+<TEXT>
+Kebakaran lahan hutan akibat <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau</TIMEX3> panjang kembali terjadi di Dusun Pucang, Desa Ban, Kubu, <TIMEX3 tid="t2" type="DATE" value="2019-10-08">Selasa (8/10)</TIMEX3>. 
+
+Lahan milik warga juga ikut terbakar. 
+
+Tim gabungan BPBD, TNI, dan Polri dibantu masyarakat bergerak memadamkan api. 
+
+Kepala Resort Pemangku Hutan (KRPH) Daya I Gede Susila mengatakan, lahan hutan yang terbakar berada di kompleks hutan Gunung Abang-Agung (RTK). 
+
+Ketinggiannya 1.400 meter di atas permukaan laut (mdpl). 
+
+Kebakaran masih berada di zona merah Kawasan Rawan Bencana (KRB III), ucapnya. 
+
+Untuk memutus kobaran api agar kebakaran tidak meluas dan melanda tumbuhan bambu, warga setempat membuat sekat dan memadamkan api secara manual dengan alat seadanya. 
+
+Kebakaran sudah mampu ditangani. 
+
+Kami masih terus melakukan pemantaun. 
+
+Kami minta peran warga agar ikut memantau dan menangani bila ada kebakaran agar tidak meluas, ujarnya. 
+
+. 
+
+Luas lahan yang terbakar 50 are. 
+
+Kami belum ketahui penyebabnya. 
+
+Kebakaran pohon beringin akibat kelalaian warga saat membakar sampah, tegasnya. 
+
+(Eka Parananda/balipost) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1121</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-17" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-17</TIMEX3></DCT>
+
+<TITLE>Ini Hasil Pemeriksaan Penyebab Galodo di Lintau Buo Utara</TITLE>
+
+<TEXT>
+Badan Geolodi pada Pusat Vulkanologi Mitigasi Bencana Geologi (PVMG) selesai melakukan pemeriksaan, guna mengetahui penyebab terjadinya galodo di Lintau Buo Utara, Kabupaten Tanah Datar, <TIMEX3 tid="t1" type="DATE" value="2018-10-11">Kamis (11/10)</TIMEX3> sekira <TIMEX3 tid="t2" type="TIME" value="2018-10-16T18:30">pukul 18.30 WIB</TIMEX3>. 
+
+Musibah galodo itu menyebabkan lima orang meninggal dunia, satu masih dicari, dan beberapa orang terpaksa menjalani perawatan di Puskesmas LBU I dan RSUD Ali Hanafiah Batusangkar. 
+
+Sejumlah hewan ternak juga hanyut. 
+
+Rumah, kedai, dan heler mengalami kerusakan. 
+
+Tim dari Badan Geologi melakukan pemeriksaan, <TIMEX3 tid="t3" type="DATE" value="2018-10-16">Selasa (16/10)</TIMEX3>, dan hasil pemeriksaannya di-publish Robert dan Badan Penanggulangan Bencana Daerah (BPBD) Tanah Datar, <TIMEX3 tid="t4" type="DATE" value="2018-10-17">Rabu (17/10)</TIMEX3> dinihari. 
+
+Tim ahli geologi itu menemukan empat faktor penyebab terjadinya galodo alias banjir bandang itu, yaitu kemiringan lereng yang cukup terjal di hulu sungai Lakuak Batu, sifat fisik tanah lapukan yang sarang, tebal, kurang kompak, dan mudah menyerap air. 
+
+Faktor berikutnya, adanya pembendungan sungai Lakuak Batu di bagian hulu oleh material longsoran maupun oleh tumpukan kayu-kayu hutan di bagian hulu dan membentuk danau. 
+
+Terakhir, curah hujan yang tinggi dalam wakyu cukup lama di bagian hulu Daerah Aliran Sungai (DAS) Batang Lakuak Batu. 
+
+Menurut laporan tim itu, secara morfologis wiayah Jorong Piubuah yang dilanda galodo terletak pada lereng bagian bawah Gunung Sago. 
+
+Kemirinhannya termasuk kelompok lereng landai hingga agak curam, sedangkan di bagian tengah dan hulu sungai Batang Lakuak Batu adalah perbukitan curam dan sangat curam. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1128</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-07" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-07</TIMEX3></DCT>
+
+<TITLE>Pencarian Korban Gempa di Sulteng Dihentikan Kamis Mendatang</TITLE>
+
+<TEXT>
+Kepala Pusat Data Informasi dan Humas Badan Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho mengatakan, berdasarkan hasil evaluasi tim gabungan pencarian korban gempa dan tsunami di Sulawesi Tengah akan dihentikan pada <TIMEX3 tid="t1" type="DATE" value="2017-10-11">Kamis (11/10)</TIMEX3>. 
+
+Sutopo menjelaskan, berdasarkan prosedur pencarian korban dilakukan selama <TIMEX3 tid="t2" type="DURATION" value="P7D">tujuh hari</TIMEX3> dan ditambah <TIMEX3 tid="t3" type="DURATION" value="P3D">tiga hari</TIMEX3> apabila masih ada yang belum ditemukan, sehingga total menjadi <TIMEX3 tid="t4" type="DURATION" value="P10D">10 hari</TIMEX3>. 
+
+Namun, pihaknya akan melanjutkan hingga <TIMEX3 tid="t5" type="DURATION" value="P4D">empat hari ke depan</TIMEX3>. 
+
+Hasil rapat evaluasi, khususnya evakuasi korban akan dihentikan pada <TIMEX3 tid="t6" type="DATE" value="2018-10-11">11 Oktober 2018</TIMEX3>, kalau tidak ditemukan korban akan dinyatakan hilang, ungkap Sutopo di kantornya, Jalan Pramuka, Jakarta Timur, <TIMEX3 tid="t7" type="DATE" value="2018-10-07">Minggu (7/10)</TIMEX3>. 
+
+Meski status pencarian dihentikan, tim gabungan tetap akan melakukan pencarian korban dengan personel dan alat terbatas. 
+
+Karena berdasar mekanismenya diatas <TIMEX3 tid="t8" type="DURATION" value="P10D">10 hari</TIMEX3> korban yang belum ditemukan sudah diperkirakan meninggal dunia dan diatas <TIMEX3 tid="t9" type="DURATION" value="P14D">14 hari</TIMEX3> mayat sudah tidak utuh. 
+
+Bukan berarti total tidak dilakukan pencarian, tetap dilakukan pencarian, cuma kekuatan baik personil maupun peralatan dikurangi, karena dalam proses evakuasi, <TIMEX3 tid="t10" type="DURATION" value="P14D">lebih dari 14 hari</TIMEX3> korban meninggal kalau pun ditemukan kondisinya tidak utuh, pungkasnya kepada. 
+
+Sebelumnya, korban tewas sudah mencapai 1.763 jenazah yang berhasil dievakuasi dengan rincian di Donggala 159 orang, Kota Palu 1.519 orang, Sigi 69 orang, Parigi Moutong 15 orang dan Pasangkayu, Sulawesi Barat 1 orang. 
+
+Sementara korban luka-luka total ada sebanyak 2.632 luka berat dan sedang di rawat di rumah sakit, sedangkan korban yang ditanyakan hilang masih berkisar sebanyak 265 orang dan diduga tertimbun 152 orang. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0462</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-18" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-18</TIMEX3></DCT>
+
+<TITLE>Teti Tewas Terseret Banjir Bandang saat Seberangi Sungai, Korban Ditemukan Setelah 2 Jam Pencarian</TITLE>
+
+<TEXT>
+Seorang ibu muda, Teti (35), ditemukan tewas terseret banjir bandang saat melintasi Sungai Ciawi. 
+
+Kepala Bidang Pencegahan dan Kesiapsiagaan BPBD Kabupaten Garut Tubagus Agus Sofyan menjelaskan, kejadian berawal saat Teti hendak pulang ke rumahnya setelah bekerja di sawah bersama suaminya menyeberangi Sungai Ciawi tanpa jembatan. 
+
+Korban dilaporkan terseret banjir bandang di Sungai Ciawi <TIMEX3 tid="t1" type="TIME" value="2020-02-17T14:00">sekitar pukul 14.00</TIMEX3> saat menyeberang sugai bersama suami dan dua orang warga lainnya, kata Tubagus, <TIMEX3 tid="t2" type="TIME" value="2020-02-17TNI">Senin (17/02/2020) malam</TIMEX3>. 
+
+. 
+
+Suami dan dua orang warga lainnya bisa selamat, namun korban tidak bisa diselamatkan hingga terseret arus, jelasnya. 
+
+Melihat istrinya terseret arus sungai, suaminya bersama warga sempat melakukan pencarian. 
+
+Setelah <TIMEX3 tid="t3" type="DURATION" value="PT2H">dua jam</TIMEX3> melakukan penyisiran, korban berhasil ditemukan dalam kondisi meninggal dunia. 
+
+" Korban sudah dibawa pihak keluarga ke rumah duka dan akan segera dimakamkan, " ujarnya. 
+
+(*)Artikel ini telah tayang di Kompas. 
+
+com dengan judul " Seberangi Sungai Ciawi, Seorang Ibu Muda Tewas Terseret Banjir Bandang " 
+</TEXT>
+
+</TimeML>

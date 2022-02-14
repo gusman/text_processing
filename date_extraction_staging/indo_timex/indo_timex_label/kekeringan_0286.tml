@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0286</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-18" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-18</TIMEX3></DCT>
+
+<TITLE>Darurat Kekeringan, Pasar Murah Diintensifkan</TITLE>
+
+<TEXT>
+Menghadapi status Darurat Kekeringan di daerah, Pemerintah Provinsi (Pemprov) Gorontalo mengintensifkan pelaksanaan pasar murah yang rutin digilir di setiap kecamatan. 
+
+Seperti yang dilakukan di Kecamatan Sipatana, Kota Gorontalo, <TIMEX3 tid="t1" type="DATE" value="2019-09-17">Selasa (17/9) kemarin</TIMEX3>. 
+
+Gubernur Rusli Habibie, dalam kesempatan itu mengatakan bahwa <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> darurat kekeringan, air tidak ada, bahan pangan juga kurang, apalagi uang untuk membeli makanan. 
+
+Makanya <TIMEX3 tid="t3" type="DATE" value="2019-09-18">hari ini</TIMEX3> (<TIMEX3 tid="t4" type="DATE" value="2019-09-17">kemarin</TIMEX3>, red) saya datang di Kelurahan Tapa dan sekitarnya untuk memberikan pasar murah, kata Rusli. 
+
+Selain di Kota Gorontalo, Gubernur Rusli juga akan menggelar kegiatan serupa di Boalemo dan Pohuwato. 
+
+Diharapkan warga bisa terbantu dalam hal akses pangan dengan harga serba lima ribu Rupiah. 
+
+Tujuh bahan pokok dijual paket yakni beras lima kg, gula satu kg, minyak goreng satu liter, telur 10 butir. 
+
+Ada bawang merah, bawang putih dan cabe rawit masing masing setengah kilogram. 
+
+Semuanya hanya ditebus dengan harga Rp55.000. 
+
+- Jadi semua sembako ini dijual pak gubernur serba lima ribu. 
+
+Sembako ini disediakan 1.500 paket jadi semua insyaallah dapat. 
+
+Tidak usah dorong-dorongan, imbuhnya. 
+
+Selain pelaksanaan pasar murah, Pemprov Gorontalo bekerjasama dengan pemerintah kabupaten terus menyalurkan distribusi air bersih ke 16 kecamatan yang terdampak. 
+
+(RG-25) 
+</TEXT>
+
+</TimeML>

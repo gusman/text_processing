@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0796</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-25</TIMEX3></DCT>
+
+<TITLE>Pemkot Berlakukan Tanggap Bencana Atasi Dampak Angin Kencang di Lagoa</TITLE>
+
+<TEXT>
+Pemerintah Kota Administratif Jakarta Utara menerapkan masa tanggap bencana selama empat sampai <TIMEX3 tid="t1" type="DURATION" value="P5D">lima hari ke depan</TIMEX3> terkait peristiwa angin kencang yang merusak puluhan rumah di Lagoa, <TIMEX3 tid="t2" type="DATE" value="2019-01-25">Jumat (25/1/2019)</TIMEX3>. 
+
+Wali Kota Jakarta Utara Syamsuddin Lologau mengatakan, masa tanggap bencana itu bisa diperpanjang sesuai kebutuhan masyarakat yang terdampak angin kencang. 
+
+" Jadi ini mungkin bisa sampai empat atau <TIMEX3 tid="t3" type="DURATION" value="P5D">lima hari ke depan</TIMEX3>. 
+
+Tapi kalau perlu diperpanjang lagi, <TIMEX3 tid="t4" type="DATE" value="FUTURE_REF">nanti</TIMEX3> kami perpanjang lagi, " kata Syamsuddin saat meninjau lokasi, <TIMEX3 tid="t5" type="TIME" value="2019-01-18TAF">Jumat siang</TIMEX3>. 
+
+. 
+
+" Saya perintahkan supaya bisa mempersiapkan atau membantu masyarakat utamanya juga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> kan logistik kami perlu bantu, " ujar dia. 
+
+Menurut Syamsuddin, warga membutuhkan terpal untuk menutup atap rumah yang jebol karena diterpa angin kencang pada <TIMEX3 tid="t7" type="DATE" value="2019-01-25">Jumat</TIMEX3> dini <TIMEX3 tid="t8" type="DATE" value="UNKNOWN">hari tadi</TIMEX3>. 
+
+" Apalagi ini kan <TIMEX3 tid="t9" type="DATE" value="2018-WI">musim hujan</TIMEX3>, jadi saya minta kepada (Suku Dinas) Sosial untuk membantu terpal karena sangat diperlukan, " kata dia.Ia memastikan, ada 27 rumah warga yang rusak dalam peristiwa itu. 
+
+Sebanyak 10 di antaranya rusak berat. 
+
+Jumlah warga yang terdampak 68 jiwa. 
+</TEXT>
+
+</TimeML>

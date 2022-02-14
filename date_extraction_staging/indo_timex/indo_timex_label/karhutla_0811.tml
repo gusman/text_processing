@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0811</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2013-06-24" temporalFunction="false" functionInDocument="CREATION_TIME">2013-06-24</TIMEX3></DCT>
+
+<TITLE>Bandara Soetta tunda 3 penerbangan menuju Riau</TITLE>
+
+<TEXT>
+Kebakaran hutan yang terjadi di <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">Pekan Baru</TIMEX3>, Riau, <TIMEX3 tid="t2" type="DURATION" value="P1W">seminggu</TIMEX3> terakhir hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3>, masih mengakibatkan kabut asap. 
+
+Akibatnya, tiga penerbangan dari Bandara Soekarno-Hatta, Tangerang, mengalami penundaan. 
+
+Tercatat, tiga pesawat yang ditunda adalah dua pesawat Lion Air, dan satu pesawat Garuda Indonesia. 
+
+Penundaan ini dikatakan pejabat AP II, sebagai langkah antisipasi keselamatan penumpang. 
+
+" Ada tiga yang ditunda, karena asap tebal akibat kebakaran hutan. 
+
+Penundaan ini ditentukan pihak maskapai, setelah melihat situasi dan kondisi alam, " kata Humas Angkasa Pura II Bandara Soekarno Hatta Yudis Setiawan, <TIMEX3 tid="t4" type="DATE" value="2013-06-24">Senin (24/6/2013)</TIMEX3>. 
+
+Dikatakan Yudis, tidak ada imbauan khusus terhadap maskapai dari pihak AP II untuk melakukan penundaan. 
+
+AP II menyerahkan seluruhnya kepada pihak maskapai dan pilot. 
+
+" Karena pilot yang bisa menentukan peswat bisa terang atau tidak dengan adanya asap tersebut. 
+
+Biasanya pilot melihat indikator ketebalan kabut, merekalah yang bisa menentukan layak atau tidaknya pesawat untuk terbang, " ungkapnya. 
+
+(san) 
+</TEXT>
+
+</TimeML>

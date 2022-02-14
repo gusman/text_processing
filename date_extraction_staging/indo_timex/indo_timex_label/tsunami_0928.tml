@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0928</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-25" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-25</TIMEX3></DCT>
+
+<TITLE>Warga Singkawang Korban Tsunami Banten Ternyata Kerabat Ifan Seventeen, Sempat Video Call</TITLE>
+
+<TEXT>
+Musibah Tsunami yang melanda Banten pada <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">Sabtu (22/12/2018) malam lalu</TIMEX3> juga merenggut satu orang warga singkawang yang diidentifikasi beranama Nurmala (48). 
+
+Nurmala diketahui merupakan kerabat dari Riefian Fajarsyah atau yang akrab dikenal dengan ifan seventeen. 
+
+Berdasarkan keterangan Martali (48) adik ipar Nurmala mengatakan bahwa kakak iparnya ikut serta bersama dengan ifan saat manggung di tanjung lesung. 
+
+" Kurang lebih dah <TIMEX3 tid="t2" type="DURATION" value="P7M">tujuh bulan</TIMEX3> nurmala ikut ifan ke bogor karena kebetulan ibunya ifan itu dengan almarhum masih hitungan sepupu, " ujarnya saat ditemui di Jln Uray Dahlan M Suka, Gg Idi M Sholeh Kelurahan Sekip Lama, Kecamatan Singkawang Tengah. 
+
+<TIMEX3 tid="t3" type="DATE" value="2018-12-25">Selasa</TIMEX3> (25/12/2018)Ia menyatakan <TIMEX3 tid="t4" type="DATE" value="PXX">beberapa saat</TIMEX3> sebelum ifan naik ke atas panggung, kakak iparnya sempat melakukan video call dengan bibinya untuk saling bertukar kabar. 
+
+" Saat di video call dia (Almarhum Red) ngabarkan bahwa kenapa rase nyaman disana, " ujarnya. 
+
+Ia menyatakan hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihak keluarga masih mengharapkan agar jenazah almarhun dapat dibawa pulang ke singkawang dari banten. 
+
+" Besar harapan kami kakak ipar kami bisa dibawa pulang ke singkawang, karena banyak keluarga besar di singkawang semua, " ujarnya. 
+
+// Martali Tunjukkan Berkas Identitas Kakak Iparnya, Nurmala (48) warga singkawang yang ikut jadi korban tsunami di Banten. 
+
+Langkah Wali Kota SingkawangSetelah alumni Untan, Lie Cu dikabarkan kehilangan suami, anak, dan ibunya, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">kini</TIMEX3> giliran seorang warga Singkawang yang jadi korban. 
+
+Nama korban tewas asal Kota Singkawang itu adalah Uur Mala. 
+
+Kepastian warga Singkawang menjadi korban tsunami Banten itu setelah Tim Disaster Victim Identification (DVI) Polri melakukan identifikasi terhadap para korban. 
+
+Mengutip CNN, Tim DVI Polri <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sedang melakukan proses identifikasi korban meninggal tsunami Selat Sunda. 
+
+Hingga <TIMEX3 tid="t8" type="TIME" value="2018-12-24T16:00">Senin (24/12) pukul 16.00 WIB</TIMEX3>, dari 222 korban meninggal yang sudah ditemukan di wilayah Banten, tim DVI Polri sudah berhasil mengidentifikasi sebanyak 185 jenazah. 
+
+" Per <TIMEX3 tid="t9" type="TIME" value="2018-12-24T16:00">pukul 16.00 WIB</TIMEX3> korban yang dapat kami temukan sebanyak 222 orang, yang sudah teridentifikasi sebanyak 185 orang, " Kata Kepala Bidang Humas Polda Banten AKBP Edy Sumardi P dalam konferensi pers yang disiarkan CNN Indonesia TV. 
+
+Dari 185 korban meninggal yang sudah teridentifikasi itu, sebanyak 172 jenazah sudah diambil oleh pihak keluarga. 
+
+Sementara 13 lainnya belum diambil pihak keluarga masih berada di Rumah Sakit Umum Pandeglang. 
+
+// Adapun 13 korban yang sudah teridentifikasi namun belum diambil pihak keluarga itu adalah:1. 
+
+Puji Eka Siswanto, 45 tahun2. 
+
+Uur Mala, <TIMEX3 tid="t10" type="DURATION" value="P48Y">48 tahun</TIMEX3>, asal Singkawang3. 
+
+Evi Laraswati, <TIMEX3 tid="t11" type="DURATION" value="P29Y">29 tahun</TIMEX3>, Tangerang4. 
+
+Windu Andi Darmawan, <TIMEX3 tid="t12" type="DURATION" value="P36Y">36 tahun</TIMEX3>, Yogyakarta5. 
+
+Helena Sridaryami, <TIMEX3 tid="t13" type="DURATION" value="P68Y">68 tahun</TIMEX3>, Cimanggis, Depok6. 
+
+Siti Hamzah, <TIMEX3 tid="t14" type="DURATION" value="P20Y">20 tahun</TIMEX3>, Tangerang7. 
+
+Ridwan Arifin, 36 tahun8. 
+
+Aris Yuwono, <TIMEX3 tid="t15" type="DURATION" value="P29Y">29 tahun</TIMEX3>, Kedungwuluh Kidul, Banyumas9. 
+
+Susanti, <TIMEX3 tid="t16" type="DURATION" value="P40Y">40 tahun</TIMEX3>, Pasar Kemis, Tangerang // 10. 
+
+Rahmi, <TIMEX3 tid="t17" type="DURATION" value="P38Y">38 tahun</TIMEX3>, Indramayu11. 
+
+Asep Hidayat, <TIMEX3 tid="t18" type="DURATION" value="P27Y">27 tahun</TIMEX3>, Cidadak12. 
+
+Yumar, <TIMEX3 tid="t19" type="DURATION" value="P43Y">43 tahun</TIMEX3>, Pasar Kemis, Tangerang13. 
+
+Ragih, <TIMEX3 tid="t20" type="DURATION" value="P34Y">34 tahun</TIMEX3>, Sawangan Depok. 
+
+" Bagi bapak/ibu yang merasa memiliki keluarga yang belum diambil dapat menghubungi Rumah Sakit Umum Pandeglang dengan nomor telepon 0253-202077, " kata Edy. 
+
+Sementara itu, sebanyak 37 korban tsunami Selat Sunda lainnya belum berhasil diidentifikasi oleh tim DVI Polri. 
+
+Edy menyebut tim DVI kesulitan mengidentifikasi korban karena beberapa alasan seperti tidak menemukan kartu identitas berupa KTP atau SIM, sidik jari yang sudah rusak, dan data antemortem yang belum lengkap. 
+
+" Seperti tidak ada ciri-ciri khusus dari tubuh seperti bekas luka, tato, dan sebagainya, " ucap Edy. 
+
+Terkait dengan keluarga korban yang belum teridentifikasi bisa menghubungi Kabid Dokkes Polda Banten AKBP Dokter Naryana dengan nomor ponsel 081222920669. 
+
+Posko bencana tsunami wilayah Banten juga dapat dihubungi melalui call center dengan nomor telepon 085211672686 dan 085211672708. 
+
+Informasi tentang warga Singkawang yang jadi korban tsunami Banten pun telah sampai ke telinga Wali Kota Singkawang, Tjhai Chui Mie. 
+
+Sudah. 
+
+Barusan saya lewat Sekda sudah kontak Dinas Sosial Kota. 
+
+Berkoordinassi dengan Dinas Sosial Provinsi untuk mengecek data tersebut, kata Tjhai Chui Mie kepada Tribunpontianak. 
+
+co.id, melalui WhatsApp. 
+
+Dan kami berharap, jika nama tersebut adalah warga Singkawang, tolong segera melaporkan ke Pemkot untuk mengambil langkah penanganan terhadap korban, pintanyaAlumni Untan Pontianak Turut Jadi KorbanAlumni Univesitas Tanjungpura (Untan) Pontianak, Lie Cu, dikabarkan menjadi korban tsunami yang menerjang Banten dan Bandar Lampung.Informasinya Lie Cu adalah alumni Fakultas Teknik Sipil Angkatan 97.Lie Cu juga alumni SMA Negeri 1 Pontianak, Kalimantan Barat.Kabar kalau keluarga Lie Cu menjadi korban tsunami, menyebar di jejaring media sosial Facebook dan Grup WhatsApp.Lie Cu sendiri dikabarkan selamat dari tsunami.Saat itu, Lie Cu sedang bersama dengan suami, kedua anaknya, dan ibu mertuanya.Lie Cu selamat bersama dengan anak lelakinya, Nathan.Sementara sang suami, Aan, putri kecilnya, Cicil ditemukan dalam keadaan tidak bernyawa.Begitu juga dengan ibu mertuanya, yang tewas dalam kejadian tersebut.Informasi ini diunggah pemilik akun Facebook, Mbu Chelsea yang menandai dirinya bersama dengan Lie Cu.Begini unggahannya, <TIMEX3 tid="t21" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>:Koko Nathan sama Mamah Lie Cu selamat dr tsunamiDe Cicil sm Papah Aan ditemukan dlm keadaan wafatBegitu pun dengan Oma...Berasa mimpi dpat Kabar tadi pagiYa alloh berikan ke ikhlasan Dan ke sabaran untuk nte Lie CuMbu Chelsea juga mengunggah foto keluarga Lie Cu.Dalam foto itu, Lie Cu dan keluarganya sedang naik kuda.Lie Cu bersama dengan Nathan dengan kuda yang satu, sementara suaminya Aan bersama denan Cicil di kuda yang lain.Mbu Chelsea mengunggah kembali kabar duka tentang keluarga Lie Cu, <TIMEX3 tid="t22" type="TIME" value="2018-12-24TAF">Senin (24/12/2018) siang</TIMEX3>.Ia masih tidak percaya bahwa kepergian kerabatnya itu bukanlah sebuah mimpi.Ini unggahannya:Ya Alloh ya RabbTernyata ini bukan mimpiAyah kirim foto jenazah Mamah (Oma Teluk)Om Aan... 
+
+Dek CicilDek Fenny Nte Lie Cu, Dek Nathan luka2...Semoga nte Lie Cute sabar dan kuat dlm menghadapi Ujian dari TUHANGA bs Ketemu Oma, Om Aan, sm Dek Cicil lagiMbu Chelsea juga menuliskan mereka yang wafat tidak akan dibawa ke Lampung. " Dan akhir nya benar2 GA Akan Ketemu lagi meski Hanya melihat jenazah nya. 
+
+Jenazah GA Di bawa ke Lampung, " tulis Mbu Chelsea.Kabar tentang keluarga Lie Cu menjadi korban tsunami juga diinformasikan pemilik akun Facebook, Julius Sofiar. 
+
+Semoga Lie Cu Alumni SMANSA Pontianak angkatan 97 diberikan Ketabahan dan Keikhlasan dalam menerima musibah ini, tulis Julius Sofiar. 
+
+
+</TEXT>
+
+</TimeML>

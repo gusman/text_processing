@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0418</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2013-01-16" temporalFunction="false" functionInDocument="CREATION_TIME">2013-01-16</TIMEX3></DCT>
+
+<TITLE>50 Kelurahan di Jakarta Terendam Banjir</TITLE>
+
+<TEXT>
+Daerah yang terendam banjir akibat meluapnya Sungai Ciliwung dan sungai lainnya di wilayah Jakarta terus bertambah.
+
+Hingga Selasa (15/1/2015) pukul 20.00, data sementara terdapat 50 kelurahan terendam banjir.
+
+Sebanyak 6.101 jiwa mengungsi ke tempat pengungsian yang telah disiapkan.
+
+Sutopo Purwo Nugroho, Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana (BNPB) Pusat memperkirakan luas wilayah yang terendam banjir akan bertambah karena pendataan masih terus dilakukan.
+
+Pengungsi terbanyak terdapat di Kel Durikosambi yaitu 2.645 orang, yang ditempatkan di markas karang taruna dan Terminal Bus Transjakarta.
+
+Di Kelurahan Rawabuaya terdapat pengungsi 2.102 orang.
+
+Kelurahan lain yang terendam banjir yakni Kelurahan Bidaracina yakni 214 orang.
+
+Hingga saat ini tercatat korban meninggal 1 orang yaitu Angga (13) warga RT 5/ 01, Kelurahan Tanjung Duren Utara, Kecamatan Grogol Petamburan, Jakarta Barat.
+
+Korban meninggal tenggelam akibat disapu luapan air sungai di Kali Sekretaris.
+
+Hingga pukul 20.00, debit sungai Ciliwung di Manggarai terus mengalami kenaikan.
+
+Tercatat 900 cm (Siaga 2) yang dalam kisaran Siaga 2 yakni 850   950 cm.
+
+Sedangkan di Bendung Katulama ketinggian muka air 130 cm (Siaga 3)
+</TEXT>
+
+</TimeML>
+

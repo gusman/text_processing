@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0938</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-15" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-15</TIMEX3></DCT>
+
+<TITLE>Kabut Asap Di Riau Dinilai BNPB Sudah Sangat Berbahaya</TITLE>
+
+<TEXT>
+Kebakaran hutan dan lahan di Riau, Pekanbaru menimbulkan kabut asap pekat yang menutupi sejumlah wilayah. 
+
+Kabut asap masih menyelimuti Riau merupakan imbas kebakaran hutan dan lahan (karhutla). 
+
+. 
+
+Pasalnya selain terjadi di hampir sebagian wilayah, juga ada kiriman kabut asap dari Sumatera Selatan. 
+
+" Kalau titik api (Riau) tidak terlalu banyak, tapi gede-gede. 
+
+Soal kabut asap, ini sudah sangat bahaya. 
+
+Asap itu kan berbahaya, " ujarnya. 
+
+Agus menambahkan, kualitas udara yang buruk dengan pekatnya kabut asap, imbuhnya mempunyai dampak yang cukup banyak, terutama bagi anak-anak. 
+
+Karena itu, sudah ada edaran dari Dinas Kesehatan untuk meliburkan sekolah guna menghindari adanya aktivitas di luar rumah agar terhindar atau menghidurp asap yang berbahaya tersebut. 
+
+" <TIMEX3 tid="t1" type="DATE" value="2019-09-14">Kemarin</TIMEX3> kualitas udaranya sampai 360 lebih, itu kan membahayakan, " papar dia. 
+
+// Kebakaran hutan dan lahan yang terjadi di Riau <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, sambungnya, hampir mirip dengan kejadian kebakaran hutan dan lahan di tahun 2013-2014. 
+
+" Riau 2013-2014 mirip, sampai susah bernapas. 
+
+Berat sekali, dari sisi kesehatan sangat berbahaya, menimbulkan dampak berbahaya, " imbuh dia. 
+
+Lebih lanjut, Agus mengatakan karhutla di Riau hampir menyeluruh. 
+
+" Kena semua, " papar dia. 
+
+Untuk diketahui, kualitas udara di Riau dikabarkan sangat tidak sehat sejak <TIMEX3 tid="t3" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir. 
+
+<TIMEX3 tid="t4" type="TIME" value="2019-09-15TMO">Minggu (15/9/2019) pagi</TIMEX3> kualitas udara di beberapa tempat di wilayah Riau yakni di Siak memiliki catatan angka 202 berdasarkan AQI atau indeks kualitas udara dengan status sangat tidak sehat. 
+
+Sementara beberapa tempat di Dumai, Batam, Pekanbaru dan Rumbai memiliki status tidak sehat dengan indeks AQI masing-masing 173, 160, 158, dan 193. 
+
+<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, upaya penanganan kebakaran hutan terus dilakukan. 
+
+BNPB terus mengerahkan personel untuk penanganan di beberapa provinsi. 
+
+Tujuh helikopter dikerahkan untuk pengeboman air dan patroli di wilayah Riau. 
+
+Terhitung sejak <TIMEX3 tid="t6" type="DATE" value="2019-02-19">19 Februari 2019</TIMEX3> hingga <TIMEX3 tid="t7" type="DATE" value="2018-10-31">31 Oktober lalu</TIMEX3> lebih dari 124 juta liter air digelontorkan untuk pengeboman. 
+
+Sementara, lebih dari 159 garam digunakan untuk operasi hujan buatan atau teknologi modifikasi cuaca. 
+
+Berdasarkan data BNPB, luas lahan terbakar akibat karhutla di wilayah Riau seluas 49.266 hektar dengan luasan lahan gambut 40.553 hektar dan mineral 8.713 hektar. 
+
+
+</TEXT>
+
+</TimeML>

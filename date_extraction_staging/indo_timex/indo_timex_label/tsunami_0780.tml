@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0780</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Terombang-ambing di Lautan, Ifan Seventeen Bilang Sempat Ingin Menyerah saat Terkena Tsunami</TITLE>
+
+<TEXT>
+Tsunami yang menerjang pesisir Pantai Banten dan Lampung Selatan pada <TIMEX3 tid="t1" type="DATE" value="2018-12-22">Sabtu (22/12/2018)</TIMEX3>. 
+
+Saat terjadinya bencana, grup band Seventeen diketahui sedang mengisi acara di Tanjung Lesung, Banten. 
+
+Turut menjadi korban dalam tsunami tersebut, Ifan selaku vokalis Seventeen menceritakan kronologi dirinya dan teamnya yang menjadi korban. 
+
+Hal itu bermula saat Seventeen mengisi acara sebuah perusahaan dan baru saja menyanyikan lagu kedua saat ombak menerjang. 
+
+Saat ombak tsunami merobohkan panggung, Ifan mengatakan dirinya terlempar cukup jauh. 
+
+" Jadi saya kelempar cukup jauh, begitu saya nyebrang saya terapung-apung di laut <TIMEX3 tid="t2" type="DURATION" value="PT2H">sekitar hampir 2 jam</TIMEX3>, " ujarnya. 
+
+" Itu lagu kedua, kita baru main lagu kedua, memang kita enggak tau apa yang terjadi tiba-tiba panggungnya terbalik, tergulung-gulung, nelen air lumpur banyak, kaki di atas kepala di bawah, besi di mana-mana, kepentok sana-kepentok sini, makanya memang banyak yang patah, " tambahnya.Ketika terapung di tengah laut, Ifan mengatakan dirinya sempat menyerah karena tak kunjung menyentuh pinggir pantai. " Itu juga sudah hampir nyerah, begitu saya sampai di pinggiran yang saya cari keluarga dan teman-teman, " tambahnya. 
+
+// Ifan yang sudah sampai di bibir pantai lalu menemukan jenazah kerabatnya. 
+
+" Di pinggir pantai saya ketemu sama jenazahnya Mas Oki dan Mas Bani dalam keadaan terjepit dan ditolong warga, " tambahnya. 
+
+Vokalis band Seventeen ini juga menegaskan <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3> evakuasi berjalan lambat sehingga banyak korban yang belum tertolong dan masih berada di pinggir pantai. 
+
+" Memang evakuasinya berjalan sangat lambat karena katanya banyak jalan terputus, mati lampu, dan hujan deras dan korbannya itu sepanjang jalan, jadi memang lambat sekali, " tambahnya. 
+
+Setelah berhasil di evakuasi, Ifan lalu mulai menemukan keluarga dan tim dari Seventeen. 
+
+Ia langsung dibawa untuk mendapatkan perawatan. 
+
+Lihat videonya:Diketahui, berdasarkan rilis yang diterima, <TIMEX3 tid="t4" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>, Tim SAR <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> telah diterjunkan ke lokasi kejadian. 
+
+Namun, Tim SAR <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih kesulitan untuk evakuasi karena akses jalan yang terputus. 
+
+Dilaporkan, dua orang tim dari Seventeen turut menjadi korban meninggal dunia. 
+
+// Yakni bassist Seventeen, Bani dan road manajer Oki Wijaya. 
+
+Sementara tim lainnya belum ditemukan hingga berita ini diturunkan. 
+
+
+</TEXT>
+
+</TimeML>

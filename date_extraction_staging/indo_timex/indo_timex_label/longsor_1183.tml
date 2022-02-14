@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1183</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-02-11" temporalFunction="false" functionInDocument="CREATION_TIME">2017-02-11</TIMEX3></DCT>
+
+<TITLE>Salju Longsor Tewaskan 191 Orang di Afghanistan</TITLE>
+
+<TEXT>
+Salju longsor dan kondisi cuaca beku di Afghanistan telah menewaskan 191 orang. 
+
+Data itu diungkapkan pejabat berwenang <TIMEX3 tid="t1" type="DATE" value="2017-02-10">Jumat (10/2)</TIMEX3>, saat operasi penyelamatan di daerah paling parah terkena dampak bencana tersebut. 
+
+Sebanyak 22 provinsi di Afghanistan diselimuti salju tebal selama <TIMEX3 tid="t2" type="DURATION" value="PXD">beberapa hari</TIMEX3>, yang memicu salju longsor, menghancurkan sejumlah bangunan dan membuat banyak orang terjebak di rumah mereka yang dikelilingi salju. 
+
+''Korban tewas yang kita terima akibat salju longsor dan cuaca dingin meningkat menjadi 191 orang, '' kata Mohammad Aslam Sayyas, wakil menteri untuk manajemen bencana kepada AFP. 
+
+''Provinsi yang paling parah terkena dampak adalah Nuristan timur laut, tempat sedikitnya 68 orang tewas, '' kata Sayyas menambahkan. 
+
+Dia menuturkan, bahwa upaya pencarian dan penyelamatan ditingkatkan pada <TIMEX3 tid="t3" type="DATE" value="2017-W06">pekan ini</TIMEX3> di tengah kondisi cuaca yang membaik, setelah pihak berwenang awalnya kesulitan untuk mencapai daerah-daerah pegunungan yang terpencil. 
+
+Sayyas mengatakan bahwa 300 orang terluka dan lebih dari 500 lainnya berhasil diselamatkan di berbagai bagian negara tersebut. 
+
+Warga Nuristan telah menderita kerugian keuangan besar ketika puluhan rumah hancur, kata gubernur provinsi Hafiz Abdul Qayyom kepada AFP, sambil menambahkan bahwa uang tunai dan makanan sedang dikirimkan menggunakan helikopter ke keluarga korban. 
+
+Federasi Palang Merah Internasional (IFRC) mengatakan bahwa ribuan keluarga di Afghanistan dan negara tetangga Pakistan sedang berjuang untuk bertahan hidup setelah salju tebal di kedua negara itu. 
+
+Salju longsor mematikan sering terjadi di area pegunungan Afghanistan saat musim dingin, dan operasi penyelamatan sering kali terkendala akibat kurangnya peralatan. 
+
+*** 
+</TEXT>
+
+</TimeML>

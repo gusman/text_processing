@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0817</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-02-09" temporalFunction="false" functionInDocument="CREATION_TIME">2016-02-09</TIMEX3></DCT>
+
+<TITLE>Binjai Dilanda Banjir, Satu Jembatan Ambruk</TITLE>
+
+<TEXT>
+Satu jembatan utama yang berada di Jalan Ponogoro yang menghubungkan Kecamatan Binjai Timur dan Binjai Selatan ambruk karena hujan yang mengguyur Kota Binjai, <TIMEX3 tid="t1" type="DATE" value="2016-02-08">Senin (8/2/2016) kemarin</TIMEX3>. 
+
+Akibatnya arus transportasi di kawasan tersebut terputus untuk <TIMEX3 tid="t2" type="DURATION" value="UNKNOWN">beberapa waktu ke depan</TIMEX3>. 
+
+Terputusnya jalan tersebut, membuat warga dari Ponogoro, Kecamatan Binjai Timur yang ingin ke kawasan kelurahan rambung kecamatan Binjai Selatan terpaksa memutar jauh ke arah pusat Kota Binjai. 
+
+Menurut informasi yang diterima, <TIMEX3 tid="t3" type="DATE" value="2015-11">November 2015 lalu</TIMEX3>, jembatan ini juga sempat rusak akibat diterjang banjir. 
+
+Dinas PU sendiri sudah pernah melakukan perbaikan, dan Dinas Perhubungan Binjai <TIMEX3 tid="t4" type="DATE" value="PAST_REF">saat itu</TIMEX3> pernah melakukan perubahan arus lalu lintas. 
+
+" Parah hujannya tadi <TIMEX3 tid="t5" type="TIME" value="2016-02-08TNI">malam</TIMEX3> bang, tiba-tiba saja jembatannya putus tadi <TIMEX3 tid="t6" type="TIME" value="2016-02-08TNI">malam</TIMEX3>, seperti terkena goyongan ombak dari ari laut banjirnya, " kata seorang warga. 
+
+Selain jembatan tersebut, jembatan makam pahlawan di Imam Bonjol, Kelurahan Satria, Kecamatan Binjai, Kota Binjai mengalami kerusakan parah dan nyaris ambruk. 
+
+Akibat ambruknya jembatan ini, arus lalu lintas di Jalan Ponogoro dialihkan ke Jalan Jendral Sudirman. 
+
+Menurut data Badan Penanggulangan Bencana Daerah (BPBD) Binjai, selain jembatan sebanyak <TIMEX3 tid="t7" type="DATE" value="3500">3500</TIMEX3> rumah yang terdiri dari <TIMEX3 tid="t8" type="DATE" value="3400">3400</TIMEX3> Kepala Keluarga (KK) terendam banjir dan empat rumah mengalami rusak parah karena hanyut dibawa air 
+</TEXT>
+
+</TimeML>

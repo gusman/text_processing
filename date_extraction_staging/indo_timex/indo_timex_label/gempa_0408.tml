@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0408</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-08" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-08</TIMEX3></DCT>
+
+<TITLE>Tiba di Aceh Sore Ini, Jokowi Bakal Jenguk Korban Gempa Besok Pagi</TITLE>
+
+<TEXT>
+Presiden Joko Widodo bakal menjenguk korban gempa Aceh di sejumlah titik pengungsi yang tersebar di Kabupaten Pidie Jaya, <TIMEX3 tid="t1" type="DATE" value="2016-12-09">Jumat (9/12/2016) besok</TIMEX3>. 
+
+" Sesuai agenda kunjungan, Presiden Jokowi <TIMEX3 tid="t2" type="DATE" value="2016-12-08">hari ini</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2016-12-08">Kamis (8/12/2016)</TIMEX3> tiba <TIMEX3 tid="t4" type="TIME" value="2016-12-07TEV">sekitar pukul 17.00 WIB petang</TIMEX3> melalui Bandara Internasional Sultan Iskandar Muda (SIM) Blang Bintang, " ungkap Kepala Staf Kepresidenan Teten Masduki kepada Serambinews. 
+
+com, di sela kunjungan ke Pidie Jaya, <TIMEX3 tid="t5" type="DATE" value="2016-12-08">Kamis (8/12/2016)</TIMEX3>. 
+
+Presiden, lanjutnya, bakal langsung berkunjung ke RSU Zainal Abidin Banda Aceh untuk menjenguk korban luka berat, yang penanganan medisnya dirujuk ke rumah sakit provinsi. 
+
+Selanjutnya, pada <TIMEX3 tid="t6" type="TIME" value="2016-12-02TMO">Jumat pagi</TIMEX3> Jokowi bersama rombongan bertolak ke Sigli, Pidie, menggunakan helikopter. 
+
+" Beliau langsung menuju RSU Tgk Chik Di Tiro Sigli, Pidie, untuk menjenguk ratusan korban gempa yang masih menjalani perawatan medis, " jelas Teten. 
+
+Hanya berselang <TIMEX3 tid="t7" type="DURATION" value="PTXM">beberapa menit</TIMEX3>, tambah Teten, Presiden langsung melanjutkan perjalanan darat ke Pidie Jaya, guna melihat secara dekat lokasi bangunan yang ambruk serta infrastruktur yang terdampak gempa. 
+
+(Idris Ismail) 
+</TEXT>
+
+</TimeML>

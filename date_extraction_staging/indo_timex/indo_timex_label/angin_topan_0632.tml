@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0632</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-07-11" temporalFunction="false" functionInDocument="CREATION_TIME">2018-07-11</TIMEX3></DCT>
+
+<TITLE>ANGIN KENCANG RUSAKKAN RUMAH SALAH SEORANG WARGA</TITLE>
+
+<TEXT>
+Tingginya kecepatan angin <TIMEX3 tid="t1" type="DURATION" value="2018-07-01TNI">semalam</TIMEX3> pada <TIMEX3 tid="t2" type="DATE" value="2018-07-10">hari selasa (10/7/2018)</TIMEX3> yang mulai dari <TIMEX3 tid="t3" type="TIME" value="2018-07-10T23:00">jam 23.00</TIMEX3> hingga <TIMEX3 tid="t4" type="TIME" value="2018-07-11TMO">pagi Rabu</TIMEX3> (11/7/2018) tadi, ternyata membuat rumah salah seorang warga yang berada di jalan Aki pinka RT 02 Kelurahan Juata Permai mengalami kerusakan pada atapnya. 
+
+Yah, rumah salah seorang warga tersebut yakni Frederik, pemilik rumah menuturkan ia baru menyadari rumahnya menjadi korban angin kencang setelah ia kebasahan saat sedang tidur sendiri di Kursi sofa yang berada di ruang tamu sekira <TIMEX3 tid="t5" type="TIME" value="2018-07-10T23:45">pukul 23.45</TIMEX3> Wita. 
+
+Perasaan di mimpi saya kok kaya kehujanan, pas sadar buka mata saya pikir mungkin tempias air karena angin kencang, ujarnya, saat ditemui di rumahnya. 
+
+Saat sudah sadar, dia berpikir jika badannya basah bukan karena kena tempias, melainkan karena air hujan yang sudah masuk ke dalam rumahnya. 
+
+Akhirnya saat bergegas dari tempat ia tidur, barulah dia menyadari jika atap rumahnya sudah terlihat bolong pada bagian atapnya akibat seng rumah miliknya beterbangan. 
+
+Beruntung <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Yang saya lakukan pertama kali itu menyelamatkan surat-surat penting seperti Ijazah dan sertifikat lainnya supaya tidak basah. 
+
+Terus saya hubungi tetangga, tapi ndak diangkat, jadi saya siapkan tas isi ijazah dan lainnya. 
+
+Setelah itu saya matikan sekring dari luar, kan takut konslet terus saya ngungsi ke tetangga sebelah, jelasnya kronologis kejadian. 
+
+. 
+
+<TIMEX3 tid="t7" type="TIME" value="2018-07-11TMO">Pagi harinya</TIMEX3>, setelah hujan reda ia baru masuk kedalam rumah dan melihat ada beberapa kabel listrik yang terkelupas. 
+
+Karena takut kesetrum, Frederik menunggu tim teknisi dari PLN untuk bisa memperbaiki instalasi rumahnya. 
+
+Saya saja bingung ini mau bagaimana, ya dirapikan saja <TIMEX3 tid="t8" type="DATE" value="PAST_REF">dulu</TIMEX3> sambil menunggu ada dana untuk perbaikan. 
+
+<TIMEX3 tid="t9" type="DATE" value="FUTURE_REF">Nanti</TIMEX3>, mungkin saya akan minta bantuan tetangga lah untuk perbaiki seadanya <TIMEX3 tid="t10" type="DATE" value="PAST_REF">dulu</TIMEX3> sambil menunggu teknisi dari PLN juga untuk perbaiki instalasi listriknya, tutupnya. 
+
+(arz27) 
+</TEXT>
+
+</TimeML>

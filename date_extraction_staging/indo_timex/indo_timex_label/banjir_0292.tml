@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0292</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-06-06" temporalFunction="false" functionInDocument="CREATION_TIME">2017-06-06</TIMEX3></DCT>
+
+<TITLE>Cerita Relawan Tagana Evakuasi Korban Banjir, Berbuka Dengan Segelas Air, Sahur Baru Makan Nasi</TITLE>
+
+<TEXT>
+Bagi sebagian orang, belum tentu mampu melakukan apa yang dilakukan para relawan Taruna siaga Bencana (TAGANA). 
+
+Dalan kondisi perut lapar karena sedang berpuasa, mereka rela berbasah-basahan bahkan bertaruh nyawa, guna menyelamatkan warga yang terkepung banjir. 
+
+Tak jarang, karena sibuk mengevakuasi, para relawan ini bertahan dengan kondisi perut yang hanya beralaskan air putih. 
+
+Rizki Ibrahim, Radar Gorontalo. 
+
+<TIMEX3 tid="t1" type="DURATION" value="PXD">Beberapa hari</TIMEX3> terakhir, sejumah wilayah di Provinsi Gorontalo dilanda hujan lebat diikuti angin kencang. 
+
+Parahnya, hujan terjadi <TIMEX3 tid="t2" type="DURATION" value="UNKNOWN">hampir seharian</TIMEX3>, terhitung sejak <TIMEX3 tid="t3" type="DATE" value="2017-06-02">Jumat (2/6)</TIMEX3>. 
+
+Beberapa wilayah pun mulai terendam air, mulai dari Pohuwato, Boalemo, Kabupaten Gorontalo hingga Bone Bolango. 
+
+Paling parah di Kota Gorontalo. 
+
+Tidak tangung-tanggung, ancaman luapan air lebih besar lagi mengintai sejumlah titik pemukiman warga. 
+
+Sebagai salah satu organisasi relawan, Tagana pun mulai bersiap turun evakuasi. 
+
+Masalahnya, sebagian besar relawan yang beragama Islam, tengah menjalankan ibadah puasa. 
+
+Sedangkan untuk melakukan evakuasi, mereka butuh tenaga lebih. 
+
+Karena termasuk anggota Tagana, Saya pun harus ikut turun. 
+
+Memang tidak ada paksaan, tapi karena ini panggilan jiwa, maka tanpa disuruh pun para anggota Tagana yang rata-rata sudah pernah mengenyam pelatihan, lagsung turun melakukan pemantauan dan bersiap untuk evakuasi. 
+
+Dikala waktu senggang, saya sempat berbincang dengan Upick salah seorang anggota Tagana di Bulango Utara, yang menjadi kawasan paling rawan banjir. 
+
+Upick mengaku, bersama rekan-rekannya, <TIMEX3 tid="t4" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir mereka sibuk memantau kondisi sungai Bolango. 
+
+Saat debit air mulai tinggi, warga mulai panik dan berhamburan ke luar rumah. 
+
+Tagana coba menenangkan warga, sembari mebantu mereka menyelamatkan barang-barang berharga. 
+
+Benar saja, dalam <TIMEX3 tid="t5" type="DURATION" value="PTXH">beberapa jam</TIMEX3> debit air terus meninggi, dan mulai masuk ke rumah-rumah warga. 
+
+Arus yang deras cukup membahayakan, warga yang terlihat aktif menyelamatkan barang ketimbang menyelamatkan diri. 
+
+Dalam kondisi ini, Tagana harus benar-benar waspada. 
+
+Saat sibuk mengevakuasi warga, debit air terus naik ditambah arusnya sangat kuat. 
+
+Bahkan, salah seorang rekan Upik sempat terbawa arus. 
+
+kalau tidak ada pohon itu paling saya so jadi korban. 
+
+ungkap tato rekan upik yang ikut menimpali. 
+
+Menariknya, dalam kondisi kebasahan dan lelah karena harus bolak-balik evakuasi warga, para anggota Tagana masih bertahan puasa. 
+
+Bahkan, saat waktu berbuka tiba, satu gelas air mineral jadi menu pembuka utama. 
+
+Tak ada tambahan lain, cukup air satu gelas. 
+
+Dan dengan kondisi seperti itu, anggota Tagana harus bertahan hingga waktu sahur tiba. 
+
+Saya ini, cuma babuka dengan air satu glas. 
+
+<TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> Sahur baru rasa nasi, ungkap salah seorang anggota Tagana, sambil tersenyum. 
+
+Sebaliknya, salah seorang rekannya mengaku hanya Sahur dengan air satu gelas, dan langsung turun evakuasi, dan kembali berbuka dengan air satu gelas juga. 
+
+Alhamdulillah bisa tahan. 
+
+Hitung-hitung, ini modal kami di akhirat kelak, timpal keduanya. 
+
+Masih dalam suasana banjir, <TIMEX3 tid="t7" type="DATE" value="2017-06-03">Sabtu (03/06)</TIMEX3> dini hari anggota Tagana, bersama sebagian warga terpaksa sahur di posko bencana. 
+
+Bagi kami, bencana alam adalah lonceng tanda untuk anggota Tagana berkumpul di lokasi bencana. 
+
+Kami datang karena panggilan kemanusiaan, tandas Darwin, sekretaris Tagana Kabupaten Bone Bolango. 
+
+Dan anggota Tagana, hanya bisa pulang, setelah kondisi dinyatakan benar-benar aman. 
+
+Banyak yang tidak tahu, kalau Tagana adalah relawan. 
+
+Tak jarang, masyarakat awam menjadikan rekan-rekan Tagana, objek sasaran kemarahan hanya gara-gara tidak kebagian makanan atau bantuan, dan bagi kami Tagana itu hal biasa. 
+
+Tagana tak butuh ucapan terima kasih, melihat korban selamat saja, itu sudah lebih dari cukup. 
+
+(**/RG) 
+</TEXT>
+
+</TimeML>

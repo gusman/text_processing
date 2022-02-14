@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0352</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-26" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-26</TIMEX3></DCT>
+
+<TITLE>Telkomsel dan Indosat Pastikan Jaringan di Banten dan Lampung Normal</TITLE>
+
+<TEXT>
+PT Telekomunikasi Selular (Telkomsel) dan PT Indosat Tbk memastikan tidak ada infrastruktur telekomunikasi yang rusak akibat tsunami di Selat Sunda pada <TIMEX3 tid="t1" type="DATE" value="2018-12-22">Sabtu (22/12) lalu</TIMEX3>. 
+
+Meski, ada beberapa Base Transceiver Station (BTS) di beberapa wilayah terdampak di Provinsi Banten dan Lampung yang sempat tidak berfungsi karena ketiadaan pasokan listrik. 
+
+GM Corporate Communications Telkomsel Denny Abidin menyampaikan, layanan komunikasi baik SMS, suara dan internet dalam kondisi normal di wilayah terdampak bencana Tsunami Selat Sunda. 
+
+" 100 dalam kondisi normal, " ujar dia dalam siaran pers, <TIMEX3 tid="t2" type="DATE" value="2018-12-24">Senin (24/12) lalu</TIMEX3>. 
+
+Telkomsel pun menurunkan tim Telkomsel Emergency Response dan Recovery Activity (TERRA). 
+
+Tim ini bertugas mendirikan posko darurat dan mempercepat pemulihan layanan jaringan telekomunikasi. 
+
+Apalagi beberapa BTS belum berfungsi karena tidak adanya pasokan listrik. 
+
+Kami terus fokus untuk memonitor jaringan kami agar layanan telekomunikasi tetap lancar dengan menyiagakan Mobile Backup Power (MBP) sebagai perangkat penunjang catuan listrik, " ujar Denny. 
+
+(. 
+
+Telkomsel memberikan bantuan pangan, obat-obatan, dan tenda pengungsi untuk Pemerintah Kabupaten Pandeglang dan Serang. 
+
+Telkomsel bersama Rumah Zakat juga memfasilitasi para pelanggan untuk berdonasi melalui UMB *800*01 dan aplikasi TCash. 
+
+Selain Telkomsel, Indosat juga menyampaikan bahwa jaringan telekomunikasinya tidak ada yang mengalami kerusakan pasca bencana tsunami di Selat Sunda. 
+
+Namun, Group Head Corporate Communications Indosat Ooredoo Turina Farouk mengatakan, ada beberapa BTS yang mengalami gangguan karena ketiadaan pasokan listrik. 
+
+Ia memastikan, tim teknis jaringan Indosat terus memantau situasi di wilayah terdampak bencana. 
+
+Dengan begitu, kondisi jaringan telekomunikasi Indosat bisa segera pulih dan bisa digunakan maksimal oleh masyarakat di wilayah terdampak bencana tsunami di Selat Sunda. 
+
+(. 
+
+" Semoga kondisi segera pulih dan masyarakat dapat beraktifitas kembali, kata Turina. 
+
+Sebelumnya, Kementerian Komunikasi dan Informatika (Kominfo) mencatat tidak mengakibatkan kerusakan pada infrastruktur telekomunikasi seluler maupun jaringan telekomunikasi tetap. 
+
+" Pada <TIMEX3 tid="t3" type="TIME" value="2018-12-23TMO">Minggu (23/12) pagi</TIMEX3>, layanan telekomunikasi seluler telah berjalan normal, kata Pelaksana Tugas (Plt) Kepala Biro Humas Kementerian Kominfo Ferdinandus Setu dalam siaran pers, Ahad <TIMEX3 tid="t4" type="DATE" value="2018-12-23">(23/12) lalu</TIMEX3>.Reporter: Desy Setyowati 
+</TEXT>
+
+</TimeML>

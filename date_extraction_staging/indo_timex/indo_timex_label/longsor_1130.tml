@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1130</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-07" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-07</TIMEX3></DCT>
+
+<TITLE>Ditimbun Longsor, Jalan Sumbar   Riau Tidak Bisa Dilalui</TITLE>
+
+<TEXT>
+Longsor terjadi di jalan Sumbar-Riau, sebelum Kelok Sembilan. 
+
+Tepatnya di KM 25, jembatan Kembar, Hulu Aia, Harau, Limapuluh Kota, Jum at <TIMEX3 tid="t1" type="DATE" value="2018-12-07">(7/12)</TIMEX3> dini hari. 
+
+Akses jalan lumpuh, kata Kapolres 50 Kota AKBP Haris Hadis, ditemui Singgalang di lokasi kejadian. 
+
+Akses jalan negara mengalami kelumpuhan, setelah sepanjang 25 meter badan jalan ditimbun material longsor. 
+
+Ketinggian longsor mencapai 1,5 hingga 2 meter, tutur Kapolres. 
+
+Pihak Kepolisian, terlihat berjaga jaga di lokasi kejadian. 
+
+Alat berat sudah bekerja. 
+
+Kami tadi berkoordinasi dengan pihak terkait, ulas Kapolres didampingi Wakapolres Kompol Abdus Syukur. 
+
+() 
+</TEXT>
+
+</TimeML>

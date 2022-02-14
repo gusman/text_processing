@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0139</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-08-06" temporalFunction="false" functionInDocument="CREATION_TIME">2017-08-06</TIMEX3></DCT>
+
+<TITLE>Akses Utama Jalan Wisata ke Baduy Alami Longsor</TITLE>
+
+<TEXT>
+Akses utama jalan yang menuju tempat Wisata Budaya Baduy tepatnya di Jalan Leuwidamar-Ciboleger di Kampung Kebon Kalapa, Desa Lebak Parahiang, Kecamatan Leuwidamar memgalami longsor. 
+
+Longsor tersebut terjadi setelah sebelumnya daerah tersebut diguyur hujan, tanah yang tampu menahan debit air pun runtuh berikut dengan badan jalan ke area lebih rendah. 
+
+Sebagian badan jalan pun hancur. 
+
+Ferdi warga setempat mengungkapkan, longsor tersebut sudah terjadi <TIMEX3 tid="t1" type="DATE" value="2017-07-06">satu bulan yang lalu</TIMEX3>. 
+
+Saya harap Pemkab Lebak cepat perbaiki jalan ini, pasalnya dapat menggangu pengguna jalan dan pewisata yang berkunjung ke Baduy, tuturnya, <TIMEX3 tid="t2" type="DATE" value="2017-08-06">Minggu (6/8)</TIMEX3>. 
+
+Terpisah, Kepala Bidang Pemeliharaan Jalan dan Jembatan Entoy Saepudin mengatakan, anggaran untuk perbaikan jalan tersebut sudah dianggarkan dari BNPB dan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sedang menunggu proses lelang. 
+
+Kita sudah anggarkan dari dana BNPB untuk perbaikan jalan yang longsor tersebut, prosesnya sedang berjalan. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> sedang menunggu proses lelang, imbuhnya. 
+
+(Omat/twokhe gmail. 
+
+com) 
+</TEXT>
+
+</TimeML>

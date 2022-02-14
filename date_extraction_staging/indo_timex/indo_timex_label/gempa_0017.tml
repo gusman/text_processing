@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0017</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-11" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-11</TIMEX3></DCT>
+
+<TITLE>Inilah Data Terbaru Korban Gempa Aceh dari Kemensos</TITLE>
+
+<TEXT>
+Tim Layanan Dukungan Psikososial (LDP) Kementerian Sosial telah melakukan Rapid Assesment atau Kaji Cepat korban gempa Aceh di lokasi pengungsian Kabupaten Pidie Jaya yakni Meunasah Jurong, Meunasah Balek, Meuraksa Barat, dan Paru Keude. 
+
+<TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> ada 25 orang tim Layanan Dukungan Psikososial. 
+
+Sebelum mereka melaksanakan tugas mereka harus melakukan Assesment terlebih <TIMEX3 tid="t2" type="DATE" value="PAST_REF">dahulu</TIMEX3>. 
+
+Untuk sementara ini tim berfokus di 4 titik pengungsian yang jumlahnya cukup besar. 
+
+Assesment utamanya dilakukan pada kelompok rentan, yakni lansia, disabilitas, ibu hamil, ibu menyusui dan anak anak. 
+
+Serta warga yg ditinggalkan anggota keluarganya (meninggal, red), kata Menteri Sosial Khofifah Indar Parawansa. 
+
+Dikatakan, hasil kaji cepat ini nantinya akan menjadi dasar pemberian layanan kepada pengungsi terutama berkaitan dengan pemenuhan kebutuhan dasar. 
+
+Berdasarkan data ini, tim juga akan menentukan intervensi atau aktivitas lanjutan untuk mengurangi dampak negatif dari gempa. 
+
+Rapid Assesmemt biasanya dilakukan dalam rentang waktu hari pertama sampai hari ke-4 kejadian bencana. 
+
+Ini sebagai data awal yang menjadi dasar untuk menyusun program layanan dukungan psikososial selanjutnya, tambah Mensos. 
+
+Koordinator Tim Layanan Dukungan Psikososial Kemensos, Milly Mildawati mengungkapkan hasil kaji cepat pada pengungsi yang kehilangan anggota keluarganya menunjukkan bahwa mereka masih sangat berduka. 
+
+Mereka juga ketakutan berada di dalam ruangan dan lebih memilih berada di luar rumah, beraktivitas dan tidur di tenda-tenda. 
+
+Kondisi ini agak berbeda dengan warga yang tinggal di pesisir pantai. 
+
+Ketakutan mereka berbeda, dua kali lipatnya. 
+
+Mereka takut berada di dalam ruangan dan takut tsunami karena rumah mereka berada di bibir pantai, ujar Milly <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> menjabat Kepala Pusat Kajian Bencana dan Pengungsi Sekolah Tinggi Kesejahteraan Sosial (STKS) Bandung. 
+
+Terkait korban anak-anak, Milly mengungkapkan tim dukungan psikososial mendapati anak-anak juga masih mengalami rasa takut, terlebih saat terjadi gempa susulan. 
+
+Mereka umumnya menunjukkan reaksi tubuh gemetar hebat, panik, saling berpelukan dan menjerit karena takut. 
+
+Untuk hasil assement kepada penyandang disabilitas diketahui jumlahnya kebih sedikit jika dibandingkan kelompok rentan lainnya, akan tetapi mereka tetap kami utamakan. 
+
+Misalnya ada yang mengalami gangguan berjalan, kami gali kebutuhannya, dan mereka memerlukan alat bantu berjalan (tongkat) atau kursi roda, kata Milly. 
+
+(slm/rif)*Berikut Hasil Rapid Assesment di empat titik lokasi pengungsian:1. 
+
+Meunasah Juroeng Jumlah pengungsi total 1.300 jiwa Jumlah data terpilah: Balita 150 orang Ibu hamil 20 orang Ibu menyusui 30 Lansia 60 orang Anak disabilitas 7 orang Dewasa disabilitas 1 orang2. 
+
+Meunasah Balek Jumlah pengungsi total <TIMEX3 tid="t4" type="DATE" value="1666">1666</TIMEX3> orang Jumlah data terpilah: Anak balita:135 orang Anak usia SD:175 orang Ibu hamil:15 orang Ibu melahirkan:5 orang Disabilitas:9 orang3. 
+
+Paru Keude Jumlah pengungsi:2100 orang Jumlah data terpilah: Balita:222 orang Lansia:350 orang Korban meninggal 2 orang4. 
+
+Meuraksa Jumlah pengungsi total 1.535 Data kelompok rentan: Balita:135 balita Lansia:150 orang Korban meninggal:4 orang 
+</TEXT>
+
+</TimeML>

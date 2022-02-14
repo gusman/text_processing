@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_1084</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-07-16" temporalFunction="false" functionInDocument="CREATION_TIME">2015-07-16</TIMEX3></DCT>
+
+<TITLE>Bandara Abdulrahman Saleh Malang Juga Ditutup Akibat Abu Raung</TITLE>
+
+<TEXT>
+Tak hanya Bandara Internasional Juanda, Surabayayang ditutup akibat aktivitas Gunung Raung, di Bondowoso, Jawa Timur, yang terus mengeluarkan abu vulkanik, Bandara Abdurahman Saleh Malang pun mengalami hal yang sama, <TIMEX3 tid="t1" type="DATE" value="2015-07-16">Kamis (16/7/2015)</TIMEX3>. 
+
+Kepala Pusat Komunikasi Publik Kementerian Perhubungan, Julius Barata, dalam keterangan tertulis di Jakarta, <TIMEX3 tid="t2" type="DATE" value="2015-07-16">Kamis (16/7/2015)</TIMEX3> mengatakan penutupan kedua bandara tersebut berdasarkan notam (notice to airmen) yang dikeluarkan Direktorat Jenderal Perhubungan Udara, yaitu Notam Nomor A1447/15 dan Notam Nomor C0552/15. 
+
+Barata merinci untuk Bandar Udara Internasional Juanda ditutup sementara pukul <TIMEX3 tid="t3" type="TIME" value="2015-07-15T06:20">06.20</TIMEX3> UTC atau <TIMEX3 tid="t4" type="TIME" value="2015-07-15T13:20">13.20 WIB</TIMEX3> hingga <TIMEX3 tid="t5" type="TIME" value="2015-07-15T12:20">pukul 12.20</TIMEX3> UTC atau <TIMEX3 tid="t6" type="TIME" value="2015-07-15T19:20">19.20 WIB</TIMEX3>. 
+
+Sedangkan, lanjut dia, untuk Bandar Udara Abdurahman Saleh <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> juga ditutup sementara sejak <TIMEX3 tid="t8" type="TIME" value="2015-07-15T07:30">pukul 07.30</TIMEX3> UTC atau <TIMEX3 tid="t9" type="TIME" value="2015-07-15T14:30">14.30 WIB</TIMEX3> hnigga <TIMEX3 tid="t10" type="TIME" value="2015-07-15T13:30">pukul 13.30</TIMEX3> UTC atau <TIMEX3 tid="t11" type="TIME" value="2015-07-15T20:30">20.30 WIB</TIMEX3>. 
+
+" Notam penutupan bandara ini akan terus diperbaharui menyesuaikan dengan kondisi nyata atas perkembangan penyebaran abu vulkanik terkait aktivitas Gunung Raung di Jawa Timur, " katanya. 
+
+
+</TEXT>
+
+</TimeML>

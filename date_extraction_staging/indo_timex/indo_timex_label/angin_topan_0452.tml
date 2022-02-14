@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0452</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-31" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-31</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS: 1 Rumah Ambruk 5 Rusak Parah Diterjang Angin Puting Beliung di Pati</TITLE>
+
+<TEXT>
+Delapan rumah di Dukuh Jepatan RT 4 RW 5, Desa Wegil, Kecamatan Sukolilo, Kabupaten Pati rusak diterjang angin puting beliung, <TIMEX3 tid="t1" type="TIME" value="2019-10-31TAF">Kamis (31/10/2019) sore</TIMEX3> sekira <TIMEX3 tid="t2" type="TIME" value="2019-10-30T16:00">pukul 16.00 WIB</TIMEX3>. 
+
+Ketua PMI Sukolilo Imam Sopyan mengatakan, dari kedelapan rumah tersebut, lima di antaranya rusak parah, satu roboh, dan dua rusak ringan. 
+
+Rumah yang terkategori rusak parah ialah milik Sutomo, Tomsin, Ngatemin, Dullatif, dan Achsani. 
+
+Adapun, rumah yang sampai roboh ialah milik Sukardi. 
+
+Selanjutnya, rumah yang rusak ringan ialah milik Kanidun dan Nurzahid. 
+
+" Di samping kerusakan rumah, ada seorang warga bernama Rois yang kandang ayamnya rusak, " ucapnya. 
+
+Imam mengatakan, dalam kejadian ini tidak ada korban jiwa. 
+
+Namun, total kerugian material diperkirakan sekira Rp 115 juta. 
+
+" Guna meringankan beban yang kena musibah, pemerintah desa, Muspika, relawan, dan warga setempat secara bergotong-royong membantu membereskan pohon yang tumbang dan membersihkan puing-puing bangunan, " pungkasnya. 
+
+(Mazka Hauzan Naufal) 
+</TEXT>
+
+</TimeML>

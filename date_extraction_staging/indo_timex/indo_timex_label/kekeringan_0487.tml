@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0487</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-11" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-11</TIMEX3></DCT>
+
+<TITLE>Cerita Warga Jasem Bantul yang Dilanda Kekeringan, Rela Mandi di Pasar Karena Tak Punya Air Bersih</TITLE>
+
+<TEXT>
+Kemarau panjang menyebabkan krisis air bersih di sejumlah wilayah di Bantul, satu di antaranya adalah padukuhan Jasem, Desa Srimulyo, Kecamatan Piyungan. 
+
+Warga di padukuhan tersebut benar-benar mengalami krisis air bersih. 
+
+Bahkan, beberapa sumur warga yang <TIMEX3 tid="t1" type="SET" value="P1D">sehari-hari</TIMEX3> menjadi sumber air pun telah kering. 
+
+Kampung Jasem berada di atas perbukitan dan cukup sulit diakses oleh kendaraan roda empat. 
+
+Sejak <TIMEX3 tid="t2" type="DURATION" value="P3M">tiga bulan</TIMEX3> terakhir, warga disana, kesulitan air bersih. 
+
+" <TIMEX3 tid="t3" type="DURATION" value="P3M">Hampir tiga bulan</TIMEX3> sumur di sini kering. 
+
+Jadi untuk kebutuhan air bersih kami mengandalkan bantuan, " kata Marsiyah, seorang warga Kampung Jasem, saat ditemui reporter Tribunjogja. 
+
+com, <TIMEX3 tid="t4" type="DATE" value="2019-10-03">Kamis (10/10/2019)</TIMEX3>. 
+
+Kampung Jasem, terutama di RT 02, yang berada di atas perbukitan, menurut dia, dihuni oleh 12 keluarga. 
+
+Mereka memiliki satu sumur yang digunakan secara bersama.Namun, sudah <TIMEX3 tid="t5" type="DURATION" value="P3M">hampir tiga bulan</TIMEX3>, selama <TIMEX3 tid="t6" type="DATE" value="2019-SU">musim kemarau</TIMEX3>, sumur tersebut kondisinya mengering.Marsiyah sendiri masih cukup beruntung. 
+
+Pasalnya, <TIMEX3 tid="t7" type="SET" value="P1D">setiap hari</TIMEX3> dia berjualan di pasar Piyungan. 
+
+// Sehingga jika tak ada air, ia masih bisa mandi di pasar. 
+
+" Saya mandi di pasar. 
+
+Bayarnya Rp1000. 
+
+<TIMEX3 tid="t8" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> kalau mau pulang terus di rumah tidak ada air, saya ambil air di pasar pakai jeriken, " ujar dia. 
+
+Ketua RT 02 Kampung Jasem, Tugirin Hadi Suwarno, menceritakan sudah <TIMEX3 tid="t9" type="DURATION" value="P3M">hampir tiga bulan</TIMEX3> warganya sekitar 30 KK mengalami kesulitan air bersih. 
+
+Sebabnya, karena sumur warga kondisinya mengering. 
+
+" Solusinya kami sudah coba sumurnya dibor lebih dalam. 
+
+Tapi debit airnya tetap sedikit. 
+
+Kami hanya menunggu bantuan, " terang dia. 
+
+Dikatakan Tugirin, kampung Jasem sebenarnya sudah memiliki sumur bor dengan kedalaman sekitar 120 meter. 
+
+Namun semenjak <TIMEX3 tid="t10" type="DATE" value="2019-SU">musim kemarau</TIMEX3>, sumur bor tersebut debitnya menyusut drastis. 
+
+" Ada satu-satunya sumur bor, tapi semenjak kemarau disedot mata airnya sangat kurang, " ujar dia.Diceritakan sebelumnya, karena kesulitan air bersih, warga di Padukuhan Jasem, Desa Srimulyo Kecamatan Piyungan mendapatkan bantuan air bersih dari komunitas sepeda onthel Rotterdam onthel Community, atau ROC +Motorcycle.Mereka memberikan bantuan sebanyak 50 tangki air bersih. " Bantuan ini sebagai bentuk kepedulian kita. 
+
+Mudah-mudahan dapat bermanfaat untuk warga yang membutuhkan, " kata Ketua ROC +Motorcycle, Kawur Yantoro. 
+
+(*) 
+</TEXT>
+
+</TimeML>

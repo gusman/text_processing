@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0897</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-19</TIMEX3></DCT>
+
+<TITLE>Meletus Lagi, Gunung Agung di Bali Lontarkan Lava Pijar Sejauh 1 Km</TITLE>
+
+<TEXT>
+Gunung Agung yang terletak di Karangasem, Bali, kembali erupsi dengan melontarkan lava pijar pada <TIMEX3 tid="t1" type="DATE" value="2019-01-19">Sabtu (19/1/2019)</TIMEX3> dini hari. 
+
+Menurut laporan di Pos Pengamatan Gunung Api Agung di Desa Rendang, Karangasem, erupsi atau letusan terjadi pada <TIMEX3 tid="t2" type="TIME" value="2019-01-18T02:45">pukul 02.45 WITA</TIMEX3>. 
+
+Letusan terekam di seismogram dengan amplitudo maksimum 23 mm dan durasi <TIMEX3 tid="t3" type="DURATION" value="PT2M8S">2 menit 8 detik</TIMEX3>. 
+
+Selain itu letusan disertai lontaran lava pijar dengan jangkauan terjauh 1 km dari bibir kawah. 
+
+. 
+
+Namun, pada <TIMEX3 tid="t4" type="TIME" value="2019-01-19TMO">pagi hari</TIMEX3> asap dapat terlihat jelas dengan ketinggian kurang-lebih 700 meter dari puncak kawah. 
+
+Adapun pada periode pengamatan pukul 00.00-06.00 Wita petugas mencatat terjadi sejumlah gempa. 
+
+Masing-masing gempa letusan, gempa vulkanik dangkal, vulkanik dalam dan gempa tektonik jauh. 
+
+. 
+
+com sebelumnya, Gunung Agung masih berstatus siaga. 
+
+Zona perkiraan bahaya ditetapkan pemerintah pada radius 4 km dari puncak kawah. 
+</TEXT>
+
+</TimeML>

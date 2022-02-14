@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0140</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-27" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-27</TIMEX3></DCT>
+
+<TITLE>Pohon Tumbang Ganggu Lalu Lintas di Jalan Ir Juanda</TITLE>
+
+<TEXT>
+Pohon Ambon di Jalan Ir Juanda di Kampung Gedong Sepuluh, Kelurahan Muara Ciujung (MC) Timur, Kecamatan Rangkasbitung, tumbang pada <TIMEX3 tid="t1" type="DATE" value="2019-11-27">Rabu (27/11)</TIMEX3> sekira <TIMEX3 tid="t2" type="TIME" value="2019-11-26T14:00">pukul 14.00 WIB</TIMEX3>. 
+
+Kondisi tersebut membuat kabel Telkom tertimpa dan lalu lintas di ruas jalan kabupaten menjadi terganggu. 
+
+Pantauan Radar Banten di lokasi, pohon tumbang tidak cepat dipotong atau disingkirkan masyarakat maupun pihak pemerintah daerah. 
+
+Akibatnya, jalan yang digunakan untuk kendaraan hanya satu lajur. 
+
+Sehingga jika ada kendaraan dari arah berlawanan maka harus berhenti terlebih <TIMEX3 tid="t3" type="DATE" value="PAST_REF">dahulu</TIMEX3>. 
+
+Sementara itu, beberapa pengendara berhenti dan mengabadikan pohon tumbang dengan menggunakan kamera telepon seluler. 
+
+Epi Kunaepi, warga Gedong Sepuluh menyatakan, hujan disertai angin kencang menerjang wilayah Rangkasbitung dan sekitarnya. 
+
+Akibat kejadian tersebut pohon Ambon di depan bengkel tumbang dan menimpa kabel Telkom. 
+
+Bahkan, sebagian badan jalan tertutup ranting-ranting pohon tersebut. 
+
+Iya, tadi pas hujan angin, pohon ini tiba-tiba tumbang. 
+
+Saat kejadian tidak ada pengendara yang melintas, ujar Epi kepada wartawan. 
+
+Dijelaskannya, masyarakat telah meminta Dinas Lingkungan Hidup (DLH) Lebak untuk memangkas pohon di sepanjang Jalan Ir Juanda. 
+
+Namun, hanya sebagian saja yang dipangkas, sedangkan sebagian lagi dibiarkan. 
+
+Apa yang ditakutkan masyarakat <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> terjadi. 
+
+Pohon tumbang dan menutupi badan jalan. 
+
+Pohon yang tumbang enggak hanya di sini. 
+
+Ada beberapa dahan pohon yang tumbang di sepanjang jalan Ir Juanda, paparnya. 
+
+(Mastur) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_1031</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-08-06" temporalFunction="false" functionInDocument="CREATION_TIME">2015-08-06</TIMEX3></DCT>
+
+<TITLE>Gunung Raung 'Mengamuk', Bandara Ngurah Rai Ditutup</TITLE>
+
+<TEXT>
+Aktivitas vulkanik Gunung Raung di Jawa Timur terus meningkat. 
+
+Bahkan sebaran abu vulkanik menyebar ke arah selatan dan tenggara, akibatnya Bandara Ngurah Rai, Bali ditutup. 
+
+" Berdasarkan citra Satelit Himawari pada Kamis(6/8/2015) <TIMEX3 tid="t1" type="TIME" value="2015-08-05T08:00">pukul 08.00</TIMEX3> Wib, sebaran abu meluas ke Selatan-Tenggara. 
+
+Jarak terdekat debu vulkanik dari Bandara Ngurai Rai hanya sekitar 18 km. 
+
+Kondisi demikian menyebabkan bandara Ngurah Rai ditutup sementara pada pukul 11.00-17.00 Wib, " ujar Kepala Pusat Data Informasi dan Humas BNPB, Sutopo Purwo Nugroho dalam pernyataannya, Kamis(6/8/2015). 
+
+Menurut Sutopo, aktivitas Gunung Raung memang terus meningkat dalam <TIMEX3 tid="t2" type="DURATION" value="P5D">5 hari</TIMEX3> terakhir. 
+
+Berdasarkan data PVMBG, tremor masih muncul dengan amplitudo 8-32 mm dominan 31 mm. 
+
+Ini mengindikasikan suplai magma ke permukaan kawah masih berlangsung. 
+
+Asap kelabu tebal dengan tekanan lemah, tinggi 1.000 meter ke Selatan-Tenggara. 
+
+Letusan strobolian masih menerus. 
+
+Dengan tipe magma yang encer dan miskin gas maka tidak akan ada letusan yang besar. 
+
+Terlihat cahaya api dan suara gemuruh lemah-sedang. 
+
+Status Siaga (level 3). 
+
+" Radius 3 km harus kosong dari aktivitas masyarakat. 
+
+berdasarkan NOTAMN A1635/15. 
+
+Hujan abu vulkanik terjadi di Kecamatan Songgon, Sempu, Singojuruh, Glenmore, Genteng, Pesanggrahan, dan Kalipuro Kabupaten Banyuwangi, " ujar Sutopo. 
+
+BPBD Banyuwangi lanjut Sutopo membagikan 4,250 masker kepada masyarakat. 
+
+Bandara Blimbingsari di Banyuwangi juga masih ditutup.Sementara itu, gempa 5,3 SR dengan pusat gempa di dasar laut di 145 km tenggara Klungkung Bali pada kedalaman 10 km pada <TIMEX3 tid="t3" type="TIME" value="UNKNOWN">hari ini pukul 12.05</TIMEX3> Wib hanya dirasakan lemah di Klungkung. " Masyarakat tidak panik. 
+
+Aktivitas masyarakat normal, " ujarnya. 
+</TEXT>
+
+</TimeML>

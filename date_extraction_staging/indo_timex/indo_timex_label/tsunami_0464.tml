@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0464</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-05</TIMEX3></DCT>
+
+<TITLE>Lewat Jalan Tol Trans Jawa, Berikut Rute Bantuan Nasdem Jatim Untuk Korban Tsunami Banten-Lampung</TITLE>
+
+<TEXT>
+DPW Partai Nasional Demokrat (NasDem) Jatim memberangkatkan bantuan warga Jatim untuk korban tsunami Banten-Lampung, <TIMEX3 tid="t1" type="DATE" value="2019-01-05">Sabtu (5/1/2019)</TIMEX3>. 
+
+Bantuan yang disalurkan dari 38 kabupaten/kota di Jatim ini akan diberangkatkan dari titik kumpul akhir di Kabupaten Ngawi. 
+
+Selain sebagai bentuk kepedulian terhadap korban bencana, pengiriman bantuan tersebut juga untuk menjajal jalur tol penghubung Banten-Jatim yang baru saja diresmikan Presiden Joko Widodo <TIMEX3 tid="t2" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+" Dengan terhubungnya Jatim-Banten ini dengan jalan tol tentu distribusi barang akan menjadi lebih lancar, termasuk pengiriman bantuan untuk saudara kita yang tertimpa musibah bisa lebih cepat, " kata Ketua DPW Nasdem Jatim, Sri Sajekti Sudjunadi. 
+
+Rute perjalanan dari rombongan NasDem Jatim kali ini adalah berangkat dari Ngawi menuju Pelabuhan Merak dengan estimasi waktu tempuh <TIMEX3 tid="t3" type="DURATION" value="PT20H">20 jam</TIMEX3>. 
+
+. 
+
+Rombongan yang terdiri dari 38 truk bermuatan bantuan ini akan menyeberang dari Merak pada <TIMEX3 tid="t4" type="TIME" value="2019-01-04T11:00">pukul 11.00 WIB</TIMEX3> (6/1/2019) dan tiba di Bakauheni <TIMEX3 tid="t5" type="TIME" value="2019-01-04T17:00">pukul 17.00 WIB</TIMEX3>. 
+
+Setelah dari Bakaheuni rombongan akan menuju ke Kalianda Lampung dengan jarak tempuh 30 Km dengan estimasi waktu tempuh <TIMEX3 tid="t6" type="DURATION" value="PT2H">2 jam</TIMEX3>. 
+
+Di Kalianda nantinya sumbangan dari warga Jatim tersebut akan diserahkan ke Pemprov Lampung pada <TIMEX3 tid="t7" type="TIME" value="2019-01-07">hari Senin (7/1/2019) pukul 09.00 WIB</TIMEX3>.Setelah penyerahan di Lampung, rombongan akan kembali menyebrang ke Banten untuk menyerahkan bantuan ke Pemprov Banten pada <TIMEX3 tid="t8" type="TIME" value="2019-01-08T09:00">Selasa (8/1/2019) pukul 09.00 WIB</TIMEX3>. 
+</TEXT>
+
+</TimeML>

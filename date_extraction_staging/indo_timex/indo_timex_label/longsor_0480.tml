@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0480</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-11-28" temporalFunction="false" functionInDocument="CREATION_TIME">2017-11-28</TIMEX3></DCT>
+
+<TITLE>Pacitan Diterjang Banjir dan Longsor, Lima Orang Hilang</TITLE>
+
+<TEXT>
+Bencana banjir dan longsor yang terjadi di Pacitan sejak <TIMEX3 tid="t1" type="DATE" value="2017-11-28">Selasa (28/11/2017)</TIMEX3> dini hari mengakibatkan tiga orang hilang hanyut terbawa arus banjir. 
+
+Kepala BPBD Pacitan, Windarto mengatakan masih ada dua pria yang hilang terbawa arus banjir. 
+
+Dari informasi yang dia peroleh di lapangan, dua pria tersebut bernama Eko dan Ardian. 
+
+" Sementara ada korban yang sebelumnya berusaha menolong warga tapi malah hanyut, dua orang. 
+
+Baru dicari ini, dari <TIMEX3 tid="t2" type="TIME" value="2017-11-27T03">jam 03.30 pagi tadi</TIMEX3>, sepeda motornya sudah ditemukan, tapi orangnya tidak ditemukan, " katanya saat dihubungi, <TIMEX3 tid="t3" type="DATE" value="2017-11-28">Selasa (28/11/2017)</TIMEX3>. 
+
+Sedangkan satu orang korban lain yang sebelumnya juga dikabarkan hilang sudah ditemukan selamat. 
+
+Namun mengalami luka-luka. 
+
+Hujan Ekstrim Rendam Wilayah Pacitan, Kota dan Kebonagung Paling ParahHujan Lebat di Situbondo Tenggelamkan Rumah Warga Setinggi 3 MeterSaat ini, korban selamat yang Belum diketahui identitasnya ini sudah dibawa ke rumah sakit. 
+
+Selain itu, kata Windarto, ada dua orang di Desa Klesem, Kecamatan Kebonagung yang dilaporkan hilang. 
+
+Rumah dua orang ini tertimbun material longsor, namun belum dipastikan apakah dua orang ini berada di dalam rumah. 
+
+" Ada dua (warga) yang belum ditrmukan, rumahnya kena longsor. 
+
+Belum diketahui apakah sudah mengungsi atau di lokasi longsor, masih dicari, " ucapnya.Awas, Banjir Makin Menggila, Rel Kereta Api Porong Sidoarjo Tenggelam Hampir 1 MeterHujan Deras Terobos Perlintasan Kereta, Pelajar ini Malah Meregang Nyawa dengan Tragis(Surya/Rahadian Bagus) 
+</TEXT>
+
+</TimeML>

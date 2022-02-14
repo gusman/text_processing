@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0320</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-22" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-22</TIMEX3></DCT>
+
+<TITLE>Biang Banjir Lumpur di Sumedang Ditegur Keras</TITLE>
+
+<TEXT>
+Sekretaris Daerah Kabupaten Sumedang, Herman Suryatman menegur pengembang Rancamulya Residence yang ditenggarai menjadi biang banjir lumpur di Jalan Sumedang-Wado. 
+
+Kami sudah menyampaikan teguran, melalui dinas terkait yang bertanggungjawab terhadap penegakkan Perda. 
+
+Sudah ada langkah-langkah memang sejak kejadian yang pertama itu, tapi belum komprehensif, belum optimal, katanya. 
+
+Genangan lumpur di Jalan Provinsi Sumedang-Wado kembali terulang. 
+
+Menurut Sekda, pihaknya juga sudah memberikan arahan pada Satpol PP, PU dan DPMPTSP, terkait bagaimana permintaan dari Bupati Sumedang agar tidak lagi terjadi banjir lumpur seperti yang terjadi pada <TIMEX3 tid="t1" type="DATE" value="2020-01-21">21 Januari 2020</TIMEX3>. 
+
+Jadi kami akan memberikan peringatan keras, teguran keras kepada pihak developer untuk secepatnya mengambil langkah yang komprehensif tidak parsial sehingga pada saat hujan tidak lagi banjir sebagaimana yang kita lihat <TIMEX3 tid="t2" type="DATE" value="2020-01-21">hari kemarin</TIMEX3>, ujarnya. 
+
+Bahkan Bupati Sumedang telah memberikan arahan pada DPMPTSP agar hati-hati dalam memberikan izin terhadap pengembang terutama di daerah daerah yang tingkat kecuramannya mengkhawatirkan. 
+
+Ke depan tentu harus lebih selektif lagi bukan hanya pertimbangan normatif saja tapi juga harus subtantif. 
+
+
+</TEXT>
+
+</TimeML>

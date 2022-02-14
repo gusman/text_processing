@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0873</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-02-14" temporalFunction="false" functionInDocument="CREATION_TIME">2014-02-14</TIMEX3></DCT>
+
+<TITLE>Pasokan Makakan Berkurang, Pengungsi Gunung Kelud Terancam Kelaparan</TITLE>
+
+<TEXT>
+Ribuan warga di area terdampak letusan Gunung Kelud, yang mengungsi di tiga kecamatan di Kabupaten Malang, Jawa Timur terancam kelaparaan. 
+
+Pasalnya pasokan makanan mulai berkurang, terutama makanan terutama untuk bayi dan anak-anak tidak memadai. 
+
+Anggota polisi dan TNI masih terus melakukan proses evakuasi dari beberapa desa di Kecamatan Kasembon dan Ngantang ke wilayah Kecamatan Pujon. 
+
+" Warga tidak bawa apa-apa. 
+
+Hanya menyelamatkan diri. 
+
+Minta bantuan makanan karena kami tidak sempat bawa apa-apa. 
+
+Harta benda ditinggal di rumah. 
+
+Pakaian pun tidak membawa, " kata Soponyo. 
+
+Sementara menurut Juwana, warga Desa Lumbang Pandansari, Kecamatan Ngantang, banyak warga yang tidak tahan dengan debu dan juga hujan kerikil yang masih terus terjadi hingga <TIMEX3 tid="t1" type="TIME" value="2014-02-14">Jumat pagi</TIMEX3>. 
+
+Dari pantaun Kompas. 
+
+com di tiga tempat pengungsian tersebut, masih terus terjadi hujan debu bahkan hujan kerikil. 
+
+Warga di posko pengungsian, terutama anak-anak, mulai dicekam ketakutan akan ada tenda yang kembali roboh. 
+
+Sebelumnya, tenda pengungsi roboh, menewaskan dua orang, satu orang kritis, dan belasan terluka. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1105</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-10" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-10</TIMEX3></DCT>
+
+<TITLE>Bencana Kepung Sijunjung, Jalan Sisawah-Padanglaweh Lumpuh Total</TITLE>
+
+<TEXT>
+Bencana alam kembali kepung Kabupaten Sijunjung, Sumatera Barat. 
+
+Sejumlah nagari di kabupaten itu mengalami bencana. 
+
+Tak percaya? Lihat saja yang terjadi sepanjang <TIMEX3 tid="t1" type="DATE" value="2019-12-08">Minggu</TIMEX3> dan <TIMEX3 tid="t2" type="DATE" value="2019-12-09">Senin</TIMEX3> (8-9/12/2019) <TIMEX3 tid="t3" type="TIME" value="2019-12-09TNI">malam</TIMEX3>. 
+
+Jalan Sisawah-Padang Laweh mengalami lumpuh total akibat longsor. 
+
+Masyarakat yang hendak ke pusat kabupaten terpaksa melalui jalan Tamparongo yang memakan waktu 2 jam lebih ke kabupaten, kata Diko warga setempat pada awak media, <TIMEX3 tid="t4" type="DATE" value="2019-12-10">Selasa (10/12/2019)</TIMEX3>. 
+
+Tadii <TIMEX3 tid="t5" type="TIME" value="2019-12-10TMO">pagi</TIMEX3>, para guru yang mengajar di Sisawah terpaksa jalan kaki, karna guru prihatin anak didiknya <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> ujian semester. 
+
+Padahal jalan Sisawah-Padanglaweh itu cukup dekat dan tidak memakan waktu lama untuk smpai ke pusat kabupaten. 
+
+Dikarenakan longsor tak bisa dilewati, tambah Diko. 
+
+Sebelum itu, kata Diko, jalan tersebut juga sudah longsor, namun masyarakat telah melakukan gotongroyong supaya bisa untuk dilalui, selang <TIMEX3 tid="t7" type="DURATION" value="PXD">beberapa hari</TIMEX3>, hujan tak kunjung henti, jalan tersebut <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> lumpuh total. 
+
+Tak. 
+
+hanya itu, bencana alam tanah longsor juga terjadi di Dusun Mudiak Jurai Jorong Koto Baru Nagari Tanjung Gadang, Kecamatan Tanjung Gadang. 
+
+Akibat bencana tersebut sehingga menutup badan jalan yang menghubungkan Nagari Pulasan, Sibakur dan Nagari Langki dan <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tim BPBD dengan alat berat sedang melakukan pembersihan badan jalan yang tertimbun longsor arus lalulintas sudah bisa melintasi jalan tersebut dengan sistem buka tutup. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Sijunjung, Hardiwan, SP membenarkan sejumlah bencana yang mengepung Sijunjung itu. 
+
+Anggota kita masih berada dilokasi-lokasi bencana, ucap Hardiwan. 
+
+diko/saptarius 
+</TEXT>
+
+</TimeML>

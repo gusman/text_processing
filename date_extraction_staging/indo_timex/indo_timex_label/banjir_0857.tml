@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0857</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-22" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-22</TIMEX3></DCT>
+
+<TITLE>Bluebird Santuni Pengemudi dan Karyawan yang Terkena Dampak Banjir</TITLE>
+
+<TEXT>
+Pada <TIMEX3 tid="t1" type="DATE" value="2020-01">1 Januari 2020 lalu</TIMEX3> beberapa area di Jabodetabek terendam banjir sebagai akibat dari curah hujan yang tinggi, termasuk pool Bluebird yang berlokasi di Pool Kramat Jati 1, Pool Puri dan Pool Puri 2. 
+
+Ketika itu sebanyak 1.500 armada dari Bluebird Group terendam banjir sehingga perusahaan mengerahkan bantuan dari pool-pool lain yang tidak terkena dampak banjir untuk tetap melayani pelanggan. 
+
+(. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> operasional tiga pool tersebut telah berangsur kembali normal dengan kondisi armada yang prima guna memenuhi kebutuhan transportasi masyarakat. 
+
+Dengan dukungan bantuan dari pengemudi dari pool lain serta keluarga besar Bluebird Group, operasional dari ketiga pool tersebut berangsur sudah normal. 
+
+Kami di perusahaan sangat mengapresiasi kebersamaan dari sesama pengemudi lain yang selama ini telah menjadi kekuatan dari perusahaan Bluebird, tutur Direktur Utama PT Blue Bird Tbk, Noni Purnomo dalam siaran pers kepada SINDOnews, <TIMEX3 tid="t3" type="DATE" value="2020-01-22">Rabu (22/1/2020)</TIMEX3>. 
+
+Noni jmenambahkan selain melakukan penanganan pemulihan terhadap armada, perusahaan juga memberikan perhatian terhadap kondisi pengemudi dan karyawan yang terimbas banjir. 
+
+Melalui program Bluebird Peduli, perusahaan memberikan bantuan santunan kepada sekitar 700 karyawan dan pengemudi Bluebird Group yang mayoritas merupakan kepala keluarga. 
+
+Penyerahan ini merupakan salah satu bentuk perhatian dan kepedulian kepada sesama keluarga besar Bluebird yang <TIMEX3 tid="t4" type="DATE" value="2020-01-21">kemarin</TIMEX3> tertimpa musibah kebanjiran. 
+
+Kami sangat berharap bantuan ini dapat sedikit banyak mengurangi beban mereka, khususnya kepada pengemudi Bluebird yang selama ini telah memberikan pelayanan yang maksimal kepada masyarakat, tutur Noni. 
+
+(dam) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0036</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-06" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-06</TIMEX3></DCT>
+
+<TITLE>Banjir Makin Dalam Rendam Jalan Menuju Singkil, Warga Minta Disediakan Dapur Umum</TITLE>
+
+<TEXT>
+Banjir yang merendam badan jalan menuju Singkil, ibu kota Kabupaten Aceh Singkil, di Desa Ujung Bawang, makin dalam, <TIMEX3 tid="t1" type="TIME" value="2019-12-06TAF">Jumat (6/12/2019) sore</TIMEX3>. 
+
+Selain dalam, badan jalan yang terendam banjir bertambah panjang. 
+
+Badan jalan yang terendam berada di tiga titik. 
+
+Semuanya di Desa Ujung Bawang. 
+
+Titik pertama di depan perumahan Rekompak, sepanjang kira-kira 100 meter dengan kedalaman 40 Cm. 
+
+Kemudian di dekat persimpangan Ujung Bawang dengan Pea Bumbung. 
+
+. 
+
+Satu titik lagi depan Balai Desa Ujung Bawang. 
+
+// Di sana genangan banjir di badan jalan sekitar 30 Cm. 
+
+" Banjir bertambah dalam, " kata Ishar, pengendara yang melintas di lokasi banjir. 
+
+Kendaraan tetap dapat melintas. 
+
+Hanya saja, di lokasi banjir dekat persimpangan Pea Bumbung, harus hati-hati. 
+
+Sebab ada lubang menganga. 
+
+. 
+
+Berdasarkan catatan, ada enam desa yang terendam. 
+
+Masing-masing Desa Pemuka, sebagian Selok Aceh, Ujung Bawang, dan Pea Bumbung. 
+
+Kemudian Desa Rantau Gedang dan Teluk Rumbia. 
+
+Di Aceh Singkil, sepanjang <TIMEX3 tid="t2" type="TIME" value="2019-12-05TAF">siang</TIMEX3> hujan tidak turun.Namun, banjir bertambah tinggi.Kondisi ini diduga, akibat masuknya air kiriman yang sebelumnya merendam daerah hulu sungai.Warga berharap, Pemkab Aceh Singkil segera menyediakan dapur umum.Mengingat tidak semua korban banjir dapat memasak. 
+
+(*) 
+</TEXT>
+
+</TimeML>

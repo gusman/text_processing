@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0715</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-07" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-07</TIMEX3></DCT>
+
+<TITLE>Angin Kencang Terjang Bojonegoro Sore ini, Sejumlah Rumah Rusak dan Belasan Pohon Tumbang</TITLE>
+
+<TEXT>
+Hujan deras disertai angin kencang menerjang wilayah Kabupaten Bojonegoro, <TIMEX3 tid="t1" type="DATE" value="2019-12-07">Sabtu (7/12/2019)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2019-12-06T15:00">pukul 15.00 WIB</TIMEX3>. 
+
+Itu berdampak sejumlah rumah yang berada di kawasan kota mengalami kerusakan. 
+
+Tak hanya itu, belasan pohon juga tumbang. 
+
+Sekretaris Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Bojonegoro, Nadhif Ulfia mengatakan, hasil pendataan sementara yang dilakukan petugas hingga <TIMEX3 tid="t3" type="TIME" value="2019-12-06T17:30">pukul 17.30 WIB</TIMEX3>, terdapat empat rumah terdampak. 
+
+Kemudian ada juga delapan belas pohon di jalan perkotaan yang tumbang. 
+
+Sehingga langsung ditangani petugas, agar tidak mengganggu aktivitas warga. 
+
+" Empat rumah di jalan Mastrip rusak ringan, belasan pohon di jalan protokol juga tumbang, " ujar Ulfia kepada wartawan. 
+
+Dia menjelaskan, tak hanya rumah dan pohon saja yang terdampak. 
+
+Bahkan, satu unit mobil milik PMI juga tertimpa pohon, akibatnya mengalami kerusakan. 
+
+Meski demikian, dalam bencana tersebut tidak terdapat korban jiwa. 
+
+Hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> petugas masih melakukan taksir hitung kerugian atas dampak yang ditimbulkan. " Tidak ada korban jiwa, untuk kerugian masih dalam pendataan, " pungkasnya. 
+</TEXT>
+
+</TimeML>

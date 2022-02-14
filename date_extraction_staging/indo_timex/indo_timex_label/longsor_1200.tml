@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1200</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-02-02" temporalFunction="false" functionInDocument="CREATION_TIME">2017-02-02</TIMEX3></DCT>
+
+<TITLE>Jalur Magelang-Boyolali kembali tertutup longsor</TITLE>
+
+<TEXT>
+Akses jalan provinsi yang menghubungkan Kabupaten Magelang dengan Boyolali, Jawa Tengah, kembali tertutup longsor pada <TIMEX3 tid="t1" type="TIME" value="2017-02-01TNI">Rabu (1/2/2017) malam</TIMEX3> saat terjadi hujan. 
+
+Kepala Pelaksana Badan Penanggulangan Bencana Kabupaten Magelang Edy Susanto di Magelang, <TIMEX3 tid="t2" type="DATE" value="2017-02-02">Kamis</TIMEX3>, mengatakan longsor terjadi di Dusun Gintung, Desa Wonolelo, Kecamatan Sawangan, <TIMEX3 tid="t3" type="TIME" value="2017-02-01T20:15">sekitar pukul 20.15 WIB</TIMEX3>. 
+
+Sebelumnya, pada <TIMEX3 tid="t4" type="TIME" value="2017-01-30TNI">Senin (30/1/2017) malam</TIMEX3>, lokasi tersebut juga terjadi longsor, namun pada <TIMEX3 tid="t5" type="TIME" value="2017-01-31TAF">Selasa siang</TIMEX3> arus lalu lintas sudah normal kembali. 
+
+Edy mengatakan agar arus lalu lintas di jalur tersebut segera normal, <TIMEX3 tid="t6" type="TIME" value="2017-02-02TMO">Kamis pagi</TIMEX3> akan dilakukan pengerukan material longsor dengan alat berat dari Dinas Bina Marga Jateng. 
+
+Ia menuturkan tidak ada korban jiwa dalam kejadian longsor tersebut. 
+
+Selain di Sawangan, katanya, pada <TIMEX3 tid="t7" type="DATE" value="2017-02-01">Rabu</TIMEX3>, <TIMEX3 tid="t8" type="TIME" value="2017-02-01T20:00">sekitar pukul 20.00 WIB</TIMEX3> juga terjadi longsor di Dusun Windusabrang, Desa Wonolelo, Kecamatan Sawangan. 
+
+Talud setinggi empat meter dengan panjang 10 meter milik Juri (60) longsor saat hujan. 
+
+Ia mengatakan longsor tersebut menimpa bagian dapur dan kandang ternak milik Bakri (35) sehingga mengalami kerusakan. 
+
+Selain itu, longsor tersebut juga mengakibatkan seorang luka ringan di bagian kaki atas nama Mufida (10). 
+
+Pada saat kejadian, korban sedang berada di kamar kecil. 
+
+Ia mengatakan korban langsung dibawa ke Puskesmas Sawangan untuk mendapatkan pengobatan. 
+</TEXT>
+
+</TimeML>

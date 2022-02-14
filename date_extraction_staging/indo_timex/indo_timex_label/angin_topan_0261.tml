@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0261</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-09" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-09</TIMEX3></DCT>
+
+<TITLE>Bantu Ponpes Korban Puting Beliung</TITLE>
+
+<TEXT>
+Gubernur Bengkulu Rohidin Mersyah memberikan bantuan ke Pondok Pesantren (Ponpes) Makrifatul Ilmi di Desa Gunung Ayu, Kabupaten Bengkulu Selatan, <TIMEX3 tid="t1" type="DATE" value="2019-03-07">(07/03/2019)</TIMEX3>. 
+
+Bantuan ini, dimaksudkan untuk membantu perbaikan gedung pesantren berupa Masjid sekaligus aula yang hancur dilanda angin puting beliung pada <TIMEX3 tid="t2" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+Bantuan berupa uang tunai tersebut diserahkan langsung Gubernur Bengkulu melalui Asisten I Setda Provinsi Bengkulu Hamka Sabri, kepada pimpinan Ponpes Makrifatul Ilmi. 
+
+Disampaikan Asisten I Hamka Sabri, dengan musibah yang melanda pondok pesantren tersebut hendaknya tidak menurunkan semangat para santri dalam menuntut ilmu. 
+
+Semoga para santri disini tetap semangat dalam menimba ilmu walaupun dalam kondisi bagaimanapun, yang penting niat untuk belajar dan sekolah yang utama, kata Hamka Sabri. 
+
+Pemerintah Provinsi Bengkulu, lanjut Hamka, mengucapkan terimakasih kepada pimpinan dan para guru pesantren yang telah membina dan mendidik para santri dalam menimba ilmu agama, karena hal itu salah satu bentuk partisipasi dalam pembangunan. 
+
+Pimpinan Ponpes Makrifatul Ilmi Abdullah Munir menyampaikan rasa terimakasih atas bantuan yang diberikan. 
+
+Dirinya juga berharap musibah yang terjadi tidak menyurutkan semangat para santri untuk terus belajar. 
+
+Usai menyerahkan bantuan, Asisiten I Hamka Sabri berkeliling untuk melihat langsung kondisi bangunan Ponpes yang hancur akibat angin puting beliung. 
+
+Turut serta dalam kunjungan tersebut sejumlah kepala OPD Provinsi Bengkulu, perwakilan dari Pemda Kabupaten Bengkulu Selatan serta dari Kanwil Kemenag Kabupaten Bengkulu Selatan. 
+
+Rls/Media Center Pemprov Bengkulu/Tri Purnama Sari 
+</TEXT>
+
+</TimeML>

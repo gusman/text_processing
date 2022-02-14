@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0942</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-03" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-03</TIMEX3></DCT>
+
+<TITLE>Dua Rumah Warga Entikong Terkena Longsor, FKH Imbau Warga Tetap Waspada</TITLE>
+
+<TEXT>
+Forum Komunitas Hijau (FKH) Kabupaten Sanggau, Abang Indra mengimbau kepada warga untuk selalu waspada mengingat <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> curah hujan masih cukup tinggi. 
+
+" Terutama yang bermukim dibantaran sungai dan yang di kawasan berbukit. 
+
+" " Tetap selalu waspada, dan jika ada tanda-tanda banjir atau longsor sebaiknya mengungsi terlebih <TIMEX3 tid="t2" type="DATE" value="PAST_REF">dahulu</TIMEX3>, " katanya, <TIMEX3 tid="t3" type="DATE" value="2020-01-03">Jumat (3/1/2020)</TIMEX3>. 
+
+Selain itu, tetap jaga kebersihan lingkungan. 
+
+Jangan sampai ada drainase yang tersumbat, karena bisa mengakibatkan genangan air dan menimbulkan banjir. 
+
+Terkait dengan dua rumah warga yang terkena longsor di Kecamatan Entikong, diharapkan agar instansi terkait memberikan bantuan kepada korban longsor tersebut. 
+
+Kronologi dan PenyebabKapolsek Entikong, AKP Novrial Alberti Kombo bersama anggota Siaga Banjir, Puting Beliung dan Longsor (Batingsor) melaksanakan pengecekan rumah warga yang terkena dampak bencana longsor. 
+
+Rumah tersebut berada di Jalan Paktangkir Dusun Entikong Benuan, Desa Entikong, Kecamatan Entikong. 
+
+Kapolsek menjelaskan kronologi kejadian, pada <TIMEX3 tid="t4" type="DATE" value="2020-01-02">2 Januari</TIMEX3> sekira <TIMEX3 tid="t5" type="TIME" value="2020-01-02T09:00">pukul 09.00 WIB</TIMEX3> terjadi hujan deras dan <TIMEX3 tid="t6" type="DATE" value="PAST_REF">saat itu</TIMEX3> lampu padam pada <TIMEX3 tid="t7" type="TIME" value="2020-01-02T23:00">pukul 23.00</TIMEX3>. 
+
+// " Tiba-tiba tanah di belakang rumah Reno terdengar suara pecahan material rumah dan dilakukan pengecekan. 
+
+" " Reno pun melihat dapur rumahnya yang sudah hancur dan tanah menutupi dapur rumah Reno, " katanya, <TIMEX3 tid="t8" type="DATE" value="2020-01-03">Jumat (3/1/2020)</TIMEX3>. 
+
+Kemudian Pada <TIMEX3 tid="t9" type="TIME" value="2020-01-02T05:00">pukul 05.00</TIMEX3> Reno melporkan kejadian tersebut ke Bhabinkamtibmas Entikong Bripka Moh Tolkah dan dilaporkan kepada pimpinan. 
+
+Pada <TIMEX3 tid="t10" type="TIME" value="2020-01-02T08:00">pukul 08.00</TIMEX3> Kapolsek Entikong AKP Novrial Alberti Kombo bersama anggota Siaga Batingsor melaksanakan pengecekan bersama anggota Koramil Entikong. 
+
+Kemudian dilaksanakan kurve membersihkan rumah yang terkena bencana longsor. 
+
+" Sebab terjadinya longsor karena tingkat curah hujan yang tinggi dan TKP yang berada di bawah tebing yang tidak memiliki terasering. 
+
+" " Kemudian posisi rumah di dekat tebing yang diperkirakan tinggi tebing kurang lebih 15 meter, " kata Kapolsek. 
+
+
+</TEXT>
+
+</TimeML>

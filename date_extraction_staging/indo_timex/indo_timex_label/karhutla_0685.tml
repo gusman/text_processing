@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0685</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-19</TIMEX3></DCT>
+
+<TITLE>Kebakaran Hutan Terjadi di Jalur Pendakian Gunung Semeru, Para Pendaki Digiring Turun ke Bawah</TITLE>
+
+<TEXT>
+Kebakaran hutan terjadi di jalur pendakian Gunung Semeru di Kabupaten Lumajang. 
+
+Berdasarkan surat yang dikeluarkan Balai Besar (BB) Taman Nasional Bromo Tengger Semeru (TNBTS), kebakaran hutan terjadi di lokasi Sumber Mani-Arcopodo-Kelik. 
+
+Lokasi Sumber Mani-Arcopodo-Kelik itu berada di atas Ranu Kumbolo dan sebelum Puncak Mahameru (3.676 Mdpl). 
+
+.500 OrangKepala Bidang Kesiapsiagaan Kedaruratan dan Logistik BPBD Lumajang, Wawan Hadi menuturkan, kebakaran terjadi pada <TIMEX3 tid="t1" type="DATE" value="2019-09-17">Selasa (17/9/2019) lalu</TIMEX3>. 
+
+" Kemudian bisa dipadamkan pada <TIMEX3 tid="t2" type="DATE" value="2019-09-18">Rabu (18/9/2019)</TIMEX3>, dan <TIMEX3 tid="t3" type="DATE" value="2019-09-19">tanggal 19</TIMEX3> hari ini, muncul titik api lagi, " ujar Wawan Hadi kepada Surya (Grup TribunMadura. 
+
+com), <TIMEX3 tid="t4" type="DATE" value="2019-09-19">Kamis (19/9/2019)</TIMEX3>. 
+
+Wawan Hadi mengatakan, tim dari BPBD Lumajang membantu petugas TNBTS memadamkan api, bersama relawan, porter, dan guide secara manual. 
+
+" Ya digepyoki begitu, pemadaman secara manual karena kan lokasinya di atas, " imbuh Wawan Hadi. 
+
+. 
+
+Saat kebakaran pertama terjadi <TIMEX3 tid="t5" type="DATE" value="2019-09-17">Selasa (17/9/2019)</TIMEX3>, diketahui banyak pendaki dari rute Ranu Kumbolo hingga Puncak Mahameru. 
+
+// Karenanya, sejak <TIMEX3 tid="t6" type="DATE" value="2019-09-18">Rabu (18/9/2019)</TIMEX3>, pendaki dari atas digiring turun dan dari bawah dilarang untuk naik sampai ke puncak. 
+
+Bahkan pada <TIMEX3 tid="t7" type="DATE" value="2019-09-19">Kamis (19/9/2019)</TIMEX3>, pihak BB TNBTS mengeluarkan pengumuman resmi, yakni rekomendasi kepada pendaki untuk tidak mendaki sampai ke Kalimati dan Puncak Mahameru. 
+
+. 
+
+Dalam pengumuman tertanggal <TIMEX3 tid="t8" type="DATE" value="UNKNOWN">19 September 2019 itu</TIMEX3> juga disebutkan, pengumuman dari Kepala BB TNBTS tertanggal <TIMEX3 tid="t9" type="DATE" value="2019-05-09">9 Mei 2019</TIMEX3> tentang pembukaan jalur pendakian Gunung Semeru dinyatakan tidak berlaku. 
+
+" Ya, <TIMEX3 tid="t10" type="DATE" value="2019-09-19">hari ini</TIMEX3> kami menerima pengumuman resmi dari TNBTS yang menyebutkan pelarangan pendakian sampai ke puncak, " ucap Wawan Hadi. 
+
+" Pendakian hanya bisa dilakukan hingga Ranu Kumbolo, " pungkas Wawan. 
+
+
+</TEXT>
+
+</TimeML>

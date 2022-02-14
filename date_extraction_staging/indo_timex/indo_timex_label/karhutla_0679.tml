@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0679</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-25</TIMEX3></DCT>
+
+<TITLE>Kebakaran Hutan di Gunung Semeru Terus Meluas, Kobaran Api Sudah Tembus 60 Hektar dan Capai Ranupani</TITLE>
+
+<TEXT>
+Kebakaran hutan di Gunung Semeru masih belum berhasil dipadamkan hingga <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Lahan terdampak kebakaran hutan di Gunung Semeru bahkan <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah meluas hingga mencapai 60 hektar. 
+
+Plt Humas Balai Besar Taman Nasional Bromo Tengger dan Semeru (TNBTS) Achmad Arifin mengatakan, api yang membakar hutan di area Gunung Semeru telah mencapai resort Ranupani tepatnya di blok Ayek-ayek, Ungup-ungup dan Batu Tulis. 
+
+Sementara lokasi kebakaran sebelumnya yakni Kalimati, Arcopodo, Kelik dan Gunung Kepolo telah dipadamkan. 
+
+Luas terdampak kebakaran meluas hingga 60 hektar. 
+
+Namun lokasi kebakaran sebelumnya itu sudah berhasil padam, ujar Arifin, <TIMEX3 tid="t3" type="DATE" value="2019-09-25">Rabu (25/9/2019)</TIMEX3>. 
+
+Ia menambahkan api berpotensi menyebar sebab angin di lokasi sangat kencang serta titik api berada di medan bertebing serta berbukit. 
+
+Selain itu, rumput, kayu dan serasah yang mengering membuat api membumbung dengan cepat. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> masih terus kami lakukan upaya pengendalian kepada api, tegasnya. 
+
+Sebanyak 62 personel diterjunkan untuk memadamkan api. 
+
+// Sejauh ini kata Arifin, proses pemadaman dilakukan dengan mendekati titik api yang bisa dijangkau menggunakan jet shooter dan gepyok atau ranting pohon. 
+
+Agar kebakaran tidak meluas, petugas memasang sekat pada medan datar. 
+
+Sedangkan pada medan tebing terjal dan sulit dijangkau dilakukan pemantauan arah angin. 
+
+Namun kami tetap memegang teguh prinsip safety first saat proses pemadaman, tegasnya. 
+
+Kebakaran di Gunung Semeru terjadi sejak <TIMEX3 tid="t5" type="DATE" value="2019-09-17">17 September 2019</TIMEX3>. 
+
+Kebakaran awalnya terjadi di blok Kalimati, Arcopodo dan Kelik. 
+
+Api kemudian menyebar ke resor Ranu Kumbolo sehingga BB TNBTS memutuskan menutup jalur pendakian. 
+
+
+</TEXT>
+
+</TimeML>

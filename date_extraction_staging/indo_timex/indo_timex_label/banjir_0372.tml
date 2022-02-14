@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0372</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-04" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-04</TIMEX3></DCT>
+
+<TITLE>Soal Perdebatan Banjir, DPR Minta Pemerintah Fokus Tangani Korban</TITLE>
+
+<TEXT>
+Banjir yang melanda wilayah Jakarta dan sekitarnya menuai perdebatan antara pejabat pemerintah pusat dan daerah. 
+
+Perdebatan ini tersebar di media yang seolah-olah saling menyalahkan satu sama lain. 
+
+Wakil Ketua Komisi II DPR RI Arwani Thomafi menilai perdebatan tersebut seharusnya bisa diselesaikan dalam ruang rapat. 
+
+" Jangan saling menyalahkan, apalagi cari kambing hitam. 
+
+Yang perlu dilakukan <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> fokus penanganan korban dampak banjir, " kata Arwani, saat ditemui di Jakarta, <TIMEX3 tid="t2" type="DATE" value="2020-01-04">Sabtu (4/1)</TIMEX3>. 
+
+Apa yang terjadi di pemerintahan pun berbanding terbalik dengan kondisi masyarakat Jakarta. 
+
+Mereka justru saling membantu sejak banjir datang pada <TIMEX3 tid="t3" type="DATE" value="2020-01-01">1 Januari 2020</TIMEX3>. 
+
+" Saya melihat langsung di Kampung Makasar, mereka guyub dan saling membantu, " ucapnya. 
+
+Sebelumnya, silang pendapat terjadi antara Gubernur DKI Jakarta Anies Baswedan dan Menteri Pekerjaan Umum dan Perumahan Rakyat (PUPR) Basuki Hadimuljono pada saat meninjau beberapa titik banjir pada <TIMEX3 tid="t4" type="DATE" value="2020-01-01">Rabu lalu</TIMEX3>. 
+
+(. 
+
+Padahal, hal ini perlu diselesaikan untuk mengurangi dampak banjir. 
+
+Namun, Anies membantah klaim tersebut. 
+
+Menurut dia, bencana banjir yang terjadi bukan karena tidak dinormalisasi. 
+
+Namun, bencana itu terjadi karena tidak ada pengendalian terhadap air yang masuk dari sisi selatan Jakarta. 
+
+(
+</TEXT>
+
+</TimeML>

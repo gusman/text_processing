@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0524</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-11-27" temporalFunction="false" functionInDocument="CREATION_TIME">2015-11-27</TIMEX3></DCT>
+
+<TITLE>Pohon Tumbang Melintang di Tengah Jalan</TITLE>
+
+<TEXT>
+Akibat hujan deras dan angin kencang yang melanda kawasan Kota Sanggau, sebatang pohon jenis karet di Jalan Pancasila kelurahan Ilir Kota tumbang. 
+
+Peristiwa yang terjadi <TIMEX3 tid="t1" type="DATE" value="2015-11-25">Rabu (25/11)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2015-11-27T17:00">pukul 17.00 itu</TIMEX3> sempat menganggetkan warga sekitar yang mendengar suara seperti dentuman keras. 
+
+Akibatnya, akses lalu lintas dari Jalan Jendral Sudirman menuju Jalan Dewi Sartika menjadi terganggu. 
+
+Sejumlah pengendarapun terpaksa memutar balik kendaraannya begitu mengetahui pohon tumbang persis berada di tengah jalan. 
+
+Kabel listrik dan telepon yang tidak jauh dari lokasi, tidak luput tertimpa pohon. 
+
+Rasman, 44, warga sekitar yang rumahnya berdekatan dengan lokasi pohon tumbang tersebut menjelaskan bahwa sesaat sebelum kejadian, suasana jalan di sekitar pohon tumbang tersebut sedang sepi karena hujan. 
+
+Memang <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">waktu itu</TIMEX3> sepi, mungkin karena hujan, tapi anehnya, pohon itu bukan tumbang pelan-pelan, tapi langsung bruuuk gitu, kata Rasman saat ditemui di rumahnya, <TIMEX3 tid="t4" type="DATE" value="2015-11-26">Kamis (26/11)</TIMEX3>. 
+
+Rasman sempat mengira, suara tersebut berasal dari spanduk yang berada di sekitar rumahnya tumbang. 
+
+Pas saya cek, pohon rupanya, memang pohon karet tu sudah tua, udah pada keropos, wajarlah tumbang, katanya. 
+
+Tidak ada korban jiwa maupun harta benda dalam peristiwa tersebut. 
+
+Untungnya anak-anak sekolah yang mau ke SMP 2 itu lewat sebelum pohon itu tumbang, timpal Nelly, 33, istri Rasman. 
+
+Sebelumnya kejadian, Nelly mengaku sempat membuang sampah ke bak sampah tidak jauh dari rumahnya. 
+
+Begitu saya masuk rumah, saya dengar suara keras, saya cek lewat jendela, ternyata pohon karet dekat rumah yang tumbang, untungnya tidak kena rumah, ujarnya. 
+
+<TIMEX3 tid="t5" type="TIME" value="2015-11-26">Kamis (26/11) pagi</TIMEX3>, sejumlah petugas dari Badan Lingkungan Hidup Kebersihan dan Pemadam Kebakaran (BLH-KPK) Kabupaten Sanggau segera melakukan pembersihan dengan memotong secara manual batang pohon yang menghadap jalan dan arus lalu lintas warga. 
+
+<TIMEX3 tid="t6" type="TIME" value="2015-11-26T08:00">Sekitar pukul 08.00</TIMEX3>, arus lalu lintas kembali normal. 
+
+(KiA) 
+</TEXT>
+
+</TimeML>

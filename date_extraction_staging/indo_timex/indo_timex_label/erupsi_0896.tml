@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0896</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-05-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-05-24</TIMEX3></DCT>
+
+<TITLE>Bantuan Logistik untuk Warga Lereng Merapi Sudah Berdatangan</TITLE>
+
+<TEXT>
+Selama <TIMEX3 tid="t1" type="DURATION" value="P1W">sepekan</TIMEX3>, aktivitas Gunung Merapi mengeluarkan asap letusan hingga membuatmasyarakat harus waspada. 
+
+Akibat aktivitas Gunung Merapi tersebut, warga di Kawasan Rawan Bencana (KRB) III di wilayah Boyolali juga harus mengungsi ke di Tempat Penampungan Pengungsi Sementara (TPPS) di Desa Tlogolele yang berjarak tujuh kilometer. 
+
+Terkait kondisi peningkatan aktivitas Gunung Merapi, pemerintah segera bergerak menanggapi bencana alam ini. 
+
+Seperti yang dilakukan Badan Penanggulangan Bencana Daerah (BPBD) Provinsi Jawa Tengah, yang telah mengirimkan bantuan untuk kebutuhan pengungsi di Boyolali. 
+
+. 
+
+Adanya tambahan bantuan logistik ini, masyarakat lereng Gunung Merapi tetap aman dari sisi logistik, sudah tidak khawatir, ungkap Sekretaris Daerah (Sekda) Kabupaten Boyolali, Sri Ardiningsih, di sela penyerahan bantuan. 
+
+Menurutnya, bantuan sudah dipersiapkan untuk menghadapi kondisi Gunung Merapi jika terus mengalami peningkatan aktivitas. 
+
+Karena aktivitas gunung yang tidak bisa diprediksi, pihaknya mengimbau kepada seluruh masyarakat untuk tetap tenang dan menunggu informasi yang pasti dari jajaran pemerintah. 
+
+. 
+
+Sementara itu, Kepala Desa Tlogolele, Widodo menyambut baik dengan adanya bantuan dari pemerintah. 
+
+Bantuan yang diberikan sebagai langkah mengantisipasi segala sesuatunya dengan harapan semua bisa berjalan sesuai dengan yang telah dipersiapkan. 
+
+Bantuan ini sebagai upaya untuk mengantisipasi apabila terjadi letusan, mengingat <TIMEX3 tid="t2" type="DATE" value="2018-05-23">kemarin</TIMEX3> saat terjadi letusan warga panik dan langsung lari kesini (TPPS-red), ungkapnya. 
+
+Adapun bantuan terdiri dari berbagai macam bahan makanan, seperti 50 kilogram beras, 10 kardus mi instan, 15 kilogram gula pasir, 10 bungkus minyak goreng.Serta berbagai macam peralatan dapur, peralatan makan, peralatan kesehatan, tikar dan lain sebagainya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

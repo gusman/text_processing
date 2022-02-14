@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0888</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-10" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-10</TIMEX3></DCT>
+
+<TITLE>Sempat Dikabarkan Hilang, Tiga Korban Hanyut Terseret Banjir Selamat Berkat Pohon Sawit</TITLE>
+
+<TEXT>
+Banjir di Kabupaten Lahat menenggelamkan sejumlah dan menghanyutkan sejumlah rumah. 
+
+Kepala BPBD Lahat, Marjono, <TIMEX3 tid="t1" type="DATE" value="2020-01-09">Kamis (9/1/2020)</TIMEX3> menjelaskan, sempat mendapat kabar ada tiga warga hanyut. 
+
+Warga itu sempat dikabarkan hilang namun <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> telah ditemukan selamat tersangkut di pohon sawit. 
+
+Ia menjelaskan, beberapa kecamatan terdampak banjir bandang ini mulai dari Kecamatan Pagar Gunung, Lahat, Kikim Timur, hingga Pulau Pinang. 
+
+BPBD sejak <TIMEX3 tid="t3" type="TIME" value="2020-01-10TMO">subuh</TIMEX3> telah ke lokasi mengevakuasi warga dengan menggunakan perahu. 
+
+Menurut Marjono, warga harus tetap waspada karena perkiraan hujan menurut BMKG terjadi sampai <TIMEX3 tid="t4" type="DATE" value="2019-03">Maret</TIMEX3>. 
+
+Selain itu, hujan di jalur barat termasuk Lahat, Muara Enim, Pagaralam dan Empat Lawang curahnya lebih tinggi dibandingkan jalur timur.10 rumah warga di Desa Gunung Kembang, Kecamatan Kikim Timur, Kabupaten Lahat, dikabarkan hanyut dan roboh. 
+
+Peristiwa tersebut akibat terjangan banjir bandang Sungai Ayik Kikim Kecik. 
+
+Selain itu, 78 rumah terendam. 
+
+Air merendam dengan ketinggian hingga dua meter. 
+
+// Banjir juga merendam jalan Lintas tengah hingga menyebabkan kendaraan tak bis melintas. 
+
+Hingga berita ini dibuat kendaraan mengular hingga satu kilometer. 
+
+Kesedihan dirasakan Koni dan Ika, pasangan pengantin baru di Lahat. 
+
+Rumah mereka di Desa Mandi Angin, Kecamatan Gumay Talang, Kabupaten Lahat, ikut terseret banjir, <TIMEX3 tid="t5" type="DATE" value="2020-01-09">Kamis (9/1/2020)</TIMEX3>. 
+
+Rumah pengantin baru terseret banjir sekitar pada <TIMEX3 tid="t6" type="TIME" value="2020-01-09T04:00">pukul 04.00</TIMEX3>. 
+
+Rumah hanyut sejauh 100 meter, melintasi jalan raya yang menghubungan Lahat dan Empat Lawang. 
+
+Pasangan ini untuk sementara akan numpang di rumah keluarga. 
+
+Saat kejadian itu, keduanya sudah terjaga dari tidur sehingga bisa menyelamatkan diri. 
+
+" Pas air sudah masuk ke desa kami sudah terjaga dan langsung mengamankan barang-barang. 
+
+Namun untuk rumah yang belum lama kami dirikan tak sempat diselamatkan hingga hanyut, " ujarnya Koni. 
+
+Sementara, Ketua PKK Lahat, Lidyawati Cik Ujang sangat perihatin apa yang menimpa Koni. 
+
+Istri bupati Lahat ini memberikan bantuan kepada keduanya seperti peralatan memasak. 
+
+" Ada puluhan rumah yang terendam satu hanyut. 
+
+Korban tidak ada, " ujar Kades Mandi Angin, John Asmoni. 
+
+(Ehdi Amin) 
+</TEXT>
+
+</TimeML>

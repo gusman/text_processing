@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0185</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-21" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-21</TIMEX3></DCT>
+
+<TITLE>ACT Siapkan Jutaan Liter Air Bersih untuk Tanggulangi Kekeringan Gunungkidul</TITLE>
+
+<TEXT>
+Berdasar data Badan Penanggulangan Bencana Daerah (BPBD) Gunungkidul, setidaknya 10 dari 18 kecamatan di Gunungkidul <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> mengalami kekeringan dan berpotensi mengalami krisis air bersih. 
+
+Sepuluh kecamatan yang mengalami kekeringan tersebut yakni Kecamatan Girisubo, Purwosari, Rongkop, Tepus, Ngawen, Ponjong, Semin, Patuk, Semanu, dan Paliyan dengan rincian sebanyak 50 desa dan 21.519 kepala keluarga atau warga terdampak mencapai 76.514 jiwa. 
+
+Sebagai bentuk respon cepat terhadap bencana kekeringan di Gunungkidul tersebut, Lembaga Kemanusiaan Aksi Cepat Tanggap (ACT) telah menyiapkan program untuk membantu masyarakat terdampak kekeringan di Gunungkidul tersebut. 
+
+Kita siapkan program dropping air bersih sebanyak 500 tangki untuk wilayah-wilayah Gunungkidul yang <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tengah mengalami kekeringan dan berpotensi krisis air bersih. 
+
+Dropping akan menggunakan truk tangki berkapasitas 5.000 liter/tangki dan akan berkeliling <TIMEX3 tid="t3" type="SET" value="P1D">setiap hari</TIMEX3> di Gunungkidul untuk mendistribusikan air bersih bagi masyarakat, ujar Bagus Suryanto, Kepala Cabang ACT DIY. 
+
+Kejadian bencana kekeringan di Kabupaten Gunungkidul bukan kali pertama; kejadian ini terjadi <TIMEX3 tid="t4" type="SET" value="UNKNOWN">hampir setiap musim kemarau</TIMEX3>. 
+
+Di <TIMEX3 tid="t5" type="DATE" value="2018">tahun 2018</TIMEX3> saja, terdapat lebih dari 100.000 jiwa yang menjadi korban. 
+
+Krisis ini terjadi akibat kondisi geografis tanah yang didominasi bebatuan karst berongga yang menyebabkan air hujan sulit untuk tertampung di permukaan tanah. 
+
+Upaya pemulihan vegetasi hutan di Gunungkidul pun membutuhkan waktu hingga <TIMEX3 tid="t6" type="DURATION" value="P30Y">30 tahun</TIMEX3>. 
+
+Selain itu, sumber air tanah berada pada kedalaman di atas 100 meter sehingga hampir dipastikan ketika <TIMEX3 tid="t7" type="DATE" value="2019-SU">musim kemarau</TIMEX3> tiba, warga masyarakat Gunungkidul akan membutuhkan suplai air bersih dari luar daerah. 
+
+Winarno, tim ACT-MRI menjabarkan kondisi terkini 10 kecamatan tersebut. 
+
+" Mayoritas sumur galian warga sudah mengering, atau warga mengandalkan PAM Desa yang debitnya kadang tidak mencukupi keperluan <TIMEX3 tid="t8" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+Selain itu, warga yang rumahnya belum tersentuh PAM desa memanfaatkan air telaga untuk keperluan <TIMEX3 tid="t9" type="SET" value="P1D">sehari-hari</TIMEX3> atau menyiapkan bak penampungan. 
+
+Warga juga sudah ada yang membeli air, bahkan ada yang sejak <TIMEX3 tid="t10" type="DATE" value="2019-01">Januari lalu</TIMEX3>, terang Winarno. 
+
+Selain menyiapkan dropping air bersih, tim juga akan memaksimalkan program sumur wakaf yang dikelola oleh Global Wakaf ACT di Gunungkidul. 
+
+Sampai <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> jumlah Sumur Wakaf yang telah dibangun di Kabupaten Gunungkidul dan sekitarnya telah mencapai 18 titik dengan kedalaman beragam dari 50 meter hingga 100 meter. 
+
+Semoga ikhtiar kita dengan melakukan dropping air bersih maupun pembangunan sumur wakaf dapat membantu puluhan ribu warga Gunungkidul yang <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">kini</TIMEX3> terdampak kekeringan tutup Bagus. 
+
+
+</TEXT>
+
+</TimeML>

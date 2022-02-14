@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0309</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-31" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-31</TIMEX3></DCT>
+
+<TITLE>Banjir di Ruas Tol Cipali Betulan Indramayu</TITLE>
+
+<TEXT>
+Sejak <TIMEX3 tid="t1" type="TIME" value="2019-12-30T16:00">pukul 16.00 WIB</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2019-12-31">Selasa (31/12/2019)</TIMEX3> ruas tol Cipali wilayah Kabupaten Indramayu diterjang banjir. 
+
+Ketinggian air sampai satu paha. 
+
+Sampaj <TIMEX3 tid="t3" type="TIME" value="2019-12-30T18:00">pukul 18.00 WIB</TIMEX3>, kondisi jalan tol masih terendam. 
+
+Baru pada <TIMEX3 tid="t4" type="TIME" value="2019-12-30T19:30">pukul 19.30 WIB</TIMEX3>, hujan mulai reda. 
+
+Ketinggian air mulai surut. 
+
+Rata-rata 5-20 cm. 
+
+Dikabarkan tidak ada korban jiwa akibat terendamnya jalur tol Cipali km 130-140 itu. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_1068</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-08-15" temporalFunction="false" functionInDocument="CREATION_TIME">2016-08-15</TIMEX3></DCT>
+
+<TITLE>Kekeringan di Samosir Semakin Parah, Warga Minta Pemerintah Membantu</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2016-SU">Musim kemarau</TIMEX3> yang masih melanda Kabupaten Samosir, membuat kondisi pertanian semakin mengering karena sulit mendapatkan pasokan air ke ladang pertanian. 
+
+Seperti di Kecamatan Simanindo, selain lahan pertanian yang mengering, warga tampak sangat kesulitan memperoleh air dalam memenuhi kebutuhan <TIMEX3 tid="t2" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+" Akibat musim kering sejak <TIMEX3 tid="t3" type="DATE" value="PXM">beberapa bulan lalu</TIMEX3>, sumber air dan sumur pun kering, sehingga kami semakin sulit beraktivitas <TIMEX3 tid="t4" type="DURATION" value="P1D">sehari</TIMEX3> hari, " ujar warga Desa Garoga, Poltak Rumahhorbo kepada GoSumut, <TIMEX3 tid="t5" type="DATE" value="2016-08-15">Senin</TIMEX3> (15/8/2016)Untuk itu warga desa mengharapkan bantuan pemerintah terkait kekeringan yang terjadi. 
+
+" Bahkan, untuk komsumsi air minum dan mandi saja sangat sulit diperoleh, " terangnya. 
+
+Sementara itu Kepala Desa Garoga, Jannes Rumahorbo mengakui jika sudah melayangkan surat permohonan kepada Pemkab Samosir melalui Kepala Badan Penanggulangan Bencana Daerah (BPBD) untuk merespon kebutuhan warganya. 
+
+" Bersama bapak camat, masalah kesulitan air sudah kami surati ke pemerintah kabupaten dan semoga bisa terwujudkan surat kami itu, " terangnya. 
+
+Ia menjelaskan dalam suratnya, BPBD Samosir diminta supaya dapat mengerahkan mobil damkar (Pemadam Kebakaran) untuk mensubsidi air minum kepada masyarakat dengan mengisi bak dan drum milik masyarakat, supaya warga bisa beraktivitas seperti biasanya. 
+
+Sementara itu ditempat berbeda, sumber dari Kecamatan Simanindo menjelaskan, pihak BPBD Samosir sudah melakukan pendistribusian air ke beberapa desa di Kecamatan Simanindo sejak <TIMEX3 tid="t6" type="DATE" value="2016-W32">minggu kemarin</TIMEX3>. 
+
+Namun, meski sudah didistribusikan, beberapa warga berharap supaya pemerintah tetap rutin mengerahkan mobil damkar untuk mendistribusikan air kepada warga yang membutuhkan. 
+
+Di Palipi, Ando Sinaga salah satu petani menerangkan, jika dalam waktu satu bulan kedepan hujan tidak kunjung turun, kemungkinan ia dan beberapa petani di Palipi akan kekurangan pangan. " Hujan sudah lama tidak turun, lihat saja semua lahan memutih dan sangat kering. 
+
+Tidak bisa menanam apa apa, " katanya. 
+</TEXT>
+
+</TimeML>

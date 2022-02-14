@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0846</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-04" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-04</TIMEX3></DCT>
+
+<TITLE>Kebakaran Lahan Perusahaan Perkebunan di OKI, 73 Warga Termasuk Anak-anak Dievakuasi</TITLE>
+
+<TEXT>
+Sejumlah warga yang terdiri dari ibu rumah tangga dan anak-anak, diungsikan ke kantor Kecamatan Kayuagung beserta Jajaran Polsek Kayuagung dan BPPD Kabupaten Ogan Komering Ilir, <TIMEX3 tid="t1" type="TIME" value="2019-10-03TNI">Minggu (3/10/2019) malam</TIMEX3>. 
+
+Langkah yang ditempuh pihak terkait tersebut diambil sebagai upaya perlindungan pemerintah dalam mengamankan warga yang berdomisili di Lingkungan 4 RT <TIMEX3 tid="t2" type="DATE" value="2019-09-08">8/9</TIMEX3> Pancur Kelurahan Kedaton Kecamatan Kayuagung Kabupaten Ogan Komering Ilir (OKI). 
+
+Pasalnya, ada kemungkinan menyebarnya jilatan api dalam insiden kebakaran yang berasal dari lahan salah satu perusahaan perkebunan yang ada di sana, sejak <TIMEX3 tid="t3" type="DATE" value="2019-10-03">Sabtu (3/10/2019) kemarin</TIMEX3>. 
+
+Evakuasi 73 warga yang didominasi kaum hawa dan anak-anak tersebut, dimulai dari <TIMEX3 tid="t4" type="TIME" value="2019-11-03T21:00">Pukul 21.00</TIMEX3> waktu setempat menggunakan sejumlah kendaraan taktis milik BNPB, Ambulans Kelurahan Kayuagung, hingga kendaraan dinas dan lainnya. 
+
+Camat Kayuagung, Dedi Kurniawan didampingi Lurah Kedaton Abdullah Sahri mengatakan evakuasi tersebut dilakukan untuk mengantisipasi meluasnya kebakaran ke pemukiman warga. 
+
+" Awalnya pihak Kelurahan Kedaton menempatkan warga di kantornya, yang akhirnya dipindahkan ke kantor Camat untuk memenuhi kebutuhan tempat yang lebih luas, " terangnya. 
+
+Dikatakannya, untuk mengevakuasi warganya sebagai antisipasi pertama dari pencegahan timbulnya kebakaran menyasar ke pemukiman. 
+
+Terkait pemulangan warga, Dedi belum dapat memberikan keterangan sebelum memastikan api padam sepenuhnya di sekitar lokasi yang hanya berjarak sekitar 1 hingga 2 Kilometer, " <TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> kami akan berkoordinasi dengan pihak terkait untuk memastikan keadaan.Mudah-mudahan dalam waktu dekat, warga segera kami antarkan ke rumah masing-masing, " harapnya. 
+
+// Kapolsek Kayuagung AKP Nasharudin mengatakan pihaknya akan terus memantau kondisi yang menurutnya tidak dapat diprediksi. 
+
+" Kita tidak ingin ambil resiko ada korban jiwa. 
+
+Untuk itu, kita sarankan kepada warga setempat untuk dilakukan evakuasi, " tegasnya. 
+
+Ditambahkan Nasharudin, ia sempat meyakinkan penduduk agar tidak mengkhawatirkan keamanan rumah yang ditinggalkan. 
+
+Menurutnya, pihak kepolisian terdiri dari Polres dan Polsek menjamin rumah kosong yang ditinggal penghuninya terbebas dari tindakan pencurian dan lain sebagainya, " Patroli akan lebih ditingkatkan lagi. 
+
+Terutama di kawasan pemukiman penduduk yang ditinggal pemiliknya, " tandasnya. 
+
+Hingga <TIMEX3 tid="t6" type="TIME" value="2019-11-03TNI">tengah malam</TIMEX3> sampai berita ini ditayangkan, melalui sambungan telepon seluler, Manajer perusahaan tersebut belum bisa dihubungi. 
+
+
+</TEXT>
+
+</TimeML>

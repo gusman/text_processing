@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0706</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-11" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-11</TIMEX3></DCT>
+
+<TITLE>Kebakaran Hanguskan Lahan Bambu di Dusun Mangkon, Desa Konang, Kecamatan Galis, Pamekasan</TITLE>
+
+<TEXT>
+Kebakaran melanda lahan Bambu seluas 20x10 meter di Dusun Mangkon, Desa Konang, Kecamatan Galis, Kabupaten Pamekasan, <TIMEX3 tid="t1" type="TIME" value="2019-10-11TAF">Jumat (11/10/2019) siang</TIMEX3>. 
+
+Kebakaran tersebut dekat dengan pemukiman warga. 
+
+Supervisor Pusdal Ops BPBD Pamekasan, Budi Cahyono menduga kebakaran itu karena ada warga yang membakar sampah di dekat lahan bambu lalu dibiarkan. 
+
+Tak lama kemudian, api menjalar ke daun bambu yang sudah kering, lalu terbakar dan menjalar hingga ke lahan bambu yang ada di pinggir jalan yang lokasinya juga berdekatan dengan pemukiman warga. 
+
+" Ketika terjadi kebakaran, kami menerima laporan dari Babinsa Konang kalau ada lahan bambu yang terbakar, " kata Budi Cahyono kepada SURYAMALANG. 
+
+COM. 
+
+" <TIMEX3 tid="t2" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, kami langsung bergerak ke lokasi dengan mengerahkan mobil pemadam kebakaran, mobil penyuplai air dan rescue Rapi Pamekasan, " sambung dia. 
+
+Budi Cahyono mengaku, ketika pihaknya mendapati laporan tentang kebakaran lahan itu, ia langsung mengabarkan kepada tim Pemadam Kebakaran. " BPBD dan tim pemadan kebakaran langsung menuju ke lokasi dan melakukan pemadaman, " ucap Budi Cahyono. " Laporan dari warga setempat ke pusdalOps langsung ditindaklanjuti oleh pusdalOps, " tambah dia.Menurut Budi Cahyono, pihaknya berhasil memadamkan lahan bambu yang terbakar <TIMEX3 tid="t3" type="DURATION" value="PT30M">sekitar 30 menit</TIMEX3>.Setelah api berhasil dipadamkan, langsung dilakukan pembahasan karena dikhawatirkan ada sisa percikan api dari bambu yang masih menyala. " Saya mengimbau kepada masyarakat Pamekasan, tolong jika membakar sampah jangan sembarangan dan kalau mau ditinggalkan usahakan dipadamkan terlebih <TIMEX3 tid="t4" type="DATE" value="PAST_REF">dahulu</TIMEX3>, " imbaunya " Karena risikonya akan tinggi bisa menyebabkan kebakaran yang berakibat fatal, " tandasnya. 
+</TEXT>
+
+</TimeML>

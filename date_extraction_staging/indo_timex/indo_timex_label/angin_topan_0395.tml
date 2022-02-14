@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0395</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-23</TIMEX3></DCT>
+
+<TITLE>Evakuasi Menara RRI yang Roboh di Kebayoran Baru Dilanjutkan Siang Ini</TITLE>
+
+<TEXT>
+Menara pemancar Radio Republik Indonesia (RRI) yang roboh di Jalan Antena VII, Kebayoran Baru, Jakarta Selatan, belum sepenuhnya dievakuasi. 
+
+Pantauan TribunJakarta. 
+
+com pada <TIMEX3 tid="t1" type="TIME" value="2019-12-23T09:00">Senin (23/12/2019) pukul 09.00</TIMEX3>, besi-besi menara masih terlihat menimpa Masjid Al-Amin. 
+
+Menara yang roboh tersebut masih melintang dan menutupi akses jalan. 
+
+Sementara itu, garis polisi telah terpasang mengelilingi menara yang roboh. 
+
+Sebelumnya, menara RRI roboh pada <TIMEX3 tid="t2" type="TIME" value="2019-12-22T15:00">Minggu (22/12/2019) pukul 15.00</TIMEX3>. 
+
+Hujan deras disertai angin kencang diduga menjadi penyebab robohnya menara RRI. 
+
+Menurut seorang warga bernama Aris, evakuasi oleh petugas Pemadam Kebakaran berlangsung hingga <TIMEX3 tid="t3" type="DATE" value="2019-12-23">Senin</TIMEX3> dini hari. 
+
+Proses evakuasi, lanjut dia, rencananya bakal kembali dilanjutkan <TIMEX3 tid="t4" type="DATE" value="2019-12-23">hari ini</TIMEX3>. " <TIMEX3 tid="t5" type="DATE" value="2019-12-22">Kemarin</TIMEX3> sampai <TIMEX3 tid="t6" type="TIME" value="2019-12-22T02">jam 02.00</TIMEX3> evakuasinya. 
+
+<TIMEX3 tid="t7" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> lanjut lagi pakai alat berat, " ujar Aris saat ditemui di lokasi. 
+
+// " Listrik juga sempat mati <TIMEX3 tid="t8" type="DURATION" value="2019-12-01TNI">semalam</TIMEX3>, tapi <TIMEX3 tid="t9" type="TIME" value="2019-12-22T23:00">jam 23.00</TIMEX3> sudah nyala lagi, " tambahnya. 
+
+Menara RRI Roboh di Kebayoran Baru, Timpa 3 Rumah dan 1 BajajSebuah menara RRI roboh usai diterjang hujan deras disertai angin kencang di Jalan Antena 7 Radio Dalam, Kebayoran Baru, Jakarta Selatan. 
+
+Kepala Regue Rescue Grup A Sudin Penanggulangan Kebakaran dan Penyelamatan Jakarta Selatan, Rully Santoso mengatakan menara dengan tinggi kurang lebih 120 meter tersebut telah berusia lama. 
+
+" Menara itu sudah lama, dan belakangan angin kencang di sana sehingga enggak kuat. 
+
+Ambruk, " ungkapnya saat dikonfirmasi TribunJakarta. 
+
+com pada <TIMEX3 tid="t10" type="DATE" value="2019-12-22">Minggu (22/12/2019)</TIMEX3>. 
+
+Berdasarkan penuturan warga, lanjut Rully, menara itu roboh sekira <TIMEX3 tid="t11" type="TIME" value="2019-12-22T15:00">pukul 15.00 WIB</TIMEX3>. 
+
+Menara yang roboh itu juga menimpa sejumlah bangunan dan mengakibatkan satu orang luka-luka di sekitarnya. 
+
+. 
+
+Satu orang luka-luka dan sudah dilarikan ke rumah sakit, " tambahnya. 
+
+Saat dikonfirmasi pada <TIMEX3 tid="t12" type="TIME" value="2019-12-22T16:50">pukul 16.50 WIB</TIMEX3>, Petugas damkar masih menunggu petugas PLN untuk mematikan aliran listrik sebelum tiang-tiang itu dipotong. 
+</TEXT>
+
+</TimeML>

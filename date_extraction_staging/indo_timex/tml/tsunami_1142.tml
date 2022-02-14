@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1142</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>BNPB: Rumah di Sekitar Pantai Palu Hancur Diterjang Tsunami</TITLE>
+
+<TEXT>
+BNPB menyatakan rumah di sekitar Pantai Palu, Sulawesi Tengah, hancur akibat tsunami.
+
+Namun, belum ada data berapa jumlah rumah yang rusak.
+
+"Tsunami menerjang beberapa kali di Pantai Palu akibat gempa 7,4 SR di Donggala Sulawesi Tengah.
+
+Rumah di sekitar pantai hancur diterjang tsunami, " kata Kepala Pusat Data Informasi dan Humas BNPB, Sutopo Purwo Nugroho melalui akun Twitternya, Jumat (28/9/2018).
+
+Dampak tsunami belum dapat didata.
+
+Komunikasi masih putus karena listrik padam.
+
+Selain itu, lanjut Sutopo, Basarnas Gorontalo sudah bergerak ke Kota Palu untuk melakukan operasi SAR.
+
+Ada 60 personel SAR dikerahkan.
+
+"Basarnas akan memberangkatkan 60 personil dan peralatan dengan pesawat Hercules pada 29/8/2018 pagi dari Jakarta, " ujarnya.
+
+***
+</TEXT>
+
+</TimeML>
+

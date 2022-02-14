@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0703</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2013-02-16" temporalFunction="false" functionInDocument="CREATION_TIME">2013-02-16</TIMEX3></DCT>
+
+<TITLE>Pemkab Way Kanan Salurkan Bantuan Korban Banjir</TITLE>
+
+<TEXT>
+Pemerintah Kabupaten (Pemkab) Way Kanan melalui Dinas Sosial Tenaga Kerja dan Transmigrasi (Dissosnakertrans) menyerahkan bantuan bagi warga korban musibah banjir di Kecamatan Negeri Agung, 13 Februari 2013 lalu.
+
+Bantuan diberikan Kadis Sosnakertrans, Sanusi Murod kepada warga Kampung Kotabumi, Sungsang, Negeri Agung, Gedong Meneng.
+
+Adapun bantuan yang diberikan adalah sarden 1.980 kaleng, Kecap 336 botol, Sambal 288 botol, minyak goreng 39 botol, mie instan 3.080 bungkus.
+
+Selain itu, bantuan berupa Family kids 27 set, kids ware 77 set, foodware 77 set, wadah nasi 77 buah, teko 77 buah, wajan 36 buah, centong 77 buah, sutil codet 77 buah dan seragam SD 35 stel.
+
+(fer/*)
+</TEXT>
+
+</TimeML>
+

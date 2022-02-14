@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0308</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-25" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-25</TIMEX3></DCT>
+
+<TITLE>Tertimpa Ranting Pohon, Seorang Warga Terkapar di Jalan Purbaratu</TITLE>
+
+<TEXT>
+Tertimpa ranting pohon, seorang warga terkapar di Jalan Raya Purbaratu Kota Tasikmalaya, <TIMEX3 tid="t1" type="DATE" value="2020-02-25">Selasa (25/2/2020)</TIMEX3>. 
+
+Luka di kepala membuat warga Kp. 
+
+Bojong Nangka Kelurahan Sukamenak Kecamatan Purbaratu Kota Tasikmalaya dilarikan ke puskesmas terdekat. 
+
+Informasi dari rekan di lapangan, saat kejadian belum hujan, cuma angin kencang saja. 
+
+Ada ranting besar pohon trembesi yang patah dan menimpa korban saat pulang menggunakan motor usai mencari ikan, kata Kepala BPBD Kota Tasikmalaya, Ucu Anwar. 
+
+Kondisi korban pun dirujuk ke RSUD dr Soekardjo Kota Tasikmalaya untuk mendapatkan perawatan lebih lanjut. 
+
+Sementara dahan pohon masih menggantung di kabel listrik milik PLN. 
+
+Tim Ranger BPBD Kota Tasik malaya sudah meninggalkan lokasi kejadian. 
+
+Lalu bergeser ke titik lainnya di Kampung Batiyah RT <TIMEX3 tid="t2" type="DATE" value="2019-11-03">03/11</TIMEX3> Kelurahan Setiawargi Kecamatan Tamansari. 
+
+Rumah milik Yaya tertimpa pohon yang tersapu angin kencang. 
+
+*** 
+</TEXT>
+
+</TimeML>

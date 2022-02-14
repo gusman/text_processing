@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1107</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Meninggal Saat Bencana Tsunami, Cindri Istri Bani Seventeen Tengah Mengandung Anak Kedua, Usia Janin</TITLE>
+
+<TEXT>
+Suasana duka menyelimuti rumah orangtua pemain bass band Seventeen, M Awal Purbani, di Dusun Gamping Tengah, Desa Ambarketawang, Sleman, <TIMEX3 tid="t1" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>. 
+
+Bani Seventeen, begitu ia biasa disebut, merupakan salah satu korban meninggal akibat tsunami Banten yang terjadi pada <TIMEX3 tid="t2" type="DATE" value="2018-12-22">Sabtu (22/12/2018)</TIMEX3>. 
+
+" Kami mendapat kabar tadi <TIMEX3 tid="t3" type="TIME" value="2018-12-22TNI">malam</TIMEX3>. 
+
+Menantu saya (istri Bani) yang telepon, " ujar ayah M Awal Purbani, <TIMEX3 tid="t4" type="TIME" value="2018-12-23TMO">Fajar</TIMEX3> Wibowo saat ditemui Kompas. 
+
+com di rumah duka, <TIMEX3 tid="t5" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>. 
+
+Bahkan istri Bani yaitu Cindri tengah mengandung anak kedua mereka. 
+
+Diketahui janin masih berusia <TIMEX3 tid="t6" type="DURATION" value="P3M">3 bulan</TIMEX3>. 
+
+Bani dan band Seventeen merupakan penampil dalam sebuah acara gathering PLN di Tanjung Lesung Beach Resort, Banten, pada <TIMEX3 tid="t7" type="TIME" value="2018-12-22TNI">Sabtu malam</TIMEX3>. 
+
+Ketika mereka baru menyelesaikan lagu kedua, tiba-tiba gelombang tsunami menerjang panggung yang memunggungi pantai. 
+
+<TIMEX3 tid="t8" type="TIME" value="2018-12-23TMO">Fajar</TIMEX3> menuturkan Bani merupakan anak pertama dari lima bersaudara. 
+
+Bani baru menikah pada <TIMEX3 tid="t9" type="DATE" value="2015">2015 lalu</TIMEX3>. 
+
+// " <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">Sekarang ini</TIMEX3> istrinya sedang hamil <TIMEX3 tid="t11" type="DURATION" value="P3M">3 bulan</TIMEX3>. 
+
+Hamil anak kedua, " urainya. 
+
+<TIMEX3 tid="t12" type="TIME" value="2018-12-23TMO">Fajar</TIMEX3> menggambarkan Bani sebagai anak yang baik, bertanggung jawab, dan taat beribadah. 
+
+Ia juga merupakan tulang punggung keluarga. 
+
+" Sekolah adik-adiknya itu yang membiayai Bani. 
+
+Bahkan Bani itu bilang akan membiayai sekolah adiknya yang paling kecil, " ungkapnya. 
+
+Menurut <TIMEX3 tid="t13" type="TIME" value="2018-12-23TMO">Fajar</TIMEX3>, setiap tidak ada jadwal pentas, Bani sering mengajak anaknya main ke rumahnya. 
+
+" Terakhir ke sini itu <TIMEX3 tid="t14" type="DATE" value="2018-12-03">tanggal 3 Desember kemarin</TIMEX3>. 
+
+Ke sini sama anaknya, " ungkapnya. 
+
+Saat ke rumah, sebelum berangkat <TIMEX3 tid="t15" type="DATE" value="2018-12-05">tanggal 5 Desember 2018</TIMEX3>, Bani sempat mengatakan setelah pulang akan mengajak keluarga bepergian. 
+
+" Bani itu sempat bilang akan mengajak keluarga jalan-jalan. 
+
+Berangkat <TIMEX3 tid="t16" type="DATE" value="2018-12-05">tanggal 5 Desember</TIMEX3> ke Jakarta main (pentas) di sana, rencana pulang <TIMEX3 tid="t17" type="DATE" value="2018-12-22">tanggal 22 Desember</TIMEX3> tetapi ada job (acara gathering PLN) itu, " urainya. 
+
+Artikel ini telah tayang di Kompas. 
+
+com dengan judul " Ayah Sebut Istri Bani Seventeen Sedang Mengandung Anak Kedua ", 
+</TEXT>
+
+</TimeML>

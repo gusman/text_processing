@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_1072</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-07-10" temporalFunction="false" functionInDocument="CREATION_TIME">2015-07-10</TIMEX3></DCT>
+
+<TITLE>Garuda Tunda Dua Kali Penerbangan</TITLE>
+
+<TEXT>
+Abu vulkanik Gunung Raung telah membuat dua kali penerbangan Garuda Indonesia ke Jember mengalami delay sejak <TIMEX3 tid="t1" type="DATE" value="2015-06-29">29 Juni 2015</TIMEX3>. 
+
+" Peristiwa pertama terjadi <TIMEX3 tid="t2" type="DATE" value="2015-06">akhir Juni 2015</TIMEX3> atau <TIMEX3 tid="t3" type="DATE" value="PXD">beberapa hari</TIMEX3> setelah Raung dinyatakan berstatus Siaga. 
+
+Tertunda sampai <TIMEX3 tid="t4" type="TIME" value="2015-07-09T15:30">pukul 15.30 sore</TIMEX3>, baru berangkat. 
+
+Yang kedua tadi, berangkat dari Jember <TIMEX3 tid="t5" type="TIME" value="2015-07-09T12:37">pukul 12.37</TIMEX3> wib, " ujar Kepala UPT Bandara Notohadinegoro Jember Edy Purnomo kepada Surya, <TIMEX3 tid="t6" type="DATE" value="2015-07-10">Jumat (10/7/2015)</TIMEX3>. 
+
+<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> tidak ditemukan abu vulkanik di landasan pacu, hal ini berbeda dengan <TIMEX3 tid="t8" type="DATE" value="2015-06">akhir Juni lalu</TIMEX3>, dimana petugas menemukan abu tipis di landasan pacu. 
+
+" Kami juga lihat di rerumputan di sekitar landasan pacu dan kroscek ke PPGA Songgon. 
+
+Rupanya angin ke arah barat. 
+
+Itu <TIMEX3 tid="t9" type="TIME" value="2015-07-10TMO">pagi hari</TIMEX3>, namun <TIMEX3 tid="t10" type="TIME" value="2015-07-09TAF">siang harinya</TIMEX3> tidak. 
+
+Akhirnya pesawat delay sampai <TIMEX3 tid="t11" type="TIME" value="2015-07-09T15:30">pukul 15.30</TIMEX3> wib, " tutur Edy. 
+
+<TIMEX3 tid="t12" type="DATE" value="2015-07-10">Jumat (10/7/2015)</TIMEX3>, pihaknya tidak menemukan adanya abu vulkanik di Notohadinegoro, namun karena Kemenhub menerbitkan NOTAM untuk penutupan Notohadinegoro selama <TIMEX3 tid="t13" type="DURATION" value="PTXH">beberapa jam</TIMEX3>, pihaknya menuruti instruksi tersebut. 
+
+<TIMEX3 tid="t14" type="TIME" value="2015-07-09T11:00">Pukul 11.00</TIMEX3> wib, Bandara Notohadinegoro dibuka kembali <TIMEX3 tid="t15" type="TIME" value="2015-07-09T12:15">pukul 12.15</TIMEX3> wib, pesawat ATR Garuda Indonesia mendarat aman meskipun hanya membawa satu orang penumpang. 
+
+Padahal di catatan petugas tiket, terdapat 54 penumpang. 
+
+Rupanya 16 orang memilih tidak terbang karena penundaan dan menarik kembali uang tiket, sedangkan dari Jember, 35 orang tetap memilih terbang <TIMEX3 tid="t16" type="TIME" value="2015-07-09T12:37">pukul 12.37</TIMEX3> wib meskipun harus menunggu <TIMEX3 tid="t17" type="DURATION" value="PT3H">tiga jam</TIMEX3>. 
+
+.LIKE Facebook Page www.facebook.com/SURYAonlineFOLLOW www.twitter.com/portalSURYA 
+</TEXT>
+
+</TimeML>

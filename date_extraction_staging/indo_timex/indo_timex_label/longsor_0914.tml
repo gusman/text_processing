@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0914</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-03" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-03</TIMEX3></DCT>
+
+<TITLE>Tertutup Longsoran, Jalan Waa Banti  Terputus</TITLE>
+
+<TEXT>
+Hujan lebat yang mengguyur wilayah Distrik Tembagapura pada <TIMEX3 tid="t1" type="TIME" value="2020-01-01TAF">Rabu (1/1) siang</TIMEX3> menyebabkan longsornya bebatuan di tebing yang kemudian menutupi akses jalan menuju Kampung Waa Banti. 
+
+Besarnya batuan yang menutupi jalan mengakibatkan jalan tersebut tidak bisa dilalui hingga <TIMEX3 tid="t2" type="DATE" value="2020-01-02">Kamis (2/1) kemarin</TIMEX3>. 
+
+Kapolsek Tembagapura, AKP Hermanto, <TIMEX3 tid="t3" type="DATE" value="2020-01-02">Kamis kemarin</TIMEX3> menyebut proses pembersihan masih terus diupayakan dan diperkirakan masih akan terus dilakukan hingga <TIMEX3 tid="t4" type="DURATION" value="PXD">beberapa hari ke depan</TIMEX3>. 
+
+Selain besarnya material batuan yang menutupi ruas jalan, adanya tiga titik longsoran di area Utikini Lama hingga Kampung Longsoran juga menyebabkan belum rampungnya pembersihan hingga <TIMEX3 tid="t5" type="TIME" value="2020-01-02TAF">sore kemarin</TIMEX3>. 
+
+Turunnya material berupa batuan besar yang menghalangi akses jalan kami duga karena lebatnya hujan yang turun pada saat malam pergantian tahun, ujar Kapolsek dalam rilis tertulis yang diterima Radar Timika, <TIMEX3 tid="t6" type="DATE" value="2020-01-02">Kamis kemarin</TIMEX3>. 
+
+Dalam proses pembersihan, lanjut Kapolsek, pihak PT Freeport Indonesia juga memperbantukan satu unit excavator. 
+
+Karena besarnya material batu lanjut Kapolsek, upaya pembersihan sempat tertunda pelaksanaannya. 
+
+Pihaknya berupaya melakukan pembersihan material batuan tersebut pada <TIMEX3 tid="t7" type="DATE" value="2020-01-02">Kamis (2/1) kemarin</TIMEX3> dan pembersihan material diperkirakan memakan waktu setidaknya hingga <TIMEX3 tid="t8" type="DURATION" value="P3D">tiga hari</TIMEX3>. 
+
+Untuk sementara, akses jalan ke Waa Banti tidak bisa diakses karena longsoran tersebut, sebut Kapolsek Tembagapura. 
+
+(dcx) 
+</TEXT>
+
+</TimeML>

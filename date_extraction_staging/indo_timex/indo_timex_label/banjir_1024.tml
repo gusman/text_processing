@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1024</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-01" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-01</TIMEX3></DCT>
+
+<TITLE>Pasca Banjir, Warga Mamuju Bersihkan Rumah</TITLE>
+
+<TEXT>
+Banjir yang menggenangi sejumlah kelurahan di Kota Mamuju, Sulawesi Barat akibat guyuran hujan deras pada <TIMEX3 tid="t1" type="DATE" value="2019-02-28">Kamis (28/2/2019)</TIMEX3> sejak <TIMEX3 tid="t2" type="TIME" value="2019-02-28T19:00">pukul 19.00</TIMEX3> Wita, terlihat mulai surut. 
+
+Berdasarkan pantauan di kawasan Kelurahan Simboro, Kecamatan Mamuju, terlihat warga tengah membersihkan pelataran rumah dan sejumlah perabotan rumah tangga dari sisa-sisa banjir akibat hujan deras yang mengguyur kota MamujuSebelumnya, hujan deras mengguyur kota Mamuju dan sekitarnya hingga membuat pemukiman warga digenangi setinggi kurang lebih 1,5 meter. 
+
+Akibatnya, endapan lumpur ikut terbawa. 
+
+Sedangkan banjir di wilayah lainnya seperti di Jalan Andi Depu, Abd. 
+
+Wahab Asasi dan jalan Muh. 
+
+Tahir Imam Lapeo juga mulai surut. 
+
+Sebelumnya, daerah yang terdampak itu meliputi Kelurahan Binanga, Rimuku, Karema dan Simboro. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> memang sudah mulai surut tapi dampaknya masih ada genangan yang cukup tinggi, tutur Warga Binanga, Aswad. 
+
+<TIMEX3 tid="t4" type="DATE" value="2019-03-01">Jumat (1/3/2019)</TIMEX3>. 
+
+Ia pun mengimbau agar pemerintah mengevaluasi potensi bencana agar lebih siap menghadapi situasi ke depan. 
+
+Secara umum saya rasa hampir seluruh wilayah Kota Mamuju mempunyai potensi untuk terkena dampak. 
+
+Mungkin yang harus kita waspadai mulai <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> masalah saluran drainase dan sumbatan akibat sampah, ujarnya. 
+
+(usman) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1139</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-29" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-29</TIMEX3></DCT>
+
+<TITLE>Kodim 0309/Solok Bantu Warga Korban Banjir Bandang di Solok Selatan</TITLE>
+
+<TEXT>
+Pasca banjir yang melanda 9 Nagari di Empat Kecamatan wilayah Kabupaten Solok Selatan Provinsi Sumatera Barat pada Jum at, <TIMEX3 tid="t1" type="DATE" value="2019-11-22">22 November lalu</TIMEX3> telah mengakibatkan kerugian yang tidak sedikit kepada masyarakat. 
+
+Tidak ada korban jiwa dalam musibah itu, namun sejumlah fasilitas umum seperti jembatan rusak dan puluhan rumah tak lagi bisa ditinggali. 
+
+Beberapa kampung juga terisolir karena akses yang tertutup longsor. 
+
+Sampai <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> telah dilakukan berbagai kegiatan perbantuan dalam hal membantu dampak banjir tersebut. 
+
+Selain obat-obatan, dana bantuan juga telah disalurkan ke lokasi pengungsian yang tersebar di empat titik yakni Pasir Panjang, Sapan Salak, Sapan Batu dan Balai Adat Nagari Pakan Rabaa. 
+
+Komandan Kodim 0309/Solok Letkol Arh. 
+
+Prio Iswahyudi telah mengerahkan personelnya untuk bersama sama dengan pemerintah daerah, Polri, BPBD setempat dan masyarakat untuk mengatasi kesulitan masyarakat yang terkena dampak. 
+
+Menindaklanjuti perintah Dandim, Kapten Inf Afrizal selaku Danramil 03/Muara Labuh langsung mengambil langkah berkoordinasi dan bersama sama dengan masyarakat melaksanakan gotong royong, bahu membahu membantu korban banjir di semua wilayah yang terkena dampak banjir. 
+
+Dengan melakukan pembersihan material banjir bandang dan tanah longsor menggunakan alat berat berupa wheeloder dan excavator. 
+
+Bencana alam banjir yang disebabkan oleh hujan yang cukup lama membuat Sungai Batang Liki meluap sampai menggenangi beberapa rumah warga dan menggenangi jalan raya yang menghubungkan Kab. 
+
+Solok Selatan dengan Kota Padang. 
+
+Dari pihak BNPB mencatat, sebanyak 1.952 rumah terendam, 26 rumah rusak, dan 14 bangunan lainnya mengalami kerusakan. 
+
+Kemudian, lima jembatan untuk akses 6.000 orang terputus, dua unit irigasi rusak, hingga 29 hektar sawah rusak. 
+
+Selain kegiatan pembersihan material sisa banjir bandang, TNI bersama dengan pemerintah daerah juga membuka posko pelayanan kesehatan gratis dan pelayanan trauma healing pada para korban bencana banjir dan longsor. 
+
+Upaya ini untuk mengembalikan kepercayaan diri dan mental korban, terutama anak-anak dan balita. 
+
+penrem 032/wbreditor; saptarius 
+</TEXT>
+
+</TimeML>

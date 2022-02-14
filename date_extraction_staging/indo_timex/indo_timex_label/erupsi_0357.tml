@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0357</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-07-04" temporalFunction="false" functionInDocument="CREATION_TIME">2018-07-04</TIMEX3></DCT>
+
+<TITLE>Luhut Anggap Erupsi Gunung Agung Tak Ganggu Pertemuan IMF-Word Bank</TITLE>
+
+<TEXT>
+Menteri Koordinator Bidang Kemaritiman Luhut Binsar Pandjaitan menyatakan erupsi Gunung Agung di Karangasem, Bali <TIMEX3 tid="t1" type="DURATION" value="PXD">beberapa hari</TIMEX3> belakangan ini, tidak akan mengganggu Pertemuan Tahunan IMF-World Bank. 
+
+Pertemuan tersebut rencananya tetap diadakan pada <TIMEX3 tid="t2" type="DATE" value="2018-10">Oktober 2018</TIMEX3> di Nusa Dua, Bali. 
+
+Pasti, kalau (erupsi Gunung Agung) itu tidak mengganggu (Annual Meeting IMF-World Bank), Kata Luhut di Jakarta pada <TIMEX3 tid="t3" type="DATE" value="2018-07-03">Selasa (3/7)</TIMEX3>. 
+
+Luhut yang juga Ketua Panitia Nasional Pertemuan Tahunan IMF-Bank Dunia menyampaikan, berdasarkan laporan yang dia terima, erupsi Gunnung Agung dinilainya masih relatif kecil, diibaratkan seperti batuk-batuk. 
+
+Dia menyatakan letusan Gunung Agung <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> berbeda dengan letusan Gunung Agung pada <TIMEX3 tid="t5" type="DATE" value="1963">1963</TIMEX3> yang memakan korban hingga 1.100 jiwa. 
+
+" Kalau yang saya dapat laporan itu meletus-meletus seperti Gunung Sinabung, " katanya. 
+
+(. 
+
+Sementara secara geografis, Gunung Agung terletak 65 kilometer dari Denpasar dan 73 km dari Nusa Dua. 
+
+Dia juga mengatakan selama <TIMEX3 tid="t6" type="DURATION" value="P10Y">10 tahun</TIMEX3> terakhir <TIMEX3 tid="t7" type="SET" value="XXXX-10">setiap Oktober</TIMEX3> saat perhelatan Annual Meeting IMF-Bank Dunia, arah angin akan bertiup ke arah timur laut. 
+
+" Jadi hampir tidak ada masalah. 
+
+Pasti tak ganggu (pertemuan), " kata Luhut. 
+
+Sejak <TIMEX3 tid="t8" type="DATE" value="2018-07-02">Senin (2/7)</TIMEX3> Gunung Agung mengeluarkan abu vulkanik dengan kawah api berwarna kemerahan. 
+
+Meski aktivitas meningkat namun status Gunung Agung masih dalam level III siaga dengan rekomendasi tidak melakukan aktivitas di zona prakiraan bahaya di dalam radius empat kilometer dari puncak kawah. 
+
+Satuan Tugas Tanggap Darurat di Kabupaten Karangasem, Bali, mencatat jumlah pengungsi Gunung Agung bertambah menjadi 2.731 orang hingga <TIMEX3 tid="t9" type="TIME" value="2018-07-03T18:00">Selasa (3/7) pukul 18.00 WITA</TIMEX3> yang tersebar di 28 titik di Karangasem dan Gianyar. 
+
+(
+</TEXT>
+
+</TimeML>

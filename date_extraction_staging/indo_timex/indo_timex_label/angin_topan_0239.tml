@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0239</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2016-09-29</TIMEX3></DCT>
+
+<TITLE>Dihantam Badai, Atap Musala Ambruk</TITLE>
+
+<TEXT>
+Hujan deras disertai badai yang melanda Kepahiang, <TIMEX3 tid="t1" type="TIME" value="2016-09-26TNI">Senin malam</TIMEX3> (27/9) mengakibatkan bagian teras Musala Al-Fatah di Jalan Ketapang Kelurahan Dusun Kepahiang, ambruk. 
+
+Saksi mata kejadian Katima (80) menuturkan, kejadian tersebut nyaris menelan korban jiwa. 
+
+Sebab saat angin melanda ada dua bocah tengah bermain di teras musala yang berada tepat di depan rumahnya tersebut. 
+
+Beruntung ajo belum ada anak-anak ngaji <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">waktu itu</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3> ujan deras anak-anak yang main saya suruh masuk ke dalam rumah. 
+
+Belum lama itu atap terasnya ambruk, ujarnya. 
+
+Katima menjelaskan, bila atap teras yang terbuat dari rangka baja tersebut baru selesai dibangun sebelum <TIMEX3 tid="t4" type="DATE" value="2016-09-28">hari raya Idul Fitri lalu</TIMEX3>. 
+
+Sehingga kualitas bangunan masih sangat baik, tetapi karena derasnya angin melanda membuat atap melayang dan tiangnya lepas. 
+
+Anginnya sangat kencang, mana petir juga sewaktu kejadian hari ujan deras, ungkapnya. 
+
+Nurwi (37), warga lainnya menyebutkan, bila kejadian angin kencang kerap kali melanda kawasan tersebut. 
+
+Namun untuk kecepatan angin sangat dahsyat tersebut baru pertama kali terjadi, sampai akhirnya menghancurkan atap musala tersebut. 
+
+Kalau angin kencang memang kerap terjadi di sini, namun untuk yang kencang seperti <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">kemarin baru</TIMEX3> sekarang ini terjadi, tuturnya. 
+
+Masih Melanda Kepala BMKG Kepahiang, Litman mengatakan, bila potensi angin kencang masih akan melanda kawasan Kepahiang dan sekitarnya hingga <TIMEX3 tid="t6" type="DATE" value="2016-09-29">tanggal 29 September</TIMEX3>. 
+
+Tetapi untuk kekuatan angin akan lebih rendah dibandingkan dengan <TIMEX3 tid="t7" type="DATE" value="2016-09-26">Senin lalu</TIMEX3>. 
+
+Puncaknya sudah lewat, namun angin kencang masih ada. 
+
+Kita sudah sampaikan peringatan dini kepada masyarakat, ujar Litman. 
+
+Menurutnya, potensi hujan lebat dan sedang disertai angin kencang petir sudah berlangsung sejak <TIMEX3 tid="t8" type="DATE" value="2016-09-26">tiga hari lalu</TIMEX3>, bahkan diperkirakan masih melanda hingga <TIMEX3 tid="t9" type="DATE" value="2016-09-29">hari ini</TIMEX3>. 
+
+(320) 
+</TEXT>
+
+</TimeML>

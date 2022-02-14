@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0292</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-02" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-02</TIMEX3></DCT>
+
+<TITLE>Longsor, Akses Monano   Sumalata di Desa Sogu Tertimbun Tanah</TITLE>
+
+<TEXT>
+Akses jalan trans Sulawesi (Gorontalo Buol) yang menghubungkan Kecamatan Monano dan Sumalata di Desa Sogu tertimbun longsor. 
+
+Informasi yang diterima, bencana tanah longsor telah terjadi <TIMEX3 tid="t1" type="TIME" value="2020-03-01T03:00">sekitar pukul 03.00</TIMEX3> wita <TIMEX3 tid="t2" type="TIME" value="2020-03-02TMO">dini hari</TIMEX3>. 
+
+Dari <TIMEX3 tid="t3" type="TIME" value="2020-03-01T03:00">jam 3</TIMEX3> saya di sini, memang sudah dalam kondisi seperti begini (tanah longsor), ungkap Yasin, salah seorang warga yang akan melintas di wilayah tersebut. 
+
+Kondisi itu membuat akses kendaraan, baik roda 2 maupun roda 4 menjadi terhambat. 
+
+Pantauan di lapangan, beberapa kendaraan bahkan sangat sulit melintas. 
+
+Membutuhkan skill dan keberanian lebih, karena kondisi longsor berada di area jalan menanjak, sehingga kendaraan, terlebih yang melintas dari arah Sumalata harus ekstra hati-hati, karena licinnya kondisi jalan yang telah tertimbun material tanah bercampur air sisa hujan <TIMEX3 tid="t4" type="DURATION" value="2020-03-01TNI">semalam</TIMEX3>. 
+
+Sementara itu, tanah longsor juga terjadi di desa lainnya di Kecamatan Monano, yakni Desa Tolitehuyu, tanah longsor bahkan ikut menimbun bengkel milik salah seorang warga setempat. 
+
+Iya, di Desa Tolitehuyu juga terjadi longsor dan menghantam bengkel milik warga setempat. 
+
+Diduga akibat robohnya pohon jati yang ikut berbawaan dengan material tanah, imbuh Kapolsek Anggrek Ipda Jaka Wiharja. 
+
+Sementara hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tim gabungan Kodim 1314/Gorut dan Polres Gorut yang ditambah anggota Brigif 22/Ota Manasa dan masyarakat masih membersihkan material tanah yang menutupi sebagian besar badan jalan. 
+
+(ind-56) 
+</TEXT>
+
+</TimeML>

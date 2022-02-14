@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0035</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-09" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-09</TIMEX3></DCT>
+
+<TITLE>400 Hektar Sawah di Pidie Jaya Terendam Banjir</TITLE>
+
+<TEXT>
+Tidak kurang dari 400 hektare lahan sawah di Pidie Jaya yang sebagiannya sudah menyemai bibit, terendam oleh banjir, menyusul hujan deras yang mengguyur kawasan tersebut sejak <TIMEX3 tid="t1" type="TIME" value="2018-12-08TAF">Sabtu (8/12/2018) sore</TIMEX3>. 
+
+Selain itu, ruas jalan gampong dan antarkecamatan serta permukiman warga di tiga kecamatan juga digenangi air rata-rata 40 centimeter. 
+
+Wilayah yang tergenang yaitu Kecamatan Meureudu, Ulim dan Meurahdua. 
+
+Di beberapa kawasan, banjir disebabkan drainase atau saluran pembuang yang tersumbat. 
+
+Warga yang tinggal di sepanjang daerah aliran sungai (DAS) pun was-was denganb kemungkinan meluapnya air sungai. 
+
+. 
+
+Di Kecamatan Ulim, banjir menggenangi sawah di kawasan Tijien Daboh, Tijien Usen, Geulanggang, Bueng, serta Blang Dayah Leubue. 
+
+Sedangkan di Meureudu, kawasan yang terendam yakni persawahan di Gampong Dayah Timu, Bunot, Manyang Lancok, Teupin Peuraho, Rhieng Krueng, dan Rhieng Mancang. 
+
+. 
+
+Namun menjelang <TIMEX3 tid="t2" type="TIME" value="2018-12-08TAF">siang</TIMEX3>, air berangsur surut. 
+
+(*) 
+</TEXT>
+
+</TimeML>

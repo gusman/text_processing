@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0179</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-18" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-18</TIMEX3></DCT>
+
+<TITLE>Asap Kiriman Ganggu Penerbangan di Kota Batam</TITLE>
+
+<TEXT>
+Dua penerbangan pesawat tujuan Anambas dan Bengkulu batal berangkat dari Bandara Hang Nadim Batam, <TIMEX3 tid="t1" type="DATE" value="2019-09-17">Selasa (17/9/2019)</TIMEX3>. 
+
+Sedangkan 5 rute penerbangan lainnya harus mengalami delay atau ditunda berangkat karena faktor cuaca, utamanya kabut asap. 
+
+Seorang penumpang pesawat tujuan Anambas, Edi Supritna, mengaku kecewa karena batal berangkat ke Anambas. 
+
+Padahal, ia sudah mempersiapkan segala sesuatunya <TIMEX3 tid="t2" type="DATE" value="P1D">sehari</TIMEX3> sebelum berangkat. 
+
+Nyampe bandara pun tadi lebih awal, jadwal berangkat <TIMEX3 tid="t3" type="TIME" value="2019-09-17T12:30">pukul 12.30 WIB</TIMEX3>, katanya. 
+
+Setelah delay <TIMEX3 tid="t4" type="DURATION" value="PT2H">dua jam</TIMEX3>, kemudian ada pengumuman pembatalan keberangkatan habis salat Asar, kata Edi lagi. 
+
+Meski kecewa, Edi tak bisa berbuat banyak. 
+
+Sebab, alasan pembatalan karena cuaca di daerah tujuan sedang tidak bagus. 
+
+Jarak pandang terlalu pendek untuk penerbangan dan pendaratan pesawat. 
+
+Kalau untuk alasan keselamatan, ya sudahlah. 
+
+Padahal kami ada acara di sana, ujar Edi lagi. 
+
+Direktur Badan Usaha Bandar Udara (BUBU) Hang Nadim Batam, Suwarso, mengatakan, pembatalan keberangkatan penerbangan karena faktor cuaca. 
+
+Asap membuat jarak pandang kurang dari 1.000 meter untuk daerah Anambas dan Bengkulu. 
+
+Untuk rute Anambas kata dia, yang seharusnya berangkat <TIMEX3 tid="t5" type="TIME" value="2019-09-17T12:30">12.30 WIB</TIMEX3>, dibatalkan berangkat <TIMEX3 tid="t6" type="TIME" value="2019-09-17T15:30">pukul 15.30 WIB</TIMEX3>.Sedangkan rute Bengkulu dibatalkan berangkat <TIMEX3 tid="t7" type="TIME" value="2019-09-17T17:00">pukul 17.00 WIB</TIMEX3>. 
+
+Untuk Letung (Anambas) sudah <TIMEX3 tid="t8" type="DURATION" value="P2D">dua hari</TIMEX3> batal berangkat. 
+
+Jarak pandang di sana kurang dari 600 meter. 
+
+Sedangkan Bengkulu baru <TIMEX3 tid="t9" type="DATE" value="2019-09-18">hari ini</TIMEX3>, ujar Suwarso kepada Batam Pos.Sementara untuk penerbangan yang tertunda lainnya yakni tujuan Pontianak, Surabaya, Natuna, Jambi, dan Pekanbaru.Rata-rata penerbangan tertunda satu hingga <TIMEX3 tid="t10" type="DURATION" value="PT3H">tiga jam</TIMEX3> karena alasan cuaca atau kabut asap juga. 
+
+Demi faktor keamanan, penerbangan ditunda. 
+
+Tak mungkin dipaksa berangkat dengan cuaca yang seperti itu, jelasnya.Untuk rute Pontianak dan Pekanbaru juga sudah <TIMEX3 tid="t11" type="DURATION" value="PXD">beberapa hari</TIMEX3> delay, ujarnya lagi.Dijelaskan Suwarso, meski kabut asap menyelimuti Batam, penerbangan untuk Batam sebenarnya tak terganggu.Hanya saja yang membuat batal dan delay keberangkatan karena cuaca di daerah tujuan.Jarak pandang di Hang Nadim Batam sudah 9.000 meter, artinya tak ada gangguan sama sekali, katanya.Apalagi Hang Nadim Batam memiliki panjang landasan 4.025 meter, ujarnya lagi. 
+
+0Di tempat berbeda, Kepala Seksi Data dan Informasi BMKG Hang Nadim Batam, Suratman, mengatakan, kiriman asap dari daerah lain di Kepri maupun dari Sumatera ke Batam masih terjadi hingga <TIMEX3 tid="t12" type="DATE" value="2019-09-17">kemarin</TIMEX3>.Jarak pandang untuk wilayah Batam juga sudah sempat di atas 9 kilometer.Siang tadi sudah 9 kilometer, namun <TIMEX3 tid="t13" type="TIME" value="2019-09-18TAF">sore ini</TIMEX3> sudah turun lagi jadi 7 kilometer, paparnya.Jarak pandang <TIMEX3 tid="t14" type="TIME" value="2019-09-17TAF">siang</TIMEX3> dibantu karena adanya matahari, imbuh Suratman.Suratman menyatakan, kebakaran hutan masih terjadi di Natuna. 
+
+Hal itu berakibat kabut asap di daerah Natuna hingga Anambas.(she) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0005</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-04-10" temporalFunction="false" functionInDocument="CREATION_TIME">2017-04-10</TIMEX3></DCT>
+
+<TITLE>Empat Rumah Warga Rusak Dihantam Puting Beliung</TITLE>
+
+<TEXT>
+Sebanyak empat rumah warga Desa Amaiteng Mulia, Kecamatan Simeulue Timur, Simeulue diterjang puting beliung, <TIMEX3 tid="t1" type="TIME" value="2017-04-09T15:00">sekitar pukul 15:00 WIB</TIMEX3>, Ahad <TIMEX3 tid="t2" type="DATE" value="2017-04-09">(9/4)</TIMEX3>. 
+
+Akibat terjangan puting beliung itu menyebabkan rumah warga porak poranda, bahkan membawa atap rumah sejauh 50 meter dari tempat semula. 
+
+Hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3>, informasi yang dihimpun Rakyat Aceh, belum mendapatkan adanya korban jiwa dan kerugian akibat peristiwa tersebut. 
+
+Sekda Simeulue, Naskah Bin Kamar, mengatakan, akibat kejadian tersebut membuat sebagian wargar masih panik. 
+
+Ia tiba di lokasi untuk minijau langsung kerusakan yang diakibatkan puting beliun itu sekira <TIMEX3 tid="t4" type="TIME" value="2017-04-09T17:00">pukul 17.00 WIB</TIMEX3>. 
+
+Ada 4 rumah warga yang rusak di hantam angin puting beliung?, dan ini tahap pasca panik, katanya. 
+
+Di lokasi kejadian sejumlah personel Badan Penganggulangan Bencana Daerah (BPBD) Simeulue sudah diterjunkan dan sudah mendirikan tenda darurat Kempat rumah rusak tersebut diketahui berkontruksi semi permanen dan rangka baja (shelter)itu milik Rahmadin, Yusmina, M. 
+
+Khoni dan Wahyudin. 
+
+Sementara pihak BPBD Simeulue, masih melakukan perhitungan estimasi kerugian. 
+
+Kita masih melakukan pendataan dan perhitungan estimasi kerugian, kata Kepala BPBD Simeulue, Ikhsan Mikaris. 
+
+(ahi/linga). 
+
+
+</TEXT>
+
+</TimeML>

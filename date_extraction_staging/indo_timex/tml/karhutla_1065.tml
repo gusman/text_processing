@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1065</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-02-28" temporalFunction="false" functionInDocument="CREATION_TIME">2016-02-28</TIMEX3></DCT>
+
+<TITLE>68 Hotspot di Sumatera, Ada 6 Titik di Sumbar</TITLE>
+
+<TEXT>
+Badan Meteorologi Klimatologi dan Geofisika (BMKG) Stasiun Pekanbaru menyebut titik panas di Sumatera meningkat menjadi 68 titik tersebar pada enam provinsi dari sebelumnya 58 titik.
+
+Di Sumbar ada enam titik.
+
+Dari pantauan sensor modis terpasang di satelit Terra dan Aqua, hari ini terdapat 68 titik panas atau titik merupakan tertinggi sepanjang pekan ini, kata Kepala Seksi Data dan Informasi BMKG Stasiun Pekanbaru, Slamet Riyadi di Pekanbaru, Ahad.
+
+Slamet menjelaskan enam puluhan lebih titik panas tersebut tersebar di Riau sebanyak 28 titik dan merupakan wilayah konsentrasi titik panas Sumatera dan diikuti Sumatera Utara terpantau 17 titik.
+
+Lalu di Bengkulu terdapat sembilan titik panas, Nanggroe Aceh Darussalam sebanyak tujuh.
+
+Sumatera Barat enam titik dan terakhir Provinsi Kepulauan Riau terpantau satu titik panas.
+
+Ke-28 titik panas di Riau terdapat pada empat daerah dari 12 kabupaten/kota seperti Bengkalis 19 titik, lalu Pelalawan terpantau lima hot spot, Siak sebanyak tiga titik dan Indragiri Hilir satu titik panas.
+
+Tingkat confidence (kepercayaan) di atas 70 persen atau pertanda titik api terdapat di Bengkalis 18 titik dengan wilayah Bukit Batu dan Mandau, lalu Pelalawan 4 titik berada di wilayah Kuala Kampar dan Indragiri Hilir 1 titik,  ucap dia.
+
+(*/lek) Sumber:  
+</TEXT>
+
+</TimeML>
+

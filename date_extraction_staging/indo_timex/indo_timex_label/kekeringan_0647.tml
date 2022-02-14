@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0647</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-07" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-07</TIMEX3></DCT>
+
+<TITLE>3 Pulau di Sumenep Diberi Bantuan Air Bersih, BPBD Drop 160 Juta Liter Air selama Kemarau di Jatim</TITLE>
+
+<TEXT>
+Kepala BPBD Jatim, Subhan Wahyudiono mengatakan, sudah sebanyak 160 juta liter air bantuan bersih yang didrop ke kabupaten/kota di Jawa Timur selama <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau 2019</TIMEX3>. 
+
+Subhan Wahyudiono menuturkan, 160 juta liter air bersih itu untuk menanggulangi kekeringan yang terjadi di 28 kabupaten/kota di Jawa Timur. 
+
+" Sampai <TIMEX3 tid="t2" type="DATE" value="2019-10">akhir bulan Oktober kemarin</TIMEX3> sudah 160 juta liter air bersih yang kita drop ke daerah-daerah, " kata Subhan Wahyudiono, <TIMEX3 tid="t3" type="DATE" value="2019-11-06">Rabu (6/11/2019)</TIMEX3>. 
+
+. 
+
+Subhan Wahyudiono menuturkan, bantuan air bersih <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tengah disalurkan ke kawasan kepulauan Kabupaten Sumenep. 
+
+Total ada sebanyak 500 ton air bersih yang dibawa dari Kota Surabaya ke kawasan kepulauan Kabupaten Sumenep. 
+
+Wilayah Kabupaten Sumenep yang diberi bantuan air bersih di antaranya, Pulau Sapudi, Pulau Kangean, dan Pulau Gili Genting. 
+
+Secara simbolis, penyerahan distribusi air bersih tersebut sudah dilakukan oleh Gubernur, Khofifah Indar Parawansa. 
+
+" Di kepulauan ada tiga pulau yang mengalami kekeringan. 
+
+Di Sapudi, Kangean dan Gili Genting, " ungkap Subhan Wahyudiono. 
+
+// " Kita drop air bersih di Kangean sebanyak 200 ton air bersih, di Sapudi 150 ton, dan di Gili Genting 150 ton juga, " tambah dia. 
+
+. 
+
+Sebelumnya, distribusi bantuan air bersih yang dilakukan Pemprov Jatim belum sampai ke kawasan kepulauan. 
+
+Hal tersebut dikatakan Subhan, merupakan komitmen gubernur dalam melakukan aksi responsif saat terjadi bencana. 
+
+Selain itu, tak hanya mengirimkan air bersih yang menjadi upaya Pemprov dalam mengatasi kekeringan di Jawa Timur. 
+
+Sebagai upaya jangka menengah, Pemprov Jawa Timur juga akan mrlakukan pipanisasi sumber air yang memungkinkan ke kawasan pemukiman masyarakat. 
+
+" Untuk jangka menengah, kita <TIMEX3 tid="t5" type="DATE" value="2019-11-06">kemarin</TIMEX3> sudah rapat wabup Sumenep dan Dinas ESDM, untuk di Sapudi ada beberapa sumber air yang butuh pipanisasi, " ungkap dia. 
+
+" Kita sudah assessment dan dalam waktu dekat kita akan lakukan pembangunan jaringan pipanisasi di sana, " tegas Subhan. 
+
+
+</TEXT>
+
+</TimeML>

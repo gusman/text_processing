@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0412</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-09-20" temporalFunction="false" functionInDocument="CREATION_TIME">2014-09-20</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS: Puting Beliung Robohkan  4 Rumah di Cipayung</TITLE>
+
+<TEXT>
+Hujan lebat disertai angin kencang, melanda pemukiman di RT <TIMEX3 tid="t1" type="DATE" value="2014-06">06/06</TIMEX3> Kelurahan Cipayung, Jakarta Timur. 
+
+Sebanyak empat rumah ambruk dan melukai tiga orang. 
+
+Tiga korban, Joko (40), Noel (10), dan Rita (38), pun dilarikan ke Rumah Sakit Umum Daerah Pasar Rebo, Jakarta Timur. 
+
+Lamhot Tampubolon (38), salah satu warga, yang juga suami dari korban, Rita, mengatakan, peristiwa tersebut terjadi sekira <TIMEX3 tid="t2" type="TIME" value="2014-09-19T16:30">pukul 16.30</TIMEX3>. 
+
+" Kemungkinan angin puting beliung. 
+
+Karena cukup kencang dan bareng sama hujan, " kata Lamhot, di lokasi, <TIMEX3 tid="t3" type="DATE" value="2014-09-20">Sabtu (20/9/2014)</TIMEX3>. 
+
+<TIMEX3 tid="t4" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, lanjutnya, tiba-tiba angin meruntuhkan rumah berlantai dua milik Adam (50). 
+
+Rumah berukuran 6x10 meter tersebut, ambruk di bagian samping kanannya. 
+
+" <TIMEX3 tid="t5" type="DATE" value="PAST_REF">Saat itu</TIMEX3> saya lagi di warung tetangga. 
+
+Kira-kira 10 meter dari rumah kontrakan. 
+
+Tahu-tahu rumah Adam ambruk. 
+
+Rumah itu menimpa rumah kontrakan saya dan dua kontrakan lainnya, " katanya. 
+
+Istrinya, Rita yang sedang menonton tv itu, langsung ke luar rumah ketika mendengar ambruknya rumah tersebut. 
+
+Posisi Rita yang dekat dengan lokasi kejadian, langsung tertimpa atap bangunan. 
+
+" Tetangga saya Joko dan Noel, juga tertimpa, karena rumahnya berdampingan. 
+
+Semuanya luka di kepala, badan, dan tangan, " katanya. 
+
+Mengetahui kejadian tersebut, Lamhot, pun meminta pertolongan kepada warga. 
+
+Kemudian, warga langsung membawa seluruh korban RSUD Pasar Rebo. 
+</TEXT>
+
+</TimeML>

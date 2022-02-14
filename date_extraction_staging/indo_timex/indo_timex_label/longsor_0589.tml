@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0589</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-11-12" temporalFunction="false" functionInDocument="CREATION_TIME">2017-11-12</TIMEX3></DCT>
+
+<TITLE>Gawat! Tebing Jalan Purukcahu-Muara Teweh Longsor, Kendaraan Tak Bisa Lewat</TITLE>
+
+<TEXT>
+Hujan lebat disertai angin kencang yang terjadi di Kalimantan Tengah, <TIMEX3 tid="t1" type="TIME" value="2017-11-12TAF">Minggu (12/11/2017) siang</TIMEX3> mengakibatkan tebing longsor di jalan penghubung antara Muara Teweh (Barito Utara) dan Purukcahu (Murungraya) Kalimantan Tengah. 
+
+Longsor terjadi di jalan negara Purukcahu-Muarateweh atau sekitar kilometer 80. 
+
+. 
+
+" Banyak kendaraan tertahan di arah Muarateweh maupun sebaliknya dari arah Purukcahu, setelah kejadian longsor tersebut, " ujarnya. 
+
+(TRIBUNKALTENG. 
+
+COM/faturahman) 
+</TEXT>
+
+</TimeML>

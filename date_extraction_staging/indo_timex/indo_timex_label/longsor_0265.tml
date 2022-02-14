@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0265</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-05" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-05</TIMEX3></DCT>
+
+<TITLE>Ngeri ! Ini Video Detik-detik Korban Longsor di Puncak Ditemukan</TITLE>
+
+<TEXT>
+Petugas gabungan akhirnya dapat mengevakuasi korban yang tertimbun longsor di jalur Puncak, Kabupaten Bogor, <TIMEX3 tid="t1" type="DATE" value="2018-02-05">Senin (5/2/2018)</TIMEX3>. 
+
+Saat ditemukan korban sudah dalam kondisi meninggal dunia. 
+
+Petugas yang berhasil menemukan jasad korban dari timbunan longsor pun langsung mengangkat tubuh korban yang sudah dipenuhi tanah merah. 
+
+Saat proses evakuasi berlangsung, ratusan warga pun tampak bergerumut disekitar lokasi kejadian. 
+
+Sebagain dari mereka ada yang membantu petugas dalam melakukan evakuasi. 
+
+Sebagian lainnya hanya untuk melihat proses evakuasi berlangsung di titik longsoroan jalan raya utama Puncak tersebut. 
+
+Aparat kepolisian, TNI hingga Tim SAR tampak sibuk melakukan evakuasi. 
+
+Terlebih terdapat sejumlah warga yang menjadi korban bencana longsor itu. 
+
+Kasatlantas Polres Bogor, AKP Hasby Ristama mengatakan pihaknya bersama tim evakuasi gabungan <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah berhasil menemukan dua orang korban yang tewas tertimbun longsor yang terjadi di Puncak Bogor, <TIMEX3 tid="t3" type="DATE" value="2018-02-05">Senin (5/2/2018)</TIMEX3>. 
+
+Korban tersebut merupakan warga yang berada di warung yang berlokasi di sekitaran Mesjid Attaawun. 
+
+// " Betul, ada dua yang tewas dan tiga luka-luka dibawa ke RSUD Cimacan, itu pemilik warung di sekitaran Mesjid Attawun, " ungkap Hasby, <TIMEX3 tid="t4" type="DATE" value="2018-02-05">Senin (5/2/2018)</TIMEX3>. 
+
+Selain itu, empat korban yang dikabarkan tertimbun di kawasan Riung Gunung <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">kini</TIMEX3> masih belum ditemukan. 
+
+" Informasi korban yang tertimbun masih dalam pencarian, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> kita masih evakuasi longsor, " kata AKP Hasby. 
+
+Sampai <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> diketahui akibat longsor di Puncak Bogor total korban tewas terhitung ada dua korban dan korban luka-luka berjumlah empat orang. 
+
+Sementara itu, sampai <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> di Riung Gunung terpantau <TIMEX3 tid="t9" type="TIME" value="2018-02-04T14:50">pukul 14.50 WIB</TIMEX3>, para petugas gabungan bersama TNI masih melakukan evakuasi longsor dibantu alat berat. 
+
+Berikut ini videonya: 
+</TEXT>
+
+</TimeML>

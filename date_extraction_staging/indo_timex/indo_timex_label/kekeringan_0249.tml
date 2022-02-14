@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0249</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-20" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-20</TIMEX3></DCT>
+
+<TITLE>Kemarau Panjang, Warga Mulai Kesulitan Air</TITLE>
+
+<TEXT>
+Krisis air melanda warga Kelurahan Talang Saling Kecamatan Seluma dalam <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">sepekan ini</TIMEX3>. 
+
+Hal ini diakibatkan kemarau yang sudah <TIMEX3 tid="t2" type="DURATION" value="P1M">hampir satu bulan</TIMEX3> lebih melanda wilayah Kabupaten Seluma. 
+
+Werti Nengsih (28) salah satu warga Rt 4 Kelurahan Talang Saling mengatakan, kekeringan ini sudah melandanya semenjak <TIMEX3 tid="t3" type="DURATION" value="P1W">sepekan</TIMEX3> bulan ini, akibat panas yang sudah <TIMEX3 tid="t4" type="DURATION" value="P1M">hampir satu bulan</TIMEX3> lebih. 
+
+Sepeken ini sumur kami ada dua buah sudah kering semua. 
+
+<TIMEX3 tid="t5" type="DURATION" value="P1M">Hampir satu bulan</TIMEX3> lebih hujan tidak turun. 
+
+Ada air sungai kecil yang kita menfaatkan, tapi kotor, ujarnya, <TIMEX3 tid="t6" type="DATE" value="2019-08-20">Selasa (20/8/2019)</TIMEX3>. 
+
+Sampainya, penderitaan kekeringan air ini juga dirasakan warga lainnya, seperti halnya disampaikan oleh Yulaini yang kesehariannya sebagai Ibu Rumah Tangga(IRT). 
+
+<TIMEX3 tid="t7" type="SET" value="P1D">Setiap hari</TIMEX3> untuk memenuhi kebutuhan <TIMEX3 tid="t8" type="SET" value="P1D">sehari-hari</TIMEX3> seperti, mandi dan air minum, dirinya harus mengambil air yang jauh dari rumahnya. 
+
+Kalau mandi dan air minum kita ambil ke tempat anak yang jaraknya sekitar 700 meter dari rumah, kalau untuk mandi kita cari di air sungai kecil, itupun airnya <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">kini</TIMEX3> sudah kering karena sudah banyak yang ngambil kesana, sampainya. 
+
+Diketahui, Pemerintah Kabupaten Seluma Semenjak <TIMEX3 tid="t10" type="DATE" value="2015">Tahun 2015</TIMEX3> sampai dengan <TIMEX3 tid="t11" type="DATE" value="2017">2017</TIMEX3> telah menggelontorkan anggaran miliaran rupiah, untuk pemasangan Pipa saluran Air Bersih PDAM. 
+
+Namun, <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum dirasakan masyarakat Seluma, pemasangan tersebut terkesan mubazir dan membuang anggaran. 
+
+YD 
+</TEXT>
+
+</TimeML>

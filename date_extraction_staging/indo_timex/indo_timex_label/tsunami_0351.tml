@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0351</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-01</TIMEX3></DCT>
+
+<TITLE>Pertamina Tambah 4.000 Liter Solar ke Palu Pakai Pesawat Air Tractor</TITLE>
+
+<TEXT>
+PT Pertamina (Persero) menambah pasokan Bahan Bakar Minyak (BBM) jenis Solar ke Palu, Sulawesi Tengah. 
+
+Tambahan Solar ini dipasok menggunakan Pesawat Air Tractor dari Bandara Juwata Tarakan, Kalimantan Utara. 
+
+Pesawat itu membawa 4.000 liter Solar. 
+
+Tujuannya untuk menyokong bantuan operasional pemulihan setelah gempa dan tsunami di Palu dan Donggala. 
+
+Pesawat yang dioperasikan oleh PT Pelita Air Service, berangkat <TIMEX3 tid="t1" type="TIME" value="2018-09-30TMO">pagi tadi</TIMEX3> pukul <TIMEX3 tid="t2" type="TIME" value="2018-09-30T06:45">06.45</TIMEX3> Waktu Indonesia Tengah (<TIMEX3 tid="t3" type="TIME" value="UNKNOWN">WITA</TIMEX3>) dari Tarakan. 
+
+Kemudian, mendarat di Bandara Mutiara SIS Al-Jufrie, Palu <TIMEX3 tid="t4" type="TIME" value="2018-09-30T09:05">pukul 09.05 WITA</TIMEX3>. 
+
+Unit Manager Communication and CSR Marketing Operation Region VII, Roby Hervindo menyatakan pasokan Solar tersebut dikirim dari Terminal BBM Tarakan, Kalimantan Utara. 
+
+Ini sebagai bentuk aksi tanggap darurat Pertamina dalam upaya memaksimalkan pendistribusian BBM di Palu dan Donggala pascagempa dan tsunami, kata dia berdasarkan keterangan resminya, <TIMEX3 tid="t5" type="DATE" value="2018-10-01">Senin (1/10)</TIMEX3>. 
+
+Pesawat khusus ini memang digunakan untuk mendistribusikan BBM ke wilayah 3T (Terdepan, Terluar dan Tertinggal) khususnya Krayan, Nunukan Kaltara dan Puncak Jaya, Papua. 
+
+Pesawat ini mendistribusikan bahan bakar dalam rangka program BBM Satu Harga. 
+
+Sebelumnya, Pertamina mengirimkan pasokan Solar sebanyak 1.500 liter ke Rumah Sakit Undata. 
+
+Pasokan Solar ini nantinya digunakan untuk bahan bakar genset di rumah sakit. 
+
+Rumah sakit ini menampung lebih dari 200 korban gempa dan tsunami. 
+
+(.00 liter Premium untuk kebutuhan RS Parigi, melalui depot Poso. 
+
+Kemudian, <TIMEX3 tid="t6" type="DATE" value="2000">2000</TIMEX3> liter Solar untuk Kantor PLN Area Palu dan <TIMEX3 tid="t7" type="DATE" value="5000">5000</TIMEX3> liter disalurkan ke Posko Basarnas Palu. 
+
+Roby Hervindo mengatakan Pertamina juga sedang melakukan pengisian ke Kapal SAR kendari sebangak 20 ribu liter via Terminal BBM Poso untuk kebutuhan penanganan bencana. 
+
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> sedang dalam perjalanan AMT agen PT Meta Indah sebanyak lima ribu liter untuk kebutuhan darurat genset-genset di Palu. 
+
+
+</TEXT>
+
+</TimeML>

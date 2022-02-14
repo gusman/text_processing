@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0323</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-26" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-26</TIMEX3></DCT>
+
+<TITLE>Meski Sudah Musim Hujan, Permintaan Air Bersih di Cianjur Masih Tinggi</TITLE>
+
+<TEXT>
+Permintaan air bersih di sejumlah wilayah di Cianjur masih cukup tinggi setiap harinya. 
+
+Walaupun hujan sudah turun di beberapa daerah, tapi kebutuhan air bersih dinilai masih sangat signifikan karena masyarakat masih menghadapi krisis air. 
+
+Direktur Utama PDAM Tirta Mukti Cianjur, Budi Karyawan mengatakan, hujan <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum terjadi secara merata di seluruh daerah. 
+
+Sehingga daerah yang dilanda kekeringan pun masih kesulitan memenuhi kebutuhan air. 
+
+Setidaknya, dalam <TIMEX3 tid="t2" type="DURATION" value="P1D">sehari</TIMEX3> ada beberapa permintaan pasokan air bersih di sejumlah lokasi. 
+
+. 
+
+Kami kirimkan sekitar tiga tangki mobil. 
+
+Memang ada hujan di sana, tapi fenomenanya belum merata makanya tetap ada permintaan air, ujar Budi, <TIMEX3 tid="t3" type="DATE" value="2019-11-26">Selasa 26 November 2019</TIMEX3>. 
+
+Ia mengatakan, kondisi yang terjadi di Cianjur cukup unik, beberapa daerah relatif mudah kekeringan tapi juga kebanjiran. 
+
+Dengan kata lain, saat kemarau panjang air mudah mengering, tapi banjir bisa cepat melanda ketika hujan turun. 
+
+. 
+
+Bahkan, wilayah yang berada di pinggiran Gunung Gede juga kesulitan air bersih. 
+
+
+</TEXT>
+
+</TimeML>

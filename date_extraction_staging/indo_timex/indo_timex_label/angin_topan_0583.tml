@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0583</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-04-04" temporalFunction="false" functionInDocument="CREATION_TIME">2018-04-04</TIMEX3></DCT>
+
+<TITLE>Pohon Berusia 500 Tahun di Kotawaringin Barat Tumbang, Batangnya Mengeluarkan Air!</TITLE>
+
+<TEXT>
+Sebuah keanehan terjadi saat warga bergotong royong membersihkan sebuah pohon yang tumbang di Kelurahan Kotawaringin Hulu, Kecamatan Kotawaringin Lama, Kobar, Kalimantan tengah. 
+
+Betapa tidak. 
+
+Pohon kedondong berusia <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">sekitar 500 tahun itu</TIMEX3> tiba-tiba mengeluarkan air yang begitu jernih, sehingga membuat takjub warga yang sedang melakukan pembersihan. 
+
+. 
+
+Akhmad Subandi, satu warga Kobar kepada Tribunkalteng. 
+
+com, <TIMEX3 tid="t2" type="DATE" value="2018-04-04">Rabu (4/4/2018)</TIMEX3>, menyebut peristiwa ini terjadi <TIMEX3 tid="t3" type="DATE" value="PXD">beberapa hari yang lalu</TIMEX3> ketika tiupan angin kencang tiba-tiba menumbangkan pohon tersebut. 
+
+" Pohon ini lokasinya berjarak sekitar 20 meter dari makam Kiai Gede yang selama ini dikenal sebagai seorang penyebar agama Islam di Kotawaringin Barat, " ujar Subandi. 
+
+Bagi warga setempat, terang Subandi, Kiai Gede merupakan seorang ulama yang diketahui berasal dari Demak yang ditugaskan untuk menyebarkan agamanya ke wilayah Kotawaringin. 
+
+. 
+
+" Pohon kedodong yang tumbang ini merupakan salah satu aikon wisata religi yang ada di Kelurahan Kotawaringin Hulu. 
+
+Di sana, juga ada masjid tua yang dibangun Kiai Gede, serta ada ikan belida yang menjadi batu sebagai sisa peninggalan Kiai Gede, " terang Subandi. 
+
+(TRIBUNKALTENG. 
+
+COM/mustain khaitami) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0385</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Momen Dramatis Pesawat Takeoff saat Gempa Palu, Hingga Tsunami Hempaskan Kapal ke Daratan</TITLE>
+
+<TEXT>
+Musibah gempa dan tsunami di Palu, Sulawesi Tengah, menjadikan pengalaman yang tak menyenangkan bagi pilot pesawat Batik Air penerbangan ID6231 Kapten Ricosetta Mafella. 
+
+Pesawat Airbus A320 yang diawakinya tinggal landas (takeoff) saat gempa bumi melanda Palu pada <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">Jumat (28/9/2018) petang lalu</TIMEX3>, sebelum menara ATC bandara roboh. 
+
+Cerita tersebut beredar di sejumlah grup percakapan instan, KompasTekno telah menghubungi Kapten Fella pada <TIMEX3 tid="t2" type="TIME" value="2018-09-29TMO">Sabtu (29/9/2018) pagi</TIMEX3> dan mendapat izin untuk menuliskannya. 
+
+Kapten Fella mengatakan, <TIMEX3 tid="t3" type="DATE" value="2018-09-29">hari itu</TIMEX3> adalah hari terakhirnya terbang di Batik Air, <TIMEX3 tid="t4" type="DATE" value="2018-10-01">lusa</TIMEX3> ia sudah kembali ke Lion Air (Batik Air dan Lion Air tergabung dalam Lion Group). 
+
+Saat di bandara Mutiara, Palu, sesaat sebelum keberangkatan, Kapten Fella meminta quick handling, sesuatu yang tidak biasa ia minta kepada ground handling. 
+
+" Entah kenapa kayak diingetin harus buru-buru terbang, " tulisnya. 
+
+Penerbangan Batik Air ID6231 melayani rute Palu-Makassar, dijadwalkan terbang pada <TIMEX3 tid="t5" type="TIME" value="2018-09-28T05:55">pukul 5.55</TIMEX3> waktu setempat. 
+
+Saat mendapat izin untuk takeoff, pesawat mulai rolling di runway, Kapten Fella merasakan pesawat bergerak ke kanan dan kiri, getaran terasa mendatar, bukan vertikal. 
+
+Ia belum menyadari bahwa apa yang dialaminya saat rolling untuk takeoff itu adalah gempa yang sedang melanda di bandara Mutiara, Palu. " Tetapi karena di cockpit fokus untuk airborne phase, jadi tetap dilaksanakan karena gak mengganggu, " tulisnya. 
+
+// Pada mulanya, Kapten Fella mengira goyangan itu disebabkan oleh permukaan runway yang bergelombang. 
+
+Setelah pesawat mengudara, awak Batik Air ID6231 menghubungi tower, sesuai prosedur yang berlaku. 
+
+Namun <TIMEX3 tid="t6" type="DATE" value="PAST_REF">saat itu</TIMEX3> sudah tidak ada jawaban dari menara ATC bandara Palu. 
+
+Panggilan ke tower ATC Palu dilakukan beberapa kali, namun tetap tidak ada jawaban. 
+
+Rupanya, <TIMEX3 tid="t7" type="DATE" value="PAST_REF">saat itu</TIMEX3>, tower ATC bandara Palu sudah roboh akibat guncangan gempa, namun hal itu belum disadari awak Batik Air ID6231. 
+
+Saat pesawat mencapai ketinggian antara 2.000-3.000 kaki, dan checklist setelah takeoff selesai dilakukan, Kapten Fella melihat gelombang-gelombang aneh di pesisir pantai Palu. 
+
+Dirinya pun mengaku sempat merekam video pendek gelombang tersebut. 
+
+Namun masih belum sadar apa yang terjadi. 
+
+" Tahu ada gempa setelah ada info di radio, " tulis Kapten Fella. 
+
+Akhirnya, semua kru penerbangan diberi tahu kalau mereka adalah pesawat terakhir yang terbang dari Palu, persis saat gempa terjadi. 
+
+Penelusuran KompasTekno dari situs Flightradar24, penerbangan Batik Air ID6231 pada <TIMEX3 tid="t8" type="DATE" value="2018-09-28">28 September</TIMEX3>, tinggal landas dan tertangkap radar pada <TIMEX3 tid="t9" type="TIME" value="2018-09-28T18:17">pukul 18.17 WITA</TIMEX3>. 
+
+// Sementara gempa bumi yang terjadi di Donggala, Palu dan sekitarnya, tercatat oleh BMKG pada <TIMEX3 tid="t10" type="TIME" value="2018-09-28T18:02">pukul 18.02 WITA</TIMEX3>. 
+
+Banyak korban di Pantai Talise PaluSaksi mata menyebut banyak korban meninggal dunia di Pantai Talise, Kota Palu setelah tsunami menerjang kawasan ini, <TIMEX3 tid="t11" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Menurut Nining (32) saksi mata warga Kelurahan Lolu Utara, <TIMEX3 tid="t12" type="TIME" value="2018-09-29TMO">pagi ini</TIMEX3> dia sempat ke Talise Palu untuk melihat kondisi pasca-gempa dan tsunami. 
+
+Banyak mayat berserakan di pantai dan mengambang di permukaan laut, kata Nining saat dihubungi Kompas. 
+
+com di lokasi pengungsian gedung DPRD Kota Palu, <TIMEX3 tid="t13" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3>. 
+
+Menurut dia, kondisi korban meninggal dunia sangat memprihantinkan. 
+
+Jenazah dilaporkan bercampur dengan puing-puing material yang beserakan. 
+
+Kerusakan di kawasan pantai Talise juga dilaporkan sangat parah. 
+
+Nining menyebut jalan raya yang memilki 2 lajur <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">kini</TIMEX3> sebagian sudah lenyap di terjang gelombang tsunami. 
+
+Hingga <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada laporan resmi yang dirilis otoritas terkait mengenai kerusakan maupun jumlah korban akibat tsunami yang terjadi di Palu dan Donggala. 
+
+" Jalan raya hanya menyisakan sebagian, sebagian lainnya hancur, " kata Nining. 
+
+// Kapal terseret hingga ke daratKapal perintis KM Sabuk Nusantara 39 yang sandar di Pelabuhan Pantoloan, Kota Palu, Sulawesi Tengah, terhempas hingga di atas pelabuhan. 
+
+Kejadian tersebut akibat hempasan tsunami yang terjadi setelah Gempa Bumi di Donggala amp; Palu, <TIMEX3 tid="t16" type="DATE" value="2018-09-28">Jumat (28/9/2018) kemarin</TIMEX3>. 
+
+Dilaporkan pihak KPLP Palu, kapal yang naik ke atas pelabuhan tersebut membuat utilitas bangunan penunjang pelabuhan mengalami kerusakan cukup parah. 
+
+Tak hanya KM Sabuk Nusantara 39 yang terhempas ke daratan, dilaporkan warga setempat yang selamat, kapal-kapal lainnya ikut terhempas ke daratan. 
+
+Pelabuhan Pantoloan masuk di wilayah Kelurahan Pantoloan, Kecamatan Tawaeli, Kota Palu. 
+
+Pelabuhan ini melayani kapal-kapal Pelni dan kapal perintis, serta pelabuhan rakyat. 
+
+Sebelumnya, Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memastikan bahwa gempa dan tsunami yang terjadi di Palu dan Donggala bersumber dari sesar Palu Koro. 
+
+" Disebabkan oleh sesar Palu Koro yang berada di sekitar Selat Makassar, " kata Rahmat Triyono, Kepala Pusat Gempa Bumi dan Tsunami BMKG dalam konferensi pers <TIMEX3 tid="t17" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Rahmat menuturkan bahwa gempa utama adalah yang bermagnitudo 7,4 (sebelumnya 7,7 dan telah direvisi), terjadi pada <TIMEX3 tid="t18" type="TIME" value="2018-09-28T17:02">pukul 17.02 WIB</TIMEX3>. 
+
+Tsunami diprediksi tiba <TIMEX3 tid="t19" type="TIME" value="2018-09-29T00:20:00">20 menit kemudian</TIMEX3>. 
+
+BMKG mengungkapkan, peringatan dini tsunami sempat dicabut setelah air surut.Hingga <TIMEX3 tid="t20" type="TIME" value="2018-09-28T20:00">pukul 20.00 WIB kemarin</TIMEX3>, tercatat ada 22 gempa susulan.Gempa sebelum 7,7 disebut dengan gempa pendahulu dan sesudahnya disebut susulan.Sejarah mencatat, sebagian besar gempa di wilayah Sulawesi Tengah disebabkan oleh sesar Palu Koro. 
+
+Wilayah sekitar Palu juga pernah dilanda tsunami sebelumnya akibat sesar itu. 
+
+(KOMPAS.COM/BANGKAPOS) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0697</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-16</TIMEX3></DCT>
+
+<TITLE>Pemprov Jatim Kerahkan Heli Water Bombing Jangkau Medan Terjal Kebakaran Hutan di Gunung Arjuno</TITLE>
+
+<TEXT>
+Pemprov Jatim bersama BNPB Jatim mengerahkan heli water bombing untuk memadamkan kebakaran hutan dan lahan di kawasan hutan konservasi Taman Hutan Raya (Tahura) R Soerjo yang merupakan jalur pendakian menuju Gunung Arjuno. 
+
+Menurut data BPBD Kabupaten Malang, titik api berada di Blok Pusuk Lembu, Desa Toyomarto, Kecamatan Karangploso, Kabupaten Malang. 
+
+Gubernur Jawa Timur, Khofifah Indar Parawansa mengatakan, heli water bombing ini bisa menjangkau titik api yang berada di kawasan Curah Sriti yang memiliki medan yang terjal, sehingga pemadaman api sulit dilakukan sulit secara manual. 
+
+. 
+
+" Titik api berada di ketinggian 2.300 mdpl dengan kemiringan mencapai 70 derajat, " sambung dia. 
+
+Khofifah Indar Parawansa menuturkan, pengerahan heli water bombing telah dilakukan menggunakan helikopter Mi-8 milik BNPB yang lepas landas dari Lanud Abdulrachman Saleh, sejak <TIMEX3 tid="t1" type="DATE" value="2019-10-15">Selasa (15/10/2019)</TIMEX3>. 
+
+Namun, upaya tersebut terkendala akibat kondisi cuaca yang kurang mendukung. 
+
+" Sudah berangkat (heli water bombing) <TIMEX3 tid="t2" type="DATE" value="2019-10-15">kemarin</TIMEX3>, " ucap Khofifah Indar Parawansa. 
+
+. 
+
+Untuk itu, Khofifah menjelaskan jika heli water bombing sudah bergerak lagi ke titik api, <TIMEX3 tid="t3" type="DATE" value="2019-10-16">Rabu (16/10/2019)</TIMEX3> mulai <TIMEX3 tid="t4" type="TIME" value="2019-10-16T06:30">pukul 06.30 WIB ini</TIMEX3>.Seperti diketahui kebakaran hutan di kawasan Gunung Arjuno terjadi mulai <TIMEX3 tid="t5" type="DATE" value="2019-10-11">11 Oktober 2019</TIMEX3>, lalu.Sedikitnya, terdapat dua titik api yang terpantau di area Gunung Mujur, Blok Curah Banteng, dan wilayah Curah Sriti, Blok Pusuk Lembu, Gunung Arjuno, Karangploso, Kabupaten Malang.Saat ini, titik api diketahui kembali muncul di wilayah Curah Sriti, Blok Pusuk Lembu dan masih berusaha dipadamkan. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0233</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-05-02" temporalFunction="false" functionInDocument="CREATION_TIME">2019-05-02</TIMEX3></DCT>
+
+<TITLE>Bupati Ajak Bantu Korban Bencana</TITLE>
+
+<TEXT>
+Bupati Kaur Gusril Pausi SSos bersama Ketua PKK Kaur Poppy Tatriansi Gusril, Kapolres Kaur AKBP Arief Hidayat SIK dan Sekda Kaur Nandar Munadi, menyambangi lokasi banjir bandang di Desa Babat Kecamatan Tetap dan Desa Air Jelatang Kecamatan Maje, <TIMEX3 tid="t1" type="DATE" value="2019-05-01">Rabu (1/5)</TIMEX3>. 
+
+Bupati Kaur bersama rombongan Trail Papa Muda (TPM) dan Anggota Commando Shoting Club (KCSC) Kaur membawa beberapa paket bantuan berupa beras 1,4 ton, makanan ringan, air mineral, dan berbagai kebutuhan dapur lainnya untuk para korban banjir bandang yang melanda daerah tersebut. 
+
+Dengan bantuan yang kita salurkan ini, semoga dapat membantu warga yang tertimpa musibah <TIMEX3 tid="t2" type="DURATION" value="PXD">beberapa hari ke depan</TIMEX3>, dan juga saya atas nama pemerintah daerah turut berduka cita atas musibah yang melanda Kaur ini, kata bupati di sela-sela memberikan bantuan di Kecamatan Tetap. 
+
+Dalam kesempatan itu, bupati turun langsung ke lapangan. 
+
+Selain membantu warga terdampak banjir dan longsor, bupati juga mengajak masyarakat Kaur atau semua pihak agar berempati terhadap korban banjir di Kabupaten Kaur ini. 
+
+Sebab apa yang diberikan ini sangat membantu korban banjir dan longsor <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Bupati juga menyampaikan, ia meminta agar Kades membagikan bantuan dengan adil dan semoga dapat bermanfaat bagi kebutuhan masyarakat. 
+
+Bupati juga turut prihatin belum ditemukannya salah satu warga Air Jelatang tepatnya Air Jawa, yakni Ibu Tumini dan berharap semoga segera ditemukan. 
+
+Mari kira semua membantu saudara kita yang terkena musibah bencana alam, melaui pemberian bantuan berupa apa saja, baik barang ataupun uang dan obat-obatan, terangnya. 
+
+Ditambahkan bupati, ia juga berpesan agar warga tetap waspada terhadap banjir. 
+
+Hal ini mengingat <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> hujan masih kerap turun dengan intensitas dan durasi cukup lama. 
+
+Untuk itu ia selalu mengingatkan agar masyarakat selalu waspada terhadap berbagai bentuk bencana. 
+
+Bencana itu di luar perkiraan manusia, dan saya minta kepada masyarakat agar tetap waspada dengan kondisi cuaca seperti ini, imbaunya. 
+
+(618) 
+</TEXT>
+
+</TimeML>

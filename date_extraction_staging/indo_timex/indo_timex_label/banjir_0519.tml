@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0519</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-06-12" temporalFunction="false" functionInDocument="CREATION_TIME">2015-06-12</TIMEX3></DCT>
+
+<TITLE>53 Warga Masih Mengungsi Akibat Banjir Wajo</TITLE>
+
+<TEXT>
+53 orang masih mengungsi pascabanjir bandang yang melanda Wajo Sulawesi Utara, <TIMEX3 tid="t1" type="TIME" value="2015-06-04TMO">Kamis (4/6/2015) pagi</TIMEX3>. 
+
+Dari data yang dilansir BNPB melalui Kepala Pusat Data Informasi dan Humas BNPB, Sutopo Purwo Nugroho, <TIMEX3 tid="t2" type="DATE" value="2015-06-12">Jumat (12/6/2015)</TIMEX3> banjir yang melanda 8 kecamatan di Kabupaten Wajo tersebut mengakibatkan 15.020 Unit rumah terendam dengan tinggi 25 120 cm. 
+
+Selain itu, 1 Unit tanggul sungai jebol, 3 Unit rumah hanyut, 8 Unit rumah rusak berat, 15.795 Ha Lahan pertanian rusak serta 278 Unit rumah tidak di aliri listrik. 
+
+Akses jalan antar Kabupaten Wajo dan Kabupaten Bone juga terputus sepanjang 30 meter. 
+
+" Bupati Kabupaten Wajo telah menetapkan status tanggap darurat pada <TIMEX3 tid="t3" type="DATE" value="2015-06-04">tanggal 4 Juni 2015</TIMEX3> sampai dengan <TIMEX3 tid="t4" type="DATE" value="2015-06-18">18 Juni 2015</TIMEX3>, " papar Sutopo. 
+
+<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> BPBD Kabupaten Wajo bersama Muspika setempat telah melakukan evakuasi, pendataan, mendirikan posko pengungsi dan memberikan bantuan berupa logistik. 
+
+(*) 
+</TEXT>
+
+</TimeML>

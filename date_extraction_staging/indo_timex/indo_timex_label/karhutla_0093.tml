@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0093</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-16</TIMEX3></DCT>
+
+<TITLE>33 Titik Panas Terdeteksi BMKG Pangkalpinang</TITLE>
+
+<TEXT>
+Badan Meteorologi Klimatologi dan Geofisika (BMKG) Pangkalpinang mengungkapkan <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> jarak pandang sekitar 5.000 meter. 
+
+Hal ini karena efek panas dari wilayah Bangka Selatan. 
+
+" <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> terpantau kita memang dilanda asap jarak pandangnya <TIMEX3 tid="t3" type="DATE" value="5000">5000</TIMEX3> meter, ini efek dari adanya titik panas disekitar wilayah Bangka Selatan. 
+
+Dari pantauan kita daerah Selatan cukup banyak titik panas, kebetulan anginnya itu dari tenggara selatan sehingga terbawa ke utara daerah Pangkalpinang. 
+
+Kemungkinan daerah itu, " ungkap Slamet Supriyad Prakiwara BMKG Pangkalpinang saat ditemui bangkapos. 
+
+com. 
+
+<TIMEX3 tid="t4" type="DATE" value="2019-09-16">Senin</TIMEX3>, <TIMEX3 tid="t5" type="TIME" value="2019-09-16TAF">(16/9/2019) Sore</TIMEX3>. 
+
+Dia mengatakan asap yang ada <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kecil kemungkinan kiriman dari Kalimantan. 
+
+Hal ini dikarenakan angin mengarah ke utara sehingga kemungkinan tidak mengenai wilayah Bangka Belitung. 
+
+Dari data BMKG menunjukan dibawah <TIMEX3 tid="t7" type="TIME" value="UNKNOWN">jam 12.00 WIB siang tadi</TIMEX3> asap dipantau dengan jarak pandang lebih rendah lagi yakni <TIMEX3 tid="t8" type="DATE" value="3000">3000</TIMEX3> meter. 
+
+Saat bangkapos. 
+
+com menanyakan keadaan asap ini berbahaya atau tidak. 
+
+Dia menjawab secara ilmu meteorologi dari segi jarak pandang masih relatif aman. 
+
+" Kalau pengukuran kadar asap mungkin bisa di instansi terkait. 
+
+Asap ini sudah terpantau <TIMEX3 tid="t9" type="DURATION" value="P1M">lebih dari sebulan</TIMEX3>. 
+
+Di Belitung lebih parah dari kita jarak pandangnya sampai <TIMEX3 tid="t10" type="DATE" value="2000">2000</TIMEX3> meter, bahkan laporan disana pernah sampai <TIMEX3 tid="t11" type="DATE" value="1000">1000</TIMEX3> meter, dan sangat pekat, " ungkapnya.Pihak BMKG tidak bisa memprediksi waktu keadaan asap ini akan berakhir. 
+
+Selama masih <TIMEX3 tid="t12" type="DATE" value="2019-SU">musim kemarau</TIMEX3> panjang potensi akan adanya kebakaran hutan, dan lahan yang memicu asap akan semakin tinggi. " Pantauan kita cukup parah, mirip-mirip <TIMEX3 tid="t13" type="DATE" value="2015">tahun 2015 lalu</TIMEX3> ya. 
+
+Belitung apalagi <TIMEX3 tid="t14" type="DATE" value="UNKNOWN">semingguan ini</TIMEX3>. 
+
+Update titik panas kita sendiri <TIMEX3 tid="t15" type="TIME" value="2019-09-16T16">jam 16.00 WIB ini</TIMEX3> ada 33 titik panas terdeteksi, 14 titik dari Bangka Selatan, " ungkapnya.Bangkapos.com/Cici Nasya Nita 
+</TEXT>
+
+</TimeML>

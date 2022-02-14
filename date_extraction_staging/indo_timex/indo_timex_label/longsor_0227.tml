@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0227</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-11-17" temporalFunction="false" functionInDocument="CREATION_TIME">2018-11-17</TIMEX3></DCT>
+
+<TITLE>Material Longsor Tak Dibersihkan</TITLE>
+
+<TEXT>
+Sudah <TIMEX3 tid="t1" type="DURATION" value="P5D">lima hari</TIMEX3> ruas jalan Lebong Sakti-Uram Jaya atau biasa dikenal masyarakat puncak Rosjonsyah tidak bisa dilewati masyarakat, karena material longsor yang tidak kunjung dibersihkan. 
+
+Menurut Wargiman (60), warga Kecamatan Lebong Sakti mengatakan, bahwa persitiwa tanah longsor terjadi <TIMEX3 tid="t2" type="DATE" value="2018-11-12">lima hari yang lalu</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2018-11-12">Senin (12/11)</TIMEX3> sekitar <TIMEX3 tid="t4" type="TIME" value="2018-11-16T05:00">pukul 05.00 WIB</TIMEX3>. 
+
+Hanya saja, sejak longsor belum ada pihak pemerintah Kabupaten (Pemkab) Lebong yang membersihkannya. 
+
+Hanya ada pihak kecamatan dan kepolisian yang melihat, namun belum dibersihkan, jelasnya, <TIMEX3 tid="t5" type="DATE" value="2018-11-16">kemarin (16/11)</TIMEX3>. 
+
+Ditambahkan, Wargiman belum dibersihkannya material longsor mengakibatkan warga Kecamatan Uram Jaya yang akan menuju ke Rumah Sakit Umum Daerah (RSUD) Lebong, harus memutar dan mencari jalan yang jaraknya lebih jauh. 
+
+Tadi <TIMEX3 tid="t6" type="TIME" value="2018-11-17TMO">pagi</TIMEX3> (<TIMEX3 tid="t7" type="DATE" value="2018-11-16">kemarin</TIMEX3>) ada warga yang mau berobat tetapi berputar arah karena tidak bisa lewat, tuturnya. 
+
+Sementara itu, Camat Lebong Sakti, Denny Riskandar SPd mengatakan, bahwa peristiwa tanah longsor yang terjadi di ruas jalan antara Kecamatan Lebong Sakti dengan Kecamatan Uram Jaya, telah ia sampaikan ke pihak Dinas Pekerjaan Umum. 
+
+Saya ketemu dengan Kadis PU saya sampaikan minta longsor dibersihkan, katanya <TIMEX3 tid="t8" type="DATE" value="2018-11-17">hari ini</TIMEX3> (<TIMEX3 tid="t9" type="DATE" value="2018-11-16">kemarin</TIMEX3>) akan dibersihkan karena membersihkan longsor di Rimbo Pengadang terlebih <TIMEX3 tid="t10" type="DATE" value="PAST_REF">dahulu</TIMEX3>, ucapnya. 
+
+Namun hingga soreh <TIMEX3 tid="t11" type="DATE" value="2018-11-16">kemarin (16/11)</TIMEX3>, dirinya belum mendapat koNfirmasi atau laporan dari pihak terkait apakah tanah longsor sudah dibersihkan atau belum. 
+
+Untuk itulah diirnya berharap, material longsor bisa secepatnya dibersihkan. 
+
+Memang jalan tersebut bukan akses satu-satunya, namun jalan tersebut sangat membantu masyarakat untuk beraktifitas, ujarnya. 
+
+Sementara itu Pelaksana tugas (Plt) Kepala Dinas Pekerjaan Umum Penataan Ruang dan Perhubungan (Kadis PUPRP) Kabupaten Lebong, Agus Ferdinand ST, tidak ada di tempat ketika akan di konfirmasi. 
+
+Begitu juga ketika dihubungi melalui telepon selular tidak bisa dihubungi. 
+
+(614) 
+</TEXT>
+
+</TimeML>

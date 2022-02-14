@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0769</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-11" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-11</TIMEX3></DCT>
+
+<TITLE>Sempat Longsor, Warga yang Lewati Jalan Weda-Payahe Diminta Hati-hati</TITLE>
+
+<TEXT>
+Ruas jalan lintas Weda Payahe tepatnya di kilometer 8 (delapan) di jalan tanjakan tower kembali longsor pada <TIMEX3 tid="t1" type="DATE" value="2019-08-11">Minggu (11/08/2019)</TIMEX3>. 
+
+Banyak material berupa batu, tanah dan pohon tertimbun jatuh hingga di badan jalan. 
+
+Namun, tumpukan sejumlah material tidak berlangsung lama sudah di bersihkan warga dan aparat setempat yakni personil Polsek Kecamatan Oba dan personil dari Koramil Kecamatan Oba, Kota Tidore Kepulauan dengan menggunakan mesin sensor dan alat seadanya. 
+
+Alhamdulillah longsor yang tertimbun di badan jalan, Payahe menuju Weda ini tidak berlangsung lama sudah dibersihkan, dan jalan pun kembali normal, kata Sadam Muhlas, saat ditemui di lokasi longsor <TIMEX3 tid="t2" type="DATE" value="2019-08-11">Minggu (11/8/2019)</TIMEX3>. 
+
+Diharapkan kepada seluruh pengguna jalan untuk selalu berhati hati, mengedepankan ikhtiar agar sampai di tempat tujuan dengan selamat. 
+
+Longsor yang terjadi di ruas jalan Weda Payahe itu berkisar <TIMEX3 tid="t3" type="TIME" value="2019-08-10TMO">pagi tadi</TIMEX3> namun aktivitas pengguna jalan sudah mulai lancar. 
+
+Namun, perlu berhati hati karena masih ada material seperti batu berukuran besar bercampur dengan tanah yang tergantung dari tebing yang ada di samping jalan sehingga masih rawan longsor, ujarnya. 
+
+Kapolsek Kecamatan Oba, Iptu Efrian Batiti mengatakan, longsor yang terjadi di KM 8 Payahe menuju Weda telah dilaksanakan pembersihan oleh anggota Polsek Oba Polres Tidore Kepulauan dan Koramil Oba dalam bentuk membersihkan material dan pohon tumbang yang menutupi jalan. 
+
+Sampai <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> jalan Lintas menuju Oba sudah bisa dilewati, ungkapnya. 
+
+(As) 
+</TEXT>
+
+</TimeML>

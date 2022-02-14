@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0505</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-04-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-04-22</TIMEX3></DCT>
+
+<TITLE>Pasca Erupsi Gunung Agung, Bandara Bali Normal</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2019-04-21">Minggu (21/4)</TIMEX3>, Gunung Agung mengalami erupsi dan menyebabkan hujan abu. 
+
+Meski demikian penerbangan di Bandara I Gusti Ngurah Rai, Bali, masih normal. 
+
+Bandara tersebut juga beroperasi normal pasca kebakaran di terminal domestiknya. 
+
+Erupsi Gunung Agung yang terjadi <TIMEX3 tid="t2" type="DATE" value="2019-04-21">kemarin</TIMEX3> pada <TIMEX3 tid="t3" type="TIME" value="2019-04-21T03:21">pukul 03.21 WITA</TIMEX3> dengan tinggi letusan <TIMEX3 tid="t4" type="DATE" value="2000">2000</TIMEX3> meter mengeluarkan asap berwarna kelabu. 
+
+Erupsi terjadi selama <TIMEX3 tid="t5" type="DURATION" value="PT2M55S">2 menit 55 detik</TIMEX3>. 
+
+Pada <TIMEX3 tid="t6" type="TIME" value="2019-04-21T05:30">pukul 05.30 WITA</TIMEX3> stamet Bandar Udara I Gusti Ngurah Rai merilis laporan aktifitas Gunung Agung yang terdiri dari info zona terakhir masih kategori oranye yang artinya masih aman untuk diterbangi. 
+
+Pada <TIMEX3 tid="t7" type="TIME" value="2019-04-21T18:56">pukul 18.56 WITA</TIMEX3>, Pos Pengamatan Gunung Agung kembali melaporkan peningkatan tinggi kolom abu vulkanik hingga mencapai sekitar 3.000 meter di atas puncak kawah atau 6.142 meter di atas permukaan laut. 
+
+Kolom abu vulkanik terpantau berwarna kelabu tebal, tertiup angin condong ke arah Barat. 
+
+Erupsi ini terekam di seismograf dengan durasi <TIMEX3 tid="t8" type="DURATION" value="PT1M22S">1 menit 22 detik</TIMEX3>. 
+
+Kapusdatin dan Humas BNPB Sutopo Purwo Nugroho mengatakan memperkirakan hujan abu akan jatuh di sekitar Gunung Agung, khususnya di wilayah selatan hingga barat daya sesuai dengan pantauan citra satelit Himawari. 
+
+Erupsi disertai lontaran batu pijar masih terjadi di sekitar puncak Gunung Agung. 
+
+Lontaran material letusan berupa abu vulkanik dan pasir mencapai 2.500 3.000 meter dari puncak ke segala arah. 
+
+Suara letusan terdengar hingga Bangli dan Klungkung. 
+
+Tidak ada korban jiwa. 
+
+Masyarakat juga tidak perlu mengungsi. 
+
+Status masih tetap Siaga (level III). 
+
+Dengan rekomendasi PVMBG, kata Sutopo <TIMEX3 tid="t9" type="DATE" value="2019-04-21">kemarin</TIMEX3>. 
+
+Radius larangan beraktivitas bagi wisatawan, warga maupun pendaki masih tetap 4 kilometer. 
+
+Peringatan standar juga disampaikan bagi warga yang bermukim di sungai-sungai yang berhulu di Gunung Agung. 
+
+BPBD di sekitar Gunung Agung seperti BPBD Kabuapaten Karangasem, BPBD Klungkung, BPBD Bali dan aparat lain telah menyiapkan masker yang akan dibagikan kepada masyarakat yang terdampak, katanya. 
+
+<TIMEX3 tid="t10" type="TIME" value="UNKNOWN">Pukul 06.44 08.15 WITA</TIMEX3> terpantau hasil paper test di Bandar Udara I Gusti Ngurah Rai positif merupakan abu vulkanik yang sangat tipis. 
+
+Hal ini berarti Bandar Udara I Gusti Ngurah Rai terdapat tanda-tanda temuan sebaran abu vulkanik namun operasional masih berjalan normal. 
+
+Direktur Jenderal Perhubungan Udara Polana B Pramesti mengimbau agar semua pihak untuk melakukan meningkatkan kewaspadaan terhadap dampak erupsi Gunung Agung. 
+
+Semua pemangku kepentingan penerbangan harus saling bersinergi dan berkoordinasi untuk memberikan pelayanan yang terbaik bagi pengguna jasa angkutan udara, katanya <TIMEX3 tid="t11" type="DATE" value="2019-04-21">kemarin</TIMEX3>. 
+
+Sementara itu Kepala Otoritas Bandar Udara Wilayah IV Bali Elfi Amir memastikan dampak erupsi Gunung Agung tidak mengganggu jalannya operasional di Bandar Udara I Gusti Ngurah Rai. 
+
+Kepastian itu berdasarkan hasil observasi meteorology penerbangan (METAR) <TIMEX3 tid="t12" type="TIME" value="2019-04-21">kemarin pukul 10.30 WITA</TIMEX3> sudah tidak menunjukkan adanya sebaran abu vulkanik di sekitar wilayah bandara. 
+
+Selain itu hasil dari laporan pilot, tidak ada aktivitas Gunung Agung yang mengganggu penerbangan. 
+
+Operasional di Bandar Udara I Gusti Ngurah Rai berjalan normal, diharapkan agar semua maskapai saling menginformasikan sesaat landing atapun take off untuk monitor aktivitas Gunung Agung, ujarnya.Bandara ini ada <TIMEX3 tid="t13" type="DATE" value="UNKNOWN">Jumat lalu (19/4)</TIMEX3> mengalami kebakaran di area terminal domestik. 
+
+General Manager Bandara I Gusti Ngurah Rai Bali Haruman Sulaksono menyatakan bahwa untuk meningkatkan kenyamanan bagi calon penumpang, Manajemen Bandara I Gusti Ngurah Rai Bali telah melakukan pembersihan dan melakukan penutupan pada area yang terdampak kebakaran. 
+
+Harapannya setelah ditutup dan dibersihkan akan membuat calon penumpang yang datang kembali merasa aman dan nyaman, ucapnya. 
+
+(Jawa Pos/JPG) 
+</TEXT>
+
+</TimeML>

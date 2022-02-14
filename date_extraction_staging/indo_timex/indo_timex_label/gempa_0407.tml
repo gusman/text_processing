@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0407</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-02-12" temporalFunction="false" functionInDocument="CREATION_TIME">2016-02-12</TIMEX3></DCT>
+
+<TITLE>Enam Hari setelah Gempa Taiwan, 67 Tewas dan 57 Orang Hilang</TITLE>
+
+<TEXT>
+Jumlah korban jiwa akibat gempa bumi yang mengguncang Kota Tainan di Taiwan Selatan pada <TIMEX3 tid="t1" type="DATE" value="2016-02-06">Sabtu (6/2/2016)</TIMEX3> telah naik 67 sampai <TIMEX3 tid="t2" type="TIME" value="2016-02-11T21:48">pukul 21.48</TIMEX3> waktu setempat, <TIMEX3 tid="t3" type="DATE" value="2016-02-11">Kamis (11/2/2016)</TIMEX3>, dan 57 orang lagi belum ditemukan. 
+
+Gedung 16-lantai Wei Guan ambruk ke arah jalanan di sisi timur <TIMEX3 tid="t4" type="DATE" value="PTXS">beberapa detik</TIMEX3> setelah gempa, demikian keterangan resmi terkini mengenai korban jiwa, sebagaimana diberitakan Xinhua --yang dipantau Antara di Jakarta, <TIMEX3 tid="t5" type="TIME" value="2016-02-12">Jumat pagi</TIMEX3>. 
+
+Sebanyak 238 orang diselamatkan dari gedung itu, tapi 57 orang masih belum ditemukan <TIMEX3 tid="t6" type="DATE" value="P6D">hampir enam hari</TIMEX3> setelah gempa. 
+
+Gempa tersebut, yang oleh Lembaga Gempa Bumi Tiongkok dicata memiliki kekuatan 6,7 pada Skala Richter, mengguncang Taiwan Selatan pada <TIMEX3 tid="t7" type="TIME" value="2016-02-11T03:57">pukul 03.57</TIMEX3> pada <TIMEX3 tid="t8" type="DATE" value="2016-02-06">Sabtu</TIMEX3>, cuma <TIMEX3 tid="t9" type="DATE" value="P2D">dua hari</TIMEX3> sebelum Tahun Baru Tionghoa, Imlek. 
+
+Petugas pertolongan yang melancarkan upaya pencarian segera setelah gempa dan masih bekerja keras untuk melucuti gedung itu dan mencari orang yang hilang. 
+
+Tapi <TIMEX3 tid="t10" type="DURATION" value="P3D">lebih dari tiga hari</TIMEX3> berlalu sejak penyintas sebelumnya diselamatkan. 
+
+(Antara) 
+</TEXT>
+
+</TimeML>

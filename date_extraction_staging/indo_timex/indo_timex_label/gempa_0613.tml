@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0613</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-09" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-09</TIMEX3></DCT>
+
+<TITLE>Peduli Bencana NTB, Diskominfo PPU Galang Dana ASN</TITLE>
+
+<TEXT>
+Ini Tanda Kita Penduli Kepada Saudara Kita di NTB PENAJAM (NK) Berempati atas musibah gempa yang mengguncang Lombok, Nusa Tenggara Barat (NTB) dan sekitarnya, Dinas Kominfo (Diskominfo) Kabupaten Penajam Paser Utara (PPU) inisiatif menggalang dana untuk korban bencana dari seluruh ASN dilingkungan Pemkab PPU, <TIMEX3 tid="t1" type="DATE" value="2018-08-07">Selasa (7/8/2018) kemarin</TIMEX3>. 
+
+Selama <TIMEX3 tid="t2" type="DURATION" value="P2D">dua hari</TIMEX3> penggalangan dana yang dilakukan oleh Diskominfo keseluruh SKPD dilingkungan Pemkab PPU, terkumpul dana dari donasi sebesar Rp. 
+
+16.314.200, -. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> dana tersebut telah ditransfer langsung kepada korban bencana melalui rekening PT. 
+
+Bank NTB Nomor:008.22.27384.01.5 An. 
+
+BPBD KLU/Penanggulangan gempa yang telah tersedia. 
+
+Kami sangat mengapresiasi sekali penggalangan dana untuk korban bencana yang telah dilakukan oleh Diskominfo Kabupaten PPU ini. 
+
+Ini menandakan bahwa kita juga ada kepedulian kepada saudara-saudara kita disana. 
+
+Berapapun besaran bantuan itu tidak menjadi persoalan, tetapi yang terpenting adalah rasa kebersamaan kita, kepedulian dan impati kita terhadap saudara saudara kita disana, kata Penjabat (Pj) Bupati PPU, Bere Ali saat menerima Kepala Diskominfo, Budi Santoso diruang kerjanya, <TIMEX3 tid="t4" type="DATE" value="2018-08-08">Rabu</TIMEX3>, <TIMEX3 tid="t5" type="DATE" value="2017-08">(8/8) kemarin</TIMEX3>. 
+
+Bere Ali juga mengatakan sangat prihatin dan duka yang mendalam atas musibah yang telah terjadi di NTB <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">beberapa hari lalu itu</TIMEX3>. 
+
+Dirinya berharap seluruh korban bencana disana diberikan ketabahan dan keteguhan hati. 
+
+Melalui penggalangan dana yang telah dilaksanakan oleh Diskominfo PPU tersebut ia juga berharap mampu menjadi motopasi bagi semua pihak, khususnya di Kabupaten PPU ini. 
+
+Kami sampaikan ucapan terimakasih yang sebesar-besarnya kepada seluruh ASN yang telah ikut berkontribusi melalui sumbangan korban bencana ini. 
+
+Insya Allah kebaikan yang telah saudara berikan tersebut pasti akan memperoleh balasan yang setimpal dari Allah SWT, jelas Bere Ali. 
+
+Sementara itu Kepala Diskominfo PPU, Budisantoso dihadapan bupati mengatakan bahwa penggalangan dana yang dilakukan pihaknya merupakan inisiatif spontan yang timbul ketika melihat musibah bencana gempa yang mengguncang Lombok NTB itu. 
+
+Ia mengatakan jika pihak-pihak lain mampu memberikan kontribusinya kepada korban bencana di sana mengapa ASN tidak. 
+
+Akhirnya mulai <TIMEX3 tid="t7" type="DATE" value="PAST_REF">saat itu</TIMEX3> penggalangan danapun dilakukan yang dalaksanakan oleh jajaran Diskominfo kepada seluruh SKPD dilingkungan Pemkab PPU melalui ASN peduli. 
+
+Alhamdulillah selama <TIMEX3 tid="t8" type="DURATION" value="P2D">dua hari</TIMEX3> penggalangan dana yang kami lakukan di masing-masing SKPD terkumpul dana sebesar Rp 16 juta lebih dan <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> dana tersebut telah kami transfer kepada korban bencana di NTB melalui rekening yang telah tersedia, kata Budi Santoso. 
+</TEXT>
+
+</TimeML>

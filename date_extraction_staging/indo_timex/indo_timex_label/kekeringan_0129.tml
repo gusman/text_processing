@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0129</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-15" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-15</TIMEX3></DCT>
+
+<TITLE>Demi Air Bersih, Tempuh Ratusan Meter hingga Antre Berjam-jam</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="TIME" value="2018-08-15TAF">Siang itu</TIMEX3>, terlihat Janah, Rumsiah, Sartuah, dan Senijah asyik berbincang. 
+
+Letupan tawa sesekali menyelingi obrolan ngalor-ngidul warga Kelurahan Lebak Denok, Kota Cilegon, itu. 
+
+Sambil mengobrol, mereka memasukkan air dari cekungan batu berdiamater 10 sentimeter ke dalam jeriken. 
+
+Janah dan warga lain menyebut sumber mata air itu sebagai sumur umum. 
+
+Tapi bentuknya tidak seperti sumur pada umumnya. 
+
+Berbentuk lingkaran dengan diameter dan kedalaman bervariasi. 
+
+Sumur yang dimaksud Janah dan warga Lebak Denok lainnya itu yaitu mata air yang keluar dari celah batu dan tertampung di cekungan batu berdiameter 10 sentimeter. 
+
+Dan pada <TIMEX3 tid="t2" type="DATE" value="2018-SU">musim panas ini</TIMEX3>, sumber mata air itu benar-benar menjadi sumber air bagi warga. 
+
+Ada juga cekungan yang lebih besar. 
+
+Namun, lebih mirip dengan kolam. 
+
+Luasnya berkisar satu meter setengah dengan kedalaman satu meter. 
+
+Menurut Janah, saat air melimpah, cekungan pertama tertutup oleh aliran air seperti sungai tetapi kecil. 
+
+Sedangkan di cekungan kedua setengahnya terisi air jernih. 
+
+Air yang keluar dari celah batu itulah yang <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> menjadi tumpuan warga Lebak Denok, khususnya di lingkungan Cipala untuk memenuhi kebutuhan air bersih saban hari. 
+
+Warga harus sabar dan telaten memindahkan air sedikit demi sedikit menggunakan gayung ke dalam galon atau jeriken. 
+
+Untuk sampai ke sumur yang berada di Kampung Rambutan itu, Janah dan warga lain menempuh jarak 500 meter dari kampung terdekat. 
+
+Selain itu, warga harus melewati trek yang sangat ekstrem. 
+
+Tanjakan curam, tikungan, dan jurang di sisi kiri jalan harus dilalui. 
+
+Ukuran jalan tidak lebar. 
+
+Hanya setengah meter. 
+
+Yang sedikit memudahkan warga, jalan itu sudah dilapisi paving block hingga lokasi sumur umum. 
+
+Selain jarak dan medan terjal, warga harus ekstrasabar. 
+
+Untuk memenuhi air di jeriken, warga antre <TIMEX3 tid="t4" type="DURATION" value="PTXH">berjam-jam</TIMEX3>. 
+
+Paling cepat <TIMEX3 tid="t5" type="DURATION" value="PT2H">dua jam</TIMEX3>, paling lama <TIMEX3 tid="t6" type="DURATION" value="PT8H">delapan jam</TIMEX3>. 
+
+Menurut Janah, untuk satu jeriken membutuhkan waktu setengah jam. 
+
+Kalau lagi enggak kering mah paling berapa menit, airnya kan gede, tutur perempuan berusia <TIMEX3 tid="t7" type="DATE" value="UNKNOWN">50 tahun itu</TIMEX3> kepada Radar Banten, <TIMEX3 tid="t8" type="DATE" value="2018-08-14">Selasa (14/8)</TIMEX3>. 
+
+Janah bercerita ada empat sumur di Lingkungan Cipala. 
+
+Menurutnya, masing-masing RT memiliki sumur masing-masing. 
+
+Keempat itu di antaranya di Kampung Rambutan, Kampung Gede, Kedokan, dan Batu Payung. 
+
+<TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kondisi keempat sumur itu sama, kekeringan. 
+
+Lingkungan Cipala memang berada di dataran tinggi. 
+
+Untuk menuju lingkungan itu harus menempuh jarak berkilo-kilo meter dari jalan utama. 
+
+Treknya menantang. 
+
+Di sepanjang perjalanan, hamparan laut dan daratan bisa terlihat jelas. 
+
+Rumsiah, warga Lebak Denok lain mengaku selama mengalami kekeringan, warga baru mendapatkan sekali bantuan air bersih dari pemerintah. 
+
+Bantuan itu diterima <TIMEX3 tid="t10" type="DATE" value="2018-07-15">akhir bulan lalu</TIMEX3> sebanyak dua mobil tangki. 
+
+Cuma airnya enggak enak yah itu mah, beda kaya yang di sini (sumur Kampung Rambutan-red), tutur Rumsiah sambil memasukkan air ke dalam jeriken. 
+
+Bantuan air sangat dibutuhkan warga dalam kondisi seperti ini. 
+
+Biasanya, kekeringan akan terjadi selama <TIMEX3 tid="t11" type="DURATION" value="PXM">beberapa bulan ke depan</TIMEX3>, bisa sampai <TIMEX3 tid="t12" type="DATE" value="2017-10">Oktober</TIMEX3>. 
+
+<TIMEX3 tid="t13" type="DATE" value="PAST_REF">Dulu</TIMEX3> pernah bikin saluran, tapi sudah rusak itu, ujarnya.Sekretaris Camat Pulomerak Faturohman bercerita, kekeringan kerap terjadi <TIMEX3 tid="t14" type="SET" value="P1Y">setiap tahun</TIMEX3> di lingkungan itu. 
+
+Pada <TIMEX3 tid="t15" type="DATE" value="2017">2017</TIMEX3> pernah dibuat sumur bor untuk memenuhi kebutuhan air warga. 
+
+Namun, ia mengaku baru tahu jika sumur itu <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> mengalami kerusakan. 
+
+Kita sudah sampaikan ke bidang perairan di Dinas PUTR, kami berharap segera diperbaiki, ujarnya.Disinggung soal penyebab kerusakan sumur bor itu, pria yang akrab disapa Oman itu mengaku belum tahu. 
+
+Ia mengaku akan terus berkoordinasi dengan Dinas PUTR menyikapi persoalan itu. 
+
+Kita berharap segera teratasi, ujarnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

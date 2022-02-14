@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0984</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-02" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-02</TIMEX3></DCT>
+
+<TITLE>Atap Rumah Ini Terbang Disapu Angin Kencang.
+
+Pemuda Pancasila Ikut Bantu Korban</TITLE>
+
+<TEXT>
+Akibat angin sangat kencang, sebuah atap rumah terbang melambung tinggi. 
+
+Atap berbahan seng itu seperti sayap burung raksasa yang melayang-layang. 
+
+Kejadian ini diungkapkan Bhabinkamtibmas Kelurahan Rangas, Bripka. 
+
+Eman Sulaeman, dalam laporan tertulis pada atasannya. 
+
+Diungkapan bahwa <TIMEX3 tid="t1" type="TIME" value="2020-01-02TNI">malam itu</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2020-12-01">Rabu (01/12/2020)</TIMEX3>, terjadi hujan sangat lebat disertai angin cukup kencang. 
+
+Berdasarkan laporan warga, ada sebuah atap rumah warga terbang disapu angin. 
+
+Bencana itu mengakibatkan rumah rusak di lingkungan Landi, Kelurahan Rangas. 
+
+Adapun kerusakannya yakni atap rumah terbang dan terlipat akibat diterjang angin kencang. 
+
+Sehingga beberapa benda atau barang barang milik korban rusak akibat terkena air hujan deras yang masuk kedalam rumah korban, tutur Eman. 
+
+Angin kencang terjadi <TIMEX3 tid="t3" type="TIME" value="2020-01-01T18:00">sekitar pukul 18.00</TIMEX3> wita atau menjelang magrib. 
+
+Ada 3 rumah warga dan 1 gedung sekolah yang terdata rusak. 
+
+Di TKP Bhabinkamtibmas, Camat Simboro, Lurah Rangas, tim Tagana yang dipimpin kepala seksi Dinsos Mamuju M. 
+
+Aswan Asis dan tim Pemuda Pancasila melakukan tindakan evakuasi. 
+
+Mereka mengamankan korban mengungsi dirumah masing-masing keluarganya serta mengamankan barang-barang milik korban. 
+
+Evakuasi berakhir <TIMEX3 tid="t4" type="TIME" value="2020-01-01T23:05">pukul 23.05</TIMEX3> Wita, berjalan aman terkendali dan akan dilanjutkan <TIMEX3 tid="t5" type="DATE" value="2020-01-03">esok</TIMEX3> hari untuk mendata kerugian materil seluruh korban, tutup Eman. 
+
+(*) 
+</TEXT>
+
+</TimeML>

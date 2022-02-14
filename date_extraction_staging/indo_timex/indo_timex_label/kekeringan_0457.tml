@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0457</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-02" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-02</TIMEX3></DCT>
+
+<TITLE>Atasi Kekeringan, ACT Distribusikan Lebih dari 50000 Liter Air ke Gunungkidul dan Lombok</TITLE>
+
+<TEXT>
+Kekeringan tengah melanda beberapa wilayah yang ada di Indonesia seperti Pulau Jawa dan <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> Nusa Tenggara Barat NTB mulai mengalami kekeringan. 
+
+Pada <TIMEX3 tid="t2" type="DATE" value="2019-06-27">Kamis (27/6) lalu</TIMEX3>, untuk mengurangi dampak kekeringan yang semakin parah, ACT mengirimkan 50 ribu liter air bersih ke dua kecamatan, Girisubo dan Rongkop, yang ada di Gunungkidul. 
+
+Di dua kecamatan ini, air bersih didistribusikan ke empat desa yang mengalami dampak terparah kekeringan. 
+
+Guna memudahkan distribusi air ke empat kecamatan, ACT menggunakan truk tangki yang dapat membawa lima ribu liter untuk sekali jalan, hal ini disampaikan oleh Koordinator Tim Program ACT DIY Kharis Pradana. 
+
+" Air dipindah ke tandon yang telah disediakan di masing-masing desa, " kata Kharis. 
+
+(Tanggapi Darurat Kekeringan di Sejumlah Wilayah di Pulau Jawa, ACT Siap Pasokan Air Bersih)Dari distribusi air yang telah ACT berikan untuk masyarakat, sebanyak 520 warga menikmati air bersih tersebut. 
+
+Mereka amat bersyukur karena dapat menggunakan air bersih yang diberikan untuk mandi, minum, dan lainnya selama <TIMEX3 tid="t3" type="DURATION" value="UNKNOWN">beberapa waktu ke depan</TIMEX3>. 
+
+Di Gunungkidul tak hanya berdampak pada masyarakat saja, tapi juga lahan garapan pertanian. 
+
+Ratusan hektare lahan padi terancam mengalami puso di awal kemarau, air untuk kebutuhan konsumsi juga sulit didapatkan, jelas Kharis. 
+
+Tidak berhenti sampai di situ, seiring meluasnya kekeringan, ACT juga mendistribusikan air bersih ke daerah NTB sekitar 6.000 liter per <TIMEX3 tid="t4" type="DATE" value="P1D">harinya</TIMEX3>. 
+
+// Sejak pemulihan gempa, ACT terus menyuplai kebutuhan air untuk warga pada dua daerah di NTB yaitu Desa Sajang dan Beluk Petung menjadi wilayah dengan tingkat kekeringan terparah <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+ACT NTB melalui Global Wakaf pun tengah memetakan penambahan lokasi pengeboran Sumur Wakaf. 
+
+Menurut keterangan Romi, asesmen masih dilakukan di daerah Gunung Sari, Lombok Barat dan Bayan, Lombok Utara, juga di beberapa wilayah Lombok Timur. 
+
+(Tanggapi Darurat Kekeringan di Sejumlah Wilayah di Pulau Jawa, ACT Siap Pasokan Air Bersih)Kepala Program ACT NTB Romi Saefudin mengatakan Sumur Wakaf ini akan dibangun untuk menyuplai kebutuhan air bersih warga. 
+
+Untuk lokasi yang kekeringannya tidak begitu parah akan disuplai dengan armada water tank sampai kondisi warga kembali normal, ucap Romi. 
+
+Program Sumur Wakaf pun akan diikhtiarkan menjangkau Bima, Dompu, dan Sumbawa. 
+
+Beberapa wilayah di sana juga mengalami kekeringan, tambahnya. 
+
+Sementara itu, ahli sains atmosfer Tri Wahyu Hadi mengatakan, secara umum, iklim di Indonesia, termasuk Lombok, dikendalikan oleh sirkulasi monsun Asia-Australia. 
+
+Sebut saja aliran udara atau angin di lapisan bawah atmosfer yang melintasi ekuator di atas Indonesia yang berganti arah tiap setengah tahun. 
+
+Selain perubahan curah hujan, dia menambahkan, ada peningkatan temperatur rata-rata <TIMEX3 tid="t6" type="SET" value="UNKNOWN">hampir setiap bulan</TIMEX3> sebesar 0,5 derajat Celsius, sebagaimana dilansir dari laman, World Wide Fund. 
+
+(Global Qurban ACT Akan Sebarkan Kurban Sampai ke Etiopia) 
+</TEXT>
+
+</TimeML>

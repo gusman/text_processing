@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0016</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-15" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-15</TIMEX3></DCT>
+
+<TITLE>Babak Pertama: Aceh All Star Unggul 1-0</TITLE>
+
+<TEXT>
+Aceh All Star sementara unggul 1-0 atas Bank Aceh lewat gol tendangan bebas Nanda Lubis di menit ke-7 dalam laga amal di stadion H Dimurthala, Banda Aceh, <TIMEX3 tid="t1" type="DATE" value="2016-12-14">Kamis (14/12)</TIMEX3>. 
+
+Pertandingan ini digelar untuk menggalang dana membantu korban gempa 6,5 SR di kabupaten Pidie Jaya <TIMEX3 tid="t2" type="DATE" value="2016-12-08">pekan lalu</TIMEX3>. 
+
+Ratusan pecinta sepakbola tampak hadir memenuhi tribun. 
+
+Sebelum kick off digelar para pemain kedua tim yang mengenakan pita hitam berdiri mengelilingi di tengah lapangan. 
+
+Sementara di dekat bench pemain, ustaz Mihammad Shihab memimpin doa bagi korban gempa Pijay yang menewaskan 102 jiwa. 
+
+Amatan Rakyat Aceh, kedua tim yang menurunkan pemain seperti Fahrizal Dillah, Abdul Musawir, Mora Handika, Muklis Nakara, Nanda Lubis tampak khusyuk berdoa ditengah lapangan. 
+
+Sementara di tribun stadion suasana hening saat doa dipanjatkan untuk korban yang meninggal di Pidie Jaya. 
+
+Panitia penyelenggara menyebar relawan untuk menerima sumbangan dari penonton yang hadir di tribun stadion sembari menyaksikan laga para bintang Aceh di lapangan hijau. 
+
+Hingga berita ini diturunkan babak pertama pertandingan baru saja selesai. 
+
+(mag-69/rif)Bank Aceh: Edi Gunawan, Ramadana, Andri Mulyadi, Agus Mulyadi, Amir Kidal, Yusrifal, Mukhlis Nakata, Dian Adriansyah, Vivi Asrizal, Abdul Musawir, Fahrizal Dillah. 
+
+Cadangan: Miswar, Wahyu AW, Fitra Ridwan, Luthfi Hamdan, Khairunnas, Riski, Khairil Anwar, Aulia. 
+
+Aceh All Star: Edi Nurdiansyah, Kurniawan, Mora Handika, Rahmat, Efendi, Uut, Faumi Syahreza, Zoelfadhli, Jessi Gunawan, Mursal, Nanda Lubis. 
+
+Cadangan: Rivaldi, Muhajir, Mahfud, Akmal, Heri Fahrial, Martunis Blang Asan, Azhari, Irfan Yasin 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0406</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-19</TIMEX3></DCT>
+
+<TITLE>Sumur Kering, Warga Senaung Muarojambi Manfaatkan Sungai Batanghari Meski Keruh</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2019-SU">Musim kemarau</TIMEX3> yang terjadi <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> menyebabkan kekeringan di wilayah Kabupaten Muarojambi. 
+
+Masyarakat harus menghemat dalam penggunaan air. 
+
+Akibat <TIMEX3 tid="t3" type="DATE" value="2019-SU">musim kemarau</TIMEX3> beberapa bulan terakhir, sejumlah sumur milik warga di Desa Senaung, Kecamatan Jambi Luar Kota, Kabupaten Muarojambi mengalami kekeringan. 
+
+Dampaknya tidak sedikit warga setempat memanfaatkan air Sungai Batanghari untuk mandi cuci dan buang air. 
+
+Padahal kondisi air Sungai Batanghari sudah terlihat keruh tidak seperti biasanya. 
+
+Ruslan warga Desa Senaung yang mengatakan dampak <TIMEX3 tid="t4" type="DATE" value="2019-SU">musim kemarau</TIMEX3> berkepanjangan saat sumur miliknya mengalami kekeringan. 
+
+Akibatnya Ia bersama istri dan anaknya <TIMEX3 tid="t5" type="SET" value="XXXX-XX-XXTMO">setiap pagi</TIMEX3> dan <TIMEX3 tid="t6" type="TIME" value="2019-09-18TAF">sore</TIMEX3> terpaksa mandi di aliran Sungai Batanghari. 
+
+.000 Lebih. 
+
+Ya mau dak mau lah biak pun kondisi air agak keruh kek gini kan. 
+
+Karno inilah adonyo yang biso kito gunokan. 
+
+Kalo beli aek <TIMEX3 tid="t7" type="SET" value="P1D">tiap hari</TIMEX3> dak sangup kito, " sebutnya. 
+
+Hal senada juga dikatakan oleh Yanto yang juga merupakan warga sekitar. 
+
+Ia menyebutkan bahwa akibat <TIMEX3 tid="t8" type="DATE" value="2019-SU">musim kemarau</TIMEX3> saat ini keluarganya memanfaatkan air Sungai Batanghari untuk kegiatan MCK. 
+
+Ini juga tidak sanggup jika membeli air bersih setiap harinya. 
+
+" Kalo ini kan gratis dak ado bayar kito makeknyo. 
+
+Rame jugo yang ke sini buat mandi, ado yang angkut buat nyimpan di rumah kan. 
+
+Buat nyuci piring atau baut basuh-basuh, " katanya. 
+
+Masyarakat sekitar berharap agar <TIMEX3 tid="t9" type="DATE" value="2019-SU">musim kemarau</TIMEX3> saat ini cepat berlalu. 
+
+Setidaknya <TIMEX3 tid="t10" type="DURATION" value="P3M">lebih dari tiga bulan</TIMEX3> wilayah Kabupaten Muarojambi dilanda dengan kondisi kemarau. 
+
+Meskipun memang ada <TIMEX3 tid="t11" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3> terjadi hujan, namun tidak membuat air sumur mikik warga penuh. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0621</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-19" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-19</TIMEX3></DCT>
+
+<TITLE>Bhayangkari Polsek Waru Turut Bantu Korban Banjir di Waru</TITLE>
+
+<TEXT>
+Ada pemandangan yang menarik saat Polres Penajam Paser Utara (PPU) memberi bantuan makan <TIMEX3 tid="t1" type="TIME" value="2017-07-18TAF">siang</TIMEX3> kepada warga korban banjir di Desa Sesulu Kecamatan Waru. 
+
+Terlihat sejumlah istri polisi atau Bhayangkari dari Polsek Waru yang ikut serta turun dalam proses pemberian bantuan makan <TIMEX3 tid="t2" type="TIME" value="2017-07-18TAF">siang</TIMEX3> kepada korban. 
+
+<TIMEX3 tid="t3" type="DATE" value="2017-07-19">Rabu</TIMEX3>, <TIMEX3 tid="t4" type="DATE" value="2017-07-19">(19/7/2017)</TIMEX3>. 
+
+Kapolres PPU, AKBP Teddy Ristiawan mengungkapkan, sekitar 8 ibu Bhayangkari dari Polsek Waru turun langsung membantu proses pemberian bantuan kepada korban banjir. 
+
+Mereka turun membantu atas inisiatif dan kesadaran mereka sendiri untuk membantu saudara mereka yang menjadi korban banjir, ujarnya. 
+
+Teddy sangat mengapresiasi sikap para Bhayangkari Polsek Waru yang sangat peduli terhadap lingkungan sekitar. 
+
+Dijelaskannya, tugas Bhayangkari Polsek Waru tersebut yaitu membantu memasak makan <TIMEX3 tid="t5" type="TIME" value="2017-07-18TAF">siang</TIMEX3> untuk korban banjir bersama dengan Dinas Sosial PPU. 
+
+Tidak hanya bantu masak, mereka juga bantu membagikan bingkisan makan <TIMEX3 tid="t6" type="TIME" value="2017-07-19TMO">pagi</TIMEX3>, <TIMEX3 tid="t7" type="TIME" value="2017-07-18TAF">siang</TIMEX3> dan <TIMEX3 tid="t8" type="TIME" value="2017-07-18TNI">malam</TIMEX3>, pungkasnya. 
+</TEXT>
+
+</TimeML>

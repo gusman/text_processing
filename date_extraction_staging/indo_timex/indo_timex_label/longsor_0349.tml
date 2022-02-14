@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0349</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-15" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-15</TIMEX3></DCT>
+
+<TITLE>Longsor Terjadi di Bandung, Menimpa Rumah Warga di Ciumbuleuit</TITLE>
+
+<TEXT>
+Longsor kembali terjadi di Kota Bandung. 
+
+Kali ini terjadi di Kampung Sangiang Santen, RT3/RW5, Kelurahan Ciumbuleuit, Kecamatan Cidadap, Kota Bandung, pada <TIMEX3 tid="t1" type="DATE" value="2018-12-14">Jumat (14/12/2018)</TIMEX3>. 
+
+Tebing tanah setinggi 30 meter longsor menimpa rumah milik Nanda Suganda (55) <TIMEX3 tid="t2" type="TIME" value="2018-12-14T20:00">sekitar pukul 20.00 WIB</TIMEX3>. 
+
+Berdasarkan pantauan Tribun Jabar, rumah milik Nanda rusak berat bagian belakang yaitu, ruangan dapur, ruangan cuci piring, dan kamar mandi. 
+
+Nanda mengatakan, sebelum terjadi longsor dia bersama istrinya bernama Wina widiani (51) dan ketiga anaknya bernama Hilman Pajar (24), Dandi Budiman (19,) dan Novelia (6) sedang menonton televisi di ruang tamu. 
+
+" Hujan terus-terusan dari <TIMEX3 tid="t3" type="TIME" value="2018-12-14T16:00">pukul 16.00 WIB</TIMEX3> hingga <TIMEX3 tid="t4" type="TIME" value="2018-12-14T20:00">pukul 20.00 WIB</TIMEX3>, di rumah ada saya, ketiga anak saya, dan istri lagi nonton tv di ruang tamu, lalu terdengar suara keras di dapur, " ujar Nanda saat ditemui Tribun Jabar di lokasi longsor, <TIMEX3 tid="t5" type="DATE" value="2018-12-15">Sabtu (15/12/2018)</TIMEX3>. 
+
+Setelah longsor terjadi, Nanda panik dan menyuruh anak dan istrinya segera keluar rumah. 
+
+Nanda menceritakan, selama <TIMEX3 tid="t6" type="DURATION" value="P25Y">25 tahun</TIMEX3> tinggal di rumah tersebut, baru kali ini terjadi longsor. 
+
+// Bagian rumah yang terkena longsor dapur ukurannya 3x2 meter, tempat cuci piring 2.5 x 1 meter, dan kamar 2x2 meter. 
+
+Selanjutnya, saat kejadian pun, pihak ketua RW langsung merespons cepat dan datang ke lokasi. 
+
+Ditempat yang sama, Ketua RW 5, Kelurahan Ciumbeuluit, Kecamatan Cidadap, Tata Rustandi (52) mengatakan pihaknya langsung merespons cepat dan melaporkan kejadian ini kepada aparatur kewilayahan. 
+
+" Pak camat, Pak lurah dan Babinsa tadi <TIMEX3 tid="t7" type="TIME" value="2018-12-14TNI">malam</TIMEX3> langsung mencek dan Linmas juga ada, " ujarnya. 
+
+Sementara itu, pihaknya akan melaksanakan kerjabakti untuk membantu keluarga Nanda dalam mengevakuasi puing bangunan yang hancur. 
+
+" Tim Gober juga <TIMEX3 tid="t8" type="TIME" value="2018-12-14TNI">malam</TIMEX3> membantu, dan <TIMEX3 tid="t9" type="DATE" value="2018-12-16">besok</TIMEX3> Minggu <TIMEX3 tid="t10" type="DATE" value="2018-12-16">(16/12/2018)</TIMEX3>, akan melaksanakan kerja bakti, " ujarnyaDengan kejadian yang menimpa wilayahnya, Tata akan selalu berkoordinasi dengan aparatur kewilayahan. 
+
+Tata menambahkan dalam kejadian ini tidak ada korban jiwa dan kerugian bangunan serta perabotan yang terkena longsor milik Nanda ditaksir sebesar Rp 20 juta. 
+
+
+</TEXT>
+
+</TimeML>

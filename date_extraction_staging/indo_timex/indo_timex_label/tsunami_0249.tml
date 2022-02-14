@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0249</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-03</TIMEX3></DCT>
+
+<TITLE>Didampingi Menristekdikti, Jokowi Kembali Kunjungi Palu</TITLE>
+
+<TEXT>
+Presiden Joko Widodo <TIMEX3 tid="t1" type="TIME" value="2018-10-03TMO">pagi ini</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2018-10-03">Rabu</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2018-10-03">3 Oktober 2018</TIMEX3>, kembali mengunjungi Provinsi Sulawesi Tengah, guna meninjau langsung penanganan dampak bencana gempa bumi disertai tsunami yang melanda wilayah tersebut <TIMEX3 tid="t4" type="DATE" value="PXD">beberapa hari yang lalu</TIMEX3>. 
+
+Bertolak melalui Pangkalan TNI AU Halim Perdanakusuma Jakarta, Kepala Negara beserta rombongan lepas landas dengan menggunakan Pesawat Boeing 737-400 TNI AU pada <TIMEX3 tid="t5" type="TIME" value="2018-10-02T07:00">pukul 07.00 WIB</TIMEX3>. 
+
+Setibanya di Bandar Udara Mutiara Sis Al-Jufri, Kota Palu, Presiden akan langsung meninjau sejumlah daerah terdampak bencana. 
+
+Mulai dari Kelurahan Petobo, Rumah Sakit Wirabuana, hingga Hotel Roa-Roa. 
+
+Selain itu, Presiden juga akan mengunjungi sejumlah hunian terdampak bencana dan juga lokasi pengungsian yang ada di Kabupaten Donggala, Provinsi Sulawesi Tengah. 
+
+Kunjungan Presiden kali ini merupakan kunjungan yang kedua setelah kunjungan pertamanya pada <TIMEX3 tid="t6" type="DATE" value="2018-09-30">Minggu (30/9) kemarin</TIMEX3>. 
+
+Melalui kunjungan kali ini, Presiden ingin memastikan komitmen dan gerak cepat pemerintah dalam penanganan pascabencana yang terjadi di Sulawesi Tengah. 
+
+Yang paling penting itu adalah penanganannya yang cepat, yang segera menyelesaikan masalah-masalah yang ada di lapangan, kata Presiden di kompleks Istana Kepresidenan, Jakarta, pada <TIMEX3 tid="t7" type="DATE" value="2018-10-02">Selasa</TIMEX3>, <TIMEX3 tid="t8" type="DATE" value="2018-10-02">2 Oktober 2018</TIMEX3>. 
+
+Sejumlah Menteri Kabinet Kerja turut mendampingi Presiden dalam penerbangan menuju Provinsi Sulawesi Tengah, yakni Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan Puan Maharani. 
+
+Menteri Riset, Teknologi, dan Pendidikan Tinggi Mohamad Nasir, Menteri Sosial Agus Gumiwang, serta Menteri Pekerjaan Umum dan Perumahan Rakyat Basuki Hadimuljono. 
+
+Selain itu, Kepala Sekretariat Presiden Heru Budi Hartono, Sekretaris Militer Presiden Marsda TNI Trisno Hendradi, Komandan Paspampres Mayjen TNI (<TIMEX3 tid="t9" type="DATE" value="2018-03">Mar</TIMEX3>) Suhartono, dan Staf Khusus Presiden Adita Irawati juga ikut dalam rombongan terbatas Kepala Negara. 
+
+Rencananya, Presiden beserta rombongan akan langsung kembali ke Jakarta pada <TIMEX3 tid="t10" type="TIME" value="2018-10-02TAF">sore hari</TIMEX3> melalui Helipad Halaman Kantor Bupati Donggala untuk kemudian berganti pesawat di Bandar Udara Mutiara Sis Al-Jufri, Kota Palu, dan melanjutkan perjalanan menuju Jakarta.Saat memimpin rapat terbatas di Kantor Presiden <TIMEX3 tid="t11" type="DATE" value="2018-10-02">(2/10)</TIMEX3> tentang penanganan dampak bencana gempa bumi dan tsunami di Palu, Donggala, Sigi, dan Parigi Moutong, Presiden menyampaikan empat arahan.Pertama, yang berkaitan dengan evakuasi serta pencarian korban yang belum ditemukan. 
+
+Arahan kedua ialah soal pelayanan medis bagi para korban.Ketiga, yakni yang terkait dengan pemenuhan kebutuhan dasar dan logistik bagi para pengungsi, Presiden meminta kepastian agar segala kebutuhan itu dapat segera diselesaikan.Arahan keempat, mengenai perbaikan infrastruktur dan layanan umum, Presiden menginstruksikan perbaikan segera sejumlah fasilitas vital seperti airport, jalan, kelistrikan, dan penyediaan bahan bakar minyak.Demikian rilis dari Deputi Bidang Protokol, Pers, dan Media Sekretariat Presiden RI, Bey Machmudin. 
+
+Yahya 
+</TEXT>
+
+</TimeML>

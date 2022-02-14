@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0548</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-03" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-03</TIMEX3></DCT>
+
+<TITLE>Dua Rumah Warga Desa Entikong Terkena Longsor di Wilayah Perbatasan</TITLE>
+
+<TEXT>
+Tingginya curah hujan yang mengguyur diwilayah perbatasan Indonesia Malaysia Kecamatan Entikong, Kabupaten Sanggau membuat dua rumah warga Desa Entikong Kecamatan Entikong, Kabupaten Sanggau, Provinsi Kalimantan Barat tertimpa tanah longsor pada <TIMEX3 tid="t1" type="TIME" value="2020-01-02TNI">kamis malam</TIMEX3>. 
+
+<TIMEX3 tid="t2" type="DATE" value="2020-01-03">Jumat</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2020-01-03">(3/1/2020)</TIMEX3>. 
+
+Tidak ada korban jiwa dalam peristiwa ini, namun kerugian yang dialami oleh pemilik rumah tersebut hingga mencapai puluhan juta rupiah. 
+
+<TIMEX3 tid="t4" type="DATE" value="UNKNOWN">Waktu itu</TIMEX3> kan cuaca hujan yang cukup lama dan lumayan deras, saya sedang tidur ni, <TIMEX3 tid="t5" type="TIME" value="2020-01-02TNI">hampir tengah malam</TIMEX3> sekitar <TIMEX3 tid="t6" type="TIME" value="2020-01-02T11">Jam 11.00</TIMEX3> Wib kebangun dengar suara dibelakang rumah dapur liat tanah longsor yang menerjang dapur rumah saya, Jelas Rano pemilik rumah. 
+
+<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> Polsek entikong kabupaten Sanggau sudah melakukan upaya meninjau langsung dan memasang Polisi Line di lokasi TKP. 
+
+Untuk <TIMEX3 tid="t8" type="DURATION" value="PXX">sementara waktu</TIMEX3>,korban pemilik rumah tanah longsor tersebut <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tinggal mengungsi dirumah keluarga tetangganya.Atas kejadian peristiwa ini Kapolsek Entikong AKP Novrial Alberti Kombo dan Camat Entikong Suparman,serta Kepala Desa Entikong Kiki menghimbau kepada seluruh masyarakat khususnya warga Desa entikong di Jalan Pak Tangkir agar tetap selalu waspada menjaga keselamatan diri guna untuk antisipasi terjadinya longsor susulan yang dapat membahayakan keselamatan diri.Bobirianto Yulianus. 
+</TEXT>
+
+</TimeML>

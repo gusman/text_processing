@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1204</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-04-28" temporalFunction="false" functionInDocument="CREATION_TIME">2015-04-28</TIMEX3></DCT>
+
+<TITLE>Plengsengan Ambrol, Rumah Warga Sekitar  Tol Gempol-Pasuruan Rusak</TITLE>
+
+<TEXT>
+Plengsengan jembatan tol Gempol-Pasuruan di titik Dusun Kesemi Desa Gununggangsir Kecamatan Beji Kabupaten Pasuruan longsor dan menimpa dua rumah warga sekitar. 
+
+Plengsengan yang ambruk tersebut diduga tak kuat menahan debit air yang menggerus tanah benteng di sisi barat jembatan. 
+
+Akibatnya, dua rumah milik Sri Handayani dan Sumianto rusak parah. 
+
+Seorang warga sekitar jembatan, Saiful, mengatakan kejadian longsornya plengsengan tersebut <TIMEX3 tid="t1" type="DATE" value="2015-04-27">Senin (27/4/2015)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2015-04-27T16:00">pukul 16.00 WIB</TIMEX3>. 
+
+<TIMEX3 tid="t3" type="DATE" value="PAST_REF">Saat itu</TIMEX3> memang hujan lebat di kawasan tersebut. 
+
+" Sebelum longsor, daerah sini juga banjir, " kata Saiful, <TIMEX3 tid="t4" type="DATE" value="2015-04-28">Selasa (28/4/2015)</TIMEX3>. 
+
+Menurutnya, banjir di kawasan tempat tinggalnya baru kali ini terjadi. 
+
+Sebelum ada jembatan tol tersebut, wilayahnya tak pernah banjir. 
+
+Ketika ngsor terjadi, diiringi dengan mengucurnya debit air yang mengguyur rumah Sri dan Sumianto. 
+
+Jarak antara rumah warga ini dari batas plengsengan jembatan sekitar 5 meter. 
+
+Tak ayal, material plengsengan serta tanah dan air mengguyur kedua rumah tersebut. 
+
+Material tersebut membanjiri ke dalam rumah dan membuat seisi rumah porak-poranda. 
+
+Segala barang milik kedua warga tersebut rusak parah. " <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> bu Sri tinggal di rumah saya, " ujar saiful.Plengsengan setinggi 8 meter dan lebar 7 meter ini rusak total. 
+
+Beberapa pekerja membersihkan kedua rumah warga tersebut dan ada satu alat berat digunakan untuk menyingkirkan batu-batu besar sisa patahan dari plengsengan itu.Kepala Bagian Logistik PT Adhi Karya Proyek Pembangunan Jalan Tol Gempol - Pasuruan, Saiful Manan, berjanji akan menanggung perbaikan dua rumah warga yang rusak. 
+
+// Hanya saja, Saiful belum bisa berkomentar terkait longsornya plengsengan jembatan itu. 
+
+Menurutnya, diperlukan kajian struktur konatruksi untuk mencari penyebab ambruknya jembatan yang mulai dibangun pada <TIMEX3 tid="t6" type="DATE" value="2011">2011</TIMEX3> silam ini. 
+
+Jika hasil kajian itu menyatakan karena salah konstruksi, maka rumah warga yang tertimpa akan diganti oleh PT Adhi Karya selaku operator pelaksana jalan tol tersebut. 
+
+" Kajiannya <TIMEX3 tid="t7" type="DURATION" value="P2D">sekitar dua hari</TIMEX3>. 
+
+Namun, mulai setelah kejadian, kami tetap membantu warga yang rumahnya rusak. 
+
+Kami sudah mengirimkan pekerja untuk mengurus rumah itu, " tandas Saiful. 
+
+Saiful menyatakan belum bisa memberikan keterangan lebih lanjut terkait teknis jembatan karena harus menunggu hasil kajian struktur konstruksi yang mulai dilakukan per <TIMEX3 tid="t8" type="DATE" value="2015-04-28">Selasa ini</TIMEX3>. 
+
+" Satu atau <TIMEX3 tid="t9" type="DURATION" value="P2D">dua hari ke depan</TIMEX3> kemungkinan sudah bisa diketahui hasilnya, " ucapnya. 
+
+Selain titik Desa Kesemi, plengsengan tol Gempol-Pandaan di Desa Randupitu Kecamatan Pandaan juga terpantau ambrol. 
+
+Sejumlah alat berat terlihat sibuk membersihkan tanah yang masuk jalur tol. 
+
+Di Randupitu, kejadian sudah terjadi dua kali. 
+
+. 
+
+com/SURYAonline FOLLOW Twitter Surya - http://twitter.com/portalSURYA 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0189</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-09" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-09</TIMEX3></DCT>
+
+<TITLE>Video Banjir Genangi Perumahan di Batuaji Setiap Kali Hujan Turun Deras, Meski Tidak Lama</TITLE>
+
+<TEXT>
+Warga perumahan Marina Garden Tanjunguncang, Batuaji, Batam kembali mengeluhkan kondisi rumah perumahan mereka yang tergenang setiap kali hujan turun, seperti yang kembali terjadi, <TIMEX3 tid="t1" type="DATE" value="2018-10-08">Senin (8/10/2018)</TIMEX3>. 
+
+Meski hujan turun tidak <TIMEX3 tid="t2" type="DURATION" value="PT1H">lebih dari satu jam</TIMEX3>, namun kondisi sejumlah gang di perumahan ini sudah digenangi banjir. 
+
+Kondisi ini memaksa warga harus menguras air yang masuk ke dalam rumah. 
+
+" Kami sudah capek, kami sudah lelah, setiap kali hujan turun komplek kami selalu kebanjiran, tidak tahu lagi harus mengadu kepada siapa devloper perumahan ini sudah tidak tahu dimana, " keluh kesah warga Marina Garden, Tanjunguncang Batuaji Batam, <TIMEX3 tid="t3" type="DATE" value="2018-10-07">Senin (7/10/2018)</TIMEX3>. 
+
+Seprita, warga Marina Garden yang rumahnya tergenang akibat hujan itu mengatakan perumahan mereka sering kebanjiran sejak adanya aktifitas penimbunan lahan resapan air di dekat perumahan mereka. 
+
+" <TIMEX3 tid="t4" type="DATE" value="PAST_REF">Dulu</TIMEX3>, sebelum adanya penimbunan lahan di belakang perumahan yang langsung berbatasan dengan hutan bakau, tidak pernah terjadi Banjir, namun setelah dilakukan penimbunan lahan bakau itu, perumahan kami banjir terus, " kata Seprita. 
+
+Di tempat terpisah Leo, ketau RW Marina Garden, mengatakan banjir yang terjadi di perumahan Marina Garden setelah beberapa perumahan di belakang rumah meraka yang dulunya hutan bakau dan resapan air ditimbun. 
+
+" Banjir ini sudah terjadi sejak <TIMEX3 tid="t5" type="DURATION" value="P3Y">tiga tahun</TIMEX3> belakangan, " kata Leo.Dia mengatakan dua perumahan terdekat, lahannya lebih tinggi dibanding perumahan mereka. " Kita inikan perumahan lama, sementara dua perumahan lainnya masih baru, bahkan belum banyak yang laku, lahan mereka lebih tinggi, padahal dulunya lahan perumahan itu dulunya resapan air, makanya lokasi perumahan kita selalu banjir, " kata Leo.Dia juga mengatakan pihaknya bersama perangkat Rt/Rw sudah berusaha mengajukan normalisasi saluran drainase dan hal itu sudah dilakukan, namun karena lahan perumahan mereka lebih rendah membuat air hujan susah turun. " Setiap kali hujan pasti banjir, selesai hujan paling 20 menit kemudian air baru surut, " kata Leo.Sebelumnya camat Batuaji, Ridwan mengatakan pihaknya sudah melakukan normalisasi saluran drainase di perumahan Marina Garden dan Marina Green namun karena lokasi lahannya lebih rendah membuat air hujan tidak bisa langsung mengalir. " Sulit juga, jalan satu satunya rumah warga harus ditinggikan, agar bisa mengimbangi perumahan di belakangnya, " kata Ridwan.Saksikan tayangan videonya di atas. 
+
+(ian) 
+</TEXT>
+
+</TimeML>

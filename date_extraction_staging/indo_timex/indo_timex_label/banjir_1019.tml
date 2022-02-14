@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1019</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-13" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-13</TIMEX3></DCT>
+
+<TITLE>Banjir Mamuju Akibat Sistem Drainase Mampet</TITLE>
+
+<TEXT>
+Hujan yang mengguyur Mamuju, sejak <TIMEX3 tid="t1" type="TIME" value="2018-10-13TAF">Sabtu (13/10/2018) siang</TIMEX3> hingga <TIMEX3 tid="t2" type="TIME" value="2018-10-12TNI">malam</TIMEX3> mengakibatkan beberapa ruas jalan raya yang berada di kawasan Mamuju tergenang air setinggi 30 cm. 
+
+Hasil pantauan di lapangan genangan air diakibatkan oleh curah hujan tinggi terjadi di ruas jalan Monginsidi, jalan Musa Karim, jalan M. 
+
+Tahir Imam Lapeo, dan beberapa kawasan yang menjadi titik rawan banjir seperti di Binanga, Karema, dan Simbuang. 
+
+Banjir juga mengakibatkan beberapa rumah warga ikut tergenang. 
+
+Arif salah satu warga yang berada di kawasan Musa Karim, Kelurahan Karema memberikan kesaksian. 
+
+Sistem dranaise yang buruk serta mampet mengakibatkan banjir, hingga air masuk kedalam rumah setinggi satu meter, biasanya hanya sampai sebatas mata kaki orang dewasa, atau paling tinggi selutut saja, ini kok malah setinggi <TIMEX3 tid="t3" type="DATE" value="2018-02-01">hampir 1-2</TIMEX3> meteran, jelasnya. 
+
+Banjir <TIMEX3 tid="t4" type="DATE" value="2018">tahun ini</TIMEX3> memang sangat parah, saya berharap kepada pihak-pihak terkait untuk segera bertindak supaya banjir sebesar ini tidak terulang lagi, kata Arif. 
+
+Sementara seorang warga lain bernama Andika juga memberikan komentar mengenai banjir ini. 
+
+Selain itu, dinas terkait perlu rutin membersihkan selokan-selokan yang tersumbat. 
+
+Kita sebagai masyarakat atau warga juga perlu untuk aktif menjaga saluran air dari potensi sampah yang menyumbat. 
+
+Jika tidak, sebaik apapun sistem drainase akan mengalami kemacetan akibat sampah yang tertimbun di saluran air, jelasnya. 
+
+Dari prediksi saya, ada sekitar 70 persen saluran air yang mampet akibat masyarakat membuang sampah di selokan, jelasnya. 
+
+Berbeda halnya dengan Yudha. 
+
+Dia mengatakan, ketimbang anjungan Manakarra dibongkar, baiknya pemerintah memikirkan perbaikan dranaise yang rusak. 
+
+Dranaise dululah dibenahi daripada anjungan Makanarra, ujarnya. 
+
+Banjir di jalan Musa Karim, Mamuju. 
+
+Hal senada juga disampaikan, Jamal. 
+
+Termasuk di jalan Mengensidi yang paling parah karena saluran air tidak berfungsi, ujarnya.(toni) 
+</TEXT>
+
+</TimeML>

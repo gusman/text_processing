@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0843</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-05-25" temporalFunction="false" functionInDocument="CREATION_TIME">2016-05-25</TIMEX3></DCT>
+
+<TITLE>100 Hektare Lahan Sawah di Merdeka Kering</TITLE>
+
+<TEXT>
+Lahan sawah seluas sekitar 100 hektare di Kelurahan Merdeka, Kecamatan Kupang Tengah, Kabupaten Kupang, Nusa Tenggara Timur mengalami kekeringan akibat kemarau panjang dalam musim tanam 2015/2016. 
+
+Lahan sawah seluas sekitar 100 hektare itu dibiarkan begitu saja oleh para petani, karena tidak ada aliran air ke areal persawahan tersebut, kata Lurah Merdeka W Dj Tinenti ketika ditemui Antara di kantor kelurahan tersebut, <TIMEX3 tid="t1" type="DATE" value="2016-05-25">Rabu (25/5/2016)</TIMEX3>. 
+
+Ia menjelaskan lahan sawah seluas 100 hektare itu terletak di lokasi persawahan Oel O, sekitar 35 kilometer arah timur Kota Kupang, ibu kota Provinsi Nusa Tenggara Timur. 
+
+Sejak <TIMEX3 tid="t2" type="DATE" value="2016-02">Februari 2016</TIMEX3>, para petani di Oel O membiarkan sawahnya merana, karena tidak ada aliran air ke petak-petak sawah. 
+
+Situasi ini membuat para petani jadi kalut menghadapi musim paceklik <TIMEX3 tid="t3" type="DATE" value="2016">tahun ini</TIMEX3>, ujarnya. 
+
+Areal persawahan seluas 100 hektare di Oel O Merdeka itu, selama ini mendapat distribusi air dari Bendungan Tilong, sekitar 10 kilometer utara Kelurahan Merdeka. 
+
+<TIMEX3 tid="t4" type="DATE" value="2016">Tahun ini</TIMEX3> tidak ada distribusi air dari Bendungan Tilong, karena debit air di bendungan tersebut juga mengalami penyusutan yang cukup signifikan sekitar 60 persen menyusul El Nino. 
+
+Menurut dia, para petani sawah setempat sudah mengantisipasi dengan sumur bor, namun debit air dari sumur bor tersebut juga sangat kecil. 
+
+Sebagian petani sudah sempat menanam padi di areal persawahan yang ada, namun setelah itu layu dan akhirnya mati, karena tidak ada lagi suplai air dari sumur bor, katanya. 
+
+Ia mengatakan para petani di OelO meminta pemerintah untuk segera melakukan operasi pasar beras guna mengimbangi harga beras yang dijual para pedagang di pasar. 
+</TEXT>
+
+</TimeML>

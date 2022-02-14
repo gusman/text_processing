@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0822</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-21" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-21</TIMEX3></DCT>
+
+<TITLE>Kebakaran Meluas, TNGR Tutup Dua Jalur Pendakian Rinjani</TITLE>
+
+<TEXT>
+Area yang terbakar di Gunung Rinjani semakin meluas. 
+
+Kejadian ini dikhawartikan membahayakan bagi pendaki. 
+
+Sehingga Balai Taman Nasional Gunung Rinjani (TNGR) menutup dua jalur resmi Pelawangan dan Senaru untuk sementara. 
+
+Penutupan jalur itu sesuai surat nomor PG. 
+
+870/T.39/TU/KSA/10/2019 yang dikeluarkan <TIMEX3 tid="t1" type="DATE" value="2019-10-20">Minggu</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2019-10-20">20 Oktober 2019</TIMEX3>. 
+
+Pertimbangan penutupan itu setelah terdeteksi kebakaran hutan di kawasan TNGR sejak <TIMEX3 tid="t3" type="DATE" value="2019-10-18">Jumat</TIMEX3>, <TIMEX3 tid="t4" type="DATE" value="2019-10-18">18 Oktober</TIMEX3> hingga <TIMEX3 tid="t5" type="DATE" value="2019-10-20">Minggu</TIMEX3>, <TIMEX3 tid="t6" type="DATE" value="2019-10-20">20 Oktober 2019</TIMEX3>. 
+
+Dalam surat yang ditanda tangani Plt Kepala Balai TNGR Dwi Pangestu itu, penutupan akan dilakukan hingga batas waktu yang belum ditentukan. 
+
+Sementara pendaki yang sudah terlanjur memesan tiket melalui booking online, disarankan reschedule offline melalui pintu pendakian. 
+
+Dwi Pangestu yang dihubungi menjelaskan, pertimbangan diterbitkannya surat tersebut demi keselamatan pendaki. 
+
+Karena berdasarkan informasi di lapangan, titik hotspot kebakaran terjadi di wilayah kerja TNGR Resort Senaru, Anyar dan Santong. 
+
+Dalam penanganan kebakaran, TN Gunung Rinjani telah mengirim tiga tim ke resort Senaru, Anyar, Santong. 
+
+Prioritas tim Senaru adalah mencegah agar api tidak mengganggu jalur pendakian. 
+
+Sedangkan tim Anyar dan tim Santong mencegah agar api tidak turun ke tegakan, kata Dwi. 
+
+Tim Senaru bergerak sejak <TIMEX3 tid="t7" type="DATE" value="2019-10-19">Sabtu lalu</TIMEX3> sekitar <TIMEX3 tid="t8" type="TIME" value="2019-10-20T15:00">pukul 15.00</TIMEX3> Wita melalui jalur pendakian Senaru, terdiri dari 10 orang diantaranya Masyarakat Peduli Api (MPA), dua petugas TN Gunung Rinjani. 
+
+<TIMEX3 tid="t9" type="TIME" value="2019-10-20T20:30">Sekitar pukul 20.30</TIMEX3> Wita, tim tiba di sekitar KM 5 atau di bawah pos 3 jalur Pendakian Senaru. 
+
+Dengan pertimbangan keselamatan, tim memutuskan utuk bermalam di lokasi tersebut. 
+
+Dari pantauan Tim Senaru, wilayah yang terbakar dari atas Pos 3 jalur pendakian Senaru ke arah Barat hingga ke wilayah Resort Anyar dan Santong sepanjang Lendang Penyeranan. 
+
+Bahkan api sudah mengarah ke bawah mencapai tegakan hutan, papar Dwi. 
+
+Mengingat lokasi yang terbakar luas dan kondisi angin yang bertiup kencang, tepat <TIMEX3 tid="t10" type="TIME" value="2019-10-20T22:40">pukul 22.40</TIMEX3> Wita, Tim menyampaikan perlu dipertimbangkan untuk dilakukan penutupan jalur pendakian. 
+
+Karena khawatir kebakaran di jalur tidak dapat diatasi, jelasnya. 
+
+Berdasarkan pantauan dari Pos Senaru pada <TIMEX3 tid="t11" type="TIME" value="2019-10-20T20:00">pukul 20.00</TIMEX3> Wita, kondisi titik api di wilayah Stampol tidak terlihat lagi. 
+
+Pengunjung yang naik pada <TIMEX3 tid="t12" type="DATE" value="2019-10-19">tanggal 19 Oktober 2019</TIMEX3> sudah turun kembali. 
+
+Sementara yang masih bertahan di atas berjumlah tiga orang pegunjung. 
+
+Mereka tamu dari Senaru Trekking dengan satu orang guide. 
+
+Posisi pengunjung tersebut <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> berada di Pos 2 jalur pendakian. 
+
+Sementara pantauan <TIMEX3 tid="t14" type="TIME" value="2019-10-20">Minggu pagi kemarin</TIMEX3>, <TIMEX3 tid="t15" type="TIME" value="2019-10-20T07:00">sekitar pukul 07.00</TIMEX3> Wita Savana sekitar pos tiga jalur pendakian habis terbakar. 
+
+Sisa-sisa api masih terlihat di tajuk pohon. 
+
+Sementara untuk savana di Sampurarung Resort Anyar masih terlihat api di savana dan tegakan.Tim Resort Anyar direncanakan bergerak <TIMEX3 tid="t16" type="TIME" value="2019-10-21TMO">pagi ini</TIMEX3> dari TN75 Borobisak menuju perkiraan lokasi Sampurarung-Marung Meniris. 
+
+Sementara Tim Resort Santong bergerak <TIMEX3 tid="t17" type="TIME" value="2019-10-21TMO">pagi</TIMEX3> dari TN1 ke Gunung Malang terdiri dari terdiri 4 petugas dan 10 orang MPA. 
+
+Petugas rencana menggunakan drone, perkiraannya dari Gunung Malang dapat di-cover luasan area kebakaran sampai plawangan Senaru menggunakan drone, jelasnya.Dwi Pangestu menambahkan, penutupan jalur Senaru juga diterapkan di jalur Sembalun. 
+
+Terdeteksi, kebakaran hutan yang terjadi di jalur pendakian Senaru mengarah ke jalur pendakian Sembalun.Guna memaksimalkan penanganan kebakaran hutan, juga memastikan jalur pendakian aman, maka jalur ini juga ditutup. 
+
+Dihimbau kepada pengunjung, pelaku wisata maupun masyarakat untuk mentaati dan memaklumi kebijakan tersebut demi keselamatan dan keamanan bersama, tegasnya. 
+
+(ars) 
+</TEXT>
+
+</TimeML>

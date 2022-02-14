@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0006</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-26" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-26</TIMEX3></DCT>
+
+<TITLE>Tangani Kebakaran Lahan BNPB Kirim Heli Bom Air</TITLE>
+
+<TEXT>
+Badan Nasional Penanggulangan Bencana (BNPB) mengirimkan heli bom air untuk penanggulangan kebakaran lahan gambut. 
+
+<TIMEX3 tid="t1" type="DATE" value="2017-07-25">Kemarin</TIMEX3> heli berjenis MI 17 VN -8428 tiba di Bandara Cut Nyak Dhien Nagan Raya di Kubang Gajah, Kecamatan Kuala Pesisir, <TIMEX3 tid="t2" type="TIME" value="2017-07-25T16:00">pukul 16.00 WIB</TIMEX3>. 
+
+Komandan Kodim (Dandim) 0116/Nagan Raya, Letkol Kav Mochamad Wahyudi, mengatakan pihaknya sudah berkoordinasi penyiapan sarana dan prasarana dalam rangka penanggulangan bencana kebakaran lahan. 
+
+Heli bom air BNPB Pusat ini yang akan digunakan untuk bom air yang dijadwalkan untuk Wilayah Kabupaten Aceh Barat, Nagan Raya, dan Kabupaten Aceh Jaya, kata Dandim 0116/Nagan Raya, Letkol Kav Mochamad Wahyudi, <TIMEX3 tid="t3" type="DATE" value="2017-07-25">Selasa (25/7)</TIMEX3>. 
+
+Turut serta dalam rombongan BNPB, Jarwansyah, Kasubdit Kedaruratan BNPB. 
+
+Selain Dandim rombongan disambut T Saluna Polem, Kepala BPBD Kabupaten Aceh Barat. 
+
+Menurut Letkol Kav Mochamad Wahyudi, pilot dan kru berasal dari luar negeri. 
+
+Ia merinci nama-nama tersebut Hotan Phong (pilot dari Vietnam), Trvong Chongduc (kru dari Vietnam), Nguyen Yoei Hong (kru dari Vietnam), Buivan Hung (kru dari Vietnam), Trins hoang Xo (kru dari Vietnam), Nguyen Hanam (kru dari Vietnam), Wahyu Salma (Indonesia). 
+
+Untuk sementara ini heli bom air ini standby di Bndara Cut Nyak Dhien Nagan Raya, dan akan mulai beroperasi <TIMEX3 tid="t4" type="DATE" value="2017-07-27">besok</TIMEX3> (<TIMEX3 tid="t5" type="DATE" value="2017-07-26">hari ini</TIMEX3>) ke wilayah Aceh Barat, kata Letkol Kav Mochamad Wahyudi. 
+
+Kepala BPBD Nagan Raya, T Rahmadsyah mengatakan, kesiapan alat perlengkapan dari BPBD Nagan Raya dalam rangka penindakan dan pencegahan bahaya kebakaran hutan meliputi <TIMEX3 tid="t6" type="DATE" value="1000">1000</TIMEX3> buah masker, empat racun api, empat unit mobil pemadam kebakaran, satu unit mobil truk serbaguna, empat unit sepeda motor trail, empat unit perahu karet, delapan selang pemadaman kebakaran. 
+
+BPBD Nagan Raya terus berkoordinasi dengan BPBD Aceh Barat tentang rencana pengerahan heli BNPB untuk melaksanakan bom air, kata. 
+
+(ibr/mai) 
+</TEXT>
+
+</TimeML>

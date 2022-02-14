@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0680</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-30" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-30</TIMEX3></DCT>
+
+<TITLE>Kebakaran Hutan Gunung Arjuno, Kepulan Asap Masih Belum Padam dari Gunung Kembar 2</TITLE>
+
+<TEXT>
+Kota Batu menyebut jika masih terdapat kepulan asap di lokasi kebakaran di Gunung Arjuno. 
+
+Pembaharuan informasi yang dikeluarkan BPBD Kota Batu, kepulan asap itu masih terlihat di Gunung Arjuno, <TIMEX3 tid="t1" type="TIME" value="2019-09-30T10:00">Senin (30/9/2019) pukul 10.00 WIB</TIMEX3>. 
+
+Kepala Pelaksana BPBD Kota Batu, Sasmito menjelaskan, Tim 1 dan Tim 2 telah sampai di titik kebakaran di Gunung Kembar 2. 
+
+.30 <TIMEX3 tid="t2" type="TIME" value="UNKNOWN">WIB</TIMEX3>. 
+
+<TIMEX3 tid="t3" type="TIME" value="2019-09-29T09:32">Pukul 09.32 WIB</TIMEX3> diberangkatkan Tim 4 yang berjumlah 6 personel bersama Kepala UPT Tahura R Soerjo, Wahyudi, untuk membantu operasi pemadaman kebakaran hutan Gunung Arjuno, " ujar Sasmito melalui keterangan tertulis. 
+
+" Hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, asap masih terlihat di Gunung Kembar Dua, sambung dia. 
+
+Kebakaran hutan di kawasan Gunung Arjuno mulai terlihat sejak <TIMEX3 tid="t5" type="DATE" value="2019-09-28">dua hari lalu</TIMEX3>. 
+
+.00 <TIMEX3 tid="t6" type="TIME" value="UNKNOWN">WIB</TIMEX3> telah terjadi kebakaran hutan di Gunung Arjuno. 
+
+Achmad Chairur Rochim mengatakan, berdasarkan informasi dari Staf Tahura R Soeryo 04 Sumberbrantas, kebakaran hutan terjadi tepatnya di Gunung Kembar Satu, <TIMEX3 tid="t7" type="DATE" value="2019-09-28">Sabtu (28/9/2019)</TIMEX3>. 
+
+// <TIMEX3 tid="t8" type="DATE" value="PAST_REF">Saat itu</TIMEX3> juga, tim dari Tahura sejumlah 31 personel menuju lokasi untuk melakukan pemadaman secara manual dan api dapat dipadamkan, ujar Achmad Chairur Rochim dalam keterangan tertulisnya kepada Surya (Grup TribunMadura. 
+
+com), <TIMEX3 tid="t9" type="DATE" value="2019-09-29">Minggu (29/9/2019)</TIMEX3>. 
+
+Pada <TIMEX3 tid="t10" type="DATE" value="2019-09-29">Minggu (29/9/2019)</TIMEX3> sekitar <TIMEX3 tid="t11" type="TIME" value="2019-09-29T09:00">pukul 09.00 WIB</TIMEX3>, terpantau ada titik api baru yang diperkirakan berada di Gunung Kembar Dua. 
+
+.00 <TIMEX3 tid="t12" type="TIME" value="UNKNOWN">WIB</TIMEX3>. 
+
+<TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> Tim Reaksi Cepat Penanggulangan Bencana BPBD Kota Batu sudah di Pos Tahura R Soeryo 04 Desa Sumberbrantas untuk melakukan koordinasi dengan pihak terkait, " ucap Achmad Chairur Rochim. 
+
+" Informasi lain-lain akan kami sampaikan setelah ada perkembangan lebih lanjut, ujar dia. 
+
+Sebelumnya, kebakaran hutan juga sempat terjadi di Gunung Arjuno pada <TIMEX3 tid="t14" type="DATE" value="2019-07">bulan Juli 2019 lalu</TIMEX3>. 
+
+(Benni Indo) 
+</TEXT>
+
+</TimeML>

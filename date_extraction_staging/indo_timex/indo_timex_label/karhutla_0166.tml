@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0166</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-25</TIMEX3></DCT>
+
+<TITLE>Kualitas Udara Batam Berangsur Normal</TITLE>
+
+<TEXT>
+Kualitas udara Batam masih berada di kategori sedang. 
+
+Namun, secara umum, kualitas udara berangsur normal dalam <TIMEX3 tid="t1" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir. 
+
+Hal ini disampaikan Kepala Dinas Kesehatan (Dinkes) Batam, Didi Kusmarjadi, <TIMEX3 tid="t2" type="DATE" value="2019-09-24">Selasa (24/9/2019)</TIMEX3>. 
+
+Menurutnya, meskipun di daerah tetangga status sudah masuk berbahaya, ia berharap kondisi tersebut tidak terjadi di Batam karena asap kiriman dari daerah lain. 
+
+Sejauh ini masih sedang. 
+
+Tapi belum tahu <TIMEX3 tid="t3" type="TIME" value="2019-09-25TAF">sore nanti</TIMEX3> (<TIMEX3 tid="t4" type="DATE" value="2019-09-24">kemarin</TIMEX3>) karena selalu ada perubahan kualitas udara, sebutnya. 
+
+Didi mengimbau masyarakat untuk menggunakan masker dan mengurangi aktivitas di luar rumah, terutama untuk ibu hamil dan anak-anak, hingga status dan kualitas udara normal kembali. 
+
+Cerah tapi status masih sedang. 
+
+Mudah-mudahan hujan kembali turun jadi bisa mengusir asap ini, imbuh Didi. 
+
+Ia menyebutkan, hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">kini</TIMEX3> peningkatan kasus gangguan pernapasan sudah mulai terlihat hampir di seluruh puskesmas yang ada. 
+
+Peningkatan 50-100 persen sejak serbuan kabut asap menyelimuti Kota Batam. 
+
+<TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> kita lihat grafiknya <TIMEX3 tid="t7" type="DATE" value="2019-10-25">awal bulan depan</TIMEX3>. 
+
+Berapa jumlah pasien akibat gangguan kabut asap ini, ucapnya. 
+
+Ratusan ribu masker N90 masih tersedia untuk dibagikan kepada masyarakat jika stasiun Indeks Standar Pencemar Udara (ISPU) menunjukkan angka di atas 100. 
+
+Persediaan masih cukup. 
+
+Tetap gunakan masker bagi yang ingin ke luar rumah, imbaunya. 
+
+Sementara itu, Humas Kapal Dumailine, Asmadi, mengatakan pelayaran tetap berjalan normal. 
+
+Untuk daerah yang berdekatan dengan lokasi kebakaran lahan sejauh ini juga masih aman untuk dilalui. 
+
+Kapten kapal hanya mengurangi kecepatan saja, katanya. 
+
+Kondisi <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, menurutnya, lebih baik dari kebakaran lahan yang terjadi <TIMEX3 tid="t9" type="DATE" value="PXY">beberapa tahun lalu</TIMEX3>. 
+
+Kala itu, keberangkatan kapal harus dihentikan karena kabut asap yang sangat tebal dan tidak aman bagi pelayaran. 
+
+Tentu kita berharap asap segera pergi. 
+
+Agar tidak ada kekhawatiran baik penumpang maupun operator kapal, tutupnya.Rute Pesawat ke Luar Daerah TergangguRute penerbangan dari Bandara Internasional Hang Nadim Batam ke beberapa daerah terdampak kabut asap mengalami gangguan. 
+
+Sejak kasus kabut asap, gangguan yang terjadi seperti penundaan (delay) hingga pembatalan penerbangan.Direktur Badan Usaha Bandar Udara Hang Nadim, Suwarso, mengaku ada enam daerah tujuan yang terkendala penerbangannya akibat kabut asap.Yakni Letung (Anambas), Natuna, Dumai, Jambi, Pekanbaru dan Pontianak, katanya, <TIMEX3 tid="t10" type="DATE" value="2019-09-24">Selasa (24/9)</TIMEX3>.Ia merinci, untuk penerbangan Batam menuju ke Letung, beberapa kali terjadi pembatalan. 
+
+Sedangkan ke Natuna ada yang mengalami delay, namun sering juga terjadi pembatalan penerbangan. 
+
+Sementara itu, rute Batam menuju ke Pekanbaru, Jambi, Dumai dan Pontianak, rata-rata mengalami delay.Biasanya penerbangan <TIMEX3 tid="t11" type="TIME" value="2019-09-25TMO">pagi hari</TIMEX3> (sering) delay. 
+
+Karena kabut asap mulai memudar di <TIMEX3 tid="t12" type="TIME" value="2019-09-24TAF">siang hari</TIMEX3>. 
+
+Setiap harinya ke Letung ada satu penerbangan, Natuna satu penerbangan, Pekanbaru itu sekitar 2 hingga 3 penerbangan, Jambi satu penerbangan, Pontianak satu penerbangan dan Dumai juga satu penerbangan, ungkapnya.Ia berharap kabut asap ini segera hilang. 
+
+Sehingga, penerbangan dapat kembali lancar dan normal ke beberapa daerah di Sumatera dan Kalimantan.Terkait kabut asap, Prakirawan Forecaster Stasiun Meteorologi (Stamet) Hang Nadim, Noah Dirgantara Ginting, mengatakan peluang hujan <TIMEX3 tid="t13" type="DURATION" value="PXD">beberapa hari ke depan</TIMEX3> akan semakin meningkat. 
+
+Hujan, katanya akan menghilangkan titik api (hotspot) dan memudarkan kabut asap.Kemungkinan hujan cukup besar, dan akan terjadi mulai <TIMEX3 tid="t14" type="TIME" value="2019-09-24TAF">siang</TIMEX3> hingga <TIMEX3 tid="t15" type="TIME" value="2019-09-24TAF">sore</TIMEX3>. 
+
+Kemungkinan hujan saat dini hari juga cukup besar, ungkapnya.Kabut asap di Batam dan beberapa daerah lainnya di Kepri, kata dia, merupakan kiriman dari Riau dan Pontianak. 
+
+Walaupun begitu, dalam <TIMEX3 tid="t16" type="DATE" value="UNKNOWN">beberapa hari ini</TIMEX3> kabut asap sudah mulai memudar. 
+
+Jarak pandang di beberapa wilayah juga mulai membaik.Hari ini saja, di Hang Nadim jarak pandang sudah mencapai 5 ribu meter. 
+
+Sementara itu di Natuna dan Tarempa sudah di atas 2 ribu meter. 
+
+Semoga saja terus membaik, tuturnya.Kini, hotspot di Kepri hanya tersisa satu. 
+
+Dan ia berharap masyarakat untuk tidak melakukan kegiatan membakar sampah atau membuang puntung rokok sembarangan.Saya mengimbau untuk wilayah Natuna dan Anambas agar berhati-hati, karena potensi gelombang hingga 2 meter, pungkasnya. 
+
+(yui/ska/eja) 
+</TEXT>
+
+</TimeML>

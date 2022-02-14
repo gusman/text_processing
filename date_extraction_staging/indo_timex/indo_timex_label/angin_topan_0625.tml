@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0625</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-06-24" temporalFunction="false" functionInDocument="CREATION_TIME">2016-06-24</TIMEX3></DCT>
+
+<TITLE>Pemadam Kebakaran Kubu Raya Tewas Tertimpa Pohon</TITLE>
+
+<TEXT>
+Kartu keanggotaan Recky yang tewas akibat tertimpa pohon. 
+
+Kalbar, MK Recky Julianto, pengendara sepeda motor yang tengah melintas di Jalan Adicucipto, Sungai Raya, Kabupaten Kubu Raya, tewas seketika karena tertimpa pohon Akasia yang tumbang akibat terpaan angin kencang, <TIMEX3 tid="t1" type="DATE" value="2016-06-22">Rabu (22/6)</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2016-06-23T13:00">sekitar pukul 13.00 WIB</TIMEX3>. 
+
+Korban yang diketahui merupakan anggota pemadam kebakaran Sungai Kakap saat kejadian tengah mengendarai sepeda motor dengan nomor polisi KB <TIMEX3 tid="t3" type="DATE" value="2750">2750</TIMEX3> OV dari arah Supadio menuju Pontianak. 
+
+Tepat di depan Vihara Tri Sarana, Parit Baru tiba-tiba pohon Akasia tumbang dan menimpa korban. 
+
+Kapolsek Sungai Raya, Kompol Dwi Budi Murtiono kepada Metro Kaltara mengatakan dari keterangan saksi yang menolong <TIMEX3 tid="t4" type="DATE" value="PAST_REF">saat itu</TIMEX3> memang sedang hujan disertai angina kencang. 
+
+Sewaktu berada di depan Vihara, tiba-tiba pohon Akasia yang berada di pinggir jalan tumbang dan menimpa kendaraan yang ditunggangi korban hingga menyebabkan korban terjatuh. 
+
+Ia menuturkan korban mengalami luka parah di kepala sebelah kiri. 
+
+Warga yang menolong langsung berusaha menyelamatkan korban dengan membawanya ke rumah sakit, jelasnya. 
+
+Namun, sebelum korban sampai di rumah sakit, nyawanya sudah tidak dapat tertolong. 
+
+Luka akibat tertimpa pohon itu cukup parah, sehingga nyawa korban tak dapat lagi diselamatkan, imbuhnya. 
+
+Dwi berharap kepada Dinas Kebersihan dan Pertamanan Kabupaten Kubu Raya dan instansi terkait untuk segera melakukan pengecekan terhadap pohon-pohon yang rapuh untuk dilakukan penebangan agar tk terjadi lagi hal serupa. 
+
+Kami pun mengimbau masyarakat untuk lebih berhati-hati, ketika kondisi cuaca buruk, angin kencang disertai hujan lebih baik untuk berhenti berkendara dan mencari tempat yang aman, tuturnya. 
+
+(lyn/MK*1) 
+</TEXT>
+
+</TimeML>

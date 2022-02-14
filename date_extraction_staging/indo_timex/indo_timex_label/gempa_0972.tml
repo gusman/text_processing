@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0972</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-06" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-06</TIMEX3></DCT>
+
+<TITLE>BMKG Berikan Penjelasan Soal Gempa Lombok 147 Kali</TITLE>
+
+<TEXT>
+Terkait gempa yang terjadi di 4 daerah, Kepala Badan Meterologi, Klimatologi, dan Geofisika (BMKG) Pusat, Dwikorita Karnawati di Jakarta, <TIMEX3 tid="t1" type="DATE" value="2018-08-06">Senin (6/8/2018)</TIMEX3>, menjelaskan berdasarkan pantauan BMKG, hingga <TIMEX3 tid="t2" type="TIME" value="2018-08-05T12:00">pukul 12.00</TIMEX3> Wita, telah terjadi sebanyak 147 gempa bumi susulan. 
+
+" Magnitudo terbesar pada 5,7SR dari kejadian gempa bumi tadi <TIMEX3 tid="t3" type="TIME" value="2018-08-05TNI">malam</TIMEX3>. 
+
+Dari 147 gempa bumi susulan, sebanyak 13 gempa yang dirasakan oleh masyarakat, " imbuhnya. 
+
+Dwikorita menuturkan, munculnya gempa bumi susulan merupakan mekanisme alam untuk menghabiskan energi gempa yang masih tersisa. 
+
+Dengan demikian setelahnya batuan atau lempeng bumi kembali dalam kondisi stabil. 
+
+Lebih lanjut ia menerangkan, gempa bumi yang mengguncang Pulau Lombok, Bali, Sumbawa, dan Jawa Timur <TIMEX3 tid="t4" type="DATE" value="2018-08-05">Minggu (5/8/2018)</TIMEX3> merupakan gempa bumi dangkal akibat aktivitas Sesar Naik Flores (Flores Back Arc Thrust). 
+
+Hasil analisis mekanisme sumber menunjukkan gempa ini, dibangkitkan oleh deformasi batuan dengan mekanisme pergerakkan Patahan Naik (thrustfault). 
+
+Kepala BMKG Pusat, Dwikorita Karnawati di Jakarta, <TIMEX3 tid="t5" type="DATE" value="2018-08-06">Senin (6/8/2018)</TIMEX3>, hingga <TIMEX3 tid="t6" type="DATE" value="2018-08-06">Senin (6/8/2018)</TIMEX3>, jumlah korban meninggal dunia akibat gempa Lombok mencapai 91 orang. 
+
+Dan sebanyak 209 orang dilaporkan luka-luka. 
+
+Seperti diketahui, Lombok Utara, Nusa Tenggara Barat (NTB) diguncang Gempa berkekuatan 7 SR, <TIMEX3 tid="t7" type="TIME" value="2018-08-05T19:46">Minggu (5/8/2018) pukul 19.46</TIMEX3> Wita.Lokasi gempa berada dititik 8.37LS dan 116.48BT pada lereng Utara-Timur Laut G Rinjani.Gempa terjadi pada kedalaman 15 km dan sempat dinyatakan berpotensi tsunami. 
+
+// Dwikorita menerangkan, berdasarkan pantauan BMKG, hingga <TIMEX3 tid="t8" type="TIME" value="2018-08-05T12:00">pukul 12.00</TIMEX3> Wita, <TIMEX3 tid="t9" type="DATE" value="2018-08-06">Senin (6/8/2018)</TIMEX3>, telah terjadi sebanyak 147 gempa bumi susulan. 
+
+" Magnitudo terbesar pada 5,7SR dari kejadian gempa bumi tadi <TIMEX3 tid="t10" type="TIME" value="2018-08-05TNI">malam</TIMEX3>. 
+
+Dari 147 gempa bumi susulan, sebanyak 13 gempa yang dirasakan oleh masyarakat, " imbuhnya. 
+
+Sementara itu, Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho menambahkan, evakuasi korban terkendala terbatasnya alat berat, sedangkan bangunan mengalami kerusakan cukup parah. 
+
+BNPB mencatat daerah terparah terdampak gempa berkekuatan 7 SR adalah Kabupaten Lombok Utara, Lombok Timur dan Kota Mataram. 
+
+Berdasarkan laporan dari BPBD Provinsi NTB, dari 39 orang meninggal dunia, korban berasal dari Kabupaten Lombok Utara 65 orang. 
+
+Kemudian Lombok Barat 9 orang, Lombok Tengah 2 orang, Kota Mataram 4 orang, dan Lombok Timur 2 orang. 
+
+Hingga <TIMEX3 tid="t11" type="TIME" value="2018-08-06">Senin pagi</TIMEX3> BMKG mencatat masih terjadi 132 gempa susulan. 
+
+Gempa susulan yang terakhir terjadi berkekuatan 5,4 Skala Richter di 12 kilometer Barat Daya Lombok Utara pada <TIMEX3 tid="t12" type="TIME" value="2018-08-05T08:28">pukul 08.28</TIMEX3> Wita. 
+</TEXT>
+
+</TimeML>

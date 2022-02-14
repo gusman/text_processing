@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0925</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-14" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-14</TIMEX3></DCT>
+
+<TITLE>Upaya Pemadaman Kebakaran Lahan di Belakang Rutan Lubuk Lagak Sambas</TITLE>
+
+<TEXT>
+Kebakaran hutan dan lahan kembali terjadi di Kabupaten Sambas. 
+
+Kali ini musibah kebakaran tersebut terjadi di Dusun Sebenua, RT <TIMEX3 tid="t1" type="DATE" value="2018-07-15">15/07</TIMEX3>, Desa Lubuk Lagak Kecematan Sambas. 
+
+Dari informasi yang di himpun Tribun, kebakaran tersebut terjadi <TIMEX3 tid="t2" type="TIME" value="2018-08-13T00:11">sekitar pukul 00.11</TIMEX3> Wib <TIMEX3 tid="t3" type="TIME" value="2018-08-13TNI">malam</TIMEX3>. 
+
+Dan titik lokasi kebakaran yang tidak jauh dari Rutan Lubuk Lagak Kabupaten Sambas itu pun menarik perhatian warga. 
+
+Dalam sekejap, masyarakat dan perangkat desa setempat langsung bahu-membahu memadamkan api. 
+
+Dengan turut di bantu oleh Pemadam kebakaran Kabupaten Sambas. 
+
+Simak Videonya Berikut Ini. 
+
+
+</TEXT>
+
+</TimeML>

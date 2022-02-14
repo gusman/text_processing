@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0586</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-01</TIMEX3></DCT>
+
+<TITLE>Pemkab PPU Buka Posko Peduli Sulteng</TITLE>
+
+<TEXT>
+Guna membantu korban bencana gempa bumi dan tsunami di Kabupaten Donggala, Kota Palu, Kabupaten Parigi Moutong, Kabupaten Poso, Kabupaten Tolitoli, Provinsi Sulawesi Tengah (Sulteng), Pemkab Penajam Paser Utara (PPU) membuka Posko Peduli Bencana Sulteng sejak <TIMEX3 tid="t1" type="DATE" value="2018-09-01">1 September</TIMEX3> hingga <TIMEX3 tid="t2" type="DATE" value="2018-11-14">14 November 2018</TIMEX3> bertempat di depan kantor Bupati Jalan Provinsi Km 9, Kelurahan Nipah Nipah, Kecamatan Penajam, PPU. 
+
+Keputusan untuk membuka Posko Peduli Bencana Sulteng tersebut merupakan hasil keputusan rapat koordinasi tanggap darurat bencana Sulteng, <TIMEX3 tid="t3" type="DATE" value="2018-10-01">Senin (1/10/2018)</TIMEX3> yang digelar Pemkab PPU dihadiri sejumlah pemerintahan daerah. 
+
+Kepala Dinas Komunikasi dan Informasi (Diskominfo), Budi Santoso didamping Kasi Pengelolaan Informasi dan Komunikasi Publik Diskominfo PPU, Helena mengatakan, selain membuka Posko tersebut dalam rapat itu juga memutuskan sejumlah point, antara lain, seluruh hasil penggalangan dana dan bantuan logistik di wilayah PPU dikumpulkan di Posko Peduli Bencana Pemkab PPU. 
+
+Untuk Rekening Penggalangan Dana di Kabupaten PPU bisa disalurkan melalui Rekening BPD atas nama PPU Peduli nomor rekening <TIMEX3 tid="t4" type="DATE" value="UNKNOWN">0132 3000</TIMEX3> 03, ujarnya. 
+
+Ditambahkannya, terkait rencana Pengiriman Relawan ke Sulteng dikoordinir oleh Bagian Kesra Setkab PPU, relawan yang akan dikirim harus memiliki Skill sesuai dengan kateristik yang dibutuhkan disana. 
+
+Untuk diketahui, tutur Helena, Pemkab PPU akan membuka posko peduli bencana di halaman Pemkab mulai <TIMEX3 tid="t5" type="DATE" value="2018-10-01">senin</TIMEX3> hari ini hingga <TIMEX3 tid="t6" type="DURATION" value="P2W">dua minggu</TIMEX3> kedepan sejak <TIMEX3 tid="t7" type="TIME" value="2018-09-30T08:00">pukul 08.00</TIMEX3> Wita sampai dengan <TIMEX3 tid="t8" type="TIME" value="2018-09-30T22:00">22.00</TIMEX3> Wita. 
+
+Dinas Kesehatan siap mengirimkan dua unit ambulance, dua dokter dan empat orang perawat. 
+
+Rencana Pemkab PPU akan mengirimkan 14 Orang relawan, katanya. 
+
+Selain membuka posko bantuan, jelasnya, juga dibuka posko pencarian orang bagi Masyarakat PPU yang kehilangan kontak dengan keluarga mereka di derah bencana. 
+
+Bagi warga yang mengetahui tentang informasi lebih lanjut, silahkan menghubungi kontak Person Posko Peduli Bencana Sulteng atas mama Helena (081348760000) dan Deni (0821570053000), tutupnya. 
+
+Untuk diketahuui, gempa bumi dan tsunami di Sulteng berkekuatan 7,4 skala richter tersebut melanda Kabupaten Donggala, Sulawesi Tengah, Indonesia pada <TIMEX3 tid="t9" type="DATE" value="2018-09-28">tanggal 28 September 2018</TIMEX3>, <TIMEX3 tid="t10" type="TIME" value="2018-09-30T18:02">pukul 18.02 WITA</TIMEX3>. 
+
+Pusat gempa berada di 58 km timur laut Donggala dengan kedalaman 10 Km. 
+
+Guncangan gempa bumi dirasakan di Kota Palu, Kabupaten Parigi Moutong, Kabupaten Poso, Kabupaten Tolitoli, Kabupaten Mamuju bahkan hingga Kota Samarinda dan Kota Makassar. 
+
+Gempa memicu tsunami hingga ketinggian 1,5 meter di Kota Palu. 
+
+Hingga <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">kini</TIMEX3> korban meninggal dunia mencapai 1.203 orang. 
+
+
+</TEXT>
+
+</TimeML>

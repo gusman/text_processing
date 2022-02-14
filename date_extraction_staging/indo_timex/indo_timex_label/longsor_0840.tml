@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0840</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-03-29" temporalFunction="false" functionInDocument="CREATION_TIME">2015-03-29</TIMEX3></DCT>
+
+<TITLE>Badut dan Polwan Hibur Korban Longsor di Sukabumi</TITLE>
+
+<TEXT>
+Tim gabungan TNI, Polri, BPBD dan masyarakat masih terus melakukan pencarian terhadap korban longsor di Kampung Cimerak, RT 25 / RW 7 Desa Tenggal Panjang, Kecamatan Cirenghar, Kabupaten Sukabumi. 
+
+" Sejauh ini korban tertimbun ada 12 orang, yang sudah ditemukan sampai <TIMEX3 tid="t1" type="TIME" value="2015-03-28T13:00">pukul 13.00 WIB</TIMEX3> ada enam orang, " jelas Kabid Humas Polda Jabar, Kombes Pol Sulistyo Pudjo Hartono. 
+
+Selain melakukan pencarian terhadap para korban, tim telah mengevakuasi 80 warga selamat ke Balai Desa. 
+
+" Di Balai Desa itu kami hadirkan Badut dan Polwan untuk menghibur, terutama bagi anak-anak, " katanya. 
+
+Sejauh ini, lanjut Pudjo, bantuan dari masyarakat termasuk dari Bhayangkari Polres Sukabumi berupa sembako telah diterima oleh para korban. 
+
+" Anggota juga dalam misi kemanusiaan ini membantu pihak keluarga untuk melaksanakan pemakaman bagi korban yang sudah ditemukan, " tutupnya. 
+
+(nag) 
+</TEXT>
+
+</TimeML>

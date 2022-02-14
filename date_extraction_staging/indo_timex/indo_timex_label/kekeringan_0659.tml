@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0659</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-05</TIMEX3></DCT>
+
+<TITLE>Kekeringan Masih Terus Melanda Banyak Desa di Pamekasan, BPBD Gerojok 64 Ribu Liter Air Bersih</TITLE>
+
+<TEXT>
+Pemkab Pamekasan melalui BPBD Pamekasan mengirimkan 64 ribu liter air bersih gratis ke sejumlah desa yang masih terdampak kekeringan, <TIMEX3 tid="t1" type="DATE" value="2019-09-05">Sabtu (5/9/2019)</TIMEX3>. 
+
+Kali ini BPBD Pamekasan melakukan pengiriman ke, Desa Pasean, Desa Sanah Tenga, Desa Tlonto Rajeh, Desa Tagengser Dejeh dan Desa Pamaroh. 
+
+Supervisor Pusdal Ops BPBD Pamekasan, Budi Cahyono mengatakan, proses pengiriman kali ini dilakukan dari <TIMEX3 tid="t2" type="TIME" value="2019-10-05TMO">pagi</TIMEX3> hingga <TIMEX3 tid="t3" type="TIME" value="2019-10-04TNI">malam hari</TIMEX3>. 
+
+Ada sekitar delapan armada tangki yang dikerahkan ke sejumlah desa di Pamekasan yang masih terdampak kekeringa. 
+
+" Per tangki itu isinya <TIMEX3 tid="t4" type="DATE" value="8000">8000</TIMEX3> air. 
+
+Jadi <TIMEX3 tid="t5" type="DATE" value="2019-10-05">hari ini</TIMEX3> kita ngirim 64 ribu liter. 
+
+Pengiriman sampai <TIMEX3 tid="t6" type="TIME" value="2019-10-04TNI">malam</TIMEX3> pun akan kami layani, " katanya. 
+
+Budi Cahyono juga mengutarakan, pihaknya memperkirakan, kekeringan di Pamekasan ini masih akan terus berlanjut sampai <TIMEX3 tid="t7" type="DATE" value="2019-11">awal November 2019</TIMEX3>. 
+
+Untuk mengantisipasi kebutuhan air bersih yang dibutuhkan oleh warga pedesaan, kata Budi setiap harinya, BPBD Pamekasan selalu memberikan bantuan air bersih secara gratis. 
+
+" Masyarakat cukup antusias menerima dan mengambil air dari tangki. 
+
+Mereka antrenya juga teratur, " ujarnya.Budi Cahyono juga mengimbau kepada masyarakat Pamekasan untuk selalu menghemat air, karena <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih sedang berlangsung <TIMEX3 tid="t9" type="DATE" value="2019-SU">musim kemarau</TIMEX3>. " Kepada warga diharap gunakan air secukupnya, dan pakailah air seperlunya saja, " imbaunya. 
+</TEXT>
+
+</TimeML>

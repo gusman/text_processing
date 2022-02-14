@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0338</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-16" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-16</TIMEX3></DCT>
+
+<TITLE>Hujan Deras, Beberapa Daerah di Kota Bandung Kembali Dikepung Banjir</TITLE>
+
+<TEXT>
+Beberapa daerah di Kota Bandung terdampak banjir akibat hujan deras yang mengguyur, <TIMEX3 tid="t1" type="DATE" value="2020-02-16">Minggu 16 Februari 2020</TIMEX3>. 
+
+Dilaporkan, di beberapa daerah di Kota Bandung, ketinggian air cileuncang bervariasi dan berpotensi terus meningkat jika hujan terus turun. 
+
+Dalam laporan yang masuk ke media sosial PRFM baik twitter maupun instagram semenjak hujan <TIMEX3 tid="t2" type="TIME" value="2020-02-15T13:00">pukul 13.00 WIB</TIMEX3> hingga <TIMEX3 tid="t3" type="TIME" value="2020-02-15T16:10">pukul 16.10 WIB</TIMEX3> ada 7 (tujuh) titik yang dilaporkan kebanjiran. 
+
+.53 <TIMEX3 tid="t4" type="TIME" value="UNKNOWN">WIB</TIMEX3> akun twitter budi_mania melaporkan ada genangan di sekitar perlintasan kereta api jalan Laswi. 
+
+Pada <TIMEX3 tid="t5" type="TIME" value="2020-02-15T14:07">pukul 14.07 WIB</TIMEX3> akun twitter hamdock mengabarkan ada banjir di sekitar SPBU Cikadut. 
+
+Kemudian akun twitter nurkhot_ pada <TIMEX3 tid="t6" type="TIME" value="2020-02-15T14:29">pukul 14.29</TIMEX3> mengabarkan ada genangan lumayan tinggi di jl gudang utara. 
+
+Jalan Cijawura Ciwastra kembali banjir seperti dilaporkan akun twitter yunitarg pada <TIMEX3 tid="t7" type="TIME" value="2020-02-15T15:44">pukul 15.44 WIB</TIMEX3>. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0481</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-09" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-09</TIMEX3></DCT>
+
+<TITLE>Warga Desa Jurangjero Dapat Bantuan Air Bersih</TITLE>
+
+<TEXT>
+Bencana kekeringan yang melanda Gunungkidul tengah memasuki <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">bulan ketiga</TIMEX3>. 
+
+Berdasar data Badan Penanggulangan Bencana Daerah (BPBD) Gunungkidul, memasuki <TIMEX3 tid="t2" type="DATE" value="2019-06">bulan Juni 2019</TIMEX3> tercatat sebanyak 14 kecamatan sedang mengalami kekeringan dan berpotensi krisis air bersih, atau sebanyak 105.234 jiwa di Gunungkidul tengah terdampak kekeringan, <TIMEX3 tid="t3" type="DATE" value="2019-07-05">Jumat (5/7)</TIMEX3>. 
+
+Sulitnya memperoleh air bersih membuat sejumlah warga Gunungkidul terpaksa harus berusaha ekstra untuk mendapatkan air, salah satunya adalah Kecamatan Ngawen. 
+
+Di Kecamatan Ngawen hanya tersedia beberapa sumur yang hampir seluruhnya kering, tempat penampungan air juga mulai kering tak terisi hingga terlihat kerak yang mulai mengelupas, ujar relawan MRI Sarah saat memberikan bantuan air bersih di Kecamatan Ngawen-Gunungkidul. 
+
+Sebagai bentuk kepedulian atas bencana kekeringan yang melanda Gunungkidul, tim dari Lembaga Kemanusiaan Aksi Cepat Tanggap (ACT) bersama Masyarakat Relawan Indonesia (MRI) mengirim sedikitnya 15 ribu liter air bersih untuk didistribusikan kepada warga Desa Jurangjero, Ngawen, Gunungkidul. 
+
+Senyum bahagia bersambut gembira terpancar dari warga Desa Jurangjero yang sudah lama menanti air bersih di desa mereka. 
+
+Dengan antusias warga Jurangjero berbondong-bondong membawa jeriken untuk dapat di isi air. 
+
+Ya Allah, terima kasih akasih banyak sudah mau memberikan bantuan air bersih, sumber air di desa sudah kering, sumur-sumur juga kering, biasanya hanya bisa ambil air di sumber air kecil yang tempatnya jauh dan kami harus jalan kaki karena jalannya jelek, terjal berbatu, ucap Narno, 65, sembari memanggul jeriken besar berisi 25 liter air bersih. 
+
+Biasanya warga Jurangjero ketika membeli air dari truk tangki swasta membutuhkan biaya yang tidak sedikit rata-rata untuk sekali pengiriman air membutuhkan biaya hingga Rp 350.000 per tangki sehingga tidak semua keluarga mampu membeli air, tidak lain karena faktor ekonomi. 
+
+SSementara itu, selama <TIMEX3 tid="t4" type="DATE" value="2019-SU">musim kemarau</TIMEX3> ACT menargetkan program dropping air bersih di Gunungkidul sebanyak 500 tangki atau kurang lebih 2,5 juta liter air bersih. 
+
+(*/ila) 
+</TEXT>
+
+</TimeML>

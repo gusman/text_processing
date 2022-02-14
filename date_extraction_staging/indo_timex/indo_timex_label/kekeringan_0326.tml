@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0326</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">2018-11-02</TIMEX3></DCT>
+
+<TITLE>Warga Terpaksa Mencuci di Sungai Soka, Sumur Warga Masih Kering</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DURATION" value="P3M">Tiga bulan</TIMEX3> terakhir, warga Desa Cempaka, Kecamatan Plumbon, Kabupaten Cirebon, terpaksa harus mencuci di Sungai Soka yang terletak sekitar satu kilometer dari rumah warga. 
+
+Hal itu dikarenakan kondisi sumur warga yang semakin kering. 
+
+Jangankan untuk mencuci dan mandi, untuk kebutuhan air minum saja warga terpaksa harus membeli. 
+
+" Belum pernah mendapatkan bantuan air, hujan juga belum turun. 
+
+Kadang-kadang kalau buat minum, sih, minta ke tetangga yang langganan air dari PDAM, " ujar seorang warga, Samiri (43), saat ditemui di Sungai Soka, Cempaka, Kecamatan Plumbon, Kabupaten Cirebon, <TIMEX3 tid="t2" type="DATE" value="2018-11-02">Jumat (2/11/2018)</TIMEX3>. 
+
+Kekeringan yang dialami warga Desa Cempaka sudah jadi tradisi tahunan. 
+
+" <TIMEX3 tid="t3" type="SET" value="P1Y">Setiap tahun</TIMEX3> juga begini, tapi belum pernah mendapatkan bantuan, " kata warga lainnya, Nita Indah Wati (28), kepada Tribun Jabar. 
+
+Saat kemarau, warga akan mencuci dan mandi di Sungai Soka. 
+
+Air di sungai itu diklaim bersih oleh warga. 
+
+. 
+
+Kadang keseringannya, sih, sambil nyuci tuh sambil mandi, " kata Samiri.Menurut Samiri, jika <TIMEX3 tid="t4" type="TIME" value="2018-11-02TMO">pagi</TIMEX3> dan <TIMEX3 tid="t5" type="TIME" value="2018-11-01TAF">sore hari</TIMEX3>, Sungai Soka akan dipenuhi warga Desa Cempaka yang mencucui dan mandi.Namun, jika <TIMEX3 tid="t6" type="DATE" value="2017-WI">musim hujan</TIMEX3>, kebutuhan air warga Desa Cempaka tercukupi. 
+</TEXT>
+
+</TimeML>

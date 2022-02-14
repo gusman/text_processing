@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0339</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-21" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-21</TIMEX3></DCT>
+
+<TITLE>Pasca Gempa Tasikmalaya dengan Magnitudo 4,9, Longsor Terjadi di Jalan Raya Limbangan</TITLE>
+
+<TEXT>
+Pasca gempa bumi yang mengguncang Tasikmalaya dengan magnitudo 4,9, <TIMEX3 tid="t1" type="TIME" value="2020-02-21">Jumat 21 Februari 2020 pagi tadi</TIMEX3>, terjadi lonngsor di Jalan Raya Limbangan, Kabupaten Garut. 
+
+Kepala Bidang Pencegahan dan Kesiapsiagaan BPBD Garut Agus Sofyan menyebutkan, titik longsor di Jalan Raya Limbangan-Tasikmalaya samping SMKN 6 Garut. 
+
+" Telah terjadi longsoran tepat di samping SMKN 6 Garut Jalan Raya Limbangan-Tasik pada <TIMEX3 tid="t2" type="TIME" value="2020-02-20T09:00">sekitar pukul 9.00 WIB</TIMEX3>, " ucap Agus melalui pesan singkat yang dikutip dari PRFM pada <TIMEX3 tid="t3" type="DATE" value="2020-02-21">Jumat</TIMEX3>, <TIMEX3 tid="t4" type="DATE" value="2020-02-21">21 Februari 2020</TIMEX3>. 
+
+. 
+
+Kepala Satuan Lalu Lintas Polres Garut AKP Asep Nugraha menyatakan bahwa longsoran di jalan nasional kawasan Cijolang, Kecamatan Limbangan, Kabupaten Garut, Jawa Barat, <TIMEX3 tid="t5" type="TIME" value="2020-02-21">Jumat pagi</TIMEX3>, tidak mengganggu arus lalu lintas di Jalan Raya Bandung-Garut itu. 
+
+Longsoran tebing sepanjang 50 meter dan tinggi 12 meter itu tidak menimbulkan korban jiwa atau merusak bangunan lainnya. 
+
+Dikutip PikiranRakyat-Tasikmlaya. 
+
+com dari situs Antara, kondisi lalu lintas tepat berjalan pasca longsor. 
+
+" Longsor di Cijolang namun tidak mengganggu arus, " kata Asep Nugraha. 
+
+
+</TEXT>
+
+</TimeML>

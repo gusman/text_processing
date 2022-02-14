@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0709</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-03" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-03</TIMEX3></DCT>
+
+<TITLE>Hujan Deras di Bojonegoro Sebabkan Banjir dan Longsor di Kecamatan Gondang</TITLE>
+
+<TEXT>
+Hujan deras yang terjadi di sebagian wilayah Bojonegoro, <TIMEX3 tid="t1" type="DATE" value="2019-03-03">Minggu (3/3/2019)</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2019-03-02T15:00">sekitar pukul 15.00 WIB</TIMEX3>, menyebabkan banjir di Kecamatan Gondang. 
+
+Setidaknya, tiga desa di kecamatan setempat terdampak banjir akibat hujan deras tersebut. 
+
+Bahkan, berdasarkan laporan yang diterima BPBD dari camat setempat, hujan deras juga mengakibatkan longsor. 
+
+" Laporan yang kami terima memang terjadi banjir dan longsor di tiga desa di Kecamatan Gondang, " Kata Plt Kepala Pelaksana BPBD Kabupaten Bojonegoro, Nadhif Ulfia kepada wartawan. 
+
+. 
+
+Kemudian ada Desa Seganten yang terdapat beberapa rumah hanyut. 
+
+Terakhir, Desa Sambongrejo yang mengalami tanah longsor. 
+
+" Itu data berdasarkan laporan camat, kita akan cek juga di lapangan bagaimana perkembangannya. 
+
+Untuk kerugian masih dalam taksiran, " Pungkas Ulfia. 
+
+
+</TEXT>
+
+</TimeML>

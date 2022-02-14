@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1029</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-24" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-24</TIMEX3></DCT>
+
+<TITLE>Satu Warga Tewas Akibat Longsor di Malimbong Balepe Toraja</TITLE>
+
+<TEXT>
+Bencana tanah longsor yang terjadi di Desa Leppan, Kabupaten Tana Toraja, tepatnya di Jalan Poros Toraja Pinrang, <TIMEX3 tid="t1" type="TIME" value="2020-02-24TMO">Senin (24/2) pagi</TIMEX3> menelan korban jiwa. 
+
+Kepala Pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Tana Toraja, Afian Andi Lolo yang dikonfirmasi mengatakan, kejadian naas itu terjadi saat sejumlah petugas melakukan pembersihan material longsor di lokasi tersebut. 
+
+Sementara pembersihan material longsor, <TIMEX3 tid="t2" type="DATE" value="PAST_REF">saat itu</TIMEX3> dua orang melintas menggunakan sepeda motor menuju Makale. 
+
+Tiba-tiba longsor susulan menimpa keduanya, kata Alfian, <TIMEX3 tid="t3" type="DATE" value="2020-02-24">Senin (24/2)</TIMEX3>. 
+
+Korban meninggal dunia atas nama Indo Sudiar (40). 
+
+Korban ini yang dibonceng. 
+
+Sementara yang membonceng selamat. 
+
+Korban yang meninggal dunia itu sebelumnya sempat di bawa ke Pustu terdekat, tapi nayawanya tidak tertolong, lanjutnya. 
+
+Menurut Alfian, <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kasus tersebut telah ditangani Polres Tana Toraja. 
+
+Jenazah korban juga sudah disemayamkan di rumah duka di Desa Leppan, terangnya. 
+
+Alfian mengimbau masyarakat untuk sementara tidak melintas di jalan tersebut, sampai proses pengerjaan pembersihan material longsor di lokasi tersebut selesai. 
+
+Kalau pun harus melintas, kami minta warga waspada dan berhati-hati, pungkasnya. 
+
+Reporter: Editor: RedaksiFirdaus 
+</TEXT>
+
+</TimeML>

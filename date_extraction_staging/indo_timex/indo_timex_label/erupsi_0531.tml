@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0531</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-07-16" temporalFunction="false" functionInDocument="CREATION_TIME">2015-07-16</TIMEX3></DCT>
+
+<TITLE>1.200 Penumpang Pesawat di Banjarmasin Gagal Pulang Kampung</TITLE>
+
+<TEXT>
+Ribuan calon penumpang yang siap berangkat melalui Bandar Udara Syamsudin Noor Banjarmasin, Kalimantan Selatan, gagal mudik akibat keberangkatan pesawat dibatalkan. 
+
+Manager Operasi PT Angkasa Pura I (Persero) Bandara Syamsudin Noor Trubus Suharsono di Banjarbaru, <TIMEX3 tid="t1" type="DATE" value="2015-07-16">Kamis</TIMEX3> mengatakan, pembatalan disebabkan ditutupnya bandara di Jawa Timur. 
+
+Pembatalan penerbangan karena penutupan sejumlah bandara di Jawa Timur akibat letusan Gunung Raung sehingga keberangkatan di Bandara Syamsudin Noor dibatalkan, ucapnya. 
+
+Ia mengatakan, pembatalan jadwal penerbangan diberlakukan sejak <TIMEX3 tid="t2" type="TIME" value="2015-07-15T14:00">pukul 14.00</TIMEX3> Wita hingga <TIMEX3 tid="t3" type="TIME" value="2015-07-15T21:00">pukul 21.00</TIMEX3> Wita seiring penutupan sejumlah bandara di Jawa Timur itu Pemberitahuan yang kami terima, operasional bandara dibuka kembali <TIMEX3 tid="t4" type="TIME" value="2015-07-15T21:00">pukul 21.00</TIMEX3> Wita, tetapi kemungkinan pemberangkatan baru bisa dimulai, <TIMEX3 tid="t5" type="TIME" value="2014-07-17TMO">Jumat (17/7) pagi</TIMEX3>, ujarnya. 
+
+Menurut dia, penerbangan dari Bandara Syamsudin Noor ke bandara di Jatim yang dibatalkan sebanyak tujuh penerbangan milik Maskapai Lion Air, Garuda, dan Citylink. 
+
+Maskapai Lion Air yang dibatalkan sebanyak lima kali, sedangkan Garuda dan Citylink masing-masing satu kali penerbangan. 
+
+Seluruh penerbangan dibatalkan tujuan Surabaya, ujar dia. 
+
+Disebutkan, pembatalan tujuh penerbangan itu membuat seribu lebih calon penumpang gagal berangkat padahal mereka sudah menunggu lama untuk diberangkatkan. 
+
+Pembatalan ini karena faktor alam sehingga kami berharap seluruh calon penumpang memahami kondisi yang terjadi dan bersabar sambil menunggu kondisi normal, kata dia. 
+
+Salah seorang calon penumpang Sri mengatakan, dirinya memilih tetap bertahan di bandara sambil menunggu keberangkatan pesawat yang akan membawanya ke Surabaya. 
+
+Kami datang sejak <TIMEX3 tid="t6" type="TIME" value="2015-07-16TMO">pagi</TIMEX3> dan sesuai jadwal diberangkatkan <TIMEX3 tid="t7" type="TIME" value="2015-07-15TAF">siang</TIMEX3> tetapi ternyata dibatalkan. 
+
+Mau pulang jauh jadinya tetap bertahan disini, ucap warga Serongga, Kotabaru itu. 
+
+Selain Sri, ribuan calon penumpang lain memenuhi terminal kedatangan bandara menunggu keberangkatan pesawat yang membawa mereka ke bandara tujuan. 
+
+ant/infobanua 
+</TEXT>
+
+</TimeML>

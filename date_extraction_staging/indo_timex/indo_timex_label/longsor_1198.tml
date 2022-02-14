@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1198</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-15" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-15</TIMEX3></DCT>
+
+<TITLE>Longsor Kembali Terjang Tobasa, Seorang Pengendara Tewas Tertimpa Material</TITLE>
+
+<TEXT>
+Bencana longsor kembali menerjang Kabupaten Tobasa. 
+
+Kali ini longsor itu terjadi di Jalan Umum, Kecamatan Nassau menuju Labuhanbatu, tepatnya di Dusun Hasang, Desa Cinta Dame, Kecamatan Nassau, Kabupaten Toba Samosir (Tobasa), <TIMEX3 tid="t1" type="DATE" value="2018-12-14">Jumat (14/12/2018)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2018-12-14T08:00">pukul 08.00 WIB</TIMEX3>. 
+
+Kabid Humas Polda Sumatera Utara (Sumut) Kombes Pol Tatan Dirsan Atmaja menyampaikan, akibat kejadian tersebut, satu orang dipastikan meninggal dunia akibat tertimpa material longsor. 
+
+Korban tersebut bernama, Muslim Nababan (42) warga Dusun Pagar Gunung, Desa Lumban Rau Timur, Kecamatan Nassau Kabupaten Tobasa, yang ketika kejadian sedang melintas dilokasi, dengan sepeda motor Megapro plat BB <TIMEX3 tid="t3" type="DATE" value="5335">5335</TIMEX3> EC miliknya. 
+
+" Selain itu, longsor juga mengakibatkan akses jalan dari Kecamatan Nassau menuju Labuhanbatu tidak dapat dilalui karena badan jalan tertimbun tanah, " jelasnya. 
+
+Jenazah korban sendiri baru berhasil ditemukan, pada <TIMEX3 tid="t4" type="TIME" value="2018-12-14T14:30">pukul 14.30 WIB</TIMEX3>, setelah Personel Polsek Habinsaran bersama Personel Koramil 15 Habinsaran dan masyarakat dibantu satu unit eksavator milik PT Adi Karya bergotong royong mencari mayat korban. 
+
+" Saat ditemukan, korban sudah dalam keadaan tak bernyawa, dengan keadaan terlungkup tertimbun tanah di dalam parit jalan, " terangnya. 
+
+Untuk itu, lanjut Tatan, oleh petugas di lapangan, jenazah korban lalu dibawa ke Poskesdes Hasang untuk dilakukan visum yang selanjutnya diserahkan kepada keluarga korban. 
+
+" Sementara untuk pembersihan material longsor hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">kini</TIMEX3> masih terus berlanjut, agar akses jalan dapat kembali dilalui, " pungkasnya. 
+
+* 
+</TEXT>
+
+</TimeML>

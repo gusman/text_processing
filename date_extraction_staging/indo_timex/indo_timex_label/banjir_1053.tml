@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1053</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-15" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-15</TIMEX3></DCT>
+
+<TITLE>BPBD Tator Kirim Bantuan Logistik ke 5 Kabupaten Terdampak Banjir</TITLE>
+
+<TEXT>
+BPBD Tator Kirim Bantuan Logistik ke 5 Kabupaten Terdampak BanjirKabarMakassar. 
+
+com Pemerintah Kabupaten Tana Toraja (Tator) melalui Badan Penanggulan Bencana Daerah (BPBD) Tator bakal menyalurkan bantuan kemanusiaan berupa logistik, bahan bangunan dan terpal untuk lima kabupaten yang terdampak banjir <TIMEX3 tid="t1" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+Kepala BPBD Tana Toraja, Alfian Andilolo mengatakan jika dalam waktu dekat pihak Pemkab Tator bakal mengirim bantuan kemanuasian bagi korban terdampak banjir dan bangin kencang di lima kabupaten diantaranya, Kabupaten Sidrap, Pinrang, Kota Parepare, Barru dan Soppeng. 
+
+Berdasarkan perintah bapak Bupati Tana Toraja Nicodemus Biringkanae <TIMEX3 tid="t2" type="DATE" value="2020-01-14">kemarin</TIMEX3>, dalam waktu dekat pemerintah akan membawa dan memberikan bantuan kemanusiaan berupa logistik, bahan bangunan dan terpal untuk 5 Kabupaten yang terdampak bencana banjir, tulis pesan Alfian Andilolo, <TIMEX3 tid="t3" type="DATE" value="2020-01-15">Rabu (15/1)</TIMEX3>. 
+
+Alfian juga menjelaskan jika bantuan kemanusiaan tersebut, Pemkab Tana Toraja memberi program bertajuk Sentuhan Peduli Sesama. 
+
+Kita beri bantuan untuk wilayah yang terdekat dari Kabupaten Tana Toraja, tambahnya. 
+
+Sementara itu data BPBD Provinsi Sulsel melansir 17 Kabupaten dan Kota di Sulsel yang terdampak banjir dan angin kencang data <TIMEX3 tid="t4" type="DATE" value="2020-Q1">Periode Januari 2020</TIMEX3> diantaranya,1. 
+
+Maros, Angin Kencang dan Puting Beliung, jumlah rumah rusak 17 rumah. 
+
+2. 
+
+Pangkep, Angin Kencang dua kali kejadian, jumlah rumah rusak 2 rumah. 
+
+3. 
+
+Barru, Angin Kencang (184 rumah rusak), Tanah Longsor (-) dan Banjir (121 rumah terendam banjir), total 305 terdampak. 
+
+4. 
+
+Soppeng, Angin Kencang (102 rumah rusak). 
+
+5. 
+
+Wajo, Puting Beliung (323 rumah rusak), bangunan sekolah rusak 4, 1 unit tempat ibadah dan 2 bangunan sarana kesehatan rusak, total 330 terdampak. 
+
+6. 
+
+Sidrap, Puting Beliung (2014 rumah rusak), bangunan sekolah rusak 6, 2 rumah ibadah dan 1 sarana kesehatan, 4 kantor dan 30 kios rusak. 
+
+Banjir Sidrap, 460 rusak, 3 sekolah, 1 sarana kesehatan, 2 kantor dan 2 kios terendam banjir. 
+
+7. 
+
+Enrekang, Angin Kencang 9 rumah rusak, dan 1 kantor rusak. 
+
+8. 
+
+Pinrang, Angin Kencang dua kali kejadian, 888 rumah rusak, 1 sarana keseahatan rusak. 
+
+Banjir Pinrang 206 rumah terendam banjir, <TIMEX3 tid="t5" type="DATE" value="3205">3205</TIMEX3> Hektar sawah terendam, dan 25 rumah terdampak abrasi. 
+
+9. 
+
+Toraja Utara, tanah longsor 3 kali kejadian, 1 rumah rusak, 1 sekolah, 1 kantor dan 1 sarana kesehatan, total 4 bangunan rusak. 
+
+10. 
+
+Bulukumba, Angin kencang dua kali kejadian, 1 bangunan rusak. 
+
+11. 
+
+Tana Toraja, Tanah Longsor 1 kali. 
+
+12. 
+
+Jeneponto, Angin Kencang dan Puting Beliung 4 rumah terdampak. 
+
+13. 
+
+Parepare, Angin Kencang 690 rumah rusak dan 2 rumah ibadah rusak akibat angin kencang. 
+
+14. 
+
+Gowa, Angin Puting Beliung 16 rumah rusak. 
+
+15. 
+
+Bone, Angin Puting Beliung, 23 rumah rusak. 
+
+16. 
+
+Selayar, Angin Kencang 9 kali kejadian, 13 rumah rusak dan 1 sekolah. 
+
+17. 
+
+Takalar, Angin Kencang dua kali kejadian, 2 rumah rusak.Reporter: Editor: RedaksiFritz V Wongkar 
+</TEXT>
+
+</TimeML>

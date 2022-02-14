@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0479</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-28" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-28</TIMEX3></DCT>
+
+<TITLE>Pendaki Gunung Arjuno Dievakuasi Setelah Terjadi Kebakaran di Kawasan Hutan</TITLE>
+
+<TEXT>
+Pos perijinan pendakian Gunung Arjuno - Welirang di Desa Sumber Brantas, mencatat ada 64 orang yang melakukan pendakian ke Gunung Arjuno. 
+
+Dari jumlah tersebut, 17 pendaki di antaranya dievakuasi sedangkan 47 sisanya masih dalam proses. 
+
+Adapun evakuasi ini dilakukan lantaran terjadi kebakaran hutan di kawasan Taman Hutan Raya (Tahura) R Soerjo atau lereng Gunung Arjuno pada <TIMEX3 tid="t1" type="DATE" value="2019-07-28">Minggu (28/7/2019)</TIMEX3>. 
+
+Hutan yang terbakar masuk wilayah Kecamatan Bumiaji, Kota Batu, Jawa Timur. 
+
+" Jumlah pendaki yang sudah berhasil dievakuasi turun dan kembali ke rumah masing-masing sebanyak 17 orang dan 47 orang pendaki masih dalam proses evakuasi tim, " jelasnya. 
+
+Terakait hal itu, Kasi Kedaruratan dan Logistik pada Badan Penanggulangan Bencana Daerah (BPBD) Kota Batu, Achmad Choirur Rochim mengatakan, titik api terdeteksi sejak <TIMEX3 tid="t2" type="TIME" value="2019-07-27T09:30">pukul 9.30 WIB</TIMEX3>. 
+
+" Dari laporan pemangku wilayah Taman Hutan Raya (Tahura) bahwa terjadi kebakaran hutan dan lahan di Gunung Arjuno, Kecamatan Bumiaji, Kota Batu, " katanya melalui keterangan tertulis yang diterima Kompas. 
+
+com.Tim gabungan dari BPBD dan Tahura serta relawan sudah berangkat menuju titik api. " <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> tim 1 dari Jaguar Sumber Gondo 12 orang dan tim 2 dari Tahura serta porter Sumber Brantas 5 orang menuju titik api untuk melakukan penanganan kebakaran, " ungkapnya. 
+</TEXT>
+
+</TimeML>

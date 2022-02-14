@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0294</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-09" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-09</TIMEX3></DCT>
+
+<TITLE>Warga Tamansari Kekurangan Air Bersih</TITLE>
+
+<TEXT>
+Kawasan Tamansari Kota Tasikmalaya merupakan salah satu titik wilayah yang kerap dilanda bencana kekeringan. 
+
+Meski baru <TIMEX3 tid="t1" type="DURATION" value="PXW">beberapa pekan</TIMEX3> tidak ada hujan, wilayah Kecamatan Tamansari sudah terjadi kekurangan air bersih. 
+
+Minimnya air bersih tersebut dirasakan warga sangat sulit karena tidak bisa memasak, apalagi mandi cuci dan kakus. 
+
+Krisis air bersih menjadi langganan bagi warga Tamansari, dikarenakan minimnya ketersediaan air tanah. 
+
+Kapolsek Tamansari Polres Tasikmalaya Kota, Iptu Encon Muhhasan mengatakan, pihaknya terus secara rutin melaksanakan kegiatan sosial berupa pembagian air bersih kepada warga di wilayah Tamansari. 
+
+Hal ini, kata Encon, dikarenakan beberapa wilayah di Tamansari memang mengalami kesulitan air bersih sepanjang waktu. 
+
+Meski <TIMEX3 tid="t2" type="DATE" value="2018-WI">musim penghujan</TIMEX3> di beberapa titik atau dusun di kawasan Tamansari masih terjadi kesulitan air bersih. 
+
+Apalagi jika <TIMEX3 tid="t3" type="DATE" value="2019-SU">musim kemarau</TIMEX3>. 
+
+Kami terjunkan pengawalan pendistribusian di Kampung Cisengkol RW 007 Kelurahan Setiamulya Kecamatan Tamansari oleh BPBD Kota Tasikmalaya sebanyak 1 (Satu) mobil tanki, katanya, usai pendistrubusian air bersih, <TIMEX3 tid="t4" type="DATE" value="2019-09-02">Senin (9/9/2019)</TIMEX3>. 
+
+Dikatakannya, untuk membantu warga yang kekurangan air bersih di daerah tersebut karena faktor cuaca dan <TIMEX3 tid="t5" type="DATE" value="2019-SU">musim kemarau</TIMEX3>. 
+
+Minimnya air bersih sangat dirasakan warga, sebab warga harus mencarinya jauh ke lokasi mata air atau ke sungai. 
+
+Sementara salah seorang warga Deni (36) mengatakan, air bersih di kampungnya sangat minim.Kondisi ini menjadikan warga harus mengais ke mata air yang jaraknya cukup jauh. 
+
+Itupun jika sungai tidak kekeringan dan airnya tidak berbau.Selain itu, untuk kebutuhan memasak dan minum keluarganya, ia harus membeli air bersih tersebut.Dirinya berharap, minimnya air bersih ini bisa menjadi perhatian Pemerintah Daerah. 
+
+Terlebih <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> Wakil Gubernur Jawa Barat merupakan warga Tasikmalaya. 
+
+Pemerintah harus peduli kondisi warga yang setiap tahunnya kekurangan air bersih, katanya. 
+
+(KP-07)***Foto Warga Tamansari Kota Tasikmalaya saat antri air bersih kiriman dari BPBD Kota Tasikmalaya. 
+</TEXT>
+
+</TimeML>

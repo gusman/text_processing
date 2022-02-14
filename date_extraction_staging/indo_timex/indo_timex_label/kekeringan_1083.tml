@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_1083</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-09-13" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-13</TIMEX3></DCT>
+
+<TITLE>Warga Beli Air Bersih Rp 1,5 Juta Per Bulan</TITLE>
+
+<TEXT>
+Kebutuhan air bersih di <TIMEX3 tid="t1" type="DATE" value="2015-SU">musim kemarau</TIMEX3> mengalahkan kebutuhan lainnya. 
+
+Warga terdampak kekeringan terpaksa merogok sakunya hingga Rp 1,5 juta per bulan untuk mendapatkan air bersih. 
+
+" Totot. 
+
+. 
+
+. 
+
+totot. 
+
+. 
+
+" begitulah bunyi khas klakson mobil operasional Mitsubishi Strada milik Polsek Tragah ketika memasuk Dusun Laok Perreng, Desa Soket Laok, Kecamatan Tragah. 
+
+Ibarat bunyi halilintar menjelang hujan, warga setempat bergegas mengambil jeriken, bak, drum, hingga gerobak pengangkut jeriken. 
+
+Tanpa dikomando, warga sudah mengerubungi mobil polsek hanya dalam hitungan tak <TIMEX3 tid="t2" type="DURATION" value="PT15M">lebih dari 15 menit</TIMEX3>. 
+
+Bunyi klakson mobil mapolsek yang membawa tandon berkapasitas 1.000 liter air bersih itu seolah memecah sunyi terik matahari di <TIMEX3 tid="t3" type="TIME" value="2015-09-13TAF">siang itu</TIMEX3>. 
+
+Warga setempat memang sudah menunggu. " Kalau sudah bunyi " totot ", itu pasti mobil polisi membawa air. 
+
+Benar kan, " ungkap pemuda dengan jeriken yang dipanggul di pundaknya, <TIMEX3 tid="t4" type="DATE" value="2015-09-13">Minggu (13/9/2015)</TIMEX3>.Desa Soket Laok menjadi desa ketiga setelah Desa Tambin dan Bejeman yang mendapat bantuan air bersih dari Mapolsek Tragah. 
+
+Retakan tanah di desa itu seakan mempertegas jika kekeringan telah lama melanda.Nur Hasanah (24), warga setempat mengatakan, warga yang ekonominya berkecukupan mampu memenuhi kebutuhan air bersih, bahkan untuk kebutuhan hewan ternak seperti sapi dan kambing. " <TIMEX3 tid="t5" type="DURATION" value="P1M">Sebulan</TIMEX3>, warga yang punya uang bisa menghabiskan Rp 1,5 juta untuk membeli air bersih. 
+
+Satu drum 200 liter belinya Rp 25.000. 
+
+Belinya sampai 3 drum per hari. 
+
+Kalau yang tidak punya uang, menunggu seperti ini, " ungkapnya.Warga tidak mampu, dijelaskannya, cukup membuat gerobak yang bisa mengangkut 4 jeriken air berkapasitas masing - masing 25 liter per jeriken. 
+
+Gerobak itu akan dipakai jika ada droping air bersih. " Membuat gerobak menghabiskan Rp 500.000. 
+
+Kalau tidak ada bantuan air, gerobak didorong sejauh 2 kilometer untuk angkut air di dusun sebelah. 
+
+Dua sumur di dusun ini mengering, " jelasnya. 
+
+// Siti Muhrah (45), warga setempat mengakatan, bantuan air dari pemerintah di musim - <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">musim kemarau sebelumnya</TIMEX3>, biasanya sudah tiba. 
+
+Namun hingga <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">kini</TIMEX3> belum ada. 
+
+" Saya berharap ada solusi bagi kami. 
+
+<TIMEX3 tid="t8" type="SET" value="UNKNOWN">Setiap hujan</TIMEX3> tiba, kami menampung air. 
+
+Jika kemarau harus antre air. 
+
+Untuk diminum, kami tetap membeli, " singkatnya. 
+
+Polsek Tragah sejak <TIMEX3 tid="t9" type="DATE" value="2015-09-12">Sabtu (12/9/2015)</TIMEX3> hingga <TIMEX3 tid="t10" type="DATE" value="2015-09-13">hari ini</TIMEX3> memang disibukkan dengan pendistribusian air bersih. 
+
+Sebanyak 8.000 liter air telah disumbangkan ke warga di tiga desa; Tambin, Bejeman, dan Soket Laok. 
+
+" Bagi yang belum dapat air, tunggu ya. 
+
+Kami akan kembali, " ujar Kapolsek Tragah AKP Asni Yabani usai pendistribusian. 
+
+PDAM Sumber Pocong yang terletak di Dusun Tangkel, Desa/Kecamatan Burneh menjadi lokasi terdekat warga Kecamatan Tragah untuk membeli air bersih. 
+
+Berdasarkan catatan, selain pembeli dari warga Desa Tambin, Bejeman, dan Desa Soket Laok, warga dari Desa Morombuh, Kecamatan Kwanyar menjadi pembeli terbanyak. 
+
+Dalam <TIMEX3 tid="t11" type="DURATION" value="P1D">sehari</TIMEX3>, warga Desa Morombuh membeli air bersih hingga enam tangki air. 
+
+Setiap tangi berkapasitas <TIMEX3 tid="t12" type="DATE" value="5000">5000</TIMEX3> liter. 
+
+
+</TEXT>
+
+</TimeML>

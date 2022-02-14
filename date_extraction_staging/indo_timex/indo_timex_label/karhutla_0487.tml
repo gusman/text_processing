@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0487</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-09" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-09</TIMEX3></DCT>
+
+<TITLE>Jokowi Arahkan Pesawat Asing Padamkan Kebakaran Hutan Sumsel</TITLE>
+
+<TEXT>
+Presiden Joko Widodo (Jokowi) mengatakan, bantuan pesawat dari negara lain untuk memadamkan kebakaran hutan dan lahan, akan dikonsentrasikan di wilayah Sumatera Selatan (Sumsel). 
+
+Indonesia mendapatkan bantuan itu dari Singapura, Malaysia, Korea, Rusia, Australia dan Cina. 
+
+" Karena memang dari hasil checking kita, titik api terbanyak itu memang masih di Sumsel, " kata Jokowi, di Desa Lereng, Kecamatan Kuok, Kabupaten Kampar, Provinsi Riau, seperti dikutip dari pesan yang dikirim oleh Tim Komunikasi Presiden, Ari Dwipayana, <TIMEX3 tid="t1" type="DATE" value="2015-10-09">Jumat (9/10/2015)</TIMEX3>. 
+
+Jokowi mengungkapkan, pesawat bantuan dari Singapura dijadwalkan tiba di Indonesia, <TIMEX3 tid="t2" type="DATE" value="2015-10-09">Jumat (9/10/2015)</TIMEX3>. 
+
+Sementara bantuan pesawat dari negara lain dijadwalkan mulai tiba di Indonesia pada <TIMEX3 tid="t3" type="DATE" value="2015-W41-WE">akhir pekan nanti</TIMEX3>. 
+
+Jokowi ingin pesawat bantuan itu memiliki kapasitas mengangkut air di atas 10.000 liter untuk memadamkan api. 
+
+Adapun sepanjang <TIMEX3 tid="t4" type="DATE" value="2015-10-09">hari Jumat</TIMEX3>, Jokowi antara lain berkunjung ke Kabupaten Kampar untuk memantau penanggulangan kebakaran hutan dan lahan di Kabupaten Kampar, sekaligus memastikan pelayanan kesehatan kepada masyarakat yang terdampak bencana asap. 
+</TEXT>
+
+</TimeML>

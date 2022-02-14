@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1138</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-18" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-18</TIMEX3></DCT>
+
+<TITLE>Pohon Tumbang, Jl Supeno Terblokir</TITLE>
+
+<TEXT>
+Hujan deras disertai angin kencang yang terjadi, <TIMEX3 tid="t1" type="TIME" value="2020-03-17T15:45">Selasa (17/3) pukul 15.45 WIB</TIMEX3> membuat beberapa pohon tumbang. 
+
+Salah satunya di Jl Supeno, Kelurahan Talang Semut, Kecamatan Bukit Kecil, Palembang. 
+
+Camat Bukit Kecil Purba Sanjaya langsung menuju lokasi dan menghubungi petugas Dinas Kebersihan dan Keindahan Kota Palembang. 
+
+(dom) 
+</TEXT>
+
+</TimeML>

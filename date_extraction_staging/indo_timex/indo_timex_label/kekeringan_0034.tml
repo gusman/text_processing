@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0034</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-18" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-18</TIMEX3></DCT>
+
+<TITLE>Hektaran Padi di Kusamba Kekeringan Musim Kemarau</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-SU">Musim kemarau</TIMEX3> yang semakin parah menyebabkan hektaran padi di Subak/Desa Kusamba, Kecamatan Dawan, Klungkung kekeringan. 
+
+Petani pun dibuat kelimpungan dengan hal tersebut. 
+
+Berdasarkan pantauan, <TIMEX3 tid="t2" type="DATE" value="2018-10-18">Kamis (18/10)</TIMEX3>, kekeringan terjadi pada padi berumur <TIMEX3 tid="t3" type="DURATION" value="P45D">sekitar 45 hari</TIMEX3>. 
+
+Beberapa petak sudah ada yang menguning dan mati. 
+
+Tanahnya pun pecah-pecah. 
+
+Klian Subak, Ketut Tanggin mengatakan kesulitan air sudah berlangsung <TIMEX3 tid="t4" type="DATE" value="2018-09-27">sekitar tiga pekan lalu</TIMEX3>. 
+
+Petani hanya bisa pasrah menghadapi itu. 
+
+Niatnya untuk mendapatkan penghasilan sudah dilakukan dengan menanam jagung, namun juga turut mati. 
+
+Untuk padi, satu hektar sudah mati. 
+
+Untuk lahan yang lain sudah mulai mengering. 
+
+Umur padi <TIMEX3 tid="t5" type="DURATION" value="P45D">sekitar 45 hari</TIMEX3>. 
+
+Masih sangat membutuhkan air, tuturnya. 
+
+Disampaikan lebih lanjut, fenomena alam itu baru pertama kali terjadi. 
+
+Bertepatan pula, tak ada petani yang ikut asuransi Usaha Tani Padi (AUTP) yang digulirkan pemerintah. 
+
+Untuk petani sudah sempat diimbau supaya ikut asuransi. 
+
+Tetapi tidak ada yang mau karena sebelummnya tidak pernah seperti ini. 
+
+Kalau padi rusak, paling sekitar dua sampai lima persen. 
+
+Tidak banyak, jelas klian yang juga bertugas di Dinas Pertanian Klungkung ini. 
+
+. 
+
+Hal tersebut berimbas pada hasil panennya yang menurun. 
+
+Untuk panen tidak seperti sebelumnya. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> lebih sedikit karena kurang air, terangnya. 
+
+Petugas Penyuluh Lapangan (PPL) Dinas Pertanian Wayan Wiarta menjelaskan petani sudah berupaya untuk lepas dari jeratan kekeringan dengan membagi air bersama tempek lain. 
+
+Namun, akibat lahan berpasir yang membutuhkan air lebih banyak, membuatnya tak mendatangkan hasil maksimal. 
+
+Petani sudah berupaya menangani ini. 
+
+Tapi kondisi tanahnya berbeda, jelasnya. 
+
+Kepala Dinas Pertanian Klungkung, Ida Bagus Gde Juanida mengaku belum menerima laporan soal itu. 
+
+Namun dirinya mengimbau petani untuk selanjutnya ikut program asuransi. 
+
+Potensi gagal panen kan tidak hanya karena serangan hama. 
+
+Tetapi juga karena kekeringan. 
+
+Kami terus sosialisasikan asuransi ini kepada petani, jelasnya. 
+
+Dinyatakan pula, <TIMEX3 tid="t7" type="DATE" value="2018-SU">musim kemarau ini</TIMEX3> memang menyebabkan debit air menurun. 
+
+Subak juga sudah kami sarankan untuk membersihkan saluran irigasi supaya aliran air lebh lancar, imbuhnya. 
+
+(sosiawan/balipost) 
+</TEXT>
+
+</TimeML>

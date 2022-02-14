@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0573</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-29</TIMEX3></DCT>
+
+<TITLE>Puting Beliung Terjang Wilayah Dadahup</TITLE>
+
+<TEXT>
+Angin Puting Beliung kembali menyapu Desa Sumber Mulya Kecamatan Kapuas Murung dan Desa Kahuripan Permai, Kecamatan Dadahup, <TIMEX3 tid="t1" type="DATE" value="2019-01-27">Minggu</TIMEX3> (<TIMEX3 tid="t2" type="DATE" value="2019-01-27">27/1)</TIMEX3> sekitar <TIMEX3 tid="t3" type="TIME" value="2019-01-28T19:15">pukul 19.15 WIB</TIMEX3>. 
+
+Sebelumnya di wilayah setempat, angin juga sempat meluluhlantakan atap rumah warga dan bangunan UPTD Pendidikan Kecamatan Mantangi, serta beberapa rumah di wilayah Trans Dadahup. 
+
+Akibat terjangan kuat angin ini, 12 Rumah dan satu bangunan sarang burung walet milik warga rusak berat. 
+
+Selain itu, sejumlah tiang listrik yang mengaliri ke pemukiman rumah warga di dua desa tersebut nyaris ambruk. 
+
+Camat Dadahup ketika dikonfirmasi, <TIMEX3 tid="t4" type="TIME" value="2019-01-28TNI">Senin malam</TIMEX3> membenarkan, terkait kejadian ini. 
+
+Hingga tadi <TIMEX3 tid="t5" type="TIME" value="2019-01-28TAF">sore</TIMEX3>, kita bersama dengan tim dari BPBD Kapuas kita masih melakukan pendataan guna memastikan berapa jumlah rumah warga yang rusak akibat terjangan angin puting beliung ini. 
+
+Sementara diperkirakan sudah ada 12 rumah dan satu bangunan sarang burung walet memang mengalami kerusakan serta beberapa tiang liatrik tumbang, katanya Camat. 
+
+c-yul 
+</TEXT>
+
+</TimeML>

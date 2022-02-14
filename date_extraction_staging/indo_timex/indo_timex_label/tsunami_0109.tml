@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0109</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-25" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-25</TIMEX3></DCT>
+
+<TITLE>Bencana Tsunami di Selat Sunda, Dianilisa dan Kemungkinan Penyebabnya</TITLE>
+
+<TEXT>
+Gelombang tsunami yang terjadi di Selat Sunda, Provinsi Banten dan Lampung pada <TIMEX3 tid="t1" type="DATE" value="2018-12-22">Sabtu (22/12/2018) lalu</TIMEX3> banyak memakan korban jiwa dan meluluhlantahkan sebagian bangunan. 
+
+Kepala Bidang Mitigasi Gempa Bumi dan Tsunami PVMBG Sri Hidayati mengatakan, berdasarkan analisis sementara, Gunung Anak Krakatau sebelum tsunami mengalami erupsi dan berfluktuasi secara terus menerus sejak <TIMEX3 tid="t2" type="DATE" value="2018-06">Juni 2018</TIMEX3>. 
+
+Namun erupsi itu mengalami peningkatanan intensitas yang signifikan. 
+
+" Tsunami yang terjadi pada <TIMEX3 tid="t3" type="DATE" value="2018-12-22">22 Desember 2018</TIMEX3> kemungkinan besar dipicu oleh longsoran atau jatuhnya sebagian tubuh dan material Gunung Anak Krakatau (flank collapse), khususnya di sektor selatan dan barat daya. 
+
+Masih diperlukan data tambahan dan analisis lebih lanjut untuk mengetahui apakah ada faktor lain yang berperan, " jelasnya dalam keterangan tertulis, <TIMEX3 tid="t4" type="DATE" value="2018-12-25">Selasa (25/12/2018)</TIMEX3>. 
+
+Dampak tsunami sendiri menerjang pantai barat Provinsi Banten dan Pantai Selatan Provinsi Lampung. 
+
+Selain memakan banyak korban jiwa, tsunami juga meluluh-lantakkan bangunan serta rumah warga di Kabupaten Pandeglang dan Kabupaten Lampung Selatan. 
+
+Setidaknya, ratusan rumah, hotel dan warung akibat terjangan tsunami. 
+
+Berdasarkan pengamatan stasiun pasang surut Badan Informasi Geospasial (BIG), diperoleh informasi mengenai waktu tiba dan tinggi gelombang pertama tsunami pada <TIMEX3 tid="t5" type="DATE" value="2018-12-22">hari Sabtu</TIMEX3>, <TIMEX3 tid="t6" type="DATE" value="2018-12-22">22 Desember 2018</TIMEX3>, yakni sebagai berikut:- Di Stasiun Marina Jambu (Desa Bulakan, Kec. 
+
+Cinangka, Kab. 
+
+Serang, Banten) tiba pada <TIMEX3 tid="t7" type="TIME" value="2018-12-24T21:27">pukul 21:27 WIB</TIMEX3>, dengan ketinggian 1,4 meter. 
+
+- Di Stasiun Banten (Pelabuhan Ciwandan, Kota Cilegon, Banten) tiba pada <TIMEX3 tid="t8" type="TIME" value="2018-12-24T21:40">pukul 21:40 WIB</TIMEX3>, dengan ketinggian 0,27 meter. 
+
+- Di Stasiun Kota Agung (Kec. 
+
+Kota Agung, Kab. 
+
+Tanggamus, Lampung) tiba pada <TIMEX3 tid="t9" type="TIME" value="2018-12-24T21:35">pukul 21:35 WIB</TIMEX3>, dengan ketinggian 0,31 meter. 
+
+- Di Stasiun Panjang (Pelabuhan Panjang, Kota Bandar Lampung, Lampung) tiba pada <TIMEX3 tid="t10" type="TIME" value="2018-12-24T21:27">pukul 21:27 WIB</TIMEX3>, dengan ketinggian 0,36 meter. 
+
+- Berdasarkan katalog tsunami yang ditulis SL Soloviev dan Ch N Go pada <TIMEX3 tid="t11" type="DATE" value="1974">tahun 1974</TIMEX3>, wilayah Selat Sunda beberapa kali dilanda tsunami yang dipicu oleh gempa bumi <TIMEX3 tid="t12" type="DATE" value="1722">tahun 1722</TIMEX3>, <TIMEX3 tid="t13" type="DATE" value="1852">1852</TIMEX3>, dan <TIMEX3 tid="t14" type="DATE" value="1958">1958</TIMEX3>, erupsi atau aktivitas Gunung Krakatau tahun 416, <TIMEX3 tid="t15" type="DATE" value="1883">1883</TIMEX3>, dan <TIMEX3 tid="t16" type="DATE" value="1928">1928</TIMEX3>, serta penyebab lain yang belum diketahui <TIMEX3 tid="t17" type="DATE" value="1851">tahun 1851</TIMEX3>, <TIMEX3 tid="t18" type="DATE" value="1883">1883</TIMEX3> dan <TIMEX3 tid="t19" type="DATE" value="1889">1889</TIMEX3>. 
+
+Artikel ini telah tayang di Kompas.com 
+</TEXT>
+
+</TimeML>

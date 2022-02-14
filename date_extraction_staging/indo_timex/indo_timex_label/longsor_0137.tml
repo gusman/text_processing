@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0137</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-07-28" temporalFunction="false" functionInDocument="CREATION_TIME">2016-07-28</TIMEX3></DCT>
+
+<TITLE>Dampak Banjir, Jalan Kampung Cibenda Carita Longsor</TITLE>
+
+<TEXT>
+Jalan di Kampung Cibenda, Kelurahan Sukarame, Kecamatan Carita, Kabupaten Pandeglang, longsor terkikis derasnya air sungai saat hujan lebat dan banjir pada <TIMEX3 tid="t1" type="DATE" value="2016-07-24">Minggu (24/7) lalu</TIMEX3>. 
+
+Tebing setinggi kurang lebih empat meter yang terkikis air sungai ini dikhawatirkan bertambah parah jika tidak segera ditangani. 
+
+Apalagi jalan utama warga yang diapit sungai dan areal persawahan ini sering dilalui anak-anak sekolah. 
+
+Warga yang tidak berani melintas, memilih jalan alternatif yang jaraknya dua kali lebih jauh. 
+
+Jalan utama tersebut menghubungkan Kampung Cibenda ke Kantor Kelurahan Sukarame dan daerah lain. 
+
+Surtiyah, seorang warga, khawatir ketika melewati jalan itu. 
+
+Ngeri kalau tiba-tiba longsor. 
+
+Soalnya banyak warga tetap melewati jalan itu, ujarnya, <TIMEX3 tid="t2" type="DATE" value="2016-07-28">Kamis (28/7)</TIMEX3>. 
+
+Lebih mengkhawatirkan lagi, lanjut dia, sering dilalui anak SD dan SMP. 
+
+Ada juga pelajar SMP nekat melewatinya menggunakan sepeda motor meski pihak kelurahan sudah mengimbau agar tidak melalui jalan tersebut. 
+
+Sekertaris Desa Sukarame Hasanuddin mengatakan, untuk sementara warga Cibenda diimbau tidak melintasi jalan yang longsor. 
+
+Sebagai alternatif, warga disarankan ke jalan yang lain yang lebih aman meski lebih jauh sekira 600 meter. 
+
+Jalan tersebut memang jalan utama warga Kampung Cibenda yang dilewati <TIMEX3 tid="t3" type="SET" value="P1D">setiap hari</TIMEX3>, tapi melihat kondisi jalan yang ambrol, warga harus pilih jalan alternatif, katanya. 
+
+Ia pun berharap kepada pemerintah daerah segera membuat penahan supaya tidak longsor lagi. 
+
+(Ade F) 
+</TEXT>
+
+</TimeML>

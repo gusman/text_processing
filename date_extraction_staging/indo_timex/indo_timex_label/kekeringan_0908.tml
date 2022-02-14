@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0908</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-25</TIMEX3></DCT>
+
+<TITLE>Kemarau Masih Terus Terjadi Di Kabupaten Boyolali, BPBD Boyolali Dropping Air Ke 10 Kecamatan</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2019-SU">Musim kemarau</TIMEX3> di Kabupaten Boyolali masih terus terjadi hingga <TIMEX3 tid="t2" type="DATE" value="2019-10">akhir bulan Oktober 2019</TIMEX3>. 
+
+Pemerintah Kabupaten (Pemkab) Boyolali <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> telah mendistribusikan tangki air bersih ke 10 kecamatan. 
+
+Yakni Wonosamodro, Wonosegoro, Juwangi, Kemusu, Karanggede, Tamansari, Musuk, Boyolali, Selo, Andong, Klego, Gladagsari. 
+
+" Ada total <TIMEX3 tid="t4" type="DATE" value="1088">1088</TIMEX3> tangki air bersih atau setara <TIMEX3 tid="t5" type="TIME" value="2019-10-24T05:44">5.44 juta</TIMEX3> liter dibagikan kepada masyarakat di 10 kecamatan tersebut, " kata Kepala Pelaksana Harian Badan Penanggulangan Bencana Daerah (BPBD) Boyolalu, Bambang Sinungharjo, <TIMEX3 tid="t6" type="TIME" value="2019-10-24TAF">Kamis (24/10/2019) siang</TIMEX3>. 
+
+Pembagian air bersih tersebut dilakukan sejak <TIMEX3 tid="t7" type="DATE" value="2019-07-04">4 Juli 2019</TIMEX3> hingga <TIMEX3 tid="t8" type="DATE" value="2019-10-25">hari ini</TIMEX3>. 
+
+Melalui dana ABPD Boyolali <TIMEX3 tid="t9" type="DATE" value="2019">2019</TIMEX3> sebanyak 280 tangki. 
+
+. 
+
+Distribusi bantuan tersebut merujuk permintaan masyarakat melalui RT/RW atau desa kepada kecamatan. 
+
+Bambang membeberkan kekeringan terparah terjadi di Kecamatan Wonosamodro.Total ada 8 desa di Kecamatan Wonosamodro yang mengalami kekeringan.Yakni Desa Gilirejo, Bercak, Gunungsari, Bengle, Garangan, Kalinanas, Repaking dan Jatilawang dengan total jumlah droping air mencapai 304 tangki.(*) 
+</TEXT>
+
+</TimeML>

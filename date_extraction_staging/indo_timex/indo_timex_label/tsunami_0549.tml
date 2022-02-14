@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0549</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-02" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-02</TIMEX3></DCT>
+
+<TITLE>Murid SD Sampit Galang Bantuan Gempa Palu</TITLE>
+
+<TEXT>
+Musibah gempa bumi dan tsunami yang melanda Kota Palu dan Donggala, Sulawesi Tengah, <TIMEX3 tid="t1" type="DATE" value="2018-09-25">pekan lalu</TIMEX3> menjadi keprihatinan dan duka semua pihak, termasuk para pelajar di SD Islam Baiturahim Sampit, Kotawaringin Timur, Kalimantan Tengah. 
+
+Mereka menggelar doa bersama bagi para korban bencana alam tersebut, <TIMEX3 tid="t2" type="TIME" value="2018-10-01">Senin (1/10) pagi</TIMEX3>. 
+
+Tidak hanya itu, para murid ini dengan ikhlas menyisihkan sebagian uang jajan mereka untuk disumbangkan. 
+
+Kepala SD Islam Baiturrahim Sampit Rumyati mengatakan, doa bersama dan aksi sosial penggalangan dana ini sebagai bentuk empati dan mengajarkan anak didik untuk selalu peduli kepada warga yang terkena musibah. 
+
+Aksi penggalangan dana ini akan berlangsung selama <TIMEX3 tid="t3" type="DURATION" value="P3D">tiga hari ke depan</TIMEX3>, dan seluruh sumbangan uang yang terkumpul akan langsung dikirimkan bagi korban gempa dan tsunami di Provinsi Sulawesi Tengah, terangnya, <TIMEX3 tid="t4" type="TIME" value="2018-10-01">Senin (1/10) pagi</TIMEX3>. 
+
+Dalam kegiatan tersebut, ratusan murid SD Islam Baiturrahim Sampit sebelum kegiatan belajar mengajar dimulai, mereka berkumpul di halaman sekolah setempat. 
+
+Anak-anak mengikuti acara doa bersama yang diadakan pihak sekolah. 
+
+Para murid dari kelas I hingga kelas VI ini berdoa agar para korban diberi ketabahan dalam menerima musibah. 
+
+Doa bersama ini pula sebagai pembelajaran untuk kepedulian terhadap sesama. 
+
+Salah seorang murid kelas VI, Muhammad Farid Risyad, mengaku dirinya prihatin dengan gempa yang terjadi di Palu. 
+
+Dia pun senang melakukan doa bersama dan menggalang dana untuk beramal dengan teman-temannya. 
+
+Selain turut mengirimkan doa keselamatan, mereka juga dapat membantu dengan beramal bagi korban gempa, semoga para korban diberi kesabaran dan ketabahan atas musibah ini. 
+
+Usai menggelar doa bersama, para murid melakukan aksi penggalangan dana. 
+
+c-arb 
+</TEXT>
+
+</TimeML>

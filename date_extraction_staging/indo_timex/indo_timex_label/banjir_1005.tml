@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1005</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-04-10" temporalFunction="false" functionInDocument="CREATION_TIME">2019-04-10</TIMEX3></DCT>
+
+<TITLE>Pemda Mamuju Beri Solusi Siswa Terdampak Banjir</TITLE>
+
+<TEXT>
+Terus berupaya mencari solusi terbaik untuk menangani korban pasca banjir di Kecamatan Kalukku, utamanya terhadap anak usia sekolah dasar yang hingga <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">saat kemarin</TIMEX3> masih enggan menempati sekolah mereka yang terkena banjir dan memilih terus bertahan di tenda pengungsian. 
+
+Bahkan mereka berinisiatif melakukan proses belajar mengajar di tenda-tenda darurat tersebut. 
+
+Pemerintah Daerah Kabupaten Mamuju yang tidak ingin persoalan itu berlarut dan merugikan anak-anak, akhirnya mengambil beberapa langkah startegis, dimulai dengan merelokasi sementara 44 siswa yang menjadi korban banjir ke SD Gentungan yang letaknya beberapa kilo meter dari titik pengungsian, hingga segera membangun sekolah baru bagi mereka di dekat lokasi pengungsian di Kampung Kamaraang, Lingkungan Gentungan, Kelurahan Bebanga, Kecamatan Kalukku, Mamuju. 
+
+Bupati Mamuju H. 
+
+Habsi Wahid saat dikonfirmasi mengungkapkan rasa keprihatinan terhadap korban banjir di Kecamatan Kalukku, utamanya bagi anak usia sekolah yang terus bertahan di tenda pengungsian untuk melakukan proses belajar mengajar. 
+
+Menurutnya, hal tersebut tidak bisa dibiarkan berlarut-larut karena akan sangat menggangu perkembangan psikologi anak, mereka harus mendapatkan pendidikan yang layak. 
+
+Oleh sebab itu melalui Dinas Pendidikan, kita telah siapkan beberapa solusi, yang pertama akan disiapkan Bus sekolah yang akan mengantar jemput mereka kesekolah yang telah ditunjuk sebagai tempat sementara mereka berproses belajar mengajar yakni di SD Gentungan, yang kedua kita akan bangunkan secepatnya Sekolah Baru ditempat yang mereka inginkan, jadi tidak adalagi anak yang tidak sekolah, kunci Habsi, <TIMEX3 tid="t2" type="DATE" value="2019-04-10">Rabu (10/4/2019)</TIMEX3>. 
+
+Kepala Dinas Pendidikan Pemuda dan Olah Raga Kabupaten Mamuju Hj. 
+
+Murniani menjelaskan, meski masih bersifat semi permanen, bangunan sekolah yang ditarget dapat selesai dalam <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">satu bulan ini</TIMEX3> akan mampu menampung anak hingga tiga kelas dan berada sekitar lokasi pengungsian warga selama ini. 
+
+Sementara untuk relokasi siswa ke SD Gentungan telah disepakati, mereka akan menggunakan sekolah itu <TIMEX3 tid="t4" type="SET" value="XXXX-XX-XXTAF">setiap sore</TIMEX3> sehingga tidak saling mengganggu dengan jam pelajaran siswa di SD Gentungan. 
+
+Sementara itu, Camat Kalukku Syarifuddin Callang mengaku bersyukur atas respon dan langkah kongkrit Pemkab Mamuju dalam mengatasi kesulitan warganya. 
+
+Ia memastikan telah membangun kesepakatan dengan orang tua siswa dan para guru untuk melakukan proses pendidikan sementara di SD Gentungan. 
+
+Jadi tidak ada lagi alasan kalau <TIMEX3 tid="t5" type="TIME" value="2019-04-09TAF">siang</TIMEX3> sudah dijemput mobil bus sekolah anak-anak dan gurunya harus langsung pergi kesekolah sementara mereka digentungan, ini demi kepentingan <TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">masa depan</TIMEX3> mereka juga, tutupnya. 
+
+(usman) 
+</TEXT>
+
+</TimeML>

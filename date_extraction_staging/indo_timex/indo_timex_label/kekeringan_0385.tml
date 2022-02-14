@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0385</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-30" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-30</TIMEX3></DCT>
+
+<TITLE>Langganan Dilanda Kekeringan, Warga Cibarusah Butuh Bantuan untuk Pembuatan Sumur Bor</TITLE>
+
+<TEXT>
+Warga yang terdampak kekeringan di Kecamatan Cibarusah, Kabupaten Bekasi berharap ada solusi jangka panjang terkiat bencana kekeringan yang <TIMEX3 tid="t1" type="SET" value="P1Y">setiap tahun</TIMEX3> datang melanda. 
+
+Sejauh ini, kata warga, Pemerintah Kabupaten (Pemkab) Bekasi melalui Badan Penanggulangan Bencana Daerah (BPBD) baru sebatas memberikan bantuan berupa pendistribusian air bersih ketika kekeringan terjadi. 
+
+Dedeh (38) warga RT01, RW02, Desa Ridogalih, Kecamatan Cibarusah, mengatakan, jika ada pilihan bantuan, warga justru ingin bantuan yang sifatnya jangka panjang seperti bantuan pembuatan sumur bor. 
+
+Sebab menurut dia, keberadaan sumur bor sangat berguna untuk warga ketika <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">musim kemarau datang</TIMEX3>. 
+
+Di wilayah RT01, RW02, Desa Ridogalih, misalnya, hanya terdapat empat titik sumur bor. 
+
+Dari empat titik itu, hanya satu titik sumur yang kerap dijadikan andalan untuk warga secara bergantian mengambil air. 
+
+" Pengennya bantuan buatin sumur aja gitu, biar ada banyak soalnya kalau bantuan air bersih yang dikirim pakai mobil tangki suka nggak kebagian semua, udah gitu nggak setiap saat ada, sekalinya ada juga antre, " kata Dedeh. 
+
+Sumur yang sudah ada di Desa Ridogalih merupakan bentuk bantuan dari sebuah yayasan sosial pada <TIMEX3 tid="t3" type="DATE" value="2013">tahun 2013</TIMEX3> silam. 
+
+Biaya untuk membuat sumur bor menurut sejumlah warga terbilang mahal, akibatnya sangat sulit ditemukan warga yang memiliki sumur bor pribadi.Sehari-hari mereka mengandalkan sumur resapan yang digali di pekarangan rumah atau membuat kolam atau bak penampungan.Saat kemarau, sumur resapan atau kolam penampungan milik warga secara otomatis akan kering, akibatnya pasokan air bersih selama <TIMEX3 tid="t4" type="DATE" value="2018-SU">musim kemarau</TIMEX3> menipis dan hanya bisa mengandalkan air dari sumur bor atau air dari Kali Cihoe di Desa Ridogalih. " Kalau buat sumur sendiri biayanya bisa anis Rp 8 juta, karena harus ngebor, ini aja sumur yang ada dalamnya sampai 50 meter lebih, udah gitu tanahnya labil gampang longsor, " jelas dia. 
+</TEXT>
+
+</TimeML>

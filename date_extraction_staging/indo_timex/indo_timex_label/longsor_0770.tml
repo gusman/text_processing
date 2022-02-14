@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0770</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-30" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-30</TIMEX3></DCT>
+
+<TITLE>BPBD dan Dinsos Halbar Salurkan Bantuan ke Lokasi Longsor</TITLE>
+
+<TEXT>
+Tim dari Bidang Kedaruratan dan Logistik BPBD Kabupaten Halmahera Barat, <TIMEX3 tid="t1" type="TIME" value="2019-01-30TMO">Rabu (30/01/2019) pagi tadi</TIMEX3> pukul <TIMEX3 tid="t2" type="TIME" value="2019-01-29T08:00">08.00 WIT</TIMEX3>, menuju Kecamatan Loloda, untuk memberikan bantuan logistik bagi korban bencana longsor. 
+
+Selain BPBD, bantuan juga diberikan dari Dinas Sosial (Dinsos) Kabupaten Halbar berupa bahan makanan. 
+
+Bantuan lainnya yaitu berupa peralatan dapur, tenda serta kebutuhan sekolah seperti buku. 
+
+Sekretaris BPBD Halbar, Abdullah Ishak mengatakan, lambatnya distribusi bantuan ke lokasi longsor disebabkan sulitnya akses kesana hingga masalah jaringan telekomunikasi. 
+
+Belum bisa turun ke Kecanatan Loloda dikarenakan situasi cuaca yang tidak memungkinkan untuk menuju ke Kecamatan Loloda, katanya. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> warga masyarakat yang mengungsi di Kecamatan Loloda menggunakan dapur umum yang disediakan oleh camat Loloda serta masyarakat ditempat pengungsian, katanya lagi. 
+
+Adapun data korban yang rumahnya mengalami kerusakan akibat longsor diantaranya:Desa Kedi (4 KK)1). 
+
+Max Jemi Sanape (Ket. 
+
+Rusak Sedang)2). 
+
+Paulus Urantuge (Ket. 
+
+Rusak Sedang)3). 
+
+Idris Gaale (Ket. 
+
+Rusak Sedang)4). 
+
+Selsius Baho (Ket. 
+
+Rusak Ringan)Desa Kahatola (1 KK)1). 
+
+Tahari Sehe (Ket. 
+
+Rusak Ringan)Desa Soasiu (5 KK)1). 
+
+Jailun Usman (Rusak Sedang)2). 
+
+Noho Barham (Rusak Ringan)3). 
+
+Melkias Legu (Rusak Ringan)4). 
+
+Oktavianus Silulu (Rusak Ringan)5). 
+
+Musli Usman (Rusak Ringan)Desa Tolofou (9 KK)1). 
+
+Jabar hadadi (rusak sedang)2). 
+
+Kalbi robo (rusak sedang)3). 
+
+Tamrin momole (rusak ringan)4). 
+
+Talip momole (rusak sedang)5). 
+
+Hayan rikun (rusak sedang)6). 
+
+Dero musung (rusak sedang)7). 
+
+Absiran arsad (rusak sedang)8). 
+
+Biskotu <TIMEX3 tid="t4" type="DATE" value="2019-01-26">sabtu</TIMEX3> (rusak berat)9). 
+
+Hamid Toko (rusak berat) (jl) 
+</TEXT>
+
+</TimeML>

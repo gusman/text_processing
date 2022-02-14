@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0326</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-17" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-17</TIMEX3></DCT>
+
+<TITLE>Akses Jalan Sagaranten Terputus</TITLE>
+
+<TEXT>
+Longsor memporakporandakan ruas jalan di Gunung Batu, Desa Kertaangsana dan di Kampung Lebak Muncang Desa Bojong Kecamatan Jampang Tengah Kabupaten Sukabumi, <TIMEX3 tid="t1" type="DATE" value="2020-02-17">Senin (17/2/2020)</TIMEX3>. 
+
+Akibatnya akses jalan menuju Sagaranten tidak bisa dilalui kendaraan roda dua dan empat. 
+
+Polisi dibantu warga telah memblokir jalan yang terdapat titik-titik longsor. 
+
+Karena pergerakan tanah membuat badan jalan terputus, kata Agung Muharam warga setempat. 
+
+Warga <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, kata dia, melakukan aktifitas dengan cara estafet berganti kendaraan berbeda. 
+
+Terutama yang mengarah ke Kota Sukabumi dan sebaliknya. 
+
+Catatan KAPOL, setidaknya bencana tanah longsor serta banjir terjadi di beberapa wilayah diantaranya Kecamatan Ciemas, Waluran dan di Kecamatan Jampangtengah. 
+
+Juga di Kampung Cikiray Desa Sirnaresmi Kecamatan Cisolok Kabupaten Sukabumi. 
+
+Koordinator Pusat Pengendalian dan Operasional, BPBD Kabupaten Sukabumi, Daeng Sutisna mengatakan masih terdapat titik lokasi masih tergenang air dan material tanah dan batu. 
+
+Petugas dari Dinas Bina Marga Pemprov Jawa Barat, telah melakukan pembersihan. 
+
+Sementara banjir di Kecamatan Purabaya, kata Daeng Sutisna, telah kembali surut dan bisa dilalui kendaraan. 
+
+Hanya saja potensi bencana susulan sangat berpeluang. 
+
+Apalagi intensitas hujan masih terus mengguyur. 
+
+(Soppy)*** 
+</TEXT>
+
+</TimeML>

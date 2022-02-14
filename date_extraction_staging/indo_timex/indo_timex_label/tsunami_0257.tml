@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0257</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-12" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-12</TIMEX3></DCT>
+
+<TITLE>Bantuan Emak-emak ProSan dan Wali SDIT Al-Marjan Bengkulu Disalurkan untuk Korban Bencana Sulteng</TITLE>
+
+<TEXT>
+Bantuan kemanusiaan dari Emak-emak Prabowo-Sandi (ProSan) dan Wali SDIT Al-Marjan Bengkulu serta Toko Mas Surya Kampung Malabero untuk bencana gempa dan tsunami Sulawesi Tengah disalurkan langsung kepada korban di Palu, <TIMEX3 tid="t1" type="DATE" value="2018-10-12">Jumat (12/10/2018)</TIMEX3>. 
+
+Bantuan diserahkan kepada Posko Provinsi Sulawesi Tengah Menangkan Pancasila (PPSTMP) dan didistribusikan untuk anak-anak yatim di sejumlah wilayah. 
+
+Bantuan dengan total Rp5 juta tersebut diharapkan dapat meringankan saudara-saudara yang menjadi korban gempa dan tsunami yang menimpa sejumlah warga Sulawesi <TIMEX3 tid="t2" type="DATE" value="2018-09-28">Tengah dua pekan lalu</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Koordinator Emak-emak ProSan Bengkulu Hj Asmiar Amir mengutarakan, bantuan yang ada merupakan donasi dari warga masyarakat Bengkulu. 
+
+Jangan lihat nominalnya karena ini adalah bentuk solidaritas dan kasih sayang warga Bengkulu untuk para korban yang terkena dampak bencana di Sulawesi Tengah. 
+
+Semoga bisa meringankan beban para korban terutama anak-anak yang kehilangan ayahnya, kata Hj Asmiar Amir. 
+
+Koordinator PPSTMP Asman Asgar, menyampaikan rasa terimakasihnya atas bantuan ini. 
+
+Bantuan akan kami serahkan kepada mereka yang membutuhkan. 
+
+Sementara untuk anak-anak yatim insyaAllah akan kita salurkan <TIMEX3 tid="t4" type="DATE" value="2018-10-13">besok</TIMEX3>, kata Asman. 
+
+Pantauan di lapangan, Kota Palu masih sunyi dari aktifitas ekonomi dan pemerintahan. 
+
+Meski sudah ada yang buka, sejumlah toko masih terlihat tutup. 
+
+Kawasan Petobo dan Balaroa di Kota Palu tampak remuk dengan tanah. 
+
+Masih banyak korban jiwa yang belum ditemukan di dua kawasan tersebut. 
+
+Personil TNI-Polri tampak bersiaga di sejumlah titik untuk melakukan pengamanan. 
+
+Tampak juga iring-iringan Wakil Presiden Jusuf Kalla (JK) mendampingi Sekjen PBB Antonius Geutters meninjau kondisi Kota Palu, Sulawesi Tengah. 
+
+Eva De 
+</TEXT>
+
+</TimeML>

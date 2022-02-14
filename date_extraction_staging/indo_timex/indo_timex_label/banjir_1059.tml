@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1059</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-01</TIMEX3></DCT>
+
+<TITLE>Kepala BNPB, Menteri PUPR dan Anies Tinjau Banjir Pakai Helikopter</TITLE>
+
+<TEXT>
+Kepala BNPB, Menteri PUPR dan Anies Tinjau Banjir Pakai HelikopterKabarMakassar. 
+
+com Kepala Badan Nasional Penanggulangan Bencana (BNPB) Letjen TNI Doni Monardo bersama Menteri Pekerjaan Umum dan Perumahan Rakyat (PUPR) Basuki Hadimuljono dan Gubernur DKI Jakarta, Anies Baswedan pantau banjir Jakarta menggunakan Helikopter. 
+
+Ketiganya berangkat dari Monas untuk bersama-sama memantau banjir dari udara. 
+
+Jadi Bapak dan Pak Anies dan Pak Basuki akan memantau dari heli dengan titik awal Monas, kata salahsatu staf BNPB, <TIMEX3 tid="t1" type="DATE" value="2020-01-01">Rabu (1/1)</TIMEX3>. 
+
+Dalam keterangan persnya, Kepala BNPB Doni Monardo berpesan untuk lebih mengutamakan nyawa selamat daripada harta. 
+
+Utamakan nyawa selamat terlebih <TIMEX3 tid="t2" type="DATE" value="PAST_REF">dahulu</TIMEX3> daripada harta, kata Doni. 
+
+Lebih lanjut ia juga menyampaikan kepada BPBD DKI Jakarta dan sekitarnya agar lebih fokus kepada rencana yang sudah disusun dan dipresentasikan terkait musibah banjir Pastikan posko yang ada diaktifkan dan dilengkapi dengan dapur umur, MCK, dan sebagainya agar masyarakat bisa terlayani dengan baik, tambah Doni. 
+
+Dikabarkan hujan turun sejak, <TIMEX3 tid="t3" type="DATE" value="2019-12-31">Selasa 31 Desember 2019</TIMEX3> dengan curah hujan sangat tinggi, akibatnya sejumlah wilayah di Ibu Kota Negara terendam banjir. 
+
+Dari catatan BNPB, Sebanyak 7 kelurahan dari 4 kecamatan di Jakarta teremdam banjir. 
+
+Dimana 7 kelurahan itu tersebar di Jakarta Pusat, Selatan, Utara dan mayoritas Jakarta Timur. 
+
+Berikut 7 kelurahan yang terdampak banjir, Kelurahan Makasar (Jakarta Timur), Pinang Ranti (Jakarta Timur), Halim Perdana Kusuma (Jakarta Timur), Kampung Melayu (Jakarta Timur), Rorotan (Jakarta Utara), Rawa Buaya (Jakarta Barat) dan Manggarai Selatan (Jakarta Selatan). 
+
+Reporter: Editor: 
+</TEXT>
+
+</TimeML>

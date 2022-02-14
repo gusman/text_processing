@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0331</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-23" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-23</TIMEX3></DCT>
+
+<TITLE>Dua Kampung Diterpa Bencana Longsor di Sukabumi, Warga Masih Was-was</TITLE>
+
+<TEXT>
+Bencana tanah longsor menerjang pemukiman warga di dua kelurahan di Kecamatan Cibadak. 
+
+Kendati tidak menimbulkan korban jiwa, tapi bencana menyebabkan 3 unit rumah warga di Kampung Bojong Kuring RT 02/26 Kel. 
+
+Cibadak rusak berat. 
+
+Sementara enam unit rumah warga di Kampung Babakan Sirna RT 05/13 Kelurahan Cibadak <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> terancam. 
+
+Kendati tidak menimbulkan korban jiwa dan luka-luka. 
+
+Tapi menyebabkan harta milik warga rusak berat. 
+
+Seperti dialami keluarga Arti Ardi (51), yang harus kehilangan sebagian bangunan rumahnya, karena material longsor menimbun rumahnya. 
+
+. 
+
+Hanya saja rumahnya tidak separah yang dialami Arti Ardi beserta istri dan tiga anak-Anaknya. 
+
+" Hanya sebanyak 3 kepala keluarga harus mengungsi untuk menghindari bencana susulan. 
+
+Apalagi potensi bencana sangat rentan terjadi. 
+
+Seiring intensitas hujan semakin meningkat, " kata warga Bojong Kuring, Hendi Sementara di Kampung Babakan Sirna, Lima unit rumah <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> terancam tanah longsor. 
+
+Meluapnya aliran air sokan Cipahut menyebabkan ambrok benteng penyangga. 
+
+Dan akhirnya, Lima rumah warga dan mushola <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3> terus terkikis sehingga mengancam ambruk. 
+
+. 
+
+Sedangkan warga yang berada diokasi tidak jauh dari titik bencana harus waspada, " kata Koordinator Pengendalian dan Operasional, BPBD Kabupaten Sukabumi, Daeng Sutisna. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0777</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-02-01" temporalFunction="false" functionInDocument="CREATION_TIME">2014-02-01</TIMEX3></DCT>
+
+<TITLE>Jenazah Dua Korban Longsor Jombang Sudah Dievakuasi</TITLE>
+
+<TEXT>
+Jenazah dua korban longsor di Kabupaten Jombang, Jawa Timur telah ditemukan <TIMEX3 tid="t1" type="DATE" value="2014-02-01">Sabtu</TIMEX3>, sehingga dengan demikian seluruhnya, 14 orang, korban tewas dalam musibah itu sudah dievakuasi. 
+
+Jenazah dua korban terakhir yang ditemukan tersebut kemudian dibawa ke rumah sakit untuk divisum. 
+
+Kepala Seksi Pencegahan dan Kesiapsiagaan Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Jombang, Gunadi, jenazah Sail (48) dan anaknya, Fatkurozi (17) ditemukan <TIMEX3 tid="t2" type="TIME" value="2014-01-31T15:00">sekitar pukul 15.00 WIB</TIMEX3>. 
+
+Tubuh Sail ditemukan tertimbun tanah dan reruntuhan tembok, sedangkan jenazah Fatkurozi berada di dekatnya dengan jarak sekitar 1,5 meter. 
+
+Kedua jenazah dibersihkan dan keduanya langsung dibawa ke rumah sakit untuk keperluan visum. 
+
+Gunadi mengatakan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> petugas masih di lokasitanah longsor, walaupun 14 orang korban yang seluruhnya tewas sudah ditemukan dan dievakuasi. 
+
+Petugas masih akan gotong royong untuk membersihkan material longsoran. 
+
+" TNI/polri masih ada di sini untuk pembersihan dan pembenahan, " katanya. 
+
+Tanah longsor di Dusun Kopen, Desa Ngrimbi, Kecamatan Bareng, Kabupaten Jombang, itu terjadi <TIMEX3 tid="t4" type="TIME" value="2014-01-27TNI">Senin malam lalu</TIMEX3> (27/1/14) setelah hujan deras mengguyur.Tebing tinggi yang berada tepat di belakang rumah warga longsor menimpa empat rumah berikut penghuninya yang sedang beristirahat.(antara) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0931</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-26" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-26</TIMEX3></DCT>
+
+<TITLE>Sebelum Susul Ifan Seventeen ke Banten, Dylan Sempat Ikut Kampanye Sandiaga Uno</TITLE>
+
+<TEXT>
+Ayahanda Dylan Sahara, Supriyanto, menceritakan kejadian <TIMEX3 tid="t1" type="DATE" value="P1D">sehari</TIMEX3> sebelum bencana tsunami Selat Sunda, yang merenggut nyawa putrinya. 
+
+Ayah Dylan menceritakan kejadian tersebut kepada wartawan usai pemakaman putrinya, <TIMEX3 tid="t2" type="DATE" value="2018-12-25">Selasa (25/12/2018)</TIMEX3>. 
+
+Supriyanto bercerita, <TIMEX3 tid="t3" type="DATE" value="P1D">sehari</TIMEX3> sebelum kejadian, Dylan dan dirinya masih mendampingi calon wakil presiden nomor urut dua Sandiaga Uno melakukan safari politik di Kabupaten Ponorogo. 
+
+Selain istri Ifan Seventeen, Dylan sendiri merupakan caleg DPRD Jawa Timur Dapil 9 dari Partai Gerindra. 
+
+Menurut Supriyanto, saat acara rangkaian kampanye Sandiaga Uno belum kelar, Dylan berpamitan. 
+
+Ia pamit kepadanya untuk menyusul Ifan yang mengisi acara gathering PLN, bersama personel band Seventeen. 
+
+Supriyanto mengatakan dirinya sempat mencegah anaknya menyusul Ifan, dan memintanya untuk mengikuti kampanye cawapres Sandiaga Uno di Ponorogo sampai selesai. 
+
+Pasalnya, kegiatan kampanye cawapres pendamping capres Prabowo Subianto itu tinggal menyisakan <TIMEX3 tid="t4" type="DURATION" value="P1D">satu hari</TIMEX3> saja. 
+
+" Acaranya pak Sandi itu kan <TIMEX3 tid="t5" type="DURATION" value="P2D">dua hari</TIMEX3> Jumat dan <TIMEX3 tid="t6" type="DATE" value="2018-12-22">Sabtu</TIMEX3>. 
+
+Pada <TIMEX3 tid="t7" type="DATE" value="2018-12-21">hari Jumat</TIMEX3>, Dylan juga mengisi acaranya Pak Sandi, ujarnya. 
+
+// Tapi <TIMEX3 tid="t8" type="DATE" value="2018-12-22">Sabtu</TIMEX3> dini hari, Dylan berpamitan. 
+
+Sebenarnya saya sudah ngomong, kampanyenya diselesaikan <TIMEX3 tid="t9" type="DATE" value="PAST_REF">dulu</TIMEX3> tinggal <TIMEX3 tid="t10" type="DURATION" value="P1D">sehari</TIMEX3>. 
+
+Tetapi, anaknya sudah punya acara katanya, " kata Supriyanto. 
+
+Dylan terus bersikukuh tetap ingin pergi sehingga Supriyanto tidak bisa melarangnya. 
+
+Dylan terbang ke Bandara Soekarno-Hatta, lalu dilanjutkan perjalanan darat ke Anyer di lokasi acara gathering PLN. 
+
+Supriyanto tak menyangka, <TIMEX3 tid="t11" type="DATE" value="2018-12-22">Sabtu</TIMEX3> dini <TIMEX3 tid="t12" type="DATE" value="2018-12-26">hari itu</TIMEX3> menjadi pertemuan terakhir dengan Dylan. 
+
+<TIMEX3 tid="t13" type="TIME" value="2018-12-26T20:00:00">Dua puluh jam kemudian</TIMEX3>, viral pemberitaan bahwa tsunami menerjang Anyer, Banten. 
+
+Termasuk di lokasi grup band Seventeen bersama putrinya mengisi acara gathering PLN. 
+
+<TIMEX3 tid="t14" type="DATE" value="2018-12-28">Dua hari kemudian</TIMEX3>, Supriyanto bersama istrinya, Dwi Retno mendapatkan informasi jasad Dylan ditemukan dalam kondisi meninggal dunia, atau pada <TIMEX3 tid="t15" type="TIME" value="2018-12-24TMO">Senin (24/12/2018) pagi</TIMEX3>. 
+
+Anggota DPR RI dari Partai Gerindra itu tidak begitu saja percaya dengan informasi tersebut. 
+
+Namun setelah dilakukan identifikasi, Supriyanto mendapatkan kepastian jasad itu adalah Dylan, <TIMEX3 tid="t16" type="DATE" value="2018-12-24">Senin (24/12/2018)</TIMEX3> sekitar <TIMEX3 tid="t17" type="TIME" value="2018-12-25T19:00">pukul 19.00 WIB</TIMEX3>. 
+
+Ia menambahkan putri keduanya itu memang selalu mengikuti Ifan saat mengisi acara termasuk saat hadir di acara gathering PLN di Anyer, Banten.Ia berharap Dylan diampuni segala kesalahannya dan mendapatkan tempat terbaik disisi-Nya. 
+</TEXT>
+
+</TimeML>

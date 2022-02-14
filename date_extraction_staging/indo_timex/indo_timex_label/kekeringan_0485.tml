@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0485</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-17" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-17</TIMEX3></DCT>
+
+<TITLE>Kekeringan Makin Parah</TITLE>
+
+<TEXT>
+Bencana kekeringan mulai dirasakan warga yang tinggal di zona krisis air Gunungkidul. 
+
+Di Padukuhan Ngricik, Desa Melikan, Kecamatan Rongkop, warga membuat belasan lubang di tanah untuk mendapatkan air. 
+
+Menurut keterangan warga setempat, dibanding <TIMEX3 tid="t1" type="DATE" value="2016-07-17">tahun lalu</TIMEX3> krisis air <TIMEX3 tid="t2" type="DATE" value="2017">tahun ini</TIMEX3> sangat parah. 
+
+Telaga yang selama ini menjadi tumpuan akhir penduduk untuk mendapatkan air secara cuma-cuma berubah menjadi lahan tandus. 
+
+Telaga berubah menjadi tanah retak, tidak ada lagi genangan air. 
+
+Namun masyarakat di sekitar telaga meyakini jika tanahnya digali maka di dalamnya terdapat sumber air. 
+
+Sejak <TIMEX3 tid="t3" type="DURATION" value="PXW">beberapa pekan</TIMEX3> terakhir mereka membuat lubang berdiameter lingkaran pinggang orang dewasa. 
+
+Sejak <TIMEX3 tid="t4" type="DATE" value="2017-05-17">dua bulan lalu</TIMEX3> tidak turun hujan, telaga mengering. 
+
+Kami membuat lubang untuk memanfaatkan sisa air telaga untuk keperluan dapur, kata Sukini, 56, penduduk setempat <TIMEX3 tid="t5" type="DATE" value="2017-07-16">kemarin (16/7)</TIMEX3>. 
+
+Selama ini sudah ada belasan galian lubang, namun sebagian besar sudah mengering hanya sisa sekitar tiga lubang yang masih berair. 
+
+Warga harus berhemat, lantaran perjuangan mendapatkan air tidak mudah. 
+
+Mengambil air dengan gayung kedalaman rata-rata 50 sentimeter, ujarnya. 
+
+Menurut dia, dampak <TIMEX3 tid="t6" type="DATE" value="2017-SU">musim kemarau</TIMEX3> mulai menyulitkan masyarakat. 
+
+Bak tempat penampungan air hujan miliknya sudah mengering. 
+
+Saluran dari Perusahaan Daerah Air Minum (PDAM) belum menjangkau kampungnya. 
+
+Membeli air harganya Rp 120.000 per truk tangki. 
+
+Kami pergunakan untuk <TIMEX3 tid="t7" type="DURATION" value="P1W">seminggu</TIMEX3> sampai <TIMEX3 tid="t8" type="DURATION" value="P2W">dua minggu</TIMEX3>, ungkapnya. 
+
+Bagi hewan ternak, dia harus rela jalan kaki untuk mencari sumber mata air. 
+
+Salah satunya memanfaatkan sisa air di telaga. 
+
+Dengan cara hemat, Sukini meyakini ekonomi keluarga masih bisa aman. 
+
+Penduduk yang lain, Watinah, 63, mengaku jalan kaki dengan jarak setengah kilometer untuk menuju lubang air di telaga. 
+
+Dari telaga Banteng, menggunakan jeriken ukuran 20 liter, dia bolak balik ke rumahnya. 
+
+<TIMEX3 tid="t9" type="DURATION" value="P1D">Sehari</TIMEX3> kadang tiga kali kadang, ya empat kali bolak-balik, tergantung kebutuhan. 
+
+Air dari lubang di telaga sebagian untuk hewan ternak, sebagian untuk memasak. 
+
+Airnya jernih sekali, kata Watinah. 
+
+Warga sengaja mengambil air pada <TIMEX3 tid="t10" type="TIME" value="2017-07-17TMO">pagi hari</TIMEX3> dan membawa pulang <TIMEX3 tid="t11" type="TIME" value="2017-07-16TAF">sore</TIMEX3> supaya kotoran mengendap. 
+
+Bantuan dari pemerintah melalui Badan Penanggulangan Bencana Daerah (BPBD) sudah turun namun tidak mencukupi kebutuhan. 
+
+Hanya satu tangki ukuran 5.000 liter, ujarnya.Berdasarkan data BPBD Gunungkidul, sudah ada permintaan droping air bersih ke tujuh kecamatan. 
+
+Mulai dari Kecamatan Panggang, Purwosari, Tepus, Tanjungsari, Paliyan, Rongkop, dan Girisubo. 
+
+Meliputi 32 desa, 254 padukuhan, 9.046 kepala keluarga, dan 45.230 jiwa. 
+
+(gun/iwa/ong) 
+</TEXT>
+
+</TimeML>

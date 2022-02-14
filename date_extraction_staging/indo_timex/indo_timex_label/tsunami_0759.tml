@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0759</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-05" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-05</TIMEX3></DCT>
+
+<TITLE>Yanuar, Petugas Damkar Palu, Peringatannya Sempat Tak Dipercaya, Ini Kisahnya</TITLE>
+
+<TEXT>
+Gempa bermagnitudo 7,4 yang disertai tsunami di Palu dan Donggala, Sulawesi Tengah, masih menyisakan trauma mendalam bagi korban selamat. 
+
+Tak terkecuali untuk Yanuar, petugas pemadam kebakaran yang selamat dari bencana tersebut. 
+
+Yanuar merupakan salah seorang petugas pemadam kebakaran Palu yang bertugas di Festival Pesona Palu Nomoni, Pantai Anjungan Nusantara, Kota Palu. 
+
+Ia merasakan dan menyaksikan betul bagaimana gempa dan tsunami mengguncang Kota Palu. 
+
+Ditemui sejumlah awak media saat mengevakuasi korban di reruntuhan Perumnas Balaroa, Yanuar mengatakan, petugas damkar <TIMEX3 tid="t1" type="DATE" value="PAST_REF">saat itu</TIMEX3> tengah membentuk panitia keamanan di lapangan dekat pinggir pantai pada <TIMEX3 tid="t2" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>, <TIMEX3 tid="t3" type="TIME" value="2018-10-04T16:00">pukul 16.00</TIMEX3> Wita. 
+
+" Guncangan pertama itu <TIMEX3 tid="t4" type="TIME" value="2018-10-04T16:00">sekitar pukul 16.00</TIMEX3>, air masih belum naik, masih biasa-biasa saja, " ucap Yanuar, di Perumahan Nasional Jalan Balaroa, <TIMEX3 tid="t5" type="DATE" value="2018-10-04">Kamis (4/10/2018)</TIMEX3>. 
+
+Disangka hoaksMenjelang adzan maghrib berkumandang, air langsung naik ke pinggir pantai dengan sangat cepat. 
+
+" Pas saya lihat air naik, saya langsung bilang ke masyarakat dan petugas penjaga lainnya untuk lari karena air sudah tinggi, tetapi mereka masih ada yang bertahan, bertahan di tempat festival, " ujarnya. 
+
+Namun, peringatan Yanuar <TIMEX3 tid="t6" type="DATE" value="PAST_REF">saat itu</TIMEX3> dihiraukan tim penjagaan. 
+
+// Bahkan, peringatannya sempat disangka hoaks. 
+
+" Saya sudah bilang ke mereka, 'ayo lari air sudah mulai naik, sudah mau tsunami'. 
+
+Tapi malah mereka malah bilang ke saya, 'Mas jangan menyebar hoaks', " ucap Yanuar. 
+
+Meski demikian, Yanuar tetap meminta warga lari menjauh dari pantai. 
+
+<TIMEX3 tid="t7" type="DATE" value="PXX">Beberapa saat kemudian</TIMEX3>, peringatan tsunami datang dari pangkalan TNI AL. 
+
+Saat guncangan kedua, tsunami mulai naik ke bagian festival di Anjungan Nusantara. 
+
+Yanuar terus berlari menyelamatkan diri. 
+
+Kemudian, ia melihat ada anak tetangga yang berlari seorang diri. 
+
+" Saya gandeng saja, tak bawa lari bareng, " ujar dia. 
+
+<TIMEX3 tid="t8" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, Yanuar melihat mobil saling bertabrakan. 
+
+Ia juga kebingungan mencari jalan keluar untuk menyelamatkan diri. 
+
+Keajaiban doaDi tengah kebingungannya, ia berdoa agar selamat dari bencana ini. 
+
+Setelah ia berdoa, tiba-tiba saja seorang karyawan Palu Grand Mall (PGM) lewat di depannya dengan motor. 
+
+// " Semua kebingungan cari jalan keluar karena mobil sudah pada saling tabrak. 
+
+Saya langsung memberhentikan motornya dan mengajaknya cari jalan keluar bersama, " kata Yanuar. 
+
+Setelah Yanuar menemukan jalan keluar, ia langsung membawa karyawan PGM dan anak tetangganya ke kantor Dinas Pemadam Kebakaran Palu. 
+
+Setelah itu, Yanuar langsung menerima informasi untuk mengevakuasi korban gempa tsunami di Perumahan Nasional BTN, Jalan Balaroa, Palu, Selawesi Selatan. 
+
+" Setelah saya drop anak tetangga saya dan teman saya itu, saya langsung meluncur untuk evakuasi korban di Perumnas ini karena saya dengar perumahan ini sudah kena gempa tsunami dan tertiban lumpur lagi, " ujarnya. 
+
+Hingga <TIMEX3 tid="t9" type="DATE" value="2018-10-04">Kamis ini</TIMEX3>, Yanuar masih berupaya mengevakuasi para korban gempa tsunami Palu Donggala di Perumnas Balaroa. 
+
+" Saya bersyukur masih selamat ya Allah bersyukur banget, maka dari itu saya berupaya semaksimal mungkin untuk menemukan para korban yang memang belum terevakuasi, tutur Yanuar menutup pembicaraan. 
+
+
+</TEXT>
+
+</TimeML>

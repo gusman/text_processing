@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0701</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-11" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-11</TIMEX3></DCT>
+
+<TITLE>Penambang Pasir Mojokerto Tewas Tertimbun Material Tebing Longsor, Telinga &amp; Hidung Keluarkan Darah</TITLE>
+
+<TEXT>
+Seorang pria bernama Latif alias Unyil tewas tertimbun material tebing longsor di lokasi galian Sirtu, Dusun Grogol, Desa Kepuhpandak, Kecamatan Kutorejo, Kabupaten Mojokerto. 
+
+Pria berusia <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">55 tahun itu</TIMEX3> setiap <TIMEX3 tid="t2" type="DATE" value="P1D">harinya</TIMEX3> bekerja sebagai penambang pasir dan tinggal di Tangunan, Kecamatan Puri, Kabupaten Mojokerto. 
+
+Berdasarkan informasi yang dihimpun TribunMadura. 
+
+com, Latif alias Unyil ditemukan dalam dalam kondisi badan yang sudah terkubur tanah material Sirtu dari longsoran tebing setinggi lima meter. 
+
+Awal mula kejadian ini, korban meratakan tanah pada bagian bawah tebing untuk akses kendaraan, <TIMEX3 tid="t3" type="DATE" value="2020-03-11">Rabu (11/3/2020)</TIMEX3> sekitar <TIMEX3 tid="t4" type="TIME" value="2020-03-10T07:30">pukul 07.30 WIB</TIMEX3>. 
+
+Lahan galian pasir itu milik Juwadi (45) warga setempat. 
+
+. 
+
+Terdengar suara gemuruh bersamaan tebing longsor. 
+
+Kejadian tebing longsor secara mendadak begitu cepat. 
+
+Dua orang penambang pasir di lokasi kejadian berupaya menghindar dari longsoran tebing berupa tanah bercampur batu berukuran sekitar 80 sentimeter. 
+
+Nahas, korban tidak sempat menghindar itu tertimpa material longsor. 
+
+Rekan korban yang bernama Suhari menjelaskan, secara bersamaan korban meratakan tanah di bawah tebing untuk dibuat jalan. 
+
+Jarak antara mereka sekitar 2 meter ketika terjadi tebing longsor. 
+
+" Saya lari menyelamatkan diri ada satu orang (Korban, Red) tertimpa longsor meninggal, " ujarnya di lokasi kejadian. 
+
+// Polisi Polsek Kutorejo bersama masyarakat mengevakuasi jenazah korban yang tertimbun material longsor. 
+
+Saat dievakuasi korban mengenakan jaket warna biru. 
+
+Telinga dan hidung korban terlihat mengeluarkan darah. 
+
+Tim INAFIS Polres Mojokerto melakukan identifikasi terhadap jenazah korban sekaligus melakukan olah TKP (Tempat Kejadian Perkara) tebing longsor di lokasi galian pasir. 
+
+. 
+
+Jenazah korban dievakuasi dari lokasi kejadian menggunakan mobil patroli bak terbuka Polsek Kutorejo. 
+
+Jenazah korban dibawa ke Rumah Sakit Umum Daerah (RSUD) Prof. 
+
+Dr Soekandar, Mojosari, Kabupaten Mojokerto. 
+
+Pihak Kepolisian belum bisa dikonfirmasi terkait kejadian tebing longsor di lokasi galian pasir yang menewaskan seorang penambang pasir tradisional. 
+
+Kasat Reskrim Polres Mojokerto, AKP Dewa Putu Prima saat dikonfirmasi Surya, belum dapat menyampaikan secara detail mengenai kronologi kejadian tersebut. 
+
+" Ke polsek <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dulu</TIMEX3> ya saya belum dapat laporan lengkap, " ucap suami Kadek Devie ini. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0251</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-16" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-16</TIMEX3></DCT>
+
+<TITLE>Tiba di Pelosok Sulteng, Relawan Menangkan Pancasila Sulsel Bagikan Bantuan</TITLE>
+
+<TEXT>
+Para relawan bersama Posko Menangkan Pancasila (PMP) Sulawesi Selatan (Sulsel) tiba di pelosok Sulawesi Tengah (Sulteng) pada <TIMEX3 tid="t1" type="DATE" value="2018-10-15">Senin (15/10/2018)</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2018-10-15TAF">sore hari</TIMEX3>. 
+
+Koordinator PMP Sulsel, Anshar Manrulu, <TIMEX3 tid="t3" type="DATE" value="2018-10-16">Selasa (16/10/2018)</TIMEX3> menjelaskan, <TIMEX3 tid="t4" type="TIME" value="2018-10-16TAF">siang ini</TIMEX3> para relawan telah menyisir jalan-jalan di pelosok-pelosok desa yang ikut terkena dampak dari bencana Sulteng. 
+
+<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kawan-kawan sudah tiba di Desa Ramba Kecamatan Dolo Selatan Kabupaten Sigi, kata Anshar. 
+
+Di Desa Ramba tersebut, Anshar melanjutkan, jumlah pengungsi mencapai 718 jiwa. 
+
+Mayoritas penduduknya petani menengah dan kecil, ungkap Anshar. 
+
+Sebelumnya terlansir, bersama PMP Sulsel, sejumlah relawan mengirim bantuan donasi, logistik dan relawan ke Sulawesi Tengah, <TIMEX3 tid="t6" type="DATE" value="2018-10-13">Sabtu (13/10/2018)</TIMEX3>. 
+
+Para relawan dipimpin oleh Ketua Wilayah Liga Mahasiswa Nasional untuk Demokrasi Sulsel Maulana Irfani. 
+
+Donasi dan logistik dibawa menggunakan mobil bak terbuka. 
+
+Bantuan ini, jelas Maulana, berasal dari Eksekutif Kota LMND Palopo dan Makassar. 
+
+Ada juga dari kepemudaan Mataram dan Lombok Timur yang bersolidaritas terhadap para korban gempa dan tsunami di Sulteng, katanya. 
+
+Bantuan ini difokuskan kepada pelosok-pelosok daerah terdampak bencana Sulteng yang belum tersentuh bantuan. 
+
+Relawan akan berada di Sulteng selama <TIMEX3 tid="t7" type="DURATION" value="P1W">sepekan</TIMEX3>. 
+
+Bisa diperpanjang tergantung dengan situasi dan kondisi di lapangan, ujarnya. 
+
+Donasi yang terkumpul, Maulana menambahkan, semula dalam bentuk uang ada sekitar Rp30 juta. 
+
+Sebagian donasi langsung dibelanjakan dalam bentuk logistik untuk memenuhi kebutuhan <TIMEX3 tid="t8" type="SET" value="P1D">sehari-hari</TIMEX3> para pengungsi. 
+
+Untuk diketahui, Posko Menangkan Pancasila dibentuk hampir di seluruh Indonesia. 
+
+Posko ini adalah sebuah gerakan sekaligus kampanye yang digalang oleh Partai Rakyat Demokratik (PRD) bersama sejumlah organisasi mahasiswa, petani, buruh, perempuan, rakyat miskin, dan pekerja seni. 
+
+Pembentukan Posko Menangkan Pancasila adalah upaya PRD untuk menghadirkan Pancasila dalam kehidupan berbangsa, baik dalam politik negara maupun kehidupan rakyat <TIMEX3 tid="t9" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+Eva De 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0158</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-07" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-07</TIMEX3></DCT>
+
+<TITLE>Listrik Mati, Pompa Pakai Genset</TITLE>
+
+<TEXT>
+Ketinggian banjir di wilayah Perumahan Villa Mutiara Pluit terpantau mulai surut.
+
+Banjir yang tadinya mencapai 2 meter lebih kini hanya setinggi dengkul orang dewasa.
+
+Walikota Arief Wismansyah bersama wakilnya Sachrudin dan Kapolres Metro Tangerang Kota Sugeng Hariyanto, menginstruksikan Dinas Perhubungan untuk mengerahkan mesin genset agar pompa air yang ada di Pintu Air 3 Villa Mutiara Pluit menyala.
+
+Ini karena masih belum nyala listriknya, jadi pakai genset.
+
+Segera bawa mesin dieselnya.
+
+Karena air yang dibelakang ini harus disedot, kalau gak begini akan lama surutnya,  lanjut Arief.
+
+Untuk Perumahan Villa Mutiara Pluit sendiri, banjir masih tersisa dibagian belakang perumahan, sehingga diperlukan penyedotan menggunakan genset agar pompa air menyala.
+
+Kepala Bidang Tata Air Dinas PUPR Kota Tangerang, Fachri Wahyudi menerangkan, pompa air harus dinyalakan meski listrik di wilayah Perumahan Villa Mutiara Pluit masih dipadamkan oleh PLN.
+
+Karena gardu listrik mereka ini menyatu dengan gardu listrik di Perumahan Periuk Damai.
+
+Jadi kalau yang disana belum menyala yang di sini otomatis sama.
+
+Supaya cepat surut kita upayakan dengan genset,  tutup Fachri.
+
+(rls)
+</TEXT>
+
+</TimeML>
+

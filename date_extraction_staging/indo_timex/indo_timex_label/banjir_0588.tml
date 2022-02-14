@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0588</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-05" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-05</TIMEX3></DCT>
+
+<TITLE>UPDATE BNPB Sebut 60 Orang Meninggal dan 2 Orang Masih dalam Pencarian akibat Banjir Jabodetabek</TITLE>
+
+<TEXT>
+UPDATE BNPB Sebut 60 Orang Meninggal dan 2 Orang Masih dalam Pencarian akibat Banjir JabodetabekKepala Pusat Data Informasi dan Komunikasi (Kapusdatinkom) BNPB Agus Wibowo mengatakan, jumlah korban meninggal akibat banjir di Jabodetabek dan Lebak, Banten mencapai 60 orang dan 2 orang hilang. 
+
+Hal ini berdasarkan data terbaru per <TIMEX3 tid="t1" type="TIME" value="2020-01-04">Sabtu (4/1/2020) pagi</TIMEX3> pukul <TIMEX3 tid="t2" type="TIME" value="2020-01-04T18:00">18.00 WIB</TIMEX3>. 
+
+" Jumlah korban meninggal dunia per <TIMEX3 tid="t3" type="DATE" value="2020-01-04">tanggal 4 Januari 2020</TIMEX3>, <TIMEX3 tid="t4" type="TIME" value="2020-01-04T18:00">pukul 18.00 WIB</TIMEX3>, sejumlah 60 orang meninggal dan dua orang hilang, " kata Agus dalam keterangan tertulis, <TIMEX3 tid="t5" type="DATE" value="2020-01-04">Sabtu (4/1/2020)</TIMEX3>. 
+
+. 
+
+Adapun pengungsi di beberapa wilayah mengalami penurunan. 
+
+" Pengungsi di beberapa wilayah mengalami penurunan, karena kembali ke rumahnya masing-masing, " ujarnya. 
+
+Diberitakan, Hujan yang mengguyur sejak <TIMEX3 tid="t6" type="DATE" value="2019-12-31">Selasa (31/12/2019)</TIMEX3> hingga <TIMEX3 tid="t7" type="DATE" value="UNKNOWN">Rabu (1/1/2020) itu</TIMEX3> telah mengakibatkan banjir di sejumlah wilayah di Jabodetabek. 
+
+Sementara, banjir bandang terjadi di Kabupaten Lebak, Banten, pada <TIMEX3 tid="t8" type="TIME" value="2020-01-01TMO">Rabu pagi</TIMEX3> akibat meluapnya Sungai Ciberang yang berhulu di Taman Nasional Gunung Halimun Salak (TNGHS). 
+
+Artikel ini telah tayang di Kompas. 
+
+com dengan judul " UPDATE BNPB:60 Orang Meninggal Akibat Banjir Jabodetabek dan Lebak ", 
+</TEXT>
+
+</TimeML>

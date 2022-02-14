@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0551</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-05" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-05</TIMEX3></DCT>
+
+<TITLE>Satgas Yonif Raider 641/Bru Bantu Korban Tanah Longsor di Entikong</TITLE>
+
+<TEXT>
+Sebanyak enam orang anggota Pos Gabma Entikong TNI Perbatasan Satgas Pamtas Yonif R-641/Bru dipimpin Sertu Rudi melaksanakan perbantuan penanggulangan bencana tanah longsor yang menimpa 3 rumah warga di Dusun Entikong, Desa Entikong, Kecamatan Entikong, Kabupaten Sanggau. 
+
+<TIMEX3 tid="t1" type="DATE" value="2020-01-05">Minggu</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2020-01-05">(5/1/2020)</TIMEX3>. 
+
+Anggota Satgas Yonif R-641/Bru bergerak cepat melaksanakan kegiatan penanggulangan bencana tanah longsor setelah mendengar adanya kabar tersebut. 
+
+Dengan membawa peralatan evakuasi, Satgas Yonif Raider 641/Bru secara bergotong royong dan bersinergi dengan masyarakat melakukan evakuasi terhadap korban tanah longsor. 
+
+Dansatgas Pamtas Yonif R-641/Bru, Letkol Inf Kukuh Suharwiyono, mengatakan, Ada 3 rumah warga yang terkena musibah tanah longsor, yaitu rumah Bapak Rano, Bapak Deni dan Bapak Syamsir. 
+
+Tidak ada korban jiwa pada kejadian tersebut. 
+
+Tanah longsor terjadi karena curah hujan yang cukup tinggi dalam <TIMEX3 tid="t3" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir di wilayah Entikong dan kontur tanah yang miring atau lereng menyebabkan tanah tergerus air. 
+
+Hal inilah penyebab terjadinya tanah longsor. 
+
+Selain itu, kondisi tanah yang terjal dan akar-akar pohon yang tidak mampu menahan tanah, mengakibatkan tanah longsor terjadi. 
+
+Kami mengucapkan banyak-banyak terima kasih kepada aparat TNI yang mau memberikan tenaga untuk kami yang tertimpa musibah, ucap Asmui, Ketua RT 12 Dusun Entikong. 
+
+Begitupun Mimi, salah seorang korban tanah longsor, menyampaikan apresiasi atas kerjasama TNI dengan rakyat karena pada kondisi seperti ini warga yang terkena musibah tidak tahu harus berbuat apa. 
+
+Kedatangan aparat TNI sangat membantu meringankan beban warga. 
+
+Bobirianto Yulianus. 
+
+
+</TEXT>
+
+</TimeML>

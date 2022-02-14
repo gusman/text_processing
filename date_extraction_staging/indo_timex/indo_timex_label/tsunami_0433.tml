@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0433</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-07" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-07</TIMEX3></DCT>
+
+<TITLE>Hingga Minggu Siang, BNPB Mencatat Korban Tewas Gempa dan Tsunami di Sulteng 1.763 Orang</TITLE>
+
+<TEXT>
+Jumlah korban jiwa akibat gempa dan tsunami di Sulawesi Tengah, hingga <TIMEX3 tid="t1" type="DATE" value="2018-10-07">Minggu (7/10/2018)</TIMEX3>, mencapai 1.763 orang. 
+
+Data tersebut berdasarkan laporan terkini dari Badan Nasional Penanggulangan Bencana (BNPB). 
+
+" Jumlah korban jiwa bertambah, karena tim gabungan juga terus melakukan pencarian korban, " ujar Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho di Gedung BNPB Jakarta, <TIMEX3 tid="t2" type="DATE" value="2018-10-07">Minggu</TIMEX3>. 
+
+Dari jumlah tersebut, sebanyak 1.519 jenazah ditemukan di Palu. 
+
+Sementara, sebanyak 159 jenazah ditemukan di Donggala. 
+
+Kemudian, sebanyak 69 korban tewas ditemukan di Sigi, dan 15 jenazah ditemukan di Parigi. 
+
+Kemudian, 1 jenazah ditemukan di Pasangkayu. 
+
+. 
+
+Hal itu disebabkan gempa dan tsunami yang terjadi di kota tersebut. 
+
+Hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, diperkirakan masih banyak korban yang tertimbun dan belum diketahui keadaannya. 
+
+
+</TEXT>
+
+</TimeML>

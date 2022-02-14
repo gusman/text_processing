@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0841</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-01</TIMEX3></DCT>
+
+<TITLE>Banjir Jakarta, Begini Cara agar Tidak Tersengat Listrik</TITLE>
+
+<TEXT>
+PLN melakukan pemadaman sementara aliran listrik di wilayah yang terdampak banjir. 
+
+Pemadaman dilakukan demi keselamatan masyarakat agar terhindar dari bahaya arus listrik. 
+
+Hingga <TIMEX3 tid="t1" type="TIME" value="2019-12-31T09:30">pukul 9.30 WIB</TIMEX3>, PLN memadamkan listrik di 724 wilayah Jakarta yang mengalami banjir. 
+
+Di antaranya Karet Pasar Baru Barat dan sekitarnya, Kedoya Utara, Tanjung Duren, Pancoran, Pejaten Timur, Jati Petamburan, Perum Billy Moon 3 Pondok Kelapa, Jl Kebon Jeruk Raya, dan Komplek Jati Bening. 
+
+Selain itu, pemadaman juga dilakukan di Jl Raya Daan Mogot Kalideres, Jl Swadarma Raya, Jl Pos Pengumben, Jl Sektor Ciledug, JL Bangka Kemang, Duta Indah Square, Perum Taman Bougenville, Jl Raya Daan Mogot, Perum Taman Wiana Jatibening, Perum Pinewood Wibawamukti. 
+
+" Kami amankan listriknya sampai benar-benar siap untuk dinyalakan agar masyarakat terhindar dari sengatan listrik, " ungkap Ikhsan Asaad, General Manager PLN Unit Induk Distribusi Jakarta dalam rilis yang diterima, <TIMEX3 tid="t2" type="DATE" value="2020-01-01">1 Januari 2020</TIMEX3>. 
+
+PLN juga memberikan sejumlah himbauan untuk menghindari sengatan listrik di <TIMEX3 tid="t3" type="DATE" value="2019-WI">musim penghujan</TIMEX3> terutama saat banjir. 
+
+. 
+
+Hindari berteduh di dekat instalasi kelistrikan seperti tiang, gardu, panel PJU dan lainnya.2. 
+
+Bila akan melewati genangan banjir, gunakan sepatu boots yang kedap air agar terhindari dari risiko bahaya seperti bakteri, pecahan kaca, paku dan tegangan listrik bocor. 
+
+// 3. 
+
+Dalam kondisi basah, gunakan sarung tangan karet bila ingin menyentuh instalasi kelistrikan.4. 
+
+Bila menjumpai instalasi kelistrikan yang berpotensi bahaya, beri tanda bahaya dan laporkan ke contact center PLN 123. 
+
+PLN juga memberikan sejumlah tips untuk mengantisipasi bahaya listrik saat banjir. 
+
+. 
+
+Matikan instalasi listrik di dalam rumah.2. 
+
+Cabut peralatan listrik yang masih tersambung dengan stop kontak.3. 
+
+Naikkan alat elektronik ke tempat yang lebih tinggi.4. 
+
+Bila aliran listrik yang terkena banjir tidak padam segera hubungi contact PLN <TIMEX3 tid="t4" type="DATE" value="1235">1235</TIMEX3>. 
+
+Hubungi instansi terkait penanggulangan bahaya banjirSetelah banjir surut, masyarakat harus memastikan peralatan elektronik maupun instalasi dalam keadaan kering. 
+
+Selanjutnya, penormalan listrik dapat dilakukan setelah instalasi dipastikan kering dan ada penandatangan berita acara yang disaksikan Ketua RT/RW/tokoh masyarakat setempat. 
+
+
+</TEXT>
+
+</TimeML>

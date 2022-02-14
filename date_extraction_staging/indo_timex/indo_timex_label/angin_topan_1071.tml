@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1071</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-08-05" temporalFunction="false" functionInDocument="CREATION_TIME">2016-08-05</TIMEX3></DCT>
+
+<TITLE>Angin Kencang, Puluhan Rumah Rusak Parah di Nongsa</TITLE>
+
+<TEXT>
+
+
+Pu luhan rumah warga perumahan Family Dream dan Cipta Man diri, Kecamatan Nongsa rusak parah dihantam angin kencang puting peliung <TIMEX3 tid="t1" type="TIME" value="2016-08-05TMO">subuh</TIMEX3> dini hari. 
+
+
+Peristiwa ini terjadi <TIMEX3 tid="t2" type="TIME" value="2016-08-05TMO">subuh</TIMEX3> dinihari, angin kencang am brukkan atap rumah tetangga dan menimpa rumah kami, namun tak ada korban jiwa, Kata Yoche warga Perum Fam ily Dream, Bandara, <TIMEX3 tid="t3" type="DATE" value="2016-08-03">Rabu (3/8)</TIMEX3>. 
+
+
+Kata dia, hujan lebat diba rengi angin kencang, sehingga beberapa rumah beberapa ru mah warga atapnya diterbang kan angin dan sebagian me ninimpa rumah lainnya. 
+
+
+Tidak di sini saja, perumahan Cipta Mandiri maupun rukonya yang baru dihuni wargapun atapnya beterbangan terbawa angin, salah satunya rumah warga Blok C 1 No 11, ungkpanya. 
+
+
+Sementara itu, Lurah Batu Besar Nur Amri mengatakan, peristiwan angin kecang yang terjadi di Kampung Melayu, Batu Besar, empat unit rumah warga mengalami kerusakan dan sudah dilaporkan ke Pemko Batam. 
+
+
+Empat unit rumah rusak dan satu tempat ibadah mesjid rusak ringan, kata Amri. 
+
+
+Kata dia, <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihaknya sudah melakukan pendataan sebagai dasar administrasi pengajuan bantuan terhadap Dinsos Batam. 
+
+
+Hal itu sudah kita lakukan, sambil menunggu prosesnya, ujarnya. 
+Namun saat awak media mempertanyakan adanya terjadi rusaknya beberapa rumah di wilayah bandara tepatnya Family Dream, lurah mengatakan belum menerima laporan dari pihak RT/RW di sana. 
+Kami masih menunggu laporan RT/RW di sana, namun sampai <TIMEX3 tid="t5" type="TIME" value="2016-08-05TAF">sore ini</TIMEX3> belum ada laporan, ujarnya. 
+</TEXT>
+
+</TimeML>

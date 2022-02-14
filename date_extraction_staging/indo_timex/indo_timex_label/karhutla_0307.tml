@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0307</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-22" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-22</TIMEX3></DCT>
+
+<TITLE>Berikan Dukungan, BNPB Kirim Tim Gabungan untuk Karhutla di Australia</TITLE>
+
+<TEXT>
+Kebakaran di Australia menjadi kebakaran yang sangat besar pada <TIMEX3 tid="t1" type="DATE" value="2019">akhir tahun 2019</TIMEX3> dan <TIMEX3 tid="t2" type="DATE" value="2020">awal tahun 2020</TIMEX3>. 
+
+Warga sampai ada yang terisolasi di bibir pantai karena merasa lebih aman untuk berada di tempat tersebut. 
+
+Oleh karena itu, Pemerintah Indonesia memberikan dukungan atas bencana yang melanda Australia. 
+
+. 
+
+Badan Nasional Penanggulangan Bencana dengan ini menyiapkan tim gabungan untuk melakukan assessment dukungan terhadap kebakaran hutan yang terjadi di Australia. 
+
+Tim gabungan tersebut bertolak ke Canberra, Australia pada <TIMEX3 tid="t3" type="DATE" value="2020-01-20">Senin 20 Januari 2020</TIMEX3>. 
+
+Dalam pertemuan pertama tersebut kedua belah pihak membahas tentang jumlah personel juga peralatan yang akan digunakan guna mendukung operasi penanganan kebakaran hutan. 
+
+Tim gabungan Indonesia ini berkoordinasi dengan Australian Defence Force (ADF) dan Australian Emergency Management. 
+
+
+</TEXT>
+
+</TimeML>

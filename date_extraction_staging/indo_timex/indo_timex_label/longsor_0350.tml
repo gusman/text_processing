@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0350</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-09-15" temporalFunction="false" functionInDocument="CREATION_TIME">2016-09-15</TIMEX3></DCT>
+
+<TITLE>Diterjang Longsor, Satu Warga Purwakarta Nyaris Terkubur Hidup-hidup</TITLE>
+
+<TEXT>
+Seorang pemuda bernama Rival (23) nyaris tenggelam dan terkubur lumpur hidup-hidup saat longsor menerjang rumahnya di Kampung Cinangka Desa Jatiluhur Kecamatan Jatiluhur Kabupaten Purwakarta, <TIMEX3 tid="t1" type="DATE" value="2016-09-14">Rabu (14/9)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2016-09-14T23:30">pukul 23.30</TIMEX3>. 
+
+Longsor menimpa perumahan tersebut setelah tembok pembatas sebuah proyek perumahan tepat di belakang bagian atas kampung itu jebol. 
+
+Lumpur merah langsung menerjang rumah kediaman orang tua Rival. 
+
+" Posisi saya lagi tidur tiba-tiba ada suara benturan kencang sekali. 
+
+Saat bangun, kamar saya penuh lumpur dan air sampai sepaha saya, saya sempat enggak bisa keluar karena pintu keluar terhalang lumpur, " ujar Rival di kediamannya. 
+
+Dinding bagian rumah milik Rival jebol dan jebolannya itu tepat berada di samping kamar tidur Rival. 
+
+Saat kejadian pun, orang tua Rival sudah dievakuasi, tinggal Rival saja yang tertahan di kamar. 
+
+" Orang tua saya sudah keluar rumah, sudah pada nangis. 
+
+Saya masih berusaha cari jalan keluar dan akhirnya Alhamdulillah pintu saya dobrak akhirnya saya keluar, " ujar Rival. 
+
+Longsor sendiri sebelumnya Purwakarta diland hujan deras hingga <TIMEX3 tid="t3" type="TIME" value="2016-09-15TMO">dini hari</TIMEX3>. 
+
+Pantauan Tribun <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, warga dibantu aparat Satpol PP, TNI AD, Polres Purwakarta dan Damkar Purwakarta sibuk membersihkan longsoran lumpur.Selain itu, tidak kurang dari sekitar 200 meter dari kampung itu, terdapat proyek pembangunan komplek perumahan. 
+
+Tembok pembatas antara proyek perumahan dengan kampung jebol. 
+
+(*) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1100</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-11" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-11</TIMEX3></DCT>
+
+<TITLE>Pemda Konut Buka Rekening Donasi Korban Banjir</TITLE>
+
+<TEXT>
+Pemerintah Daerah (Pemda) Kabupaten Konawe Utara (Konut), Sulawesi Tenggara (Sultra) membuka rekening donasi untuk korban banjir bandang di wilayah itu. 
+
+Kepala Badan Pengelolaan Keuangan dan Aset Daerah (BPKAD) Konut, Marthen <TIMEX3 tid="t1" type="DATE" value="2019-06-09">Minggu</TIMEX3> mengatakan, pihaknya bekerjasama dengan tiga perbankan melakukan penggalangan dana yang nantinya disalurkan kepada warga yang terdampak bencana banjir. 
+
+Untuk Bank Sultra Cabang Asera nomor rekening 110.01.05.000329-9, Bank BNI Cabang Asera nomor rekening 1020000044, dan Bank BRI Cabang Asera 7295-01-000124-30-7, ungkap Marthen di posko induk penaganan bencana banjir, <TIMEX3 tid="t2" type="DATE" value="2019-06-11">Selasa (11/6/2019)</TIMEX3>. 
+
+. 
+
+Dan dipublikasikan secara umum untuk seluruh rakyat Indonesia, agar dapat berpartisipasi dan peduli atas bencana alam yang melanda wilayah itu. 
+
+Kami berharap kepada semua pihak bisa meyisihkan sedikit rezekinya untuk membantu meringankan beban para korban banjir bandang yang terjadi sejak <TIMEX3 tid="t3" type="DATE" value="2019-06-02">2 juni</TIMEX3> hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, tukasnya. 
+
+Dari data yang diperoleh korban banjir <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> mencapai 5.699 jiwa dan mengungsi di tempat yang lebih aman. 
+
+202 unit rumah hanyut dan 1.391 terendam. 
+
+Tak hanya itu, 5 masjid, 4 puskesmas, 11 rumah sekolah, serta 3 pasar sentral tradisional ikut terendam banjir. 
+
+Selanjutnya 970,3 hekter sawah, 83.5 hektar lahan jagung, 420 hektar tambak udang dan ikan juga hanyut diterjang banjir setinggi 4 sampai 6 meter. 
+
+4 jembatan penghubung pun juga hancur hingga memutuskan akses transportasi darat. 
+
+Kerugian ditaksir mencapai puluhan miliar rupiah. 
+
+(b) 
+</TEXT>
+
+</TimeML>

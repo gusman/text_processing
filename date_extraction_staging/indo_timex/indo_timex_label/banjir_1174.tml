@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1174</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-03" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-03</TIMEX3></DCT>
+
+<TITLE>Banjir Rendam Sawah Petani Sugiwaras</TITLE>
+
+<TEXT>
+Lahan pertanian milik sebagian petani padi di Desa Sugiwaras, Kecamatan Tebing Tinggi tergenang air, akibat luapan air Sungai Musi. 
+
+Akibatnya banyak padi yang rusak dan gagal panen. 
+
+Informasi dihimpun, tanaman milik petani mulai digenangi air terjadi <TIMEX3 tid="t1" type="DATE" value="2019-03-02">Sabtu (2/3)</TIMEX3>. 
+
+Mulai dari <TIMEX3 tid="t2" type="TIME" value="2019-03-02T08:00">sekitar pukul 08.00 WIB</TIMEX3> air sudah menggenangi sekitar 10 hektar sawah milik warga yang mengakibatkan kerugian mencapai puluhan juta. 
+
+Diperkirakan 5 juta perhektar kerugian yang dialami petani. 
+
+Karena tanaman padi banyak yang patah akibat dihantam banjir. 
+
+Padahal sudah mau panen, kata Aljabar Muhammad Zen, warga setempat. 
+
+Dijelaskannya, banjir di Desa Sugiwaras sudah langganan <TIMEX3 tid="t3" type="SET" value="P1Y">tiap tahun</TIMEX3> karena luapan Sungai Musi. 
+
+Dirinya berharap pemerintah bisa mengatasi banjir tahunan ini sehingga warga dan petani tidak merugi. 
+
+Jika hujan dari ulu deras dan lama, Sungai Musi mulai pasang. 
+
+Itu tanda-tanda air mulai masuk ke desa dan persawahan, jelasnya. 
+
+Sementara Kepala Desa Sugiwaras Aidil Nasponi, saat dikonfirmasi melalui telepon membenarkan bahwa persawahan milik warganya banyak digenangi air. 
+
+Ya, bukan padi sawah saja, tapi padi darat juga tergenang. 
+
+Kedalaman ada yang mencapai 1 meter. 
+
+Banyak warga dan petani mengalami kerugian akibat banjir <TIMEX3 tid="t4" type="DATE" value="2019-03-02">kemarin</TIMEX3>, kata kades. 
+
+Banjir mulai masuk persawahan, dijelaskan kades, dari <TIMEX3 tid="t5" type="TIME" value="2019-03-02T08:00">pukul 08.00 WIB</TIMEX3> sawah masih tergenang air dan <TIMEX3 tid="t6" type="TIME" value="2019-03-02T12:00">sekitar pukul 12:00 WIB</TIMEX3> air mulai surut. 
+
+<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> pihaknya belum bisa menghubungi dinas terkait dikarenakan hari libur kerja. 
+
+Kemungkinan <TIMEX3 tid="t8" type="DATE" value="2019-02-25">senin</TIMEX3> kami akan melapor ke dinas terkait. 
+
+Sebab <TIMEX3 tid="t9" type="DATE" value="2019-03-02">hari sabtu</TIMEX3> dan hari minggu merupakan libur kerja, tukasnya. 
+
+(eno) 
+</TEXT>
+
+</TimeML>

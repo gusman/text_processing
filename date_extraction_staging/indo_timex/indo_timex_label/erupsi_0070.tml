@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0070</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-04-11" temporalFunction="false" functionInDocument="CREATION_TIME">2019-04-11</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS: Gunung Agung Erupsi, Kolom Abu 2.000 Meter di Atas Puncak, Terdengar Suara Gemuruh</TITLE>
+
+<TEXT>
+Gunung Agung kembali mengalami erupsi, <TIMEX3 tid="t1" type="TIME" value="2019-04-11TEV">Kamis (11/4/2019) petang</TIMEX3>. 
+
+Erupsi tercatat pada <TIMEX3 tid="t2" type="TIME" value="2019-04-10T18:47">pukul 18:47</TIMEX3> Wita. 
+
+Tinggi kolom abu teramati setinggi 2.000 meter di atas puncak Gunung Agung (5.142 m di atas permukaan laut). 
+
+. 
+
+Erupsi ini terekam di seismogram dengan amplitudo maksimum 25 mm dan durasi <TIMEX3 tid="t3" type="DURATION" value="PT2M8S">2 menit 8 detik</TIMEX3>. 
+
+Menurut informasi yang diterima Tribun Bali dari KESDM, Badan Geologi, PVMBG Pos Pengamatan Gunungapi Agung sempat terdengar suara gemuruh. 
+
+. 
+
+Dari laporan Volcanic Eruption Notice KESDM, Badan Geologi, PVMBG Pos Pengamatan Gunung Agung mencatat terjadi erupsi pada <TIMEX3 tid="t4" type="TIME" value="2019-04-10T01:31">pukul 01.31</TIMEX3> Wita dengan tinggi kolom abu teramati 2.000 m di atas puncak (5.142 m di atas permukaan laut). 
+
+Kolom abu teramati berwarna kelabu dengan intensitas tebal condong ke arah barat. 
+
+// Kepala Pelaksana (Kalaksa) BPBD Provinsi Bali, Made Rentin mengatakan dari informasi via Radio Pasebaya, suara gemuruh terdengar di beberapa desa, hujan abu terpantau di Dusun Pura Gae Rendang. 
+
+Selain itu hujan abu tipis terjadi di Desa Temukus, Dusun Teges dan seputaran Pura Kiduling Kreteg. 
+
+" Masyarakat <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> diimbau untuk tetap tenang dan tidak panik, " tambahnya. 
+
+. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> Gunung Agung berada di Level III (Siaga) dengan rekomendasi, masyarakat, pendaki, pengunjung, dan wisatawan agar tidak berada serta melakukan pendakian dan tidak beraktivitas di zona bahaya. 
+
+Masyarakat yang bermukim dan beraktivitas di sekitar aliran sungai diminta waspada akan ancaman aliran lahar hujan. 
+
+(*) 
+</TEXT>
+
+</TimeML>

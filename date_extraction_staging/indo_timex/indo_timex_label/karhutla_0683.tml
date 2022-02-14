@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0683</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-22</TIMEX3></DCT>
+
+<TITLE>Kebakaran Hutan di Gunung Semeru Masih Belum Teratasi Sejak Terjadi Lebih dari Satu Bulan Lalu</TITLE>
+
+<TEXT>
+Kebakaran hutan di kawasan Gunung Semeru, Kabupaten Lumajang, masih belum teratasi. 
+
+Hingga <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3>, api masih muncul di blok Poo, Doyong, dan Bantengan, yang masuk wilayah kerja Resort PTN Ranu Pani. 
+
+" Lokasi titik api sempat dipadamkan, " terang Humas Balai Besar Taman Nasional Bromo Tengger dan Semeru (TNBTS), Syarif Hidayat, <TIMEX3 tid="t2" type="DATE" value="2019-10-22">Selasa (22/10/2019)</TIMEX3>. 
+
+. 
+
+Syarif Hidayat menyebut, luas terdampak kebakaran hutan di Gunung Semeru mencapai 121 hektar. 
+
+Titik api yang berhasil dipadamkan di antaranya, Gunung Kepolo, Arcopodo, Kelik, Watupecah, Waturejeng, Ayek-ayek, dan Pusung Gendero. 
+
+Lalu, ada Ranu Kumbolo, Pangonan Cilik, Oro-oro Ombo, Watu Tulis, Poo, Kemlamdingan Dowo, Pos 1, Sentong, Pasang Kupluk, Gunung Lanang, Bantengan, Pasangan, dan Ledok Tirem. 
+
+" Sampai <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sudah 121 hektar lahan terdampak kebakarannya, " ucapnya. 
+
+Syarif Hidayat menyebut, ada 53 personel gabungan yang diterjunkan untuk memadamkan api pada <TIMEX3 tid="t4" type="DATE" value="2019-10-22">hari ini</TIMEX3>. 
+
+// Mereka masih memadamkan menggunakan metode sederhana dengan mendekati titik api. 
+
+Peralatan yang dibawa antara lain jetshooter, gepyok, dan ranting. 
+
+" Sebagian juga membuat sekat bakar pada medan datar, agar api tidak meluas, " tutup dia. 
+
+Sebelumnya, kebakaran hutan di Gunung Semeru terjadi sejak <TIMEX3 tid="t5" type="DATE" value="2019-09-17">17 September 2019</TIMEX3>. 
+
+Api awalnya membakar kawasan Kalimati dan Gunung Kepolo yang letaknya tak jauh dari Puncak Mahameru. 
+
+<TIMEX3 tid="t6" type="DURATION" value="P1M">Sebulan</TIMEX3> lebih berlalu, kebakaran di gunung tertinggi pulau Jawa ini masih juga belum dapat dipadamkan. 
+
+
+</TEXT>
+
+</TimeML>

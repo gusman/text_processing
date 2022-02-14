@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0729</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-25" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-25</TIMEX3></DCT>
+
+<TITLE>Sepuluh Daerah di Maluku Belum Bentuk Satgas Kebakaran Hutan</TITLE>
+
+<TEXT>
+Sebanyak sepuluh dari 11 kabupaten dan kota di Provinsi Maluku sampai <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum membentuk satuan tugas (Satgas) pemadam kebakaran hutan untuk menanggulangi bencana tersebut. 
+
+Yang baru terbentuk hanyalah Satgas pemadam kebakaran hutan di Kabupaten Buru, kata Kepala Dinas Kehutanan Maluku Adzam Banjar di Ambon, <TIMEX3 tid="t2" type="DATE" value="2015-10-25">Minggu (25/10)</TIMEX3>. 
+
+Padahal keberadaan satgas ini sangat penting dan strategis dalam mengambil tindakan darurat serta melakukan koordinasi dengan berbagai pihak, termasuk Dinas Kehutanan Provinsi. 
+
+Menurut Adzam Banjar, secara khusus untuk Pulau Buru yang banyak terdapat ilalang dan pohon kayu putih sangat berpotensi terjadi kebakaran hutan ketika terjadi kemarau panjang, sehingga pemerintah kabupaten telah mengambil langkah positif membentuk satgasnya. 
+
+Sedangkan pada wilayah Pulau Seram yang terdapat tiga kabupaten diantaranya Maluku Tengah, Seram Bagian Timur dan Seram Bagian Barat yang rawan kebakaran hutan pada <TIMEX3 tid="t3" type="DATE" value="2015-SU">musim panas</TIMEX3> belum membentuk satgas pemadam kebakaran hutan. 
+
+Kondisi serupa juga terjadi pada wilayah lain seperti Kabupaten Maluku Tenggara dan Kota Tual atau pun Kabupaten Maluku Tenggara Barat. 
+
+Maluku juga merupakan daerah tropis dengan <TIMEX3 tid="t4" type="DATE" value="2015-SU">musim panas</TIMEX3> yang berkepanjangan sehingga rawan terjadi bencana kebakaran hutan, makanya pemerintah daerah harus membentuk satgas seperti ini dan dilatih secara profesional untuk bisa menanggulangi bencana kebakaran, ujarnya. 
+
+Dari hasil foto satelit juga diketahui kalau di Kabupaten Maluku Tengah terdapat tiga titik api, kemudian Kabupaten Seram Bagian Barat (SBB) satu titik, Kabupaten Seram Bagian Timur (SBT) 13 titik, dan Kabupaten Buru 16 titik api. 
+
+Sedangkan kebakaran yang terjadi di Kecamatan Seram Utara (Malteng) belum menyentuh wilayah inti taman nasional Manusela tetapi hanya di kawasan penyangga atau zona alphen dan kondisi ini diketahui dari hasil foto satelit. 
+
+
+</TEXT>
+
+</TimeML>

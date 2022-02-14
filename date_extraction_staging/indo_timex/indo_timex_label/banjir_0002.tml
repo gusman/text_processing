@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0002</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-14" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-14</TIMEX3></DCT>
+
+<TITLE>Direlokasi ke Tempat Aman Warga Ujung Bawang  Dikejar  Banjir</TITLE>
+
+<TEXT>
+Warga Desa Ujung Bawang Kecamatan Singkil Kota seperti sekelompok orang yang dikejar banjir. 
+
+Pasalnya, kemana pun mereka pindah, selalu saja bencana banjir menimpa mereka. 
+
+Ray Lingga warga Dusun Embamo Desa Ujung Bawang kepada Rakyat Aceh <TIMEX3 tid="t1" type="DATE" value="2016-12-13">(13/12) kemarin</TIMEX3>, menyebutkan awalnya desa mereka ketika itu masih di Ujung Bawang merupakan langganan banjir. 
+
+Lalu Pemkab Singkil merelokasi mereka ke tempat yang dianggap aman, di desa ujung bawang juga yang lokasinya di Dusun Embamo. 
+
+Tetapi pada banjir kali ini, desa mereka tetap kena banjir juga dengan ketinggian mencapai satu meter lebih. 
+
+Kami mau kemana lagi terpaksa bertahan di rumah masing- masing. 
+
+Untuk beraktifitas kami terpaksa menggunakan perahu, ujar Ray. 
+
+Banjir kali ini, kata Ray lagi, merupakan banjir terbesar. 
+
+Biasanya mereka tidak tekena banjir. 
+
+Tapi air sungai Singkil bersumber dari gunung Leuser meluap, dampaknya mereka kena banjir. 
+
+Sudah selama <TIMEX3 tid="t2" type="DURATION" value="P2W">dua pekan</TIMEX3> kami kebanjiran. 
+
+Selamat warga Desa Ujung Bawang lainnya, menyebutkan, kambingnya sebanyak 5 ekor hanyut bersama kandangnya. 
+
+Dia tak tau mau buat apa, selama ini dirinya bekerja dari dagang kambing, karena kambingnya hanyut modalnya juga ludes. 
+
+Kami tidak bisa beraktifitas lagi. 
+
+Hanya mengandalkan bantuan. 
+
+Satu kepala satu bambu beras. 
+
+Bila banjir tak kunjung surut kami terancam tidak makan, ujar Selamat. 
+
+(yud/min) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0801</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-06-13" temporalFunction="false" functionInDocument="CREATION_TIME">2018-06-13</TIMEX3></DCT>
+
+<TITLE>Lima Desa Alami Krisis Air Bersih di Lotim</TITLE>
+
+<TEXT>
+Memasuki <TIMEX3 tid="t1" type="DATE" value="2018-06">bulan Juni 2018</TIMEX3>, tercatat sebanyak lima desa di Kabupaten Lombok Timur (Lotim) mengalami krisis air bersih. 
+
+Dari lima desa itu, Badan Penanggulangan Bencana Daerah (BPBD) Lotim juga memprioritaskan kebutuhan air bersih ke tempat-tempat ibadah (masjid) untuk kebutuhan wudhu masyarakat dalam pelaksanaan Salat Idul Fitri <TIMEX3 tid="t2" type="DATE" value="1439">1439</TIMEX3> Hijriyah. 
+
+Dikonfirmasi Suara NTB, <TIMEX3 tid="t3" type="DATE" value="2018-06-12">Selasa</TIMEX3>, <TIMEX3 tid="t4" type="DATE" value="2018-06-12">12 Juni 2018</TIMEX3>, Kepala Bidang Kedaruratan dan Urusan Logistik pada BPBD Lotim, Lalu Rusnan mengungkapkan kondisi kekeringan <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terbilang masih normal. 
+
+Permintaan masyarakat akan kebutuhan air bersih tidak seperti tahun-tahun sebelumnya yang begitu ekstrem. 
+
+Kondisi itu disebabkan sudah dibangun sumur bor dan bak penampungan. 
+
+<TIMEX3 tid="t6" type="DATE" value="UNKNOWN">Sementara saat ini baru</TIMEX3> lima desa yang mengalami kekeringan, di antaranya Desa Sekaroh, Desa Kuwang Rundu, Desa Suntalangu dan Desa Perigi yang terdiri dari beberapa dusun di sekitarnya, ujarnya. 
+
+Adapun khusus untuk di Desa Sekaroh Kecamatan Jerowaru, dalam rangka menghadapi Idul Fitri <TIMEX3 tid="t7" type="DATE" value="1439">1439</TIMEX3> hijriyah, pemerintah desa setempat sudah mengajukan surat ke BPBD Lotim untuk dilakukan pendistribusian air bersih untuk keperluan wudhu. 
+
+Lokasi pendistribusian yakni di Dusun Sunut Baru sebanyak 3 tangki dengan satu tangki di masjid dan 2 untuk kebutuhan masyarakat, Dusun Telone sebanyak 2 tangki, 1 di masjid dan 1 untuk masyarakat. 
+
+Selanjutnya di Ujung Sengenit/Separong sebanyak 3 tangki, 1 tangki di masjid dan 2 untuk kebutuhan masyarakat. 
+
+Sedangkan untuk di Dusun Trans sebanyak 4 tangki untuk kebutuhan masyarakat, Dusun Ujung Ketangga 3 tangki untuk 2 masjid dan 1 masyarakat, Dusun Jelok Buso 3 tangki 1 untuk masjid dan 2 untuk kebutuhan masyarakat, terakhir Dusun Lendang Pelisak, 2 tangki 1 masjid dan 1 masyarakat. 
+
+Droping air bersih bervariasi sesuai permintaan. 
+
+Tinggal Sekaroh sedang berjalan karena banyak permintaan ada yang 3 tangki, 2 tangki dan 1 tangki. 
+
+Karena <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> bulan puasa, masjid juga membutuhkan untuk kebutuhan wudhu saat Salat Tarawih dan <TIMEX3 tid="t9" type="DATE" value="P1D">hari raya</TIMEX3>, ujarnya. 
+
+Melihat <TIMEX3 tid="t10" type="DATE" value="2017-SU">musim kemarau</TIMEX3> yang baru terjadi, diprediksi jumlah dan luas wilayah akan terus bertambah dan kekeringan diprediksi terjadi antara <TIMEX3 tid="t11" type="DATE" value="2017-10">bulan Oktober</TIMEX3> hingga <TIMEX3 tid="t12" type="DATE" value="2018-11">November 2018</TIMEX3>. 
+
+(yon) 
+</TEXT>
+
+</TimeML>

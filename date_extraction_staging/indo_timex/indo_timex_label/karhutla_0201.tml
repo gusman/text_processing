@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0201</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-26" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-26</TIMEX3></DCT>
+
+<TITLE>Stasiun Meteorologi Deteksi Titik Panas di Belitung Timur dan Ingatkan Gelombang Tinggi</TITLE>
+
+<TEXT>
+Kepala Kantor Stasiun Meteorologi Kelas III HAS Hanandjoedin, Tanjungpandan, Charles Siregar, mengatakan tidak ada terdeteksi titik panas akibat kebakaran hutan yang terjadi di Kabupaten Belitung, namun yang titik panas yang terdeteksi di Pulau Bangka. 
+
+" Untuk titik panas ada di Kabupaten Belitung tidak ada terdeteksi titik panas, sedangkan di Pulau Bangka ada tujuh titik panas. 
+
+Titik panas itu kalau terjadi kebakaran itu yang terpantau titik panasnya, karena yang di deteksi panasnya, " kata Charles, <TIMEX3 tid="t1" type="DATE" value="2019-08-26">Senin (26/8/2019)</TIMEX3> saat dijumpai Posbelitung. 
+
+co di ruang kerjanya. 
+
+Lanjutnya, Kalau untuk kebakaran hutan yang terjadi di Belitung <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tidak terpantau karena dia beralasan, skala kebakaran hutan di Belitung berskala kecil, terjadi titik panas itu di pantau dari satelit. 
+
+" Ada Kategorinya, kalau sekala kecil tidak tidak terdeteksi, tapi kalau sedang sampai sekala besar itu terpantau titik panas oleh satelit, " katanya. 
+
+Sedangkan untuk di Belitung Timur sendiri, sempat terpantau satu titik panas, karena ada terjadi kebakaran yang berskala sedang, sehingga satlet memantau titik panas tersebut. 
+
+" <TIMEX3 tid="t3" type="DATE" value="2019-08-25">Kemarin</TIMEX3> di Belitung Timur sempat terpantau satu titik, yang kebakaran tebat rasau, kebakaran itu berskala sedang dan waktunya lama sampai <TIMEX3 tid="t4" type="DURATION" value="UNKNOWN">seharian</TIMEX3>. 
+
+Kalau ukurannya sudah luas dan waktunya lama baru terpantau. 
+
+Tapi kalau kebakarannya <TIMEX3 tid="t5" type="DURATION" value="PXX">sebentar</TIMEX3> dan sekala kecil itu tidak terpantau oleh satelit, " ungkapnya.Tambahnya, kebakaran yang terjadi <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, sangat berdampak buruk dengan kesehatan masyarakat, Ia mengatakan kualitas udaranya berubah, sehingga bisa menyebabkan Infeksi Saluran Pernapasan Akut (ISPA), pilek dan batuk. " Kualitas udaranya berubah, bisa menyebabkan ISPA, jadi kandungan CO2 karbon dioksida tinggi jadi memengaruhi pernapasan. 
+
+Disarankan agar menggunakan masker, " pungkasnya. 
+
+Gemlombang Tinggi // Charles Siregar menyebutkan selain <TIMEX3 tid="t7" type="DATE" value="2019-SU">musim kemarau</TIMEX3>, kebakaran hutan, masyarakat Belitung dan Belitung Timur juga harus di waspada dengan tingginya gelombang hingga mencapai angka maksimum 3 Meter. 
+
+" Untuk wilayah kelapa kampit, Manggar, gantung, simpang pesak dan membalong, tinggi gelombang signifikan itu antara 1,5 atau 2,5 meter, untuk maksimumnya sampai 3 meter, " ungkap Charles, Saat dijumpai Posbelitung. 
+
+co, <TIMEX3 tid="t8" type="DATE" value="2019-08-26">Senin (26/8/2019)</TIMEX3>. 
+
+Menurutnya, arah angin <TIMEX3 tid="t9" type="SET" value="P1M">setiap bulan</TIMEX3> tidak sama, untuk arah angin <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> bertiup dari tenggara dan berganti lagi pada <TIMEX3 tid="t11" type="DATE" value="2019-10">bulan Oktober mendatang</TIMEX3>. 
+
+" Sedangkan angin <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> angin tenggara yang kita dapat tinggi gelombang, <TIMEX3 tid="t13" type="DATE" value="FUTURE_REF">nanti</TIMEX3> apa bila berganti <TIMEX3 tid="t14" type="DATE" value="2018-10">bulan oktober</TIMEX3> berganti lagi arah angin <TIMEX3 tid="t15" type="DATE" value="FUTURE_REF">nanti</TIMEX3> daerah lain yang gelombangnya tinggi, " katanya. 
+
+Tambahnya, untuk kawasan daerah pantai Tanjung Tinggi masih terbilang tenang, dan tidak terjadi gelombang tinggi, dirinya menambahkan, hanya daerah tertentu yang terjadi gelombang tinggi. 
+
+" Sedangkan untuk kapal pengangkut penumpang harus waspada, karena pengaruh angin dan gelombang ini bisa terjadi di Selat Gelas lumayan tinggi juga, " ucapnya. 
+
+Dirinya juga menghimpun, untuk nelayan harus waspada dan hati-hati dan sediakan keamanan, untuk menjaga keadaan yang tidak di inginkan terjadi. 
+
+(Posbelitung.co /Yuranda) 
+</TEXT>
+
+</TimeML>

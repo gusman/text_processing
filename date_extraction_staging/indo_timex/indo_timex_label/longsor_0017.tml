@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0017</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-18" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-18</TIMEX3></DCT>
+
+<TITLE>Rumah Berkontruksi Kayu Ambruk Diterpa Longsor</TITLE>
+
+<TEXT>
+Sebuah rumah milik Munazar (48) warga Desa Panggoi, Muara Dua, Lhokseumawe, rusak diterpa tanah longsor, <TIMEX3 tid="t1" type="TIME" value="2019-12-16TNI">Senin malam</TIMEX3> (16/12) sekira <TIMEX3 tid="t2" type="TIME" value="2019-12-17T20:15">pukul 20.15</TIMEX3> Wib. 
+
+Tak ada korban jiwa dalam peristiwa tersebut dan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3> dirinya bersama istri dan 4 anaknya harus tinggal di rumah keluarganya. 
+
+Menurut informasi korban <TIMEX3 tid="t4" type="DATE" value="PAST_REF">saat itu</TIMEX3> bersama istrinya Lela mardianan (44), dan 4 anaknya Saibanafan (22), Amar Khalil (18), Handrina (15) dan Tuah Nawinda (3). 
+
+Menurut Munazar, peristiwa tersebut <TIMEX3 tid="t5" type="TIME" value="2019-12-17T20:15">sekitar pukul 20.15 WIB</TIMEX3>, dirinya sedang di belakang rumah membakar ikan. 
+
+Sedangkan istri serta anak perempuannya lagi nonton televisi. 
+
+Saya sedang dibelakang rumah bersama keluarga lainnya, hanya anak saya yang sedang di dalam rumah menonton televisi. 
+
+Tiba-tiba terdengar suara berderak, seperti orang melepar batu. 
+
+Ketika Saya periksa, ternyata bagian pondasi rumah mulai retak. 
+
+Melihat ini, Saya langsung memanggil anak untuk keluar dari rumah dan menyelamatkan diri, ucapnya. 
+
+Meski rumah korban rusak, namun keluarga Munazar selamat dari musibah tersebut. 
+
+Tdak lama berselang, sejumlah petugas dan warga membantu proses evakuasi korban dan keluarganya. 
+
+Termasuk mengevakuasi reruntuhan rumah berkontruksi kayu yang ambruk akibat tanah longsor tersebut. 
+
+Menurut Samsul Bahri, Ketua Tagana Lhokseumawe, dari pantauan pihaknya, untuk <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kerugian dari bencana tersebut mencapai Rp50 juta yang diakibatkan barang-barang berharga milik korban tertimbun reruntuhan bangunan. 
+
+Proses evakuasi sedang kita lakukan, untuk tenda dan bantuan masa panik akan kita koordinasikan <TIMEX3 tid="t7" type="DATE" value="PAST_REF">dahulu</TIMEX3> dan rencananya bantuan disalurkan <TIMEX3 tid="t8" type="TIME" value="2019-12-19TMO">besok pagi</TIMEX3>, ujar Samsul. 
+
+(rel/msi) 
+</TEXT>
+
+</TimeML>

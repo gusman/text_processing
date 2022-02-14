@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0755</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-17" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-17</TIMEX3></DCT>
+
+<TITLE>Longsor Landa Sejumlah Wilayah Di Ambon</TITLE>
+
+<TEXT>
+Longsor melanda sejumlah wilayah di Kota Ambon akibat hujan dengan intensitas sedang hingga lebat sejak Minggu(16/7) <TIMEX3 tid="t1" type="TIME" value="2017-07-16TNI">malam</TIMEX3>, tetapi tidak ada korban jiwa dalam peristiwa tersebut. 
+
+Longsor menerpa salah satu rumah di kawasan Batugong, Kecamatan Baguala, <TIMEX3 tid="t2" type="DATE" value="2017-07-17">Senin (17/7)</TIMEX3> sehingga bangunannya terancam roboh. 
+
+Para tetangga membantu mengevakuasi anggota keluarga pemilik rumah ke tetanga serta menyelamatkan barang-barang yang tidak tertimbun material. 
+
+Longsor juga terjadi di kawasan Jalan Jenderal Sudirman, kawasan Desa Batu Merah Atas, Kecamatan Sirimau. 
+
+Sejumlah personel polisi lalu lintas turun untuk memangkas pohon yang tumbang sambil mengeruk tanah. 
+
+Akibatnya, aktivitas lalu lintas kurang lancar dan sedimen mengalir ke dataran rendah di Desa Batumerah sehingga warga setempat bergotong royong membersihkannya. 
+
+Longsor juga terjadi di belakang SMP Alwatang di kawasan Gunung Malintang, Kecamatan Sirimau karena talud roboh. 
+
+Bencana itu terjadi di Batu Kantong, Kecamatan Nusaniwe serta Desa Naku maupun Kilang, Kecamatan Leitimur Selatan. 
+
+Pagar Pangkalan Utama TNI AL (Lantamal) IX/Ambon di Desa Halong, Kecamatan Baguala sekitar 5 meter roboh dalam peristiwa itu. 
+
+Hujan yang mengguyur Kota Ambon itu mengakibatkan sejumlah kawasan terendam banjir, seperti di Tanah Tinggi dan Kadewatan, Kecamatan Sirimau.Warga berusaha mengangkat barang-barang di rumahnya ke ruangan lebih tinggi agar tidak terendam banjir.Kepala BPBD Kota Ambon Rico Matitaputty mengakui longsor terjadi hampir di semua kecamatan di daerah itu. 
+
+Saya sedang berada di SMP Alwatang karena talud pengaman roboh sehingga perlu memantau penanganan tanggap darurat, ujarnya.Dia mengatakan dampak longsor maupun banjir sedang didata staf karena peristiwa itu terjadi di sebagian besar wilayah Kota Ambon. 
+</TEXT>
+
+</TimeML>

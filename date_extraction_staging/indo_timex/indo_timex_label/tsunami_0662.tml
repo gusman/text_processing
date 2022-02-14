@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0662</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>UPDATE TSUNAMI LAMPUNG BANTEN - Aktivitas Terkini Gunung Anak Krakatau Hasil Pantauan PVMBG</TITLE>
+
+<TEXT>
+Aktivitas Gunung Anak Krakatau <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> menjadi pusat perhatian banyak orang. 
+
+Ini menyusul terjadinya bencana tsunami di wilayah Lampung dan Banten. 
+
+Sebelumnya Kepala Badan Meteorologi, Klimatologi, dan Geofisika Dwikorita Karnawati menyebut tsunami terjadi karena cuaca buruk dan erupsi Gunung Anak Krakatau. 
+
+Lalu bagaimana dengan pantauan Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) Kementerian Energi dan Sumber Daya Mineral (ESDM). 
+
+Berikut ini penjelasannya mengenai aktivitas erupsi Gunung Anak Krakatau. 
+
+Gunungapi Anak Krakatau terletak di Selat Sunda adalah gunung api strato tipe A dan merupakan gunungapi muda yang muncul dalam kaldera, pasca erupsi paroksimal <TIMEX3 tid="t2" type="DATE" value="1883">tahun 1883</TIMEX3> dari kompleks vulkanik Krakatau. 
+
+Letusan yang pernah terjadi <TIMEX3 tid="t3" type="DATE" value="2018">tahun ini</TIMEX3>, precursor letusan <TIMEX3 tid="t4" type="DATE" value="2018">tahun 2018</TIMEX3> diawali dengan munculnya gempa tremor dan penigkatan jumlah gempa Hembusan dan Low Frekuensi pada tanggal 18-19 <TIMEX3 tid="t5" type="DATE" value="2018-06">Juni 2018</TIMEX3>. 
+
+Jumlah Gempa Hembusan terus meningkat dan akhirnya pada <TIMEX3 tid="t6" type="DATE" value="2018-06-29">tanggal 29 Juni 2018</TIMEX3> gunung tersebut meletus. 
+
+Lontaran material letusan sebagian besar jatuh di sekitar tubuh Gunung Anak Krakatau atau kurang dari 1 km dari kawah, tetapi sejak <TIMEX3 tid="t7" type="DATE" value="2018-07-23">tanggal 23 Juli</TIMEX3> teramati lontaran material pijar yang jatuh di sekitar pantai, sehingga radius bahaya Gunung Anak Krakatau diperluas dari 1 km menjadi 2 km dari kawah. 
+
+" Aktivitas terkini, terakhir pada <TIMEX3 tid="t8" type="DATE" value="2018-12-22">22 Desember 2018</TIMEX3>, seperti biasa hari-hari sebelumnya, Gunung Anak Krakatau terjadi letusan. 
+
+Secara visual, teramati letusan dengan tinggi asap berkisar 300 - <TIMEX3 tid="t9" type="DATE" value="1500">1500</TIMEX3> meter di atas puncak kawah. 
+
+Secara kegempaan, terekam gempa tremor menerus dengan amplitudo overscale (58 mm), " tulis keterangan pers Kementerian ESDM dalam laman resminya, <TIMEX3 tid="t10" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>. 
+
+// Pada <TIMEX3 tid="t11" type="DATE" value="2018-12-22">Sabtu</TIMEX3>, <TIMEX3 tid="t12" type="TIME" value="2018-12-22T21:03">(22/12/2018) pukul 21.03 WIB</TIMEX3> terjadi letusan, selang beberapa lama ada info tsunami. 
+
+" Pertanyaannya apakah tsunami tersebut ada kaitannya dengan aktivitas letusan, hal ini masih didalami, karena ada beberapa alasan untuk bisa menimbulkan tsunami, " jelas PVMBG. 
+
+Kementerian ESDM melalui PVMBG mencatat, pertama, saat rekaman getaran tremor tertinggi yang selama ini terjadi sejak <TIMEX3 tid="t13" type="DATE" value="2018-06">bulan Juni 2018</TIMEX3> tidak menimbulkan gelombang terhadap air laut bahkan hingga tsunami. 
+
+Kedua, material lontaran saat letusan yang jatuh di sekitar tubuh gunungapi masih bersifat lepas dan sudah turun saat letusan ketika itu. 
+
+" Ketiga, untuk menimbulkan tsunami sebesar itu perlu ada runtuhan yg cukup masif (besar) yang masuk ke dalam kolom air laut. 
+
+Kemudian, untuk merontokan bagian tubuh yang longsor ke bagian laut diperlukan energi yang cukup besar, ini tidak terdeksi oleh seismograph di pos pengamatan gunungapi, " demikian tertera dalam laporan itu. 
+
+" Masih perlu data-data untuk dikorelasikan antara letusan gunungapi dengan tsunami, " imbuhnya. 
+
+Potensi Bencana Erupsi Gunung Krakatau, Peta Kawasan Rawan Bencana (KRB) menunjukkan hampir seluruh tubuh Gunung Anak Krakatau yang berdiameter kurang lebih 2 km merupakan kawasan rawan bencana. 
+
+Berdasarkan data-data visual dan instrumental potensi bahaya dari aktifitas G. 
+
+Anak Krakatau <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> adalah lontaran material pijar dalam radius 2 km dari pusat erupsi. 
+
+Sedangkan sebaran abu vulkanik tergantung dari arah dan kecepatan angin. 
+
+// " Berdasarkan hasil pengamatan dan analisis data visual maupun instrumental hingga <TIMEX3 tid="t15" type="DATE" value="2018-12-23">tanggal 23 Desember 2018</TIMEX3>, tingkat aktivitas Gunung Anak Krakatau masih tetap Level II (Waspada). 
+
+Sehubungan dengan status Level II (Waspada) tersebut, direkomendasikan kepada masyarakat tidak diperbolehkan mendekati Gunung Krakatau dalam radius 2 km dari Kawah, " sebut keterangan tersebut. 
+
+Masyarakat di wilayah pantai Provinsi Banten dan Lampung harap tenang dan jangan mempercayai isu-isu tentang erupsi Gunung Anak Krakatau yang akan menyebabkan tsunami, serta dapat melakukan kegiatan seperti biasa dengan senantiasa mengikuti arahan BPBD setempat. 
+
+
+</TEXT>
+
+</TimeML>

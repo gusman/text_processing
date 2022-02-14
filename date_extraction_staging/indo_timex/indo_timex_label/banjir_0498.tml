@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0498</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-06-28" temporalFunction="false" functionInDocument="CREATION_TIME">2014-06-28</TIMEX3></DCT>
+
+<TITLE>Tidak Kuat, Jembatan Hulosobo Putus</TITLE>
+
+<TEXT>
+Jembatan Hulosobo, Kecamatan Kaligesing yang menghubungkan dusun Krajan dan Sawah Indah, Desa Hulosobo, Kecamatan Kaligesing putus diterjang banjir <TIMEX3 tid="t1" type="DATE" value="2014-06-27">(27/6)</TIMEX3>. 
+
+Kondisi itu membuat warga Dusun Sawah Indah terisolir. 
+
+Camat Kaligesing Budi Wibowo menjelaskan ada tiga lokasi longsor di Kecamatan Kaligesing. 
+
+Dua lokasi longsor di Desa Hulosobo merusak satu rumah warga dan memutus jembatan Hulosobo. 
+
+Dan satu lokasi longsor menerjang rumah warga di Desa Kaligono. 
+
+Longsor juga menutup jalan kabupaten yang menghubungka Kemanukan-Somongari di tanjakan dan tikungan Watu Belah, katanya. 
+
+Korban longsor, Fajri, 42, warga Hulosobo Kecamatan Kaligesing mengatakan longsor tebing setinggi 50 meter di belakang rumahnya menerjang dapur dan ruang makan. 
+
+<TIMEX3 tid="t2" type="DATE" value="PAST_REF">Saat itu</TIMEX3> sekitar <TIMEX3 tid="t3" type="TIME" value="2014-06-27T08:05">pukul 08.05</TIMEX3> saya mendengar suara kayu bertumbangan di belakang rumah, saya langsung mengajak anak dan istri saya keluar, terang Fajri. 
+
+Longsor yang melanda Kecamatan Kaligesing telah diatasi khususnya untuk proses pembukaan jalan baik jalan kabupaten dan provinsi. 
+
+Sedikitnya ada tiga lokasi longsor di jalan provinsi yang menghubungkan Purworejo dan Kulonprogo telah dibersihkan dengan melibatkan petugas PU. 
+
+Warga di sekitar longsor sejak <TIMEX3 tid="t4" type="TIME" value="2014-06-28TMO">pagi</TIMEX3> telah melakukan kerja bakti untuk menyingkirkan material longsoran. 
+
+Warga kompak membantu membersihkan material longsor yang menerjang rumah warga. 
+
+Kabid Sosial Dinsosnakertrans Purworejo Sri Lestariningsih mengatakan telah menyalurkan bantuan logistik untuk membantu warga yang kerja bakti. 
+
+Di Kecamatan Purworejo ada tiga lokasi, dan di Kaligesing ada sembilan lokasi yang masuk laporannya ke kami. 
+
+Petugas telah melakukan penyaluran bantuan, fokusnya warga yang tengah melakukan pembersihan akses jalan, baru kemudian ke rumah warga yang terkena longsor, terangnya. 
+
+(tom/iwa) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1053</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-15" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-15</TIMEX3></DCT>
+
+<TITLE>Disapu Banjir,   Jembatan Desa Wombo Mpanau Nyatis Putus</TITLE>
+
+<TEXT>
+Jembatan penghubung antara Desa Wombo Mpanau, Kecamatan Tanantovea dari Kota Palu bagian utara nyaris putus akibat digerus air hujan. 
+
+Warga yang melintas terpaksa harus berhati-hati. 
+
+Kondisi ini menyulitkan warga dari desa Wombo Mpanau mengakses ibukota Provinsi dan Ibukota Kabupaten. 
+
+Peristiwa itu terjadi sejak <TIMEX3 tid="t1" type="DURATION" value="PXX">beberapa waktu</TIMEX3> belakangan ini, namun belum ada perhatian dari pihak terkait. 
+
+Pantauan Sulteng Raya pada <TIMEX3 tid="t2" type="DATE" value="2016-12-14">Rabu (14/12) kemarin</TIMEX3>, Kondisi makin memperihatinkan, longsor yang terjadi pada oprit jembatan tersebut sekitar 7 meter dari dasar sungai serta menggerus hampir 2 meter badan jalan. 
+
+Hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, tidak ada tanda yang di pasang warga sebagai penanda jalan longsor. 
+
+Jalur itu merupakan akses utama warga Desa Wombo Mpanau ke ibukota, kecamatan, ibukota kabupaten dan ibukota provinsi. 
+
+Tepat diperbatasan antara Kelurahan Pantoloan Palu Utara dan Desa Wombo Mpanau, Tanantovea, Donggala, Sulawesi Tengah. 
+
+Selain itu jalur yang kurang baik juga membuat warga kesulitan melintas. 
+
+Menurut warga sekitar, oprit jembatan itu nyaris putus diakibatkan hujan deras dan banjir bandang menghantam wilayah ini <TIMEX3 tid="t4" type="DATE" value="2016-09-15">tiga bulan lalu</TIMEX3>. 
+
+Banjir juga meluluhlantakkan bibir sungai. 
+
+Banjir juga merusak sejumlah perkebunan warga, bronjong-bronjong penahan abrasi luluhlantak berserakan di sungai besar tersebut. 
+
+<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Kini</TIMEX3> pekerjaan bronjong mulai dipasang kembali untuk menahan air pasang. 
+
+Sungai dengan luas kurang lebih 50 meter menang <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terlihat tidak banyak airnya, namun jika terjadi banjir Warga Desa Wombo Mpanau dan Pantoloan Palu Utara bisa disapu banjir itu. 
+
+Tidak bisa diperkirakan air bisa datang tiba-tiba kalau hujan deras, ujar Ifa warga Wombo Mpanau kepada Sulteng Raya ditemui di rumahnya. 
+
+Pihak terkait Donggala telah mengerahkan bantuan berupa bronjong dan jaringan irigasi agar bisa mengantisipasi air pasang menyapu pemukiman penduduk di Desa Wombo Mpanau, Kecamatan Tanantovea tersebut. 
+
+Warga berharap pemerintah Donggala juga memperhatikan jembatan jembatan yang nyaris putus akibat hujan deras di wilayah Desa Wombo Mpanau karena ada dua jembatan yang nyaris putus. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0340</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-05</TIMEX3></DCT>
+
+<TITLE>Angin Puting Beliung Ngamuk di Nagreg Bandung, Hancurkan Atap Kanopi Rumah Warga</TITLE>
+
+<TEXT>
+Angin kencang memporak-porandakan atap kanopi di rumah milik Dedi (45) di Kampung Gamblung Desa Kendan Kecamatan Nagreg, Kabupaten Bandung, pada <TIMEX3 tid="t1" type="DATE" value="2019-10-05">Sabtu (5/10/2019)</TIMEX3>. 
+
+" Asalnya saya sedang di dalam rumah, nonton TV. 
+
+Tiba-tiba terdengar suara berisik di depan rumah. 
+
+Setelah dicek, ternyata kanopi depan rumah rusak kena angin ribut, " ujar Dedi via ponselnya. 
+
+Kata dia, kanopi itu terbuat dari bahan baja ringan. 
+
+Ukurannya sekitar 3x4 meter persegi. 
+
+Kanopi itu kata dia, copot dari dudukannya saaat angin ribut menerjang kawasan perkampungan tersebut. 
+
+. 
+
+Warga di sini juga bilangnya angin puting beliung, " katanya. 
+
+Tatang (35) tetangga Dedi mengatakn saat kejadian, aingin kencang berputar-putar di depan rumahnya, mengenai pohon hingga akhirnya ke rumah Dedi. 
+
+. 
+
+Hingga <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, diketahui, tidak ada korban jiwa dalam peristiwa tersebut. 
+
+Hanya saja, angin kencang masih terasa di sekitar lokasi. 
+
+
+</TEXT>
+
+</TimeML>

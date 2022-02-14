@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0334</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-03</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS: Hutan di Gunung Parang Purwakarta Terbakar</TITLE>
+
+<TEXT>
+Laporan Wartawan Tribun Jabar, Mega NugrahaPURWAKARTA, TRIBUNJABAR.
+
+CO.
+
+ID - Hutan di Gunung Parang Kabupaten Purwakarta terbakar, Sabtu (3/10/2015).
+
+Api mulai membesar pada sore hari.
+
+Informasi yang dihimpun, kebakaran hutan di Gunung Parang yang saat ini jadi lokasi wisata mendaki di Purwakarta itu, terjadi sekitar puncak 1 dan 2.
+
+Selain itu, kebakaran juga diduga berada di jalur pendakian yang sering dilewati oleh para pendaki.
+
+Hingga jelang tengah malam, Kepala Pemadam Kebakaran Purwakarta Juddy Herdiana menyebutkan api masih terlihat menyala.
+
+"Yang terbakar di titik jalur pendakian, " ujar Juddy melalui ponselnya.
+
+Belum diketahui penyebab kebakaran.
+
+Namun, diduga kuat kebakaran terjadi akibat pendaki Gunung Parang yang melakukan pembakaran sampah atau membuang puntung rokok.
+
+(*)
+</TEXT>
+
+</TimeML>
+

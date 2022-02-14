@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0946</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-23" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-23</TIMEX3></DCT>
+
+<TITLE>Dua Hektar Lahan Warga Terbakar di Desa Onang</TITLE>
+
+<TEXT>
+Kebakaran lahan kembali terjadi di Dusun Para baya Desa Onang Kecamatan Tubo Sendana pada <TIMEX3 tid="t1" type="DATE" value="2019-08-22">Kamis (22/8/2019)</TIMEX3>. 
+
+Menurut Kapolsek Sendana AKP Achmad Syarif Tola, Jum at <TIMEX3 tid="t2" type="DATE" value="2019-08-23">(23/8/2019)</TIMEX3> kebakaran terjadi <TIMEX3 tid="t3" type="TIME" value="2019-08-22T13:00">sekitar pukul 13.00</TIMEX3> Wita <TIMEX3 tid="t4" type="TIME" value="2019-08-22TAF">siang kemarin</TIMEX3>. 
+
+Dari keterangan sejumlah saksi di tempat kejadian peristiwa, selain ilalang, api turut melalap tanaman perkebunan seperti cengkeh dan jati. 
+
+Upaya warga memadamkan api hingga <TIMEX3 tid="t5" type="TIME" value="2019-08-22T17:05">pukul 17.05</TIMEX3> Wita tidak membuahkan hasil hingga akhirnya personel Polsek Sendana tiba di tempat kejadian dan api berhasil dipadamkan bersama warga dengan menggunakan alat seadanya. 
+
+Sulitnya memadamkan api kata Achmad Syarif Tola, lantaran angin cukup kencang. 
+
+Hingga berita ini tayang, jajaran Polsek Sendana masih terus berjaga-jaga di TKP untuk mengantisipasi jika masih ada titik api sebagai pemicu kebakaran lahan. 
+
+<TIMEX3 tid="t6" type="DATE" value="2019-08-23">Hari ini</TIMEX3>, kita masih akan melanjutkan pemadaman secara merata jangan sampai <TIMEX3 tid="t7" type="TIME" value="UNKNOWN">nanti sore</TIMEX3> angin kencang apinya menyala lagi, pungkas Achmad Syarif Tola. 
+
+(ipunk) 
+</TEXT>
+
+</TimeML>

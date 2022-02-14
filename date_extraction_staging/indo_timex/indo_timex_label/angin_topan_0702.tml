@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0702</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-16</TIMEX3></DCT>
+
+<TITLE>Angin Puting Beliung Hitam Pekat Landa Sidoarjo, Awalnya Dikira Warga Sekumpulan Burung</TITLE>
+
+<TEXT>
+Angin puting beliung yang melanda wilayah Medaeng, Sidoarjo, menyebabkan beberapa rumah warga setempat terhempas. 
+
+Pantauan TribunJatim. 
+
+com di lokasi kejadian, wilayah yang terdampak parah adalah di Jalan Teuku Umar. 
+
+Saksi mata, Jetor mengatakan, angin puting beliung muncul dari arah barat menuju ke timur lalu kemudian berbelok ke utara. 
+
+" Kejadiannya cepat sekali sekitar <TIMEX3 tid="t1" type="TIME" value="2019-01-15T14:00">jam 14.00 WIB</TIMEX3>. 
+
+Tiba-tiba sudah besar dan berwujud awan hitam. 
+
+Sambil membawa beberapa pecahan genteng dan asbes, " jelasnya kepada TribunJatim. 
+
+com, <TIMEX3 tid="t2" type="DATE" value="2019-01-16">Rabu (16/01/2019)</TIMEX3>. 
+
+. 
+
+" Kejadiannya cepat sekali hanya <TIMEX3 tid="t3" type="DURATION" value="PT30S">sekitar 30 detik</TIMEX3> saja dan sempat menerbangkan tenda hajatan yang baru dipasang warga di Jalan Teuku Umar, " jelas dia. 
+
+" Anginnya juga sempat mengenai atap ruangan sekolah SDN Medaeng 1 kemudian hilang, " terangnya.Beruntung saat kejadian, siswa sekolah yang berada di dalam sekolah, dipastikan baik-baik saja. 
+
+. 
+
+Sedangkan untuk tenda hajatan sempat tergantung mengenai kabel listrik sehingga menyebabkan korslet, " tambahnya. 
+
+// Sementara itu, Kepala Desa Medaeng, Abdul Zuri mengatakan, wilayah yang terdampak angin puting beliung berada di wilayah RT 20 RW 02. 
+
+" Ini masih didata rumah yang terkena angin puting beliung tersebut. 
+
+Namun yang paling parah adalah di Jalan Teuku Umuar yaitu sekitar enam rumah yang atapnya langsung terbang dan terhempas ke tanah, " katanya. 
+
+. 
+
+" Ini <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sedang ditangani oleh PLN kelihatan nya sambungan listrik sudah normal kembali <TIMEX3 tid="t5" type="TIME" value="2019-01-16TNI">malam ini</TIMEX3>, " ujar Abdul. 
+
+Ia bersyukur, tidak sampai ada korban jiwa dalam peristiwa tersebut. 
+
+" Tidak ada korban jiwa baik meninggal maupun luka hanya kerusakan materil bangunan. 
+
+Untuk penanganan selanjutnya, kita hitung ada berapa rumah yang terdampak untuk kemudian kita laorkan ke camat, " tandasnya. 
+
+
+</TEXT>
+
+</TimeML>

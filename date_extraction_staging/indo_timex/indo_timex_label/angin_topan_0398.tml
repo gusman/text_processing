@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0398</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-09" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-09</TIMEX3></DCT>
+
+<TITLE>10 Rumah di Asrama Dinas LH Semper Barat Rusak Akibat Angin Kencang</TITLE>
+
+<TEXT>
+Sedikitnya 10 rumah di Gang Perkutut, Asrama Karyawan Dinas Lingkungan Hidup, Semper Barat, Cilincing, Jakarta Utara, rusak akibat angin kencang yang melanda kawasan tersebut pada <TIMEX3 tid="t1" type="DATE" value="2018-10-09">Selasa (9/10/2018)</TIMEX3>. 
+
+Ketua RT 02, RW 03, Semper Barat, Nofan Suwardiana menjelaskan, insiden munculnya angin kencang di Gang Perkutut terjadi <TIMEX3 tid="t2" type="TIME" value="2018-10-08T14:30">sekitar pukul 14.30 WIB siang tadi</TIMEX3>. 
+
+Menurut Nofan, angin datang dari arah belakang menuju ke arah depan Gang Perkutut. 
+
+" Kejadian pukul setengah <TIMEX3 tid="t3" type="DURATION" value="2018-10-02TAF">dua siang</TIMEX3>, angin dari arah sana (belakang gang). 
+
+Saya pas kejadian lagi di depan gang dekat gapura, lagi bawa motor. 
+
+Tiba-tiba angin mutar kencang banget, " kata Nofan saat ditemui di lokasi <TIMEX3 tid="t4" type="TIME" value="2018-10-09TAF">sore ini</TIMEX3>. 
+
+Nofan menuturkan, angin berhembus kencang hingga membentuk pusaran dan menerbangkan atap rumah serta barang-barang lainnya milik warga. 
+
+Menurutnya, angin kencang berhembus selama <TIMEX3 tid="t5" type="DURATION" value="PT2M">dua menit</TIMEX3>. 
+
+. 
+
+Kejadiannya sih singkat <TIMEX3 tid="t6" type="DURATION" value="PT2M">sekitar dua menit</TIMEX3> lah. 
+
+Jadi semuanya asbes terbang, sepatu, kayu-kayu, termasuk antena juga pada beterbangan, " jelas Nofan. 
+
+Nofan menambahkan, dari 10 rumah yang terdampak angin kencang tersebut, lima di antaranya mengalami kerusakan parah.Pantauan TribunJakarta.com, lima rumah yang rusak parah di antaranya rumah nomor 1, 3, 7, 8, dan 9. 
+
+Adapun kerusakan parah terutama terjadi di bagian atap rumah.Sore ini, para warga yang tinggal di Gang Perkutut pun tengah bergotong royong membetulkan beberapa atap rumah yang terdampak angin kencang tersebut. 
+</TEXT>
+
+</TimeML>

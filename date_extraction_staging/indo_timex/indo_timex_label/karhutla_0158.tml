@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0158</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-02-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-02-25</TIMEX3></DCT>
+
+<TITLE>Riau Masih Siaga Karhutla</TITLE>
+
+<TEXT>
+Status siaga darurat karhutla di Riau masih berjalan dan belum berakhir. 
+
+Kebijakan Gubernur Riau Wan Thamrin Hasyim yang menetapkan status siaga darurat kebakaran hutan dan lahan (karhutla) di Provinsi Riau membuat semua komponen bisa terjun dan ikut memadamkan api. 
+
+Kepala Pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Riau Edwar mengkonfirmasi, status siaga darurat karhutla di Riau masih berjalan dan belum berakhir. 
+
+Sebelumnya, Gubernur Riau Wan Thamrin Hasyim menetapkan status siaga darurat karhutla berlaku di Provinsi Riau. 
+
+Gubernur memutuskan status siaga karhutla selama <TIMEX3 tid="t1" type="DURATION" value="P8M">delapan bulan</TIMEX3>, mulai <TIMEX3 tid="t2" type="DATE" value="2019-02-19">19 Februari 2019</TIMEX3> hingga <TIMEX3 tid="t3" type="DATE" value="2019-10-31">31 Oktober 2019</TIMEX3>. 
+
+Keputusan itu didasari sejumlah pertimbangan, salah satunya untuk menjaga agar pelaksanaan pemilu serentak <TIMEX3 tid="t4" type="DATE" value="2019">2019</TIMEX3> tidak terganggu asap karhutla. 
+
+Iya, (penetapan status siaga darurat karhutla) mulai <TIMEX3 tid="t5" type="DATE" value="2019-02-19">19 Februari 2019</TIMEX3> sampai dengan <TIMEX3 tid="t6" type="DATE" value="2119-10-31">31 Oktober 2119</TIMEX3>. 
+
+Dengan status itu, semua komponen bisa lebih optimal untuk melakukan penanggulangan karhutla di Riau, baik Badan Nasional Penanggulangan Bencana (BNPB) maupun BPBD Provinsi, BPBD Kabupaten/Kota, kepolisian, dan TNI, kata Kepala Pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Riau Edwar Sanger seperti dilansir Republika. 
+
+co. 
+
+id, <TIMEX3 tid="t7" type="DATE" value="2019-02-24">Minggu (24/2)</TIMEX3>. 
+
+Dengan kata lain, dia melanjutkan, pemerintah pusat, dan semua pihak terkait bisa lebih optimal dan cepat untuk memadamkan api. 
+
+Hingga <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, ia menyebut petugas Manggala Agni Kementerian Lingkungan Hidup dan Kehutanan (Kementerian LHK), TNI, kepolisian, BPBD kabupaten/kota, hingga pemadam kebakaran (damkar) masih terus berupaya memadamkan api. 
+
+Di Jakarta, Panglima TNI Marsekal Hadi Tjahjanto mengirim 100 prajurit atau satu satuan setingkat kompi dari Batalyon Artileri Medan (Yonarmed) 10/Brajamusti Kostrad untuk membantu mengatasi kebakaran hutan dan lahan (karhutla) di Pekanbaru, Riau. 
+
+<TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, pasukan telah tiba di Bandara Pindang Kampai, Kota Dumai, untuk bergabung dengan Satuan Tugas (Satgas) Karhutla Provinsi Riau. 
+
+Ini semua membuktikan kepada masyarakat bahwa TNI akan hadir di tengah kesulitan rakyat. 
+
+Asisten Operasi Panglima TNI Mayor Jenderal Ganip Warstio dalam keterangan tertulis, <TIMEX3 tid="t10" type="DATE" value="2019-02-24">Minggu (24/2)</TIMEX3>. 
+
+Pasukan Yonarmed 10/Kostrad yang dipimpin Lettu Arm Imam Wahyudi itu dibekali dengan sarung tangan, masker, sepatu bot, dan perlengkapan tempur perorangan. 
+
+Mereka sudah diarahkan langsung ke Kecamatan Rupat untuk memadamkan kebakaran hutan di wilayah itu. 
+
+<TIMEX3 tid="t11" type="DATE" value="P1D">Sehari</TIMEX3> sebelum kedatangan pasukan dari Yonarmed 10 kostrad, Panglima TNI bersama Pangdam I/BB Mayjen MS. 
+
+Fadilah, Danrem 031/WB Brigjen Fadjar, MPICT, sudah meninjau lokasi kebakaran hutan atas perintah Presiden Joko Widodo. 
+
+Hadi telah menempatkan ratusan personelnya di titik-titik rawan kebakaran lahan. 
+
+Apabila memang terjadi kebakaran, pasukan yang akan memberikan laporan melalui radio dan segera dikirim pasukan tambahan menggunakan helikopter, kata dia. 
+
+Citra satelit Terra Aqua BMKG Stasiun Pekanbaru mendeteksi ada 47 titik panas di Riau pada Ahad, <TIMEX3 tid="t12" type="DATE" value="2019-02-24">24 Februari 2019</TIMEX3> sekitar <TIMEX3 tid="t13" type="TIME" value="2019-02-24T06:00">pukul 06.00</TIMEX3>. 
+
+Titik panas itu tersebar di Bengkalis (20 titik), Siak (40 titik), dan Pelalawan (3 titik). 
+
+Dari jumlah itu, ada 32 titik yang punya tingkat keakuratan di atas 70 persen sehingga bisa dipastikan kebakaran. 
+
+Seperti diketahui, Riau <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">kini</TIMEX3> berstatus Siaga Darurat Karhutla sejak <TIMEX3 tid="t15" type="DATE" value="2019-02-19">19 Februari</TIMEX3> hingga <TIMEX3 tid="t16" type="DATE" value="2019-10-31">31 Oktober 2019</TIMEX3>. 
+
+Luas kebakaran hutan dilaporkan lebih dari 840 hektare.Titik api di Nunukan Sementara itu, Badan Nasional Penanggulangan Bencana (BNPB) mengaku masih menunggu data terbaru kebakaran hutan dan lahan (karhutla) di beberapa wilayah selain di Riau. 
+
+Masih menunggu (data karhutla selain Riau), kata Kasubdit Tanggap Darurat BNPB Budhi Erwanto seperti dikutip Republika.co.id,kemarin. 
+
+Ia berjanji akan memberikan update setelah mendapat laporan terbaru.Sedangkan Badan Meteorologi, Klimatologi dan Geofisika (BMKG) mendeteksi satu titik api di kawasan lahan di wilayah Kecamatan Sembakung Kabupaten Nunukan Provinsi Kalimantan Utara. 
+
+Titik api tersebut terdeteksi melalui satelit Aqua pada <TIMEX3 tid="t17" type="TIME" value="2019-02-24T05:10">Minggu pukul 05.10</TIMEX3> wita dengan akurasi sekira 68 persen.Prakirawan BMKG Nunukan, Muhammad Taufik, di Nunukan mengatakan, titik api ini berpotensi terjadinya kebakaran lahan sehingga perlu dilakukan langkah antisipasi sedini mungkin. 
+
+Letak titik api yang dimaksudkan terletak pada koordinat 3.83284115791 N dan 117.69141845 E.Sebelumnya, Muhammad Taufik mengatakan, Kabupaten Nunukan rawan terjadi kebakaran hutan dan lahan sepanjang <TIMEX3 tid="t18" type="DATE" value="2019-02">Februari ini</TIMEX3> karena berlangsung musim kering. 
+
+Kebakaran dapat terjadi karena faktor sengaja ataupun tidak sengaja oleh manusia maupun alam pada titik api.BMKG Nunukan terus memantau situasi pada <TIMEX3 tid="t19" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> berhubung kondisi cuaca akibat teriknya matahari yang terkesan ekstrem.(rep) 
+</TEXT>
+
+</TimeML>

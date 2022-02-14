@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0865</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-12" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-12</TIMEX3></DCT>
+
+<TITLE>Jalur pendakian gunung Merbabu ditutup akibat kebakaran</TITLE>
+
+<TEXT>
+Balai Taman Nasional Gunung Merbabu (BTNGMb) Boyolali menutup sementara jalur pendakian ke puncak akibat bencana kebakaran hutan. 
+
+Penuupan itu untuk menghindari korban karena kebakaran membahayakan para pendaki. 
+
+Penutupan sementara jalur pendakian Gunung Merbabu tersebut dimulai sejak <TIMEX3 tid="t1" type="DATE" value="2019-09-12">Kamis ini</TIMEX3> hingga waktu yang belum ditentukan atau sampai kondisi memungkinkan, kata Kepala BTNGMb Boyolali, Junita Parjanti, <TIMEX3 tid="t2" type="DATE" value="2019-09-12">Kamis</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2019-09-12">(12/9/2019)</TIMEX3>. 
+
+. 
+
+Penutupan sementara diberlakukan di lima jalur pendakian meski kebakaran hutan berada di kawasan Taman Nasional Gunung Merbabu di wilayah jalur pendakian Suwanting, Kabupaten Magelang. 
+
+Tercatat ada lima jalur pendakian Gunung Merbabu antara lain melalui Selo Boyolali, Suwanting, Wekas, Cunthel (Magelang) dan Thekelan (Salatiga). 
+
+Kelima jalur pendakian ini, semua ditutup untuk sementara guna menjaga hal-hal yang tidak diinginkan. 
+
+Penutupan jalur pendakian puncak Merbabu ini, sebagai langkah antisipasi. 
+
+Kami memikirkan aspek keselamatan para pendaki, kata Junita menjelaskan. 
+
+Ia mengimbau masyarakat di sekitar Gunung Merbabu agar tidak melakukan aktivitas perapian yang dapat mengakibatkan kebakaran hutan. 
+
+Menjaga agar tidak terjadi kebakaran selama <TIMEX3 tid="t4" type="DATE" value="2019-SU">musim kemarau</TIMEX3> saat ini, katanya. 
+</TEXT>
+
+</TimeML>

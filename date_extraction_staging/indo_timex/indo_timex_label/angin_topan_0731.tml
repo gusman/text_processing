@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0731</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-06" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-06</TIMEX3></DCT>
+
+<TITLE>Tim SAR Cari Nelayan Hilang di Tanjung Latuhalat</TITLE>
+
+<TEXT>
+Tim SAR dari Kantor Basarnas Ambon, Provinsi Maluku kembali dikerahkan mencari seorang nelayan yang menggunakan long boat yang mencari ikan di perairan Tanjung Latuhalat, Kecamatan Nusaniwe namun dilaporkan hilang kontak sejak <TIMEX3 tid="t1" type="DATE" value="2019-06-04">dua hari lalu</TIMEX3>. 
+
+Nelayan yang diketahui bernama Johan Mahulete (49) ini pergi melaut sendirian sejak <TIMEX3 tid="t2" type="DATE" value="2019-06-04">tanggal 4 Juni 2019</TIMEX3> tetapi dilaporkan belum kembali hingga <TIMEX3 tid="t3" type="DATE" value="2019-06-06">hari ini</TIMEX3>, kata Kepala Kantor Basarnas Ambon, Muslimin di Ambon, <TIMEX3 tid="t4" type="DATE" value="2019-06-06">Kamis (6/6/2019)</TIMEX3>. 
+
+Upaya pencarian dan penyelamatan dilakukan setelah menerima informasi dari saudara korban bernama Nicko Mahulette kalau Johan Mahulette pergi melaut di sekitar perairan Desa Latuhalat sejak <TIMEX3 tid="t5" type="DATE" value="2019-06-04">dua hari lalu</TIMEX3> dan sampai <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> belum kembali ke rumah. 
+
+Menurut Muslimin, keluarga korban juga menyebutkan ciri-ciri long boat yang digunakan Johan Mahulete memiliki panjang enam meter dan berwarna orange dan merah serta menggunakan mesin 15 PK. 
+
+Kantor Basarnas Ambon menerima informasi <TIMEX3 tid="t7" type="DATE" value="2019-06-06">hari ini</TIMEX3>, <TIMEX3 tid="t8" type="DATE" value="2019-06-06">Kamis</TIMEX3> sekitar <TIMEX3 tid="t9" type="TIME" value="2019-06-05T07:45">pukul 07:45 WIT</TIMEX3> dan langusng mengerahkan regu penyelamat untuk melakukan upaya pencarian dan penyelamatan pada <TIMEX3 tid="t10" type="TIME" value="2019-06-05T08:00">pukul 08:00 WIT</TIMEX3>. 
+
+Setelah melakukan perjalanan selama <TIMEX3 tid="t11" type="DURATION" value="PT1H">satu jam</TIMEX3>, regu penyelemat yang menggunakan RIB 01 Ambon telah tiba di lokasi dan mulai mencari korban bersama long boat tersebut. 
+
+Dikatakan, korban dilaporkan hilang pada titik koordinat 3 54 21 S 127 58 13.68 E, Heading:220,70 arah barat baya RIB 01 milik Kantor SAR Ambon dengan jarak tempuh kurang lebih <TIMEX3 tid="t12" type="TIME" value="2019-06-05T21:05">21.05</TIMEX3> NM dari Pelabuhan LIPI Ambon. 
+
+Selain regu penyelamat dari Kantor Basarnas Ambon, Polair Polda Maluku bersama dua anggota keluarga korban juga terlibat dalam upaya pencarian korban. 
+
+Kami juga telah melakukan koordinasi dengan seluruh unsur potensi SAR yang ada terkait peristiwa ini, ujar Muslimin. 
+
+Dia menambahkan, kondisi cuaca di Pulau Ambon dan sekitarnya selama <TIMEX3 tid="t13" type="DURATION" value="P1W">sepekan</TIMEX3> terakhir ini tidak kondusif karena tingginya curah hujan disertai tiupan angin kencang dan gelombang tinggi, sehingga para nelayan diingatkan untuk waspada dan mempertimbangkan kondisi alam sebelum pergi melaut. 
+
+(an/tm) 
+</TEXT>
+
+</TimeML>

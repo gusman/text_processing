@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0720</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-19</TIMEX3></DCT>
+
+<TITLE>Editorial Tribun Manado: Bencana Kekeringan</TITLE>
+
+<TEXT>
+Sulawesi Utara mulai mengalami kekeringan. 
+
+Sejumlah mata air yang biasanya digunakan warga dilaporkan tak lagi memproduksi air. 
+
+Di Kota Tomohon, misalnya, ada empat mata air besar yang tak lagi berproduksi akibat <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau</TIMEX3> yang telah melanda wilayah Sulut <TIMEX3 tid="t2" type="DURATION" value="P3M">hampir tiga bulan</TIMEX3> terakhir. 
+
+Empat mata air yang mati ini, tiga berada di wilayah lereng Gunung Mahawu, dan satu lagi berada di Lahendong. 
+
+Begitu juga di Kota Manado. 
+
+Tak sedikit warga memasok air mulai dari membeli air bersih lewat mobil tangki, air galon isi ulang hingga menampung air bersih di pinggir sungai. 
+
+Dalam <TIMEX3 tid="t3" type="DURATION" value="P1D">sehari</TIMEX3>, mereka bisa saja membeli 4 galon air isi ulang. 
+
+Biaya untuk membeli air isi ulang ini lama kelamaan semakin memberatkan warga. 
+
+Bayangkan saja, satu galon air dibanderol Rp 4 ribu, dalam <TIMEX3 tid="t4" type="DURATION" value="P1D">sehari</TIMEX3> bisa membeli <TIMEX3 tid="t5" type="DATE" value="2019-05-04">4-5</TIMEX3> galon air isi ulang. 
+
+Sejumlah desa di Kabupaten Bolaang Mongondow juga mulai alami kesulitan air bersih akibat <TIMEX3 tid="t6" type="DATE" value="2019-SU">musim kemarau</TIMEX3>. 
+
+Sumur yang selama ini jadi tumpuan warga untuk minum mengering. 
+
+Di desa Bolangat Timur, Kecamatan Sangtombolang, ratusan warga hanya mengandalkan suplai air minum dari BPBD. 
+
+Sebelum bantuan air bersih pemerintah tiba, warga minum air mineral. 
+
+Dan itu sangat menguras kantong. 
+
+Hal yang sama dirasakan sejumlah warga di kecamatan Passi Barat. 
+
+Hampir semua sumur disana kering. 
+
+Pihak desa sudah mengirim surat permintaan bantuan air bersih ke BPBD. 
+
+Kepala Seksi Tanggap Darurat BPBD Bolmong Abdul Muin Paputungan mengatakan, pihaknya sudah memberi bantuan air bersih di desa Bolangat. 
+
+// Akan menyusul desa Bintau di Kecamatan Passi barat. 
+
+" Di sana sudah dilakukan asesmen dan hasilnya 90 persen sumur di sana kering, " kata dia. 
+
+Dampak kemarau juga mulai terasa untuk petani sayuran. 
+
+Mereka harus menyiapkan alat untuk memompa air dari daerah yang masih tersedia air, untuk bisa menyiram sayuran yang ditanam. 
+
+Memang ada sedikit pengeluaran tambahan karena harus mencari air. 
+
+Kalau tidak demikian, maka bisa gagal panen. 
+
+Pada <TIMEX3 tid="t7" type="DATE" value="2019-SU">musim kemarau ini</TIMEX3>, air yang dibutuhkan juga harus banyak, agar tanah tempat bertumbuhnya tanaman tidak mengalami kekeringan yang berakibat fatal seperti kegagalan bertumbuhnya tanaman. 
+
+Kalau dalam kondisi cuaca normal, penyiraman air tidak terlalu intens. 
+
+Tapi, kalau <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> saat kemarau dengan matahari yang sangat terik, akibatnya tanah pecah-pecah. 
+
+Makanya untuk menjaga kelembaban harus terus disiram. 
+
+Ini akan berakibat harga sayur pasti akan naik sedikit. 
+
+Semoga saja bencana kekeringan ini segera berlalu dan tidak semakin parah. 
+
+(*) 
+</TEXT>
+
+</TimeML>

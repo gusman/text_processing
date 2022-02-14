@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0045</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-15" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-15</TIMEX3></DCT>
+
+<TITLE>Kacang Tanah Petani Kosong Di Tegal Tugu</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-SU">Musim kemarau</TIMEX3> yang memicu kekeringan terjadi di kawasan pertanian Desa Tegal Tugu, Kecamatan Gianyar. 
+
+Diketahui kondisi ini sudah terjadi sejak <TIMEX3 tid="t2" type="DATE" value="PXM">beberapa bulan lalu</TIMEX3>. 
+
+Akibatnya hasil panen para petani pun tidak maksimal, bahkan ada yang menanam kacang tanah namun hasilnya kosong. 
+
+Seorang petani Dewa Putu Murta ditemui <TIMEX3 tid="t3" type="DATE" value="2018-10-14">Senin (14/10)</TIMEX3> mengatakan, dilahan miliknya yang menanam kacang tanah, tidak bisa menghasilkan biji kacang seperti biasa. 
+
+Bahkan ada rumpun kacang yang tida berisi biji. 
+
+Kalau biasanya satu rumpun kacang tanah ini isi 30 lebih biji kacang, tapi <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> isi 5 biji saja sudah syukur, bahkan ada yang puyung (kosong-red), katanya. 
+
+Diungkapkan kondisi ini terjadi karena tidak adanya air yang mengaliri areal sawah milik petani <TIMEX3 tid="t5" type="DURATION" value="P56Y">56 tahun</TIMEX3> tersebut. 
+
+Bahkan menurutnya kondisi ini sudah terjadi dalam <TIMEX3 tid="t6" type="DURATION" value="PXM">beberapa bulan</TIMEX3>. 
+
+Sudah <TIMEX3 tid="t7" type="DURATION" value="P4M">hampir empat bulan</TIMEX3> seperti ini tidak ada air dari irigasi, hujan juga tidak ada, keluhnya. 
+
+Dikatakan kondisi ini terjadi kerena sedang dilakukan perbaikan saluran irigasi, ia pun mengaku mendapat informasi bahwa perbaikan baru selesai sebelum <TIMEX3 tid="t8" type="DATE" value="2018">akhir tahun ini</TIMEX3>. 
+
+<TIMEX3 tid="t9" type="DATE" value="2018-10-14">Kemarin</TIMEX3> katanya <TIMEX3 tid="t10" type="DATE" value="2018-01">Januari</TIMEX3> sudah norma lagi, ya <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> diminta sabar menuggu perbaikan selesai, ucapnya. 
+
+Sementara Kepala Dinas Pertanian Kabupaten Gianyar Made Raka mengungkapkan <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> memang sudah dilakukan perbaikan pada saluran irigasi yang menuju kawasan pertanian di Desa Tegal Tugu. 
+
+Perbaikan yang dilakukan Dinas Pekerjaan Umum dan Perumahan Rakyat diperkirakan sudha rampung pada Nopember ini. 
+
+Kami sudah kordinasikan perkiraan perbaikan paling cepat Nopember sudah selesai, katannya. 
+
+. 
+
+Diharapkan setelah ini aliran air ke areal eprsawahan milik petani dapat lebih maksimal. 
+
+Kalau terus dibiarkan bocor kan produksi pertanian juga tidak maksimal, makanya <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> diperbaiki <TIMEX3 tid="t14" type="DATE" value="PAST_REF">dulu</TIMEX3> irigasi menuju desa tegal tugu, jelasnya. 
+
+Selama proses ini ia juga sudah mengarahkan petani agar menanam tanaman yang sedikit membutuhkan air seperti jagung dan kacang kacangan. 
+
+Namun Made Raka tida menampik, ditengah perbaikan irigasi yang diiringi <TIMEX3 tid="t15" type="DATE" value="2018-SU">musim kemarau</TIMEX3>, tetap membuat tanaman tida bisa tumbuh dengan baik. 
+
+Bagaimanapun yang namanya tanaman tetap butuh air, tetapi <TIMEX3 tid="t16" type="DATE" value="2018-SU">musim kemarau</TIMEX3> seperti <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>, ujarnya. 
+
+Made Raka pun menghimbau para petani lebih bersabar dengan kondisi. 
+
+Pihanya berharap bila perbaikan sauran irigasi ini sudah selesai, maka tingkat produksi pertanian akan meningkat. 
+
+<TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> beberapa daerah yang dalam perbaikan irigasi memang mengalami kekurangan dalam hasil produksi, kami berharap para petani bersabar, karena proses perbaikan sedag dikerjakan, pesannya. 
+
+(manik astajaya/balipost) 
+</TEXT>
+
+</TimeML>

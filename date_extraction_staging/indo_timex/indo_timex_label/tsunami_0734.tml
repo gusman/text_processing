@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0734</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-30" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-30</TIMEX3></DCT>
+
+<TITLE>Basarnas Ternate Siap Kirim Tim Rescue ke Palu</TITLE>
+
+<TEXT>
+Basarnas Ternate turut ambil bagian atas gempa bumi bermagnitudo 7,7 SR disertai tsunami yang melanda Kota Palu dan Donggala, Sulawesi Tengah pada <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Kantor Pencarian dan Pertolongan Ternate siap mengirim tenaga Rescue dalam memperkuat tim Rescue Kantor Pencarian Dan Pertolongan Palu untuk menjalankan misi kemanusiaan disana. 
+
+Kepala Kantor Pencarian dan Pertolongan Ternate, M Arafah, S. 
+
+H mengatakan, tim yang telah dipersiapkan tidak hanya tenaga Rescue, namun armada KN. 
+
+SAR 237 Pandudewanata beserta 11 orang ABK dan peralatan ekstrikasi pendukung operasi SAR juga akan dikerahkan untuk mendukung misi kemanusiaan tersebut. 
+
+Pergerakan menuju Palu, sedang dalam koordinasi dan menunggu instruksi dari Pimpinan Basarnas Pusat, ujar M Arafah, <TIMEX3 tid="t2" type="DATE" value="2018-09-30">Minggu (30/9/2018)</TIMEX3>. 
+
+Terkait hal ini, Kepala Kantor Pencarian dan Pertolongan Ternate M Arafah berharap dengan segala upaya kemampuan yang dikerahkan, dapat mendukung dan membantu proses evakuasi para korban di Kota Palu dan Donggala secara maksimal. 
+
+Harapan kita semua, tentunya dapat membantu secara maksimal korban-korban yang masih terjebak di bangunan-bangunan yang runtuh, membantu proses evakuasi korban, memperkuat jajaran Basarnas Palu sebagai bentuk soliditas tanpa batas. 
+
+Pada dasarnya, rescuer kami terlatih, dan siap dikerahkan setiap saat. 
+
+Kami tinggal menunggu instruksi pimpinan dan kami siap bergerak menuju Palu, kata M. 
+
+ARfah lagi. 
+
+Untuk <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> katanya team Basarnas yang telah berada di Palu untuk membantu proses evakuasi korban di Palu adalah tim dari Basarnas Pusat dalam hal ini team Basarnas Spesial Group (BSG), Basarnas Makassar, Basarnas Kendari, Basarnas Gorontalo dan Basarnas Banjarmasin yang dilengkapi dengan armada dan peralatan evakuasi. 
+
+(jl) 
+</TEXT>
+
+</TimeML>

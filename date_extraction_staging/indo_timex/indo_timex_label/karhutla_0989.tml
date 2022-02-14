@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0989</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-04" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-04</TIMEX3></DCT>
+
+<TITLE>Wabup dan Dandim Bantu Padamkan Api</TITLE>
+
+<TEXT>
+Pemerintah Daerah (Pemda) Kabupaten Banggai bersama Kodim 1308/LB membantu pemadaman api atas kebakaran hutan dan lahan (Karhutla), <TIMEX3 tid="t1" type="DATE" value="2019-09-02">Senin (2/9/2019)</TIMEX3> di wilayah Koramil 1308-02/Bunta Desa Batu Hitam, Kecamatan Nuhon. 
+
+Karhutla tersebut telah mengarah ke wilayah perbatasan di Desa Balingara Kecamatan Ampanan Tete, Kabupaten Tojo Una-Una (Touna). 
+
+Pemadaman api dengan menggunakan peralatan tangki semprot racun rumput, parang dan chainsaw itu, dipimpin oleh Dandim 1308/LB Letkol Inf. 
+
+Nurman Syahreda dan Wakil Bupati (Wabup) Banggai, H. 
+
+Mustar Labolo yang diikuti anggota Kodim 1308/LB, anggota Koramil 1308-02/Bunta, anggota Polsek Nuhon, pegawai BPBD Banggai, masyarakat Desa Batu Hitam, masyarakat Desa Bangketa serta dibantu masyarakat Desa Balingara Kabupaten Touna yang berjumlah 60 orang dengan memadamkan api secara bergantian. 
+
+Dandim 1308/LB, Letkol Inf. 
+
+Nurman Syahreda mengatakan, pemadaman hutan perkebunan masyarakat dilakukan dengan cara memadamkan api disepanjang jalur api, agar api tidak melebar serta pembuatan jalur pemisah. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> tim sudah memadamkan beberapa titik api, namun masih ada yang tertiup angina, kata Dandim. 
+
+Dikatakannya, pemadaman api itu dilakukan oleh tim bersama-sama patroli pembersihan di beberapa titik api, dengan memadamkan api menggunakan semprotan hama, serta pembuatan pemisah agar api tidak menjalar. 
+
+Usai pemadaman api, dilanjutkan dengan salat untuk meminta hujan di Masjid perbatasan Desa Balingara. 
+
+MAM 
+</TEXT>
+
+</TimeML>

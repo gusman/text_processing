@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0187</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-03-15" temporalFunction="false" functionInDocument="CREATION_TIME">2015-03-15</TIMEX3></DCT>
+
+<TITLE>Butuh Air Bersih Lapor Camat Bintan Timur, Diantar Gratis</TITLE>
+
+<TEXT>
+Warga Kijang, Kecamatan Bintan Timur tidak perlu khawatir lagi jika sumur kering karena kemarau yang melanda pulau Bintan semenjak <TIMEX3 tid="t1" type="DURATION" value="P2M">dua bulan</TIMEX3> terakhir. 
+
+Pasalnya, Pemkab Bintan melalui Kecamatan Bintan Timur siap memberikan bantuan air bersih secara gratis. 
+
+Hasan, Camat Bintan Timur mengatakan, program air gratis ini mereka berikan semenjak <TIMEX3 tid="t2" type="DURATION" value="P1W">satu minggu</TIMEX3> terakhir. 
+
+Sejauh ini sudah 10 lokasi yang diberikan air secara gratis oleh pihak pemerintah Kabupaten Bintan melalui kecamatan dan kelurahan. 
+
+" Ini merupakan arahan dari pak Wabub kita. 
+
+Kemaren mereka meninjau rumah warga dan banyak warga yang mengeluhkan air bersih, " sebut Hasan, <TIMEX3 tid="t3" type="TIME" value="2015-03-15TAF">Minggu (15/3/2015) siang</TIMEX3>. 
+
+Dikatakan Hasan, beberapa daerah yang sudah diberikan air bersih diantaranya Kampung Pisang, Prumnas Kampung Lengkuas, perumahan sekitar Pelabuhan, Aria Kampung Kwala Lumpur, Kampung jati dan beberapa kampung yang ada di Kawasan Kijang kota. 
+
+Untuk mendapatkan air bersih, warga tidak perlu repot-repot mengurus ini itu, mereka cukup lapor ketua RT atau RW setempat. 
+
+Atau bisa melapor langsung ke Kelurahan dan Kecamatan Bintan Timur. 
+
+" Tinggal lapor dan beritahu dimana titik yang perlu diantar. 
+
+Kita akan langsung antar kesana segera, " tambahnya. 
+
+Disini, Kecamatan tidak bekerja sendiri, mereka juga melibatakan beberapa Intansi terkait seperti Dinas Kebersihan dan pihak PDAM. 
+
+Petugas mengambil air di waduk Kolong enam. 
+
+Setelah mobil berisi air bersih, langsung di distribusikan kepada warga yang memang membutuhkan. 
+
+Hasan juga menekankan, tidak ada pungutan biaya untuk penerimaan air bersih tersebut. 
+
+" Kita bekerja sama juga dengan PDAM. 
+
+Dan disini saya tekankan semuanya Free alias gratis, " tambah Hasan. 
+
+Dalam <TIMEX3 tid="t4" type="DURATION" value="P1D">satu hari</TIMEX3>, Kantor Camat Bintan Timur bisa mendistribusikan lima sampai enam mobil. 
+
+Satu mobil berkapasitas <TIMEX3 tid="t5" type="DATE" value="5000">5000</TIMEX3> liter air bersih. 
+
+" Warga cukup sediakan ember atau jerigen untuk menampung air. 
+
+Kita akan selalu upayakan air bersih untuk warga kita. 
+
+Karena kita tahu sejauh ini belum ada hujan di Bintan, " tambahnya.Memang dalam <TIMEX3 tid="t6" type="DURATION" value="P2M">dua bulan</TIMEX3> terakhir, kawasan pulau Bintan tidak pernah diguyur hujan lebat. 
+
+Banyaknya keluhan warga kepada pemerintah membuat mereka berfikir bagaimana agar warga disana tidak kekeringan dan terus mengkonsumsi air bersih. 
+
+Karena air merupakan sumber hidup manusia. 
+
+" Semoga dengan adanya bantuan ini masyarakat tidak teriak kekeringan lagi, " tukasnya 
+</TEXT>
+
+</TimeML>

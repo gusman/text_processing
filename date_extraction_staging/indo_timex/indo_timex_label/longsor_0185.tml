@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0185</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-06-24" temporalFunction="false" functionInDocument="CREATION_TIME">2016-06-24</TIMEX3></DCT>
+
+<TITLE>Bantu Korban Longsor Sangihe, Presiden Jokowi Sumbang Rp 350 Juta</TITLE>
+
+<TEXT>
+Presiden Republik Indonesia Joko Widodo memberikan sumbangan Rp 350 juta untuk korban bencana di Sangihe Sulawesi Utara. 
+
+" <TIMEX3 tid="t1" type="DATE" value="2016-06-24">Hari ini</TIMEX3>, pemerintah daerah Sangihe menerima bantuan dari Presiden Joko Widodo sebesar 350 juta rupiah untuk bencana di Sangihe, " kata Wakil Bupati Sangihe, Jabes Ezar Gaghana di Tahuna, <TIMEX3 tid="t2" type="DATE" value="2016-06-23">Kamis (23/6/2016)</TIMEX3>. 
+
+Selain bantuan uang, pemerintah melalui Badan Nasional Penanggulangan Bencana (BNPB) juga menyerahkan logistik. 
+
+" Melalui BNPB, pemerintah pusat juga menyerahkan bantuan logistik untuk kebutuhan korban bencana, " kata dia. 
+
+Bantuan logistik yang diterima Pemda Sangihe berupa tempat tidur, selimut, bahan makanan siap saji serta selimut dan baju untuk anak-anak dan orang dewasa. 
+
+" Ini merupakan bantuan tahap pertama guna menanggulangi kebutuhan korban yang berada di pengungsian, " kata dia.Menurut Jabes, bantuan semua pihak sangat diharapkan guna memenuhi kebutuhan para pengungsi. " Pemerintah daerah terus membuka diri bagi donatur yang ingin membantu korban pengungsi yang jumlahnya mencapai ribuan orang, " kata dia.(*/kcm) 
+</TEXT>
+
+</TimeML>

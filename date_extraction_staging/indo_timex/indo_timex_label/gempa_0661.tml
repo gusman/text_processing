@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0661</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-30" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-30</TIMEX3></DCT>
+
+<TITLE>Pemerintah Gerak Cepat Atasi Dampak Gempa dan Tsunami Palu</TITLE>
+
+<TEXT>
+Kompleks Perumnas Balaroa yang merupakan salah satu kelurahan yang terdampak gempa cukup parah menjadi tempat pertama yang dikunjungi Presiden Joko Widodo (Jokowi) di Palu, <TIMEX3 tid="t1" type="DATE" value="2018-09-30">Minggu (30/9)</TIMEX3>. 
+
+Masyarakat yang melihat kedatangan Presiden di lokasi pun langsung mengerubunginya. 
+
+Presiden pun menyempatkan berbincang dengan warga. 
+
+Jadi ini memang keadaan darurat karena jalan banyak yang terputus, bandara. 
+
+Listrik dari 7 gardu baru yang hidup. 
+
+(Suplai) BBM juga (terhambat karena) jalan tertutup, kata Presiden di lokasi. 
+
+Terkait pasokan bahan bakar minyak (BBM), Presiden memperkirakan dalam <TIMEX3 tid="t2" type="DURATION" value="P2D">dua hari</TIMEX3> akan sampai ke lokasi. 
+
+Alat berat dari Mamuju, Gorontalo menurutnya juga sudah bergerak menuju lokasi bencana. 
+
+Kita berdoa semoga lancar alat-alat berat sampai ke sini <TIMEX3 tid="t3" type="TIME" value="UNKNOWN">nanti malam</TIMEX3>, lanjutnya. 
+
+Demikian juga terkait bahan pangan dan air yang terhambat. 
+
+Presiden mengatakan hal ini dikarenakan kondisi bandara yang belum siap 100 persen untuk dipakai pesawat mendarat. 
+
+Saya harap masyarakat sabar semua. 
+
+Saya tahu banyak persoalan yang harus diselesaikan dalam waktu dekat, termasuk berkaitan dengan komunikasi, ujarnya. 
+
+Mengutip rilis resmi Badan Nasional Penanggulangan Bencana (BNPB), kondisi listrik padam menyebabkan jaringan komunikasi di Donggala dan sekitarnya tidak dapat beroperasi karena pasokan listrik PLN putus. 
+
+Terdapat 276 base station yang tidak dapat dapat digunakan. 
+
+Operator komunikasi terus berusaha memulihkan pasokan listrik secara darurat. 
+
+Kemkominfo telah melakukan langkah-langkah penanganan untuk memulihkan komunikasi yang putus tersebut. 
+
+Di penghujung percakapan, Kepala Negara mengatakan dirinya akan terus mengikuti setiap perkembangan terkait penanganan pascabencana gempa dan tsunami ini. 
+
+Ini akan terus saya ikuti, semua akan kembali. 
+
+Setelah normal baru tahap rehabilitasi dan rekonstruksi rumah-rumah seperti ini, tandasnya. 
+
+(BPMI/EN) 
+</TEXT>
+
+</TimeML>

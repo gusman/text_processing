@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0877</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-09" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-09</TIMEX3></DCT>
+
+<TITLE>Kabut asap selimuti tiga daerah di Sumatera Utara</TITLE>
+
+<TEXT>
+Kabut asap menyelimuti langit tiga daeraeh di Provinsi Sumatera Utara dalam <TIMEX3 tid="t1" type="DURATION" value="P1W">satu pekan</TIMEX3> terakhir. 
+
+Kabut asap akibat kebkaran hutan dan lahan itu terjadi di Kabupaten Labuhanbatu Selatan, Labuhanbatu dan Labuhanbatu Utara. 
+
+Cuaca di Labuhanbatu Raya memang berkabut, namun paparan kabut asap tersebut bukan berasal dari karhutla di Labuhanbatu Raya, kata Kepala Manggala Agni Daerah Operasi Labuhanbatu Kementerian Lingkungan Hidup dan Kehutanan, Rizky Ismana Nasution, <TIMEX3 tid="t2" type="DATE" value="2019-09-09">Senin</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2019-09">(9/9/2019)</TIMEX3>. 
+
+Ia menduga kabut asap itu berasal dari kebakaran hutan dan lahan di sejumlah daerah Provinsi Riau yang berbatasan langsung dengan daerah Selatan Provinsi Sumatera Utara. 
+
+Provinsi Riau <TIMEX3 tid="t4" type="TIME" value="2019-09-09TAF">siang ini</TIMEX3> ada 101 titik hot spot, tetapi belum bisa dipastikan asap bersumber dari Riau juga, kata Rizky menambahkan. 
+
+Ia menjelaskan faktor cuaca khususnya pergerakan angin juga mempengaruhi penyebaran kabut asap hingga ke wilayah lain. 
+
+Meski ia belum mengetahui dari mana sumber kabut tersebut, tapi membenarkan kabut yang menyelimuti daerah Labuhanbatu Raya merupakan dampak Karhutla. 
+
+Kami masih lihat perkembangan data cuaca dan pergerakan angin oleh BMKG, katanya. 
+
+Berdasarkan informasi yang diperoleh, kabut asap terlihat pekat di sejumlah wilayah di Labuhanbatu Selatan sejak <TIMEX3 tid="t5" type="TIME" value="2019-09-09TMO">pagi</TIMEX3>. 
+
+Keberadaan kabut asap itu sangat jelas Terpantau dari kawasan perkebunan kelapa sawit di Desa Sisumut dan jembatan Sungai Barumun di Kelurahan Kotapinang, Kecamatan Kotapinang. 
+
+Menurut Rizky, cuaca <TIMEX3 tid="t6" type="TIME" value="2019-09-09TMO">pagi</TIMEX3> hingga <TIMEX3 tid="t7" type="TIME" value="2019-09-08TAF">siang hari</TIMEX3> terasa tidak seperti biasa, pemandangan terlihat tidak jernih, bahkan suhu udara juga membuat rasa gerah. 
+
+Seorang warga Kotapinang, Sholawat Lubis, menyatakan pada <TIMEX3 tid="t8" type="TIME" value="2019-09-08TMO">Minggu (8/9/2019) pagi</TIMEX3> kondisi kabut asap lebih parah lagi. 
+
+Namun menjelang <TIMEX3 tid="t9" type="TIME" value="2019-09-08TAF">siang</TIMEX3>, asap tampak semakin tipis. 
+
+Kabut asap mulai terjadi sejak <TIMEX3 tid="t10" type="DATE" value="UNKNOWN">beberapa hari ini</TIMEX3>, mungkin karena kebakaran lahan. 
+
+Sudah <TIMEX3 tid="t11" type="DURATION" value="P3M">hampir tiga bulan</TIMEX3> kemarau, kata Lubis. 
+
+Kondisi kabut asap yang tampak mulai mengkhawatirkan membuat sekelompok remaja di Desa Perkebunan Nagodang membagi-bagikan masker kepada setiap pengguna jalan, khususnya pengendara sepeda motor yang melintas di Jalan Lintas Sumatera Nagodang, serta warga yang akan keluar masuk ke Desa Perkebunan Nagodang. 
+
+Sedangkan di Kabupaten Labuhanbatu dan Kabupaten Labuhanbatu Utara, udara terasa panas dan gerah. 
+
+Namun, masyarakat tetap melakukan aktivitas luar ruang seperti biasanya. 
+
+Sebelumnya, hujan sempat turun dan cukup menghilangkan kabut asap untuk sementara. 
+</TEXT>
+
+</TimeML>

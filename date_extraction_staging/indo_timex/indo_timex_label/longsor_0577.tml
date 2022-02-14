@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0577</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-21</TIMEX3></DCT>
+
+<TITLE>Dua Rumah Warga Timpah Terkena Longsor, Kades Beri Bantuan</TITLE>
+
+<TEXT>
+Akibat tergerus air hujan yang terjadi sejak <TIMEX3 tid="t1" type="TIME" value="2020-03-20TNI">Jumat (20/3/2020) malam</TIMEX3> sampai <TIMEX3 tid="t2" type="TIME" value="2020-03-21TMO">Sabtu (21/3/2020) pagi</TIMEX3>, 2 buah rumah warga RT 03 Desa Timpah yang dihuni 4 Kepala Keluarga yaitu Rusedi, Adi, Kombet dan Kristine mengalami kerusakan. 
+
+Peduli dengan kesusahan warganya, Aparatur Desa Timpah memberikan bantuan untuk perbaikan dan pembelian bahan bangunan. 
+
+Ini sebagai bentuk kepedulian kita selaku aparat pemerintahan desa. 
+
+Walaupun jumlahnya tidak begitu besar, namun kita harapkan setidaknya bantuan ini dapat meringankan warga saya untuk dapat menambah biaya perbaikan rumah mereka, kata Budi Santoro, Kepala Desa Timpah, Kecamatan Timpah melalui telepon, <TIMEX3 tid="t3" type="DATE" value="2020-03-21">Sabtu</TIMEX3>. 
+
+Dijelaskan, pihaknya sudah melakukan peninjauan secara langsung melihat kondisi rumah warga yang terdampak tersebut, guna memastikan apakah dari segi faktor keselamatan atau layak tidaknya tetap dihuni, supaya nantinya tidak akan menimbulkan kerugian harta benda bahkan jiwa. 
+
+Sebab posisi rumah tersebut tepat berada di pinggiran DAS Kapuas. 
+
+Selaku Apdes Timpah, sebenarnya sudah merespons keinginan warga yang tinggal di pinggiran DAS Kapuas dalam upaya relokasi. 
+
+Hal ini sudah mereka tindak lanjuti dengan melakukan inventarisasi pada bagian-bagian yang rentan longsor. 
+
+Tujuannya agar diusulkan dan masuk dalam daftar relokasi tersebut. 
+
+Sesegera mungkin kita akan membuat daftar usulan dan melaporkan kepada BPBD dan Sosial agar keinginan warga ini dalam relokasi dapat direalisasikan, katanya. 
+
+c-yul 
+</TEXT>
+
+</TimeML>

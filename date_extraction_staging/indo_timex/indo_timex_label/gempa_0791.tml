@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0791</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-12" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-12</TIMEX3></DCT>
+
+<TITLE>PLN Buka Posko Aduan Layanan Pelanggan Pasca Bencana di Palu dan Sekitarnya</TITLE>
+
+<TEXT>
+Guna membantu pelayanan pengaduan pelanggan pasca bencana, PLN menyediakan posko pengaduan layanan pelanggan yang berada di Kantor PLN Area Palu. 
+
+Posko ini dibuka sejak <TIMEX3 tid="t1" type="DATE" value="2018-10-08">hari Senin (8/10)</TIMEX3> dan selanjutnya akan dialihkan ke seluruh Unit Layanan Pelanggan yang berada di bawah wilayah kerja PLN Area Palu. 
+
+Posko pengaduan layanan pelanggan di kantor PLN Area Palu ini dibuka sejak <TIMEX3 tid="t2" type="TIME" value="2018-10-11T07:00">pukul 07.00 WITA</TIMEX3> hinggal <TIMEX3 tid="t3" type="TIME" value="2018-10-11T20:00">pukul 20.00 WITA</TIMEX3>. 
+
+Direktur Bisnis Regional Sulawesi PLN Syamsul Huda mengatakan bahwa hal ini perlu dilakukan mengingat bahwa <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pemulihan sistem kelistrikan di Palu, Donggala dan Sigi oleh PLN sudah di tahap pemulihan jaringan listrik dan gardu distribusi yang terhubung langsung dengan pelanggan yang memang terdampak cukup parah akibat gempa dan tsunami <TIMEX3 tid="t5" type="DATE" value="2018-09-28">tanggal 28 September lalu</TIMEX3>. 
+
+" Sebagian dari pelanggan di Palu, Donggala dan Sigu sudah kembali teraliri listrik. 
+
+Pengaduan dari warga ini juga membantu PLN untuk mendapatkan informasi daerah mana yang masih belum teraliri listrik, dimana hingga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah 1.707 gardu distribusi yang berhasil dioperasikan oleh tim gabungan PLN ", ujar Huda. 
+
+Sebelumnya, Direktur Utama PLN Sofyan Basir juga sempat turut serta membantu para petugas PLN melayani laporan pengaduan dari pelanggan di Posko Pengaduan Pelanggan Kantor PLN Area Palu dalam kunjungannya pada <TIMEX3 tid="t7" type="DATE" value="2018-10-09">hari Selasa (9/10) lalu</TIMEX3>. 
+
+" Kejadian (gempa dan tsunami) ini sungguh tidak disangka-sangka. 
+
+Kami terus berupaya agar listrik dapat segera menyala sampai di rumah pelanggan kami, termasuk di rumah bapak. 
+
+Namun biar bagaimana pun, kami akan upayakan secepatnya menindaklanjuti laporan bapak ", ujar Sofyan saat melayani laporan dari salah seorang pelanggan PLN. 
+
+
+</TEXT>
+
+</TimeML>

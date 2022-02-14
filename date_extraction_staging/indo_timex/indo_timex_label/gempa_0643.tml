@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0643</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-05" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-05</TIMEX3></DCT>
+
+<TITLE>Jadi Daerah Penanganan Korban Gempa dan Tsunami Palu, Balikpapan Kedatangan Pesawat Militer Asing</TITLE>
+
+<TEXT>
+Setelah ditetapkan sebagai daerah penyangga kedua untuk penanganan korban gempa dan tsunami di Sulawesi Tengah, Bandara Internasional SAMS Sepinggan, Balikpapan mulai kedatangan pesawat-pesawat militer luar negeri. 
+
+Hingga <TIMEX3 tid="t1" type="DATE" value="2018-10-04">Kamis (4/10/2018) kemarin</TIMEX3>, 5 pesawat militer dari luar negeri telah mendarat. 
+
+Singapura mengirim dua pesawat logistik militer, Hercules C-130. 
+
+Kedua pesawat tersebut telah mendarat sejak <TIMEX3 tid="t2" type="DATE" value="2018-10-02">Selasa (2/10/2018) lalu</TIMEX3>. 
+
+Disusul dua pesawat India, Hercules C-17 dan C-130 pengangkut logistik, <TIMEX3 tid="t3" type="DATE" value="2018-10-03">Rabu (3/10/2018)</TIMEX3>. 
+
+Sementara Malaysia mengirim satu pesawat helikopter A-400 tiba <TIMEX3 tid="t4" type="DATE" value="2018-10-04">Kamis (4/10/2018)</TIMEX3>. 
+
+" Untuk pesawat asing, sementara mereka parkir di Hanggar C dan D Bandara SAMS Sepinggan Balikpapan, " kata Danlanud Balikpapan Kolonel Pnb Muhammad Mujib. 
+
+Selain membawa bantuan logistik, mulai makanan, obat-obatan, tenda dan alat-alat rumah sakit, pesawat militer milik negara sahabat tersebut turut membantu mendistribusikan bantuan ke Palu. 
+
+Pesawat dari Singapura sudah mendistribusikan 6,3 ton bantuan logistik. 
+
+Kemudian India 4,6 ton logistik ke Palu, Sulawesi Tengah. 
+
+// Data yang dihimpun Tribunkaltim. 
+
+co, ada beberapa pesawat militer dari negara asing segera mendarat di Balikpapan. 
+
+Pesawat militer bantuan logistik Australia dan New Zeland dijadwualkan tiba <TIMEX3 tid="t5" type="TIME" value="2018-10-04TAF">Kamis (4/10/2018) sore</TIMEX3>. 
+
+Pesawat Inggris dan Amerika direncanakan mendarat, <TIMEX3 tid="t6" type="DATE" value="2018-10-05">Jumat (5/10/2018)</TIMEX3>. 
+
+Sementara pesawat Perancis, Korsel dan Jepang tiba di Bandara SAMS, <TIMEX3 tid="t7" type="DATE" value="2017-10-08">Senin (8/10)</TIMEX3>. 
+
+Disusul pesawat Tiongkok bakal mendarat, <TIMEX3 tid="t8" type="DATE" value="2018-10-09">Selasa (9/10/2018)</TIMEX3>. 
+
+Menteri Luar Negeri Retno Marsudi menyatakan ada 18 negara yang menawarkan bantuan untuk bencana di Sulawesi Tengah. 
+
+Sampai <TIMEX3 tid="t9" type="DATE" value="2018-10-05">hari ini</TIMEX3> (<TIMEX3 tid="t10" type="DATE" value="2018-10-04">kemarin</TIMEX3>), setidaknya pesawat bantuan dari India dan Singapura sudah berada di Balikpapan, Indonesia. 
+
+" Jadi <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pesawat yang sudah ada di lapangan adalah datang dari India dan datang dari Singapura. 
+
+Untuk Singapura ada dua buah kemudian untuk India C130J dan C17 Globe master, " kata Menlu di Istana Wapres, Jalan Medan Merdeka Selatan, Jakarta Pusat, <TIMEX3 tid="t12" type="DATE" value="2018-10-04">Kamis (4/10/2018)</TIMEX3>. 
+
+" Sementara untuk yang lain clearance sudah diberikan tapi mereka sedang dalam proses menuju ke Indonesia, " imbuhnya. 
+
+Retno menjelaskan bantuan dari Jepang, Amerika Serikat, dan negara lain masih dalam proses pengurusan izin. 
+
+" Jadi data saya mengatakan begitu dan ada beberapa yang dalam proses. 
+
+Misalnya dari Jepang kemudian dari US Air Force itu juga dalam proses. 
+
+Sementara yang lain clearance-nya sudah diberikan, " tutur Menlu.Badan Nasional Penanggulangan Bencana (BNPB) menyebut bantuan Internasional berupa pesawat terus bertambah.Dari sebelumnya 7 pesawat, <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">kini</TIMEX3> menjadi 11 pesawat. 
+
+// " Rencana pesawat bantuan luar negeri ada 11 pesawat, " kata Kepala Pusat Data, Informasi dan Humas BNPB, Sutopo Purwo Nugroho, <TIMEX3 tid="t14" type="DATE" value="2018-10-04">Kamis (4/10/2018)</TIMEX3>. 
+
+Sutopo merinci pesawat-pesawat tersebut berasal dari Singapura, Inggris, India dan Malaysia. 
+
+Sedangkan dua negara lain, Jepang dan Qatar masih dalam proses pembicaraan. 
+
+" Singapura dengan 2 pesawat Hercules C-130, Korea Selatan ada 2 pesawat Hercules C-130, Inggris ada 2 pesawat Hercules C-130, India ada 1 pesawat Hercules C-130, Malaysia ada 2 helikopter MI. 
+
+Sementara, Jepang dan Qatar masih dalam pembicaraan, " jelasnya. 
+
+Semua pembahasan dan perizinan terkait bantuan Internasional dilakukan oleh Kemenko Polhukam dan Kemenlu. 
+
+Bantuan yang diterima pun sesuai dengan kebutuhan. 
+
+" Bantuan asing yang diterima hanya sesuai kebutuhan, " tambah Sutopo. 
+
+Sutopo menjelaskan beberapa pesawat bantuan Internasional itu sudah tiba di Balikpapan. 
+
+Pesawat-pesawat itu akan digunakan untuk mengangkut bantuan logistik hingga evakuasi korban. 
+
+" Untuk proses angkutan logistik, selain logistik juga untuk melaksanakan evakuasi medis, evaluasi pasien wajib diadakan pendampingan tenaga medis dari Indonesia. 
+
+Jadi kemudian juga dalam proses untuk evakuasi tenaga medis tetap akan didampingi tenaga medis Indonesia, " ujar Sutopo.Cek Logistik Luar NegeriBantuan logistik luar negeri dan domestik terkumpul di Hanggar C dan D Bandara SAMS Sepinggan Balikpapan. 
+
+Logistik pangan, medis hingga tenda dari Singapura dan India terkumpul, bahkan sebagian sudah diterbangkan ke Palu.Pengamatan Tribunkaltim.co, <TIMEX3 tid="t15" type="DATE" value="2018-10-04">Kamis (4/10/2018)</TIMEX3> di hanggar C terdapat logistik dari Singapura, mulai dari pangan dan alat medis. 
+
+Sementara India, selain obat-obatan juga membawa tenda berton-ton.Gubernur Kaltim Isran Noor saat menyambangi wadah bantuan logistik dalam dan luar negeri mengatakan, khusus bantuan pangan sudah terkondisi di Palu. 
+
+// Bahkan bantuan pangan berlimpah alias berlebih. 
+
+Pemerintah meminta meminimalisir kiriman logistik berupa pangan ke daerah bencana. 
+
+" Makanan dan minuman dilakukan pemeriksaan, layak atau tidak layak. 
+
+Saya kira tak masalah (kiriman pangan luar negeri). 
+
+Hanya persoalan prosedur. 
+
+Apa yang ingin dibantu negara tetangga, kami prasangkanya baik saja, " kata Isran. 
+
+" Terkait halal dan haram, ini susah. 
+
+Kondisi darurat begini, bisa saja haram jadi halal. 
+
+Tapi kan ini diseleksi si ini, ini kan belum diterima di sana, " sambungnya. 
+
+Pangdam VI Mulawarman Mayjen TNI Subiyanto menegaskan, sesuai arahan Menkopolhukam bahwa bantuan internasional yang diperlukan korban bencana Palu, terdiri dari 6 item, angkutan udara, genset, tenda, water treatmen, fogging dan rumkit lapangan. 
+
+" Negara lain kirim tak mungkin kita tolak. 
+
+Ada 6 item, pesawat, tenda, water treatment, genset, fogging, rumkit lapangan. 
+
+India datang, sudah duluan Singapura, " katanya. 
+
+Untuk ketersedian pangan, obat-obatan medis pemerintah menegaskan sudah tercukupi di lokasi bencana. 
+
+Dari pantauan di Hanggar d Bandara SAMS Sepinggan Balikpapan, dikhususkan menyimpan bantuan logistik dalam negeri. 
+
+Gubernur Isran Noor juga meninjau korban gempa dan tsunami Palu, di base Ops Lanud Dhomber Balikpapan. 
+
+Didampingi Pangdam VI Mulawarman Mayjem TNI Subiyanto dan Danlanud Balikpapan Kolonel pnb Muhammad Mujib, Isran meninjau lahan yang dikupas alat berat, untuk perluasan tenda penampungan serta lahan parkir.Di sana Isran menggali informasi terkini terkait dengan penanganan pengungsi bencana Palu. " Saya mendapat apresiasi petinggi di pusat, para menteri. 
+
+Ternyata pos penyangga yang ditetapkan pemerintah (Balikpapan). 
+
+Paling tercepat, dan boleh dikatakan sementara ini yang paling berhasil, " kata Isran.Lebih lanjut Isran menyebut, bantuan dari Pemprov Kaltim juga terus mengali ke daerah bencana gempa, Palu. 
+
+Sekitar 400 ton logistik secara massif dikirim ke Palu. " Bantuan lewat BPBD. 
+
+<TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> yang digerakkan dari masyarakat langsung. 
+
+Tak terpusat di sini, ada di Samarinda, Bontang, itu sampai 500 ton, " bebernya.Bantuan logistik terdiri dari berbagai macam, pangan, BBM, air, termasuk juga relawan.Isran kemudian singgah ke tenda penampungan menyapa korban bencana. 
+
+" Yang sabar ya. 
+
+Kalau ada apa-apa sabar saja, " tuturnya. 
+
+(bie/tribunnews) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0993</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-14" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-14</TIMEX3></DCT>
+
+<TITLE>Kekeringan, TRC Semen Padang Distribuskan Air Bersih di Delapan Daerah Kota Padang</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2017-SU">Musim kemarau</TIMEX3> yang mulai melanda Kota Padang, Provinsi Sumatera Barat sejak <TIMEX3 tid="t2" type="DURATION" value="P2W">dua minggu</TIMEX3> terakhir, membuat sejumlah daerah di Ibu Kota Provinsi itu mengalami kekeringin. 
+
+Menyikapi hal itu, PT Semen Padang melalui Tim Reaksi Cepat (TRC) perusahaan langsung bergerak cepat dengan mengirim bantuan air bersih di dua kecamatan di Kota Padang, yaitu Lubeg dan Lubuk Kilangan. 
+
+Untuk di Lubeg, daerah yang terdampak kekeringin adalah Kelurahan Kampung Jua. 
+
+Sedangkan di Lubuk Kilangan, yaitu Kelurahan Tarantang dan Baringin. 
+
+Di Tarantang dan Baringin, jumlah air bersih yang kami salurkan sebanyak 15 ribu liter. 
+
+Kemudian di Kampung Jua 12 ribu liter, kata Koordinator TRC Semen Padang, Kiki Warlansyah, <TIMEX3 tid="t3" type="TIME" value="2018-02-09TAF">Jumat (9/2/2018) siang</TIMEX3>. 
+
+Penyaluran air bersih itu, lanjutnya, dilakukan pada <TIMEX3 tid="t4" type="DATE" value="2018-02-08">Kamis kemarin</TIMEX3> setelah TRC Semen Padang mendapat informasi dari BPBD Kota Padang, bahwa ada delapan daerah di Kota Padang mengalami kekeringan. 
+
+Delapan daerah itu, yakni Kelurahan Batung Taba Ampalu, Pengambiran, Kampung Baru, Bukit Gado-gado, Batang Arau, Baringin, Tarantang dan Kelurahan Kampung Jua. 
+
+Nah, setelah kami berkoordinasi dengan BPBD, kami putuskan untuk mendistribusikan air bersih ke daerah Kampung Jua, Baringin dan Tarantang. 
+
+Jumlah anggota yang kami turunkan 14 orang, ujarnya. 
+
+Kiki menyebut jika dalam <TIMEX3 tid="t5" type="DURATION" value="P2D">dua hari ke depan</TIMEX3> daerah-daerah tersebut masih mengalami kekeringan, maka pihaknya akan kembali menyalurkan air bersih. 
+
+Namun ia berharap, agar Hujan segera mengguyur Kota Padang, sehingga daerah terdampak kemarau bisa dialiri air. 
+
+Ketua Forum Nagari Kelurahan Baringin, Riki Gusmaidi, berterimakasih atas bantuan distribusi air bersih dari TRC Semen Padang, karena pendistribusian air tersebut meringankan beban masyarakat Baringin, termasuk Tarantang dan Kampung Jua. 
+
+Namun, ia berharap agar Pemko Padang melek terhadap persoalan kekeringan ini dengan memperbaiki saluran irigasi ke Baringin, dan Tarantang yang jebol akibat meluapnya Sungai Baringin pada <TIMEX3 tid="t6" type="DATE" value="2017-03">Maret 2017 lalu</TIMEX3>. 
+
+Kondisi ini diperparah dengan <TIMEX3 tid="t7" type="DATE" value="2017-SU">musim kemarau</TIMEX3> yang mulai melanda Kota Padang. 
+
+Untuk itu, kami berharap agar Pemko Padang segera memperbaiki saluran irigasi yang rusak. 
+
+Jika tidak, maka akan seterusnya masyarakat mengalami kekeringin, harap Riki. 
+
+rilis 
+</TEXT>
+
+</TimeML>

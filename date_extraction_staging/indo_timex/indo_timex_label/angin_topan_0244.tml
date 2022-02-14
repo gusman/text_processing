@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0244</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-10" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-10</TIMEX3></DCT>
+
+<TITLE>Rusak Parah, SD di Seluma Butuh Anggaran Rp 700 Juta</TITLE>
+
+<TEXT>
+Ruang kelas SD Negeri 120 Kecamatan Sukaraja Kabupaten Seluma, yang rusak karena ditimpa pohon roboh akan diperbaiki. 
+
+Akan tetapi perbaikan gedung yang rusak dibagian atap dan plafon tersebut membutuhkan dana yang tidak sedikit, yakni sebesar Rp 700 juta. 
+
+Kebutuhan anggaran perbaikan tersebut diketahui setelah tim teknis dari Dinas Pendidikan (Dispendik) Kabupaten Seluma menurunkan tim teknis ke sekolah yang rusak. 
+
+Setelah dilakukan penghitungan biaya material perbaikan, jumlah dana yang dibutuhkan mencapai Rp700 juta, agar atap bisa diperbaiki dan ruang kelas digunakan seperti sedia <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">kala</TIMEX3>, jelas Kepala Dispendik Kabupaten Seluma, Emzaili Hambali, <TIMEX3 tid="t2" type="DATE" value="2020-03-10">Selasa (10/3/2020)</TIMEX3>. 
+
+Sementara itu anggaran untuk memperbaiki kerusakan tersebut, tidak bisa dimasukkan ke APBD <TIMEX3 tid="t3" type="DATE" value="2020">2020</TIMEX3> karena tahun anggaran sudah berjalan, Dispendik akan mengupayakan agar dana perbaikan bisa didanai dari APBD-P <TIMEX3 tid="t4" type="DATE" value="2020">2020 mendatang</TIMEX3>. 
+
+Begitu juga menggunakan anggaran dari Dana Alokasi Khusus (DAK) yang sudah ditetapkan <TIMEX3 tid="t5" type="DATE" value="2019-12">desember 2019 lalu</TIMEX3>, dan hanya tinggal disalurkan ke sekolah. 
+
+Anggarannya diusulkan di APBD P, karena sudah tidak bisa dimasukkan ke APBD <TIMEX3 tid="t6" type="DATE" value="2020">2020</TIMEX3>, jelas Emzaili. 
+
+Adapun kerusakan tidak terjadi pada bagian dinding, dan hanya di bagian di atap dan plafon saja. 
+
+Namun kegiatan belajar mengajar tetap dilakukan di ruang darurat, yakni ruang mushala. 
+
+Peristiwa pohon roboh yang menimpa ruang kelas IV SDN 120 terjadi pada <TIMEX3 tid="t7" type="DATE" value="2020-03-05">kamis (5/3/2020) kemarin</TIMEX3>. 
+
+Pohon roboh saat hujan dan angin kencang melanda wilayah Sukaraja, <TIMEX3 tid="t8" type="TIME" value="2020-03-09T16:00">sekitar pukul 16.00</TIMEX3>. 
+
+Tidak ada korban jiwa ataupun luka akibat kejadian tersebut. 
+
+IT2006 
+</TEXT>
+
+</TimeML>

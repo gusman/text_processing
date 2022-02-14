@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0731</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-09-16" temporalFunction="false" functionInDocument="CREATION_TIME">2016-09-16</TIMEX3></DCT>
+
+<TITLE>Jalur Menuju Pantai Prigi Trenggalek Terputus Total Akibat Longsor</TITLE>
+
+<TEXT>
+Bencana tanah longsor kembali terjadi di Kabupaten Trenggalek, Jawa Timur. 
+
+Akibat bencana alam ini, jalur menuju pantai Prigi terputus total, <TIMEX3 tid="t1" type="DATE" value="2016-09-16">Jumat (16/9/2016)</TIMEX3>. 
+
+Jalur yang longsor ini tertimpa tebing jalan sehingga menutup akses jalan. 
+
+Apalagi juga ada pohon besar yang ikut terbawa tanah longsor. 
+
+Lokasi tebing jalan yang longsor ini tak jauh dari tempat tebing jalan yang telah longsor <TIMEX3 tid="t2" type="DATE" value="2016-09-09">seminggu lalu</TIMEX3>. 
+
+Menyusul tanah longsor ini kendaraan besar tidak bisa lewat. 
+
+Sedangkan sepeda motor masih dapat lewat giliran satu per satu. 
+
+Untuk membersihkan lokasi tebing jalan yang longsor ini telah dilakukan relawan dan petugas BPBD Kabupaten Trenggalek. 
+
+Bencana tanah longsor ini terjadi setelah <TIMEX3 tid="t3" type="DURATION" value="2016-09-01TNI">semalam</TIMEX3> turun hujan begitu lebat di kawasan selatan Kabupaten Trenggalek. 
+
+Akibatnya, tanah yang sebelumnya telah retak-retak kemudian terjadi longsor. 
+
+" Tanah longsor kali ini lebih parah karena menutup hampir seluruh badan jalan. 
+
+Apalagi ada pohon-pohon besar yang tumbang bersama tanah longsor, " ungkap Triono (42) warga setempat. 
+
+Sebelumnya tebing jalan di Jerukbang, Desa Sawahan, Kecamatan Watulimo juga longsor. 
+
+Akibatnya separuh badan jalan ambrol ke jurang. 
+
+
+</TEXT>
+
+</TimeML>

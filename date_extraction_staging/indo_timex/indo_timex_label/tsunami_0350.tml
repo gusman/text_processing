@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0350</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-01</TIMEX3></DCT>
+
+<TITLE>Jaringan Telekomunikasi Akibat Gempa dan Tsunami Palu Mulai Pulih</TITLE>
+
+<TEXT>
+Jaringan telekomunikasi di Donggala dan Palu mulai pulih setelah gempa dan tsunami melanda area tersebut pada <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9)</TIMEX3>. 
+
+Setelah jaringan telepon dan SMS, layanan internet pun berangsur mulai dapat digunakan. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> layanan komunikasi SMS dan suara sudah normal, sedangkan layanan data 4G juga sudah berangsur pulih di beberapa wilayah seperti di Poso, Donggala, Luwuk, Toli-Toli, Buol, Pasangkayu dan Tondo di Kota Palu, kata GM External Corporate Communications Telkomsel Denny Abidin dalam siaran pers, <TIMEX3 tid="t3" type="DATE" value="2018-09-30">Minggu (30/9)</TIMEX3>. 
+
+Telkomsel juga membuka posko untuk pencarian keluarga yang hilang, dapur umum serta memberikan fasilitas telepon dan SMS gratis di posko GraPARI Palu. 
+
+Selain itu Telkomsel juga memfasitasi para pelanggannya untuk berdonasi bagi korban gempa Donggala melalui UMB *800*01, aplikasi TCASH, maupun QR Code. 
+
+Dalam waktu yang cepat Telkomsel telah mengerahkan tim Siaga Bencana TERRA (Telkomsel Emergency Response amp; Recovery Activity) untuk pendirian posko darurat serta percepatan pemulihan layanan jaringan telekomunikasi, kata Denny. 
+
+Telkomsel merupakan operator yang memiliki cakupan terluas di Sulawei Tengah. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, Telkomsel terus berupaya untuk memulihkan jaringan di wilayah-wilayah yang terkena bencana. 
+
+Untuk itu, tim kami bergerak cepat dalam waktu kurang dari <TIMEX3 tid="t5" type="DURATION" value="PT24H">24 jam</TIMEX3> memobilisasi genset untuk catuan daya serta memasang mobile BTS, kata Denny. 
+
+(. 
+
+Tujuannya adalah agar para korban bisa terhubung dan berkomunikasi dengan keluarga dan kerabat. 
+
+Di antara area yang memiliki internet Wi-Fi gratis dari Telkom adalah: Palu, Donggala, Ampana, Banggai, Luwuk, Marisa, Parigi, dan Poso. 
+
+Nama service set identifier (SSID) untuk Wi-Fi ini adalah 'TelkomPeduli'. 
+
+" Telkom juga telah mengaktifkan akses free Wi-Fi di area kantor Telkom Donggala yang diperuntukkan bagi masyarakat yang ingin menggunakan layanan internet, " kata Vice President Corporate Communication Telkom Arif Prabowo. 
+
+Sebelumnya, sebanyak 431 dari <TIMEX3 tid="t6" type="DATE" value="3007">3007</TIMEX3> BTS di Sulawesi Tengah atau 14,33 tidak berfungsi karena terhentinya pasokan listrik akibat gempa dan tsunami. 
+
+Selain itu ada beberapa link jaringan telekomunikasi dari Palu ke Santigi, ke Mamuju dan ke Poso terputus akibat gempabumi. 
+
+Untuk mempermudah koordinasi penanganan bencana di Donggala dan sekitarnya, Menteri Komunikasi dan Informatika Rudiantara menugaskan Badan Aksebilitas Telekomunikasi dan Informatika (BAKTI) untuk mengirimkan 30 unit telepon satelit ke daerah terdampak. 
+
+Reporter: Desy Setyowati 
+</TEXT>
+
+</TimeML>

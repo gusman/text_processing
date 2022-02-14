@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0047</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-21" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-21</TIMEX3></DCT>
+
+<TITLE>Pohon Kelapa Timpa Rumah Warga Selumbung</TITLE>
+
+<TEXT>
+Hujan lebat disertai angin kencang yang melanda wilayah Karangasem memicu bencana pohon tumbang. 
+
+Sebatang pohon menimpa rumah I Nyoman Sukerta di Banjar Dinas Kanginan, Desa Selumbung, Kecamatan Manggis, <TIMEX3 tid="t1" type="DATE" value="2020-02-21">Jumat (21/2)</TIMEX3>. 
+
+Kepala Pelaksana BPBD Karangasem Ida Bagus Ketut Arimbawa mengatakan, kejadiannya berlangsung <TIMEX3 tid="t2" type="TIME" value="2020-02-20T03:00">sekitar pukul 03.00</TIMEX3> Wita saat penghuni rumah sedang tertidur. 
+
+Mereka kemudian mendadak terbangun karena mendengar suara dentuman. 
+
+Setelah dicek, ternyata pohon kelapa di dekat rumah telah tumbang dan menimpa bangunan setempat. 
+
+Penyebab pohon tumbang karena tanah amblas akibat tak kuat menahan beban pohon kelapa yang berat, katanya. 
+
+Arimbawa menyampaikan, akibat kejadian itu atap rumah mengalami kerusakan cukup parah. 
+
+Pihaknya telah melakukan penanganan terhadap pohon tersebut. 
+
+. 
+
+Penghuni semuanya kaget dengan suara dentuman keras. 
+
+Mereka langsung lari ke luar rumah untuk menyelamatkan diri, jelasnya. 
+
+(Eka Parananda/balipost) 
+</TEXT>
+
+</TimeML>

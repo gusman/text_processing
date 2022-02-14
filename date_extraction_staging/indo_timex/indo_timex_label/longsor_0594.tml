@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0594</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-23" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-23</TIMEX3></DCT>
+
+<TITLE>Pendulangan Intan di Pumpung, Banjarbaru Kalsel Makan Korban, Satu Orang Tewas, April Lalu 5 Orang</TITLE>
+
+<TEXT>
+Baru <TIMEX3 tid="t1" type="DATE" value="2019-04">April tadi</TIMEX3> lima orang tewas terkini menyusul satu pendulang lagi tewas di Pumpung. 
+
+<TIMEX3 tid="t2" type="DATE" value="2019-04-08">Sekitar 8 April 2019</TIMEX3> musibah pendulang tewas terjadi di Jalan Trisakti Lokasi Pendulangan Tradisional Pumpung Rt. 
+
+31 Rw.10 Kelurahan Sungai Tiung Kecamtan Cempaka, Kota Banjarbaru, Kalimantan Selatan. 
+
+Pada <TIMEX3 tid="t3" type="DATE" value="2019-07-23">Selasa (23/7/2019)</TIMEX3>, terjadi lagi, satu orang meninggal atas nama Supian. 
+
+Musibah hingga menelan korban jiwa di lokasi pendulangan intan. 
+
+Terkini, <TIMEX3 tid="t4" type="DATE" value="2019-07-23">Selasa (23/7/2019)</TIMEX3> nyawa pendulang bernama Supian Hadi (36) melayang. 
+
+.31 Rw.09 Kelurahan Sungai Tiung. 
+
+Informasi warga setempat kejadian <TIMEX3 tid="t5" type="TIME" value="2019-07-22T14">sekitar jam 14.30</TIMEX3> wita. 
+
+Kronologis musibah yang ialami Supian kejadian bermula pada <TIMEX3 tid="t6" type="DATE" value="2019-07-23">hari Selasa</TIMEX3> tanggal <TIMEX3 tid="t7" type="DATE" value="2019-07-23">23 Juli 2019</TIMEX3> sekitar <TIMEX3 tid="t8" type="TIME" value="2019-07-22T11">jam 11.00</TIMEX3> dia melakukan pendulangan. 
+
+Korban pada <TIMEX3 tid="t9" type="DATE" value="PAST_REF">saat itu</TIMEX3> berada dibawah lubang pendulangan. 
+
+<TIMEX3 tid="t10" type="TIME" value="2019-07-22T14">Sekitar jam 14.30</TIMEX3> wita tiba-tiba tanah dari atas longsor dan menimbun korban yang berada didalam lubang pendulangan. 
+
+Pada <TIMEX3 tid="t11" type="DATE" value="2019-04">April 2019 lalu</TIMEX3>, Wali Kota Banjarbaru Nadjmi adhani sempat mengatakan menyoal sudah seringnya terjadi musibah hingga menimbulkan korban jiwa di lokasi itu, lokasi pendulangan intan terancam ditutup. 
+
+" Akan secepatnya dilakukan upaya pengalihprofesian warga ke sektor lainnya yang lebih aman dan tidak berisiko tinggi. 
+
+Lokasi yang digawi sudah sangat rawan karena tanahnya mudah bergerak dan longsor lagi, " tegas Nadjmi <TIMEX3 tid="t12" type="DATE" value="PAST_REF">saat itu</TIMEX3>. 
+
+(banjarmasinpost.co.id/niakurniawan) 
+</TEXT>
+
+</TimeML>

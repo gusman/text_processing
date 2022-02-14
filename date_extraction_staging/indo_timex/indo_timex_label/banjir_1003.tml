@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1003</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-25</TIMEX3></DCT>
+
+<TITLE>Banjir dan Longsor Landa 106 Desa di Sulawesi Selatan, 59 Orang Meninggal dan 25 Dinyatakan Hilang</TITLE>
+
+<TEXT>
+Sebanyak 106 desa di 13 kabupaten/kota di Sulawesi Selatan terdampak banjir dan longsor yang terjadi sejak <TIMEX3 tid="t1" type="DATE" value="2019-01-22">Selasa (22/1/2019)</TIMEX3>. 
+
+Dilaporkan, 59 orang meninggal dan 25 orang hilang yang hingga <TIMEX3 tid="t2" type="DATE" value="2019-01-25">Jumat (25/1/2019)</TIMEX3> masih dalam proses pencarian. 
+
+Pusat Data Informasi dan Humas BNPB, Sutopo Purwo Nugroho merilis, data dampak bencana banjir dan longsor di Sulsel hingga <TIMEX3 tid="t3" type="TIME" value="2019-01-25TAF">Jumat (25/1/2019) siang</TIMEX3> tercatat 59 orang meninggal, 25 orang hilang, 47 orang luka-luka. 
+
+Akibat banjir dan longsor di Sulsel, sebanyak 6.596 orang terdampak, 3.481 orang mengungsi, 79 unit rumah rusak (32 unit hanyut, 26 rusak berat, 2 rusak sedang, 14 rusak ringan, 5 tertimbun), 4.857 unit rumah terendam, dan 11.876 hektar sawah terendam banjir " " Kerusakan sarana fisik antara lain 10 jembatan, 16,2 km jalan, 2 pasar, 12 unit fasilitas peribadatan, 6 fasilitas pemerintah, dan 22 unit sekolah, rinci Sutopo. 
+
+. 
+
+Dampak bencana besar karena 106 desa terdampak bencana yang tersebar di 61 kecamatan di 13 kabupaten/kota yaitu Jeneponto, Maros, Gowa, Kota Makassar, Soppeng, Wajo, Barru, Pangkep, Sidrap, Bantaeng, Takalar, Selayar, dan Sinjai. 
+
+Dia menyebutkan, banjir dan longsor menyebabkan banyak korban dan kerusakan di sejumlah wilayah. 
+
+Dampak bencana banjir menyebabkan 45 orang meninggal dunia, 24 orang hilang, 46 orang luka, 6.596 orang terdampak dan 3.481 orang mengungsi. 
+
+.876 hektar sawah terendam. 
+
+Sedangkan longsor menyebabkan 14 orang meninggal dunia, 1 orang hilang dan 1 orang luka " " Longsor yang menimbulkan banyak korban terjadi di Dusun Pattiro Desa Pattallikang Kecamatan Manuju Kab Gowa " " Longsor terjadi saat hujan lebat " " Material longsor menutup separuh Dusub Pattiro dan menimbun belasan rumah, bebernya. 
+
+(Kompas. 
+
+com/Hendra Cipto)Artikel ini telah tayang di Kompas. 
+
+com dengan judul " Banjir dan Longsor Terjang 106 Desa di Sulsel, 59 Orang Meninggal dan 25 Hilang " 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0148</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-23" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-23</TIMEX3></DCT>
+
+<TITLE>Aktivitas Penerbangan di Jambi Kembali Terganggu, Kabut Asap Kian Berbahaya</TITLE>
+
+<TEXT>
+Kabut asap yang terjadi akibat kebakaran hutan dan lahan (karhutla) di Jambi dalam sepakan terakhir semakin pekat. 
+
+Akibatnya kualitas udara di Jambi masuk kategori tidak sehat bahkan berbahaya. 
+
+Berdasarkan rilis Indeks Standar Pencemaran Udara (ISPU) yang diukur menggunakan Air Quality Monitoring Systim (AQMS) oleh Dinas Lingkungan Hidup Daerah (DLHD) Kota Jambi ISPU, pada <TIMEX3 tid="t1" type="DATE" value="2019-09-22">Minggu (22/9)</TIMEX3>, parameter Partikulat PM 2.5 berada di atas baku mutu. 
+
+Dari pengukuran AQMS tersebut, nilai konsentrasi ISPU Parameter partikulat PM 2.5 di kota itu beberapa kali mencapai nilai 1.000 lebih. 
+
+Seperti pada <TIMEX3 tid="t2" type="TIME" value="2019-09-21TNI">Sabtu malam</TIMEX3> (21/9) <TIMEX3 tid="t3" type="TIME" value="2019-09-22T21:00">pukul 21.00 WIB</TIMEX3> nilai konsentrasi parameter 2.5 mencapai 1.175 yang artinya masuk dalam kategori berbahaya. 
+
+Bahkan Ahad <TIMEX3 tid="t4" type="DATE" value="2019-09-22">(22/9)</TIMEX3>, nilai konsentrasi terendah ISPU parameter partikulat PM 2.5 berada di angka 257. 
+
+Artinya paramater partikulat PM 2.5 di kota itu berada di atas baku mutu dan dalam kategori berbahaya. 
+
+Juru Bicara Pemerintah Kota Jambi Abu Bakar mengatakan, prakiraan kondisi cuaca di kota itu pada <TIMEX3 tid="t5" type="DATE" value="2019-09-23">Senin (23/9)</TIMEX3> dari <TIMEX3 tid="t6" type="TIME" value="2019-09-23TMO">pagi hari</TIMEX3> hingga <TIMEX3 tid="t7" type="TIME" value="2019-09-22TAF">siang hari</TIMEX3> berasap. 
+
+<TIMEX3 tid="t8" type="TIME" value="2019-09-23TMO">Pagi hari</TIMEX3> suhu 25 derajat Celsius, arah angin dari tenggara ke selatan dengan kecepatan 9 km/jam. 
+
+Kemudian <TIMEX3 tid="t9" type="TIME" value="2019-09-22TAF">siang hari</TIMEX3> suhu 31 derajat celsius, arah angin dari timur ke timur laut dengan kecepatan 9 km/jam. 
+
+<TIMEX3 tid="t10" type="DATE" value="2019-09-23">Hari ini</TIMEX3> sebaran titik panas terdata berdasarkan informasi dari satelit LAPAN, di Jambi ditemukan sebanyak 980 titik hotspot, kata Abu Bakar. 
+
+Dan berdasarkan update data terbaru yang dirilis pemerintah kota itu, ISPU pada parameter partikulat PM 2.5 pada <TIMEX3 tid="t11" type="DATE" value="2019-09-23">hari ini</TIMEX3> Ahad <TIMEX3 tid="t12" type="TIME" value="2019-09-22T15:00">(22/9) pukul 15.00 WIB</TIMEX3> nilai konsentrasinya 450 berada di atas baku mutu, yang artinya kualitas udara di kota itu berbahaya. 
+
+Demikian pekatnya kabut asap dan kualitas udara di kota itu yang berada dalam kategori berbahaya, pemerintah Kota Jambi mengimbau masyarakat untuk tidak melakukan aktivitas di luar ruangan karena sangat berdampak buruk bagi kesehatan. 
+
+Dan jika harus melakukan aktivitas di luar ruangan wajib menggunakan masker guna mengurangi paparan kabut asap dan kualitas udara yang sudah memasuki kategori berbahaya. 
+
+Sejumlah Warga Kota Jambi tidak melihat sinar matahari sepanjang Ahad <TIMEX3 tid="t13" type="DATE" value="2019-09-22">(22/9)</TIMEX3>. 
+
+Ini karena terhalang kabut asap yang kian pekat di langit kota. 
+
+Sejumlah warga menyebut kondisi kali ini melebihi dari fenomena serupa pada <TIMEX3 tid="t14" type="DATE" value="2015">2015</TIMEX3>. 
+
+Saya bisa pastikan mungkin kabut asap yang terjadi <TIMEX3 tid="t15" type="DATE" value="2019-09-29">Minggu ini</TIMEX3> lebih parah dari fenomena kabut asap <TIMEX3 tid="t16" type="DATE" value="2015">tahun 2015</TIMEX3>. 
+
+Saya kira ini lebih pekat dari <TIMEX3 tid="t17" type="DATE" value="PAST_REF">dulu</TIMEX3>, kata Hendra, salah seorang warga Jambi yang juga ASN di kota itu. 
+
+Sudah <TIMEX3 tid="t18" type="DATE" value="UNKNOWN">beberapa hari ini</TIMEX3>, tidak ada terik matahari menerpa bumi Kota Jambi yang diganti dengan asap berwarna abu-abu di jalanan. 
+
+Bahkan sejak <TIMEX3 tid="t19" type="TIME" value="2019-09-22T15:00">pukul 15.00 WIB</TIMEX3> hingga <TIMEX3 tid="t20" type="TIME" value="2019-09-22TAF">sore hari</TIMEX3>, langit Jambi berubah menjadi kuning akibat kabut asap itu. 
+
+Hal sama juga diungkapkan beberapa warga lainnya yang mengaku suasana pada Ahad sudah mirip dengan kejadian kabut asap pada <TIMEX3 tid="t21" type="DATE" value="2015">2015 lalu</TIMEX3>. 
+
+Hal sama di Kota Jambi pada Ahad <TIMEX3 tid="t22" type="TIME" value="2019-09-22TAF">sore</TIMEX3>, sejumlah kendaraan roda empat menyalakan lampu kabut untuk memastikan aman di jalanan. 
+
+Tebalnya kabut asap juga menghilangkan Jembatan Gentala Arasy yang membentang di atas Sungai Batanghari tepatnya di depan rumah dinas Gubernur Jambi.Jembatan untuk pejalan kaki yang merupakan ikon Kota Jambi tersebut nyaris tak terlihat mata saat dilihat dari dekat Pasar Angso Duo Kota Jambi karena tebalnya kabut asap.Karena memiliki pengalaman dengan kabut asap <TIMEX3 tid="t23" type="DATE" value="2015">2015</TIMEX3>, Hendra mengaku telah menyiapkan langkah untuk keluarganya, terutama anaknya yang masih kecil. 
+
+Ia melarang putranya beraktifitas di luar, bahkan ia meminta untuk tetap di dalam kamar.Sementara itu Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) menjelaskan, beredar viral di masyarakat gambar langit di Muaro Jambi berwarna merah yang akibat sinar matahari tertutup asap tebal. 
+
+Menurut satelit Himawari, fenomena tersebut diakibatkan oleh banyaknya titik panas (hotspot) dan sebaran asap tebal. 
+
+Hasil analisis citra satelit Himawari-8 <TIMEX3 tid="t24" type="DATE" value="2019-09-21">tanggal 21 September</TIMEX3> di sekitar Muaro Jambi, tampak terdapat banyak titik panas dan sebaran asap yang sangat tebal, kata Kepala Bagian Humas BMKG Akhmad Taufan Maulana seperti dilansir Republika, Ahad <TIMEX3 tid="t25" type="DATE" value="2019-09-22">(22/9)</TIMEX3>.Ia menjelaskan, asap dari kebakaran hutan dan lahan ini berbeda dari daerah lain yang juga mengalami kebakaran. 
+
+Wilayah lain pada satelit tampak berwarna cokelat namun di Muaro Jambi menunjukkan warna putih yang mengindikasikan bahwa lapisan asap yang sangat tebal.Kabut asap yang melanda Jambi juga mengganggu aktivitas penerbangan. 
+
+Ini disebabkan jarak pandang di sekitar Bandara Sultan Thaha Jambi rendah akibat dampak dari kabut asap yang terjadi. 
+
+Jarak pandang terendah terjadi pada <TIMEX3 tid="t26" type="TIME" value="2019-09-22T10:30">pukul 10.30 WIB</TIMEX3>, yakni 550 meter, dampaknya sejumlah penerbangan menuju Jambi terganggu, kata Eksekutif General Manager Angkasa Pura II M Hendra Irawan di Jambi, Ahad <TIMEX3 tid="t27" type="DATE" value="2019-09-22">(22/9)</TIMEX3>.(rep) 
+</TEXT>
+
+</TimeML>

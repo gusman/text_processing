@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0648</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-04-05" temporalFunction="false" functionInDocument="CREATION_TIME">2017-04-05</TIMEX3></DCT>
+
+<TITLE>Bantuan Korban Banjir di Sembakung Berlogo BNPB Kadaluarsa</TITLE>
+
+<TEXT>
+Sudah jatuh tertimpa tangga itulah kalimat yang pantas menggambarkan korban banjir di Desa Binanus, Kecamatan Sembakung Atulai, Kabupaten Nunukan, Provinsi Kalimantan Utara. 
+
+Sebab, bantuan makanan siap saji berlogo Badan Nasional Penanggulangan Bencana (BNPB) yang disalurkan Pemprov Kaltara ternyata kadaluarsa. 
+
+Bahkan, makanan kemasan tersebut menyebabkan 10 anak-anak mengalami gejala sakit perut sejak, <TIMEX3 tid="t1" type="TIME" value="2017-04-04TNI">Selasa malam</TIMEX3> (04/04). 
+
+Sejak tadi <TIMEX3 tid="t2" type="TIME" value="2017-04-04TNI">malam</TIMEX3> banyak yang sakit perut. 
+
+Kami curiga dan coba mengecek bantuan yang masuk ternyata ada yang kadaluarsa, ujar Kepala Desa Binanun Mikail Main kepada Metro Kaltara, <TIMEX3 tid="t3" type="DATE" value="2016-05-04">Rabu (05/05)</TIMEX3>. 
+
+Pernyataan serupa juga disampaikan Kepala Desa Katul, Sinju yang meminta agar bantuan yang disalurkan kembali dicek masa kadaluarsanya. 
+
+Ada saya simpan satu kotak, yang lain sempat saya distribusikan ke warga. 
+
+Tetapi warga sudah banyak membuang, jelasnya. 
+
+Salah satu anak-anak di Desa Binanus yang mengalami sakit perut setelah mengkonsumsi bantuan makanan siap saji berlogo BNPB. 
+
+<TIMEX3 tid="t4" type="DURATION" value="UNKNOWN">Sementara saat</TIMEX3> dikonfirmasi Metro Kaltara, Kepala Bidang Kedaruratan dan Logistik Badan Penanggulangan Bencana Daerah (BPBD) Provinsi Kaltara Muhammad Syarwana pun mengakui jika ada bantuan yang kadaluarsa. 
+
+Namun, bukan merupakan kesengajaan dari pihak Pemprov Kaltara dan makanan siap saji itu belum diketahui asalnya dari mana. 
+
+Memang di lapangan hasil laporan yang ada melalui foto saya lihat, tapi sudah kita sortir yang kadaluarsa dengan yang baik. 
+
+Kami juga belum menentukan dari mana barang itu masuknya. 
+
+Tapi dari gudang kami semuanya barang baru, jawabnya. 
+
+Sebelumnya, Pemprov Kaltara juga berupaya memberikan bantuan secara cepat kepada para korban banjir. 
+
+Hal itu terlihat dari postingan status akun facebook bernama Irianto Lambrie juga merilist informasi bahwa tim BPBD dan Dinas Sosial Provinsi Kaltara mendistribusikan bantuan makanan sebanyak dua dump truck di Kecamatan Lumbis dan Kecamatan Sembakung, sejak <TIMEX3 tid="t5" type="TIME" value="2017-04-04T20:02">pukul 20:02</TIMEX3> Wita, <TIMEX3 tid="t6" type="DATE" value="2017-04-03">Senin 3 April 2017</TIMEX3>. 
+
+(MK*1) 
+</TEXT>
+
+</TimeML>

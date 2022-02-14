@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0863</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-19</TIMEX3></DCT>
+
+<TITLE>Lagi, Jalur Sembalun Longsor</TITLE>
+
+<TEXT>
+Bencana longsor kembali menerjang wilayah Kecamatan Sembalun, Lombok Timur (Lotim). 
+
+Longsor yang terjadi <TIMEX3 tid="t1" type="DATE" value="2019-01-18">Jumat</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="UNKNOWN">18 Januari 2019 siang kemarin</TIMEX3> sekitar <TIMEX3 tid="t3" type="TIME" value="2019-01-18T14:00">pukul 14.00</TIMEX3> Wita menimbun jalur utama Sembalun tepatnya di Kokok Togoh, Desa Sembalun Bumbung. 
+
+Longsor yang terjadi akibat hujan deras yang turun mulai <TIMEX3 tid="t4" type="TIME" value="2019-01-18T12:00">pukul 12.00</TIMEX3> Wita. 
+
+Kepala Bidang Kedaruratan dan Urusan Logistik BPBD Lotim, Lalu Rusnan, membenarkan jika perbukitan di jalur menuju Sembalun kembali longsor. 
+
+Lokasi longsor sama dengan longsor yang terjadi sebelumnya pada <TIMEX3 tid="t5" type="DATE" value="2018-12">bulan Desember 2018 lalu</TIMEX3>. 
+
+Akibatnya, akses lalu lintas dari Pusuk Sembalun menujuk pusat wilayah Kecamatan Sembalun tertutup dan tidak bisa dilalui karena badan jalan tertutup timbunan bebatuan dan pasir. 
+
+Penyebab longsor akibat hujan deras sejak <TIMEX3 tid="t6" type="TIME" value="2019-01-18T12:00">pukul 12.00</TIMEX3> Wita. 
+
+Sampai <TIMEX3 tid="t7" type="TIME" value="2019-01-19TAF">sore ini</TIMEX3>, (<TIMEX3 tid="t8" type="DATE" value="2019-01-18">kemarin</TIMEX3>, red) akses jalan belum dapat dilalui baik oleh kendaraan roda dua maupun roda empat, ujarnya. 
+
+Dikatakan Lalu Rusnan, petugas dari BPBD Lotim bersama TNI-Polri dan masyarakat bergotong royong menyingkirkan batu-batu berukuran besar yang menutupi badan jalan. 
+
+Namun karena hujan tak kunjung reda, proses evakuasi bebatuan terhambat. 
+
+Sementara untuk batu-batu besar, hanya bisa disingkirkan menggunakan alat berat dari BPBD. 
+
+Bencana longsor yang terjadi pada perbukitan Sembalun yang terletak di bawah kaki Gunung Rinjani karena struktur tanah yang masih labil pascagempa bumi <TIMEX3 tid="t9" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+Wilayah Kecamatan Sembalun merupakan salah satu titik cukup parah diguncang gempa bumi. 
+
+Sehingga ketika terjadi hujan deras, memicu longsor. 
+
+Ini karena struktur tanah pada perbukitan yang labil pascagempa. 
+
+Ketika terjadi hujan deras, longsor sewaktu-waktu dapat terjadi. 
+
+Tidak ada kerusakan maupun korban jiwa, tapi jalur yang longsor belum bisa dilalui, terangnya. 
+
+Dandim 1615/Lotim, Letkol. 
+
+Inf. 
+
+H. 
+
+Agus Setiandar, SIP, mengimbau kepada masyarakat untuk lebih berhati-hati apabila melintas di wilayah Pusuk Sembalun. 
+
+Dari hasil monitor personelnya, tanah dari atas bukit di jalur Pusuk Sembalun masih rawan longsor. 
+
+Kita mengimbau supaya masyarakat jangan melintas <TIMEX3 tid="t10" type="DATE" value="PAST_REF">dulu</TIMEX3> di jalur Pusuk Sembalun. 
+
+Masih rawan, tegas Dandim mengingatkan. 
+
+Kabid Kedaruratan dan Logistik BPBD NTB, Agung Pramuja membenarkan bencana longsor terjadi di wilayah Sembalun. 
+
+Kekhawatiran soal retakan disisakan gempa mulai berdampak. 
+
+Ini sudah dua kali longsor di Sembalun, ujarnya mengingatkan. 
+
+Selain saran peningkatan kewaspadaan kepada masyarakat Sembalun, Agung menyampaikan imbauan yang sama kepada masyarakat yang tinggal di Sambelia Lotim, termasuk Bayan dan Kayangan Lombok Utara. 
+
+Sejumlah daerah ini termasuk parah tingkat retakan akibat gempa dan berpotensi longsor saat musim hujan. 
+
+Kekawatiran sama dan disampaikan imbauan kepada warga di Gunungsari, Lombok Barat, Lombok Tengah bagian Utara, Sumbawa dan Sumbawa Barat. 
+
+Waspadai tanah bergerak yang mengandung pasir di bukit-bukit. 
+
+Karena ini rawan sekali longsor, ujarnya. 
+
+Ia menyarankan kepada pemerintah daerah, khususnya Dinas PUPR proaktif membantu menerjunkan alat berat pascalongsor. 
+
+Sebaiknya, ada kesiapan sejak awal. 
+
+Sehingga ketika terjadi longsor, alat berat langsung bisa diturunkan.Sementara banjir juga sudah mulai terjadi di sejumlah daerah. 
+
+Selain Bima, Dompu, juga Sumbawa dan Kabupaten Sumbawa Barat (KSB). 
+
+Ancaman banjir juga patut diwaspadai masyarakat Pulau Lombok. 
+
+Sejauh ini BPBD NTB belum mengeluarkan kebijakan droping logistik. 
+
+Alasannya, logistik sudah dikirim jauh sebelum kejadian sebagai antisipasi awal. 
+
+Tapi jika ada kekurangan, BPBD setempat akan lapor ke kami untuk kita kirim lagi, tandas Agung.Sementara hasil analisis BMKG, curah hujan kembali meningkat. 
+
+Disarankan masyarakat waspada potensi bencana hidrometeorologi. 
+
+Teridentifikasi adanya massa udara dingin dari Asia menjalar masuk ke sejumlah wilayah, termasuk Bali, NTB hingga NTT. 
+
+Selain itu, adanya pusat tekanan rendah di Samudra Hindia Selatan Jawa, serta adanya sirkulasi angin dapat membentuk pola pertemuan angin memanjang dari wilayah perairan barat Sumatera, Jawa hingga Laut Banda.Area pertemuan angin ini juga akan mendukung pertumbuhan awan hujan yang signifikan. 
+
+Pola angin Baratan yang kuat mengindikasikan <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> wilayah Indonesia memasuki puncak <TIMEX3 tid="t12" type="DATE" value="2018-WI">musim hujan</TIMEX3>, kata Deputi BMKG Bidang Meteorologi, Drs. 
+
+R. 
+
+Mulyono R. 
+
+Prabowo, M.Sc melalui press release yang diterima Suara NTB, <TIMEX3 tid="t13" type="DATE" value="2019-01-18">Jumat kemarin</TIMEX3>.Kondisi tersebut menurutnya, dapat menyebabkan potensi hujan lebat yang dapat disertai petir dan angin kencang. 
+
+Potensi cuaca buruk ini akan terjadi dalam periode beberapa hari kedepan di NTB.Sedangkan potensi gelombang laut tinggi 2,5 meter hingga 4,0 meter. 
+
+Gelombang tinggi diperkirakan dapat terjadi di Samudra Hindia Selatan Jawa hingga NTB.Masyarakat diimbau agar tetap waspada dan berhati-hati terhadap dampak yang dapat ditimbulkan. 
+
+Seperti potensi bencana hidrometeorologi atau jenis bencana banjir, tanah longsor, banjir bandang, genangan, angin kencang, pohon tumbang, dan jalan licin. 
+
+(yon/ars) 
+</TEXT>
+
+</TimeML>

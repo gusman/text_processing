@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1180</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-09-14" temporalFunction="false" functionInDocument="CREATION_TIME">2016-09-14</TIMEX3></DCT>
+
+<TITLE>Pohon Tumbang Timpa Pagar Makam Pahlawan</TITLE>
+
+<TEXT>
+Kadis Pertamanan Kota Medan, Zulkifli Sitepu mengatkan, <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> Dinas Pertamanan Kota Medan sudah turun ke lokasi untuk memotong pohon yang tumbang tersebut. 
+
+" <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> anggota kita sudah dilokasi melakukan pemotongan batang dan dahan pohon-pohon yang tumbang, " kata dia, <TIMEX3 tid="t3" type="DATE" value="2016-09-14">Rabu (14/09/2016)</TIMEX3>. 
+
+Menurut Zulkifli, <TIMEX3 tid="t4" type="DURATION" value="P2D">dua hari</TIMEX3> terakhir ini Dinas Pertamanan Medan mengintensifkan jam kerja petugas untuk bergerak lebih cepat ke titik-titik lokasi yang membutuhkan kerja cepat seperti menyingkirkan pohon yang tumbang dan menghalangi jalan. 
+
+Selain itu, dinas Pertamanan Medan juga mulai melakukan pemangkasan dan pemotongan pohon yang dinilai rawan tumbang atau sudah berusia tua. 
+
+" Udah mulai melakukan pemangkasan dan pemotongan pohon yang dinilai rawan tumbang karena faktor sudah tua, terutama lagi yang sudah mati, " ujar Zulkifli. 
+
+Kota Medan mengalami cuaca ekstrim yang ditandai dengan hujan deras dan angin kencang yang datang tiba-tiba dalam <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">dua hari ini</TIMEX3>. 
+
+Pihak Dinas pertamanan menghimbau agar masyarakat waspada terhadap potensi pohon tumbang saat cuaca ekstrim tersebut terjadi. 
+
+
+</TEXT>
+
+</TimeML>

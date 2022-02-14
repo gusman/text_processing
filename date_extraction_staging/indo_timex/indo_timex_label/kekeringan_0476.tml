@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0476</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">2018-11-02</TIMEX3></DCT>
+
+<TITLE>Akhirnya Ajukan Status Darurat</TITLE>
+
+<TEXT>
+Badan Penanggulangan Bencana Daerah (BPBD) Gunungkidul akhirnya menyerah. 
+
+Mengangkat bendera putih dalam penanganan dampak <TIMEX3 tid="t1" type="DATE" value="2018-SU">musim kemarau</TIMEX3>. 
+
+BPBD yang notabene representasi pemkab dalam penanganan kekeringan berencana mengajukan surat permohonan kepada bupati <TIMEX3 tid="t2" type="DATE" value="2018-11-02">hari ini</TIMEX3>. 
+
+Agar orang nomor satu di Bumi Handayani itu meneken surat keputusan status darurat kekeringan. 
+
+Pengajuan status darurat ini, antara lain, bertujuan agar BPBD mendapatkan kucuran dana segar untuk droping air. 
+
+Sebab, anggaran sebesar Rp 638 juta yang dialokasikan untuk droping air pada <TIMEX3 tid="t3" type="DATE" value="2018">2018</TIMEX3> telah ludes. 
+
+Di sisi lain, masih jamak wilayah yang mengalami krisis air bersih. 
+
+Itu ditambah tanda datangnya <TIMEX3 tid="t4" type="DATE" value="2017-WI">musim hujan</TIMEX3> belum terlihat. 
+
+Menurut Kepala Pelaksana BPBD Gunungkidul Edy Basuki, BPBD bakal mendapatkan angin segar dengan penetapan status darurat kekeringan. 
+
+Setidaknya BPBD bisa mendapatkan kucuran anggaran dari belanja tak terduga sebesar Rp 80 juta untuk droping air. 
+
+Estimasinya, anggaran (Rp 80 juta, Red) bisa untuk droping air hingga <TIMEX3 tid="t5" type="DATE" value="2018-11">akhir November</TIMEX3>, jelas Edy saat dihubungi <TIMEX3 tid="t6" type="DATE" value="2018-11-01">Kamis (1/11)</TIMEX3>. 
+
+Dengan ludesnya anggaran, pemberian droping air pun berhenti. 
+
+Bahkan, beberapa armada mobil tangki milik BPBD <TIMEX3 tid="t7" type="DATE" value="2018-11-01">kemarin</TIMEX3> mulai dikandangkan. 
+
+Itu lantaran anggaran Rp 638 juta juga include untuk operasional mobil tangki. 
+
+Misalnya, pembelian solar. 
+
+Lalu, bagaimana dengan warga yang mengalami krisis air bersih? Edy menyampaikan droping air hanya mengandalkan pihak ketiga. 
+
+<TIMEX3 tid="t8" type="DURATION" value="PXX">Sementara waktu</TIMEX3>. 
+
+BPBD tetap menyiapkan armada jika sewaktu-waktu dibutuhkan, katanya. 
+
+Edy optimistis anggaran Rp 80 juta cukup untuk mengkaver droping air hingga <TIMEX3 tid="t9" type="DURATION" value="P20D">20 hari</TIMEX3> kerja. 
+
+Atau hingga <TIMEX3 tid="t10" type="DATE" value="2017-11-24">24 November</TIMEX3>. 
+
+Edy berharap <TIMEX3 tid="t11" type="DATE" value="2018-11">akhir bulan ini</TIMEX3> sudah memasuki <TIMEX3 tid="t12" type="DATE" value="2017-WI">musim hujan</TIMEX3>. 
+
+Kekeringan di Gunungkidul <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> terpanjang selama <TIMEX3 tid="t14" type="DURATION" value="P2Y">dua tahun</TIMEX3> terakhir. 
+
+<TIMEX3 tid="t15" type="DATE" value="2018-10">Oktober</TIMEX3> tahun lalu sudah hujan, tambahnya. 
+
+Mengacu data BPBD, ada 77 desa yang mengalami kekeringan. 
+
+Tersebar di 15 kecamatan. 
+
+Sedangkan jumlah kepala keluarga yang terdampak 38.937. 
+
+Totalnya 132.491 jiwa. 
+
+Kecamatan Girisubo satu di antara yang mengalami kekeringan. 
+
+Menurut Camat Girisubo Agus Sriyanto, kecamatan sebenarnya telah mengalokasikan anggaran droping air. 
+
+Hanya, anggaran droping 550 tangki juga telah habis. 
+
+Dengan begitu, Kecamatan Girisubo belakangan ini hanya mengandalkan droping air dari BPBD dan pihak swasta. 
+
+Padahal, ada delapan desa yang mengalami kekeringan parah. 
+
+Dari 82 padukuhan, sebanyak 62 di antaranya kekurangan air bersih, sebutnya. 
+
+Selain mengandalkan bantuan droping, Agus menyebut tidak sedikit warga yang membeli air bersih dari swasta. 
+
+Terutama, warga yang tinggal di desa Songbanyu. 
+
+Harganya Rp 100 ribu hingga Rp 200 ribu per tangki, tuturnya. 
+
+(gun/zam/by/mo1) 
+</TEXT>
+
+</TimeML>

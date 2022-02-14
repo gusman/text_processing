@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0386</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2018-03-22</TIMEX3></DCT>
+
+<TITLE>15 Menit, Bualan di Kawah Ijen Muncul dan Sebabkan Ledakan</TITLE>
+
+<TEXT>
+Bualan atau letupan di Kawah Ijen yang membawa materi gas dan membuat warga Bondowoso keracunan gas, muncul selama <TIMEX3 tid="t1" type="DURATION" value="PT938S">938 detik</TIMEX3> atau <TIMEX3 tid="t2" type="DURATION" value="PT15M">sekitar 15 menit</TIMEX3> pada <TIMEX3 tid="t3" type="TIME" value="2018-03-21TNI">Rabu malam</TIMEX3> (21/3/2018) <TIMEX3 tid="t4" type="TIME" value="2018-03-21T19:13">pukul 19.13 WIB</TIMEX3>. 
+
+Bualan tersebut kemudian menghantam tebing pinggiran kawah sehingga mengeluarkan suara cukup keras semacam ledakan. 
+
+" Suara tersebut didengar oleh para penambang yang <TIMEX3 tid="t5" type="DATE" value="PAST_REF">saat itu</TIMEX3> ada di sekitar kawah dan mereka melaporkan kepada kami, " ujar Bambang Heri Purwanto Kepala PVMBG Gunung Ijen saat ditemui Kompas. 
+
+com, <TIMEX3 tid="t6" type="DATE" value="2018-03-22">Kamis (22/3/2018)</TIMEX3>, di Pos Pantau Gunung Ijen. 
+
+Saat petugas naik ke Gunung Ijen <TIMEX3 tid="t7" type="TIME" value="2018-03-21T05:00">sekitar pukul 05.00 WIB</TIMEX3>, sisa bualan masih terlihat di kawah Gunung Ijen. 
+
+Normalnya, bualan muncul di kedalaman 160 meter. 
+
+Sementara Kawah Ijen memiliki kedalaman hingga 180 meter. 
+
+. 
+
+Bahkan sejak <TIMEX3 tid="t8" type="DATE" value="2018-03-22">Kamis 22 Maret 2018</TIMEX3> tengah <TIMEX3 tid="t9" type="TIME" value="2018-03-21TNI">malam</TIMEX3> hingga <TIMEX3 tid="t10" type="TIME" value="UNKNOWN">22 Maret 2018 pukul 08.00 WIB tadi pagi</TIMEX3>, gempa vulkanik dangkal terjadi 12 kali. 
+
+Padahal normalnya hanya <TIMEX3 tid="t11" type="DATE" value="2017-04-02">2-4</TIMEX3> kali. 
+
+" Saat bualan muncul, terlihat gempa ukuran simpangannya hingga 40 mili. 
+
+Tapi ini bukan letusan. 
+
+Beda. 
+
+Untuk karakter Gunung Ijen memang unik, yang berbahaya itu gas beracunnya " jelasnya. 
+
+<TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, suhu permukaan kawah Gunung Ijen 20 derajat sedangkan normalnya antara 30 hingga 40 derajat. 
+
+" Jika di bawah 30 bahaya di atas 40 juga bahaya, normalnya antara itu, " jelas laki-laki yang akrab dipanggil Heri tersebut. 
+
+Sejumlah warga Watucapil Kecamatan Sempol Kabupaten Bondowoso dirawat di rumah sakit pada <TIMEX3 tid="t13" type="TIME" value="2018-03-21TNI">Rabu malam</TIMEX3> karena keracunan gas beracun yang keluar dari kawah Gunung Ijen. 
+
+(Kontributor Banyuwangi, Ira Rachmawati)Artikel ini telah tayang di Kompas.com dengan judul " Bualan di Kawah Ijen Muncul Selama <TIMEX3 tid="t14" type="DURATION" value="PT15M">15 Menit</TIMEX3> " 
+</TEXT>
+
+</TimeML>

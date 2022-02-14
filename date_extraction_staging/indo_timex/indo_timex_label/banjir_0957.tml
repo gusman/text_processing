@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0957</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2016-03-22</TIMEX3></DCT>
+
+<TITLE>Akibat Hujan Lebat, Dua Ton Raskin di Kantor Lurah Simpang Baru Terendam Banjir</TITLE>
+
+<TEXT>
+Hujan lebat yang mengguyur Kota Pekanbaru, <TIMEX3 tid="t1" type="DATE" value="2016-03-22">Selasa (22/3/2016)</TIMEX3> dini hari membuat sejumlah ruas jalan dan bangunan di Pekanbaru tergenang air. 
+
+Guyuran hujan lebat yang berlangsung selama lebih kurang <TIMEX3 tid="t2" type="DURATION" value="PT4H">empat jam</TIMEX3> tersebut juga membuat sejumlah kantor pemerintahan tergenang air. 
+
+Salah satunya kantor lurah Simpang Baru, Kecamatan Tampan yang berada di Jalan HR Subrantas Pekanbaru. 
+
+Air setinggi lutut orang dewasa tampak menggenangi halaman kantor lurah ini. 
+
+Bahkan air juga mengganani sejumlah ruangan di kantor tersebut. 
+
+Akibatnya, selama <TIMEX3 tid="t3" type="DURATION" value="P1D">satu hari</TIMEX3> penuh, aktifitas pelayanan masyarakat di kantor lurah ini lumpuh total. 
+
+Sebab masyarakat yang akan melakukan urusan dikantor ini memilih untuk pulang kembali karena akses menuju kantor tersebut terputus akibat genangan air yang cukup tinggi. 
+
+Meski demikian, sejumlah pegawai kelurahan tetap masuk berkerja seperti biasa. 
+
+Pegawai di kantor kelurahan ini tampak sibuk menyelamatkan berkas-berkas dari genangan air. 
+
+" Tidak ada berkas yang rusak. 
+
+Karena seluruh berkas memang kita simpang ditempat yang lebih tinggi. 
+
+Sementara untuk aktifitas pelayanan kepada masyarakat selama satu harian ini, memang terganggu. 
+
+Masyarakat yang mau berurusan ke kantor kita langsung balik karena airnya cukup tinggi, " kata Lurah Simpang Baru Wahyu Idris kepada Tribun, <TIMEX3 tid="t4" type="DATE" value="2016-03-22">Selasa (22/3/2016)</TIMEX3>. 
+
+Selain pelayanan masyarakat yang terganggu, akibat banjir ini, sebanyak 42 karung beras miskin (Raskin) yang disimpan di Aula Kantor Kelurahan tersebut juga ikut tergenang air. 
+
+Akibatnya beras yang akan dibagikan kepada masyakat miskin tersebut seberat lebih kurang 2 ton tersebut tidak bisa dibagikan. 
+
+" Kami akan segara buat BAPnya dan melaporkan segera ke kecamatan, " katanya.Wahyu mengaku ini merupakan kali pertama kantornya dilanda banjir. 
+
+Sebab sejak selama dirinya bertugas di kantor tersebut belum pernah terjadi banjir. 
+
+" Ini akibat banyaknya pemukiman yang terus bertambah di wilayah Tampan dan ditambah lagi dengan saluran drainase yang tersumbat. 
+
+Tapi kita tadi sudah langsung membersihkan drainase yang ada disekitar kantor bersama petugas dari dinas bina marga dan sumber daya air Pekanbaru, " bebernya. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0556</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-01" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-01</TIMEX3></DCT>
+
+<TITLE>Petugas Kesulitan Mencari Seorang Warga yang Tertimbun Longsor</TITLE>
+
+<TEXT>
+Tasikmalaya Infobanaua co id- Memasuki <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">hari ketiga</TIMEX3> petugas gabungan BPBD Tasikmalaya terus mencari seorang warga yang tertimbun tanah longsor di Desa Santanamekar, Kecamatan Cisayong, Kabupaten Tasikmalaya, Jawa Barat, <TIMEX3 tid="t2" type="DATE" value="2020-03-01">Minggu (1/3/2020)</TIMEX3>. 
+
+Kepala Bidang Kedaruratan dan Logistik Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Tasikmalaya, Irwan Saat di wawancarai awak media mengatakan Dalam Proses pencarian mulai dilaksanakan <TIMEX3 tid="t3" type="TIME" value="2020-02-29T07:00">sekitar pukul 07.00 WIB</TIMEX3>. 
+
+Pada pencarian <TIMEX3 tid="t4" type="DATE" value="2020-02-29">Sabtu (29/2)</TIMEX3> tidak membuahkan, kemudian pencarian dilanjutkan pada <TIMEX3 tid="t5" type="DATE" value="2020-03-01">hari Minggu</TIMEX3>, dan Sampai <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> korban belum berhasil ditemukan, Ungkapnya. 
+
+Lanjutnya Irwan, Hasil pencarian di lokasi longsor hanya menemukan sepeda motor, namun kendaraan roda dua itu bukan milik korban. 
+
+Karena tumpukan tanah longsor cukup tebal memenuhi badan sungai yang kedalamannya mencapai 15 meter. 
+
+Dengan longsoran yang tebal membuat kita sulit untuk mengevakuasi, Katanya. 
+
+etkol Inf Imam Wicaksana menambahkan jajarannya bersama petugas pencarian lainnya masih terus berusaha untuk menemukan satu orang yang dilaporkan hilang di lokasi longsor. 
+
+Tim masih berusaha melakukan pembersihan material sisa longsoran yang menutup dan menyangkut di jembatan, Ungkapnya. 
+
+Petugas gabungan dari unsur TNI, Polri, Basarnas, BPBD, dan sukarelawan lainnya sudah terjun ke lokasi sejak dilaporkan terjadi bencana alam yang melanda Di Desa Santanamekar Kecamatan Cisayong. 
+
+Tasikmalaya. 
+
+Petugas di lapangan mengalami kesulitan untuk mencari titik awal korban terseret tanah longsor, karena tidak ada saksi saat kejadian itu. 
+
+Tanah longsor beberapa kali melanda Desa Santanamekar, Kecamatan Cisayong, bahkan warga yang tinggal di dua desa sempat terisolasi. 
+
+Mahendra. 
+
+
+</TEXT>
+
+</TimeML>

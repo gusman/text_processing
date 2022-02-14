@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0111</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-07-04" temporalFunction="false" functionInDocument="CREATION_TIME">2016-07-04</TIMEX3></DCT>
+
+<TITLE>Terdeteksi 43 Hotspot di Kalimantan</TITLE>
+
+<TEXT>
+Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana (BNPB), Sutopo Purwo Nugroho, mengatakan, Lembaga Penerbangan dan Antariksa Nasional (LAPAN) memantau terjadinya peningkatan jumlah titik panas (hotspot) kebakaran hutan dan lahan. 
+
+Titik panas itu terpantau melalui satelit Modis yang menggunakan sensor Terra Aqua dari NASA. 
+
+Berdasarkan pantauan, terdeteksi ada 288 titik api dengan tingkat kepercayaan sedang, yakni 30 - 79 persen dan tinggi lebih dari 80 persen pada <TIMEX3 tid="t1" type="DATE" value="2016-07-03">Minggu</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2016-07-03">(3/7/2016)</TIMEX3>, <TIMEX3 tid="t3" type="TIME" value="2016-07-03T06:00">pukul 06.00 WIB</TIMEX3>. 
+
+" Dari 288 hotspot tersebut 245 hotspot di Sumatera dan 43 hotspot di Kalimantan. 
+
+Sebagian besar hotspot tersebut disengaja atau dibakar, " kata Sutopo melalui keterangan tertulis, <TIMEX3 tid="t4" type="DATE" value="2016-07-03">Minggu (3/7/2016)</TIMEX3>. 
+
+Dia mengatakan, pada tingkat kepercayaan sedang, atau lebih dari 30 persen, di Sumatera terdapat 245 hotspot tersebar di sejumlah wilayah. 
+
+" Di Aceh 29, Sumatera Utara 112, Sumbar 47, Riau 26, Bengkulu 15, Jambi 10, Lampung 2, dan Sumsel 4. 
+
+Di Riau hotspot terdapat di Kampar 1, Pelalawan 2, Rohil 8, Dumai 1, Kuansing 1 dan Inhu 1, " kata Sutopo. 
+
+Mengantisipasi meluasnya titik api, Satgas Terpadu Siaga Karhutla di Riau terus berupaya melakukan pemadaman. 
+
+BNPB, kata Sutopo, menempatkan 2 helikopter water bombing jenis MI-8 dan MI-171, serta 2 pesawat Air Tractor water bombing. " <TIMEX3 tid="t5" type="SET" value="P1D">Setiap hari</TIMEX3> heli dan pesawat tersebut memadamkan api dari udara, " tutur dia.Selain itu, satgas darat dari TNI, Polri, Manggala Agni, Damkar, BPBD, Masyarakat Peduli Api dan karyawan perusahaan memadamkan api dari darat.Sutopo mengatakan, berdasarkan Indeks Standar Pencemaran Udara, di wilayah Lido, Kabupaten Rokan Hilir, sudah mencapai level sedang hingga tidak sehat. 
+
+Kepulan asap banyak ditemukan di Kecamatan Pasir Limau Kapas, Kabupaten Rokan Hilir. 
+
+// Menurut Sutopo, kepulan asap itu disebabkan aktifitas warga dari luar Rohil. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> petugas pemadaman di Desa Sungai Solok, Kuala Kampar, Kabupaten Kampar masih berupaya memadamkan api di lahan seluas 9 hektar. 
+
+Selain itu, kata dia, di Desa Kapau, Kerumutan, juga terjadi kebakaran lahan seluas 1,5 hektare. 
+
+Tidak hanya di beberapa wilayah tersebut, petugas juga masih berupaya memadamkan api di Taman Nasional Tesso Nelo, Desa Sungai Solok, Kuala Kampar, Kabupaten Pelalawan Provinsi Riau. 
+
+" Di wilayah Kabulaten Lima Puluh Koto, Provinsi Sumbar, lokasi terbakar sulit dijangkau dan sudah terbakar <TIMEX3 tid="t7" type="DURATION" value="P2D">2 hari</TIMEX3>, " kata dia. 
+
+Hingga <TIMEX3 tid="t8" type="DATE" value="2016-07-03">kemarin</TIMEX3>, lanjut Sutopo, sejumlah lahan yang terbakar sudah berhasil dipadamkan oleh petugas. 
+
+Di antaranya di Desa Karya Indah, Kecamatan Tapung, Kabupaten Kampar. 
+
+Luas lahan terbakar di daerah tersebut, yakni 25 hektare. 
+
+Kemudian, lahan di Kecamatan Tampan, Kota Pekanbaru yang terbakar sebanyak 10 hektare juga sudah dipadamkan. 
+
+" Di Kelurahan Air Hitam, Kecamatan Payung Sekaki, Kota Pekanbaru terbakar seluas 2 hektare, dan beberapa lokasi lain, " kata dia. 
+
+Menurut Sutopo, kondisi lahan yang kering, sulit air dan lokasi yang sulit diakses menyebabkan petugas kesulitan memadamkan api. 
+
+" Cuaca pada <TIMEX3 tid="t9" type="DATE" value="2016-07">Juli</TIMEX3>, <TIMEX3 tid="t10" type="DATE" value="2015-08">Agustus</TIMEX3> dan <TIMEX3 tid="t11" type="DATE" value="2015-09">September</TIMEX3> akan lebih kering. 
+
+Sehingga, potensi mudah terbakar akan meningkat, " kata Sutopo.Kepala BNPB, Willem Rampangilei, juga telah memerintahkan BPBD agar tetap meningkatkan pemadaman dan pencegahan kebakaran hutan dan lahan karena masih banyak pembakaran. 
+
+Sehingga, titik api ikut meningkat.Masyarakat diimbau untuk tidak membakar saat membuka lahan. 
+
+Karena, dampak karhutla sangat luar biasa dan merugikan semua pihak. " Pencegahan harus ditingkatkan karena lebih efektif daripada pemadaman, " kata Sutopo. 
+</TEXT>
+
+</TimeML>

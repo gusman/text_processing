@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0321</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-02" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-02</TIMEX3></DCT>
+
+<TITLE>Tiga Rumah Ambrol Tergerus Longsor</TITLE>
+
+<TEXT>
+Tiga rumah warga porak poranda akibat longsor yang terjadi di Kampung Areska RT 02 RW 01, Desa Gunung Malang, Kecamatan Tenjolaya, Kabupaten Bogor.
+
+Sekira pukul 08.30 WIB, Sabtu (1/2/2020) curah hujan dengan intensitas yang cukup tinggi mengakibatkan bencana alam tanah longsor dan mengakibatkan tiga bangunan rumah rusak.
+
+Tidak ada korban jiwa dalam peristiwa itu.
+
+Namun rumah milik Anwar, Endang, dan Dedi hancur.
+
+Kerugian ditaksir sekitar Rp 175 juta.
+
+
+</TEXT>
+
+</TimeML>
+

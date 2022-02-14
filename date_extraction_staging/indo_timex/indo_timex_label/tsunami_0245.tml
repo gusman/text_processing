@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0245</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Ini Lima Fakta Gempa dan Tsunami di Sulawesi Tengah</TITLE>
+
+<TEXT>
+Badan Nasional Penanggulangan Bencana (BNPB) mengungkapkan gempa tsunami sempat menejang Pantai Talise, Palu dan Pantai di Donggala, Sulawesi Tengah pada <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9)</TIMEX3>. 
+
+Tsunami di kedua pantai ini terjadi setelah gempa bumi berkekuatan 7,4 Skala Richter. 
+
+Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho mengungkapkan setelah mengonfirmasi kepada BMKG, dibenarkan tsunami yang menerjang pantai. 
+
+Posko BNPB juga telah mengkonfirmasi ke BPBD bahwa tsunami telah menerjang pantai Talise di Kota Palu dan pantai di Donggala. 
+
+Beberapa video yang didokumentasikan masyarakat dan disebarkan di sosial media mengenai tsunami di Kota Palu dan Donggala adalah benar, ujarnya dalam keterangan resmi, <TIMEX3 tid="t2" type="DATE" value="2018-09-28">Jumat (28/9)</TIMEX3>. 
+
+Sutopo menambahkan gempa tsunami tersebut menimbulkan korban jiwa. 
+
+Laporan sementara, terdapat beberapa korban yang meninggal karena tertimpa bangunan roboh. 
+
+Tsunami juga menerjang beberapa permukiman dan bangunan yang ada di pantai. 
+
+Jumlah korban dan dampaknya masih dalam pendataan, tambahnya. 
+
+Petugas BPBD, TNI, Polri, Basarnas, SKPD, dan relawan melakukan evakuasi dan pertolongan pada korban. 
+
+Korban yang luka-luka ditangani oleh petugas kesehatan. 
+
+Penanganan darurat terus dilakukan. 
+
+Kondisi listrik padam menyebabkan jaringan komunikasi di Donggala dan sekitarnya tidak dapat beroperasi karena pasokan listrik PLN putus. 
+
+Terdapat 276 base station yang tidak dapat dapat digunakan. 
+
+Operator komunikasi terus berusaha memulihkan pasokan listrik secara darurat. 
+
+Kemkominfo telah melakukan langkah-langkah penanganan untuk memulihkan komunikasi yang putus tersebut. 
+
+Kepala BNPB bersama pejabat BNPB berangkat ke Palu pada <TIMEX3 tid="t3" type="TIME" value="2018-09-27TNI">malam tadi</TIMEX3> melalui Makassar kemudian melanjutkan ke Kota Palu dan Donggala menggunakan helikopter. 
+
+TNI pun mengerahkan pasukan untuk membantu penanganan dampak gempa dan tsunami di Kota Palu dan Doggala. 
+
+TNI menggerakan 7 SSK dari Yonkes, Yonzipur, Yonif, dan Yonzikon menggunakan 2 pesawat Hercules C-130. 
+
+Basarnas menggerakan 30 personil bererta peralatan menggunakan pesawat Hercules. 
+
+Polri juga menggerakkan personil dan peralatan untuk memberikan dukungan penanganan darurat. 
+
+Melansir Detik berikut ini adalah sejumlah fakta bergeraknya lempeng bumi di Pulau Sulawesi yang terjadi pada <TIMEX3 tid="t4" type="TIME" value="2018-09-28TNI">Jumat (28/9/2018) malam</TIMEX3>:1. 
+
+Disebabkan Bergeraknya Sesar Palu-KoroSesar Palu-Koro adalah patahan kerak bumi yang terbentang dari Teluk Palu hingga ke Lembah Koro. 
+
+Ini adalah sesar aktif yang melewati Kota Palu, Toraja, Poso, dan Teluk Bone. 
+
+Gempa bermagnitudo 7,4 di Donggala disebabkan oleh pergerakan Sesar Palu-Koro. 
+
+Pergerakannya adalah sesar mendatar (slike-slip). 
+
+Artinya, antara lempeng bumi satu dan lempeng bumi lain bergerak sejajar. 
+
+Dengan memperhatikan lokasi episenter dan kedalaman hiposenter, gempa bumi yang terjadi merupakan jenis gempa bumi dangkal akibat aktivitas Sesar Palu-Koro, demikian pernyataan Deputi Bidang Geofisika BMKG Muhamad Sadly dalam keterangannya, <TIMEX3 tid="t5" type="DATE" value="2018-09-28">Jumat</TIMEX3> (28/9/2018).2. 
+
+Mungkin Terpicu Gempa SebelumnyaKepala BMKG Dwikorita Karnawati menjelaskan gempa di Kabupaten Donggala yang bermagnitudo 7,4 pada <TIMEX3 tid="t6" type="TIME" value="2018-09-28T17:02">pukul 17.02 WIB</TIMEX3> bukanlah gempa susulan dari gempa sebelumnya, yakni yang terjadi <TIMEX3 tid="t7" type="TIME" value="2018-09-28T14:00">pukul 14.00 WIB</TIMEX3> dengan Magnitudo 6.Keduanya punya pusat gempa yang berbeda. 
+
+Namun, gempa berkekuatan 7,4 Magnitudo itu bisa jadi dipicu oleh gempa 6 Magnitudo sebelumnya. 
+
+Tapi gempa bermagnitudo 6 itu bisa memicu terjadinya gempa 7,4 Magnitudo karena pusat gempanya berdekatan, tapi masih perlu kami kaji lagi, kata Dwikorita dalam jumpa pers di kantor BMKG Yogyakarta, <TIMEX3 tid="t8" type="DATE" value="2018-09-28">Jumat</TIMEX3> (28/9/2018).3. 
+
+Mengakibatkan Tsunami di PaluPascagempa bermagnitudo 7,4 di Donggala, tsunami terjadi dan menerjang Kota Palu, ibu kota Sulawesi Tengah. 
+
+Ketinggian air sekitar 3 meter. 
+
+Tinggi tsunami sekitar 3 meter, kata Kepala BNPB Sutopo Purwo Nugroho lewat akun Twiter-nya, <TIMEX3 tid="t9" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>.Tsunami diperkirakan terjadi mulai <TIMEX3 tid="t10" type="TIME" value="2018-09-28T17:22">pukul 17.22 WIB</TIMEX3> dan berakhir <TIMEX3 tid="t11" type="TIME" value="2018-09-28T17:36">pukul 17.36 WIB</TIMEX3>. 
+
+Rumah-rumah di Palu hancur diterjang tsunami itu. 
+
+Dampak tsunami belum bisa didata.4. 
+
+Mengakibatkan Tsunami di DonggalaTsunami akibat gempa tak hanya terjadi di Palu. 
+
+Tsunami juga menerjang Donggala, Sulawesi Tengah.Tsunami telah menerjang Pantai Talise di Kota Palu dan pantai di Donggala, kata Sutopo Purwo Nugroho, <TIMEX3 tid="t12" type="DATE" value="2018-09-28">Jumat</TIMEX3> (28/9/2018).5. 
+
+Terasa sampai Pulau KalimantanBerdasarkan penjelasan BMKG, guncangan gempa bumi dirasakan di Palu dan Mapaga pada III SIG (Skala Intensitas Gempa) BMKG, Donggala III SIG BMKG, Gorontalo dan Poso II SIG BMKG, Majene dan Soroako II SIG BMKG, Kendari, Kolaka, Konawe Utara, Bone, dan Sengkang II SIG BMKG, Kalimantan Timur dan Kalimantan Utara II SIG BMKG, Makassar, Gowa, dan Toraja I SIG BMKG.Skala Intensitas Gempa (SIG) BMKG merentang dari I sampai V. 
+
+Skala I paling lemah dan V paling berat menimbulkan kerusakan. 
+
+Ivana 
+</TEXT>
+
+</TimeML>

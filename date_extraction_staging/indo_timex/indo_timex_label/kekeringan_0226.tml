@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0226</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-09-22" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-22</TIMEX3></DCT>
+
+<TITLE>Tiga Bulan Kekeringan</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DURATION" value="P3M">Hampir tiga bulan</TIMEX3> terakhir masyarakat Desa Tengah Padang Kecamatan Talang Empat mengaku mengalami kesulitan mendapatkan air bersih. 
+
+Akibat kemarau mengeringkan sumur warga serta air PDAM yang selama ini tidak mengalir lancar ke rumah masyarakat. 
+
+Warga pun terpaksa mandi dan mencuci pakaian di sungai. 
+
+Namun mereka mengalami penyakit gatal-gatal. 
+
+Karena sebagian warga ternyata ada yang buang air besar di sungai. 
+
+Selan itu, air sungai juga telah terpapar oleh batu bara. 
+
+Menyikapi kekeringan yang menyulitkan masyarakat itu, Pemerintah Daerah (Pemda) Kabupaten Bengkulu <TIMEX3 tid="t2" type="DATE" value="2015-09-21">Tengah kemarin (21/9)</TIMEX3> bertempat di Desa Pulau Panggung Kecamatan Talang Empat menyalurkan air bersih ke rumah-rumah warga, dengan menggunakan tanki air milik Badan Penanggulangan Bencana Daerah (BPBD). 
+
+Pembagian air yang langsung dikomandoi oleh Bupati Bengkulu Tengah DR H Ferry Ramli SH MH tersebut berlangsung dari <TIMEX3 tid="t3" type="TIME" value="2015-09-22TMO">pagi</TIMEX3> hingga <TIMEX3 tid="t4" type="TIME" value="2015-09-21TAF">sore hari</TIMEX3>. 
+
+Ini bentuk kepedulian kita, karena akibat kondisi alam, sehingga banyak wilayah yang berdampak pada kekeringan, tegas Bupati Menurutnya, penyaluran air bersih bersifat tentatif, sehingga batas waktunya tidak ditentukan. 
+
+Penyaluran secara rutin dilaksanakan oleh PDAM Tirta Rafflesia, dengan mengoperasionalkan 1 unit mobil tanki setiap harinya. 
+
+Batasnya waktunya sampai <TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">nanti</TIMEX3> dinilai sudah dapat dihentikan penyalurannya, karena kita juga tidak dapat memprediksi batas kekeringannya, ungkap Bupati. 
+
+Penyaluran air bersih sendiri dilaksanakan bertahap oleh Bupati dan Wakil Bupati M Sabri SSOs MM. 
+
+Usai penyaluran air yang dilaksanakan oleh Bupati pada p; agi haro, menjelang <TIMEX3 tid="t6" type="TIME" value="2015-09-21TAF">siang hari</TIMEX3> giliran Wakil Bupati memberikan air bersih yang disedikan PDAM kepada masyarakat yang sudah menunggu sejak <TIMEX3 tid="t7" type="TIME" value="2015-09-22TMO">pagi</TIMEX3>. 
+
+Harapan kita ini dapat membantu warga untuk mendapatkan air bersih, karena memang kondisi alam ini, terang Wabup Marini (40) mengungkapkan, selama kemarau ratusan warga desanya bergantung pada air sungai yang melintas di desanya. 
+
+Namun, kualitas air sungai yang diduga kuat sudah tercemar tambang batu bara tersebut membuat masyarakat menderita berbagai penyakit mulai sakit perut, hingga gatal. 
+
+Tidak ada pilihan sumur kering, dan PDAM mati karena tidak ada airnya, ungkap Marini. 
+
+Ia serta ratusan warga Desa Tengah Padang lainnya mengharapkan <TIMEX3 tid="t8" type="DATE" value="2015-SU">musim kemarau</TIMEX3> segera berakhir, sehingga masyarakat tidak lagi kesulitan mendapatkan sumber air bersih. 
+
+Kalau keinginan kita segera berakhir segera ada hujan, sehingga semua tidak kesulitan mendapatkan air bersih, tuturnya. 
+
+Saripudin (45) mengungkapkan hal senada. 
+
+Ada beberapa warga di desanya mengalami sakit perut, akibat selama ini mereka beraktifitas seperti mandi dan mencuci di sungai. 
+
+Seluruh warga dari awal hingga ujung desa ini ke sungai, makanya banyak yang terserang penyakit. 
+
+Warga buang air besar juga di sungai itu, sebab di rumah tidak ada airnya, terang Sarpudin. 
+
+(320) 
+</TEXT>
+
+</TimeML>

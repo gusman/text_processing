@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1055</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-15" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-15</TIMEX3></DCT>
+
+<TITLE>553.500 Liter Air Dijatuhkan untuk Bombardir Api</TITLE>
+
+<TEXT>
+Badan Nasional Penanggulangan Bencana (BNPB) menyebutkan bahwa Satgas Udara gabungan mengerahkan delapan unit helikopter dan pesawat dengan total pengeboman sebanyak 553.500 liter air untuk memadamkan kebakaran hutan dan lahan. 
+
+Sekitar setengah juta liter air dijatuhkan untuk memadamkan titik api, kata Kepala Pusat Data Informasi dan Humas BNPB, Sutopo Purwo Nugroho di Jakarta, <TIMEX3 tid="t1" type="DATE" value="2015-10-15">Kamis (15/10)</TIMEX3>. 
+
+Kedelapan angkutan udara tersebut, antara lain tiga unit pesawat Air tractor, Bombardier CL 415 Pelican, Hercules C130 Bomber 132, helikopter MI 8, Bolkow 105, dan Chinook Mustang 93. 
+
+Hercules Bomber 132 merupakan jenis pesawat yang mampu mengangkut hingga 15.000 liter air, kata Sutopo Purwo Nugroho menambahkan. 
+
+Dia menjelaskan, pengeboman atau water bombing ini difokuskan di Indralaya, Simpang Tiga Sakti, Padang Sugihan, Pedamaran, Cengal dan Air Sugihan. 
+
+Satgas Udara gabungan, tambah dia, dibantu pihak asing yakni dari Australia, Malaysia dan juga Singapura guna mengoptimalkan operasi pemadaman api dan mengurangi sebaran kabut asap. 
+
+Jumlah hotspot yang turun drastis tidak menghentikan upaya Pos Komando Satgas untuk terus melakukan operasi pemadaman api dan asap, katanya. 
+
+Selain operasi Satgas Udara, kata Sutopo, Satgas Darat juga melakukan pemadaman dan pendinginan atau mopping up di area terbakar dan berasap. 
+
+BNPB berharap berbagai upaya tersebur dapat mengoptimalkan upaya pemadaman api dan mengurangi kabut asap. 
+
+Kita berharap operasi ini akan memberikan hasil yang optimal, katanya. 
+
+(*/lek) Sumber: 
+</TEXT>
+
+</TimeML>

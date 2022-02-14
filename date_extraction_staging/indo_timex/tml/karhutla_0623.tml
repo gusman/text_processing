@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0623</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-10-10" temporalFunction="false" functionInDocument="CREATION_TIME">2014-10-10</TIMEX3></DCT>
+
+<TITLE>Hutan di Tarakan Terbakar</TITLE>
+
+<TEXT>
+Musim kemarau yang kini mulai melanda Kota Tarakan memicu kebakaran lahan dan hutan, sedikitnya satu setengah hektar lahan dan hutan di kawasan gunung Kelurahan Juwata Kerikil, Kecamatan Tarakan Utara ludes terbakar.
+
+Kebakaran yang terjadi kamis malam (09/10/14) diduga akibat musim kemarau yang melanda Kota Tarakan dalam satu pekan ini, trik matahari yang cukup panas membuat rumput ilalang yang kering di kawasan hutan tersebut menjadi terbakar.
+
+Petugas Pemadam Kebakaran (PMK) Kota Tarakan yang datang kelokasi berusaha memadamkan api dengan di bantu warga mereka melakukan pemadaman dengan cara manual dan peralatan seadanya, ini di karenakan mobil pemadam tidak bisa masuk kawasan yang terbakar.
+
+Menurut warga, sulton, mengatakan dimusim kemarau kawasan hutan ini selalu terbakar, karena disini banyak ditumbuhi rumput ilalang.
+
+(Rz)
+</TEXT>
+
+</TimeML>
+

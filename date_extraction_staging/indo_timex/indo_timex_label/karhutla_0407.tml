@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0407</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-05</TIMEX3></DCT>
+
+<TITLE>Terjadi Beberapa Titik kebakaran Hutan di Jatim, Proses Operasi Pemadaman Terhambat karena Hal Ini</TITLE>
+
+<TEXT>
+Kabut tebal dan angin kencang beberapa kali menghambat operasi pemadaman udara kebakaran hutan oleh BPBD Jatim. 
+
+Kepala Pelaksana BPBD Jatim, Suban Wahyudiono, mengungkapkan ada beberapa titik kebakaran hutan yang terjadi di Jawa Timur. 
+
+<TIMEX3 tid="t1" type="DATE" value="2019-08-04">Minggu (4/8/2019)</TIMEX3>, Suban memimpin langsung operasi padaman yang di wilayah pegunungan Welirang di wilayah Kabupaten Mojokerto. 
+
+Operasi itu merupakan pembasahan yang ada di tujuh titik api di puncak Gunung Arjuno di wilayah Kota Batu yang telah dipadamkan sebelumnya. 
+
+Suban menjelaskan, operasi pemadaman kebakaran tersebut sempat terhenti karena titik api tertutup kabut tebal. 
+
+Namun, setelah kabut tebal terpantau sudah bergeser penyiraman dilakukan kembali. 
+
+" Penyiraman dengan metode water-bombing masih perlu dilakukan karena kepulan asap dan bara api masih terpantau di sebagian wilayah Gunung Arjuno dan Gunung Welirang, " kata Suban, <TIMEX3 tid="t2" type="DATE" value="2019-08-05">Senin (5/8/2019)</TIMEX3>. 
+
+. 
+
+Sebelumnya teridentifikasi tujuh titik api di wilayah tersebut dan telah mendapatkan pemadaman sebanyak satu kali. 
+
+Operasi pemadaman akan kembali digelar pada <TIMEX3 tid="t3" type="DATE" value="2019-08-06">Selasa (6/8/2019)</TIMEX3>, mengingat kru helikopter harus beristirahat setelah menjalani <TIMEX3 tid="t4" type="DURATION" value="P7D">7 hari</TIMEX3> aktifitas penerbangan. 
+
+Selanjutnya, pendinginan juga dilakukan di wilayah pegunungan Panderman Kota Batu yang dipetakan terdapat 1 titik api. 
+
+Pemadaman di wilayah ini dilakukan dengan helikopter yang diterbangkan pada <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">hari yang sama (4/8/2019)</TIMEX3>, <TIMEX3 tid="t6" type="TIME" value="2019-08-04T09:00">pukul 09.00 WIB</TIMEX3>. 
+</TEXT>
+
+</TimeML>

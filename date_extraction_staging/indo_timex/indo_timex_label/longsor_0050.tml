@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0050</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-08" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-08</TIMEX3></DCT>
+
+<TITLE>Bencana Longsor, Diduga Sekeluarga Tewas Tertimbun</TITLE>
+
+<TEXT>
+Hujan lebat yang terjadi pada <TIMEX3 tid="t1" type="DATE" value="2018-12-08">Sabtu (8/12)</TIMEX3> dini hari memicu bencana alam tanah longsor di Gang Taman Beji IV Banjar Sasih, Desa Batubulan, Kecamatan Sukawati. 
+
+Ironisnya bencana tanah longsor kali ini diduga memakan korban jiwa 5 orang. 
+
+Petugas gabungan pun masih melakukan evakuasi pada <TIMEX3 tid="t2" type="TIME" value="2018-12-08">Sabtu pagi</TIMEX3>. 
+
+Adapun korban yang diperkirakan meninggal karena tertimbun longsor merupakan satu keluarga. 
+
+Mereka adalah I Made Oktara Dwi Paguna (30), Ni Made Lintang Ayu Widmerti (31), dan 3 anaknya. 
+
+Proses evakuasi lima korban ini berlangsung cukup lama. 
+
+Bahkan hingga <TIMEX3 tid="t3" type="TIME" value="2018-12-08">Sabtu pagi</TIMEX3> sekitar <TIMEX3 tid="t4" type="TIME" value="2018-12-07T09:30">pukul 09.30</TIMEX3> Wita, baru I Made Oktara Dwi Paguna yang berhasil dievakuasi. 
+
+Untuk istri dan tiga orang anaknya masih tertimbun material longsor dan sedang dievakuasi. 
+
+Proses evakuasi masih berlangsung, dari lima korban baru satu yang dievakuasi, empat korban lainya masih di bawah, ucap Kanit Reskrim Polsek Sukawati Iptu I. 
+
+G. 
+
+N Jaya Winangun. 
+
+.00 Wita. 
+
+Kala itu ia hendak mengaturkan sesajen di tempat suci, tanpa diduga mendapati rumahnya amblas ke pinggir sungai di lokasi tersebut. 
+
+Kejadian ini pun lantas disampaikan ke warga lainnya. 
+
+Selanjutnya petugas gabungan meluncur ke lokasi melakukan evakuasi. 
+
+Hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih dilakukan upaya evakuasi oleh BPBD, Basarnas, Brimobda Polda Bali, personil Polsek Sukawati, Koramil Sukawati dan masyarakat sekitar. 
+
+(Manik Astajaya/balipost) 
+</TEXT>
+
+</TimeML>

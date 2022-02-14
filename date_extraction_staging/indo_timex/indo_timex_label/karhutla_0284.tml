@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0284</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-01" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-01</TIMEX3></DCT>
+
+<TITLE>Lahan Terbakar, Pabrik Gula Rugi 2,5 M</TITLE>
+
+<TEXT>
+Belum <TIMEX3 tid="t1" type="DURATION" value="P1M">sebulan</TIMEX3> usai panen, lahan tebu milik PT. 
+
+Pabrik Gula (PG) sudah kebakaran. 
+
+Tidak tanggung, luas lahan yang terbakar sampai 2 hektar. 
+
+Kerugian pun ditaksir mencapai angka Rp. 
+
+2,5 miliar. 
+
+Kebakaran yang terjadi, <TIMEX3 tid="t2" type="DATE" value="2016-11-30">Rabu (30/11)</TIMEX3>, masih terus dipadamkan. 
+
+Mengingat, jarak antara titik api satu dan lainnya, cukup jauh. 
+
+Tanaman tebu kami sudah mulai banyak terbakar. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kami masih memadamkan yang di Desa Kualalumpur, Paguyaman, Boalemo, kata Staff Khusus Direksi PT. 
+
+PG. 
+
+Gorontalo Abdullah Hayati ketika dikonfirmasi. 
+
+Diceritakannya, pemadaman dilakukan oleh seluruh karyawan rayon II, serta bagiani terkait lainnya, baik menggunakan mobil tangki hingga dengan cara manual. 
+
+setengah <TIMEX3 tid="t4" type="DATE" value="2016-12-01">hari ini</TIMEX3>, sudah hampir 2 hektar ludes terbakar, ungkapnya. 
+
+Dijelaskannya juga, kebakaran lahan milik PT. 
+
+PG sudah mencapai 30 hektar jika ditambah dengan yang <TIMEX3 tid="t5" type="DATE" value="2016-12-01">hari ini</TIMEX3>. 
+
+Sehingga total kerugian yang ditaksir, mencapai Rp. 
+
+2,5 miliar. 
+
+Dan <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, kasus kebakaran tersebut sudah diadukan ke Polres Boalemo, yang mulai melakukan olah tempat kejadian perkara. 
+
+(rg-34) 
+</TEXT>
+
+</TimeML>

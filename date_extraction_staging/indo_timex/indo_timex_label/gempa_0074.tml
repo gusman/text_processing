@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0074</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-15" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-15</TIMEX3></DCT>
+
+<TITLE>Gempa Bumi Dangkal di Buleleng 5,0 SR, Sarif Trauma Gempa Dahsyat 1976 di Seririt</TITLE>
+
+<TEXT>
+Gempa yang mengguncang wilayah Buleleng pada <TIMEX3 tid="t1" type="DATE" value="2019-11-14">Kamis (14/11)</TIMEX3> membuat seorang warga di Desa Pengastulan, Kecamatan Seririt, Buleleng, Bali, bernama H Muhammad Sarif (73) merasa trauma. 
+
+Ia teringat akan musibah yang pernah terjadi pada <TIMEX3 tid="t2" type="DATE" value="1976">tahun 1976</TIMEX3> silam, yang membuat wilayah Seririt luluh lantak akibat diguncang gempa. 
+
+Dikatakan Sarif, saat gempa terjadi ia sedang berada di rumah. 
+
+Panik pun sempat ia rasakan ketika sejumlah warga mengatakan bila air laut naik. 
+
+Namun karena <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3> telah memasuki waktu shalat Magrib, ia pun memutuskan untuk tetap menjalani ibadah di salah satu masjid kawasan Desa Pengastulan. 
+
+" Saya sebagai imam di masjid itu. 
+
+Jadi meski telah terjadi gempa, saya tetap harus memimpin umat untuk menjalankan ibadah. 
+
+Anak-anak dan istri saya sudah pergi mengungsi. 
+
+Saya tetap di rumah sudah pasrah saja, " jelasnya. 
+
+Saat disinggung peristiwa pada <TIMEX3 tid="t4" type="DATE" value="1976">tahun 1976</TIMEX3> silam, Sarif mengaku <TIMEX3 tid="t5" type="DATE" value="PAST_REF">saat itu</TIMEX3> ia telah dikaruniai dua orang anak.Akibat musibah <TIMEX3 tid="t6" type="DATE" value="PAST_REF">saat itu</TIMEX3>, ipar dan kakaknya tewas tertimpa menara masjid. 
+
+// " Saya sebenarnya sangat trauma dengan kejadian tahun 76. 
+
+Rumah saya <TIMEX3 tid="t7" type="DATE" value="PAST_REF">saat itu</TIMEX3> hancur, rata dengan tanah. 
+
+<TIMEX3 tid="t8" type="DATE" value="PAST_REF">Saat itu</TIMEX3> saya hanya bisa tidur di pantai. 
+
+Ya mudah-mudahan kejadian serupa tidak terulang lagi, " terangnya. 
+
+Sarif bersyukur gempa berkekuatan 5.0 SR yang terjadi <TIMEX3 tid="t9" type="DATE" value="2019-11-14">kemarin</TIMEX3> tak sampai berdampak buruk seperti <TIMEX3 tid="t10" type="DATE" value="1976">tahun 1976</TIMEX3>. 
+
+Pun tak ada laporan korban jiwa pada gempa <TIMEX3 tid="t11" type="DATE" value="2019-11-14">kemarin</TIMEX3>. 
+
+Selain tiga bangunan rusak, ada dua korban luka-luka. 
+
+Dari data yang diterima Tribun Bali, dua warga asal Kecamatan Gerokgak harus dilarikan ke Puskesmas I Gerokgak lantaran mengalami luka robek. 
+
+Dokter jaga Puskemas I Gerokgak, I Komamg Yogi Arta, mengatakan korban pertama bernama Ni Putu Sri (49) asal Kecamatan Gerokgak. 
+
+Ia mengalami luka robek sepanjang enam centimeter pada bagian tangan kanan. 
+
+Luka robek ini ia dapatkan saat hendak lari ke luar dari rumah untuk menyelamatkan diri. 
+
+Saat lari itu tangannya tergores besi hingga robek. 
+
+// Ia pun langsung dilarikan oleh keluarga ke Puskesmas I Gerokgak untuk menjalami perawatan. 
+
+Sementara korban kedua ialah Rajenah asal Desa Patas, Kecamatan Gerokgak. 
+
+Wanita berusia <TIMEX3 tid="t12" type="DATE" value="UNKNOWN">52 tahun ini</TIMEX3> mengalami luka robek pada bagian bibir sepanjang dua centimeter. 
+
+" <TIMEX3 tid="t13" type="DATE" value="PAST_REF">Saat itu</TIMEX3> dia (Rajenah) sedang lari, namun kemudian tersandung dan jatuh. 
+
+Bibirnya robek, " terangnya. 
+
+Saat dilarikan ke rumah sakit, kata dr Yogi, Rajenah dalam keadaan syok. 
+
+Tensinya naik hingga 170. 
+
+Setelah mendapatkan penanganan, kedua korban <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">kini</TIMEX3> telah diperbolehkan pulang. 
+
+" Setelah diberi obat dan dijahit, lagi <TIMEX3 tid="t15" type="DURATION" value="P2D">dua hari</TIMEX3> mereka kembali ke sini untuk kontrol dan membersihkan luka, " terangnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

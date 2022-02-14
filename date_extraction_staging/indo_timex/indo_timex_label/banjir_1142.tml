@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1142</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-05-22" temporalFunction="false" functionInDocument="CREATION_TIME">2017-05-22</TIMEX3></DCT>
+
+<TITLE>Akses Jalan Terputus, Ribuan Warga Bersama BPBD, TNI dan Polisi Goro Buka Jalan Baru</TITLE>
+
+<TEXT>
+Ribuan warga Muaro Silokek dan Durian Gadang Sijunjung bersama anggota BPBD, TNI dan Polisi, sejak <TIMEX3 tid="t1" type="TIME" value="2017-05-21TMO">Minggu (21/5) pagi</TIMEX3> hingga <TIMEX3 tid="t2" type="TIME" value="2017-05-21TAF">sore</TIMEX3> saling bahumembahu melaku gotoroyong (Goro) membuka akses jalan baru. 
+
+Goro masal ini dilakukan karena akses jalan dari dan ke Silokek dan Durian Gadang terputus akibat bencana. 
+
+Sejak terputus jalan tersebut akses jalan kabupaten itu tak bisa dilewati, kata, Hardiwan, S. 
+
+IP, Kepala Badan Penanggulangan Bencana Daerah (BPBD) Sijunjung pada Jurnal Sumbar, <TIMEX3 tid="t3" type="TIME" value="2017-05-21TNI">Minggu (21/5) malam</TIMEX3>. 
+
+Akibat banjir yang terjadi <TIMEX3 tid="t4" type="DATE" value="UNKNOWN">pekan lalu itu</TIMEX3> membuat akses jalan terputus hampir satukilometer. 
+
+Sejumlah nagari pun terisolasi. 
+
+Lantaran akses jalan terputus terpaksa warga melalui jalan Paru dan Aieangek yang jarak tempugnya mencapai 42 kilometer yang biasanya hanya ditempuh sekitar 10 kilometer. 
+
+Alhamdallah berkat goro bersama secara manual itu berhasil dibuka akses jalan baru sepanjang 840 meter. 
+
+Lebar jalan dibuka itu satu hingga satu setengah meter. 
+
+Pekerjaannya dilakukan secara manual menggunakan cangkul dan parang. 
+
+Alhamdallah untuk kenderaan roda dua akses jalan baru itu sudah bisa dilalui, kata HardiwanPenanganan pembukaan jalan baru untuk membatu warga dari keitosoliran. 
+
+<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> daerah itu sebagai status darurat bencana sejak <TIMEX3 tid="t6" type="DATE" value="2017-05-15">tanggal 15 Mei</TIMEX3> hingga <TIMEX3 tid="t7" type="DURATION" value="P21D">21 hari</TIMEX3> kedepan. 
+
+Kami juga telah menyampaikan kw BNPB Pusat dibutuhkan dana Rp3 miliar untuk membangun akses jalan baru dalam waktu dekat pihak BNPB Pusat akan meninjau kelapangan, tambah Hardiwan. 
+
+saptarius 
+</TEXT>
+
+</TimeML>

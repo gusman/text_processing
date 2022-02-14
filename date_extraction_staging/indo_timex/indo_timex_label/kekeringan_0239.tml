@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0239</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-12" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-12</TIMEX3></DCT>
+
+<TITLE>Kekeringan Melanda Betungan</TITLE>
+
+<TEXT>
+Akibat lama tidak turun hujan, sejumlah wilayah di Kelurahan Betungan Kota Bengkulu mengalami kekeringan parah. 
+
+Sejumlah warga mengaku <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terpaksa mengkonsumsi lumpur untuk memenuhi kebutuhan hidupnya akan air. 
+
+Ditemui di kediamannya di Jalan Padang Makmur I RT 8 RW 6 Kelurahan Betungan, Eka Epriani (34) kepada Pedoman Bengkulu mengatakan, kekeringan sudah melanda sejak sebelum lebaran Idul Fitri <TIMEX3 tid="t2" type="DATE" value="1436">1436</TIMEX3> Hijriah. 
+
+Sejak itu kami sudah berupaya menggali sumur-sumur lebih dalam, tapi yang keluar justru air lumpur. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> kami terpaksa mengkonsumsi air rawa di tanah milik orang lain, katanya. 
+
+Ia berharap agar Pemerintah Kota Bengkulu memberikan bantuan kepada mereka. 
+
+Bantuan tersebut diharapkan dapat dalam bentuk pengadaan sumur bersama atau droping air secara gratis. 
+
+Warga disini rata-rata belum punya sumur. 
+
+Karena kalau mau pakai sumur, kita harus menggali lebih dari 10 meter untuk mendapatkan air. 
+
+Sementara ekonomi kami pas-pasan, tuturnya. 
+
+Ketua RW 6 Kelurahan Betungan, Burhanuddin, tak menampik hal tersebut. 
+
+Berdasarkan keterangan yang ia terima, kekeringan hampir terjadi di seluruh wilayah yang ia pimpin. 
+
+Memang rata-rata warga kami mengalami kekeringan. 
+
+Namun saya belum merinci berapa kepala keluarga yang terkenda dampak kemarau panjang ini, sampainya. 
+
+Dikonfirmasi mengenai permintaan warga, Direktur Umum Perusahaan Daerah Air Minum (PDAM) Tirta Dharma Kota Bengkulu Sjobirin Hasan menuturkan, pihaknya akan melakukan droping air sebagaimana permintaan warga tersebut. 
+
+Tapi perlu kami tegaskan, ini sebenarnya bukan tugas kami. 
+
+Namun karena Wali Kota Helmi Hasan selalu menekankan pentingnya seluruh lembaga pemerintahan tidak melupakan tanggungjawab sosial masing-masing, maka kami akan melakukan droping air ke kawasan tersebut <TIMEX3 tid="t4" type="TIME" value="2015-10-13TMO">besok pagi</TIMEX3> (12/10/2015), ucapnya. 
+
+Ia mengimbau kepada warga untuk menyediakan alat penampung seperti ember atau baskom di satu titik kumpul. 
+
+Ia memastikan, droping air bersih gratis ini juga berlaku bagi seluruh warga Kota Bengkulu lainnya. 
+
+Kalau ada yang mengalami keluhan yang sama, silahkan hubungi kami atau langsung lapor ke PDAM. 
+
+Kami akan terus melayani masyarakat yang terkena dampak <TIMEX3 tid="t5" type="DATE" value="2015-SU">musim kemarau ini</TIMEX3>. 
+
+<TIMEX3 tid="t6" type="SET" value="P1D">Setiap hari</TIMEX3> kami bisa droping air sebanyak 25.000 liter. 
+
+Jangan saja minta kami kami untuk menggali sumur. 
+
+Karena itu sudah jauh dari tugas kami, tutupnya. 
+
+(Rudi Nurdiansyah) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0795</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>(VIDEO) Ikon Kota Palu, Jembatan Ponulele Hancur Akibat Gempa</TITLE>
+
+<TEXT>
+Gempa berkekuatan 7,7 SR telah menguncang wilayah Palu dan Donggala, Sulawesi Tengah, <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat</TIMEX3> (28/9/2018)Hal tersebut disampaikan oleh akun Twitter Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), infoBMKG, <TIMEX3 tid="t2" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Gempa yang terjadi <TIMEX3 tid="t3" type="TIME" value="2018-09-28T17:02">pukul 17.02 WIB</TIMEX3>. 
+
+Akibat gempa bumi tersebut sejumlah bangunan rusak, satu di antaranya jembatan Ponulele di Kota Palu. 
+
+Diunggah Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho di akun Twitter-nya, jembatan Ponulele tersebut telah hancur akibat gempa. 
+
+Padahal menurut Sutopo jembatan tersebut merupakan ikon kota Palu. 
+
+Jembatan tersebut dilaporkan menghubungkan Donggala Barat dan Donggala Timur. 
+
+Dalam unggahan tersebut, Sutopo membagikan foto jembatan Ponulele sebelum gempa, dimana terlihat jembatan tersebut berdiri kokoh. 
+
+Sementara, usai gempa jembatan itu terlihat telah roboh. 
+
+" Kondisi sebelum dan setelah gempa 7,7 SR di Donggala yang berdampak hancurnya jembatan Ponulele di Kota Palu. 
+
+Sumber gempa berasal dari Sesar Palu Koro yang aktif bergerak dan melintasi Kota Palu, " tulisnya.Sutopo juga mengatakan, permukiman warga setempat juga hancur terbawa tsunami.Simak videonya di atas. 
+
+(Tribun-Video.com/Vika Widiastuti) 
+</TEXT>
+
+</TimeML>

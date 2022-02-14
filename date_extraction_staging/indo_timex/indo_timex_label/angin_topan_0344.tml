@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0344</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-06" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-06</TIMEX3></DCT>
+
+<TITLE>Angin Kencang Bikin Tiga Pohon Tumbang di Jalan Raya Ciwidey Rancabali, Melintang Halangi Jalan</TITLE>
+
+<TEXT>
+Akibat angin kencang tiga pohon tumbang menutupi badan jalan di Jalan Ciwidey Rancabali, Kabupaten Bandung, <TIMEX3 tid="t1" type="DATE" value="2019-12-06">Jumat (6/12/2019)</TIMEX3>. 
+
+Menurut Kapolsek Ciwidey, AKP Ivan Taufik, dalam kejadian tersebut tidak ada korban jiwa atau kendaraan yang tertimpa. 
+
+" Memang sempat menggangu lalu lintas karena pohon melintang menghalangi (pengendara untuk melawati) dari kedua arah, baik yang menuju Rancabali atau sebaliknya, " ujar Ivan, saat dihubungi, tribun jabar, <TIMEX3 tid="t2" type="DATE" value="2019-12-06">Jumat (6/12/2019)</TIMEX3>. 
+
+Ivan mengatakan, <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3> jalan sudah bisa dilalui kembali, karena pohon yang tumbang tersebut telah dibereskan. 
+
+Menurut informasi kejadian tersebut, terjadi <TIMEX3 tid="t4" type="TIME" value="2019-12-05T14:00">sekitar pukul 14.00</TIMEX3>. 
+
+. 
+
+Memang, kata Ivan, pohon tersebut sudah tua dan keropos. 
+
+Akibat diterjang angin cukup keras hingga tumbang. 
+
+" Pohon itu tidak bisa ditebang sebelumnya karena masuk wilayah hutan lindung. 
+
+Untuk lalu lintas <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sudah lancar kembali, " ucapnya. 
+
+
+</TEXT>
+
+</TimeML>

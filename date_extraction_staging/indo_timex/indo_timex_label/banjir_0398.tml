@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0398</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-04-26" temporalFunction="false" functionInDocument="CREATION_TIME">2019-04-26</TIMEX3></DCT>
+
+<TITLE>Terdampak Banjir, Jalan Cililitan Kecil II Jakarta Timur Retak</TITLE>
+
+<TEXT>
+Banjir yang merendam wilayah Kelurahan Cililitan, Kecamatan Kramat Jati sejak <TIMEX3 tid="t1" type="TIME" value="2019-04-26">Jumat (26/4/2019) pagi tadi</TIMEX3> tak hanya memaksa ratusan warga dari lima RW mengungsi. 
+
+Saat banjir berangsur surut, warga justru dibuat kaget karena Jalan Cililitan Kecil II di RW 07 yang jadi satu jalur evakuasi warga ke Jalan Raya Kalibata retak akibat tergerus air. 
+
+Meski termasuk wilayah langganan banjir sejak lama, Ketua RW 07 Noer Ali mengatakan retaknya Jalan Cililitan Kecil II merupakan yang pertama kali terjadi. 
+
+" Ini baru yang pertama, saya juga baru tahu kalau jalanannya retak. 
+
+Mungkin retak karena dari <TIMEX3 tid="t2" type="DATE" value="PAST_REF">dulu</TIMEX3> sering terendam banjir. 
+
+Waktu tahun <TIMEX3 tid="t3" type="DATE" value="2007">2007</TIMEX3> saja ketinggian air pernah sampai 7 meter, " kata Noer di Kramat Jati, Jakarta Timur, <TIMEX3 tid="t4" type="DATE" value="2019-04-26">Jumat (26/4/2019)</TIMEX3>. 
+
+Lantaran masih disibukan mengurus evakuasi dan keperluan logistik warga yang mengungsi, Noer mengaku belum memastikan tindakan yang akan diambil. 
+
+Pasalnya warga khawatir ketinggian air bertambah karena hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">kini</TIMEX3> ketinggian air nyaris satu meter sementara hujan dengan intensitas kecil masih mengguyur. 
+
+" <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> fokus masalah banjir <TIMEX3 tid="t7" type="DATE" value="PAST_REF">dulu</TIMEX3>, karena kalau masih banjir juga kan jalanannya enggak bisa diperbaiki. 
+
+Warga yang terdampak banjir di RW 07 ada banyak, sekitar 1.200 kepala keluarga, " ujarnya.Pantauan TribunJakarta.com, panjang Jalan Cililitan Kecil II sekitar tiga meter dengan lebar dua meter membuat warga harus berhati-hati ketika melangkah agak tak tersandung. 
+
+.258 Jiwa Mengungsi.Noer mengimbau warganya berhati-hati saat melangkah karena PLN sejak <TIMEX3 tid="t8" type="TIME" value="2019-04-26TMO">pagi</TIMEX3> mematikan arus listrik guna mencegah terjadinya korsleting. " Belum tahu kapan nyala lagi listriknya, mungkin baru dinyalain lagi kalau air sudah pasti surutnya. 
+
+Sekitar 40 sentimeter lah, kalau dinyalain <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> takut membahayakan warga juga. 
+
+Kan enggak semua warga mengungsi, " tuturnya. 
+</TEXT>
+
+</TimeML>

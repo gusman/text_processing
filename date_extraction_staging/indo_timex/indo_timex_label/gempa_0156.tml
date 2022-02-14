@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0156</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-27" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-27</TIMEX3></DCT>
+
+<TITLE>Dampak Gempa Ambon Jembatan Merah Putih Retak, 20 Orang Meninggal Dunia</TITLE>
+
+<TEXT>
+Badan Nasional Penanggulangan Bencana (BNPB) mencatat gempa yang mengguncang Kabupaten Maluku Tengah pada <TIMEX3 tid="t1" type="TIME" value="2019-09-26">Kamis (26/9) pagi</TIMEX3> telah menyebabkan kerusakan parah dan korban jiwa. 
+
+Hingga <TIMEX3 tid="t2" type="TIME" value="2019-09-26T18:40">pukul 18.40 WIB</TIMEX3>, korban meninggal mencapai 20 orang. 
+
+Rincian jumlah korban meninggal tersebut di antaranya 3 di Batu Kuda Tial, 1 bayi di Lembah Agro, 6 di Desa Liang, 3 di Desa Waai, 3 di Waisamu, Kabupaten Seram Bagian Barat, dan 4 orang tidak dijelaskan lokasinya. 
+
+Total korban meninggal dunia akibat gempa bumi 6.8 M sebanyak 20 orang, kata Plt Kapusdatinmas BNPB, Agus Wibowo, dalam keterangannya, <TIMEX3 tid="t3" type="TIME" value="2019-09-26TAF">Kamis (26/9) sore</TIMEX3>. 
+
+Gempa dengan magnitudo 6,8 kemudian dimutakhirkan menjadi 6,5 di wilayah Maluku itu juga membuat retak sambungan Jembatan Merah Putih, rusaknya sejumlah gedung di Universitas Pattimura. 
+
+Pusat Pengendali Operasi (Pusdalops) BNPB juga mencatat terjadi kerusakan pada jalan utama menuju dermaga feri, bangunan warga, tempat ibadah hingga pusat perbelanjaan. 
+
+Hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> Badan Nasional Penanggulangan Bencana (BNPB) terus melakukan pemutakhiran dampak pascagempa, kata Agus Wibowo. 
+
+Agus menyebutkan pihaknya melalui Badan Penanggulangan Bencana Daerah juga terus berupaya menyosialisasikan kepada warga untuk tetap tenang. 
+
+Selain itu pihaknya bersama mitra di daerah melakukan upaya penanganan darurat terhadap para korban terdampak. 
+
+Gempa bermagnitude 6.8 (kemudian dimutakhirkan menjadi 6,5) mengguncang wilayah Maluku pada <TIMEX3 tid="t5" type="DATE" value="2019-09-26">Kamis (26/9)</TIMEX3>, <TIMEX3 tid="t6" type="TIME" value="2019-09-26T06:46">pukul 06.46 WIB</TIMEX3>. 
+
+Badan Meteorologi, Klimatologi dan Geofisika (BMKG) merilis parameter gempa terjadi pada 40 km timur laut Ambon Maluku dengan kedalaman 10 km. 
+
+BMKG merilis tidak adanya potensi tsunami. 
+
+Berdasarkan informasi BMKG, gempa bumi dirasakan di wilayah Ambon dan Kairatu pada skala intensitas V MMI, di Paso II-III MMI dan Banda II MMI. 
+
+BMKG merilis bahwa berdasarkan hasil pemodelan gempa tersebut tidak berpotensi tsunami. 
+
+Selanjutnya BMKG juga merilis terjadinya gempa susulan dengan parameter M 5.6. 
+
+Gempa susulan tersebut terjadi pada <TIMEX3 tid="t7" type="TIME" value="2019-09-26T07:39">pukul 07.39 WIB</TIMEX3> dengan parameter 18 km timur laut Ambon Maluku dengan kedalaman 10 km. 
+
+BNPB mengimbau warga selalu waspada terhadap gempa-gempa susulan dan tidak terpancing dengan informasi palsu yang dapat menimbulkan kepanikan maupun ketakutan. 
+
+Pastikan memperoleh informasi resmi, seperti yang bersumber dari pemerintah daerah setempat dan BMKG. 
+
+Gempa susulan ini terjadi setelah gempa berkekuatan magnitudo (M) 6,5 yang diduga kuat dipicu aktivitas sesar Kairatu pada <TIMEX3 tid="t8" type="TIME" value="2019-09-26T06:46">pukul 06.46 WIB</TIMEX3>. 
+
+Kepala Bidang Mitigasi Gempa Bumi dan Tsunami Badan Meteorologi Klimatologi dan Geofisika (BMKG) Daryono dalam keterangan tertulis yang diterima di Jakarta mengatakan, dari hasil monitoring terdeteksi aktivitas gempa bumi susulan atau aftershocks dengan magnitudo terbesar 5,6 dan yang terkecil M 3.0. 
+
+Adapun gempa susulan yang guncangannya signifikan dan dirasakan masyarakat terjadi empat kali. 
+
+Gempa susulan M 3.2 pada <TIMEX3 tid="t9" type="TIME" value="2019-09-26T09:41">pukul 09.41 WIB</TIMEX3>, gempa M 4.0 <TIMEX3 tid="t10" type="TIME" value="2019-09-26T10:37">pukul 10.37 WIB</TIMEX3>, gempa M 3.7 pada <TIMEX3 tid="t11" type="TIME" value="2019-09-26T10:50">pukul 10.50 WIB</TIMEX3>, serta gempa M 4.0 yang terjadi pada <TIMEX3 tid="t12" type="TIME" value="2019-09-26T12:28">pukul 12.28 WIB</TIMEX3>.Dampak guncangan gempa utama <TIMEX3 tid="t13" type="TIME" value="2019-09-26TMO">Kamis pagi</TIMEX3> yang mencapai skala intensitas V hingga VI MMI di Ambon, Haruku dan Kairatu, menurut dia, telah menimbulkan kerusakan rumah di beberapa tempat dan beberapa orang mengalami luka-luka. 
+
+Pembangkit gempa itu diduga kuat adalah struktur sesar yang melintas di wilayah Kecamatan Kairatu Selatan. 
+
+Dalam peta tektonik Pulau Seram tampak struktur sesar ini berarah barat daya-timur laut. 
+
+Sesar ini juga memiliki pergerakan mendatar-mengiri atau sinistral strike-slip. 
+
+Sayangnya struktur sesar yang melintas di Kairatu Selatan itu belum memiliki nama, sehingga untuk memudahkan menyebutnya dapat kita namai Sesar Kairatu, kata Daryono.Dari hasil monitoring tersebut BMKG juga mendapati ternyata sebelum terjadi gempa M 6,5 Kamis <TIMEX3 tid="t14" type="TIME" value="2019-09-27TMO">pagi</TIMEX3>, tampak di Kairatu Selatan sudah terjadi sejumlah rentetan aktivitas gempa pembuka (foreshocks) berkekuatan kecil sejak <TIMEX3 tid="t15" type="DATE" value="2019-08-27">sekitar sebulan lalu</TIMEX3>. 
+
+Peta seismisitas Maluku menunjukkan bahwa di sekitar episenter gempa <TIMEX3 tid="t16" type="TIME" value="2019-09-26TMO">Kamis pagi</TIMEX3> terdapat klaster aktivitas gempa dengan magnitudo antara 1,5 hingga 3,5 sebanyak 30 kali sejak <TIMEX3 tid="t17" type="DATE" value="2019-08-28">28 Agustus 2019</TIMEX3> hingga <TIMEX3 tid="t18" type="DATE" value="2019-09-25">25 September 2019</TIMEX3>.Hal ini membuat gempa ini menjadi contoh nyata mengenai keberadaan Gempa Tipe 1 menurut Kiyoo Mogi (1963) ahli gempa Jepang, yaitu tipe gempa utama yang didahului oleh gempa pendahuluan atau pembuka dan selanjutnya diikuti oleh serangkaian gempa susulan. 
+
+Harapan kami, semoga gempa susulan terus meluruh energinya dan kondisi kembali normal, ujar dia.(bis) 
+</TEXT>
+
+</TimeML>

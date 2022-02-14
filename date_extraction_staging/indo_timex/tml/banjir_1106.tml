@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1106</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-09-09" temporalFunction="false" functionInDocument="CREATION_TIME">2017-09-09</TIMEX3></DCT>
+
+<TITLE>Jalan Tergenang Banjir, Warga Nekat Terobos Banjir</TITLE>
+
+<TEXT>
+Hujan yang mengguyur Kota Padang sejak siang membuat beberapa ruas jalan tergenang.
+
+Salah satunya di Jalan Hercules, Dadok, Tunggul Hitam ini.
+
+Di Jondol Rawang, Mato Air Kecamatan Padang Selatan, banjir menggenangi jalan hingga setinggi perut orang dewasa.
+
+Namun, beberapa orang tetap nekad menerobos banjir.
+
+Sedangkan di Dadok Tunggul Hitam, ketinggian air mencapai setinggi lutut orang dewasa.
+
+Bahkan beberapa rumah pun ikut tergenang.
+
+Beberapa yang tidak sabar menunggu genangan banjir hingga surut memaksakan kendaraanya untuk melewati banjir.
+
+Alhasil, banyak dari kendaraan mereka yang harus mati di tengah genangan banjir.
+
+Ermon, warga Jalan Hercules, Dadok Tunggul Hitam, .
+
+menurutnya, banjir ini disebabkan debit air yang tidak tertampung lagi oleh drainase.
+
+"Kita berharap hujan segera berhenti.
+
+Jadi, banjirnya juga bisa surut, " paparnya.
+
+(h/isr)
+</TEXT>
+
+</TimeML>
+

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0225</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2013-11-25" temporalFunction="false" functionInDocument="CREATION_TIME">2013-11-25</TIMEX3></DCT>
+
+<TITLE>Sinabung Meletus, 12.300 Jiwa Diungsikan</TITLE>
+
+<TEXT>
+Aktivitas Gunung Sinabung, Sumatera Utara, terus mengalami peningkatan. 
+
+Bahkan, sejak <TIMEX3 tid="t1" type="TIME" value="2013-11-23TNI">Sabtu (23/11) malam</TIMEX3> hingga <TIMEX3 tid="t2" type="TIME" value="2013-11-24">Minggu (24/11) pagi</TIMEX3>, Sinabung telah delapan kali meletus. 
+
+Juru Bicara BNPB Sutopo Purwo Nugroho menjelaskan erupsi pertama terjadi <TIMEX3 tid="t3" type="TIME" value="2013-11-23T21:26">Sabtu pukul 21.26</TIMEX3>. 
+
+Suara dan getaran terdengar hingga pos yang berjarak delapan kilometer dari Gunung Sinabung dengan durasi <TIMEX3 tid="t4" type="DURATION" value="PT2M">dua menit</TIMEX3>. 
+
+Jatuhan lapili (batu kecil seukuran 0.5 1 cm) jatuh di Desa Sukanalu, Sigarang-garang, Kuta Tunggal, dan Lau Kawar. 
+
+Amplituda letusan over scale selama <TIMEX3 tid="t5" type="DURATION" value="PT3M">3 menit</TIMEX3>, dan gunung tertutup kabut, ujarnya, <TIMEX3 tid="t6" type="DATE" value="2013-11-24">Minggu (24/11)</TIMEX3>. 
+
+Erupsi kedua terjadi <TIMEX3 tid="t7" type="TIME" value="2013-11-24T21:38">pukul 21.38</TIMEX3>. 
+
+Yang ketiga <TIMEX3 tid="t8" type="TIME" value="2013-11-24T22:02">pukul 22.02</TIMEX3>, kemudian terjadi erupsi susulan pada <TIMEX3 tid="t9" type="TIME" value="2013-11-24T23:15">23.15</TIMEX3> dengan durasi <TIMEX3 tid="t10" type="DURATION" value="PT67M">67 menit</TIMEX3>. 
+
+Kolom letusan tidak teramati dan arah angin menuju utara-timur laut, katanya. 
+
+Ia menambahkan, erupsi susulan kelima terjadi <TIMEX3 tid="t11" type="TIME" value="2013-11-24T00:45">Minggu (24/11) pukul 00.45</TIMEX3> dengan durasi <TIMEX3 tid="t12" type="DURATION" value="PT10M">10 menit</TIMEX3>. 
+
+Tinggi kolom tidak teramati dan arah angin menuju utara-timur laut, kata dia. 
+
+Menurutnya pula, letusan pertama hingga kelima tidak sebesar yang terjadi pada 18-19 <TIMEX3 tid="t13" type="DATE" value="2013-11">November 2013 lalu</TIMEX3>. 
+
+Tetapi angin ke arah utara-timur laut sehingga terjadi hujan abu vulkanik di Medan dan sekitarnya, katanya. 
+
+Ia melanjutkan, erupsi keenam terjadi <TIMEX3 tid="t14" type="TIME" value="2013-11-24T02:32">pukul 02.32</TIMEX3>. 
+
+Visual tertutup dan durasi letusan <TIMEX3 tid="t15" type="DURATION" value="PT339S">339 detik</TIMEX3>. 
+
+Erupsi ketujuh <TIMEX3 tid="t16" type="TIME" value="2013-11-24T07:35">pukul 07.35</TIMEX3>. 
+
+Terjadi letusan dengan arah angin Timur-Timur laut, dengan suara gemuruh <TIMEX3 tid="t17" type="DURATION" value="PT1M">satu menit</TIMEX3> dan asap letusan 8.000 meter. 
+
+Erupsi ke-8 <TIMEX3 tid="t18" type="TIME" value="2013-11-24T08:55">pukul 08.55</TIMEX3> amplituda maksimal 120 mm. 
+
+Lama erupsi <TIMEX3 tid="t19" type="DURATION" value="UNKNOWN">7,9 menit</TIMEX3>. 
+
+Tinggi abu vulkanik <TIMEX3 tid="t20" type="DATE" value="3000">3000</TIMEX3> m. 
+
+Arah angin timur, jelasnya. 
+
+Sutopo menerangkan adanya rekomendasi dari PVMBG Badan Geologi pada <TIMEX3 tid="t21" type="TIME" value="2013-11-23TNI">Sabtu malam</TIMEX3> agar empat desa harus kosong. 
+
+Yaitu Desa Kutagunggung, Kutarakyat, Sigarang-garang dan Sukanalu. 
+
+Maka evakuasi warga telah dilakukan, katanya. 
+
+Menurutnya, <TIMEX3 tid="t22" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sekitar 12.300 jiwa pengungsi tersebar di 20 pos penampungan. 
+
+Pendataan detil masih dilakukan. 
+
+Masa tanggap darurat diperpanjang lagi hingga <TIMEX3 tid="t23" type="DATE" value="2013-11-30">30 November 2013</TIMEX3>, ungkapnya. 
+
+(jpnn) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0406</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-25" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-25</TIMEX3></DCT>
+
+<TITLE>Kisah Kepala Satpam Berusia 60 Tahun yang Bekerja Hampir 24 Jam Bantu Korban Tsunami Selat Sunda</TITLE>
+
+<TEXT>
+Semua mobil di sini dipindahin, jalan ini untuk ambulans, " kata seorang satpam wanita berumur dengan nada tinggi di area kamar mayat RSUD Pandeglang Banten, <TIMEX3 tid="t1" type="DATE" value="2018-12-23">Minggu 23 Desember 2018</TIMEX3>. 
+
+<TIMEX3 tid="t2" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, wanita bernama Defit Tanfidiyah tengah mensterilkan area kamar mayat untuk memudahkan sirkulasi ambulans yang terus hilir mudik di RSUD Pandeglang. 
+
+Setelah tsunami selat sunda menghantam pesisir pantai Banten pada <TIMEX3 tid="t3" type="DATE" value="2018-12-22">Sabtu 22 Desember 2018</TIMEX3>, RSUD Pandeglang menjadi satu di antara rumah sakit tersibuk. 
+
+Korban luka dan korban meninggal dunia terus dilarikan ke Jalan Raya Labuan-Pandeglang, Banten. 
+
+Sirine ambulans terus meraung, datang dan pergi ke rumah sakit ini. 
+
+Sebagai Kepala Satpam, Defit Tanfidiyah menjadi yang paling sibuk, meski usianya sudah menginjak umur <TIMEX3 tid="t4" type="DURATION" value="P60Y">60 tahun</TIMEX3>. 
+
+" Saya terakhir makan <TIMEX3 tid="t5" type="DATE" value="2018-12-24">kemarin</TIMEX3> (<TIMEX3 tid="t6" type="DATE" value="2018-12-23">Minggu 23 Desember</TIMEX3> 2018), <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> ngga nafsu, " kata Defit saat ditemui di Posko Security RSUD Pandeglang, <TIMEX3 tid="t8" type="DATE" value="2018-12-24">Senin (24/12/2018)</TIMEX3>. 
+
+Defit merasakan hal itu akibat sering berada di kamar mayat, " karena aromanya di kamar jenazah, <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> saya coba makan langsung mual. 
+
+" RSUD Pandeglang memang tidak memiliki pendingin untuk menyimpan jenazah, aroma tidak sedap dari kantong-kantong jenazah pun tidak bisa dihindarkan di area Kamar Mayat. 
+
+Ketika ditemui di Posko Security, Defit mencoba untuk beristirahat <TIMEX3 tid="t10" type="DURATION" value="PXX">sejenak</TIMEX3> dengan makan <TIMEX3 tid="t11" type="TIME" value="2018-12-24TAF">siang</TIMEX3>, akan tetapi dirinya tetap sibuk memonitor anak buahnya. 
+
+// Meski menjadi petugas yang sigap, Defit adalah mantan guru yang juga pegawai negeri sipil (PNS). 
+
+Masa tuanya <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">kini</TIMEX3> disibukkan menjadi kepala satpam yang baru ia geluti <TIMEX3 tid="t13" type="DATE" value="UNKNOWN">satu tahun ini</TIMEX3>. 
+
+Tawaran menjadi satpam ia terima setelah mengetahui bagaimana kondisi RSUD Pandeglang sebelum dipegang dirinya. 
+
+" Kalau <TIMEX3 tid="t14" type="DATE" value="PAST_REF">dulu</TIMEX3> di sini kaya pasar, pedagang masuk-masuk ke dalam. 
+
+Setelah saya masuk, saya keluarin banyak satpam yang suka main-main begitu, " ucapnya. 
+
+Defit yang akrab dipanggil Mamah mengaku dirinya adalah jebolan S3 Sumber Daya Manusia yang memilih mengabdi untuk kepentingan umum dengan menjadi kepala satpam. 
+
+" Siapa yg mau kotor-kotoranan, tapi kalau bagi Mamah itu kerjaan mulia, " imbuhnya. 
+
+Gelombang tsunami yang meluluh lantakan pesisir Banten itu membuat seluruh petugas bekerja ekstra selama <TIMEX3 tid="t15" type="DURATION" value="PT24H">hampir 24 jam</TIMEX3>. 
+
+" <TIMEX3 tid="t16" type="DATE" value="2018-12-24">Kemarin</TIMEX3> ada instruksi siapkan tempat untuk 20 jenazah, taunya sampai 82 lebih, kita kewalahan sampai ditaruh di luar-luar akhirnya, " kata Defit yang sudah memiliki dua cucu.Defit menceritakan, sampai <TIMEX3 tid="t17" type="TIME" value="2018-12-24T04:00">Senin 24 Desember pukul 04.00 WIB</TIMEX3> keadaan baru lengang, sebagian jenazah yang berhasil diidentifikasi sudah dijemput oleh keluarganya.Wanita asli Pandeglang itu membocorkan resepnya agar dapat terus dapat bekerja maksimal di usia senjanya. 
+
+" Vitaminnya satu, ikhlas. " Setelah mencoba makan beberapa suap, Defit segera mengambil handy talky dan kembali bekerja melanjutkan tugasnya.Dari data Badan Nasional Penanggulangan Bencana (BNPB), data terbaru korban tsunami Selat Sunda mencapai 373 orang meninggal dunia, 1.459 orang luka-luka, dan 128 orang hilang. 
+</TEXT>
+
+</TimeML>

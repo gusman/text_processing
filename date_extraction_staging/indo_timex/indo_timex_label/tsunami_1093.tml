@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1093</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-27" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-27</TIMEX3></DCT>
+
+<TITLE>Ifan Kenang Kebiasaan Istrinya</TITLE>
+
+<TEXT>
+Banyak kenangan Ifan Seventeen dengan sang istri Dylan Sahara yang meninggal karena bencana tsunami di Tanjung Lesung, Banten. 
+
+Ifan mengenang sebuah kebiasaan mendiang istrinya semasa hidup. 
+
+Menurutnya, istrinya itu sangat suka mengabadikan berbagai momen kebersamaan. 
+
+Foto tersebut terlihat sudah diedit dengan tambahan tulisan layaknya sebuah meme. 
+
+Tulisan pertama yakni udeh kali foto-fotonya zzz di dekat pose Ifan Seventeen. 
+
+Sementara di sisi Dylan terdapat tulisan one more time baby please one more time yang seolah mengungkapkan Dylan sangat suka difoto maupun memoto. 
+
+Menurut Ifan Seventeen, kebiasaan Dylan itu sempat membuatnya kesal. 
+
+Namun momen tersebut <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> menjadi salah satu kenangan tidak terlupakan. 
+
+<TIMEX3 tid="t2" type="DATE" value="PAST_REF">Dulu</TIMEX3> sebel banget rasanya waktu Dylan upload foto ini di Instagram story dia, ternyata <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> foto ini jadi foto dengan momen yang spesial walaupun masih ada nyebelinnya sdikit, ungkap Ifan Seventeen, <TIMEX3 tid="t4" type="DATE" value="2018-12-26">Rabu (26/12)</TIMEX3>. 
+
+Pelantun Selalu Mengalah itu tidak memungkiri Dylan adalah pribadi yang aktif berfoto maupun difoto. 
+
+Bahkan istrinya itu kerap memaksanya untuk berpose atau pun memotretnya. 
+
+Sebagai cewek istriku suka banget foto, selfie atau foto berdua, pasti kalau dia minta selalu maksa, cuma buat cari foto yang OKE, she s willing to do 20 kali foto padahal cuma satu gaya, ujar Ifan Seventeen. 
+
+Seperti diketahui, Dylan Sahara menjadi salah satu korban tsunami Banten, <TIMEX3 tid="t5" type="DATE" value="2018-12-22">Sabtu (22/12)</TIMEX3>. 
+
+Jenazah istri Ifan Seventeen itu telah dimakamkan di Ponorogo, Jawa Timur, <TIMEX3 tid="t6" type="DATE" value="2018-12-25">Selasa (25/12)</TIMEX3>. 
+
+(mg3/dom/jpnn) 
+</TEXT>
+
+</TimeML>

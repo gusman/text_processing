@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1088</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-05-13" temporalFunction="false" functionInDocument="CREATION_TIME">2017-05-13</TIMEX3></DCT>
+
+<TITLE>Garda Pemuda Nasdem Sultra Bantu Korban Banjir di Kali Wanggu</TITLE>
+
+<TEXT>
+Garda Pemuda Nasdem Sultra memberikan bantuan bagi korban banjir yang ada di kota kendari. 
+
+Tampak pengurus Garda Pemuda nasdem Sultra memberikan bantuan kepada korban banjir di Kali Wanggu. 
+
+(M Rasman/Saputra/ZONASULTRA. 
+
+COM) ZONASULTRA. 
+
+COM, KENDARI Garda Pemuda Partai Nasional Demokrat (Nasdem) Sulawesi Tenggara (Sultra) memberikan bantuan kepada korban banjir di seputaran Kali Wanggu, Kelurahan Wowanggu, Kecamatan Baruga, Kota Kendari, <TIMEX3 tid="t1" type="DATE" value="2017-05-13">Sabtu (13/5/2017)</TIMEX3>. 
+
+Ketua DPW Garda Pemuda Nasdem, Arwin mengatakan bantuan kepada korban banjir di Kali Wanggu ini sebagai bentuk kepedulian terhadap masyarakat yang sedang tertimpa bencana. 
+
+Pihaknya berharap bisa meringankan beban warga yang menjadi korban banjir. 
+
+Adapun bantuan yang diberikan pada korban banjir berupa kebutuhan rumah tangga seperti sembako dan beberapa hal lainnya. 
+
+Setelah memberikan bantuan kepada korban banjir di Kali Wanggu, Garda Pemuda Nasdem Sultra juga memberikan bantuan kepada korban banjir di kelurahan lain yang ada di Kota Kendari. 
+
+Kami memberikan bantuan kepada seluruh masyarakat yang tertimpa bencana banjir. 
+
+Ini kami lakukan semata-mata sebagai bentuk kepedulian terhadap masyarakat yang sedang tertimpa bencana, kata dia di lokasi bencana Kali Wanggu. 
+
+Khusus untuk lokasi di Kali Wanggu yang senantiasa sering terjadi bencana banjir, Arwin berharap pemerintah bisa segera menyikapi hal tersebut. 
+
+Sebab banjir di wilayah ini bukan hanya sekali saja terjadi tetapi sudah sangat sering terjadi. 
+
+Arwin menilai normalisasi Kali Wanggu <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> menjadi hal yang harus dijadikan skala prioritas Pemerintah Provinsi Sultra. 
+
+Sehingga masyarakat di seputaran kali Wanggu tidak lagi resah tertimpa banjir ketika curah hujan tinggi. 
+
+Intinya harus ada antisipasi dini terhadap kondisi kali Wanggu <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Sebab yang langsung merasakan dampaknya adalah masyarakat yang bermukim di lokasi tersebut, ujarnya. 
+
+(B) Reporter: M Rasman Saputra Editor: Jumriati 
+</TEXT>
+
+</TimeML>

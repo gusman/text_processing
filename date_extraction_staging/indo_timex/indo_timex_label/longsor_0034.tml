@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0034</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-25</TIMEX3></DCT>
+
+<TITLE>Akses Menuju Kampung Pantan Kemuning dan Kampung Cekal Baru Lumpuh, Material Tanah Tutupi Jalan</TITLE>
+
+<TEXT>
+Tingginya intensitas hujan di Kabupaten Bener Meriah, <TIMEX3 tid="t1" type="DATE" value="2019-10-25">Jumat (25/10/2019)</TIMEX3>, sekira <TIMEX3 tid="t2" type="TIME" value="2019-10-24T17:19">pukul 17.19 WIB</TIMEX3>, mengakibatkan bencana tanah longsor. 
+
+Titik longsor berada di Jalan akses menuju Kampung Pantan Kemuning dengan Kampung Cekal Baru, Kecamatan Timang Gajah, Kabupaten Bener Meriah. 
+
+Kapolres Bener Meriah, AKBP Siswoyo Adi Wijaya, melalui Kapolsek Timang Gajah, Ipda H Selode Ilen SE, saat dihubungi Serambinews. 
+
+com, <TIMEX3 tid="t3" type="TIME" value="2019-10-25TNI">Jumat (25/10/2019) malam</TIMEX3>, membenarkan kejadian tersebut. 
+
+Bencana tanah longsor terjadi sekira <TIMEX3 tid="t4" type="TIME" value="2019-10-24T17:19">pukul 17.19</TIMEX3> Wib, namun tidak ada korban jiwa dalam musibah itu, hanya terdapat satu rumah warga atas nama Nurdin Abd (45), warga Kampung Pantan Kemuning, yang rumahnya mengalami kerusakan di bagian belakang, ujar Ipda H Selode Ilen SE. 
+
+. 
+
+Kapolsek Timang Gajah, telah melakukan koordinasi dengan pihak BPBD Kabupaten Bener Meriah guna menurunkan alat berat untuk membersihkan material tanah yang menutupi badan jalan. 
+
+(*) 
+</TEXT>
+
+</TimeML>

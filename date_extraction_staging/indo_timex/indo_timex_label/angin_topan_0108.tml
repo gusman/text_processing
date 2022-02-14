@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0108</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-10" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-10</TIMEX3></DCT>
+
+<TITLE>Dua Jam Lebih Jalanan Lumpuh Karena Pohon Tumbang</TITLE>
+
+<TEXT>
+Hujan deras disertai angin kencang yang terjadi <TIMEX3 tid="t1" type="DATE" value="2016-12-10">Sabtu (10/12)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2016-12-09T00:05">pukul 00.05</TIMEX3> Wita di Banjarbaru sempat membuat aktivitas perjalanan terganggu khususnya bagi pengendara tujuan Banjarbaru karena pohon tumbang. 
+
+Pertama pohon yang tumbang di depan perusahaan alat berat Kobeksindo sekitar 50 meter sesudah warung tahu Lestari. 
+
+Kemudian disusul di seberang Carsurin pohon tumbang juga. 
+
+Tidak heran jika kondisi itu sampai melibatkan banyak pihak. 
+
+Pasukan Landu Rescue datang ke lokasi langsung berkordinasi dengan pihak kepolisian. 
+
+Dari unit patwal, unit laka, dan unit Sabara Polres Banjarbaru pun datang. 
+
+" Alhamdulillah tugas pengaturan pengalihan jalan yang tertutup oleh pohon tumbang selesai. 
+
+<TIMEX3 tid="t3" type="TIME" value="2016-12-09T04">Sekitar jam 04.25</TIMEX3> Wita sudah bersih dan jalan dapat dilalui kembali dari Banjarbaru arah Banjarmasin, " ucap rekanan Landu rescue Boewo. 
+
+
+</TEXT>
+
+</TimeML>

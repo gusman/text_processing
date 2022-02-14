@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0130</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-03" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-03</TIMEX3></DCT>
+
+<TITLE>Ribuan Warga Pandeglang Kesulitan Air Bersih</TITLE>
+
+<TEXT>
+Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Pandeglang mencatat sebanyak dua ribuan warga Pandeglang di delapan kecamatan mengalami kesulitan air bersih. 
+
+Kondisi itu terjadi selain karena <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau</TIMEX3>, juga akibat tidak adanya sarana air bersih. 
+
+Sekretaris BPBD Kabupaten Pandeglang Fajri Djaffar mengatakan, delapan kecamatan yang dilanda kekeringan itu adalah Kecamatan Bojong, Picung, Munjul, Sindangresmi, Sukaresmi, Angsana, Panimbang, dan Kecamatan Patia. 
+
+Berdasarkan data yang masuk, ada dua ribuan warga yang kesulitan mendapatkan air bersih di delapan kecamatan, katanya kepada Radar Banten di ruang kerjanya, <TIMEX3 tid="t2" type="DATE" value="2019-08-02">kemarin</TIMEX3>. 
+
+Fajri mengatakan, daerah yang mengalami kekeringan paling parah adalah Kecamatan Patia, karena masyarakat yang tinggal di tiga desa di wilayah tersebut kesulitan mendapatkan air bersih. 
+
+Paling parah Patia. 
+
+Kalau di kecamatan lain paling hanya satu atau dua desa. 
+
+Tetapi di Kecamatan Patia sudah ada tiga desa yang terkena dampak kemarau, dan banyak masyarakat yang meminta dikirimkan bantuan air bersih, katanya. 
+
+Fajri mengaku telah menyampaikan surat kepada Bupati Irna Narulita agar segera menetapkan status bencana kekeringan dari siaga menjadi waspada. 
+
+Kita sudah buat suratnya tinggal ditanda tangani saja. 
+
+Karena di Banten ada tiga daerah yang dinyatakan darurat kekeringan, yaitu Kabupaten Pandeglang, Lebak, dan Kabupaten Serang. 
+
+Tetapi setelah diperiksa oleh BNPB, ternyata belum ada kepala daerah yang mengeluarkan status tersebut, katanya. 
+
+Kepala Seksi (Kasi) Kedaruratan Pemadam Kebakaran (Damkar) dan Logistik BPBD Kabupaten Pandeglang Endan Permana mengatakan, untuk menangani persoalan tersebut, instansinya telah melakukan koordinasi dan komunikasi dengan semua pihak terkait. 
+
+Untuk <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih bisa ditangani untuk pengiriman air bersihnya, karena kita salurkan air bersih itu untuk kebutuhan pokok, seperti minum dan memasak, katanya. 
+
+Endan mengaku sudah mengusulkan bantuan penambahan tangki air ke BPBD Provinsi Banten. 
+
+Akan tetapi, kata dia, hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada respons. 
+
+Kalo pengajuan ke Provinsi sudah, tinggal tindaklanjut saja. 
+
+Kita juga enggak tahu kapan bisa diresponsnya, tetapi yang pasti sudah kita sampaikan usulan bantuannya. 
+
+<TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> lah, kita tanyakan lagi mengenai usulan yang kita sampaikan itu, katanya. 
+
+(dib/zis) 
+</TEXT>
+
+</TimeML>

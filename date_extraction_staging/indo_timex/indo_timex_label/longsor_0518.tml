@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0518</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-01-22" temporalFunction="false" functionInDocument="CREATION_TIME">2018-01-22</TIMEX3></DCT>
+
+<TITLE>Talut Ambruk, Satu Rumah Warga di Dongkelan Bantul Terpaksa Dirobohkan</TITLE>
+
+<TEXT>
+Talut penyangga bantaran sungai yang ada di Padukuhan Dongkelan, Kauman, Rt 07, Tirtonirmolo, Kasihan, Bantul ambruk, <TIMEX3 tid="t1" type="DATE" value="2018-01-21">Minggu (21/01/2018)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2018-01-21T03:00">pukul 03.00</TIMEX3> Wib <TIMEX3 tid="t3" type="TIME" value="2018-01-22TMO">dini hari</TIMEX3>. 
+
+Akibatnya, satu bangunan Musala terancam tergerus longsor. 
+
+Longsoran talut yang ambruk ke Sungai Dongkelan juga mengakibatkan satu rumah milik Sumarni terpaksa harus dirobohkan lantaran posisinya berada di bantaran sungai. 
+
+Warga sekitar yang juga merupakan adik Sumarni, Muhammad kurnadis (43), menceritakan, kronologi ambruknya talut merupakan kejadian beruntun yang diakibatkan dari badai Cempaka yang melanda DIY, pada <TIMEX3 tid="t4" type="DATE" value="2017-11">akhir November 2017</TIMEX3> silam. 
+
+" Hujan terus menerus dengan intensitas tinggi membuat rumah kakak saya, Sumarni, retak separuh, dan akhirnya dirobohkan, " ujar Kurniadis, <TIMEX3 tid="t5" type="DATE" value="2018-01-22">Senin (22/01/2018)</TIMEX3>. 
+
+Dikatakan Kurniadis, kakaknya, Sumarni merupakan seorang janda dengan tiga orang anak yang masih sekolah. 
+
+Pascakejadian retakan, menurut beberapa ahli rumah Sumarni sudah tidak layak huni, sehingga akhirnya dirobohkan karena bisa mengancam keselamatan jiwa. 
+
+" Retakannya itu mengarah ke Sungai (Dongkelan) dan sisi timur, " terang dia.Lebih lanjut, Kurniadis menerangkan, karena rumahnya dirobohkan, kakaknya, Sumarni, kemudian menetap dan tinggal <TIMEX3 tid="t6" type="DURATION" value="PXX">sementara waktu</TIMEX3> di Musala yang lokasinya berdekatan dengan rumah miliknya. 
+
+// Namun, belum genap <TIMEX3 tid="t7" type="DURATION" value="P2M">dua bulan</TIMEX3> tinggal di Musala, longsor susulan kembali terjadi di tanah bagian belakang Musala. 
+
+Tampak tanah seluas sekira 5x5 meter persegi yang berada di bagian belakang Musala itu ambruk. 
+
+" Longsoran susulan terjadi hari minggu <TIMEX3 tid="t8" type="TIME" value="2018-01-22TMO">dini hari</TIMEX3> sekira <TIMEX3 tid="t9" type="TIME" value="2018-01-21T03:00">pukul 03.00 WIB</TIMEX3>, " jelasnya. 
+
+Ia menuturkan, sebenarnya kekhawatiran akan muncul longsor susulan sudah ada ketika longsor pertama <TIMEX3 tid="t10" type="DATE" value="2017-12-22">bulan lalu</TIMEX3>. 
+
+Namun, lantaran minimnya biaya perbaikan, longsoran talut itu dibiarkan saja dan akhirnya <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> merembet hingga bagian belakang Musala. 
+
+" Kami takut jika tidak segera dibenahi <TIMEX3 tid="t12" type="DATE" value="FUTURE_REF">nanti</TIMEX3> bisa merembet ke bangunan Musala, " ujar dia. 
+
+Ditambahkan warga sekitar, Hanuji (34) mengatakan, pihaknya sangat menunggu peran pemerintah untuk mengucurkan bantuan demi meringankan beban yang dialami Sumarni. 
+
+Mengingat, Sumarni merupakan seorang janda dengan tiga orang anak yang masih sekolah. 
+
+" Pemerintah seharusnya bisa memberikan bantuan. 
+
+Kondisinya sudah sangat memprihatinkan, " ungkapnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

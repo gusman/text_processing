@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0723</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-09-24" temporalFunction="false" functionInDocument="CREATION_TIME">2017-09-24</TIMEX3></DCT>
+
+<TITLE>Solidaritas Komunitas Juru Masak Turun Tangan Bantu Korban Erupsi Gunung Agung</TITLE>
+
+<TEXT>
+Atas nama solidaritas kemanusiaan, ratusan relawan bekerja untuk menyiapkan kebutuhan makanan para pengungsi Gunung Agung di Kabupaten Klungkung.
+
+Komunitas dari chef atau juru masak profesional juga ikut turun tangan, menyiapkan gizi terbaik untuk para pengungsi.
+</TEXT>
+
+</TimeML>
+

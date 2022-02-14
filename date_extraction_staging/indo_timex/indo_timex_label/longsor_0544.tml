@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0544</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-03" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-03</TIMEX3></DCT>
+
+<TITLE>Longsor Hantam Rumah dan Sekolah di Karimata</TITLE>
+
+<TEXT>
+Camat Kepulauan Karimata, Kamarudin mengatakan rumah yang dihantam longsor di Desa Betok Jaya, Kepulauan Karimata, ludes tertimpa tanah. 
+
+Sementara, gedung SMPN 04 Kepulauan Karimata yang juga terkena bencana alam itu hanya mengalami kerusakan di satu ruangan. 
+
+Menurut Kamarudin, sebenarnya ada dua rumah yang tertimpa longsor. 
+
+Hanya memang, satu rumah lainnya tidak rusak parah. 
+
+Kalau sekolah itu ada satu ruangan udah dimasuki lumpur, pasir, sama tanah. 
+
+Cuma ndak sampai roboh, kata Kamarudin saat dihubungi, <TIMEX3 tid="t1" type="DATE" value="2019-05-31">Jumat (31/5)</TIMEX3>. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, kata Kamarudin, korban yang menempati rumah tersebut telah mengungsi ke rumah sanak saudaranya. 
+
+Ketika ditanyai berapa orang warga yang menempati rumah tersebut, Kamarudin mengaku belum mendapat informasi terkait itu. 
+
+Kita mau konfirmasi <TIMEX3 tid="t3" type="DATE" value="PAST_REF">dulu</TIMEX3>, soalnya ini saya lagi di Ketapang mau kirim bantuan untuk korban kesana, ujar Kamarudin. 
+
+(lud) 
+</TEXT>
+
+</TimeML>

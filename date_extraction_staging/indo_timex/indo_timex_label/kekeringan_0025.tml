@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0025</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-19" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-19</TIMEX3></DCT>
+
+<TITLE>Seruan Berdoa Saat Bumi Terpanggang</TITLE>
+
+<TEXT>
+KEKERINGAN akibat kemarau yang mendera sebagian besar wilayah Aceh telah menimbulkan penderitaan bagi masyarakat. 
+
+Data sementara yang dihimpun Serambi, ribuan hektare sawah terancam gagal panen bahkan sumur mulai mengering di beberapa permukiman penduduk. 
+
+Ormas Islam di Aceh Tenggara seperti Badan Komunikasi Pemuda Remaja Masjid Indonesia (BKPRMI), Himpunan Mahasiswa Islam (HMI), dan Pimpinan Pesantren Tarbiyah Auladil Muslimin, meminta kepada Bupati Agara untuk menggelar shalat minta hujan atau istisqa. 
+
+Ketua BKPRMI Agara, Sukarman, kepada Serambi, <TIMEX3 tid="t1" type="DATE" value="2018-02-17">Sabtu (17/2)</TIMEX3> mengatakan, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kita dilanda kekeringan dan kalau kondisi ini terus berlanjut maka akan terjadi bencana besar akibat gagal panen. 
+
+Kepala Dinas Pertanian Aceh Tenggara, Ramli Desky SP mengatakan pihaknya sudah menugaskan penyuluh untuk mendata lahan pertanian yang mengalami kekeringan dan terancam gagal panen. 
+
+Kita berdoa saja semoga hujan cepat turun, ujar Ramli. 
+
+Ketua MPU Aceh Utara, Tgk H Abdul Manan atau yang lebih dikenal Abu Manan Blang Jruen yang ditanyai Serambi tentang tata cara shalat minta hujan mengatakan, sebelum melaksanakan shalat istisqa harus berpuasa <TIMEX3 tid="t3" type="DATE" value="PAST_REF">dulu</TIMEX3> selama <TIMEX3 tid="t4" type="DURATION" value="P3D">tiga hari</TIMEX3>. 
+
+Shalat minta hujan lebih baik dilakukan bersama-sama oleh masyarakat di areal persawahan, kata Abu Manan. 
+
+Abu Manan juga menyebutkan jika memang belum juga turun hujan setelah warga melaksanakan shalat istisqa, harus melakukan hal serupa lagi dan terus menggelar doa secara bersama-sama, tidak hanya di kecamatan tapi di banyak tempat. 
+
+Ini bisa jadi teguran atau peringatan dari Allah Swt. 
+
+Kondisi ini juga pernah terjadi sebelumnya bahkan lebih parah, demikian Abu Manan. 
+
+(jaf) 
+</TEXT>
+
+</TimeML>

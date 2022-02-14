@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0857</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-08-08" temporalFunction="false" functionInDocument="CREATION_TIME">2015-08-08</TIMEX3></DCT>
+
+<TITLE>Ratusan Ribu Warga Demak Terancam Tak Bisa Minum Air Sehat</TITLE>
+
+<TEXT>
+Kekeringan yang melanda Kabupaten Demak, Jawa Tengah dalam <TIMEX3 tid="t1" type="DURATION" value="PXM">beberapa bulan</TIMEX3> terakhir ini selain menyebabkan ratusan hektar sawah puso, juga mengakibatkan ribuan warga terancam krisis air bersih. 
+
+Badan Penanggulangan Bencana Daerah (BPBD) Demak merilis, sebanyak 237.745 jiwa yang tersebar di 62 desa rawan kekurangan air bersih. 
+
+" Dari 14 kecamatan di wilayah Demak, hanya satu kecamatan saja yang aman dari krisis air, yakni Kecamatan Sayung, " terang Suprapto, Kepala Seksi Kedaruratan, BPBD Demak, <TIMEX3 tid="t2" type="DATE" value="2015-08-01">Sabtu (8/8/2015)</TIMEX3>. 
+
+Ancaman krisis air bersih tersebut merata di 13 kecamatan. 
+
+Ancaman krisis air bersih paling parah melanda Kecamatan Wedung yakni sebanyak 13 desa. 
+
+Di wilayah pesisir Demak itu tercatat 52.424 jiwa rawan kekurangan air bersih. 
+
+Di Kecamatan Bonang, ancaman krisis air bersih melanda 3 desa dengan jumlah penduduk sebanyak 4.423 jiwa. 
+
+Kecamatan Demak Kota melanda 6 desa dengan jumlah penduduk 25.534 jiwa. 
+
+Kecamatan Gajah sebanyak 3 desa dengan jumah penduduk 13.610 jiwa. 
+
+Kecamatan Karanganyar sebanyak 8 desa dengan jumlah penduduk sebanyak 37.304 jiwa. 
+
+Kecamatan Kebonagung sebanyak 4 desa dengan jumlah penduduk 10.300 jiwa. 
+
+Kecamatan Mijen sebanyak 8 desa dengan jumlah penduduk 30.300 jiwa. 
+
+Kecamatan Mranggen sebanyak 9 desa dengan jumlah penduduk 95.536 jiwa. 
+
+Kecamatan Wonosalam sebanyak 4 desa dengan jumlah penduduk 9.842 jiwa. 
+
+Sementara empat kecamatan lainnya, seperti Kecamatan Dempet, Guntur, Karangawen, dan Karangtengah, ancaman krisis air bersih hanya melanda satu desa saja. 
+
+Kemarau panjang <TIMEX3 tid="t3" type="DATE" value="2015">tahun ini</TIMEX3>, sambung Suprapto, berdampak pada menyusutnya debit air sejumlah embung dan sumur yang selama ini merupakan sumber air warga yang digunakan untuk kebutuhan <TIMEX3 tid="t4" type="DURATION" value="P1D">sehari</TIMEX3> hari. 
+
+Bahkan sebagian embung dan mata air di sumur sumur milik warga telah kering.Keberadaan penyediaan sarana air bersih mandiri di desa-desa, juga tidak mampu memenuhi kebutuhan air bersih warga di <TIMEX3 tid="t5" type="DATE" value="2015-SU">musim kemarau</TIMEX3> saat ini sehingga mereka mulai mengeluhkan kurangnya air bersih. " Guna membantu mengatasi krisis air bersih, kita telah melakukan droping air ke sejumlah desa yang membutuhkan air besih, " ujarnya.Untuk distribusi air bersih ke desa desa, sebanyak empat armada tangki air dengan kapasitas <TIMEX3 tid="t6" type="DATE" value="5000">5000</TIMEX3> liter air setiap tangkinya. 
+
+Droping segera dilakukan setelah adanya permintaan dari pihak desa yang diajukan kepada Bupati Demak dengan diketahui oleh camat setempat. " Droping air bersih hanyalah solusi instan untuk mengatasi masalah sesaat. 
+
+Antisipasi krisis air bersih tahun tahun berikutnya, perlu adanya pipanisasi atau sambungan air baru, pembuatan sumur artetis dan pengadaan pamsimas di desa yang berpotensi terjadi krisis air bersih, " ujarnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

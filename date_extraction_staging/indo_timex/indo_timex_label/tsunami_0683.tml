@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0683</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-25" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-25</TIMEX3></DCT>
+
+<TITLE>Terus Bertambah, Korban Meninggal Akibat Tsunani Selat Sunda di Banten dan Lampung Tembus 373 Orang</TITLE>
+
+<TEXT>
+Korban akibat tsunami Selat Sunda yang menerjang wilayah Banten dan Lampung terus bertambah. 
+
+Badan Nasional Penanggulangan Bencana (BNPB) merilis, jumlah korban tsunami Banten dan Lampung hingga saat terdata sebanyak 373 orang meninggal, 1.459 orang luka-luka, 128 orang hilang dan 5.665 orang mengungsi. 
+
+" Data sementara dampak bencana tsunami yang menerjang pantai di Selat Sunda hingga <TIMEX3 tid="t1" type="TIME" value="2018-12-24T17:00">Senin (24/12) pukul 17.00 WIB</TIMEX3>, tercatat 373 orang meninggal dunia, " kata Kepala Pusdatin dan Humas BNPB Sutopo Purwo Nugroho dalam keterangan tertulis dikutip dari Antaranews. 
+
+. 
+
+Menurut Sutopo Purwo Nugroho, tim SAR gabungan terus melakukan penyisiran, evakuasi, pencarian dan penyelamatan korban bencana tsunami di sepanjang daerah terdampak landaan tsunami di Selat Sunda. 
+
+Sutopo mengatakan beberapa daerah yang sebelumnya sulit dijangkau karena akses jalan rusak dan tertutup oleh material hanyutan tsunami, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> sebagian sudah dapat dijangkau petugas beserta kendaraan dan alat berat. 
+
+" Hal itu menyebabkan korban terus ditemukan oleh petugas tim SAR gabungan, " jelasnya. 
+
+. 
+
+(Wartakota/Dewi Pratiwi) 
+</TEXT>
+
+</TimeML>

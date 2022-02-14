@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0464</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-04-26" temporalFunction="false" functionInDocument="CREATION_TIME">2019-04-26</TIMEX3></DCT>
+
+<TITLE>Hari Ini Tim Gabungan Hentikan Pencarian Dua Korban Banjir Bandang Sungai Rajasa Pemalang</TITLE>
+
+<TEXT>
+Pencarian dua korban yang terseret arus Sungai Rajasa di Desa Beluk Kabupaten Pemalang, untuk sementara dihentikan. 
+
+Data dari BPBD Kabupaten Pemalang, dua korban atas nama Tendi (11) dan Rahma (11), hingga <TIMEX3 tid="t1" type="TIME" value="2019-04-25TAF">Kamis (25/4/2019) sore</TIMEX3> belum diketemukan. 
+
+Kepala BPBD Kabupaten Pemalang, Wismo, saat dikonfirmasi Tribunjateng. 
+
+com, menjelaskan, tim menghentikan pencarian untuk sementara, mengingat kondisi relawan yang mulai kelelahan. 
+
+" Pencarian akan dilakukan <TIMEX3 tid="t2" type="DATE" value="2019-04-27">esok</TIMEX3> hari, mengingat cuaca dan kondisi di lapangan yang gelap, " jelasnya. 
+
+Ia menuturkan, tim sudah berusaha melakukan pencarian sejak <TIMEX3 tid="t3" type="TIME" value="2019-04-24TAF">Rabu (24/4) sore</TIMEX3>, hingga <TIMEX3 tid="t4" type="TIME" value="2019-04-25TAF">sore tadi</TIMEX3>. 
+
+" <TIMEX3 tid="t5" type="DATE" value="2019-04-24">Rabu lalu</TIMEX3> tim juga terpaksa menghentikan pencarian karena kondisi mulai gelap dan derasnya aliran Sungai Rajasa, " ujarnya. 
+
+Ia menambahkan, <TIMEX3 tid="t6" type="DATE" value="2019-04-27">esok</TIMEX3> hari tim gabungan akan menyisir aliran Sungai Rajasa kembali. " <TIMEX3 tid="t7" type="DATE" value="2019-04-27">Esok</TIMEX3> hari tim akan kembali melakukan pencarian, <TIMEX3 tid="t8" type="TIME" value="2019-04-26TNI">malam ini</TIMEX3> tim gabungan istirahat untuk memulihkan kondisi tubuh, " tambahnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

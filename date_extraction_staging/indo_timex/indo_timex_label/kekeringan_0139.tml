@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0139</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-07-21" temporalFunction="false" functionInDocument="CREATION_TIME">2018-07-21</TIMEX3></DCT>
+
+<TITLE>Petani Cabai Kunciran Dihantam Kekeringan</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-SU">Musim kemarau</TIMEX3> berdampak kepada petani cabai. 
+
+Akibat <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">musim ini</TIMEX3>, hasil panen petani menurun. 
+
+Seperti yang dialami petani cabai di Kelurahan Kunciran, Kecamatan Pinang. 
+
+Salah seorang petani dari Kelompok Tani Mekar Jaya, Mustofa mengatakan, <TIMEX3 tid="t3" type="DATE" value="2018-SU">musim kemarau</TIMEX3> yang berkepanjangan membuat hasil panen cabai yang ditanamnya mengalami penurunan. 
+
+Ia menjelaskan, pada saat cuaca normal tanaman cabai yang ditanam sejak <TIMEX3 tid="t4" type="DATE" value="2018-02">Februari lalu</TIMEX3> di lahan seluas 1 hektar menghasilkan 16 ribu pohon cabai. 
+
+Dengan kata lain dalam satu pohon dapat menghasilkan 8 ons sampai satu kilogram buah cabai per pohonnya. 
+
+<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> karena musim panasnya yang panjang hanya mampu menghasilkan <TIMEX3 tid="t6" type="DATE" value="2017-08-06">6-8</TIMEX3> ons saja per pohonnya, ucapnya ketika ditemui Tangerang Ekspres, <TIMEX3 tid="t7" type="DATE" value="2018-07-20">Jumat (20/7)</TIMEX3>. 
+
+Mustofa mengharapkan dalam <TIMEX3 tid="t8" type="DURATION" value="PXD">beberapa hari</TIMEX3> kedepan cuaca dapat kembali normal dan terjadi hujan dengan intensitas kecil hingga sedang agar jumlah panen yang dihasilkan kembali normal. 
+
+Kalau ada hujan kan tanamannya tidak layu dan hasil buah yang dihasilkan juga bertambah, tambahnya. 
+
+Ia menjelaskan, dibutuhkan waktu selama <TIMEX3 tid="t9" type="DURATION" value="P3M">tiga bulan</TIMEX3> dari masa tanam agar pohon menghasilkan bunga. 
+
+Selama berbunga, pohon harus dijaga. 
+
+Karena jika terkena angin kencang dan volume air hujan dengan intensitas tinggi membuat bunga rontok sehingga membuat tanaman gagal panen. 
+
+Selain itu, pohon cabai juga memiliki usia singkat. 
+
+Jika pohon tidak lagi menghasilkan buah harus diregenerasikan dengan tanaman baru. 
+
+Hasil panen ini langsung dijual ke pasar. 
+
+Metik <TIMEX3 tid="t10" type="TIME" value="2018-07-21TMO">pagi</TIMEX3> sorenya dijual, karena cabai tidak dapat bertahan lama, tambahnya. 
+
+Data yang diperloleh total panen cabai yang telah dihasilkan oleh kelompok tani tersebut hingga <TIMEX3 tid="t11" type="DATE" value="2018-07">Juli 2018</TIMEX3> telah mencapai 3 ton. 
+
+Kepala Bidang Pertanian pada Dinas Ketahanan Pangan Kota Tangerang Ibnu Ariefyanto mengatakan, penurunan jumlah tersebut masih dalam kategori norrmal. 
+
+Bahkan ia sempat memuji hasil panen yang dilakukan oleh kelompok tani tersebut. 
+
+Hasil cabai yang dipanennya bagus. 
+
+Di lokasi tersebut dalam satu hektar dapat menghasilkan hingga dua ton cabai, tambahnya. 
+
+(mg-6) 
+</TEXT>
+
+</TimeML>

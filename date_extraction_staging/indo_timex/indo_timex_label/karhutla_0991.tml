@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0991</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-31" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-31</TIMEX3></DCT>
+
+<TITLE>Piton 3 Meter Diselamatkan dari Kebakaran di Rawa Aopa</TITLE>
+
+<TEXT>
+Seekor ular piton dengan panjang sekira 3 meter berhasil diselamatkan dari kepungan api yang membakar savana di kawasan Taman Nasional Rawa Aopa Watumohai (TNRAW), Sulawesi Tenggara (Sultra). 
+
+Aksi penyelematan itu dilakukan <TIMEX3 tid="t1" type="DATE" value="2018-08-29">Rabu (29/8/2018) lalu</TIMEX3> oleh tim Manggala Agni Daerah Operasi (Daops) Tinanggea. 
+
+Kepala Manggala Agni Daops Tinanggea Yanuar Panca Kusuma mengatakan, tim dari Manggala Agni hampir menginjak ular tersebut dan mendapat perlawan dari piton saat akan dievakuasi. 
+
+Ular tersebut berada dalam posisi yang dikepung api dan asap. 
+
+Kondisi ular sedikit terbakar, makanya kami lakukan evakuasi lebih dulu terhadap reptil yang dilindungi itu, ungkap Yanuar Panca kepada zonasultra, <TIMEX3 tid="t2" type="DATE" value="2018-08-31">Jumat (31/8/2018)</TIMEX3> di Kendari. 
+
+Setelah ditangkap, ular tersebut dilepaskan kembali ke habitatnya yang lebih aman dan jauh dari lokasi kebakaran. 
+
+Menurut Panca, kejadian ini menjadi tantangan tersendiri bagi Manggala Agni dalam pengendalian dan pemadaman Kebakaran Hutan dan Lahan (Karhutla) bukan hanya masalah api, tapi juga hewan buas yang dilindungi. 
+
+Iya mas, karena dalam kawasan konservasi jadi dilindungi, <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">kemarin itu</TIMEX3> sekitar <TIMEX3 tid="t4" type="TIME" value="2018-08-30T15:09">pukul 15.09</TIMEX3> Wita, tukasnya. 
+
+Selain itu, kondisi ini juga menjadi contoh jika dengan adanya kebakaran hutan dan lahan menjadi salah satu ancaman serius bagi keberlangsungan hidup satwa liar dan dilindungi di kawasan TNRAW. 
+
+Sehingga perlu perhatian lebih khusus lagi dari pihak pemerintah dan masyarakat, jika dampak Karhutla dapat mengancam seluruh makhluk hidup dalam sebuah ekosistem rantai makanan. 
+
+(B) 
+</TEXT>
+
+</TimeML>

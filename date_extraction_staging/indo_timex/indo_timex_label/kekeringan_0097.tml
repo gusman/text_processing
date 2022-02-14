@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0097</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-06" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-06</TIMEX3></DCT>
+
+<TITLE>Kekeringan Landa 49 Desa, PDAM: Warga Keluhkan Air Berwarna Hitam</TITLE>
+
+<TEXT>
+Dampak kekeringan di Kebumen, Jawa Tengah kian meluas. 
+
+Hingga <TIMEX3 tid="t1" type="DATE" value="2018-10">awal Oktober 2018 ini</TIMEX3>, Badan Penanggulangan Bencana Daerah (BPBD) Kebumen telah mengirim bantuan air bersih ke ke 49 desa di 11 kecamatan yang mengalami krisis air bersih. 
+
+Sebanyak 1.088 tangki air bersih pun telah didistribusikan untuk memenuhi kebutuhan air di desa-desa tersebut. 
+
+Kepala Pelaksana Harian BPBD Kebumen, Eko Widianto mengatakan, ada sedikit kendala dalam proses pengiriman air bersih ke desa terdampak. 
+
+Kemarau menyebabkan debit air PDAM ikut menyusut sehingga armada butuh waktu lebih lama untuk mengisi tangki karena itu, waktu pengiriman pun menjadi bertambah lama. 
+
+Padahal, <TIMEX3 tid="t2" type="SET" value="P1D">setiap hari</TIMEX3> diperlukan sekitar 30 tangki air bersih untuk memenuhi kebutuhan air bersih di daerah terdampak. 
+
+Di sisi lain, BPBD menerima keluhan masyarakat terkait kondisi air yang berwarna kehitaman. 
+
+Ini lantaran banyaknya sedimentasi yang terkandung dalam air. 
+
+Kemarau panjang bukan hanya menurunkan debit, namun juga kualitas air baku PDAM. 
+
+Untuk memenuhi kebutuhan air bersih masyarakat, BPBD memanfaatkan air PDAM di beberapa titik, yakni Sempor, Aliyan Krakal dan Kutowinangun. 
+
+Sedangkan untuk Kebumen wilayah barat, BPBD mengambil air dari sumur dalam di Logending Kecamatan Ayah. 
+
+Ada keluhan sedikit <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">kemarin-kemarin</TIMEX3>, airnya agak hitam. 
+
+Istilahnya itu, endapannya itu banyak terbawa, katanya. 
+
+BPBD telah berkoordinasi dengan PDAM untuk mengatasi persoalan agar pengiriman ke daerah terdampak tidak lagi terkendala. 
+
+Eko mengatakan, BPBD Kebumen menganggarkan Rp 350 juta untuk bantuan air bersih, atau setara dengan sekitar 1.400 tangki air bersih di <TIMEX3 tid="t4" type="DATE" value="2018">tahun 2018 ini</TIMEX3>.Selain itu, bantuan air bersih juga berasal dari instansi lainnya, semisal PMI, Polri, serta perusahaan daerah maupun swasta.Persediaan bantuan ini diperkirakan cukup hingga <TIMEX3 tid="t5" type="DATE" value="2017-WI">awal musim penghujan</TIMEX3> yang diperkirakan mulai <TIMEX3 tid="t6" type="DATE" value="2018-10">akhir Oktober</TIMEX3> atau <TIMEX3 tid="t7" type="DATE" value="2018-11">awal November 2018 nanti</TIMEX3>. 
+</TEXT>
+
+</TimeML>

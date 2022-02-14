@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1131</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-01-08" temporalFunction="false" functionInDocument="CREATION_TIME">2017-01-08</TIMEX3></DCT>
+
+<TITLE>Banjir dan Longsor Kembali Landa Agam</TITLE>
+
+<TEXT>
+Hujan deras yang mengguyur Kabupaten Agam <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">beberapa hari ini</TIMEX3> menyebabkan banjir, longsor dan kayu tumbang. 
+
+Bansor dan kayu tumbang terjadi pada beberapa lokasi yang tersebar di kecamatan dalam wilayah Agam. 
+
+Kondisi terkini, jalan raya propinsi yang menghubungkan Lubuk Basung Bukittinggi tepatnya Bukik Apik, Kecamatan Matur kembali terjadi longsor, yang mengakibatkan terputusnya arus lalu lintas menuju Bukittinggi dan untuk sementara lalu lintas di alihkan ke jalan alternatif Pauh Panta Bantuan alat berat Pemkab Agam sudah di lokasi dan sedang bertugas membersihkan material longsor secepatnya. 
+
+Longsor juga melanda ruas jalan Sicincin-Malalak-Balingka, sehingga belum bisa dilalui, kata Kepala Pelaksana BPBD Kabuppaten Agam, Bambang Warsito kepada Singgalang melalui telepon genggamnya, <TIMEX3 tid="t2" type="DATE" value="2017-01-07">Sabtu (7/1)</TIMEX3>. 
+
+Banjir juga terjadi di Jorong Anak Aia Kasiang Kecamatan Ampek Nagari sehingga 395 KK rumahnya tergenang banjir, namun masih dalam kondisi aman, begitupun dengan logistik masih cukup sampai <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, ungkap Bambang. 
+
+Melihat kondisi cuaca yang tidak stabil, Bambang mengingatkan sesuai dengan himbauan Bupati Agam, Indra Catri, untuk meningkatkan kewaspadaan masyarakat terhadap segala kemungkinan yang akan terjadi terutama pergerakan tanah dan banjir bandang serta menjaga kebersihan lingkungan, aliran sungai dan drainase di lingkungan masing masing. 
+
+Hasil pantauan, kondisi cuaca di wilayah Kabupaten Agam menunjukan potensi curah hujan mencapai 50 dengan kecepatan angin 14 Km/h. 
+
+Kecamatan di Kabupaten Agam terdampak bencana banjir, longsor, pohon tumbang dan puting beliung yaitu, Tanjung Mutiara, Ampek Nagari, Tanjung. 
+
+Raya, Matur, Palembayan, IV Koto, Malalak, Palupuh, Sungai Pua, Lubuk Basung dan Banuhampu, pungkas Bambang. 
+
+
+</TEXT>
+
+</TimeML>

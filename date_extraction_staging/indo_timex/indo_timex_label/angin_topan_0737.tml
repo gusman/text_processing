@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0737</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-08" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-08</TIMEX3></DCT>
+
+<TITLE>Kapal Berpenumpang 12 Orang Tengelam di Laut Aru, Satu Orang Hilang</TITLE>
+
+<TEXT>
+KM Hamparan Segara Niaga XI 30GT tenggelam di perairan pulau Ngoba Desa Warialau Kecamatan Aru Utara, <TIMEX3 tid="t1" type="DATE" value="2020-03-08">Minggu (8/3/2020)</TIMEX3>. 
+
+Sebelas orang dari 12 penumpang kapal tersebut berhasil ditemukan personil Polsek Aru Utara, sedangkan satu penumpang belum ditemukan. 
+
+Kapolsek Aru Utara IPDA Kaleb Rumtutuly, SH kepada media ini mengatakan, peristiwa nahas itu terjadi karena cuaca buruk dan angin kencang disertai gelombang tinggi. 
+
+Berdasarkan kronologis, <TIMEX3 tid="t2" type="TIME" value="2020-03-07T01:00">Sekitar pukul 01.00 WIT</TIMEX3> (<TIMEX3 tid="t3" type="TIME" value="2020-03-08TMO">dini hari</TIMEX3>) KM Hambaran Segara XI tenggelam di perairan Pulau Ngoba desa Warialau Kecamatan Aru Utara karena cuaca buruk. 
+
+Selanjutnya, <TIMEX3 tid="t4" type="TIME" value="2020-03-07T12:00">Sekitar pukul 12.00</TIMEX3> bapak Derek Sintimir menemukan para korban yang sedang berenang kemudian menolong para korban dengan menggunakan speed boat dan mengevakuasi para korban ke pulau Ngoba. 
+
+Kemudian pada <TIMEX3 tid="t5" type="TIME" value="2020-03-07T12:30">pukul 12.30 WIT</TIMEX3> dibawah pimpinan Kapolsek Aru Utara bersama anggota Polsek menuju TKP untuk mengevakuasi korban menuju Desa Warialau. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> 7 orang korban telah tiba di Desa Warialau, 4 orang masih terisolasi di Pulau Ngoba karena cuaca buruk, sedangkan 1 (satu) orang belum ditemukan, ungkap Kapolsek Aru Utara. 
+
+Lebih lanjut dikatakannya, Dua orang korban yang mengalami luka <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihaknya telah dievakuasi ke Puskesmas Marlasi untuk perawatan lebih lanjut. 
+
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kami masih menunggu cuaca membaik untuk melakukan pencarian terhadap 1 (satu) orang korban yang belum ditemukan, ujar Rumtutuly. 
+
+Kerugian materil diperkirakan mencapai Dua Milyar rupiah, Berikut Identitas para korban: 
+</TEXT>
+
+</TimeML>

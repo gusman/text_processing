@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0582</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-21" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-21</TIMEX3></DCT>
+
+<TITLE>Desa Tumbang Muroi Terendam</TITLE>
+
+<TEXT>
+Tingginya intensitas hujan <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">beberapa hari ini</TIMEX3> mengakibatkan puluhan rumah di Desa Tumbang Muroi, Kecamatan Mantangai, Kabupaten Kapuas, terendam banjir, <TIMEX3 tid="t2" type="DATE" value="2018-12-20">Kamis (20/12)</TIMEX3>. 
+
+Sebagian warga terpaksa membuat panggung dalam rumah karena ketinggian air dari luapan sungai Kapuas tersebut sudah sepinggang orang dewasa. 
+
+Kepala Pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Kapuas Panahatan Sinaga membenarkan terjadinya banjir di Desa Tumbang Muroi. 
+
+Menurutnya, desa ini kerap menjadi langganan banjir lantaran berada di Daerah Aliran Sungai (DAS) Kapuas, titik batas naiknya air pasang laut. 
+
+Pihaknya berupaya mengantisipasi hal-hal yang tidak diinginkan dan terus melakukan pemantauan perkembangannya. 
+
+BPBD Kapuas sesegera mungkin turun ke lokasi untuk melakukan pendataan. 
+
+Sementara berdasarkan hasil laporan Kepala Desa maupun Camat Mantangai, mereka sedang mendata warga yang sedang terdampak bencana banjir. 
+
+Kepada warga Desa Tumbang Muroi yang terkena banjir ini saya harapkan untuk terus dapat meningkatkan kewaspadaannya. 
+
+Sebab apabila curah hujan turun, tidak menutup kemungkinan datangnya air akan lebih tinggi lagi. 
+
+Setidaknya dengan selalu waspada akan mencegah adanya korban jiwa, katanya melalui pesan WhatsApp, <TIMEX3 tid="t3" type="DATE" value="2018-12-20">Kamis</TIMEX3>. 
+
+yul 
+</TEXT>
+
+</TimeML>

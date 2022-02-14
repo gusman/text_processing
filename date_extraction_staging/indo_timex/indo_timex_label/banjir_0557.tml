@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0557</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-13" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-13</TIMEX3></DCT>
+
+<TITLE>GUBERNUR : PEMPROV KALSEL SERIUS TANGANI BENCANA BANJIR</TITLE>
+
+<TEXT>
+Banjir yang terjadi di sebagian wilayah provinsi Kalimantan Selatan, menjadi perhatian khusus bagi Gubernur Kalimantan Selatan Sahbirin Noor. 
+
+Keseriusan pemprov Kalsel dalam menangani banjir kali ini dengan diturunkannya tim dari SKPD provinsi untuk meninjau lokasi banjir <TIMEX3 tid="t1" type="DATE" value="2020-02-11">(11/2)</TIMEX3>. 
+
+Ada tiga titik lokasi banjir yang yang di ditinjau oleh tim pemerintah provinsi ini yaitu Kecamatan Pengaron Kabupaten Banjar, Kabupaten Hulu Sungai Utara, serta Kecamatan Pugaan Kabupaten Tabalong. 
+
+Terlihat air menggenang hampir mencapai lutut orang dewasa di kawasan perkotaan, padahal sebelumnya air meluap hingga mencapai dada orang dewasa. 
+
+Tim dipimpin oleh Kepala Dinas Lingkungan Hidup, Hanifah Dwi Nirwana, bersama jajaran dan turut didampingi dari Dinas Kehutanan Provinsi Kalimantan Selatan, serta Dinas PUPR Kalimantan Selatan. 
+
+Peninjauan lokasi banjir ini perlu dilakukan untuk memetakan kembali, agar banjir dapat dikendalikan dan tidak terus terulang setiap tahunnya, ujar Hanifah. 
+
+Hanifah menambahkan, banjir ini merupakan PR bersama, karena dampak yang yang di timbulkan bahkan setelah banjir terjadi sangat besar seperti rusaknya infrastruktur jalan. 
+
+Hasil dari monitoring, pemetaan di lapangan dan rapat koordinasi bersama pemerintah Kabupaten yang ditinjau ini, akan segera kami laporkan ke pimpinan, agar sesegera mungkin dapat langsung ditindaklanjuti, terang Hanifah. 
+
+Dalam peninjauan ini, Pemprov Kalimantan Selatan juga menyalurkan bantuan berupa bahan pokok, bagi warga yang yang terdampak banjir. 
+
+
+</TEXT>
+
+</TimeML>

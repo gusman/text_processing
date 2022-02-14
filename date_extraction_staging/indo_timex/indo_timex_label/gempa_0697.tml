@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0697</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-05-13" temporalFunction="false" functionInDocument="CREATION_TIME">2015-05-13</TIMEX3></DCT>
+
+<TITLE>Puluhan Orang Tewas Akibat Gempa Susulan Nepal Selasa Lalu</TITLE>
+
+<TEXT>
+Sedikitnya 13 orang, 12 di India dan satu di Tibet, tewas ketika dua gempa kuat mengguncang Nepal pada <TIMEX3 tid="t1" type="DATE" value="2015-05-12">Selasa (12/5)</TIMEX3>, kata beberapa pejabat. 
+
+Sepuluh orang tewas di Bihar, India Timur, dan dua orang di Uttar Pradesh, India Utara, keduanya berbatasan dengan Nepal. 
+
+Regu Reaksi Bencana Nasional India disiagakan untuk operasi pertolongan dan bantuan setelah gempa yang guncangannya terasa di seluruh India Timur dan Utara itu. 
+
+Perdana Menteri India Narendra Modi mengadakan pertemuan untuk menilai situasi dan menginstruksikan otoritas siaga penuh guna melakukan operasi pertolongan dan bantuan. 
+
+Modi mengatakan di akun Twitternya bahwa ia telah " menginstruksikan semua pejabat terkait agar siaga untuk melakukan operasi pertolongan dan bantuan, jika diperlukan ". 
+
+Sementara seorang perempuan tewas dan dua orang lagi cedera di Tibet, setelah tetangga Tiongkok, Nepal, kembali diguncang gempa bumi pada <TIMEX3 tid="t2" type="TIME" value="2015-05-12TAF">Selasa siang</TIMEX3>. 
+
+Semua ketiga orang itu berada di dalam mobil yang tertimpa batu yang berjatuhan di Kota Praja Gyirong, Tibet, ketika gempa dengan kekuatan 7,5 pada Skala Richter mengguncang pada <TIMEX3 tid="t3" type="TIME" value="2015-05-12T15:05">pukul 15.05</TIMEX3> waktu setempat. 
+
+Korban tewas telah diidentifikasi sebagai Chodron. 
+
+Menurut Karma Tenzin, petugas pemeriksa perbatasan, Chodron adalah warga lokal, dan dua orang yang cedera <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> mendapat perawatan medis.Di tiga kabupaten yang berbatasan dengan Nepal, gempa tersebut menutup delapan stasiun telekomunikasi, kata Qingqi, Kepala Lembaga Komunikasi Tibet. 
+
+// Telekomunikasi di Kota Kecil Dingri juga telah terputus. 
+
+Beberapa perusahaan telekomunikasi telah mengirim tima tanggap kondisi darurat ke daerah yang diguncang gempa di Tibet. 
+
+Wartawan Xinhua di Gyirong menyaksikan tanah longsor di kedua sisi perbatasan, dengan disertai suara gemuruh keras. 
+
+Wu Aijun, perwira polisi di Kota Praja Zham, Kabupaten Nyalam, melihat batu besar menggelinding di lereng bukit. 
+
+" Jalan terputus oleh reruntuhah akibat tanah longsor, " kata Wu Aijun melalui telepon kepada Xinhua. 
+
+Ia mengatakan ia dapat melihat ke seberang perbatasan dan satu desa di Nepal juga tertimbun tanah longsor. 
+
+Tiongkok mengungsikan raibuan warga dari Zham setelah gempa <TIMEX3 tid="t5" type="DATE" value="2015-04-25">25 April</TIMEX3> di Nepal. 
+
+Polisi tetap berada di daerah itu untuk menjaga keamanan. 
+
+" Semua polisi <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">kini</TIMEX3> telah diungsikan. 
+
+Tak ada laporan mengenai korban jiwa, " kata Phurjung dari Markas Polisi Zham seperti dilansir kantor berita Xinhua. 
+
+Di Nyalam, pasokan listrik terputus dan tiga rumah ambruk.Gempa dengan kekuatan 7,9 pada Skala Richter pada <TIMEX3 tid="t7" type="DATE" value="2015-04-25">25 April</TIMEX3> telah merenggut lebih dari 8.000 nyawa di Nepal hingga Ahad <TIMEX3 tid="t8" type="DATE" value="2015-05-10">(10/5)</TIMEX3>, dan menewaskan 26 orang di Tibet, bagian barat-daya Tiongkok. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1146</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-04-01" temporalFunction="false" functionInDocument="CREATION_TIME">2016-04-01</TIMEX3></DCT>
+
+<TITLE>Banjir Koto Sani, 2.000 Warga Menyelamatkan Diri</TITLE>
+
+<TEXT>
+Tokoh masyarakat setempat Syafri Dt. 
+
+Siri Marajo memastikan seluruh warga dari 4 jorong di Nagari Koto Sani yang terkena banjir, <TIMEX3 tid="t1" type="DATE" value="2016-04-01">Jumat (1/4)</TIMEX3> dalam kondisi aman. 
+
+Hampir sebanyak 2.000 jiwa juga ikut menyelamatkan diri dari amukan air bah tersebut. 
+
+Seumur-umur, sudah <TIMEX3 tid="t2" type="DURATION" value="P60Y">60 tahun</TIMEX3> umur saya, ini musibah terbesar yang saya tahu melanda Koto Sani, ujar mantan Ketua DPRD yang juga Ketua LKAAM Kab. 
+
+Solok itu. 
+
+Kondisi ini, menurut Camat X Koto Singkarak Irwan diperparah oleh saluran irigasi yang tak mampu lagi menampung volume air akibat saluran dan gorong-gorong yang tertutup material. 
+
+Irwan menjelaskan, setidaknya ada tiga jorong yang terkena dampak air bah, yakni Limo Niniek, Kasiek, Padang Belimbing. 
+
+Sedangkan Ujung Ladang bahkan terisolasi karena akses. 
+
+jalan ke ke jorong tersebut tertimbun longsor. 
+
+Ada 11 titik longsor disepanjang ruas jalan jorong tersebut, jelasnya. 
+
+(rusmel) 
+</TEXT>
+
+</TimeML>

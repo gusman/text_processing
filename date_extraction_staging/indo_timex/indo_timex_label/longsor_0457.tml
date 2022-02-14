@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0457</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-22" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-22</TIMEX3></DCT>
+
+<TITLE>Longsor Terjadi di Susukan Ungaran, Tak Ada Korban Jiwa</TITLE>
+
+<TEXT>
+Longsor terjadi di daerah Mojo, Susukan, Kecamatan Ungaran Timur Kabupaten Semarang, <TIMEX3 tid="t1" type="TIME" value="2020-02-22TAF">Sabtu (22/2/2020) sore</TIMEX3>. 
+
+Tak ada korban dalam insiden tanah longsor tersebut. 
+
+Korlap BPBD Kabupaten Semarang, Yunianto mengatakan, longsor terjadi <TIMEX3 tid="t2" type="TIME" value="2020-02-21T16:00">pukul 16.00</TIMEX3>. 
+
+" Kami mendapatkan informasi dari relawan bahwa ada longsor di daerah Mojo RT, 06 RW 07, Susukan Kabupaten Semarang. 
+
+Langsung kami cek ke TKP, " jelasnya. 
+
+Menurutnya, BPBD Kabupaten Semarang menerjunkan dua personelnya untuk mendatangi TKP. 
+
+Selanjutnya mereka bersama-sama dengan relawan membantu membersihkan material longsor. 
+
+" Material longsor berada di samping rumah dan mengenai sebagian rumah tersebut, " jelasnya. 
+
+Yunianto mengimbau masyarakat untuk mewaspadai longsor yang bisa sewaktu-waktu terjadi. 
+
+Hal itu disebabkan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sedang <TIMEX3 tid="t4" type="DATE" value="2019-WI">musim penghujan</TIMEX3>. " Apalagi di kawasan Susukan ini banyak tebing sehingga longsor bisa terjadi, " katanya.Kabid Pelestarian Lingkungan Hidup Dinas Lingkungan Hidup (DLH) Kabupaten Semarang, Budi Santosa, mengatakan di Kabupaten Semarang ada lima titik lokasi penghijauan. 
+
+// Hal tersebut untuk mengantisipasi longsor dan juga bencana banjir yang sewaktu-waktu terjadi. 
+
+" Di daerah penyangga semisal Sumowono, Bandungan, Banyubiru, Getasan. 
+
+Lalu daerah kering yakni di Ungaran Timur yang kurang ketersediaan air, " paparnya. 
+
+Menurutnya, dengan penghijauan bisa mengurangi resiko bencana tanah longsor terutama di Kabupaten Semarang. 
+
+Meski begitu Budi menjelaskan penghijauan tetap pihaknya lakukan di semua kecamatan di Kabupaten Semarang. 
+
+" Meski di Kabupaten Semarang tidak ada dinas kehutanan, tetapi kami tetap wajib melakukan penghijauan, " jelasnya. 
+
+Selain itu DLH Kabupaten Semarang menurutnya juga sedang berkoordinasi dengan Dinas Lingkungan Hidup dan Kehutanan Provinsi Jateng kaitannya dalam memberikan kebun bibit untuk penghijauan. 
+
+Budi menjelaskan, kebun bibit di Kabupaten Semarang <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tidak ada. 
+
+Padahal adanya kebun bibit sangat penting untuk penghijauan. 
+
+" Kebun bibit itu untuk penghijauan, kita <TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">nanti</TIMEX3> punya bibit-bibit di situ, sehingga saat ada relawan yang meminta bibit, DLH Kabupaten Semarang tak kesusahan, " jelasnya. 
+
+(Ahm) 
+</TEXT>
+
+</TimeML>

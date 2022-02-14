@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1149</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-05</TIMEX3></DCT>
+
+<TITLE>99 Persen Kebakaran Hutan Disebabkan Manusia, BPBD Jatim Gunakan Helikopter untuk Padamkan Api</TITLE>
+
+<TEXT>
+Ada 28 titik kebakaran yang terjadi di sejumlah daerah Jawa Timur dalam kurun waktu sepekan mulai 22 -28 <TIMEX3 tid="t1" type="DATE" value="2019-07">Juli 2019</TIMEX3>. 
+
+Kepala Pelaksana Badan Penanggulangan Bencana (BPBD) Provinsi Jawa Timur, Suban Wahyudiono mengungkapkan, 99 persen penyebab kebakaran termasuk kebakaran di hutan, karena ulah manusia. 
+
+" Bisa karena buang rokok sembarangan saat angin kencang, atau lainnya. 
+
+Susah ditebak atau dicari, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>. 
+
+Tetapi hasil kajian, 99 persen ulah manusia, " katanya Suban, <TIMEX3 tid="t3" type="DATE" value="2019-08-05">Senin (5/8/2019)</TIMEX3>. 
+
+Suban melanjutkan <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> BPBD Jatim memiliki alat pemantau titik panas (hotspot) dengan citra satelit yang bisa digunakan Pusat Pengendalian dan Operasional (Pusdalops) BPBD Jatim untuk mendeteksi dini kebakaran hutan dengan alat itu. 
+
+Namun dari beberapa kasus, ketika citra panas terdeteksi lalu dipantau ke lapangan, tidak semuanya kebakaran hutan. 
+
+Ada juga yang berasal dari kegiatan warga setempat yang membakar lahan supaya siap ditanami. 
+
+Sedangkan untuk kebakaran hutan di Taman Hutan Raya Raden Soerjo yang wilayahnya berada di Gunung Arjuno-Welirang-Anjasmoro yang terjadi, <TIMEX3 tid="t5" type="DATE" value="2019-07-28">Minggu (28/7/2019) lalu</TIMEX3>, sampai <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> Suban belum bisa memastikan penyebabnya. 
+
+BPBD Jatim sebenarnya sudah berhasil memadamkan titik api pada <TIMEX3 tid="t7" type="DATE" value="2019-07-29">Senin (29/7/2019)</TIMEX3>.Namun, karena hembusan angin kencang, kebakaran kembali terjadi.Suban menjelaskan <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih terdapat tujuh titik api di Gunung Arjuno dan enam titik api di Gunung Welirang. 
+
+// Titik api yang berada di Arjuno, kata Suban, <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sangat sulit dijangkau. 
+
+Bara api sisa kebakaran sebelumnya itu ditemukan di Blok Gentong Growah, Gunung Arjuno, yang memiliki kemiringan lebih dari 60 derajat. 
+
+" Untuk mencapai lokasi, butuh waktu lima sampai <TIMEX3 tid="t10" type="DURATION" value="PT6H">enam jam</TIMEX3>. 
+
+Sangat sulit. 
+
+Rapat dengan Bu Gubernur, beliau perintahkan kami meminta bantuan water-bombing ke BNPB dan disetujui, " katanya. 
+
+Satu unit helikopter MI-8 milik Badan Nasional Penanggulangan Bencana berangkat dari Palangkaraya ke Bandara Abdulrahman Saleh dan tiba, <TIMEX3 tid="t11" type="DATE" value="2019-08-02">Jumat (2/8/2019)</TIMEX3>. 
+
+<TIMEX3 tid="t12" type="TIME" value="2019-08-03TMO">Sabtu (3/8/2019) pagi</TIMEX3>, helikopter sudah melakukan pemadaman dengan metode water-bombing ke sejumlah titik api yang dipetakan, dengan air yang diambil dari Bendungan Selorejo. 
+
+" Ini adalah penanganan kebakaran hutan dengan water-bombing yang pertama kali dilakukan BPBD Jatim selama berdiri, " kata Suban. 
+
+Dia berharap, masyarakat dan pendaki (saat kebakaran terjadi ada 91 pendaki yang telah dievakuasi) tidak lagi melakukan apa-apa yang bisa menyebabkan kebakaran hutan di <TIMEX3 tid="t13" type="DATE" value="2019-SU">musim kemarau ini</TIMEX3>. 
+
+Perlu diketahui, kebakaran di Lereng Arjuno itu bertipe kebakaran lantai hutan. 
+
+Banyak serasah daun cemara yang menumpuk dan kering di <TIMEX3 tid="t14" type="DATE" value="2019-SU">musim kemarau</TIMEX3>, yang sangat mudah terbakar. 
+
+(Sofyan Arif Candra) 
+</TEXT>
+
+</TimeML>

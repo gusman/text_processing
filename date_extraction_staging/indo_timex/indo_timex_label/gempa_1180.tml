@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1180</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-07" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-07</TIMEX3></DCT>
+
+<TITLE>Gempa Pijay: Satu Guru Umul Aiman Meninggal, 20 Santri Terluka</TITLE>
+
+<TEXT>
+Akibat dari gempa bumi yang berpusat di Pidie Jaya (Pijay), salah seorang guru pengajian di Pesantren Ummul Ayman Samalanga, Bireuen, Imam Fadil (25), dilaporkan meninggal dunia. 
+
+Pemuda asal Geumpang, Pidie itu terkena seng di bagian lehernya, <TIMEX3 tid="t1" type="DATE" value="2016-12-07">Rabu (7/12/2016)</TIMEX3>. 
+
+
+</TEXT>
+
+</TimeML>

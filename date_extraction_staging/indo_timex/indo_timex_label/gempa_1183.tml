@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1183</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-04-19" temporalFunction="false" functionInDocument="CREATION_TIME">2018-04-19</TIMEX3></DCT>
+
+<TITLE>Gempa Guncang Banjarnegara, Bamsoet Desak Pemerintah Segera Kucurkan Bantuan</TITLE>
+
+<TEXT>
+Ketua DPR Bambang Soesatyo meyampaikan belasungkawa atas peristiwa gempa berkekuatan 4,4 SR di wilayah Pekalongan dan Kabupaten Banjarnegara, Jawa Tengah yang mengakibatkan dua korban jiwa dan ratusan bangunan rusak. 
+
+Bamsoet -panggilan akrabnya- berupaya memastikan penanganan pasca-bencana akan berjalan maksimal. 
+
+" Pimpinan DPR menyampaikan rasa belasungkawa dan keprihatinan yang mendalam kepada kepada keluarga korban yang meninggal dan masyarakat yang mengalami dampak dari gempa tersebut, " ujar Bamsoet, <TIMEX3 tid="t1" type="DATE" value="2018-04-19">Kamis (19/4)</TIMEX3>. 
+
+Legislator Partai Golkar itu pun mengharapkan Badan Nasional Penanggulangan Bencana (BNPB) maupun Badan Penanggulangan Bencana Daerah (BPBD) terus melakukan penyisiran dan evakuasi warga yang terdampak gempa. 
+
+Selain itu, Bamsoet juga meminta Kementerian Sosial (Kemensos) untuk segera memberikan bantuan baik berupa logistik (makanan, minuman, tenda, pakaian, obat-obatan, dan kebutuhan bayi), maupun dukungan morel bagi korban gempa. 
+
+Lebih lanjut Bamsoet mendorong Kementerian Pekerjaan Umum dan Perumahan Rakyat (PUPR) bersama pemerintah daerah (pemda) untuk melakukan pendataan bangunan dan rumah yang terdampak gempa. 
+
+" Agar dapat segera melakukan pembangunan ulang rumah warga yang terdampak gempa, " tegasnya. 
+
+Wakil rakyat dari daerah pemilihan Jawa Tengah VII yang meliputi Banjarnegara, Purbalingga dan Kebumen itu juga mengharapkan Badan Meteorologi, Klimatologi dan Geofisika (BMKG) untuk meningkatkan performa pemantauan aktivitas gempa bumi, analisis, serta memperbarui informasi tentang potensi-potensi gempa yang mungkin terjadi. 
+
+" Sekaligus memberikan peringatan dini secara cepat dan tepat untuk mengantisipasi jatuhnya korban, " cetusnya. 
+
+*** 
+</TEXT>
+
+</TimeML>

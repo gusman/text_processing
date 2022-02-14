@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0240</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-08-07" temporalFunction="false" functionInDocument="CREATION_TIME">2017-08-07</TIMEX3></DCT>
+
+<TITLE>Air Bersih Disalurkan Gratis untuk Warga Kota Alami Kekeringan</TITLE>
+
+<TEXT>
+Selama <TIMEX3 tid="t1" type="DATE" value="2017-SU">musim kemarau</TIMEX3> Pemerintah Kota Bengkulu melalui Perusahaan Daerah Air Minum (PDAM) Tirta Dharma Kota Bengkulu menyalurkan (droping) air gratis kepada warga kota. 
+
+Salah satu lokasi yang mengalami kesulitan air bersih karena pengaruh <TIMEX3 tid="t2" type="DATE" value="2017-SU">musim kemarau</TIMEX3> yakni, warga Jalan Karang Indah, Selebar. 
+
+Untuk mengantisipasi keluhan warga ini, Walikota Bengkulu Helmi Hasan bersama dengan PDAM Kota bergerak menyalurkan air bersih ke lokasi tersebut. 
+
+Alhamdulillah <TIMEX3 tid="t3" type="DATE" value="2017-08-07">hari ini</TIMEX3> kami melakukan droping air gratis untuk masyarakat Karang Indah. 
+
+Program ini dalam rangka mengantisipasi kebutuhan air bersih di Karang Indah, kata Walikota Bengkulu, Helmi Hasan, <TIMEX3 tid="t4" type="TIME" value="2017-08-07">Senin pagi</TIMEX3> (7/8/2017). 
+
+Pesan Walikota, bagi warga kota yang membutuhkan air bersih saat terdampak <TIMEX3 tid="t5" type="DATE" value="2017-SU">musim kemarau</TIMEX3> dapat mengajukan bantuan droping air bersih melalui pesan singkat (SMS) ke 082186134569 dengan format SMS nama, alamat lengkap disertai nomor Handphone dan menyebutkan permasalahan. 
+
+Mohon ini diperhatikan bahwa droping air gratis untuk warga kota tanpa dibebankan biaya apapun, tegasnya. 
+
+Walikota menegaskan, langkah pro aktif ini semata-mata untuk memberi solusi bagi warga yang terdampak kemarau. 
+
+Ini merupakan tanggungjawab moral kami agar Pemkot bisa memberikan solusi bagi warga yang terdampak kemarau, ujarnya. 
+
+Sementara, terkait dengan warga kota yang belum mendapat fasilitas pemasangan sambungan PDAM gratis <TIMEX3 tid="t6" type="DATE" value="2017">tahun 2017</TIMEX3> akan kembali diusulkan pada <TIMEX3 tid="t7" type="DATE" value="2018">tahun 2018 mendatang</TIMEX3>. 
+
+Yang tidak dapat di <TIMEX3 tid="t8" type="DATE" value="2017">tahun 2017</TIMEX3> akan diusulkan kembali <TIMEX3 tid="t9" type="DATE" value="2018">tahun 2018</TIMEX3>, kata Direktur Perusahaan Daerah Air Minum (PDAM) Tirta Dharma Kota Bengkulu, Sjobirin Hasan. 
+
+Media Center Kominfo Kota Bengkulu 
+</TEXT>
+
+</TimeML>

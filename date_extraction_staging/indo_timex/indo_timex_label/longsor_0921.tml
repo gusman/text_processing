@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0921</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-06" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-06</TIMEX3></DCT>
+
+<TITLE>Bikin Nangis, Usai Berjuang 12 Jam, Putri yang Tertimpa Longsor Bandara Soetta Akhirnya Meninggal</TITLE>
+
+<TEXT>
+Dianti Putri (25), korban ambrolnya tembok Jalan Perimeter Selatan Bandara Soekarno-Hatta yang tertimbun di dalam mobil, meninggal, <TIMEX3 tid="t1" type="TIME" value="2018-02-06">Selasa (6/2/2018) pagi</TIMEX3>. 
+
+Putri mengembuskan napas terakhir di Rumah Sakit Mayapada setelah mendapatkan perawatan di RSUD Tangerang. 
+
+" <TIMEX3 tid="t2" type="TIME" value="2018-02-05T06:00">Sekitar pukul 06.00</TIMEX3> pasien Dianti Putri tiba di IGD RS Mayapada, kondisi drop, dan keadaan memburuk. 
+
+Pada <TIMEX3 tid="t3" type="TIME" value="2018-02-05T06:45">pukul 06.45</TIMEX3>, pasien dinyatakan meninggal, " kata Yado Yarismano dari Humas Angkasa Pura II dalam keterangannya kepada Kompas. 
+
+com. 
+
+Sebelumnya, Putri dievakuasi petugas setelah tertimbun reruntuhan di dalam mobil pada <TIMEX3 tid="t4" type="DATE" value="2018-02-06">Selasa</TIMEX3> dini hari atau tepatnya <TIMEX3 tid="t5" type="TIME" value="2018-02-05T03:00">sekitar pukul 03.00</TIMEX3>. 
+
+Setelah dievakuasi, Putri dibawa ke RSUD Tangerang untuk mendapatkan perawatan. 
+
+Kondisinya lemah lantaran terjebak selama <TIMEX3 tid="t6" type="DURATION" value="PT12H">hampir 12 jam</TIMEX3> di dalam mobil yang tertimpa reruntuhan tembok. 
+
+Berjuang HidupDiberitakan sebelumnya, Putri, korban tembok ambrol di sisi Jalan Perimeter Selatan Bandara Soekarno-Hatta, Tangerang, dilarikan ke RSUD Tangerang untuk mendapatkan perawatan intensif. 
+
+Berdasarkan tayangan " Breaking News " Kompas TV yang ditayangkan <TIMEX3 tid="t7" type="DATE" value="2018-02-06">Selasa (6/2/2018)</TIMEX3>, sebuah mobil dengan dua penumpang di dalamnya tertimbun longsor sejak <TIMEX3 tid="t8" type="TIME" value="2018-02-05TAF">Senin sore</TIMEX3>. 
+
+Putri, salah seorang penumpangnya, berhasil diselamatkan petugas Basarnas, <TIMEX3 tid="t9" type="DATE" value="2018-02-06">Selasa</TIMEX3> dini hari pukul <TIMEX3 tid="t10" type="TIME" value="2018-02-05T02:50">02.50</TIMEX3>. 
+
+" Ketika Putri masuk (RSUD Tangerang) langsung dibawa ke ICU. 
+
+Tim dokter intensif mendampingi karena kondisi Putri sangat lelah karena berjuang bertahan hidup, " ujar jurnalis KompasTV Rizky.Orangtua Putri juga mendampingi sejak di lokasi tertimbun longsor hingga ke rumah sakit. 
+
+Adapun kondisi Putri <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah bisa diajak berbicara, meski masih terbata-bata. 
+
+// " Bapaknya mendampingi sejak di Perimeter Selatan, " ujar Rizky. 
+
+Adapun petugas Basarnas masih melakukan penyelamatan terhadap korban lainnya, Muthmainah. 
+
+Petugas kesulitan mengeluarkan Mutmainah karena posisi tubuh Mutmainah yang agak ke dalam. 
+
+Petugas terus melakukan komunikasi agar Mutmainah sadarkan diri dan bisa menginformasikan kondisinya. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0556</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Gempa 7,4 SR Hantam Donggala</TITLE>
+
+<TEXT>
+Gelombang tsunami menerjang Palu, Sulawesi Tengah, <TIMEX3 tid="t1" type="TIME" value="2018-09-28TEV">Jumat (28/9) petang</TIMEX3>, setelah gempa bumi dahsyat mengguncang Donggala dan Palu. 
+
+BMKG merilis gempa Donggala berkekuatan 7,4 SR (sebelumnya disebut 7,7 SR), dan Palu diguncang gempa 5,9 SR. 
+
+Memang benar tsunami terjadi di Palu, kata Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho, <TIMEX3 tid="t2" type="DATE" value="2018-09-28">Jumat (28/9)</TIMEX3>. 
+
+Belum ada keterangan lebih lanjut terkait pukul berapa tsunami ini terjadi, juga berapa tinggi gelombang tsunami menerjang Pantai Talise, Palu. 
+
+Namun, menurut warga, tinggi tsunami tak kurang dari 4 meter. 
+
+Dampaknya juga belum bisa diketahui, karena komunikasi putus semuanya, kata Sutopo. 
+
+Menurut akun twitter BMKG, gempa terjadi <TIMEX3 tid="t3" type="TIME" value="2018-09-28T17:02">pukul 17.02 WIB</TIMEX3> di titik menjadi 0,20 LS dan 119 BT dengan kedalaman 10 kilometer. 
+
+Sebelumnya beberapa kali gempa terjadi dengan beragam kekuatan. 
+
+Salah satunya gempa berkekuatan 6,0 SR yang menyebabkan kerusakan serta 1 korban meninggal dunia di Donggala. 
+
+Hingga <TIMEX3 tid="t4" type="TIME" value="2018-09-28TNI">malam</TIMEX3>, warga Kota Palu masih berada di luar rumah. 
+
+Salah seorang warga yang tinggal di Palu, Nuraida dihubungi melalui telepon seluler, mengaku hingga <TIMEX3 tid="t5" type="TIME" value="2018-09-28T19:30">pukul 19.30</TIMEX3> Wita ia bersama keluarganya masih berada di luar rumah. 
+
+Kami masih ketakutan, tidak berani masuk rumah karena sampai <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> masih terjadi gempa susulan, katanya. 
+
+Ia mengakui banyak kerusakan yang terjadi di sekitar rumahnya akibat gempa Donggala tersebut. 
+
+Rumah saya tidak roboh, tapi tembok pagarnya rusak. 
+
+Selebihnya kami belum tau apa yang terjadi di tempat lain, tambahnya. 
+
+Gempa membuat tower ATC di Bandara Mutiara Palu rusak, sehingga bandara pun ditutup. 
+
+Lantai ATC tampak pecah-pecah dan terlihat beberapa retakan bangunan. 
+
+Jadi di lantai empat itu adalah ruang kontrol untuk ATC komunikasi pesawat, ujar seorang pegawai bandara Mutiara Palu saat dikonfirmasi. 
+
+Karena itu rubuh lantai empatnya, jadi alat dan meja kerja tidak bisa dipakai, sambungnya. 
+
+Bandara ditutup sampai dengan <TIMEX3 tid="t7" type="TIME" value="2018-09-30">besok malam</TIMEX3>. 
+
+Tower lantai 4 roboh, kata General Manager Airnav Makassar, Novy Pantaryato.Ditlantas Tenggelam Akibat tsunami di Palu, air sampai menenggelamkan Markas Ditlantas Polda Sulteng yang berada di Pantai Talise. 
+
+Tampak mobil patroli, bus pelayanan SIM keliling terendam air. 
+
+Sejumlah bangunan di markas itu rusak berat diterjang banjir.Gempa juga menyebabkan gangguan pasokan listrik ke masyarakat di wilayah tersebut. 
+
+Deputi Manajer Komunikasi PLN Wilayah Sulawesi Utara, Tengah dan Gorontalo (Sulutenggo) Jantje Rau mengatakan kondisi <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, listrik di Donggala masih padam.(Donggala masih padam situasinya untuk <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>?) iya iya, kata dia.Selain Donggala, dia mengatakan listrik di Ibu Kota Sulawesi Tengah, Palu, juga ikut padam. 
+
+Dia mengatakan pihaknya sedang fokus melakukan penormalan pasokan listrik.Tak hanya di Sulawesi, gempa juga dirasakan di Kalimantan Timur. 
+
+Gempa terasa di Balikpapan dan Samarinda, sehingga membuat warga panik dan berhamburan ke luar rumah. 
+
+d-com/ant 
+</TEXT>
+
+</TimeML>

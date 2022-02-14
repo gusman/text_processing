@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0346</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-06-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-06-29</TIMEX3></DCT>
+
+<TITLE>Telah Bebas dari Abu Vulkanik, Bandara Ngurah Rai Kembali Dibuka</TITLE>
+
+<TEXT>
+Pemerintah memutuskan untuk kembali membuka Bandara Internasional I Gusti Ngurah Rai, Bali, pada <TIMEX3 tid="t1" type="TIME" value="2018-06-28T14:30">pukul 14.30 WITA</TIMEX3>. 
+
+Lebih cepat dari rencana penutupan bandara ini hingga <TIMEX3 tid="t2" type="TIME" value="2018-06-28T19:00">pukul 19.00 WITA</TIMEX3>. 
+
+Pembukaannya dipercepat, karena bandara ini dianggap telah terbebas dari abu vulkanik sejak <TIMEX3 tid="t3" type="TIME" value="2018-06-28TAF">siang tadi</TIMEX3>. 
+
+Pembukaan bandara ini berdasarkan NOTAMC nomor A2551/18 yang dikeluarkan Perusahaan Umum Lembaga Penyelenggara Pelayanan Navigasi Penerbangan (Perum LPPNPI) atau AirNav Indonesia. 
+
+Keputusan ini merupakan hasil rapat koordinasi pemangku kebijakan penerbangan Denpasar dan dipimpin Kepala Otoritas Bandar Udara Wilayah IV. 
+
+Berdasarkan data yang disajikan Stasiun Meteorologi Kelas I Ngurah Rai, debu vulkanik Gunung Agung diindikasikan tidak menutupi ruang udara Bandara Ngurah Rai. 
+
+" Data yang diambil <TIMEX3 tid="t4" type="TIME" value="2018-06-28T13:25">pukul 13.25 WITA</TIMEX3> menyatakan sebaran debu tidak menutupi koordinat Bandara I Gusti Ngurah Rai, " kata Sekretaris Perusahaan AirNav Indonesia, Didiet K. 
+
+S. 
+
+Radityo dalam keterangan resmi AirNav, <TIMEX3 tid="t5" type="DATE" value="2018-06-29">Jumat (29/6)</TIMEX3>. 
+
+(. 
+
+Selain itu Badan Usaha Milik Negara ini juga memonitor perkembangan yang terjadi di Gunung Agung dengan berkoordinasi dengan sejumlah instansi. 
+
+" Seluruh penerbangan dari dan ke Bandara I Gusti Ngurah Rai akan diperbarui datanya dan menyesuaikan kondisi terkini, " kata Didiet. 
+
+Sebelumnya, pemerintah memutuskan menutup sementara Bandara I Gusti Ngurah Rai pada <TIMEX3 tid="t6" type="TIME" value="2018-06-28T03:00">pukul 03.00 WITA</TIMEX3> dini <TIMEX3 tid="t7" type="DATE" value="UNKNOWN">hari tadi</TIMEX3>. 
+
+Penutupan ini dikarenakan adanya akibat aktivitas Gunung Agung. 
+
+Erupsi yang terjadi sejak <TIMEX3 tid="t8" type="DATE" value="2018-06-28">Kamis (28/6) kemarin</TIMEX3>, telah menyebabkan hujan abu hingga wilayah barat dan barat daya Pulau Dewata. 
+
+Penutupan sementara ini direkomendasikan usai rapat koordinasi. 
+
+Selain itu, banyak maskapai yang membatalkan penerbangan dengan alasan keselamatan. 
+
+Penutupan bandara direkomendasikan pada <TIMEX3 tid="t9" type="TIME" value="2018-06-28T03:00">pukul 03.00</TIMEX3> Waktu Indonesia Bagian Tengah (<TIMEX3 tid="t10" type="TIME" value="UNKNOWN">WITA</TIMEX3>) hingga <TIMEX3 tid="t11" type="TIME" value="2018-06-29T19:00">19.00 WITA nanti</TIMEX3>. 
+
+" Evaluasi akan diadakan kembali <TIMEX3 tid="t12" type="TIME" value="2018-06-29T12:00">pukul 12.00 WITA nanti</TIMEX3>, " ujar Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana Sutopo Purwo Nugroho tadi <TIMEX3 tid="t13" type="TIME" value="2018-06-29TMO">pagi</TIMEX3>. 
+
+
+</TEXT>
+
+</TimeML>

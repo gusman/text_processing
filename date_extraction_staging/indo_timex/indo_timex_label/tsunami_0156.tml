@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0156</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-05</TIMEX3></DCT>
+
+<TITLE>PMI Layani Kesehatan Korban Tsunami</TITLE>
+
+<TEXT>
+Pasca tsunami Selat Sunda menggulung pesisir pantai di Banten dan Lampung, para korban selamat harus berjuang dari penyakit. 
+
+Akibat dampak bencana, korban yang mengungsi di Posko banyak terserang diare dan demam. 
+
+Pelayanan kesehatan pun telah menyasar ke wilayah yang terkena penyakit tersebut. 
+
+Salah satunya pelayanan yang dilakukan PMI Kota Tangerang, <TIMEX3 tid="t1" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+Kepala Biro Humas PMI Kota Tangerang, Ade Kurniawan mengatakan, sekitar 70 orang baik anak-anak maupun dewasa telah diberikan pelayanan kesehatan di wilayah tersebut. 
+
+Kami lakukan pemeriksaan kesehatan karena banyak anak-anak yang sudah terkena penyakit, di antaranya diare, gatal-gatal hingga demam, kata Ade. 
+
+Menurutnya, para korban yang terkena penyakit tersebut akibat dampak dari aktivitas Gunung Anak Krakatau yang mengalami erupsi <TIMEX3 tid="t2" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+Insya Allah dengan pelayanan yang kami berikan mereka bisa sehat, pulih kembali seperti sediakala, ucap Ade. 
+
+Selain menjalani pemeriksaan, para korban juga diberikan program dukungan psikososial (PSP). 
+
+PSP juga untuk meningkatkan kesejahteraan psikososial individu maupun masyarakat agar tetap berfungsi optimal pada saat mengalami krisis dalam situasi bencana, imbuhnya. 
+
+Tak hanya memberikan bantuan di Posko Kalicaa, para relawan PMI pun mendistribusikan logistik di Desa Cimanis dengan menyalurkan beras, mie instan, telur dan selimut. 
+
+Saluran bantuan ini akan meringankan beban 3.000 korban terdampak di Desa Cimanis, paparnya. 
+
+(mg9) Source link 
+</TEXT>
+
+</TimeML>

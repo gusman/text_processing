@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1000</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-04-20" temporalFunction="false" functionInDocument="CREATION_TIME">2016-04-20</TIMEX3></DCT>
+
+<TITLE>Pascagempa Kumamoto, KBRI Tokyo Masih Evakuasi Warga Indonesia di Jepang</TITLE>
+
+<TEXT>
+Usai gempa Jepang, Kedutaan Besar RI (KBRI) di Tokyo masih terus melakukan evakuasi terhadap WNI yang ada di negeri sakura tersebut. 
+
+<TIMEX3 tid="t1" type="DATE" value="2016-04-20">Rabu (20/4/2016)</TIMEX3>, evakuasi WNI masih dilakukan ke berbagai wilayah antara lain Hiroshima, Fukuoka, Osaka, serta Tokyo. 
+
+<TIMEX3 tid="t2" type="DATE" value="2016-04-19">Sehari sebelumnya</TIMEX3>, tim dari KBRI Tokyo melakukan evakuasi terhadap 19 mahasiswa ke Fukuoka. 
+
+" Memperhatikan situasi di wilayah Kumamoto yang masih diguncang gempa dan belum kondusif, KBRI Tokyo tetap menempatkan tim relief untuk membantu para WNI, " tulis pernyataan dari KBRI Tokyo. 
+
+Dijelaskan bahwa kondisi di wilayah Kumamoto jauh lebih parah karena bandara, akses transportasi, sumber logistik sangat terbatas usai gempa. 
+
+Berbeda dengan kondisi di wilayah Beppu karena fasilitas air dan listrik tetap menyala, toko-toko pun tetap buka secara normal pascagempa. 
+
+" KBRI Tokyo sampai <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih terus menjalin komunikasi dan koordinasi erat dengan para korban di Kumamoto serta di Beppu, " tambahnya. 
+
+Komunikasi dilakukan melalui jaringan Persatuan Pelajar Indonesia (PPI) Kumamoto dan Kyushu, Ketua Fumiku (Persaudaraan Muslim Kumamoto), serta para pengajar di Universitas Kumamoto dan Beppu. 
+
+(*) 
+</TEXT>
+
+</TimeML>

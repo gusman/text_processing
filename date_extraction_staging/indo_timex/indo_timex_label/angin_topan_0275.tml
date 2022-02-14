@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0275</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-07" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-07</TIMEX3></DCT>
+
+<TITLE>Bantuan Pemkot Bogor Belum Turun, Warga Korban Angin Puting Beliung Antre Nasi Kotak dari Dermawan</TITLE>
+
+<TEXT>
+Ratusan warga yang terkena dampak dari bencana alam puting beliung rela antre untuk mendapatkan nasi boks atau nasi kotak yang dibagikan oleh para dermawan dari orang tua murid di Sekolah Alam, Tanah Baru, Kota Bogor. 
+
+Kondisi tersebut dikarenakan paska terjadi peristiwa Puting Beliung belum ada bantuan makanan yang diberikan oleh Pemkot Bogor hingga <TIMEX3 tid="t1" type="TIME" value="2018-12-06TAF">siang tadi</TIMEX3> pukul <TIMEX3 tid="t2" type="TIME" value="2018-12-06T12:00">12.00 WIB</TIMEX3>. 
+
+Warga pun berebut agar perutnya bisa terisi lantaran belum adanya bantuan yang diberikan oleh Pemkot Bogor. 
+
+Rani orangtua murid dari Sekolah Alam di Tanah Baru, Kota Bogor mengatakan bahwa kegiatan sosial tersebut memang rutin dilakukan. 
+
+Namun karena bertepatan dengan adanya bencana alam Ia dan para orangtua murid dan donatur pun membagikan nasi di lokasi bencana alam. 
+
+" Kita memang rutin, kami mendapat informasi ini juga baru terus kami bagikan disini, kalau biasanya kita muter membagikannya, " katanya. 
+
+Rani mengatakan bahwa donasi tersebut diberikan oleh para orangtua murid dan perkumpulan Lapak Sahabat. 
+
+Ada 120 bungkus nasi dan ayam yang dibagikan oleh para dermawan tersebut.warga berharap agar pemerintah Kota Bogor bisa cepat menangani bencana alam puting beliung. " Iya harinini yang kita bagikan ada 120 kotak, memang tidak bisa memenuhi kebutuhan semua warga, makanya kami juga meminta maaf tidak bisa membantu semuanya, " ujarnya. 
+</TEXT>
+
+</TimeML>

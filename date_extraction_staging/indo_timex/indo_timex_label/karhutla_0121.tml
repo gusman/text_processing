@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0121</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-04" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-04</TIMEX3></DCT>
+
+<TITLE>Sepuluh Titik Panas Terdeteksi di Kabupaten Tapin, di Sini Lokasi-lokasinya</TITLE>
+
+<TEXT>
+Sebanyak sepuluh titik panas terdeteksi satelit pemantau berada di wilayah Kabupaten Tapin, Provinsi Kalimantan Selatan, <TIMEX3 tid="t1" type="DATE" value="2019-08-04">Minggu (4/8/2019)</TIMEX3>. 
+
+Informasi dihimpun reporter Banjarmasinpost. 
+
+co. 
+
+id dari Puadalops Penanggulangan Bencana Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Tapin tak hanya di satu kecamatan. 
+
+Jika sebelumnya, lahan tidur di wilayah Kecamatan Tapin Tengah yang langganan kebakaran. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Kini</TIMEX3> bertambah menjadi tiga kecamatan. 
+
+Satu titik panas di Kecamatan Tapin Tengah, diduga berada di Desa Hiyung. 
+
+Tiga titik panas di Desa Masta, Kecamatan Bakarangan. 
+
+Berikutnya empat titik Desa Sungai Rutas Hulu, Pabaungan Hulu di Kecamatan Candi Laras Selatan. 
+
+Dua titik Desa Sawaja di Kecamatan Candi Laras Utara. 
+
+Informasi yang diperbaharui Pusdalops BPBD Kabupaten Tapin, tiga titik panas di Desa Masta, Kecamatan Bakarangan, dicek ke lapangan sudah dinyatakan padam. 
+
+Satgas gabungan tim penanggulangan bencana kebakaran hutan dan lahan mengalami kesulitan melakukan pengecekan di wilayah Kecamatan Candi Laras Selatan.Itu karena hanya mampu memantau kepulan asap dari jarak 1,5 kilometer. 
+
+Alasannya tidak ada akses untuk mendekati titik panas di wilayah tersebut.Plt Kepala Bidang Kedaruratan dan Logistik pada BPBD Kabupaten Tapin, H Akhmad Syofyan membenarkan wilayah Kabupaten Tapin terdapat titik panas yang terpantau satelit juga dicek melalui patroli udara. " Pesawat helikopter BNPB melakukan patroli udara sudah melintas di wilayah Kabupaten Tapin. 
+
+Titik Panas yang terpantau patroli udara berada di wilayah Kecamatan Tapin Tengah, " katanya. 
+
+(banjarmasinpost.co.id/ mukhtar wahid) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0323</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-27" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-27</TIMEX3></DCT>
+
+<TITLE>Pangdam III/Siliwangi dan Kapolda Jabar, Pantau Lokasi Banjir Dayeuhkolot</TITLE>
+
+<TEXT>
+Pangdam III/Siliwangi Mayjen TNI Nugroho Budi Wiryanto bersama Kapolda Jabar Irjen Drs. 
+
+Rudy Sufahriadi melakukan pemantauan langsung ke beberapa lokasi banjir yang terjadi di wilayah Kabupaten Bandung, <TIMEX3 tid="t1" type="DATE" value="2020-01-27">Senin (27/1/2020)</TIMEX3>. 
+
+Banjir tersebut, akibat itensitas curah hujan yang tinggi dan ditambah dengan meluapnya air dari Sungai Citarum mengakibatkan banjir dibeberapa daerah. 
+
+Diantaranya, desa terdampak banjir yang dikunjungi Pangdam III/Siliwangi dan Kapolda Jabar seperti Desa Andir dan Dayeuhkolot serta Desa Citeureup Kecamatan Citeureup Kabupaten Bandung. 
+
+Terpantau, dengan menggunakan perahu karet rombongan menyusuri jalan-jalan perkampungan yang sedang digenangi air setinggi 50 Cm hingga 2 Meter kedalamannya. 
+
+Pada kesempatan tersebut, Pangdam III/Siliwangi dan Kapolda Jabar menggunakan perahu mendekati dan menyapa warga sekaligus memberikan bantuan bingkisan sembako sebagai bentuk perhatian dan kepedulian kepada masyarakat yang tertimpa musibah banjir. 
+
+Turut mendampinggi pada rombongan Pangdam III/Siliwangi yaitu Dansektor 7 Satgas Citarum Harum dan para Asisten Kasdam III/Siliwangi lainnya serta pejabat utama Polda Jabar. 
+
+*** 
+</TEXT>
+
+</TimeML>

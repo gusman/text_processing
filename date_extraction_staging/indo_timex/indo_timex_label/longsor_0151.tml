@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0151</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-03" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-03</TIMEX3></DCT>
+
+<TITLE>Lebak Darurat Bencana, 1.060 Rumah Rusak Berat dan 20 Jembatan Putus</TITLE>
+
+<TEXT>
+Pemkab Lebak menetapkan darurat bencana pasca banjir bandang yang menerjang enam kecamatan di Kabupaten Lebak, <TIMEX3 tid="t1" type="DATE" value="2020-01-01">Rabu (1/1)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2020-01-02T06:00">pukul 06.00 WIB</TIMEX3>. 
+
+Enam kecamatan tersebut meliputi Cipanas, Lebak Gedong, Cimarga, Curugbitung, Maja, dan Sajira. 
+
+Pascabencana, ribuan warga terutama dari Desa Banjar Irigasi, Kecamatan Lebak Gedong, Kabupaten Lebak dievakuasi. 
+
+Sebab, selain wilayah tersebut terisolir, kondisi tanah juga masih bergerak yang berpotensi kembali longsor. 
+
+Kepala Pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Lebak, Kaprawi mengatakan Pemkab Lebak telah mendirikan tujuh posko pengungsian. 
+
+Posko itu yakni posko Gedung PGRI Kecamatan Sajira yang menampung sebanyak 171 kepala keluarga (KK), posko Desa Calung Bungur, Kecamatan Sajira sebanyak 75 KK, dan posko pengungsi Desa Bungue Mekar, Kecamatan Sajira sebanyak 50 KK. 
+
+Lantas, posko pengungsi Desa Tambak, Kecamatan Cimarga sebanyak 31 KK, posko Kecamatan Cipanas sebanyak 100 KK, posko pengungsi Desa Mayak, Kecamatan Curugbitung sebanyak 150 KK, dan posko pengungsi Desa Banjar Irigasi, Kecamatan Lebak Gedong sebanyak 300 KK. 
+
+Jadi jumlah pengungsi yang tercatat di tujuh posko sebanyak 627 kepala keluarga. 
+
+Untuk logistik kita penuhi untuk para pengungsi korban banjir bandang, katanya kepada Banten Ekspres, <TIMEX3 tid="t3" type="DATE" value="2020-01-02">Kamis (2/1)</TIMEX3>. 
+
+Menurut Kaprawi, dari enam kecamatan yang terdampak banjir bandang, ada sekitar 25 desa terdampak dengan 37 titik lokasi dengan jumlah kerusakan 1.060 rumah rusak berat yang terdiri atas ambruk dan hanyut, 428 rumah rusak ringan, dan 1.226 rumah terendam. 
+
+Sedangkan untuk kerusakan infrastruktur akibat bencana tersebut, kata dia, sebanyak 20 jembatan rusak terdiri dari jembatan gantung 17 unit dan jembatan permanen sebanyak tiga unit. 
+
+Sementara untuk gedung sekolah, lanjut dia, yakni geudng SMPN 4 Lebak Gedong hanyut terbawa arus dan tidak tersisa dan gedung SDN 1 dan 2 Banjar Irigasi, Kecamatan Lebak Gedong rusak berat. 
+
+Untuk ruas Jalan Cipanas-Warung Banten yang banyak mengalami longsor di beberapa titik ditangani oleh Dinas PUPR (Pekerjaan Umum dan Penataan Ruang) Provinsi Banten, karena jalan tersebut merupakan kewenangannya di Provinsi Banten, ujar Kaprawi. 
+
+Untuk korban jiwa akibat bencana ini, kata Kaprawi, satu orang meninggal karena hanyut atas nama Uding (50), warga Desa Banjarsari, Kecamatan Lebak Gedong. 
+
+Kemudian dua orang warga dengan alamat yang sama atas nama Arsan (50) dan Rizky (8) hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ditemukan setelah hanyut terbawa arus banjir bandang. 
+
+Adapun enam orang yang tertimbun longsor di Kampung Cinyiru, Desa Banjar Irigasi belum jelas kebenarannya, namun sejumlah tim mulai dari tim SAR, TNI, dan Polri sedang menuju ke lokasi dengan medan yang cukup berat, paparnya. 
+
+Sementara itu, Komadan Tanggap Darurat Pemkab Lebak, Bupati Lebak Iti Octavia Jayabaya telah menetapkan darurat kebencanaan mulai tanggal 1-16 <TIMEX3 tid="t5" type="DATE" value="2020-01">Januari 2020</TIMEX3>. 
+
+Penetapan tanggap darurat ini dikeluarkan artinya semua elemen masyarakat baik OPD, perusahaan, milik swasta atau BUMN agar bahu membahu membantu korban bencana apapun bentuknya, ucapnya. 
+
+Pelaksana Teknis Pemiliharaan Jalan dan Jembatan pada Dinas PUPR Banten wilayah Lebak, Kuncoro mengatakan khusus ruas Jalan Cipanas-Warung Banten batas Jabar ada 16 titik yang tergerus longsor hingga memutus akses jalan.Sedangkan jembatan yang menjadi kewenangan Provinsi Banten, kata dia, ada tiga jembatan yang terputus, yakni jembatan Ciberang yang berada di Desa Ciladean, Kecamatan Lebak Gedong, serta Jembatan Cinyiru dan Jembatan Citagogak yang berada di Desa Banjarsari, Kecamatan Banjar. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kita prioritaskan pembukaan jalan yang kemungkinan masih dapat dilintasi kendaraan rida empat, katanya. 
+
+(mg-05/tnt) 
+</TEXT>
+
+</TimeML>

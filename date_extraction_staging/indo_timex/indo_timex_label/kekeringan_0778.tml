@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0778</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-06-18" temporalFunction="false" functionInDocument="CREATION_TIME">2014-06-18</TIMEX3></DCT>
+
+<TITLE>Kekeringan Melanda Wilayah Bantul</TITLE>
+
+<TEXT>
+Dampak kekeringan di Bantul semakin meluas. 
+
+Di Dusun Kaligatuk, Sambiroto, dan Ngalas Gede, Desa Srimulyo, Kecamatan Piyungan, warga mulai kesulitan mendapatkan air bersih. 
+
+Sumber air hanya berada di Dusun Pandean, Desa Srimulyo. 
+
+Kepala Sekolah SD Kaligatuk Parsiyah mengungkapkan, akibat kekeringan itu, dalam <TIMEX3 tid="t1" type="DURATION" value="P2W">dua minggu</TIMEX3> terakhir, siswanya terpaksa membawa air dari rumah dengan botol ataupun kaleng bekas, untuk keperluan mereka di kamar mandi. 
+
+" Lha bagaimana lagi? Karena banyak murid saya kalau kencing dimasukkan ke kantong plastik. 
+
+Dan dibuang ke bak sampah agar bisa dibakar. 
+
+Kalau buang air di kamar mandi mereka takut menimbulkan bau pesing, " katanya, <TIMEX3 tid="t2" type="DATE" value="2014-06-18">Rabu (18/6/2014)</TIMEX3>. 
+
+Untuk mengharapkan sumber mata air yang ada, pihak sekolah terpaksa mengalah untuk warga. 
+
+Atas dasar tersebut, pihaknya mengajukan permohonan bantuan dropping air ke Pemkab Bantul. 
+
+Namun nampaknya droping air yang diberikan tidak bisa lama. 
+
+Diperkirakan, satu tangki air hanya cukup untuk <TIMEX3 tid="t3" type="DURATION" value="P1W">seminggu</TIMEX3>. 
+
+Terlebih pada Ramadan, kebutuhan air warga meningkat untuk kegiatan keagamaan. 
+
+Pihaknya berharap, droping air dilakukan beberapa kali untuk memenuhi kebutuhan warga. 
+
+" Ya, kalau habis, kasihan murid saya. 
+
+Kalau bawa air dari rumah, di rumahnya saja kesulitan air, " terangnya. 
+
+(san) 
+</TEXT>
+
+</TimeML>

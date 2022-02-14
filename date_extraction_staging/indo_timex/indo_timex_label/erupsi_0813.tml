@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0813</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-08-09" temporalFunction="false" functionInDocument="CREATION_TIME">2016-08-09</TIMEX3></DCT>
+
+<TITLE>Gunung Bromo Erupsi, Penerbangan Garuda Malang-Jakarta Dialihkan dari Surabaya</TITLE>
+
+<TEXT>
+Penerbangan maskapai Garuda Indonesia pada <TIMEX3 tid="t1" type="DATE" value="2016-08-09">Selasa (9/8/2016)</TIMEX3> dengan nomor penerbangan GA291 dan GA293 dari Bandara Abdulrachman Saleh, Malang menuju Bandara Internasional Soekarno-Hatta Tangerang, Banten dialihkan dari Bandara Internasional Juanda, Surabaya. 
+
+. 
+
+Salah seorang penumpang, Doddy Ardiansyah (43 tahun) mendapatkan informasi dari Kantor Pelayanan Garuda di Hotel Savana, Malang <TIMEX3 tid="t2" type="TIME" value="2016-08-08T10:00">sekitar pukul 10.00 WIB</TIMEX3> tentang pengalihan rute tersebut. 
+
+Calon penumpang diminta mengkonfirmasi langsung ke kantor pelayanan di Bandara Abdulrachman Saleh. 
+
+Tiba di kantor pelayanan Garuda Indonesia di Bandara Abdulrachman Saleh, Doddy diinformasikan oleh petugas customer service bahwa Garuda Indonesia menyediakan shuttle bus untuk penumpang yang mengalami pengalihan rute. 
+
+Bus yang disediakan Garuda Indonesia akan berangkat dari Malang menuju Surabaya <TIMEX3 tid="t3" type="TIME" value="2016-08-08T12:30">sekitar pukul 12.30 WIB</TIMEX3>. 
+
+Pantauan Kompas. 
+
+com, pihak Garuda Indonesia juga memajang pengumuman pengalihan penerbangan di kaca bagian customer service. 
+
+" Bagi penumpang GA 291/293/MLG-CGK akan kami alihkan ke Bandara Juanda Surabaya menggunakan transportasi darat (bus). 
+
+Bus akan diberangkatkan dari Bandara Malang Bus-01 <TIMEX3 tid="t4" type="TIME" value="2016-08-08T10">jam 10.30</TIMEX3>, bus-02 <TIMEX3 tid="t5" type="TIME" value="2016-08-08T12">jam 12.30</TIMEX3>, " bunyi pengumuman tersebut. 
+
+Penerbangan Garuda Indonesia dengan nomor penerbangan GA 291 akan diberangkatkan dari Bandara Internasional Juanda pada <TIMEX3 tid="t6" type="TIME" value="2016-08-08T15:00">pukul 15.00</TIMEX3> dan tiba di Bandara Internasional Soekarno-Hatta pada <TIMEX3 tid="t7" type="TIME" value="2016-08-08T16:35">16.35 WIB</TIMEX3>. 
+
+// Sementara penerbangan Garuda Indonesia dengan nomor penerbangan GA 293 akan diberangkatkan dari Bandara Internasional Juanda pada <TIMEX3 tid="t8" type="TIME" value="2016-08-08T17:00">pukul 17.00</TIMEX3> dan tiba di Jakarta pada <TIMEX3 tid="t9" type="TIME" value="2016-08-08T18:35">pukul 18.35</TIMEX3>. 
+
+Selain Doddy, penumpang lain juga sudah mendapat info terkait pengalihan penerbangan sejak <TIMEX3 tid="t10" type="TIME" value="2016-08-08T09:00">pukul 09.00</TIMEX3>. 
+
+Vice President Communication Garuda Indonesia Benny Butar-Butar tidak merespons pesan Kompas. 
+
+com, ketika dimintai konfirmasi. 
+
+Pantauan Kompas. 
+
+com di Bandara Abdulrachman Saleh, tidak ada calon penumpang yang komplen ke service center Sriwijaya Air. 
+
+Ketika dikonfirmasi ke petugas customer service, diinformasikan bahwa sejauh ini belum ada perubahan atau pengalihan penerbangan Sriwijaya Air dari Bandara Abdulrachman Saleh. 
+</TEXT>
+
+</TimeML>

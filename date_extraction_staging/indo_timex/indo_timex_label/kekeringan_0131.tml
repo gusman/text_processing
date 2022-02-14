@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0131</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-25" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-25</TIMEX3></DCT>
+
+<TITLE>Miris Kekeringan, Warga Patia Gunakan Air Kotor</TITLE>
+
+<TEXT>
+Kemarau yang terjadi sejak <TIMEX3 tid="t1" type="DATE" value="2017-06">Juni lalu</TIMEX3> mengakibatan sumur-sumur warga di Kampung Patia, Desa Patia, Kecamatan Patia, kekeringan. 
+
+Lantaran itu, warga setempat menggunakan air keruh dan dipenuhi dedaunan untuk minum, mandi, dan mencuci yang mengalir di Sungai Cipatia. 
+
+Kondisi itu membuat warga waswas lantaran khawatir berdampak terhadap kesehatan. 
+
+Kami ini dari Lebaran kesulitan air bersih. 
+
+Kami pakai air keruh ini karena terpaksa saja. 
+
+Soalnya, sumur kami sudah kering, kata Maspupah saat mencuci pakaian di bantaran Sungai Cipatia, Desa Patia, Kecamatan Patia, <TIMEX3 tid="t2" type="DATE" value="2017-07-24">Senin (24/7)</TIMEX3>. 
+
+Untuk kebutuhan air di rumah, ibu beranak empat ini mengaku, harus mengangkut air sejauh 500 meter menelusuri pematang sawah dari Sungai Cipatia ke rumahnya. 
+
+Kami juga harus mengangkut air dari sini, ya buat stok di rumah, katanya. 
+
+Lantaran itu, Maspupah meminta bantuan air bersih dari Pemkab untuk kebutuhan konsumsi warga agar tidak kesulitan untuk mencari air sampai mengangkut dari sungai. 
+
+Apalagi kalau ada pembangunan sumur umum yang airnya mencukupi, kami sangat terbantu, katanya. 
+
+Ditemui di kantornya, Kepala Desa (Kades) Patia Samsudin berjanji untuk mengusulkan bantuan air bersih ke Pemkab Pandeglang atau ke pihak swasta untuk kebutuhan warga. 
+
+Selain akan kami usulkan bantuan air bersih untuk <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, kami juga akan mengusulkan pembangunan SAB (sarana air bersih) ke Pemkab, katanya. 
+
+Kepala Seksi Kesejahteraan Sosial Kecamatan Patia Koswara memastikan, permohonan bantuan air bersih akan segera disampaikan ke Pemkab. 
+
+Dikhawatirkan, jika terlalu lama warga menggunakan air kotor, bisa mengakibatkan penyakit gatal-gatal dan berbagai penyakit lainnya. 
+
+Kami juga khawatir warga sakit akibat menggunakan air kotor. 
+
+Maka dari itu, usulan permohonan air bersih akan segera disampaikan, katanya. 
+
+(Herman/RBG) 
+</TEXT>
+
+</TimeML>

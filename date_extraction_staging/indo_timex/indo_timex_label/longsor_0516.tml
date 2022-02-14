@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0516</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-20" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-20</TIMEX3></DCT>
+
+<TITLE>Begini Kronologi Penemuan Korban Longsor di Bantul</TITLE>
+
+<TEXT>
+Jarum jam menunjukan <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">pukul tiga sore</TIMEX3>, ketika petugas dan sejumlah relawan mulai menemukan titik lokasi keberadaan korban yang tertimbun tanah longsor di Kedung Buweng, Desa Wukirsari, Kecamatan Imogiri, Kabupaten Bantul. 
+
+<TIMEX3 tid="t2" type="DATE" value="PAST_REF">Saat itu</TIMEX3> petugas langsung menghentikan operasi alat berat. 
+
+Proses pencarian kemudian dilanjutkan dengan cara manual, yakni menggunakan garukan tangan dan dikocor memakai mobil pemadaman kebakaran. 
+
+" Pertama kali ketemu Ruffi. 
+
+<TIMEX3 tid="t3" type="TIME" value="2019-03-19T15:00">Pukul 15.00 WIB</TIMEX3>. 
+
+Kelihatan rambutnya. 
+
+Kita kemudian garuk pakai tangan dan dikocor pakai air, " kata Amin Mutajir, anggota Pusdalops BPBD Kabupaten Bantul saat ditemui Tribunjogja. 
+
+com di lokasi kejadian, <TIMEX3 tid="t4" type="TIME" value="2019-03-20TAF">Rabu (20/3/2019) sore</TIMEX3>. 
+
+Amin <TIMEX3 tid="t5" type="TIME" value="2019-03-20TAF">sore itu</TIMEX3> ikut dalam misi kemanusiaan. 
+
+Ia mencari Ruffi Kusuma Putri dan Eko Supratmi, dua korban hilang tertimbun tanah longsor di Bantul. 
+
+Saat ditemukan, kata Amin, tubuh Ruffi berada di bagian paling dasar dengan posisi di atas kasur, bercampur dengan tanah. 
+
+Petugas sangat hati-hati melakukan evakuasi.Butuh waktu 30 menit untuk melakukan evakuasi terhadap tubuh gadis <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">sembilan tahun itu</TIMEX3>.Ketika tubuh Ruffi berhasil diangkat, petugas menemukan kaki dari Eko Supratmi. 
+
+// Keduanya dalam posisi saling berdekatan. 
+
+" Kemungkinan keduanya sedang rebahan di atas kasur, " duganya. 
+
+Tubuh keduanya berhasil diangkat dengan jeda masing-masing <TIMEX3 tid="t7" type="DURATION" value="PT30M">sekitar 30 menit</TIMEX3>. 
+
+Dalam keadaan masih utuh, lengkap dengan baju yang terakhir kali dikenakan. 
+
+Kedua tubuh korban kemudian segera dilarikan ke Rumah Sakit Bhayangkara untuk dilakukan identifikasi. 
+
+Bupati Bantul Drs Suharsono hadir dalam proses evakuasi. 
+
+Sebagai Kepala Daerah, ia menyampaikan rasa terimakasih, kepada semua institusi ataupun unsur relawan yang terlibat dalam proses pencarian. 
+
+Dengan ditemukannya dua korban, status tanggap bencana di Bantul, kata Bupati terus dilanjutkan. 
+
+Ia meminta kepada seganap relawan untuk membantu warga yang terdampak bencana. 
+
+" Operasi sampai <TIMEX3 tid="t8" type="DURATION" value="P7D">tujuh hari</TIMEX3>, kalau perlu ditambah. 
+
+Supaya mengurangi beban warga yang terkena bencana, " ujar dia. 
+
+(*) 
+</TEXT>
+
+</TimeML>

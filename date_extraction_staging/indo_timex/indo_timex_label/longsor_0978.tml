@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0978</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-11-29" temporalFunction="false" functionInDocument="CREATION_TIME">2016-11-29</TIMEX3></DCT>
+
+<TITLE>Longsor Terjadi di Karangpandan, Karanganyar, Satu Orang Meninggal, Dua Orang Hilang</TITLE>
+
+<TEXT>
+Lonsor terjadi di Tegalsari Rt 01/15, Bulurejo, Kecamatan Karangpandan, Karanganyar, <TIMEX3 tid="t1" type="DATE" value="2016-11-29">Selasa (29/11/2016)</TIMEX3>. 
+
+Informasi yang TribunSolo. 
+
+com terima dari Badan Penanggulangan Bencana Daerah (BPBD) Karanganyar, longsoran besar terjadi setelah hujan lebat <TIMEX3 tid="t2" type="DATE" value="2016-11-28">Senin (28/11/2016) kemarin</TIMEX3>. 
+
+Akibat longsoran itu, data sementara menyebut 6 orang jadi korban. 
+
+Satu orang ditemukan meninggal dunia, 3 diantaranya selamat, dan 2 orang dinyatakan hilang. 
+
+Adapun datan enam korban yakni:1. 
+
+Sutoyo, warga Gondang Gentong Rt <TIMEX3 tid="t3" type="DATE" value="2016-06-01">01/06</TIMEX3> Karangpandan (meninggal dunia).2. 
+
+Paimin, warga Gondang Gentong Rt06/06 Karngpandan (selamat)3. 
+
+Dikem, warga Tegalsari Rt 01/15 Bulurejo Karangpandan (selamat)4. 
+
+Basuki, warga Gondang Gendong Rt <TIMEX3 tid="t4" type="DATE" value="2016-06-05">05/06</TIMEX3> Karangpandan (selamat)5. 
+
+Gito, warga Sintru Kembang Doplang (hilang)6. 
+
+Ibu Darmo/ Daliyem, warga Tegalsari Rt 01/15 Bulurejo, Karangpandan (hilang). 
+
+Korban hilang masih dalam pencarian BPBD dan SAR Karanganyar. 
+
+
+</TEXT>
+
+</TimeML>

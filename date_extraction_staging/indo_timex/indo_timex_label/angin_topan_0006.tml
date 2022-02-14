@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0006</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-20" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-20</TIMEX3></DCT>
+
+<TITLE>Prihatin, KAHMI Cari Dana Bantu Korban Puting Beliung</TITLE>
+
+<TEXT>
+Prihatin bencana angin puting beliung Kecamatan Sungai Mas terus mengalir. 
+
+Pengurus Korops Alumni Himpunan Mahasiswa Islam (KAHMI) Aceh Barat menggalang dana dengan cara turun ke jalan-jalan di Meulaboh, <TIMEX3 tid="t1" type="DATE" value="2019-08-20">Selasa (20/8)</TIMEX3>. 
+
+Kegiatan penggalangan dana dipusatkan pada Tugu Simpang Kisaran. 
+
+Selain alumni, para kader HMI dan pengurus Dewan mahasiswa STAIN Meulaboh, juga turut ikut serta membantu menggalang dana. 
+
+Selain turun ke jalan, kami juga menghimpun bantuan dari alumni HMI yang tergabung dalam grub whatshapp alumni HMI lintas generasi, tutur Ketua Presidium KAHMI Aceh Barat, Said Marda, <TIMEX3 tid="t2" type="DATE" value="2019-08-20">Selasa (20/8)</TIMEX3>. 
+
+Penjelasannya, kegiatan penggalangan dana mulai digelar <TIMEX3 tid="t3" type="DATE" value="2019-08-20">hari ini</TIMEX3> (<TIMEX3 tid="t4" type="DATE" value="2019-08-20">Selasa 20/8)</TIMEX3>. 
+
+Inisiatif ini, merupakan sebagai bentuk kepedulian alumni HMI dalam rangka membantu warga yang sedang dilanda musibah angin puting beliung yang memporak porandakan rumah warga di kecamatan sungaimas, Aceh Barat. 
+
+Aksi ini untuk membantu saudara-saudara kami yang sedang dilanda musibah. 
+
+Terima kasih teman-teman yang telah berkontribusi seikhlasnya. 
+
+Semoga bisa membantu meringankan beban para korban, ucap Said. 
+
+Informasi yang diperoleh dari Posko Dinsos dan Tagana Aceh Barat, angin puting beliung terjadi pada 18 dan <TIMEX3 tid="t5" type="DATE" value="2019-08-19">19 Agustus 2019</TIMEX3> melanda lima desa di Kecamatan Sungai Mas. 
+
+Meliputi Desa Lancong, Desa Sarah Perlak, Desa Tungkop, Desa Geudong, dan Desa Tutut. 
+
+Dengan Korban terdampak bencana 148 jiwa atau 44 KK. 
+
+(den) 
+</TEXT>
+
+</TimeML>

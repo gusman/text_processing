@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0008</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-09-16" temporalFunction="false" functionInDocument="CREATION_TIME">2017-09-16</TIMEX3></DCT>
+
+<TITLE>Rumah Warga Bireuen Rusak Tertimpa Pohon</TITLE>
+
+<TEXT>
+Satu rumah warga Teupok Baroh, Kecamatan Jeumpa tertimpa pohon, saat hujan disertai angin kencang melanda Kota Bireuen dan sekitarnya, <TIMEX3 tid="t1" type="DATE" value="2017-09-15">Jumat (15/9)</TIMEX3> sekira <TIMEX3 tid="t2" type="TIME" value="2017-09-15T10:00">pukul 10.00 WIB</TIMEX3>. 
+
+Selain rumah warga rusak, angin kencang juga mengakibatkan tiang listrik tumbang ke jalan Desa Cot Tarom Tunong, sehingga mengakibatkan listrik padam. 
+
+Informasi diperoleh Rakyat Aceh dari Kepala pelaksanakan BPBD Bireuen M Nasir mengatakan, rumah warga mengalami kerusakan akibat ditimpa pohon hagu dan hasan tumbang di Desa Teupok Baroh. 
+
+Paska kejadian, tim Satgas Pusdalops PB BPBD Bireuen, langsung turun ke lokasi untuk melakukan kajian cepat di lokasi kejadian. 
+
+Rumah tersebut, ditempati dua kepala keluarga, Nuriah Abdullah (63), ibu rumah tangga dengan tanggungan lima jiwa, dan Nazar (35) tanggungan dua jiwa. 
+
+Sementara akibat pohon dan tiang listrik tumbang ke jalan di Desa Cot Tarom Tunong, mengakibatkan listrik padam, dan terganggunya akses desa dan sudah dibersihkan, untuk tiang listrik juga dalam tahap perbaikan oleh Satgas PLN. 
+
+Kepala BPBD Bireuen, M Nasir, mengatakan, untuk bantuan masa panik sudah disalurkan Dinas Sosial kepada korban rumah rusak. 
+
+Penyerahan bantuan langsung disalurkan petugas ke rumah korban di Teupok Baroh, <TIMEX3 tid="t3" type="TIME" value="2017-09-15TAF">Jumat (15/9) sore</TIMEX3>. 
+
+(rah/slm) 
+</TEXT>
+
+</TimeML>

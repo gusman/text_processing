@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0718</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-12-28" temporalFunction="false" functionInDocument="CREATION_TIME">2017-12-28</TIMEX3></DCT>
+
+<TITLE>Wisatawan Diimbau Gunakan Masker Saat Berkunjung ke Tanah Karo</TITLE>
+
+<TEXT>
+Gunung Sinabung di Tanah Karo, Sumatera Utara sudah sejak <TIMEX3 tid="t1" type="DATE" value="2010">2010</TIMEX3> meletus. 
+
+Sejak <TIMEX3 tid="t2" type="DATE" value="2010-12-28">tujuh tahun lalu</TIMEX3>, gunung ini terus menyemburkan debu vulkanik, hingga menelan korban jiwa dari masyarakat yang bermukim di sekitarnya. 
+
+Pada <TIMEX3 tid="t3" type="TIME" value="UNKNOWN">Rabu (27/12/2017) sore kemarin</TIMEX3>, aktivitas Sinabung kembali meningkat. 
+
+Gunung meletus menyemburkan debu panas hingga merusak perladangan warga. 
+
+" Fenomena Gunung Sinabung ini jadi ketertarikan tersendiri dan menjadi objek wisata bagi wisatawan. 
+
+Karena sejak <TIMEX3 tid="t4" type="DATE" value="2017-12-27">kemarin</TIMEX3> debu sangat tebal, kami dari BPBD Tanah Karo mengimbau agar wisatawan yang hendak berkunjung mengenakan masker, " kata Kepala Bidang Kedaruratan BPBD Tanah Karo, Natanel Perangin-angin, <TIMEX3 tid="t5" type="DATE" value="2017-12-28">Kamis (28/12/2017)</TIMEX3>. 
+
+Natanel menjelaskan, meski debu cukup tebal, namun wisatawan tak perlu khawatir berkunjung ke Kota Berastagi. 
+
+Namun, jika ingin melihat Sinabung, kata dia, harus mematuhi aturan, dan mengetahui zona-zona yang telah dilarang pemerintah. 
+
+" Kondisi wilayah yang debunya cukup pekat itu terjadi di Kecamatan Namanteran dan Simpang Empat. 
+
+Di beberapa lokasi lainnya ada, tapi tidak begitu tebal seperti dua wilayah ini, " katanya. 
+
+Terpisah, M Yusuf Tarigan, petani tomat, kentang dan cabai mengaku merugi akibat debu Sinabung ini. 
+
+Ia terancam gagal panen karena tanaman rusak. 
+
+" Kondisi di tempat tinggal kami cuacanya cukup panas. 
+
+Kemudian, debunya cukup tebal, " kata Yusuf yang tinggal di Desa Naman.Ia mengatakan, debu vulkanik membuat mata perih. 
+
+Kemudian, debu juga membuat nafas sedikit agak sesak. " Kalau keluar rumah, kami harus pakai masker. 
+
+Karena debunya tebal pak. 
+
+<TIMEX3 tid="t6" type="TIME" value="2017-12-27">Kemarin sore itu</TIMEX3>, debunya hitam pekat, " ungkap Yusuf pada Tribun lewat selular.(Ray/tribun-medan.com) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0783</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-16</TIMEX3></DCT>
+
+<TITLE>Pemda Halbar Buka Posko Peduli Bagi Korban Gempa Halsel</TITLE>
+
+<TEXT>
+Pemerintah Kabupaten (Pemkab) Halmahera Barat membentuk posko peduli bagi korban gempa bumi di Kabupaten Halmahera Selatan yang terjadi pada <TIMEX3 tid="t1" type="DATE" value="2019-07-14">Minggu 14 Juli 2019 lalu</TIMEX3>. 
+
+Saya sudah perintahkan Sekda dan Kepala BPBD segera membentuk posko peduli untuk penggalangan dana bagi korban bencana di Halsel, ungkap Bupati Danny Missy, ketika ditemui di kantor Bupati, <TIMEX3 tid="t2" type="DATE" value="2019-07-16">Rabu (16/07/2019)</TIMEX3>. 
+
+Ketua HKTI Malut ini menambahkan, pokso peduli gempa yang dibentuk oleh Pemkab ini, nantinya menerima semua bantuan dari masyarakat maupun dari berbagai pihak yang ingin memberikan donasi bagi korban bencana di Halsel. 
+
+Bahkan, pemda Halbar juga bakal menyisipkan bantuan bagi korban bencana gempa di Halsel. 
+
+Saya berharap, masyarakat yang terdampak bencana bisa sabar menghadapi ujian ini. 
+
+Jangan panik dan mari kita sama sama berdoa agar keluarga, sahabat dan kerabat yang ada di halsel bisa terhindar dari musibah, ujarnya. 
+
+Terpisah Kepala BPBD Halbar Imran Lolori ketika dikonfirmasi menyatakan, posko peduli gempa yang dibuat oleh pemkab <TIMEX3 tid="t3" type="DATE" value="2019-07-16">hari ini</TIMEX3> sudah mulai action, sehingga penggalangan dana dimulai dari kantor Bupati yang disertai dengan upacara <TIMEX3 tid="t4" type="DURATION" value="P17M">17 bulan</TIMEX3> berjalan. 
+
+Imran menambahkan, gempa yang terjadi di Halsel, juga berdampak di Halbar, namun getarannya tidak terlalu kuat, sehingga masyarakat diminta tidak terlalu panik dan selalu mengupdate informasi dari BMKG. 
+
+Jangan terlalu panik dan selalu berikhtiar dan mengikuti informasi dari BMKG, ujarnya (tox) 
+</TEXT>
+
+</TimeML>

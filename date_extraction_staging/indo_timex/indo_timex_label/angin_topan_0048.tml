@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0048</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-24</TIMEX3></DCT>
+
+<TITLE>Di Bangli, Sejumlah Liang Kubur Rusak Tertimpa Pohon Tumbang</TITLE>
+
+<TEXT>
+Angin kencang menerjang wilayah Kabupaten Bangli, <TIMEX3 tid="t1" type="TIME" value="2019-01-17TAF">Kamis sore</TIMEX3> (24/1). 
+
+Kencangnya terjangan angin menyebabkan sebuah pohon kepuh berukuran besar yang tumbuh di areal Setra Desa Pakraman Kubu, tumbang dan menimpa bangunan bale lantang yang ada di dekatnya. 
+
+Beberapa liang kubur dan sebuah bangunan tempat membakar mayat juga rusak tertimpa pohon. 
+
+Selain di Setra Kubu, kejadian pohon tumbang juga terjadi di wilayah susut. 
+
+Akibatnya sebuah bangunan rumah milik warga rusak. 
+
+Informasi yang dihimpun menyebutkan, peristiwa tumbangnya pohon kepuh di Setra Kubu terjadi <TIMEX3 tid="t2" type="TIME" value="2019-01-23T17:00">sekitar pukul 17.00</TIMEX3> wita. 
+
+Pohon berdiameter lebih dari setengah meter itu tumbang lantaran tak kuat dengan terjangan angin. 
+
+Kasi Kedaruratan Bencana dan Logistik BPBD Bangli Ketut Agus Sutapa seizin Kalak BPBD Wayan Karmawan mengatakan tidak ada korban jiwa akibat kejadian itu. 
+
+Namun demikian, tumbangnya pohon mengakibatkan sebuah banguna bale lantang yang ada di dekat pohon rusak lantaran tertimba batang pohon. 
+
+Mengenai upaya penanganannya, <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihak desa pakraman akan melaksanakan rembug/musyawarah terlebih <TIMEX3 tid="t4" type="DATE" value="PAST_REF">dahulu</TIMEX3> untuk menentukan proses upacara/ritual. 
+
+Selanjutnya baru akan dilaksanakan penanganan, terangnya. 
+
+. 
+
+Kejadian itu mengakibatkan sebagian bangunan dapur milik warga I Ketut Sandi rusak tertimpa pohon. 
+
+Upaya penanganan sudah dilakukan oleh korban. 
+
+Kerugian sekitar Rp 10 juta, ujarnya. 
+
+Sementara itu berdasarkan data yang dihimpun dari Polres Bangli, peristiwa pohon tumbang juga dilaporkan terjadi di Banjar Serokadan, Desa Abuan, Susut. 
+
+Kejadian itu menyebabkan sebuah rumah milik warga Nyoman Mudiarta rusak. 
+
+Tidak ada korban jiwa akibat kejadian itu. 
+
+Korban mengalami kerugian Rp 5 juta rupiah. 
+
+Di tempat lainnya, kencangnya angin memicu ranting pohon patah di jalan jurusan Bangli-Kayuambua, tepatnya di Banjar Lumbuan, Desa Sulahan, Susut. 
+
+Akibat kejadian itu, kabel listrik terputus dan menimbulkan percikan api hingga membakar kabel. 
+
+Kejadian itu <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">kini</TIMEX3> telah ditangani PLN. 
+
+Di Tembuku, kencangnya angina menyebbakan pohon bambu tumbang ke jalan. 
+
+Oleh petugas kepolisian, kejadian itu sudah ditangani dengan melakukan pembersihan. 
+
+(dayu rina/balipost) 
+</TEXT>
+
+</TimeML>

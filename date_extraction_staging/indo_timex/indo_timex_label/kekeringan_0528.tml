@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0528</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-17" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-17</TIMEX3></DCT>
+
+<TITLE>Warga Desa Renduwawo Manfaatkan Air Embung Bekas Ternak untuk MCK</TITLE>
+
+<TEXT>
+Persoalan krisis air bersih yang dialami warga Renduwawo, Kecamatan Aesesa, Kabupaten Nagekeo diakui Kepala Desa Renduwawo Theodurus Aru. 
+
+Krisis Air di renduwawo sudah menjadi langganan tahunan yang kerap menimpa warganya. 
+
+Kalau krisis air di sini <TIMEX3 tid="t1" type="SET" value="P1Y">setiap tahun</TIMEX3> tidak pernah luput, Ujar Kades Rendu Wawo Theodorus Kepada Wartawan <TIMEX3 tid="t2" type="DATE" value="2019-12-11">Selasa (11/12)</TIMEX3>. 
+
+Ia mengatakan persoalan krisis air di Renduwawo Teodorus mengatakan selama ini warga Renduwawo biasa mengkosumsi air hujan yang ditampung di bak penampung di setiap rumah. 
+
+Namun ketersediaan air tersebut hanya bertahan sampai <TIMEX3 tid="t3" type="DATE" value="2019-05">bulan Mei</TIMEX3> sejak <TIMEX3 tid="t4" type="DATE" value="2018-WI">musim penghujan</TIMEX3> berakhir. 
+
+Kalau di <TIMEX3 tid="t5" type="DATE" value="2019-05">bulan Mei</TIMEX3> kita masih pakai air hujan, tapi kalau masuk <TIMEX3 tid="t6" type="DATE" value="2019-06">Juni</TIMEX3> ke atas sudah pakai air embung, walaupun kondisinya keruh dan berbau memang tidak ada pilihan jelasnya. 
+
+Untuk kondisi krisis air yang tengah dialami warganya <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> Theodorus mengaku pihak Pemerentah Desa sudah mengajukan permohonan bantuan kepada Bupati Nagekeo untuk meminta bantuan pasokan air bersih bagi warga Renduwawo. 
+
+Mirisnya hingga <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, bantuan tidak kunjung datang. 
+
+<TIMEX3 tid="t9" type="DATE" value="2019-09">September lalu</TIMEX3> kita sudah ajukan permohonan bantuan kepada pemda, kita sudah kirimkan proposal, tapi sampai <TIMEX3 tid="t10" type="DATE" value="2019-12-17">hari ini</TIMEX3> belum ada realisasi padahal proposal itu orang Dinas yang suruh buat, ujarnya. 
+
+Dirinya berharap dalam waktu dekat Pemerintah dalam hal ini Dinas terkait segera memberikan bantuan air bersih kepada warga Renduwawo. 
+
+Harapan saya bersama masyarakat kepada Pemerintah, supaya ada kerja sama ada perhatian khusus terhadap kebutuhan dasar dalam hal ini air minum sehingga bisa segera diatasi, Pintanya. 
+
+Anggota DPRD Nagekeo yang juga Ketua Fraksi NasDem-PKS Thomas Mega Maso mengatakan Keluhan Warga Aesesa Selatan khususnya Masyarakat Desa Rendu Wawo tentang Persoalan Air Bersih dan Air Minum harus mendapat perhatian khusus dari Pemda Nagekeo. 
+
+Karena Kata Politisi Muda dari Partai Nasdem sejak Kabupaten Nagekeo dimekarkan dari Kabupaten Ngada yang <TIMEX3 tid="t11" type="DATE" value="2019-12-17">hari ini</TIMEX3> telah berulang tahun yang ke 13 masyarakat Rendu Wawo dan sekitarnya masih mengkonsumsi air dari Embung yang dibangung untuk kebutuhan ternak. 
+
+Sebagai Wakil Rakyat dan Ketua Fraksi NasDem-PKS kita Berharap ada Perhatian Serius dari Pemerintah untuk menangani Keluhan Warga terkait tidak adanya Sarana Air Bersih Yang Menjadi Kebutuhan pokok Masyarakat. 
+
+Pengentasan Kemiskinan dan Stunting harus diperioritaskan kepada Desa dan Warga Yang Terkena Dampak Kekeringan Akibat Kemarau Panjang. 
+
+Dikatakan Oman biasa ia disapa Untuk memenuhi Kebutuhan Air Bersih di Kecamatan Aesesa Selatan khususnya Desa Rendu Wawo, pemerintah diminta untuk membangun lagi Embung Khusus dgn Instalasi dan Jaringan Untuk Kebutuhan Air Minum bagi Warga Desa Rendu Wawo dan Sekitarnya. 
+</TEXT>
+
+</TimeML>

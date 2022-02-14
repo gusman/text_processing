@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0001</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-10-12" temporalFunction="false" functionInDocument="CREATION_TIME">2016-10-12</TIMEX3></DCT>
+
+<TITLE>Seulawah Berstatus Darurat</TITLE>
+
+<TEXT>
+Pemerintah Kabupaten Aceh Besar meningkatkan status kebakaran hutan lindung dan lahan di kawasan Lembah Seulawah menjadi darurat. 
+
+Pasalnya, kebakaran semakin meluas hingga ke perbatasan Kabupaten Pidie. 
+
+Menurut Sekretaris BPBD Aceh Besar, Zainal Abidin, sebelumnya telah ditetapkan status waspada. 
+
+SK peningkatan itu mungkin <TIMEX3 tid="t1" type="DATE" value="2016-10-12">hari ini</TIMEX3> sudah ditandatangani bupati karena sejak <TIMEX3 tid="t2" type="DATE" value="2016-10-11">kemarin</TIMEX3> sudah kami sampaikan jika kondisi di lapangan meningkat, katanya. 
+
+Ia menjelaskan, pihak BPBD Aceh Besar mengajukan peningkatan status karena semakin meluasnya areal hutan yang terbakar meski telah dilakukan penanganan serius sejak <TIMEX3 tid="t3" type="DURATION" value="P1M">sebulan</TIMEX3> terakhir. 
+
+Menurutnya, kondisi kemarau dan angin kencang membuat jumlah titik api semakin bertambah. 
+
+Sejak <TIMEX3 tid="t4" type="DURATION" value="P1M">sebulan</TIMEX3> telah dilakukan upaya pemadaman yang maksimal. 
+
+Tapi karena faktor cuaca, prosesnya tidak berjalan sesuai rencana dan maksimal. 
+
+Angin juga memperparah sebaran titik api, tuturnya. 
+
+Ia tetap berupaya proses pemadaman bisa berjalan optimal dengan penambahan unit damkar dan personel di lapangan. 
+
+Meski demikian, bukan jaminan api bisa segera dipadamkan, mengingat sulitnya jangkauan titik api. 
+
+Struktur pegunungan terjal tidak landai. 
+
+Ada api yang berada jauh di lembah-lembah sehingga dengan menggunakan selang damkar juga tidak sampai menjangkau lokasi. 
+
+Titik apinya juga terdapat di tengah hutan, sebutnya. 
+
+Ratusan hektar hutan lindung dan lahan yang berada di Kabupaten Aceh Besar terbakar parah sejak <TIMEX3 tid="t5" type="DATE" value="2016-10-09">tiga hari lalu</TIMEX3>, menyusul kemarau panjang yang melanda kawasan tersebut. 
+
+Sementara itu, pihak kepolisian masih menyelidiki penyebab pasti kebakaran di Aceh Besar. 
+
+*Petugas KesulitanKobaran asap dan api masih membara di tengah Taman Hutan Raya (Tahura) Pocut Meurah Intan, Sare, Kecamatan Lembah Seulawah, Kabupaten Aceh Besar, <TIMEX3 tid="t6" type="DATE" value="2016-10-11">Selasa (11/10)</TIMEX3>. 
+
+Kebakaran hutan tersebut telah terjadi dalam <TIMEX3 tid="t7" type="DURATION" value="P1M">sebulan</TIMEX3> terakhir ini, pohon-pohon cemara yang tumbuh subur di sana hangus. 
+
+Tidak hanya itu, kebakaran hutan juga mengganggu kehidupan sejumlah habitat yang berada di sana, padahal taman tersebut wajib dilindungi oleh semua, namun <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">kini</TIMEX3> pepohonan menjadi arang sedang hutan yang padat tinggal kenangan. 
+
+Informasi yang dihimpun Rakyat Aceh, Polisi Hutan (Polhut), Polisi, TNI dan petugas Pemadam Kebakaran (Damkar), dalam <TIMEX3 tid="t9" type="DURATION" value="P2D">dua hari</TIMEX3> terakhir ini mengalami kesulitan untuk melakukan pemadaman, karena api terus menjalar dan besar. 
+
+Selain itu, lokasi kebakaranpun jauh dan tak terjangkau oleh mobil Damkar. 
+
+Kondisi geografis yang curam dan terjal semakin menyulitkan petugas untuk menjinakkan kobaran api, api hanya bisa dilihat tanpa bisa berbuat banyak. 
+
+Ada empat titik kobaran api yang terus terbakar, yaitu daerah Palapa, samping Sekolah Polisi Negara (SPN) Sare, Green Aceh dan Batu Hitam. 
+
+Lokasi titik api itu berdekatan dengan perkebunan dan perkampungan warga. 
+
+Petugas pun terus bekerja untuk melokalisir titik api, agar tidak menjalar ke perkampungan warga. 
+
+Hingga <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>, di lokasi kebakaran ada dua mobil Damkar sudah dikerahkan dan puluhan petugas, baik dari Badan Penanggulan Bencana Daerah (BPBD) Aceh Besar, petugas Damkar, Polisi, Brimob maupun TNI terus berjibaku menjinakkan api. 
+
+Petugas masih di lokasi kebakaran, mereka berusaha memadamkan api agar tidak merembes ke pemukiman warga. 
+
+Namun karena keterbatasan alat pemadaman, kita lakukan di beberapa titik lokasi kebakaran saja, kalau yang jauh dari jangkauan tidak, kata petugas Posdalups BPBD Aceh Besar, Iqbal. 
+
+Disebutkannnya, kebakaran di sana memang telah pernah terjadi dalam <TIMEX3 tid="t11" type="DURATION" value="P1M">sebulan</TIMEX3> terakhir ini, tapi apinya tidak terlalu besar seperti ini, karena kebakaran terus terjadi, ia menyakini ada ratusan hektare hutan yang telah terbakar. 
+
+Ini juga diperparah, <TIMEX3 tid="t12" type="DURATION" value="P1M">sebulan</TIMEX3> terakhir ini, selain tidak turun hujan, kebakaran terus membara, maka untuk <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kita telah menentukan darurat bencana kebakaran hutan dan lahan di sini, ujarnya. 
+
+(mag-68/ibi/rif/mai) 
+</TEXT>
+
+</TimeML>

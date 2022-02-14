@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0244</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-04-29" temporalFunction="false" functionInDocument="CREATION_TIME">2019-04-29</TIMEX3></DCT>
+
+<TITLE>Gubernur Bengkulu Apresiasi Pertamina Jamin Penyediaan Stok BBM dan LPG</TITLE>
+
+<TEXT>
+Hari ke-3 pasca bencana banjir dan tanah longsor di Bengkulu, Pertamina Mor ll Sumatera Bagian Selatan (Sumbagsel) menjamain penyediaan stok BBM dan LPG. 
+
+Hal itu diungkapkan GM Pertamina MOR II Sumbagsel, Primarini kepada gubernur Bengkulu Dr. 
+
+H. 
+
+Rohidin Mersyah di Lounge Bandara Fatmawati <TIMEX3 tid="t1" type="DATE" value="2019-04-29">Senin</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2019-04-29">(29/4)</TIMEX3>. 
+
+Gubernur Bengkulu pun mengapresiasi kesigapan Pertamina tersebut. 
+
+Semua sarana dan fasilitas yang berkaitan dengan distribusi BBM dan LPG akan terus kami maksimalkan guna memastikan ketersediaan stok di masyarakat, ujar Primarini. 
+
+Dilanjutkannya, meski pada <TIMEX3 tid="t3" type="DATE" value="2019-04-27">Sabtu kemarin</TIMEX3> distribusi sempat terhambat, karena ada jalan atau jembatan yang terkena dampak banjir, kata Primarini, Pertamina telah melalukan skenario pengalihan supplai dari Terminal BBM terdekat dari Bengkulu, yaitu TBBM Lubuk Linggau. 
+
+Pola penyaluran Reguler, Alternatif, dan Emergency (RAE) sudah kami jalankan sejak <TIMEX3 tid="t4" type="DATE" value="2019-04-27">Sabtu lalu</TIMEX3>, per <TIMEX3 tid="t5" type="DATE" value="2019-04-29">hari ini</TIMEX3> supplai BBM sudah mulai kembali dilakukan dari TBBM Pulau Baai Bengkulu. 
+
+Saya mewakili Pertamina mengucapkan turut prihatin atas kejadian ini, semoga kondisi Bengkulu cepat kembali pulih seperti sedia <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">kala</TIMEX3>, tukasnya. 
+
+Gubernur Bengkulu Dr. 
+
+H. 
+
+Rohidin Mersyah mengatakan, kondisi wilayah Bengkulu sudah semakin membaik dan banjir sudah mulai surut. 
+
+Puncak tertinggi banjir terjadi pada <TIMEX3 tid="t7" type="DATE" value="2019-04-27">hari Sabtu</TIMEX3>, sejak <TIMEX3 tid="t8" type="TIME" value="2019-04-28TAF">Minggu siang</TIMEX3> jalan-jalan sudah mulai bisa dilalui. 
+
+Saya juga sudah mendapatkan laporan bahwa stok BBM dan LPG juga masih aman di masyarakat, jelasnya. 
+
+Kebutuhan masyarakat <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, lanjut Rohidin lebih kepada peralatan kebersihan untuk digunakan membersikan tempat tinggal dan sekitarnya. 
+
+Untuk kebutuhan bahan makanan sepertinya sudah mencukupi dari stok Kota, dan Propinsi juga siap menyalurkan jika dibutuhkan. 
+
+<TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> masyarakat perlu dukungan berupa alat-alat kebersihan, perbaikan jalan dan jembatan serta kebutuhan perlengkapan yang mendukung mata pencahariannya seperti pupuk untuk pertanian, dan lainnya. 
+
+Gubernur menyampaikan terima kasih atas dukungan Pertamina terhadap kondisi Bengkulu pasca terjadinya banjir yang melanda. 
+
+Kami mengucapkan terima kasih atas dukungan Pertamina terhadap kepastian stok BBM dan LPG di masyarakat, tutupnya. 
+
+(HBN/Rls) 
+</TEXT>
+
+</TimeML>

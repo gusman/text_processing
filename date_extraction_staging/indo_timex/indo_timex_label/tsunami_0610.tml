@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0610</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-01</TIMEX3></DCT>
+
+<TITLE>Dirikan Posko Bantuan di Palu, Ini 7 Langkah Pemprov Kaltim Bantu Korban Bencana</TITLE>
+
+<TEXT>
+Pemprov Kaltim membentuk Satgas Kaltim Peduli guna membantu korban gempa dan tsunami di Donggala-Palu. 
+
+Sejumlah langkah dan tindakan pun dilakukan oleh Pemprov Kaltim, bersama instansi terkait lainnya. 
+
+Bahkan, sebelum Satgas tersebut terbentuk sejumlah bantuan mulai dari kebutuhan logistik, dan tenaga ahli telah diberangkatkan ke lokasi musibah. 
+
+" Berdasarkan telegram Mentri Dalam untuk memberikan perhatian kepada saudara kita yang terkena musibah di Donggala-Palu, kami membentuk Satgas untuk penangangan korban bencana, " ucap Asisten III Pemprov Kalti, Bere Ali, <TIMEX3 tid="t1" type="DATE" value="2018-10-01">Senin (1/10/2018)</TIMEX3>. 
+
+Selain itu, Kaltim merupakan salah satu kawasan terdekat dengan lokasi bencana, menjadi wilayah rujukan pasien korban gempa tsunami. 
+
+Bahkan, hingga <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terdapat empat ibu hamil yang telah dirujuk ke RSUD Dr Kanujoso Djatiwibowo. 
+
+" Ada tiga rumah sakit di Kaltim yang jadi rujukan pasien korban bencana, diantaranya RSUD Dr Kanujoso Djatiwibowo, RSUD AW Syahranie, dan RSJD Atma Husada Mahakam. 
+
+Semua gratis, " jelasnya. 
+
+" Kita sudah bergerak, bahkan sejumlah bantuan dari masyarakat juga telah diberangkatkan, " tambahnya.Dibentuknya Satgas Kaltim Peduli ini akan bertugas selama <TIMEX3 tid="t3" type="DURATION" value="P14D">14 hari</TIMEX3> kedepan, dan masa tugas tersebut dapat ditambah sesuai dengan kebutuhan yang ada.Selain itu, <TIMEX3 tid="t4" type="DATE" value="2018-10-03">Rabu (3/10/2018) mendatang</TIMEX3> Satgas Kaltim Peduli membangun posko di Palu, yang isinya terdapat tenaga terampil dari Tagana, dapur umum, tenda darurat, serta kendaraan operasional. 
+
+// " Posko sudah berdiri pada <TIMEX3 tid="t5" type="DATE" value="2018-09-26">Rabu</TIMEX3>, jadi <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">besok (2/10/2018)</TIMEX3> sudah kita berangkatkan semua personel, dan perlengkapan lainnya dengan menggunakan kapal feri, " uangkapnya. 
+
+Berikut ini langkah dan tindakan yang dilakukan Pemprov Kaltim, melalui Satgas Kaltim Peduli:- Bangun Posko Utama di RSUD Dr Kanujoso Djatiwibowo Balikpapan- Bangun Posko di Distrik Navigasi, jalan Gurami, Samarinda guna menampung dan mengirimkan logistik menggunakan kapal negara. 
+
+- Bangun Posko di Palu, yang berisi 20 tenaga terampil dari Tagana, 1 unit mobil dapur umum, 1 unit truk angkutan barang, 1 unit motor, dan tenda darurat. 
+
+Pakai Baju Satpol PP Pasha Ungu Sudah Berdinas, Kabarkan Bayi Pengungsi Perlu Popok dan Susu- Bantuan tenaga medis: RSUD Dr Kanujoso Djatiwibowo telah memberangkatkan 8 tenaga medis, terdiri dari 3 dokter spesialis dan 5 perawat. 
+
+Tim kedua berangkat <TIMEX3 tid="t7" type="TIME" value="2017-10-02TMO">Selasa (2/10) pagi</TIMEX3> sebanyak 20 orang tim medis gabungan, 100 relawan menggunakan kapal bantuan Walikota Balikpapan, sekaligus membawa logistik sumbangan masyaralat sebanyak 7 ton. 
+
+- Bantuan logistik telah diberangkat dengan Kapal Negara Miang Besar, sebanyak 31 unit barang, terdiri dari <TIMEX3 tid="t8" type="DATE" value="5942">5942</TIMEX3> Koli barang, dan hingga saat masih tetap menghimpun bantuan masyarakat melalui posko yang disediakan. 
+
+- Proses pemulangan tim panjat tebing sebanyak 2 orang, airsoft gun sebanyak 50 orang, dan gate ball sebanyak 7 orang. 
+
+- Dukungan kesehatan: Obat-obatan, serta terdapat tiga rumah sakita yang jadi rujukan, diantaranya RSUD AW Syahranie dan RSUD Dr Kanujoso Djatiwibowo dan RSJD Atma Husada Mahakam. 
+
+(*) 
+</TEXT>
+
+</TimeML>

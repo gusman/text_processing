@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0617</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-03</TIMEX3></DCT>
+
+<TITLE>Presiden Jokowi: Kita Akan Selesaikan Evakuasi Korban Gempa</TITLE>
+
+<TEXT>
+Presiden Jokowi, <TIMEX3 tid="t1" type="TIME" value="2017-10-03TAF">Rabu (3/10) siang</TIMEX3>, meninjau proses evakuasi di Hotel Roa-Roa, yang ambruk saat tsunami menerjang Palu, <TIMEX3 tid="t2" type="DATE" value="2018-09-28">Jumat (28/9) lalu</TIMEX3>. 
+
+(Foto: BPMI Setpres)Palu, MK Presiden Joko Widodo (Jokowi) mengemukakan, bahwa proses penanganan dampak bencana gempa bumi dan tsunami di Palu dan daerah lain di Provinsi Sulawesi Tengah (Sulteng) <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih dalam tahapan evakuasi. 
+
+Proses evakuasi, tadi di Petobo juga proses evakuasi. 
+
+Memang tahapan kita ini pada tahapan evakuasi. 
+
+Di sini di Hotel Roa-Roa juga diperkirakan masih ada 30 korban yang ada di dalam, kata Presiden Jokowi saat meninjau lokasi terdampak gempa dan tsunami, di Hotel Roa-Roa, Kota Palu, <TIMEX3 tid="t4" type="TIME" value="2017-10-03TAF">Rabu (3/10) siang</TIMEX3>. 
+
+Menurut Presiden, proses evakuasi ini akan terus diselesaikan agar seluruh korban yang ada bisa diangkat. 
+
+Sebagaimana diketahui Hotel Roa-Roa ambruk saat terjadi bencana gempa bumi dan tsunami pada <TIMEX3 tid="t5" type="DATE" value="2018-09-28">Jumat (28/9) lalu</TIMEX3>. 
+
+Pada saat kejadian diperkirakan banyak tamu hotel yang tidak sempat menyelamatkan diri. 
+
+Usai meninjau lokasi evakuasi di Hotel Roa-Roa, Presiden Jokowi dan rombongan melanjutkan peninjauan ke lokasi terdampak gempa diKabupaten Donggala. 
+
+Dalam perjalanan, Presiden berhenti dua kali untuk menyapa langsung masyarakat yang berada di sisi jalan, serta membagikan biskuit. 
+
+Dalam tenda pengungsi, Presiden menyapa dan berbincang dengan para pengungsi. 
+
+Kepada Kepala Negara, para pengungsi bercerita mengenai bencana yang menimpanya dan situasi mereka di tempat pengungsian. 
+
+Saat di tempat pengungsian ini, Presiden juga memberikan makanan siap saji. 
+
+Mendampingi Presiden dalam peninjauan ke beberapa lokasi ini, Menko Polhukam Wiranto, Menko PMK Puan Maharani, Menteri PUPR Basuki Hadimuljono, Menteri Kesehatan Nila Moeloek, Kepala BNPB Willem Rampangilei, dan Gubernur Sulawesi Tengah Longki Djanggola. 
+
+Selesai itu, Presiden dan rombongan kemudian menuju helipad di Kantor Bupati Donggala untuk kemudian terbang kembali ke Bandara Mutiara Sis Al-Jufri, Kota Palu. 
+
+(BPMI Setpres/ES) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0040</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-07-08" temporalFunction="false" functionInDocument="CREATION_TIME">2015-07-08</TIMEX3></DCT>
+
+<TITLE>Puting Beliung Terjang Nagan</TITLE>
+
+<TEXT>
+Angin kencang menerjang Aceh Barat Daya (Abdya), <TIMEX3 tid="t1" type="TIME" value="2015-07-06TAF">Senin (6/7) sore</TIMEX3>. 
+
+Sedangkan dalam waktu bersamaan angin puting beliung melanda Nagan Raya, sehingga dua rumah warga di kabupaten penghasil batu giok itu rusak. 
+
+Rumah yang rusak itu berada di kawasan Gampong Keude Seumot, Kecamatan Beutong, masing-masing milik Teuku Syafari dan M Yusuf. 
+
+Atap kedua rumah itu diterbangkan puting beliung, sehingga seisi rumah basah saat diguyur hujan yang turun bersamaan dengan puting beliung. 
+
+Amatan Serambi, hingga <TIMEX3 tid="t2" type="DATE" value="2014-07-01">Selasa (7/7) kemarin</TIMEX3> para penghuni kedua rumah yang nahas itu terpaksa bernaung di bawah tenda darurat. 
+
+Berdasarkan informasi yang dihimpun Serambi dari Badan Penanggulangan Bencana Daerah (BPBD) Nagan Raya, warga sempat panik ketika angin puting beliung menerpa kabupaten ini pada <TIMEX3 tid="t3" type="TIME" value="2015-07-06TAF">Senin sore</TIMEX3> dan terdengar suara gemuruh tidak seperti biasanya. 
+
+Dalam suasana seperti itu, sejumlah warga menyaksikan angin puyuh mengangkat seluruh bagian atap rumah Teuku Syafari dan M Yusuf. 
+
+Warga histeris karena takut tertimpa atap rumah yang diterbangkan meliuk-liuk oleh angin puting beliung. 
+
+Untungnya, dalam insiden singkat itu tidak ada korban jiwa, kecuali warga yang sempat histeris ataupun trauma atas insiden tersebut. 
+
+Sekretaris Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Nagan Raya, M Yusuf Gadeng yang dikonfirmasi Serambi <TIMEX3 tid="t4" type="DATE" value="2015-07-07">kemarin</TIMEX3> membenarkan bahwa dua unit rumah di Gampong Keude Seumot, Kecamatan Beutong, rusak parah setelah diterjang puting beliung. 
+
+Kami juga sudah menyalurkan bantuan masa panik kepada korban untuk membantu meringankan beban mereka, katanya. 
+
+Diakuinya, untuk sementara korban terpaksa menetap di bawah tenda darurat karena rumah mereka belum mungkin dihuni setelah atapnya diterbangkan angin puting beliung. 
+
+Sementara itu, angin kencang disertai hujan melanda kawasan Aceh Barat Daya (Abdya) menjelang berbuka puasa, <TIMEX3 tid="t5" type="TIME" value="2015-07-06TAF">Senin (6/7) sore</TIMEX3>. 
+
+Sejumlah pohon tumbang menimpa pagar rumah warga dan bengkel mobil. 
+
+Selain itu, atap rumah toko (ruko) ada yang copot, namun tak ada korban jiwa dalam peristiwa itu. 
+
+Angin kencang disertai hujan terjadi <TIMEX3 tid="t6" type="TIME" value="2015-07-07T18:00">sekitar pukul 18.00 WIB</TIMEX3>. 
+
+Meski hanya berlangsung <TIMEX3 tid="t7" type="DURATION" value="PT20M">sekitar 20 menit</TIMEX3>, tapi sempat membuat panik warga. 
+
+Warga yang sedang menunggu waktu berbuka puasa tampak berlarian ke dalam rumah, setelah melihat sampah-sampah beterbangan ke udara. 
+
+Kepala BPBD Abdya, H Anwar Daud SH, yang dihubungi Serambi <TIMEX3 tid="t8" type="DATE" value="2015-07-07">kemarin</TIMEX3> menjelaskan, angin kencang disertai hujan di kabupaten itu mengakibatkan pohon seri yang tumbuh di depan Toko Paten, Jalan Persada, Kota Blangpidie, tumbang dan menutup sebagian badan jalan. 
+
+Arus lalu lintas terganggu karenanya. 
+
+// Petugas dari BPBD Abdya dipimpin Anwar Daud langsung turun ke lokasi membersihkan pohon yang tumbang dalam kota Blangpidie menggunakan gergaji mesin (chainsaw). 
+
+Selain itu, sebatang pohon mangga yang tumbuh di depan rumah Sidin Depot di Desa Kuta Tuha (kawasan Terminal Blangpidie) juga tumbang diterjang angin kencang. 
+
+Mangga ukuran besar itu tumbang secara melintang di badan jalan dan menimpa pagar beton rumah milik alm Nurdin Ali. 
+
+Atap seng garasi darurat milik Sidin Depot juga ambruk, kemudian menimpa sebuah mobil pribadi di dalam garasi tersebut. 
+
+Angin kencang juga menumbangkan pohon langsat di Desa Guhang, Kecamatan Blangpidie. 
+
+Pohon-pohon yang tumbang dan menimpa pagar rumah maupun bangunan bengkel tersebut sudah dibersihkan petugas BPBK pada <TIMEX3 tid="t9" type="TIME" value="2015-07-06TNI">Senin malam itu</TIMEX3> juga, ungkap Anwar Daud. 
+
+Angin kencang juga mengakibatkan atap seng bagian depan ruko yang ditempati warga di Desa Padang Baru, Kecamatan Susoh, terangkat diterbang angin. 
+
+Beberapa pohon di pinggiran Jalan Irian Kota Blagpidie (arah Pendapa Bupati Abdya) juga patah cabang-cabangnya akibat diterpa angin. 
+
+Cabang pohon yang patah itu jatuh ke badan jalan, kemudian dibersihkan warga secara swakarsa. 
+
+Kepala BPBD Abdya, H Anwar Daud SH mengimbau masyarakat setempat agar mewaspadai peristiwa angin kencang dan hujan. 
+
+Sebab, menurutnya, Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprediksikan bahwa hujan disertai angin kencang akan terus terjadi hingga <TIMEX3 tid="t10" type="DURATION" value="PXD">beberapa hari ke depan</TIMEX3> di wilayah barat-selatan Aceh. 
+
+<TIMEX3 tid="t11" type="TIME" value="2015-07-07">Kemarin sore</TIMEX3>, angin kencang disertai hujan juga melanda wilayah Aceh Besar dan Banda Aceh. 
+
+Namun, hingga tadi <TIMEX3 tid="t12" type="TIME" value="2015-07-07TNI">malam</TIMEX3> belum ada laporan tentang kerusakan atau warga yang cedera akibat tiupan angin kencang tersebut, kecuali sejumlah cabang pohon yang patah. 
+
+(edi/nun/dik) 
+</TEXT>
+
+</TimeML>

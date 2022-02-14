@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0765</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-09-05" temporalFunction="false" functionInDocument="CREATION_TIME">2016-09-05</TIMEX3></DCT>
+
+<TITLE>300 Ha Hutan Terbakar di Samosir</TITLE>
+
+<TEXT>
+Sedikitnya 300 hektare (ha) hutan Pusuk Buhit di Kabupaten Samosir, terbakar. 
+
+Kebakaran hutan tersebut sudah terjadi sejak <TIMEX3 tid="t1" type="DATE" value="2016-06">Juni</TIMEX3> hingga <TIMEX3 tid="t2" type="DATE" value="2016-09">awal September 2016</TIMEX3>. 
+
+Namun, Kepala Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Samosir Jaingot Banjarnahor mengatakan, hujan yang mengguyur Kabupaten Samosir <TIMEX3 tid="t3" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir mengakibatkan titik api beransur padam. 
+
+" Selama <TIMEX3 tid="t4" type="DATE" value="2016-06">Juni</TIMEX3> hingga <TIMEX3 tid="t5" type="DATE" value="2016-09">September</TIMEX3> lebih dari 300 hektare lahan terbakar. 
+
+Tapi, <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">beberapa hari ini</TIMEX3> api sudah padam, karena diguyur hujan. 
+
+Mudah-mudahan dalam <TIMEX3 tid="t7" type="DATE" value="UNKNOWN">satu pekan ini</TIMEX3>, tak ada lagi titik api, " ujarnya saat dihubungi, <TIMEX3 tid="t8" type="TIME" value="2016-09-04TAF">Minggu (4/9) siang</TIMEX3>. 
+
+Ia menambahkan, BPBD Samosir tetap menyiagakan satu helikopter guna memadamkan api bila ada titip panas atau api di kawasan Danau Toba. 
+
+" Satu helikopter masih kami siagakan. 
+
+Apabila ada titik panas langsung dikerahkan untuk menyemprotkan air lewat udara. 
+
+Selama ini, heli selalu bergerak memadamkan api di kawasan Danau Toba, khususnya di Hutan Pusuk Buhit, " katanya. 
+
+Selain itu, katanya, personel polisi sudah menangkap tiga warga, yang diduga sengaja membakar lahan. 
+
+<TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Kini</TIMEX3>, ketiganya menjalani pemeriksaan di Polres Samosir. 
+
+" Ada tiga orang diproses, karena diduga membakar hutan. 
+
+<TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> mereka menjalani periksaan di Polres Samosir. 
+
+Kalau sengaja atau tidak enggak tahu, pokoknya polisi yang menidaklanjuti. 
+
+Tapi, apabila melihat dari keadaanya mungkin disengaja, " ujarnya. 
+
+Ia menuturkan, berdasarkan keterangan masyarakat, iga warga yang ditangkap ingin memperluas lahan pengembangan ternak di perkampungan. " Mungkin saja untuk pengembangan lahan ternak. 
+
+Namun, tidak terjaga api saat membakar rumput sehingga meluas ke hutan. 
+
+Kemudian, sebagian kecil ada warga yang memperluas lahan pertanian atau perkebunan, " katanya.Ia mengungkapkan, lahan yang terbakar berada di jurang atau lereng perbukitan. 
+
+Lokasi kebakaran, sulit dijangkau pemadam kebakaran, petugas BPBD maupun masyarakat. 
+
+// " Kebakaran cepat meluas karena kondisi geografis di kawasan lereng dan jurang. 
+
+Umumnya berada di pinggiran danau. 
+
+Sengaja dibakar untuk perluasan ternak sapi dan kerbau, kambing, " ujarnya. 
+
+Kawasan terparah akibat kebakaran, lanjutnya, di tiga kecamatan luar dataran Pulau Samosir. 
+
+Seperti, Kecamatan Harian Boro Sianjur, Sianjur Mulamula, dan Sei Piupiu. 
+
+" Mudah-mudahan hujan turun lagi. 
+
+Untuk pencegahan kebakaran hutan, kami selalu sosialisasi kepada masyarakat agar tidak sembarangan membakar lahan, " katanya. 
+
+Ia mengungkapkan, di lahan hutan yang terbakar ada pinus dan lahan-lahan kosong yang ditumbuhi lalang di perbukitan Danau Toba. 
+
+Sedangkan, Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho menyampaikan, hutan Pusuk Buhit sebelumnya pernah terbakar pada <TIMEX3 tid="t11" type="DATE" value="2016-06">Juni</TIMEX3> hingga <TIMEX3 tid="t12" type="DATE" value="2016-08-20">20 Agustus lalu</TIMEX3>. 
+
+" Namun api kembali menyala sejak <TIMEX3 tid="t13" type="DATE" value="2016-08-28">Sabtu (28/8)</TIMEX3> hingga <TIMEX3 tid="t14" type="DATE" value="2016-09">awal September</TIMEX3>, " ujarnya. 
+
+Petugas gabungan dari TNI, Polri, BPBD, dan masyarakat masih berusaha memadamkan api. 
+
+Upaya pemadaman dilakukan secara manual dengan mengerahkan mobil pemadam kebakaran. 
+
+" Petugas membuat sekat agar api tidak menyebar ke permukiman di kaki gunung. 
+
+Hingga <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, Bupati Kabupaten Samosir belum menetapkan status Siaga Darurat meskipun wilayahnya terbakar sejak <TIMEX3 tid="t16" type="DATE" value="2016-06">Juni 2016</TIMEX3>, " katanya.Ia mengemukakan, kebakaran hutan dan lahan <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> berada di lokasi baru di Kabupaten Samosir. 
+
+BNPB memberikan bantuan helikopter water bombing untuk pemadaman dari udara. " Sebelumnya BNPB juga mengirimkan helikopter untuk penanganan kebakaran hutan dan lahan di Samosir pada <TIMEX3 tid="t18" type="DATE" value="2016-06">Juni</TIMEX3> hingga <TIMEX3 tid="t19" type="DATE" value="2016-08-20">20 Agustus lalu</TIMEX3>, " ujarnya.Sementara itu, Kepala Bidang (Kabid) Humas Polda Sumut Kombes Pol Rina Ginting minta waktu untuk menjelaskan, status tiga warga yang ditangkap Polres Samosir karena diduga sengaja membakar lahan. 
+
+" Saya cek <TIMEX3 tid="t20" type="DATE" value="PAST_REF">dulu</TIMEX3> ya, mohon waktu, " katanya singkat lewat aplikasi WhatsApp.(tio) 
+</TEXT>
+
+</TimeML>

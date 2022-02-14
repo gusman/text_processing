@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0405</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-05" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-05</TIMEX3></DCT>
+
+<TITLE>Ini Identitas Dua Wanita yang Tertimbun Longsor di Bandara Soekarno-Hatta</TITLE>
+
+<TEXT>
+Jalan Parimeter Selatan Bandara Soekarno-Hatta, Tangerang longsor, <TIMEX3 tid="t1" type="TIME" value="2018-02-05TEV">Senin (5/2/2018) petang</TIMEX3>. 
+
+Pengendara mobil Honda Brio yang tengah melintas tertimbun longsoran tersebut. 
+
+Di dalam mobil tersebut ada dua orang korban. 
+
+Mereka merupakan wanita yang setiap harinya bekerja di Bandara Soekarno-Hatta. 
+
+. 
+
+Karyawati Garuda Maintenance Facility (GMF) Aeroasia, " kata Branch Communication Manager Bandara Soekarno-Hatta, Haerul Anwar, <TIMEX3 tid="t2" type="TIME" value="2018-01-29TNI">Senin malam</TIMEX3>. 
+
+. 
+
+Namun belum dapat keluar dari kendaraan miliknya karena masih terjepit reruntuhan tembok penahan underpass. 
+
+" Petugas masih melakukan upaya penyelamatan, " katanya. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> Tim gabungan yang terdiri dari, Angkasa Pura II, Polresta Bandara Soekarno- Hatta, Basarnas, TNI dan tim Kantor Kesehatan Pelabuhan (KKP) Bandara Soekarno-Hatta masih melakukan evakuasi. 
+
+Evakuasi menggunakan eksavator. 
+
+// " Di lokasi juga disiagakan empat unit ambulans dan satu unit kendaraan pemadam, " kata Haerul. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> jalan Perimeter Selatan dari M1 atau sebaliknya lumpuh total tidak bisa dilalui kendaraan. 
+
+Arus lalu lintas pun dialihkan ke arah Jalan Parimeter Utara. 
+
+Gara-gara hujanPeristiwa longsornya jalan di Bandara Soekarno- Hatta, Tangerang, terjadi lantaran hujan lebat. 
+
+<TIMEX3 tid="t5" type="DATE" value="2018-02-05">Senin (5/2/2018)</TIMEX3>. 
+
+Longsor terjadi di Jalan Parimeter Selatan Bandara Soekarno-Hatta. 
+
+Branch Communication Manager Bandara Soekarno-Hatta, Haerul Anwar, mengatakan, insiden ini terjadi karena hujan lebat yang mengguyur lokasi sekitar. 
+
+" Dari tadi hujannya deras sehingga mengakibatkan longsor di Jalan Parimeter Selatan, " kata Haerul kepada Warta Kota di Bandara Soekarno-Hatta, Tangerang, <TIMEX3 tid="t6" type="DATE" value="2018-02-05">Senin (5/2/2018)</TIMEX3>. 
+
+Akibat peristiwa tersebut akses jalan itu lumpuh. 
+
+Pengendara tidak dapat melewati Jalan Parimeter Selatan Bandara Soekarno-Hatta. 
+
+" Kejadiannya <TIMEX3 tid="t7" type="TIME" value="2018-02-04T17:30">sekitar pukul 17.30 WIB</TIMEX3>. 
+
+Belum bisa dilintasi, dan pengemudi dialihkan melalui Jalan Parimeter Utara, " kata Haerul. 
+
+// Menurut Haerul, jajarannya segera mendatangi lokasi untuk melakukan evakuasi. 
+
+Tanah-tanah yang longsor itu mulai diangkut dengan menggunakan truk serta alat berat lainnya. 
+
+" Ini memang bencana, dan kami sudah melakukan antisipasi terhadap terjadinya longsor ini, " kata Haerul. 
+
+Pantauan di lokasi tanah yang longsor tersebut berada di bawah jalur Kereta Bandara Soekarno-Hatta. 
+
+Lokasinya di terowongan yang baru dibangun sekitar Jalan Parimeter Selatan. 
+
+" Tidak ada korban dalam kejadian ini, untuk para pengendara diimbau agar berhati-hati, " kata Haerul. 
+
+
+</TEXT>
+
+</TimeML>

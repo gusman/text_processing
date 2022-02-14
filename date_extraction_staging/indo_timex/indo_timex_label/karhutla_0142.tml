@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0142</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-24</TIMEX3></DCT>
+
+<TITLE>Kualitas Udara di Pekanbaru Berbahaya</TITLE>
+
+<TEXT>
+Kualitas udara Kota Pekanbaru, Riau pada <TIMEX3 tid="t1" type="TIME" value="2019-09-23">Senin (23/9) pagi</TIMEX3>, berada dalam zona hitam atau berbahaya. 
+
+Menurut data Badan Meteorologi Klimatologi dan Geofisika (BMKG), konsentrasi debu polutan PM10 di Pekanbaru pada <TIMEX3 tid="t2" type="TIME" value="2019-09-23T10:00">pukul 10.00</TIMEX3> mencapai 458,18 mikrogram/m. 
+
+Padahal ambang batas normal PM10 yang diperbolehkan adalah 150 mikrogram/m. 
+
+Angka ini menunjukkan kualitas udara di wilayah yang tengah terkena dampak kebakaran hutan dan lahan tersebut berada dalam kategori berbahaya (gt; 350 mikrogram/m). 
+
+Partikulat (PM10) adalah partikel udara yang berukuran lebih kecil dari 10 mikron (mikrometer). 
+
+Selain Pekanbaru, kota lain yang berada kategori berbahaya antara lain, Palembang (Sumatra Selatan) dengan konsentrasi PM10 sebesar 417,50 mikrogram/m dan Sampit (Kalimantan Tengah) dengan konsentrasi PM10 sebesar 366,84 mikrogram/m. 
+
+Sementara itu, AirVisual juga mencatat kualitas udara di Palangkaraya Kalimantan Tengah berada dalam kondisi berbahaya. 
+
+Berdasarkan situs penyedia data kualitas udara tersebut, indeks kualitas udara (air quality index/AQI) Palangkaraya mencapai angka 411. 
+
+Konsentrasi PM2,5 di wilayah tersebut mencapai 366 mikrogram/m. 
+
+Sebagai catatan, ambang batas normal yang ditetapkan World Health Organization (WHO) untuk kandungan polusi atau partikel debu halus PM2.5 adalah 25 mikrogram/m. 
+
+Sedangkan ambang batas normal polusi PM2.5 yang ditetapkan Kementerian Lingkungan Hidup dan Kehutanan (KLHK) adalah 65 mikrogram/m. 
+
+AirVisual mengimbau agar masyarakat mengenakan masker ketika beraktivitas di luar. 
+
+Dalam beberapa terakhir ini, kualitas udara di sejumlah kota tersebut terus memburuk akibat kebakaran hutan dan lahan yang terjadi. 
+
+Direktorat Jenderal Perhubungan Laut Kementerian Perhubungan mengeluarkan Maklumat Pelayaran Nomor.64/PABL/2019 tertanggal <TIMEX3 tid="t3" type="DATE" value="2019-09-18">18 September 2019</TIMEX3> tentang Keselamatan Kapal Terkait Kabut Asap. 
+
+Maklumat ini dikeluarkan guna menjamin keselamatan dan keamanan kapal khususnya kapal-kapal yang berlayar di perairan dengan jarak tampak terbatas (restricted visibility) akibat asap kebakaran hutan (haze) yang masih terjadi di wilayah Sumatera dan Kalimantan. 
+
+Berdasarkan Maklumat tersebut, Direktur Jenderal Perhubungan Laut melalui Direktur Kesatuan Penjagaan Laut dan Pantai (KPLP), Ahmad menginstruksikan kepada para Kepala Unit Penyelenggara Teknis (UPT) Ditjen Perhubungan Laut dan pihak terkait, agar meningkatkan kewaspadaan, mengawasi dan mengingatkan kapal-kapal yang berlayar terhadap ancaman kabut asap yang dapat mengganggu keselamatan pelayaran. 
+
+Pihaknya juga minta agar nakhoda dapat membunyikan isyarat kapal yang lengkap sesuai kebutuhan serta selalu mencatat semua tindakan yang dilakukan dalam menghadapi bahaya kabut asap (haze) dalam buku harian kapal (Log Book). 
+
+Sementara kepada para Marine Inspector diinstruksikan untuk memastikan perlengkapan penerangan navigasi, radio dan isyarat bunyi kapal berupa suling, genta atau gong memenuhi persyaratan yang ditentukan dan berfungsi dengan baik. 
+
+(rep) 
+</TEXT>
+
+</TimeML>

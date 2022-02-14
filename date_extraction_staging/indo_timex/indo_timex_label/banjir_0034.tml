@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0034</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-11-30" temporalFunction="false" functionInDocument="CREATION_TIME">2016-11-30</TIMEX3></DCT>
+
+<TITLE>Banjir Singkil Ambrukkan Oprit Jembatan Pulo Sarok</TITLE>
+
+<TEXT>
+Banjir yang belum surut hingga <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">hari keempat</TIMEX3>, mengambrukkan oprit (pangkal kepala) sebuah jembatan beton di dekat Masjid Takwa Pulo Sarok, Kecamatan Singkil, Aceh Singkil, <TIMEX3 tid="t2" type="TIME" value="2016-11-30TMO">Rabu (30/11/2016) pagi</TIMEX3>. 
+
+Oprit yang ambruk itu hanya satu, yakni yang ke arah Pulo Sarok jika pengendara bergerak dari arah Desa Pasar Singkil. 
+
+Akibat rubuhnya oprit jembatan tua itu, lagi-lagi jalan putus untuk kedua kalinya, menyusul putusnya ruas jalan di Desa Ketapang Indah, Kecamatan Singkil, <TIMEX3 tid="t3" type="TIME" value="2016-11-29TAF">Selasa (29/11/2016) siang</TIMEX3>. 
+
+" Peristiwa ini menambah berat beban musibah yang kita hadapi <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, " kata Ir Muzni MT, Kepala Dinas Pekerjaan Umum (PU) Aceh Singkil kepada Serambinews. 
+
+com via telepon, <TIMEX3 tid="t5" type="TIME" value="2016-11-30TAF">Rabu (30/11/2016) siang</TIMEX3>. 
+
+Menurutnya, sejak banjir terjadi lagi pada <TIMEX3 tid="t6" type="DATE" value="2016-11-27">Minggu (27/11/2016)</TIMEX3> dini hari akumulasi volume air sungai dari kawasan Subulussalam maupun Simpang Kanan seluruhnya menuju Singkil sebagai kawasan pesisir pantai dan memiliki muara dangkal. 
+
+Bersamaan dengan itu, Laut Singkil sedang mengalami banjir rob (pasang laut saat bulan purnama), sehingga volume air yang tiba di muara Singkil tidak langsung hanyut ke laut. 
+
+Malah sebaliknya, dihadang oleh banjir rob, sehingga baik banjir kiriman maupun banjir rob sama-sama meluap ke permukiman penduduk. 
+
+Bahkan arusnya yang deras mampu menggerus abudment jembatan, sehingga mengambrukkan sebuah jembatan sepanjang 10 meter di Pulo Sarok. 
+
+Jembatan yang rusak ini tergolong sangat vital fungsinya karena menghubungkan Desa Pulo Sarok dengan Desa Pasar maupun Desa Ujung, Sukamakmur, dan Desa Kilangan.Tapi untungnya, kata Muzni, masih ada satu lagi jembatan alternatif yang bisa dilalui. 
+
+Namun, karena kondisinya tidak sekuat jembatan yang di Pulau Sarok itu, jembatan ini pun dikhawatirkan bakal putus jika banjir terus berlanjut, sedangkan beban dan intensitas kendaraan yang lewat semakin tinggi.Muzni akan berupaya mengatasi keadaan memperbaiki opritnya dan meletakkan sejumlah batang kelapa sebagai pengganti oprit jembatan yang ambruk itu, sebagaimana dilakukan pihaknya terhadap jalan putus di Ketapang Indah tadi <TIMEX3 tid="t7" type="TIME" value="2016-11-30TMO">pagi</TIMEX3>.Dengan ditaruhnya sejumlah pohon kelapa di atas jalan yang putus itu, mulai tadi <TIMEX3 tid="t8" type="TIME" value="2016-11-30TMO">pagi</TIMEX3> jalan tersebut sudah bisa dilalui secara darurat oleh sepeda motor bahkan mobil. 
+
+Namun, truk bermuatan belum diizinkan melintas karena dikhawatirkan titian dari pohon nyiur ini akan patah karena tak kuat menanggung beban lebih. 
+
+(*) 
+</TEXT>
+
+</TimeML>

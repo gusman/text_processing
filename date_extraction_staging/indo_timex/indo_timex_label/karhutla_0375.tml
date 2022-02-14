@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0375</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-18" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-18</TIMEX3></DCT>
+
+<TITLE>Pemprov Riau Tolak 65 Satgas Karhutla dari DKI, Anies Balas dengan Sindiran: Kami Kirim untuk BNPB</TITLE>
+
+<TEXT>
+Gubernur DKI Jakarta Anies Baswedan melepas 65 petugas gabungan untuk membantu mengatasi kebakaran hutan dan lahan (karhutla) di Riau. 
+
+Satgas penanganan karhulta ini terdiri dari 25 orang petugas Dinas Penanggulangan Kebakaran dan Penyelamatan, 10 orang dari Dinas Kesehatan, 10 orang dari Dinas Sosial petugas BPBD sebanyak lima orang, tin relawan Jakarta sebanyak 10 orang, dan tim pendukung sebanyak lima orang. 
+
+Gubernur Anies mengatakan, sebanyak 65 petugas ini nantinya akan bekerja membantu mengatasi karhutla selama <TIMEX3 tid="t1" type="DURATION" value="P10D">10 hari</TIMEX3>. 
+
+" Yang ini kami kirim untuk <TIMEX3 tid="t2" type="DURATION" value="P10D">10 hari</TIMEX3>, tapi tentu bisa diperpanjang, jadi kami bisa kirim tim berikutnya, " ucapnya, <TIMEX3 tid="t3" type="DATE" value="2019-09-17">Selasa (17/9/2019)</TIMEX3>. 
+
+" Tapi tiap tim durasi penugasannya <TIMEX3 tid="t4" type="DURATION" value="P10D">10 hari</TIMEX3>, dengan begitu harapannya mereka bisa terjaga kesehatannya, " tambahnya menjelaskan. 
+
+Nantinya, puluhan bantuan ini akan berada di bawa komando dari Badan Nasional Penanggulangan Bencana (BNPB). 
+
+" Mereka semua ada dalam koordinasi dengan BNPB. 
+
+Jadi, kita mengikuti sekaligus menunggu kesiapan bandara, " ujarnya di kawasan Monas, Jakarta Pusat.Pengiriman bantuan ke Riau untuk menanggulangi karhutla ini, dikatakan Anies, merupakan bentuk kepedulian masyarakat Jakarta terhadap musibah kebakaran yang terjadi di sejumlah wilayah di Indonesia, seperti di Sumatera dan Kalimantan. " Mudah-mudahan asap bisa segera hilang, api segera padam, dan saudara-saudara kita di Sumatera dan Kalimantan bisa menghirup kembali udara segar, " kata AniesAlasan Pemprov Riau tolak bantuan personel dari Jakarta // Dilansir dari Kompas. 
+
+com, Kepala Badan Penanggulangan Bencana Daerah (BPBD) Riau, Edwar Sanger mengatakan, pihaknya tidak membutuhkan bantuan personel pemadam dari Pemprov DKI Jakarta, karena petugas pemadam karhutla di Riau masih mencukupi. 
+
+" Bukan kami tolak, tapi kami belum membutuhkan bantuan tersebut karena personel kami masih cukup untuk (menanggulangi karhutla) ini, " ucap Edwar, saat dikonfirmasi Kompas. 
+
+com, <TIMEX3 tid="t5" type="DATE" value="2019-09-17">Selasa (17/9/2019)</TIMEX3>. 
+
+Menurut Edwar, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> titik panas atau hotspot juga tidak banyak di wilayah Riau. 
+
+Bantuan dari DKI Jakarta sebaiknya dikirim saja ke daerah yang banyak titik api. 
+
+Sehingga asapnya tidak berdampak ke wilayah Riau. 
+
+" Kalau bisa kirim ke daerah yang banyak titik api saja, seperti di Jambi dan Sumsel. 
+
+Karena kebakaran di sana dampaknya ke kami juga, kan kami terdampak (asap) <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>, " ujar Edwar. 
+
+Namun, Edwar mengaku tetap berterima kasih kepada Gubernur DKI Jakarta Anies Baswedan yang bersedia mengirimkan bantuan personel pemadam.Untuk <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> jumlah personel tim Satgas Karhutla Riau masih cukup untuk menanggulangi karhutla.Penolakan dibalas sindiran AniesGubernur DKI Jakarta Anies Baswedan, buka suara soal kabar penolakan Pemprov Riau terhadap pengerahan 65 petugas pemadam kebakaran hutan dan lahan (Karhutla) asal Jakarta. 
+
+// Terhadap penolakan itu, Anies mengaku bersyukur. 
+
+Sebab hal ini menandakan masalah karhutla di Riau sudah selesai. 
+
+" Kami bersyukur kalau masalah api sudah selesai. 
+
+Karena memang tujuan kita adalah membantu memadamkan api dan mengendalikan dampak-dampak dari pada asap, " kata Anies di Bella Tera, Kelapa Gading, Jakarta Utara, <TIMEX3 tid="t9" type="DATE" value="2019-09-18">Rabu (18/9/2019)</TIMEX3>. 
+
+Sepenuturan Anies, pengiriman petugas Pemprov DKI bukan untuk membantu Pemprov Riau. 
+
+Tapi sebagai bantuan kepada Badan Nasional Penanggulangan Bencana (BNPB). 
+
+Sehingga pengerahan 65 petugas tersebut bergantung pada arahan dari BNPB. 
+
+" Kami itu mengirimkan orang bukan kepada pemerintah provinsi, kami mengirimkan kepada BNPB. 
+
+Jadi ke mananya yang menentukan adalah BNPB, " ungkap dia. 
+
+. 
+
+Semua bantuan dari daerah lain diatur oleh Kementerian Dalam Negeri (Kemendagri) dan BNPB. 
+
+Sedari awal Pemprov DKI memang tidak menentukan spesifik lokasi untuk dipadamkan. 
+
+Sebab semua bantuan dari daerah, diatur oleh Kementerian Dalam Negeri (Kemendagri) dan BNPB. 
+
+" Bukan kami yang menentukan, kami mengirimkan tim untuk membantu lokasinya di mana. 
+
+Itu diatur antara Kementerian Dalam Negeri dan BNPB. 
+
+Malah yang berharap datang Jambi. 
+
+Jambi meminta, kami siapkan. 
+
+Kami siap mengikuti arahan dari kemendagri dan BNPB, " kata Anies. 
+
+// Sebelumnya, Kepala Badan Penanggulangan Bencana Daerah (BPBD) Riau, Edwar Sanger menyebut, pihaknya tidak membutuhkan bantuan personel pemadam dari Pemprov DKI Jakarta. 
+
+Lantaran petugas pemadam karhutla di Riau sudah dianggap mencukupi. 
+
+Edwar menyarankan agar 65 orang satgas Pemprov DKI dikirim ke daerah yang banyak titik api. 
+
+Sehingga asapnya tidak berdampak ke wilayah Riau. 
+
+" Kalau bisa kirim ke daerah yang banyak titik api saja, seperti di Jambi dan Sumsel. 
+
+Karena kebakaran di sana dampaknya ke kami juga. 
+
+Kan kami terdampak (asap) <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>, " ujar Edwar, <TIMEX3 tid="t11" type="DATE" value="2019-09-17">Selasa (17/9/2019)</TIMEX3>. 
+
+Edwar mengatakan, personel pemadam karhutla di Riau masih mencukupi, yaitu sebanyak 5.809 personel. 
+
+Selain itu, <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> titik panas atau hotspot juga tidak banyak di wilayah Riau. 
+
+" Bukan kami tolak, tapi kami belum membutuhkan bantuan tersebut, karena personel kami masih cukup untuk (menanggulangi karhutla) ini, " ucapnya. 
+
+(TribunJakarta/Dion/Kontributor KOMPAS. 
+
+com Pekanbaru, Idon Tanjung) 
+</TEXT>
+
+</TimeML>

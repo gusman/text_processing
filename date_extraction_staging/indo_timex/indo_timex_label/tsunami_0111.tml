@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0111</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-01</TIMEX3></DCT>
+
+<TITLE>Curhatan Pasha Unggu Soal Gempa dan Tsunami di Palu, Mulai Rasa Sedih, Tangisan Hingga Syukur</TITLE>
+
+<TEXT>
+Pasha Ungu akhirnya membagikan curhatannya lewat akun Instagram pashaungu_vm pasca gempa dan tsunami di Palu dan Donggala, Sulawesi Tengah, <TIMEX3 tid="t1" type="DATE" value="2018-09-30">Minggu (30/09/2018)</TIMEX3>. 
+
+Setelah sebelumnya kabar dari Pasha Ungu dan keluarganya pasca gempa di Palu dan Donggala hanya diketahui lewat kerabat serta temannya yang berada di Jakarta. 
+
+Pasha Ungu mengunggah fotonya bersama Adelia Pasha, sang istri dengan keterangan foto yang lumayan panjang soal Gempa Bumi dan Tsunami di Palu. 
+
+Pasha menyatakan rasa duka citanya atas nama keluarga dan juga sebagai bagian dari pemerintah kota Palu. 
+
+Ia juga menyebut jika bencana yang terjadi tak pernah diduga sementara sesaat sebelum kejadian Pasha masih bersiap-siap untuk melaksanakan kegiatan pemerintah. 
+
+Hingga <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, dikatakan Pasha, tim satgas masih berupaya melakukan evakuasi di lokasi terjadinya gempa. 
+
+Terakhir, Pasha memohon maaf baru saja bisa memberi kabar tentang keadaan di sana dikarenakan sarana yang tidak memadai akibat bencana tersebut. 
+
+Berikut kutipan Banjarmasinpost. 
+
+co.id dari akun Instagram Pasha: " Assalamu alaikum warahmatullahi wabarakatuh.. 
+
+pertama-tama kami atas nama keluarga dan jajaran pemerintah kota palu mengucapkan rasa sedih yang mendalam dan turut berduka cita kepada seluruh korban bencana gempa yang terjadi dikota palu baik itu warga kota palu maupun tamu dan wisatawan dari luar kota palu.. 
+
+secara pribadi kami tidak pernah menyangka ataupun mem.. 
+
+semua terjadi begitu cepat dan kencang skali.. 
+
+namun Alhamdulillah dalam tangisan yang begitu dalam ini kami masih bersyukur karena masih banyak warga kami yang dapat terselamatkan dan menyelamatkan diri khususnya pada saat berada di areal pesisir pantai.. 
+
+sampai detik ini kami bersama tim satgas bencana gabungan masih berupaya untuk mengevakuasi korban yang masih terjebak di beberapa gedung baik rumah sakit,restoran,mall,rumah penduduk,sekolah,hotel dan lain2.. 
+
+secara bersamaan juga masih menjalankan proses distribusi bantuan logistik di 81 titik posko pengungsian.. 
+
+kami mohon doa kepada seluruh masyarakat Indonesia agar ujian ini cepat selesai dan semuanya bisa pulih kembali seperti sediakala.. 
+
+semoga Allah SWT mengampuni dosa kita skalian.. 
+
+maaf baru bisa mengabarkan, selama <TIMEX3 tid="t3" type="DURATION" value="P3D">3 hari</TIMEX3> kota palu lumpuh baik dari aspek telekomunikasi transportasi maupun penerangan.. 
+
+bismillah.. " Sebelumnya, kabar Pasha disampaikan oleh rekan satu bandnya, pemain bas band Ungu, Makki Omar Parikesit. 
+
+// Diketahui, Pasha Ungu <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> menjabat sebagai wakil walikota Palu tinggal di daerah tersebut bersama keluarganya. 
+
+Dikutip Banjarmasinpost. 
+
+co. 
+
+id dari Surya Malang, Makki mengatakan bahwa Pasha Ungu, dalam kondisi baik-baik saja. 
+
+Makki mengaku kabar tersebut ia ketahui dari Enda, gitaris Ungu, dalam grup WhatsApp. 
+
+" Aku tahunya ada gempa di Palu, di TV kan. 
+
+Ya, kami (para personel Ungu) punya grup di WhatsApp kan. 
+
+Terus, Enda bilang, dia udah ngomong sama Pasha, katanya dia baik-baik saja, " tutur Makki ketika dihubungi Kompas. 
+
+com, <TIMEX3 tid="t5" type="TIME" value="2018-09-28TNI">Jumat (28/09/2018) malam</TIMEX3>. 
+
+Namun, Makki mengatakan belum mendengar kabar langsung dari Pasha, karena ia belum berhasil menghubungi Pasha. 
+
+" Cuma, nomor telepon dia yang Telkomsel mati. 
+
+Mungkin, nomormya yang XL bisa, tapi saya enggak punya. 
+
+Kami sih ngobrol <TIMEX3 tid="t6" type="SET" value="P1D">tiap hari</TIMEX3> di WhatsApp ya, cuma dia belum info soal tsunami, " ucap Makki.Makki menambahkan bahwa ia siap terbang ke Palu untuk mengunjungi Pasha bila kelak hal itu sudah mungkin ia lakukan, mengingat sampai <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> bandar udara di Palu, Mutiara SIS Al-Jufrie, masih ditutup. " Kalau kondisinya memungkinkan ya pengin juga (ke Palu), tapi kami mau dengar dari Pasha langsung baiknya gimana. 
+
+Harapan buat semuanya tentunya dalam kondisi aman ya, insya Allah, " tuturnya pula.Dari penelusuran Banjarmasinpost.co.id di Instagram Pasha, <TIMEX3 tid="t8" type="DATE" value="PXX">beberapa saat</TIMEX3> sebelum gempa, mantan suami Oki Agustina itu sedang berada di sebuah venue acara daerah tersebut.Hal tersebut ia bagikan di Instagram storynya sebelum kejadian gempa terjadi di sana. 
+
+// " Assalamuailaikum Indonesia, <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kita persis berada di panggung anjungan Palu Nomoni, " ujarnya menyapa pengikutnya. 
+
+Diketahui pula, Jum'at <TIMEX3 tid="t10" type="TIME" value="2018-10-01TNI">malam itu</TIMEX3> akan dilaksanakan acara Pembukaan Pesona Palu Nomoni yang akan Pasha hadiri. 
+
+Sementara dari Instagram Adelia Pasha, sang istri, ia mengabarkan bahwa dirinya turut merasakan guncangan gempa. 
+
+" Ya Allah <TIMEX3 tid="t11" type="DATE" value="2018-10-01">hari ini</TIMEX3> gempa 2 kali kenceng banget di Palu. 
+
+Mudah-mudahan kita dalam lindungan Allah SWT, Amin ya Allah, " tulis Adelia. 
+
+(Banjarmasinpost. 
+
+co. 
+
+id/noor masrida) 
+</TEXT>
+
+</TimeML>

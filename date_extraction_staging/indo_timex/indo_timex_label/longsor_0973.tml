@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0973</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-06" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-06</TIMEX3></DCT>
+
+<TITLE>31 Korban Longsor Cisolok Sukabumi Teridentifikasi, Ini Identitasnya</TITLE>
+
+<TEXT>
+Badan Nasional Penanggulangan Bencana (BNPB) mencatat, bencana longsor di Kampung Cimapag, Desa Sirnaresmi, Kecamatan Cisolok, Kabupaten Sukabumi, Jawa Barat, menelan 31 korban jiwa. 
+
+Seperti diberitakan longsor terjadi di daerah tersebut <TIMEX3 tid="t1" type="TIME" value="2019-01-05T17:00">sekitar pukul 17.00 WIB</TIMEX3>, pada <TIMEX3 tid="t2" type="DATE" value="2018-12-31">31 Desember 2018</TIMEX3> silam. 
+
+Kepala Pusat Data, Informasi, dan Hubungan Masyarakat BNPB Sutopo Purwo Nugroho mengatakan, seluruh korban jiwa sudah berhasil diidentifikasi. 
+
+" 31 korban meninggal dunia semuanya sudah berhasil teridentifikasi oleh petugas medis, " kata Sutopo melalui keterangan tertulis, <TIMEX3 tid="t3" type="DATE" value="2019-01-06">Minggu (6/1/2019)</TIMEX3>, dikutip TribunSolo. 
+
+com dari Kompas. 
+
+com. 
+
+Sementara itu, 64 orang dinyatakan selamat. 
+
+BNPB juga mencatat dua orang masih dinyatakan hilang dan tiga orang luka-luka. 
+
+. 
+
+Hendra (Lelaki) 2. 
+
+Sasa (Perempuan) 3. 
+
+Ukri (L) <TIMEX3 tid="t4" type="DATE" value="P50Y">50 tahun</TIMEX3> 4. 
+
+Riska (P) <TIMEX3 tid="t5" type="DATE" value="P27Y">27 tahun</TIMEX3> 5. 
+
+Rita (P) <TIMEX3 tid="t6" type="DATE" value="P15Y">15 tahun</TIMEX3> 6. 
+
+Yanti (P) <TIMEX3 tid="t7" type="DATE" value="P38Y">38 tahun</TIMEX3> 7. 
+
+Ahudi (L) <TIMEX3 tid="t8" type="DATE" value="P60Y">60 tahun</TIMEX3> 8. 
+
+Suryani (P) <TIMEX3 tid="t9" type="DATE" value="P35Y">35 tahun</TIMEX3> 9. 
+
+Jumhadi (L) <TIMEX3 tid="t10" type="DATE" value="P47Y">47 tahun</TIMEX3> 10. 
+
+Yami (P) 26 tahun11. 
+
+Sukiman (L) <TIMEX3 tid="t11" type="DATE" value="P70Y">70 tahun</TIMEX3> 12. 
+
+Umih (P) <TIMEX3 tid="t12" type="DATE" value="P70Y">70 tahun</TIMEX3> 13. 
+
+Endu (L) <TIMEX3 tid="t13" type="DATE" value="P43Y">43 tahun</TIMEX3> 14. 
+
+Mulyani (P) <TIMEX3 tid="t14" type="DATE" value="P60Y">60 tahun</TIMEX3> 15. 
+
+Madtuha (L) <TIMEX3 tid="t15" type="DATE" value="P50Y">50 tahun</TIMEX3> 16. 
+
+Andra Maulana (L) <TIMEX3 tid="t16" type="DATE" value="P8Y">8 tahun</TIMEX3> 17. 
+
+Adsa (L) <TIMEX3 tid="t17" type="DATE" value="P45Y">45 tahun</TIMEX3> 18. 
+
+Miah (P) <TIMEX3 tid="t18" type="DATE" value="P40Y">40 tahun</TIMEX3> 19. 
+
+Nanih (P) <TIMEX3 tid="t19" type="DATE" value="P45Y">45 tahun</TIMEX3> 20. 
+
+Sugandi (L) 41 tahun21. 
+
+Artemah (P) <TIMEX3 tid="t20" type="DATE" value="P85Y">85 tahun</TIMEX3> 22. 
+
+Ernawati (P) <TIMEX3 tid="t21" type="DATE" value="P14Y">14 tahun</TIMEX3> 23. 
+
+Ecih (P) <TIMEX3 tid="t22" type="DATE" value="P15Y">15 tahun</TIMEX3> 24. 
+
+Serly (P) <TIMEX3 tid="t23" type="DATE" value="P3Y">3 tahun</TIMEX3> 25. 
+
+Sukiat (L) <TIMEX3 tid="t24" type="DATE" value="P56Y">56 tahun</TIMEX3> 26. 
+
+Asep (L) <TIMEX3 tid="t25" type="DATE" value="P38Y">38 tahun</TIMEX3> 27. 
+
+Lina Wati (P) <TIMEX3 tid="t26" type="DATE" value="P13Y">13 tahun</TIMEX3> 28. 
+
+Suyeti (P) <TIMEX3 tid="t27" type="DATE" value="P20Y">20 tahun</TIMEX3> 29. 
+
+Adsih (P) <TIMEX3 tid="t28" type="DATE" value="P40Y">40 tahun</TIMEX3> 30. 
+
+Mirha (L) <TIMEX3 tid="t29" type="DATE" value="P60Y">60 tahun</TIMEX3> 31. 
+
+Armi (P) 45 tahun(Kompas. 
+
+com/Devina Halim)Artikel ini telah tayang di Kompas.com dengan judul " Berikut Daftar 31 Korban Jiwa Longsor di Sukabumi " 
+</TEXT>
+
+</TimeML>

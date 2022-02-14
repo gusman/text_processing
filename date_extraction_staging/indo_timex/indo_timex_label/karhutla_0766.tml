@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0766</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-16</TIMEX3></DCT>
+
+<TITLE>NGERI, Polusi Udara Palangkaraya 20 Kali Batas Normal, Jokowi Rapat Kabinet di Pekanbaru Riau</TITLE>
+
+<TEXT>
+Polusi udara di Palangkaraya, Kalimantan Tengah, selama <TIMEX3 tid="t1" type="DURATION" value="P4D">empat hari</TIMEX3> terakhir berada dalam taraf membahayakan akibat asap kebakaran hutan dan lahan atau karhutla. 
+
+Pada <TIMEX3 tid="t2" type="DATE" value="2019-09-16">Senin (16/09/2019)</TIMEX3>, kandungan polusi PM2,5 tercatat mencapai 1.413,4 mikrogram/m. 
+
+Padahal, ambang batas normal polusi PM2,5 yang ditetapkan Kementerian Lingkungan Hidup dan Kehutanan (KLHK) adalah 65 mikrogram/m. 
+
+Polusi udara dengan taraf berpuluh kali lipat dari ambang batas normal tak kunjung berubah sejak <TIMEX3 tid="t3" type="DATE" value="2019-09-13">Jumat (13/09)</TIMEX3>, menurut AirVisual. 
+
+com yang merujuk data KLHK. 
+
+Partikulat (PM2,5) adalah partikel udara yang berukuran lebih kecil dari 2,5 mikron (mikrometer). 
+
+Ukurannya yang sangat kecil bisa diibaratkan hanya 3 dari diameter rambut manusia. 
+
+Sedemikian kecilnya, Greenpeace Indonesia mengatakan bahwa PM 2,5 bisa dengan mudah menembus masker hijau yang biasa dipakai warga. 
+
+Organisasi Kesehatan Dunia (WHO) menyebut polusi udara, terutama yang sangat halus seperti PM 2,5, amat berbahaya bagi kesehatan terutama kelompok rentan seperti bayi, anak-anak, ibu hamil dan lanjut usia. 
+
+Penyakit yang dapat terjadi akibat PM 2,5 yang tinggi ini antara lain stroke, penyakit jantung, infeksi saluran pernapasan, kanker dan penyakit paru kronis. 
+
+// Khusus untuk penyakit pernapasan, PM 2,5 menjadi partikel yang dapat memperparah dengan lebih cepat sebab dapat mengendap pada saluran pernapasan daerah bronki dan alveoli. 
+
+Bolak-balik ke rumah sakitLilis Alice, seorang warga Palangka Raya, mengaku terpaksa bolak-balik ke rumah sakit karena sakit tenggorokan. 
+
+Dokter mengatakan, sakitnya itu karena menghirup asap. 
+
+" Masyarakat kan keluhan di sini mata pedas, tenggorokan sakit, badan terasa nggak enak. 
+
+Kalau saya ke dokter dua kali. 
+
+Sempat sembuh, tapi kena lagi, " tukasnya. 
+
+" Ini kayaknya sama seperti <TIMEX3 tid="t4" type="DATE" value="2015">tahun 2015</TIMEX3>. 
+
+" Senada dengan Lilis, warga Pekanbaru, Ilham juga mengatakan begitu. 
+
+Menurutnya buruknya udara menyerupai kondisi <TIMEX3 tid="t5" type="DURATION" value="P4Y">empat tahun</TIMEX3> silam; udara menguning dan bau asap pekat. 
+
+" Aroma (asap) sudah tajam tercium. 
+
+Tajam banget. 
+
+Sama kayak <TIMEX3 tid="t6" type="DATE" value="2015">tahun 2015</TIMEX3>, " ujarnya geram saat dihubungi BBC News Indonesia. 
+
+// " Jadi istriku, nggak pernah kena iritasi sama asap selama ini. 
+
+Tapi di kulit mukanya merah-merah dan bentol juga mengelupas. 
+
+Saat dibawa ke IGD, ternyata penyebabnya iritasi asap, " jelas Ilham kepada BBC News Indonesia. 
+
+Pelaksana Harian Kepala Dinas Kesehatan Riau, Yohanes, mengatakan sejak <TIMEX3 tid="t7" type="DATE" value="2019-08">akhir Agustus lalu</TIMEX3> Indeks Standar Pencemaran Udara (ISPU) di wilayahnya turun-naik di angka 400 atau termasuk kategori berbahaya. 
+
+Setidaknya sudah 11.654 pasien yang datang ke puskesmas di seluruh kabupaten dan kota dengan mayoritas gejala infeksi saluran pernapasan atas atau ISPA. 
+
+Karena itu, kaya Yohanes, pihaknya membagikan setidaknya satu juta masker hijau ke masyarakat. 
+
+" Jadi keluhannya ada pneumonia dan ISPA. 
+
+Tapi kebanyakan ISPA. 
+
+Kami juga bagikan masker biasa, bukan N95, karena masker itu sirkulasi udaranya tidak cocok untuk situasi begini. 
+
+Kalau digunakan <TIMEX3 tid="t8" type="DATE" value="2018-10-05">5-10</TIMEX3> menit, akan sesak, " jelasnya. 
+
+Dia juga menegaskan, semua biaya pengobatan akibat asap kebakaran hutan dan lahan ini ditanggung pemerintah. 
+
+Jokowi Rapat Kabinet di PekanbaruPresiden Joko Widodo (Jokowi) beserta beberapa menteri direncanakan akan melakukan rapat kabinet di Pekanbaru, Riau dalam rangka penanganan kabut asap akibat kebakaran hutan dan lahan (karhutla) pada <TIMEX3 tid="t9" type="TIME" value="2019-09-16TNI">Senin (16/9/2019) malam</TIMEX3>. 
+
+Ketua Komisi IX DPR Dede Yusuf mengapresiasi langkah tersebut. 
+
+Namun menurut dia, akan lebih baik jika rapat tersebut tidak hanya dilakukan <TIMEX3 tid="t10" type="DURATION" value="P1D">satu hari</TIMEX3> saja. 
+
+" Bagus sih saya salut. 
+
+Biar jajaran pemerintah merasakan apa yang dirasakan oleh saudara-saudara kita. 
+
+// Jadi rapat kabinet di sana, saya harap jangan <TIMEX3 tid="t11" type="DURATION" value="P1D">satu hari</TIMEX3>. 
+
+<TIMEX3 tid="t12" type="DURATION" value="P3D">Tiga hari</TIMEX3> lah, " ujar Dede usai acara Forum merdeka Barat 9 di Kantor Kemenkominfo, Jakarta Pusat, <TIMEX3 tid="t13" type="DATE" value="2019-09-16">Senin (16/9/2019)</TIMEX3>. 
+
+Beberapa menteri seperti Menteri Koordinator Politik, Hukum, dan Keamanan (Polhukam) Wiranto, Menteri Kesehatan Nila Moeloek, Menteri Lingkungan Hidup Siti Nurbaya, Menteri Koordinator Pembangunan Manusia dan Kebudayaan Puan Maharani, Menteri Sosial Agus Gumiwang Kartasasmita, Kepala Badan Nasional Penanggulangan Bencana Doni Monardo, dan beberapa lembaga terkait lainnya direncanakan akan melakukan rapat di Riau bersama Jokowi. 
+
+Menurut Dede, langkah tersebut bisa membuat pemerintah mengetahui tindakan apa yang harus mereka ambil. 
+
+Terlebih sebagaimana yang dia ketahui, karhutla yang terjadi bukan semata-mata terbakar tetapi banyak yang menginformasikan dibakar. 
+
+" Artinya ada pelakunya. 
+
+Pelakunya sudah pasti jelas siapa. 
+
+Silakan dong dari pihak keamanan lakukan penindakan, " kata dia. 
+
+Jika memang ada pelakunya, kata Dede, maka pelaku tersebut tidak jera karena terus mengulangi perbuatannya yang merugikan orang lain. 
+
+" Kenapa ini bisa selalu terjadi? Artinya orang yang melakukan (pembakaran) tidak jera-jera. 
+
+Itu yang harus dikejar. 
+
+Ada apa? " terang dia. 
+
+Apabila pelaku yang membakar itu juga dibayar oleh orang lain, maka menurutnya, orang yang memerintahkan itu pun harus segera ditangkap.Tidak hanya itu, menurut Dede, karhutla yang terjadi ini juga telah mencoreng nama Indonesia. " Memang ini sesuatu yang mencoreng nama Indonesia, sebab penyebaran sampai negara sebelah. 
+
+Sampai perbatasan, " kata dia.Namun, kata dia, tindakan pertama yang harus dilakukan bagi masyarakat yang terdampak kabut asap karhutla ini adalah dengan diberikan masker dan obat anti ISPA. 
+
+" Ini tugas Kemenkes untuk support dan sudah dikirim, " tutup dia. NGERI, Polusi Udara Palangkaraya 20 Kali Batas Normal, Jokowi Rapat Kabinet di Pekanbaru Riau 
+</TEXT>
+
+</TimeML>

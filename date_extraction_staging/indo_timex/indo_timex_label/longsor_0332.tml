@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0332</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-20" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-20</TIMEX3></DCT>
+
+<TITLE>Hujan Deras, Tebing di Cibadak Longsor 6 Rumah Terancam</TITLE>
+
+<TEXT>
+Hujan deras yang mengguyur Cibadak, <TIMEX3 tid="t1" type="TIME" value="2020-03-20TAF">Jumat (20/3/2020) sore</TIMEX3>, membuat tebing yang ada di Kampung Bojong Jagal, Kelurahan/Kecamatan Cibadak, Kabupaten Sukabumi longsor. 
+
+Kabid Rehabilitasi dan Rekonstruksi BPBD Kabupaten Sukabumi Anita Mulyani mengatakan, longsor terjadi <TIMEX3 tid="t2" type="TIME" value="2020-03-19T16:40">sekitar pukul 16.40 WIB</TIMEX3>. 
+
+Longsor mengakibatkan akses jalan antar RT terputus sepanjang sekitar 30 meter. 
+
+. 
+
+Anita menyebutkan, selain mengakibatkan akses jalan terputus dan saluran air tersumbat, sedikitnya 6 rumah warga terancam. 
+
+. 
+
+Beruntung, dari kejadian tersebut tidak ada korban jiwa. 
+
+
+</TEXT>
+
+</TimeML>

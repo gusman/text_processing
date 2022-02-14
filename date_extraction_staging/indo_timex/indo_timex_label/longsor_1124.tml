@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1124</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-03-04" temporalFunction="false" functionInDocument="CREATION_TIME">2017-03-04</TIMEX3></DCT>
+
+<TITLE>Tanggap Darurat Banjir dan Longsor di Limapuluh Kota 7 Hari</TITLE>
+
+<TEXT>
+Percepatan penanganan bencana banjir dan longsor yang terjadi sejak <TIMEX3 tid="t1" type="DATE" value="2017-03-03">Jumat (3/3/2017)</TIMEX3> di Kabupaten Limapuluh Kota, Provinsi Sumatera Barat masih terus dilakukan. 
+
+Hujan lebat yang turun terus menerus menyebabkan Sungai Sumpur meluap dan longsor di tebing dan perbukitan. 
+
+Sebanyak 8 kecamatan dan 13 nagari terdampak langsung dari banjir dan longsor yang meliputi Kecamatan Pangkalan, Kapur IX, Mungka, Harau, Payakumbuh, Lareh Sago Halaban, Sulikik, dan Empat Barisan. 
+
+Tim Reaksi Cepat BNPB sudah berhasil tiba di lokasi bencana. 
+
+Bupati Kabupaten Limapuluh Kota telah menetapkan masa tanggap darurat selama <TIMEX3 tid="t2" type="DURATION" value="P7D">7 hari</TIMEX3> yaitu <TIMEX3 tid="t3" type="DATE" value="2016-09-03">3-9</TIMEX3> Maret <TIMEX3 tid="t4" type="DATE" value="2017">2017</TIMEX3>. 
+
+Tim gabungan dari BPBD Kabupaten Limapuluh Kota bersama TNI, Polri, Basarnas, PLN, Dinas Sosial, Dinkes, dan relawan telah berhasil menjangkau Kecamatan Pangkalan yang terdampak banjir. 
+
+Pencarian dan evakuasi korban dari 8 unit mobil yang tertimpa longsor di KM 17 Koto Alam Kecamatan Pangkalan masih terus dilakukan. 
+
+Kondisi mobil yang sudah berhasil dievakuasi dalam kondisi rusak berat. 
+
+Kepala BNPB telah memerintahkan Tim Reaksi Cepat mendampingi BPBD Kabupaten Limapuluh Kota dalam manajerial darurat, pengerahan bantuan pendanaan dan logistik. 
+
+BPBD Kab. 
+
+Limapuluh Kota juga telah menghubungi BPBD Kab. 
+
+Kampar Riau untuk membantu penanganan banjir di Kec. 
+
+Pangkalan. 
+
+P osko utama penanganan bencana banjir dan tanah longsor didirikan di kompleks kantor Bupati lama. 
+
+Bupati telah memimpin rapat koordinasi sejak <TIMEX3 tid="t5" type="TIME" value="2017-03-03">kemarin malam</TIMEX3>. 
+
+BNPB dan BPBD Prov Sumbar telah mengirimkan bantuan logistik dan tenaga untuk mendukung penanganan darurat bencana banjir dan tanah longsor di Kab Limapuluh Kota. 
+
+Bantuan dari 13 organisasi masyarakat, perseorangan dan perusahaan telah diterima posko. 
+
+Demikian BNPB. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0462</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-12" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-12</TIMEX3></DCT>
+
+<TITLE>Sudah 387 Orang Meninggal Akibat Gempa Lombok</TITLE>
+
+<TEXT>
+Badan Nasional Penanggulangan Bencana (BNPB) mencatat, jumlah korban gempa Lombok, Nusa Tenggara Barat bertambah menjadi 387 orang. 
+
+" Diperkirakan jumlah korban meninggal akan terus bertambah karena masih ada korban yang diduga tertimbun longsor dan bangunan roboh, " kata Kepala Pusat Data, Informasi dan Hubungan Masyarakat BNPB Sutopo melalui pesan tertulis yang diterima di Jakarta, <TIMEX3 tid="t1" type="DATE" value="2018-08-11">Sabtu (11/8)</TIMEX3>. 
+
+Selain korban yang diduga tertimbun longsor dan bangunan roboh, Sutopo mengatakan, kemungkinan juga masih ada korban meninggal yang belum didata dan dilaporkan. 
+
+Verifikasi terhadap data korban meninggal terus dilakukan. 
+
+Di Kabupaten Lombok Timur, misalnya, sebelumnya dilaporkan 11 orang meninggal dunia. 
+
+Ternyata ada satu korban yang dilaporkan dua kali. 
+
+" Setelah diverifikasi, ternyata terjadi pencatatan ganda karena ada satu korban dilaporkan dua kali menggunakan nama panggilan dan nama lengkap, " jelasnya. 
+
+Sutopo mengatakan, korban meninggal dunia tersebar di Kabupaten Lombok Utara (334 orang), Kabupaten Lombok Barat (30 orang), Kabupaten Lombok Timur (10 orang), Kota Mataram (sembilan orang), Kabupaten Lombok Tengah (dua orang) dan Kota Denpasar (dua orang). 
+
+Sementara itu, korban luka-luka tercatat 13.688 orang. 
+
+Pengungsi tercatat 387.067 jiwa tersebar di ribuan titik. 
+
+Ratusan ribu jiwa pengungsi tersebut tersebar di Lombok Utara (198.846 orang), Kota Mataram (20.343 orang), Lombok Barat (91.372 orang) dan Lombok Timur (76.506 orang). 
+
+(tribunjateng/cetak/kpc) 
+</TEXT>
+
+</TimeML>

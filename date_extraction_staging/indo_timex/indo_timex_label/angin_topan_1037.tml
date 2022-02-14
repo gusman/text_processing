@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1037</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-16" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-16</TIMEX3></DCT>
+
+<TITLE>Angin Puting Beliung Landa Donggala</TITLE>
+
+<TEXT>
+Angin puting beliung melanda objek wisata Tanjung Karang, Kecamatan Banawa, Kabupaten Donggala, <TIMEX3 tid="t1" type="TIME" value="2020-03-14TAF">Sabtu (14/3/2020) sore</TIMEX3> sekira <TIMEX3 tid="t2" type="TIME" value="2020-03-15T15:00">pukul 15.00</TIMEX3> Wita. 
+
+Atas kejadian itu, membuat warga setempat panik. 
+
+Astaga angin putting beliung, semoga tidak terjadi apa-apa, ujar Wiwin salah seorang warga di kawasan objek wisata Tanjung Karang, <TIMEX3 tid="t3" type="DATE" value="2019-03-14">Sabtu (14/3/2019)</TIMEX3>. 
+
+Dalam pandangannya kata Wiwin, terlihat angin puting beliung tersebut meliuk-liuk dari udara dibarengi dengan kabut pekat warna hitam menyelimuti kawasan teluk Palu yang masuk wilayah Kabupaten Donggala. 
+
+Beruntung, angin puting beliung yang terjadi di tiga titik sekaligus itu tidak terjadi di darat, tetapi di lautan teluk Palu. 
+
+Sejumlah warga berkerumun menyaksikan fenomena alam tersebut. 
+
+Astaga itu di Tanjung Karang, angin puting beliung itu kasian ya Allah, ujar Anis warga yang menyaksikan dari Pelabuhan Donggala di seputaran Loli. 
+
+Fenomena alam itu, terjadi hingga <TIMEX3 tid="t4" type="DURATION" value="PTXM">beberapa menit</TIMEX3>, tidak ada korban jiwa dalam peristiwa tersebut. 
+
+Sebelumnya, angin puting beliung juga pernah terjadi di Kelurahan Boneoge, Kecamatan Banawa, Donggala sejumlah rumah rusak akibat kejadian tersebut. 
+
+TUR 
+</TEXT>
+
+</TimeML>

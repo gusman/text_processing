@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1147</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-23</TIMEX3></DCT>
+
+<TITLE>Atap Rumah Terbang Warga Ketakutan</TITLE>
+
+<TEXT>
+Angin kencang Puting Beliung di sertai hujan rusak rumah warga dan robohkan pohon di wilayah Kecamatan Talang Kelapa, Kabupaten Banyuasin, Sumatera Selatan, <TIMEX3 tid="t1" type="DATE" value="2019-12-22">Minggu (22/12)</TIMEX3>. 
+
+
+</TEXT>
+
+</TimeML>

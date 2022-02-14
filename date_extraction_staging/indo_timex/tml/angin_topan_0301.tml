@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0301</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-14" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-14</TIMEX3></DCT>
+
+<TITLE>Hujan Deras Angin Kencang Atap Puluhan Rumah Berterbangan</TITLE>
+
+<TEXT>
+Hujan lebat disertai angin kencang menerbangkan atap rumah warga.
+
+Sedikitnya 70 rumah yang rata-rata beratap asbes terkena musibah.
+
+Peristiwa itu terjadi di Dusun Payungsari, Desa Sidarahayu, Kecamatan Purwodadi, Kamis (14/11/2019) sekira 14.30 WIB.
+
+Hujan deras dan angin kencang siang itu, juga menumbangkan beberapa pohon.
+
+Tidak ada korban jiwa dalam peristiwa itu.
+
+
+</TEXT>
+
+</TimeML>
+

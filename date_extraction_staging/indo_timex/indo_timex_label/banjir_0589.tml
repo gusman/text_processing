@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0589</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-10" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-10</TIMEX3></DCT>
+
+<TITLE>Evakuasi Korban Banjir di Karang Bintang Tanahbumbu, Warga Diangkut Menggunakan Mobil Patroli</TITLE>
+
+<TEXT>
+Penanganan korban banjir yang merendam tiga desa di Kecamatan Karang Bintang, Kabupaten Tanahbumbu, Kalsel, melibatkan sejumlah pihak. 
+
+Akibat kejadian itu, evakuasi terhadap warga yang terdampak pun harus dilakukan. 
+
+Salah satunya oleh jajaran Kepolisian Sektor (Polsek) Karang Bintang yang turut ambil bagian terkait penanganan korban banjir merendam tiga desa di kecamatan setempat. 
+
+Air dengan ketinggian bervariasi, rata-rata 75 sentimeter merendam rumah-rumah warga, hasil monitoring personel Polsek Karang Bintang pada <TIMEX3 tid="t1" type="TIME" value="2019-06-09T06:00">pukul 06.00</TIMEX3> Wita, <TIMEX3 tid="t2" type="TIME" value="2019-06-10">Senin (10/6/2019) pagi</TIMEX3>. 
+
+Banjir ini diakibatkan meluapnya air sungai di Kecamatan Karang Bintang. 
+
+Sementara tiga desa yang terendam antara lain, Karang Bintang Selaselilau, dan Sumber Wangi. 
+
+. 
+
+Para korban dievakuasi ke tiga titik yaitu rumah kantor Bhabinkamtibmas dan kantor desa Karang Bintang. 
+
+" Sedangkan warga desa Selaselilau dan Sumber Wangi masih bertahan di rumah masing-masing, " kata Kapolres Tanahbumbu AKBP Kus Subyantoro SIK melalui Kapolsek Karang Bintang Iptu Jeny Rahman SE. 
+
+Menurut membantu mempercepat proses evakuasi korban, terutama yang rumahnya terendam dengan ketinggian maksimal. 
+
+Pihaknya menurunkan setidaknya tujuh orang personel. 
+
+" Kegiatan sampai <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih berlangsung, " tandas Jeny. 
+
+(BANJARMASINPOST.co.id/helriansyah) 
+</TEXT>
+
+</TimeML>

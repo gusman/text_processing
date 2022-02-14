@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0325</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-10" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-10</TIMEX3></DCT>
+
+<TITLE>Gempa Sukabumi, Rumah Anna Ambruk Tiga Terluka</TITLE>
+
+<TEXT>
+Gempa Sukabumi berkekuatan 5.0 magnitudo <TIMEX3 tid="t1" type="TIME" value="2020-03-09TAF">sore tadi</TIMEX3>, membuat rumah Anna ambruk. 
+
+Warga Kampung Nangerang RT <TIMEX3 tid="t2" type="DATE" value="2019-05-13">13/05</TIMEX3> Desa Pulosari Kecamatan Kalapanunggal Kabupaten Sukabumi ini juga mengalami luka-luka. 
+
+Rumah tersebut dihuni tujuh jiwa, saat gempa ada tiga orang yang berada di dalam rumah. 
+
+Mereka rata-rata mengalami luka di kepala akibat tertimpa material rumah yang ambruk, ujar Kapolsek Kalapanunggal, AKP Ujang Rihimin, <TIMEX3 tid="t3" type="DATE" value="2020-03-10">Selasa (10/3/2020)</TIMEX3>. 
+
+Korban luka-luka sudah dibawa dan mendapatkan pertolongan medis Klinik Adiya Kalapanunggal. 
+
+Ketiganya merupakan H. 
+
+Anna, Mimin dan Andi. 
+
+Sementara taksiran kerugian kerusakan rumah belum terhitung. 
+
+BPBD Kab. 
+
+Sukabumi dan TNI-Polri masih melakukan penanganan di lapangan. 
+
+Termasuk membantu dan memberikan arahan kepada masyarakat. 
+
+Terutama rumah yang rusak akibat terdampak gempa. 
+
+Sebelumnya diberitakan, Gempa Bumi 5,0 magnitudo terjadi pada <TIMEX3 tid="t4" type="DATE" value="2020-03-10">hari Selasa</TIMEX3>, <TIMEX3 tid="t5" type="TIME" value="2020-03-10T17:18:04">(10/3/2020) pukul 17.18.04 WIB</TIMEX3>. 
+
+Hasil analisis BMKG menunjukkan gempabumi ini memiliki parameter update dengan magnitudo M 5.0. 
+
+(Abdul Salam) *** 
+</TEXT>
+
+</TimeML>

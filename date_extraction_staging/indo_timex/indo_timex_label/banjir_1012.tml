@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1012</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-01" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-01</TIMEX3></DCT>
+
+<TITLE>Banjir Surut, Sejumlah Sekolah Mulai Bersih-bersih</TITLE>
+
+<TEXT>
+Pasca banjir yang merendam empat kelurahan di Kecamatan Mamuju, Kabupaten Mamuju, Sulawesi Barat akibat hujan deras pada <TIMEX3 tid="t1" type="DATE" value="2019-02-28">Kamis (28/2/2019)</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2019-02-28T19:00">pukul 19.00</TIMEX3> Wita, <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3> beberapa lembaga sekolah nampak mulai membersihkan ruangan-ruangan yang terdampak banjir. 
+
+Seperti yang terlihat pada Sekolah Dasar (SD) 4 Mamuju <TIMEX3 tid="t4" type="TIME" value="2019-02-28TMO">pagi tadi</TIMEX3>, <TIMEX3 tid="t5" type="DATE" value="2019-03-01">Jumat (1/3/2019)</TIMEX3>. 
+
+Guru dibantu siswa tengah membersihkan sisa-sisa lumpur yang mengendap di ruang sekolah. 
+
+Dari pengamatan di lapangan, sedikitnya ada tiga ruang di bangunan sekolah itu yang terendam air hingga ketinggian 1 meter. 
+
+Ini kami sedang bersih-bersih ruangan. 
+
+Meja, kursi, dan peralatan lainnya kita cuci bersih. 
+
+Kita keluarkan lumpur dari dalam ruangan, yang sempat terendam banjir, ungkap seorang guru SDN 4, Johanis. 
+
+<TIMEX3 tid="t6" type="DATE" value="UNKNOWN">Sementara hari ini</TIMEX3> masih belum dilakukan kegiatan belajar mengajar secara normal, sambung Johanis, <TIMEX3 tid="t7" type="DATE" value="2019-03-02">besok</TIMEX3> semua siswa akan tetap masuk. 
+
+Apalagi siswa sedang menghadapi ulangan, pungkasnya. 
+
+Sementara pantauan di lapangan, sejumlah sekolah mulai melakukan pembersihan dampak dari banjir <TIMEX3 tid="t8" type="DURATION" value="2019-03-01TNI">semalam</TIMEX3>, <TIMEX3 tid="t9" type="DATE" value="2019-02-28">Kamis (28/2/2019)</TIMEX3>. 
+
+Mts Darul Ilmi Kalukku, MamujuSementara itu dari pantauan media ini, sekolah Mts Darul Ilmi Kalukku, Mamuju, terdampak banjir paling parah. 
+
+Semua arsip dan berkas sekolah terendam air. 
+
+(Adhi Riady/usman) 
+</TEXT>
+
+</TimeML>

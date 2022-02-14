@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0695</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-07" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-07</TIMEX3></DCT>
+
+<TITLE>12 Kali Gempa Susulan Terjadi di Aceh</TITLE>
+
+<TEXT>
+Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Pusat mencatat sebanyak 12 kali gempa bumi susulan mengguncang Provinsi Aceh pascagempa 6,4 Skala Richter yang berpusat di Kabupaten Pidie Jaya, Rabu pagi.
+
+Informasi dari Humas BMKG, Taufan Maulana di Jakarta, Rabu mengatakan hingga pukul 08.15 WIB telah terjadi 12 kali gempa susulan dengan kekuatan yang terus mengecil.
+
+Terakhir tercatat gempa susulan dengan kekuatan bervariasi 4.0 Skala Richter hingga 3,2 Skala Richter menggoyang provinsi paling barat Sumatera tersebut.
+
+Informasi dari Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Pidie Jaya menyebutkan 25 korban tewas dan ratusan lainnya luka-luka.
+
+Kepala Pelaksana BPBD Pidie Jaya Puteh A Manaf yang diterima di Banda Aceh, Rabu, menyebutkan, korban meninggal dunia akibat tertimpa bangunan yang rubuh.
+
+"Data sementara yang diterima, 25 korban meninggal dunia dan ratusan korban lainnya mengalami luka-luka serius.
+
+Korban kebanyakan akibat tertimpa reruntuhan bangunan, " kata Manaf.
+
+Selain korban meninggal dunia dan luka, Manaf menyebutkan BPBD Kabupaten Pidie Jaya juga mencatat 98 rumah toko ambruk akibat goncangan gempa kuat jelang shalat subuh Rabu tersebut.
+
+"Kawasan terparah akibat gempa di Meureudu, ibu kota kabupaten, dan Ulee Gle.
+
+Banyak korban di dua daerah itu tertimpa reruntuhan bangunan rumah toko," katanya.Hasil analisis BMKG menunjukkan bahwa gempa terjadi pukul 05.
+
+03.36 WIB dengan kekuatan 6,4 Skala Richter dengan pusat gempa terletak pada 5,25 LU dan 96,24 BT, tepatnya di darat pada jarak 106 km arah tenggara Kota Banda Aceh pada kedalaman 15 km.Jika ditinjau dari kedalaman hiposenternya, gempa bumi yang terjadi merupakan jenis gempa bumi dangkal akibat aktivitas sesar lokal.Berdasarkan peta tatanan tektonik Aceh tampak bahwa di zona gempa bumi memang terdapat struktur sesar mendatar.Hal itu sesuai dengan hasil analisis BMKG yang menunjukkan bahwa gempa bumi Pidie Jaya dibangkitkan oleh aktivitas sesar mendatar (strike-slip fault).
+</TEXT>
+
+</TimeML>
+

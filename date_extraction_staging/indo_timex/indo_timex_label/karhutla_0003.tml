@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0003</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-06-19" temporalFunction="false" functionInDocument="CREATION_TIME">2017-06-19</TIMEX3></DCT>
+
+<TITLE>Kebakaran Hutan Landa Portugal, 62 Tewas, 50 Terluka</TITLE>
+
+<TEXT>
+Setidaknya 62 korban meninggal akaibat kebakaran hutan yang melanda Pedrogao Grande. 
+
+Hingga <TIMEX3 tid="t1" type="TIME" value="2017-06-18TNI">Minggu (18/6) malam WIB</TIMEX3>, api masih berkobar. 
+
+Perdana Menteri (PM) Antonio Costa mendeklarasikan <TIMEX3 tid="t2" type="DURATION" value="P3D">tiga hari</TIMEX3> berkabung nasional. 
+
+Sepertinya, ini adalah tragedi kebakaran terbesar di negeri ini, kata Costa dalam jumpa pers <TIMEX3 tid="t3" type="DATE" value="2017-06-18">kemarin</TIMEX3>. 
+
+Sampai <TIMEX3 tid="t4" type="DATE" value="2017-06-20">Selasa besok (20/6)</TIMEX3>, bendera kebangsaan Portugal masih berkibar setengah tiang. 
+
+Dari hutan Pedrogao Grande di Distrik Leiria, api menjalar dengan sangat cepat ke Figueiro do Vinhos dan Castanheira de Pera. 
+
+Hanya dalam <TIMEX3 tid="t5" type="DURATION" value="PT24H">24 jam</TIMEX3> bukit pinus dan eucalyptus di sana berubah menjadi lautan api. 
+
+Asap membubung ke angkasa dan menyelimuti area yang sangat luas di sisi kanan dan kiri jalan raya nasional. 
+
+Sampai radius 20 kilometer, asap masih menutupi pandangan mata. 
+
+Padahal, pemerintah sudah mengerahkan 900 personel pemadam kebakaran dan 300 unit mobil. 
+
+Empat petugas pemadam kebakaran harus dilarikan ke rumah sakit dan <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">kini</TIMEX3> kritis, ujar Menteri Dalam Negeri Jorge Gomes. 
+
+Dari 62 korban tewas, sebagian adalah para pengguna jalan. 
+
+Mereka sedang melintas di jalan raya ketika hutan di sisi kanan dan kiri terbakar hebat. 
+
+Sebagian besar tewas terpanggang di dalam mobil yang hangus terbakar. 
+
+Saya tidak bisa mengatakan apakah mereka menjadi korban saat hendak melarikan diri dari api atau justru terjebak saat melintas, terangnya. 
+
+Selain menewaskan 62 orang, kebakaran itu mengakibatkan sedikitnya 50 orang terluka. 
+
+Lima di antaranya sedang kritis. 
+
+Jumlah korban tewas masih sangat mungkin bertambah. 
+
+Fokus kami <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> adalah mengevakuasi mereka yang masih bisa diselamatkan, ungkap Costa. 
+
+Wali Kota Valdemar Alves menyampaikan bahwa api membesar dengan sangat cepat. 
+
+Tiba-tiba saja seluruh area itu terkepung api. 
+
+Kami kekurangan petugas pemadam kebakaran. 
+
+Saya shock mengetahui banyaknya korban jiwa, ucapnya dalam wawancara dengan TVI. 
+
+<TIMEX3 tid="t8" type="DATE" value="2017-06-18">Kemarin</TIMEX3> beberapa negara menawarkan bantuan untuk membantu Portugal memadamkan api di hutan tersebut. 
+
+Prancis dan Spanyol telah mengirimkan beberapa pesawat pemadam kebakaran. 
+
+Sementara itu, Inggris menerbitkan travel warning untuk seluruh warganya yang berada di Portugal agar menjauh dari lokasi kebakaran. 
+
+(AFP/Reuters/BBC/CNN/hep/c16/any) 
+</TEXT>
+
+</TimeML>

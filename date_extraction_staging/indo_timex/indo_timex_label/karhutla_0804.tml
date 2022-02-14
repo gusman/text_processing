@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0804</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-12" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-12</TIMEX3></DCT>
+
+<TITLE>Kabut Asap Masih Menyelimuti Kota Padangsidimpuan</TITLE>
+
+<TEXT>
+Kabut asap yang menyelimuti Kota Padangsidimpuan, Sumatera Utara (Sumut), semakin pekat. 
+
+Pantauan SINDOnews, <TIMEX3 tid="t1" type="DATE" value="2019-09-12">Kamis (12/9/2019)</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2019-09-11T07:30">pukul 07.30 WIB</TIMEX3>, hampir seluruh wilayah di Kota Salak itu sudah tertutup kabut asap. 
+
+Kondisi itu serupa terlihat di jalan-jalan protocol, seperti Jalan Sudirman, Kecamatan Padangsidimpuan Utara, Kota Padangsidimpuan. 
+
+Selanjutnya, di Jalan Sisingamangaraja dan Jalan Imam Bonjol. 
+
+Sejumlah pengendara mulai menyalakan lampu untuk menghindari adanya kecelakaan. 
+
+Selain itu, pengendara sepeda motor juga sudah memakai masker penutup hidung dan mulut. 
+
+" <TIMEX3 tid="t3" type="DURATION" value="P1M">Hampir satu bulan</TIMEX3> selalu kabut asap, namun <TIMEX3 tid="t4" type="DATE" value="2019-09-12">hari ini</TIMEX3> semakin parah, " ujar Malik (36), seorang pengendara sepeda motor. 
+
+Selain itu, dia juga terpaksa menyalakan lampu kendaraanya guna menghindari kecelakaan. 
+
+" Lampu kendaraan juga saya hidupkan, agar tidak terjadi kecelakaan, " tuturnya. 
+
+Dia berharap agar pemerintah segera memadamkan api di daerah-daerah yang <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terjadi kebakaran hutan. 
+
+(wib) 
+</TEXT>
+
+</TimeML>

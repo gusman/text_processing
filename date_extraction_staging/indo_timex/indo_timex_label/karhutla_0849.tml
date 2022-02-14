@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0849</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-08-08" temporalFunction="false" functionInDocument="CREATION_TIME">2017-08-08</TIMEX3></DCT>
+
+<TITLE>Kapolda Sumsel: Tindak Tegas Pembakar Lahan, Jangan Khawatir Tidak Ada Dana</TITLE>
+
+<TEXT>
+Kapolda Sumsel, Irjen Pol Drs Agung Budi Maryoto MSi menegaskan pada anak buahnya jangan khawatir tidak ada dana, guna melakukan penyidikan terhadap kasus kebakaran hutan dan lahan yang ada di Sumsel. 
+
+Sebab, Polri sendiri sudah mengucurkan dana Rp 2 Miliar untuk <TIMEX3 tid="t1" type="DATE" value="2017">tahun 2017</TIMEX3> dan jika masih kurang akan ditambah Rp 2 Miliar lagi. 
+
+" <TIMEX3 tid="t2" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> polres-polres yang melakukan penyidikan akan kita kucurkan, jadi tidak ada lagi alasan tidak ada anggaran untuk menyelidik siapa tersangkanya. 
+
+Jadi tidak usah khawatir tidak ada anggaran, sebab anggarannya cukup, " tegasnya saat memantau kebakaran lahan di pinggir jalan Lintas Timur Palembang-Indralaya Km 17, Desa Arisan Jaya Kecamatan Pemulutan Barat Kabupaten Ogan Ilir, <TIMEX3 tid="t3" type="DATE" value="2017-08-07">Senin (7/8/2017)</TIMEX3>. 
+
+Tidak sendiri, Kapolda melakukan pemantauan bersama jajarannya mulai dari Kasat Brimob, Kombes Pol Arif Budiman; Ditlantas Kombes Pol Slamet Santoso; Dir Narkoba Tommy Aria Dwiyanto; Kabid Humas, Cahyo Siswanto dan pejabat teras lainnya. 
+
+Rombongan ini disambut Kapolres OI AKBP M Arief Rifai SIK yang langsung mengajak Kapolda melihat bekas kebakaran lahan gambut dan memantau dari jauh titik api, yang <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> masih terus dipadamkan oleh petugas. 
+
+" Saya mewakili muspida Provinsi Sumsel mengapresiasi dan mengemangati kinerja bapak yang bersatu padu, memadamkan api dan yang penting menjegah. 
+
+Sebab kita jalan <TIMEX3 tid="t5" type="DURATION" value="PT10M">10 menit</TIMEX3> saja sudah batuk, itulah bahaya asap bagi kesehatan, " kata Agung, saat dihadapan kelompok Masyarakat Peduli Api dan warga sekitar. 
+
+Pantauan Sripoku. 
+
+com, hampir sebagian besar lahan gambut di pinggir kanan dan kiri Jalan Lintas Palembang-Indralaya Km 17, sudah menghitam tanda bekas terbakar.Terlihat juga dari kejauhan, sekitar 2 km dari jalan raya tampak titik api di Dusun 2 Sungai Rambutan yang masih membara karena penuh dengan kepulan asap. 
+
+Dua buah helikopter hilir mudik yang membawa air berupaya memadamkan api. " <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> kita lagi kejar di mana pemilik lahan ini. 
+
+Kurang lebih ada 50 hektar. 
+
+Alhamdulilah sebagian besar sudah padam, tapi masih ada dua titik yang masih dilakukan pemadaman dengan water boombing dan lewat jalur darat, " ungkap Agung.Mantan Kakorlantas Polri ini pun menegaskan penegakan hukum akan dimulai dari penyelidikan, pemeriksaan saksi dan alat bukti (sekjati). 
+
+// Pemilik lahannya diketahui bernama Alun dan pihaknya sudah perintahkan untuk dicari sampai ketemu sebab identitasnya sudah dikenali. 
+
+Setelah semua proses itu dilakukan, pihaknya baru bisa memutuskan apakah si pemilik lahan melakukan tindak pidana atau tidak, sebelum akhirnya ditetapkan sebagai tersangka. 
+
+" Kejar, lakukan pemeriksaan, kalau ada kelalaian tetap akan diproses karena ada pasal yang mengatur itu. 
+
+Apalagi kalau disengaja, " tegasnya. 
+
+Menurutnya, di sepanjang <TIMEX3 tid="t7" type="DATE" value="UNKNOWN">musim ini baru</TIMEX3> ada dua yang diamankan di Polres Ogan Ilir, karena sengaja membakar lahan untuk bercocok tanam, tapi apinya malah menyebar ke lahan gambut. 
+
+Identitas keduanya diketahui, yakni KM (45) warga Sungai Rambutan Inderalaya ditangkap pada <TIMEX3 tid="t8" type="DATE" value="2017-07-21">Jumat (21/7/2017)</TIMEX3> dan TB (40) warga Sematang Borang Palembang ditangkap pada <TIMEX3 tid="t9" type="TIME" value="2017-07-26TAF">Rabu (26/7/2017) siang</TIMEX3> sekitar <TIMEX3 tid="t10" type="TIME" value="2017-08-07T12:00">pukul 12.00 WIB</TIMEX3>. 
+
+Keduanya berprofesi sebagai petani. 
+
+" Sudah dalam penyidikan, karena ada indikasi membakar secara sengaja dan itu yang kita larang, " jelasnya. 
+
+Agung menyayangkan hal itu. 
+
+Sebab, kepolisian sejak <TIMEX3 tid="t11" type="DATE" value="2017-05-08">tiga bulan yang lalu</TIMEX3> susah mengingatkan warga, agar tidak membuka lahan pertanian dengan cara membakar. 
+
+Pihaknya juga sudah berkoordinasi dengan stakeholder terkait dan menyebar Babinsa, Babinkamtibmas untuk sama-sama mengingatkan warga sekitar mencegah kebakaran. 
+
+" Sejak <TIMEX3 tid="t12" type="DATE" value="2016-WI">musim hujan kemarin</TIMEX3> sudah kita ingatkan dan <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sudah <TIMEX3 tid="t14" type="DATE" value="2017-SU">musim kemarau</TIMEX3>, seharusnya tidak ada lagi hal-hal seperti itu, " ucapnya.Saat ini, kata Agung, dirinya bersama Pangdam II Sriwijaya dan Gubernur Sumsel serta Danrem Gapo, sudah mengerahkan satgas udara dan darat. 
+
+// Pihaknya akan terus memberikan dukungan dan bersatu padu untuk mengatasi kebakaran hutan dan lahan, supaya tidak ada ego sektoral. 
+
+Api yang belum padam harus dipadamkan agar tidak meluas. 
+
+" Kalau sudah luas sulit ditatanggulangi. 
+
+Makanya sekecil apapun cepat dipadamkan, " ujarnya. 
+
+Dalam kesempatan itu juga, Agung mengimbau masyarakat agar meninggalkan budaya membuka lahan dengan cara pembakaran. 
+
+Apalagi <TIMEX3 tid="t15" type="DATE" value="2018">2018 mendatang</TIMEX3> akan ada even akbar Asian Games. 
+
+Jangan sampai Indonesia, khususnya Palembang, Sumsel, disepelekan negara tetangga sebagai negara pengekspor asap. 
+
+Kemudian pula dampak karhutla juga sangat luas, mulai dari timbulnya berbagai penyakit hingga ke pendidikan karena para pelajar tidak bisa sekolah. 
+
+" Kapolres sudah saya perintahkan, kalau ada kesengajaan di proses hukum, untungnya tidak seberapa, tapi malah <TIMEX3 tid="t16" type="DATE" value="FUTURE_REF">nanti</TIMEX3> di penjara, " ucapnya. 
+
+Hingga <TIMEX3 tid="t17" type="TIME" value="2017-08-08TMO">Dini Hari</TIMEX3> Padamkan ApiSALAH satu anggota TNI, Hamzah (53), perwira pengendali kebakaran Kodim <TIMEX3 tid="t18" type="DATE" value="UNKNOWN">0402</TIMEX3>, mengatakan pihaknya melakukan pemadaman api sejak <TIMEX3 tid="t19" type="TIME" value="2017-07-06TAF">Minggu (6/7/2017) siang</TIMEX3> hingga <TIMEX3 tid="t20" type="DATE" value="2017-07-03">Senin (7/7/2017)</TIMEX3> dini hari. 
+
+Puluhan petugas berjibaku memadamkan api dengan berbagai upaya. 
+
+Puluhan mobil pemadam kebakaran pun dikerahkan, meskipun pada akhirnya terhambat oleh medan yang sulit karena mobil tidak bisa masuk ke lahan gambut. 
+
+Alhasil, petugas pun menyambungkan selang dan berjalan ratusan meter untuk memadamkan api. 
+
+" Ini baru saja padam <TIMEX3 tid="t21" type="TIME" value="2017-08-07TMO">pagi tadi</TIMEX3>, tapi kita tidak bisa menuju titik api di Dusun 2 Sungai Rambutan, karena tidak ada akses ke sana, " jelasnya.Alhasil, pantauan Sripoku.com, hanya terlihat dua helikopter yang membawa air untuk memadamkan api.Kapolda Sumsel, Irjen Pol Agung Budi Maryoto pun hanya bisa memantau dari kejauhan. 
+
+Tampak kepulan asap membumbung ke langit, yang diperkirakan luas lahan terbakar hingga puluhan hektar. 
+
+// " Kita memang harusnya berjuang, kakek nenek kita juga pejuang, bukan dengan perang saja, tapi juga berjuang melawan kebakaran karena efeknya ini sangat luas, " kata Agung dihadapan kelompok Masyarakat Peduli Api dan warga sekitar. 
+
+Dengan adanya teknologi yang semakin maju, dikatakan Agung, pihak yang <TIMEX3 tid="t22" type="DATE" value="PRESENT_REF">kini</TIMEX3> bisa memantau titik api hanya melalui layar. 
+
+" Jadi saat titik api diketahui, langsung kejar dan padamkan hingga tidak meluas, seperti di <TIMEX3 tid="t23" type="DATE" value="2015">tahun 2015</TIMEX3>. 
+
+Sanggup? tanya Agung yang dijawab " sanggup " serentak oleh kelompok Masyarakat Peduli Api. 
+
+(*) 
+</TEXT>
+
+</TimeML>

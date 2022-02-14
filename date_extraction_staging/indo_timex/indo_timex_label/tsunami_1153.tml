@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1153</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-04" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-04</TIMEX3></DCT>
+
+<TITLE>Tsunami Terjang Palu 8 Menit Setelah Gempa, Badan Informasi Geospasial : Jedanya Singkat</TITLE>
+
+<TEXT>
+Badan Informasi Geospasial (BIG) akhirnya berhasil mengungkap waktu persisnya kejadian tsunami yang menerjang Teluk Palu, <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Ini setelah BIG mencoba mendapatkan data dari stasiun pasang surut di Pantoloan, Palu. 
+
+Berdasarkan data tersebut, diketahui air surut maksimal terjadi <TIMEX3 tid="t2" type="TIME" value="2018-09-28T18:08">Jumat (28/9/2018) pukul 18.08 WITA</TIMEX3> sementara pasang maksimal terjadi pada <TIMEX3 tid="t3" type="TIME" value="2018-10-03T18:10">pukul 18.10 WITA</TIMEX3>. 
+
+Mohamad Arief Syafii, Deputi Informasi Geospasial Dasar BIG mengungkapkan, tsunami mulai terjadi <TIMEX3 tid="t4" type="TIME" value="PT6M">6 menit</TIMEX3> setelah gempa. 
+
+Sementara pada <TIMEX3 tid="t5" type="TIME" value="2018-10-03T18:10">pukul 18.10 WITA</TIMEX3> atau hanya <TIMEX3 tid="t6" type="TIME" value="PT8M">8 menit</TIMEX3> setelah gempa, tsunami sudah menerjang Pelabuhan Palu di Pantoloan. 
+
+Dengan jarak Pantoloan ke Kota Palu yang sekitar 28 kilometer, maka Arief mengungkapkan beda waktu gelombang tsunami sampai di Palu " selisihnya enggak sampai <TIMEX3 tid="t7" type="DURATION" value="PT1M">1 menit</TIMEX3>. 
+
+" Menurut data, tinggi maksimum gelombang yang ter. 
+
+Tetapi tsunami yang menerjang Palu bisa jadi lebih. 
+
+" Gelombang di Palu bisa lebih tinggi karena masuk ke teluk yang lebih sempit dan dangkal. 
+
+Berdasarkan informasi Badan Nasional Penanggulangan Bencana (BNPB), ketinggian di Palu ada yang 6 meter, " kata Arief.Informasi baru tentang waktu dan ketinggian tsunami ini bisa menjadi pertimbangan ilmuwan untuk melihat ulang mekanisme yang memicu kejadian yang tak terduga ini. 
+
+// Jeda gempa dan tsunami yang singkat ini menegaskan apa yang sebelumnya telah diungkapkan oleh peneliti geoteknologi Lembaga Ilmu Pengetahuan Indonesia (LIPI) Eko Yulianto. 
+
+Ia mengungkapkan, dalam konteks Indonesia, mitigasi tsunami perlu dibarengi dengan edukasi masyarakat dalam mengenali gempa. 
+
+Kasus seperti <TIMEX3 tid="t8" type="DATE" value="2010-10-25">25 Oktober 2010</TIMEX3> di Mentawai, orang yang selamat yang kita interview <TIMEX3 tid="t9" type="DATE" value="PAST_REF">saat itu</TIMEX3> melihat tulisan berpotensi tsunami di televisi. 
+
+Dia keluar, lari sedikit, air sudah menggulung, katanya. 
+
+Eko berpendapat jika sistem peringatan dini bencana alam baru bisa berguna ketika jarak tsunami datang ke darat itu cukup panjang. 
+
+" Untuk memberikan warning pertama yang isinya biasanya kekuatan gempa yang berpotensi tsunami dan untuk mengeluarkan analisisnya itu perlu <TIMEX3 tid="t10" type="DURATION" value="PT3M">paling tidak 3 menit</TIMEX3>, belum deseminasinya, " ungkap Eko. 
+
+Pada kondisi ini, akan lebih efektif kalau ada pendidikan tentang evakuasi tsunami dengan memahami gejala-gejala tsunami, " terangnya dalam konferensi pers di LIPI, <TIMEX3 tid="t11" type="DATE" value="2018-10-02">Selasa (2/10/2018) kemarin</TIMEX3>. 
+
+
+</TEXT>
+
+</TimeML>

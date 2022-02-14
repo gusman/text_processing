@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0404</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-05" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-05</TIMEX3></DCT>
+
+<TITLE>Bencana Tanah Longsor, Ini Jalur Alternatif dari Jakarta ke Puncak</TITLE>
+
+<TEXT>
+Hujan deras yang turun di kawasan Puncak Bogor, Jawa Barat telah menyebabkan terjadinya longsor pada <TIMEX3 tid="t1" type="TIME" value="2018-02-05">Senin (5/2/2018) pagi</TIMEX3>. 
+
+Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho mengatakan, data sementara, terdapat empat titik longsor yaitu di sekitar Attaawun, Widuri, Grand Hill, dan Riung Gunung. 
+
+" Longsor menutup jalan dan terdapat beberapa tiang listrik roboh serta pohon tumbang. 
+
+Belum ada laporan resmi korban dari longsor di Puncak, " kata Sutopo lewat pesan singkat yang diterima, <TIMEX3 tid="t2" type="DATE" value="2018-02-05">Senin</TIMEX3> (5/2/2018)Menurutnya, BPBD Kabupaten Bogor masih melakukan verifikasi terkait adanya informasi korban longsor. 
+
+Untuk sementara jalur jalan dari Jakarta menuju Puncak, Bogor ditutup total karena jalan tertimbun longsor. 
+
+" Mulai <TIMEX3 tid="t3" type="TIME" value="2018-02-04T09:15">pukul 09.15</TIMEX3> Wib, jalur Puncak ditutup mulai Polingga untuk memudahkan evakuasi dan penanganan longsor di 4 titik longsor tersebut. 
+
+Jalur dari Jakarta menuju Puncak dialihkan lewat Sukabumi. 
+
+Sedangkan dari Cianjur menuju Jakarta dialihkan lewat Jonggol, " katanya. 
+
+Sutopo menjelaskan, hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> hujan masih terus turun. 
+
+BPBD Kabupaten Bogor bersama aparat dari TNI, Polri, Basarnas, SKPD, relawan dan masyarakat melakukan penanganan longsor. 
+
+" BMKG memprediksi hujan akan masih terus berlangsung hingga <TIMEX3 tid="t5" type="TIME" value="2018-02-05TAF">siang nanti</TIMEX3>. 
+
+Potensi hujan di wilayah Jabodetabek masih tetap tinggi. 
+
+BMKG mencatat hujan yang berlangsung sejak <TIMEX3 tid="t6" type="DATE" value="2018-02-04">kemarin</TIMEX3>, tergolong curah hujan ekstrem yang menyebabkan longsor dan naiknya debit Sungai Ciliwung, " katanya. 
+
+. 
+
+Level Siaga I dengan ketinggian muka air Sungai Ciliwung di Bendung Katulampa mencapai 220 centimeter pada <TIMEX3 tid="t7" type="TIME" value="2018-02-05T08:30">Senin (5/2/2018) pukul 08.30 WIB</TIMEX3>. " Pada <TIMEX3 tid="t8" type="TIME" value="2018-02-04T09:00">pukul 09.00</TIMEX3> Wib, naik menjadi 230 centimeter, kemudian pada <TIMEX3 tid="t9" type="TIME" value="2018-02-04T09:05">pukul 09.05</TIMEX3> Wib menjadi 240 centimeter. 
+
+Debit sungai tersebut akan tiba di Pintu Air Manggarai Jakarta pada <TIMEX3 tid="t10" type="TIME" value="2018-02-04T17:30">sekitar pukul 17.30</TIMEX3> Wib pada <TIMEX3 tid="t11" type="DATE" value="2018-02-05">5/2/2018</TIMEX3>. 
+
+<TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> banjir telah berlangsung di bantaran sungai di wilayah Kabupaten Bogor dan Kota Bogor, " kata Sutopo.Dirinya menjelaskan, sebagian masyarakat dievakuasi ke tempat yang aman. 
+
+BPBD Bersama TNI, Polri, Basarnas, PMI, Tagana, SKPD, relawan dan masyarakat melakukan penanganan banjir di wilayahnya. " Tim Reaksi Cepat BNPB disebar untuk mendampingi BPBD dalam penanganan darurat banjir. 
+
+Masyarakat dihimbau untuk meningkatkan kewaspadaan menghadapi banjir, longsor dan puting beliung. 
+
+<TIMEX3 tid="t13" type="DATE" value="2018-02">Februari</TIMEX3> adalah puncak hujan sehingga potensi banjir, longsor dan putting beliung akan makin meningkat. 
+
+Kenali bahayanya dan kurangi risikonya, " tambahnya. 
+</TEXT>
+
+</TimeML>

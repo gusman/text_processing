@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0025</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-01-17" temporalFunction="false" functionInDocument="CREATION_TIME">2017-01-17</TIMEX3></DCT>
+
+<TITLE>Sebanyak 79 Bangunan di Karo Rusak, Tiga Sekolah di Sibolangit Hancur</TITLE>
+
+<TEXT>
+Kepala Stasiun Meteorologi Kualanamu, Djoko Sumardiono memperkirakan gempa bumi yang berpusat di Sibolangit, Kabupaten Deliserdang, Sumatera Utara berpeluang masih terjadi hingga <TIMEX3 tid="t1" type="DURATION" value="P3D">tiga hari ke depan</TIMEX3>. 
+
+Kerusakan yang ditimbulkan sejauh ini terbilang parah, karena merubuhkan puluhan bangunan. 
+
+Getaran gempa yang mengguncang hampir seluruh wilayah Sumatera Utara masih terus terjadi hingga <TIMEX3 tid="t2" type="TIME" value="2017-01-17TMO">Selasa (17/1/2017) pagi</TIMEX3>. 
+
+Tercatat sudah terjadi 11 kali gempa dengan kategori berkekuatan sedang menerjang Sumut. 
+
+Djoko mengimbau masyarakat harus waspada karena diperkirakan gempa susulan akan terjadi hingga <TIMEX3 tid="t3" type="DURATION" value="P3D">tiga hari ke depan</TIMEX3>. 
+
+Tapi merujuk dari kekuatan gempa susulan yang terus melemah, diprediksi kekuatan gempa berikutnya juga akan kecil. 
+
+Diperkirakan (kekuatannya) lemah. 
+
+Mudah-mudahan setelah ini tidak ada lagi gempa, kata Djoko. 
+
+Gempa bumi berkekuatan 5,6 SR yang melanda Sumut pada <TIMEX3 tid="t4" type="TIME" value="2017-01-16TNI">Senin (16/1/2017) malam</TIMEX3>, ternyata menimbulkan kerusakan parah di Kabupaten Karo. 
+
+Sedikitnya 79 unit bangunan rusak, dan seorang terluka akibat tertimpa material rumahnya yang rubuh. 
+
+Dampak kerusakan terparah ditemukan di tiga kecamatan di Kabupaten Karo, yakni Namanteran, Payung dan Merdeka. 
+
+Ketiga daerah ini sebelumnya berstatus zona merah karena berada dalam radius berbahaya erupsi Gunung Sinabung. 
+
+Kepala Bidang Kedaruratan Badan Penanggulangan Bencana Daerah (BPBD) Karo, Nata Nail meincikan, bangunan-bangunan yang rusak itu meliputi 70 unit rumah dengan kondisi rusak ringan, tujuh unit rumah rusak berat, dan masing-masing satu unit masjid dan sekolah, serta satu unit mobil. 
+
+// Ia khawatir jumlah keruskan ini bertambah karena proses pendataan masih terus diakukan di seluruh wilayah Karo. 
+
+Ini data awal, karena kita masih terus mendata ke seluruh kecamatan, kata Nata, <TIMEX3 tid="t5" type="TIME" value="2016-01-17TAF">Selasa (17/1) siang</TIMEX3>. 
+
+Ia mengatakan, seorang warga bernama Jenta Ginting terluka setelah tertimpa material bangunan rumahnya yang roboh di Desa Ujungteran. 
+
+Korban dipastikannya sudah mendapat perawatan medis di puskesmas. 
+
+Luka robek di kepala sekitar dua centimeter. 
+
+Sudah ditangani puskesmas, tuturnya. 
+
+Murid di Sibolangit LiburDi Kecamatan Sibolangit, Kabupaten Deliserdang, kerusakan parah menimpa tiga bangunan sekolah, yakni SD Negeri 101842 Sikeben, SD Negeri 106821 Bandarbaru dan SD Negeri 101840 Cintarakyat. 
+
+Atap ketiga sekolah rubuh dan dinding gedung mengalami keretakan yang cukup besar. 
+
+Camat Sibolangit, Amos Karokaro mengatakan untuk sementara akativitas belajar di tiga sekolah itu dihentikan. 
+
+" Kesepakatan dengan UPT Dinas Pendidikan untuk meliburkan aktivitas belajar di tiga sekolah ini. 
+
+Belum diputuskan sampai kapan libur ini diberlakukan, " katanya. 
+
+Amos tidak menampik kalau kerusakan juga dialami sejumlah bangunan rumah. 
+
+Namun karena proses pendataan belum selesai dilakukan, ia belum bisa menyampaikan total jumlah kerusakan. 
+
+(mad) 
+</TEXT>
+
+</TimeML>

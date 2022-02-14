@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0188</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-01</TIMEX3></DCT>
+
+<TITLE>VIDEO - 43 Orang Diduga Tertimbun Longsor di Cisolok, Baru 2 Orang Korban Ditemukan</TITLE>
+
+<TEXT>
+Pasca bencana longsor yang menimbun sejumlah rumah di Desa Sirnaresmi Kecamatan Cisolok Kabupaten Sukabumi, tim gabungan kembali melanjurkan korban yang diduga masih banyak tertimbun, <TIMEX3 tid="t1" type="DATE" value="2019-01-01">Senin (1/1/2019)</TIMEX3>. 
+
+// " Hingga <TIMEX3 tid="t2" type="TIME" value="2018-12-31T09:00">pukul 09.00</TIMEX3>, sudah ada dua orang yang ditemukan. 
+
+Satu orang bernama Sukiyat (50) ditemukan <TIMEX3 tid="t3" type="TIME" value="2018-12-31T07:45">pukul 07.45</TIMEX3> dan seorang lagi ditemukan <TIMEX3 tid="t4" type="TIME" value="2018-12-31T08:40">pukul 08.40</TIMEX3>, untuk identitasnya masih kami identifikasi, " ujar Joshua Banjarnahor, Kepala Humas Kantor SAR Bandung via pesan elektroniknya. 
+
+Sejak <TIMEX3 tid="t5" type="TIME" value="2018-12-31">kemarin malam</TIMEX3>, petugas gabungan terus melakukan pencarian dengan keterbatasan fasilitas. 
+
+Termasuk keterbatasan alat berat untuk masuk ke lokasi bencana karena akses jalan yang terbatas. 
+
+" Kondisi <TIMEX3 tid="t6" type="DURATION" value="2019-01-01TNI">semalam</TIMEX3> penerangan minim. 
+
+Kemudian akses ke lokasi jalannya sempit. 
+
+<TIMEX3 tid="t7" type="TIME" value="2019-01-01TMO">Pagi ini</TIMEX3> pencarian sedang dilakukan melibatkan unsur Basarnas, TNI, Polri, pemerintah setempat, BPBD Kabupaten Sukabumi, pramuka hingga warga setempat, " ujar Joshua Banjarnahor. 
+
+Kondisi serupa masih terjadi hingga <TIMEX3 tid="t8" type="TIME" value="2019-01-01TMO">pagi ini</TIMEX3> setidaknya hingga <TIMEX3 tid="t9" type="TIME" value="2018-12-31T09:00">pukul 09.00</TIMEX3>. 
+
+Lokasi yang cukup jauh dari pusat pemerintahan setempat <TIMEX3 tid="t10" type="DURATION" value="PT1H">sekitar 1 jam</TIMEX3> perjalanan dengan akses jalan terbatas, menghambat pencarian. " Pencarian masih dilakukan menggunakan alat seadanya, " ujar Joshua.Adapun data <TIMEX3 tid="t11" type="TIME" value="2018-12-30TNI">malam tadi</TIMEX3> pukul <TIMEX3 tid="t12" type="TIME" value="2018-12-31T00:50">00.50</TIMEX3> yang diperoleh dari Kantor SAR Bandung, kampung itu dihuni 34 kepala keluarga dengan 107 jiwa. 
+
+6 orang selamat, dua meninggal, tiga luka berat dan 41 orang belum ditemukan. 
+
+(Tribun Jabar / Mega Nugraha) 
+</TEXT>
+
+</TimeML>

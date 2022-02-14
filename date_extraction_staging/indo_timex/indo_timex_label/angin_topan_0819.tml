@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0819</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2013-11-19" temporalFunction="false" functionInDocument="CREATION_TIME">2013-11-19</TIMEX3></DCT>
+
+<TITLE>Topan tewaskan 17 orang, Italia tetapkan status darurat</TITLE>
+
+<TEXT>
+Pemerintah Italia menyatakan status darurat di Sardinia pada <TIMEX3 tid="t1" type="DATE" value="2013-11-19">Selasa (19/11/2013)</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="P1D">sehari</TIMEX3> setelah angin topan Cleopatra menerjang pulau Mediterania. 
+
+Setidaknya 17 orang tewas dan ratusan orang kehilangan tempat tinggal setelah diterjang topan. 
+
+<TIMEX3 tid="t3" type="DURATION" value="2013-11-01TNI">Semalam</TIMEX3>, topan Cleopatra menerjang bersamaan dengan hujan deras selama <TIMEX3 tid="t4" type="DURATION" value="PT1H30M">1,5 jam</TIMEX3>. 
+
+Bencana itu memicu banjir yang mengacaukan Kota Sardinia. 
+
+Ini adalah tragedi nasional, kata Perdana Menteri Italia, Enrico Letta, usai pertemuan kabinet untuk membahas krisis di negaranya. 
+
+Dia mengatakan, status darurat telah ditetapkan, untuk mempermudah penanganan daerah yang hancur dan para korbannya. 
+
+Banyak mobil di kota itu terendam lumpur dan banjir. 
+
+Walikota Olbia, Sardinia, Gianni Giovanelli, menyebut banjir tiba-tiba itu, seperti bom dengan intensitas air yang banyak hanya dalam tempo <TIMEX3 tid="t5" type="DURATION" value="PT1H30M">1,5 jam</TIMEX3>. 
+
+Kami baru saja menemukan anak yang telah tewas, kami telah mencari semua (korban) sejak <TIMEX3 tid="t6" type="TIME" value="2013-11-18TNI">malam</TIMEX3>, katanya kepada stasiun televisi SkyTG24. 
+
+Gubernur setempat, Ugo Cappellacci, mengatakan, selain sembilan orang dilaporkan tewas <TIMEX3 tid="t7" type="DURATION" value="2013-11-01TNI">semalam</TIMEX3>, beberapa korban lain ditemukan di rumah mereka di Olbia. 
+
+Situasinya tragis, ujarnya. 
+
+Hotel-hotel di Olbia penuh dengan orang yang mengungsi, tapi ada ribuan orang yang rumahnya rusak. 
+
+(mas) 
+</TEXT>
+
+</TimeML>

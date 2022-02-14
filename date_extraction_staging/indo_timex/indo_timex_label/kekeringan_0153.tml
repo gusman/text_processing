@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0153</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-23" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-23</TIMEX3></DCT>
+
+<TITLE>Kekeringan Meluas, Status Masih Siaga</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2019-SU">Musim kemarau</TIMEX3> di Kabupaten Tangerang sudah berlangsung <TIMEX3 tid="t2" type="DURATION" value="P5M">lima bulan</TIMEX3>. 
+
+Dampaknya, lahan pertanian di 26 kecamatan mengalami kerusakan mulai ringan, sedang hingga berat. 
+
+Selain pertanian, warga di beberapa kecamatan sudah merasakan krisis air bersih. 
+
+Namun, status bencana akibat <TIMEX3 tid="t3" type="DATE" value="2019-SU">musim kemarau</TIMEX3> berkepanjangan belum naik status menjadi darurat. 
+
+Sedangkan, kecamatan yang mulai kekurangan air bersih yakni di Kecamatan Panongan, Kresek, Curug dan Legok. 
+
+Kemudian warga di Kecamatan Teluknaga, Kosambi dan Mauk. 
+
+Ditambah, Kecamatan Tigaraksa, Jambe dan Rajeg. 
+
+Kepala Bidang Kedaruratan dan Logistik Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Tangerang, Kosrudin mengatakan, sumur tanah milik warga sudah mulai mengering. 
+
+Dampak kekeringan sudah meluas namun belum mencapai level darurat. 
+
+Kekeringan sudah meluas sekira 10 kecamatan dengan 15 kelurahan/desa, katanya kepada Tangerang Ekspres, <TIMEX3 tid="t4" type="DATE" value="2019-09-12">Minggu (12/9)</TIMEX3>. 
+
+Bahkan, ada warga di Kelurahan Curug, Kecamatan Curug meminta dikirimi air bersih sebanyak satu unit mobil dalam <TIMEX3 tid="t5" type="DURATION" value="P1D">sehari</TIMEX3>. 
+
+Kosrudin mengatakan, pengriman sudah berlangsung <TIMEX3 tid="t6" type="DURATION" value="P3D">sekitar tiga hari</TIMEX3> belakangan ini. 
+
+Kita berfokus kepada pengiriman air bersih. 
+
+Kelurahan Curug itu ada kelurahan yang rutin kita kirim dua mobil <TIMEX3 tid="t7" type="SET" value="P1D">setiap hari</TIMEX3>. 
+
+Namun, sejak <TIMEX3 tid="t8" type="DATE" value="2019-09-22">kemarin</TIMEX3> sudah saya kurangi menjadi hanya satu unit saja pengirimannya, jelasnya. 
+
+Ada 10 kecamatan dengan 15 desa yang sudah meminta air bersih kepada kita. 
+
+Namun, warga tidak hanya meminta bantuan air kepada kita. 
+
+Tapi juga ke PDAM dan Dinas Perkim jadi jumlah tersebut desa dan kecamatan yang mengajukan bantuan ke kita, imbuhnya. 
+
+Selama ini, kata dia, BPBD memperoleh sumber air bersih dari sumur tanah yang ditampung pada dua tangki dengan total kapasitas delapan ribu meter kubik air. 
+
+Ia mengungkapkan, air yang digunakan tujuannya untuk memadamkan kebakaran. 
+
+Sehingga, tidak memasang saluran air bersih dari perusahaan daerah air minum (PDAM). 
+
+Kita menggunakan air tanah dan tidak menggunakan saluran dari PDAM, karena kita prioritas pada kebakaran bukan menjadi sumber air bersih. 
+
+Kalau sumur hanya satu yang ditampung ke dua tangki kapasitas empat ribu meter kubik. 
+
+Kita mengirimkan dua unit mobil tangki air setiap harinya untuk disalurkan kepada warga, tukasnya. 
+
+Sementara, Kasubdit Pengembangan Informasi Bencana, Henry D Manuhutu mengatakan, belum ada keputusan penetapan dari status bencana kekeringan. 
+
+Sehingga, status bencana kekeringan akibat dari <TIMEX3 tid="t9" type="DATE" value="2019-SU">musim kemarau</TIMEX3> masih dalam level siaga. 
+
+Kalau untuk penaikan status biasanya akan ada rapat koordinasi namun hingga <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">kini</TIMEX3> belum ada. 
+
+Jadi status kekeringan masih siaga, belum ada kenaikan level, terangnya. 
+
+(mg-10/mas) 
+</TEXT>
+
+</TimeML>

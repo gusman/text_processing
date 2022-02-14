@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0114</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-27" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-27</TIMEX3></DCT>
+
+<TITLE>22 Desa di Kabupaten Serang Krisis Air Bersih</TITLE>
+
+<TEXT>
+Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Serang mencatat, sebanyak 22 desa dari delapan kecamatan di Kabupaten Serang mengalami krisis air bersih. 
+
+Hal itu mengacu pada wilayah yang sudah mendapat bantuan pendistribusian air bersih dari BPBD, dari <TIMEX3 tid="t1" type="DATE" value="2018-01">Januari</TIMEX3> hingga <TIMEX3 tid="t2" type="DATE" value="2018-08-24">24 Agustus</TIMEX3> tahun ini. 
+
+Koordinator Pusat Pengendalian Operasi (Pusdalops) BPBD Kabupaten Serang Jhoni Effendi Wangga mengungkapkan, pihaknya sudah mendistribusikan 260 ribu liter air bersih ke wilayah yang terkena kekeringan sepanjang <TIMEX3 tid="t3" type="DATE" value="2018-SU">musim kemarau</TIMEX3> tahun ini. 
+
+Kita sudah distribusikan air bersih ke 22 desa di delapan kecamatan yang melapor mengalami krisis air bersih, ungkapnya melalui sambungan telepon seluler, <TIMEX3 tid="t4" type="DATE" value="2018-08-26">kemarin</TIMEX3>. 
+
+Ia memerinci, sebanyak 45 ribu liter didistribusikan ke empat desa di Kecamatan Pontang, 55 ribu liter untuk delapan desa di Kecamatan Tirtayasa, 60 ribu liter untuk empat desa di Kecamatan Carenang, 25 ribu liter untuk satu desa di Kecamatan Binuang, 10 ribu liter untuk dua desa di Kecamatan Tanara, 40 ribu liter untuk tiga desa di Kecamatan Kibin, 20 ribu liter untuk empat desa di Kecamatan Cikande, dan 5 ribu liter untuk satu desa di Kecamatan Bandung. 
+
+Kita terus distribusikan ke daerah yang melaporkan membutuhkan air bersih, ujarnya. 
+
+Diakui Jhoni, permintaan bantuan air bersih <TIMEX3 tid="t5" type="DATE" value="2018-08">bulan ini</TIMEX3> mulai berkurang karena mulai memasuki <TIMEX3 tid="t6" type="DATE" value="2017-WI">musim hujan</TIMEX3>. 
+
+Berdasarkan hasil pantauan di lapangan dan perkiraan cuaca dari Badan Meteorologi Klimatologi dan Geofisika (BMKG), memasuki <TIMEX3 tid="t7" type="DATE" value="2018-08">akhir Agustus</TIMEX3> dan <TIMEX3 tid="t8" type="DATE" value="2017-09">September</TIMEX3> memasuki <TIMEX3 tid="t9" type="DATE" value="2017-WI">musim hujan</TIMEX3>. 
+
+Alhamdulillah, <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> daerah yang krisis air sudah berkurang. 
+
+Bahkan, beberapa desa berangsur-angsur normal (tidak kekurangan air-red) walaupun tidak 100 persen, ucapnya. 
+
+Dalam pendistribusian air bersih, kata Jhoni, BPBD melibatkan pihak swasta dan instansi terkait lainnya. 
+
+Pihaknya mendapat respons dari beberapa perusahaan di Serang timur terkait bantuan air bersih. 
+
+Kita upayakan bantuan dari organisasi-organisasi. 
+
+Kita terbuka untuk siapa pun yang ingin membantu, tegasnya. 
+
+Senada diungkapkan Kepala Pelaksana Harian BPBD Kabupaten Serang Nana Sukmana Kusuma. 
+
+Tidak hanya pihak swasta, pendistribusian air bersih juga mendapat bantuan dari Dinas Sosial (Dinsos) Kabupaten Serang dan BPBD Provinsi Banten. 
+
+Dinsos mendistribusikan ke Kampung Carenang Pintu, Desa Mekarsari, Kecamatan Carenang. 
+
+Sementara, BPBD Provinsi Banten mendistribusikan air bersih ke Kampung Astana Bojong, Desa Walikukun, Kecamatan Carenang. 
+
+(Adi/RBG) 
+</TEXT>
+
+</TimeML>

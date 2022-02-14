@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1131</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Polisi Evakuasi 410 Jenazah Korban Gempa dan Tsunami di Palu</TITLE>
+
+<TEXT>
+Aparat kepolisian dari Brimob dan Shabara sudah mengevakuasi 410 jenazah korban gempa dan tsunami di Palu, Sulawesi Tengah. 
+
+Sebagian sudah berhasil diidentifikasi dan bahkan ada yang sudah dibawa pulang oleh keluarganya. 
+
+Karopenmas Divisi Humas Polri Brigjen Pol Dedi Prasetyo mengatakan, jumlah korban yang sudah berhasil diidentifikasi sebanyak 97 orang dan 30 orang diantaranya sudah dibawa pulang jenazahnya oleh pihak keluarga. 
+
+. 
+
+''Brimob dan Sabhara sudah melakukan evakuasi. 
+
+Sudah ratusan mayat. 
+
+Di RS Bhayangkara telah dievakuasi 410 mayat. 
+
+Yang sudah diidentifikasi 97 jenazah dan 30 diantaranya dibawa pulang keluarga, '' ujar Dedi, ketika dikonfirmasi, <TIMEX3 tid="t1" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3>. 
+
+Jenderal bintang satu itu mengatakan, masih banyak korban yang belum berhasil dievakuasi, terutama yang terjebak di bawah reruntuhan bangunan. 
+
+''Kondisi di evakuasi, sekitar pantai sekitar yang terlihat, kalau yang belum berhasil evakuasi reruntuhan bangunan. 
+
+Peralatan sangat terbatas, '' tukasnya. 
+
+*** 
+</TEXT>
+
+</TimeML>

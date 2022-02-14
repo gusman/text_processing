@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0924</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-07-14" temporalFunction="false" functionInDocument="CREATION_TIME">2016-07-14</TIMEX3></DCT>
+
+<TITLE>Bakar Lahan, Kakek Ini Diamankan ke Mapolsek Singkawang Utara</TITLE>
+
+<TEXT>
+Seorang kakek diamankan ke Mapolsek Singkawang Utara untuk dimintai keterangan terkait kebakaran hutan dan lahan tidak jauh dari kampus STKIP Singkawang, <TIMEX3 tid="t1" type="DATE" value="2016-07-14">Kamis (14/7/2016)</TIMEX3>. 
+
+Kakek bernama Abdurahman (62) ini membakar lahannya untuk ditanami nanas. 
+
+Berbekal semprotan air manual dan sumur yang warga Naram ini buat di atas lahan seluas 40X 100 meter miliknya ini, ia awalnya merasa bisa untuk melokalisir api yang ia sulut sekira <TIMEX3 tid="t2" type="TIME" value="2016-07-13T09:00">pukul 09.00 WIB pagi</TIMEX3>. 
+
+Namun lahan gambut miliknya justru membara dengan cepat ketika <TIMEX3 tid="t3" type="TIME" value="2016-07-13TAF">siang</TIMEX3> menjelang saat angin bertiup kencang. 
+
+" Saya sedang tidur di rumah, dibangunkan bapak minta bantu padamkan api, " kata seorang anak Abdurahman kepada Tribunpontianak. 
+
+co. 
+
+id. 
+
+" Saat kami sampai ke kebun lagi, ternyata sudah ramai orang, " tambahnyaKapolsek Singkawang Utara, Iptu J Santoso menuturkan pada patroli <TIMEX3 tid="t4" type="TIME" value="2016-07-14TMO">pagi</TIMEX3> mereka sempat melintasi areal ini, namun belum ada tanda-tanda kebakaran hutan dan lahan. " Ketika kami di Semelagi Kecil, jelang <TIMEX3 tid="t5" type="TIME" value="2016-07-14TAF">siang itu</TIMEX3> sudah masuk laporan ada kebakaran disini, " katanya.Abdurahman sendiri <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> diamankan di mapolsek. 
+
+" Kita mintai keterangan <TIMEX3 tid="t7" type="DATE" value="PAST_REF">dulu</TIMEX3>, diberikan peringatan juga, dan yang bersangkutan harus melapor <TIMEX3 tid="t8" type="DATE" value="FUTURE_REF">nanti</TIMEX3> ke kecamatan dan koramil, agar ada efek jera, " katanyaDalam <TIMEX3 tid="t9" type="DATE" value="UNKNOWN">satu hari ini</TIMEX3> saja kata Santoso, ada dua lokasi kebakaran hutan dan lahan. 
+
+Meski tidak memakan areal luas, namun kejadian ini patut disayangkan. " Sudah dari <TIMEX3 tid="t10" type="DATE" value="PAST_REF">dulu</TIMEX3> kita naik rumah ke rumah imbau dimana-mana, dibuatkan spanduk segala macam agar warga jangan buka lahan dengan cara dibakar. 
+
+Ternyata masih saja ada yang mengabaikan, " katanya. 
+</TEXT>
+
+</TimeML>

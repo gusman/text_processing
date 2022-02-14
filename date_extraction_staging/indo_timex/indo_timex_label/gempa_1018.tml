@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1018</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-28" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-28</TIMEX3></DCT>
+
+<TITLE>Gempa 7,7 SR Guncang Donggala, 1 Meninggal, 10 Luka</TITLE>
+
+<TEXT>
+Gempa berkekuatan 7,7 skala Richter (SR) mengguncang Kabupaten Donggala, Sulawesi Tengah, pada <TIMEX3 tid="t1" type="TIME" value="2018-09-27T17:02">pukul 17.02</TIMEX3>. 
+
+Berdasarkan pesan yang disampaikan lewat akun Twitter Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), gempa tersebut berada di <TIMEX3 tid="t2" type="TIME" value="2018-09-27T00:18">0.18</TIMEX3> Lintang Selatan dan 119.85 Bujur Timur atau 27 kilometer timur laut Donggala, Sulawesi Tengah. 
+
+Gempa di kedalaman 10 kilometer dan berpotensi tsunami, demikian ditulis BMKG. 
+
+Lembaga itu merilis peringatan tsunami dengan warna kuning atau tingkat waspada. 
+
+Sebelumnya, gempa mengguncang wilayah yang sama <TIMEX3 tid="t3" type="TIME" value="2018-09-27T15:25">pukul 15.25</TIMEX3> dengan kekuatan 5,3 SR. 
+
+Satu orang dikabarkan meninggal dan 10 orang mengalami luka-luka akibat gempa tersebut dan <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> dirawat di Rumah Sakit Umum Donggala. 
+
+Siaran pers BMKG Palu, <TIMEX3 tid="t5" type="DATE" value="2018-09-28">Jumat</TIMEX3>, menyatakan, Badan Penanggulangan Bencana Daerah Kabupaten Donggala melaporkan tercatat satu orang meninggal, 10 orang luka-luka, dan puluhan rumah rusak. 
+
+Korban yang tewas dan luka-luka itu akibat tertimpa bangunan yang roboh. 
+
+Dampak Gempa. 
+
+Evakuasi masih dilakukan petugas. 
+
+Pendataan dan penanganan darurat masih dilakukan, demikian ditulis Sutopo Purwo Nugroho, Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana, dalam rilisnya. 
+
+Sebagian masyarakat masih berada di luar rumah. 
+
+Mereka berada di tempat aman karena gempa susulan masih sering terjadi. 
+
+
+</TEXT>
+
+</TimeML>

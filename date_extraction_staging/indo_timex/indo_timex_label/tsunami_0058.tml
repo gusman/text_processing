@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0058</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-03</TIMEX3></DCT>
+
+<TITLE>Gubernur Koster Tugaskan Pendataan Jumlah Korban Umat Hindu di Sulteng</TITLE>
+
+<TEXT>
+Gubernur Bali Wayan Koster menugaskan Sekda Provinsi Bali, Dewa Made Indra untuk segera membentuk tim terkait bencana gempa dan tsunami di Donggala dan Palu, Sulawesi Tengah (Sulteng). 
+
+Tim yang dibentuk bertugas mendata jumlah korban, khususnya umat Hindu Bali. 
+
+Terlebih, jumlah transmigran asal Bali di Sulteng dikatakan cukup banyak. 
+
+Selain itu dilakukan penggalanan sumbangan sukarela dari pegawai di lingkungan Pemprov dan masyarakat umum untuk para korban bencana. 
+
+<TIMEX3 tid="t1" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> akan berkoordinasi dengan Parisada dan tokoh-tokoh umat yang ada disana. 
+
+Ada beberapa korban dari umat kita di sana. 
+
+Kami juga menugaskan Sekda untuk menggalang punia, sumbangan sukarela dari para pegawai Pemprov Bali dan masyarakat umum, ujar Koster usai mengikuti Rapat Paripurna di DPRD Bali, <TIMEX3 tid="t2" type="DATE" value="2018-10-03">Rabu (3/10)</TIMEX3>. 
+
+Sumbangan yang <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">nanti</TIMEX3> terkumpul, lanjut Koster, akan diserahkan kepada para korban di daerah bencana selain tentunya dukungan moral. 
+
+Penggalangan bantuan serupa juga sudah dilakukan untuk korban gempa di Lombok. 
+
+Sumbangan sukarela yang berhasil dikumpulkan dari para pegawai Pemprov Bali mencapai Rp 850 juta. 
+
+Rencananya, sumbangan itu akan diserahkan kepada korban gempa Lombok pada <TIMEX3 tid="t4" type="DATE" value="2018-10-07">7 Oktober mendatang</TIMEX3>. 
+
+<TIMEX3 tid="t5" type="DATE" value="2017-10-07">Tanggal 7 Oktober</TIMEX3> menyerahkan bantuan kepada korban bencana yang di NTB, bagi umat kita orang Bali dan juga yang lainnya disana. 
+
+Kira-kira sudah terkumpul dari pegawai Pemprov Rp 850 juta. 
+
+<TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> untuk Sulteng saya kira akan lebih dari itu, jelasnya. 
+
+. 
+
+Data korban sebetulnya sudah dihimpun oleh Badan Nasional Penanggulangan Bencana dan Badan Penanggulangan Bencana Daerah (BPBD) setempat. 
+
+Pihaknya akan lebih fokus menggalang sumbangan dari masyarakat Bali, pegawai dan semua pihak yang berkeinginan secara sukarela dan terpanggil rasa kemanusiaannya untuk memberikan bantuan. 
+
+<TIMEX3 tid="t7" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> kemana sumbangan atau bantuan disampaikan, akan kami umumkan. 
+
+Ini bantuan kemanusiaan untuk sahabat-sahabat kita, saudara kita yang terkena musibah di Palu, Donggala dan sekitarnya, jelas mantan Kepala Pelaksana BPBD Provinsi Bali ini. 
+
+Terkait bencana gempa di Lombok, lanjut Dewa Indra, bantuan dari Bali sebetulnya tidak hanya dalam bentuk sumbangan uang. 
+
+Tapi ada pula bantuan tenaga medis, ambulans dan logistik yang telah lebih dulu disalurkan ke Lombok. 
+
+(Rindra Devita/balipost) 
+</TEXT>
+
+</TimeML>

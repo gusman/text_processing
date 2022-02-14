@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1059</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-21" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-21</TIMEX3></DCT>
+
+<TITLE>Seorang Anak di Pekanbaru Tewas Terpapar Kabut Asap</TITLE>
+
+<TEXT>
+Ramadhani Luthfi Aerli, seorang anak berusia <TIMEX3 tid="t1" type="DURATION" value="P9Y">sembilan tahun</TIMEX3>, meninggal dunia karena kuat dugaan menjadi korban dampak kabut asap kebakaran lahan dan hutan di Kota Pekanbaru, Provinsi Riau, <TIMEX3 tid="t2" type="DATE" value="2015-10-21">Rabu</TIMEX3>. 
+
+Anak saya mendadak panas dan kejang-kejang, dan tidak bisa tertolong lagi, kata ayah almarhum, Eri Wiria, kepada Antara di rumah duka Gg. 
+
+Salam Jalan Pangeran Hidayat, Kota Pekanbaru. 
+
+Almarhum Ramdhani adalah anak sulung dari dua bersaudara, dari pasangan suami-istri Eri Wiria dan Lili. 
+
+Eri menyatakan, almarhum anaknya sempat dirawat di Instalasi Gawat Darurat (IGD) dan ruang PICU RS Santa Maria sebelum menghembuskan nafas terakhirnya pada <TIMEX3 tid="t3" type="TIME" value="2015-10-20T04:45">sekitar pukul 04.45 WIB</TIMEX3>. 
+
+Eri sempat menunjukan hasil rontgen alamarhum anaknya yang didapatkan dari dokter RS Santa Maria. 
+
+Menurut dia, dokter jaga RS Santa Maria mengatakan anaknya mengalami kekurangan oksigen di jantungnya dan hasil rontgen menunjukan paru-paru almarhum Ramadhani terdapat gumpalan seperti asap. 
+
+Dokter menjelaskan terjadi penipisan oksigen di jantungnya, dan di paru-paru almarhum anak saya seperti ada awan-awan berbayang, katanya. 
+
+Sementara itu, Manajer Pelayanan Medik RS Santa Maria dr. 
+
+Yuliarni mengatakan almarhum Ramadhani Luthfi tiba dalam kondisi berat karena mengalami kejang-kejang. 
+
+Almarhum hanya sempat dirawat <TIMEX3 tid="t4" type="DURATION" value="PT3H">sekitar tiga jam</TIMEX3> di rumah sakit tersebut sebelum akhirnya meninggal dunia. 
+
+Pasien sudah datang dalam kondisi berat. 
+
+Asap memang bisa membuat kejang-kejang, kata dr. 
+
+Yuliarni menjelaskan menyebabkan kematian korban. 
+
+(*/lek) Sumber: 
+</TEXT>
+
+</TimeML>

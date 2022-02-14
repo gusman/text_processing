@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1080</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-07" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-07</TIMEX3></DCT>
+
+<TITLE>Gempa Pidie Jaya, Layanan XL Tetap Normal</TITLE>
+
+<TEXT>
+Terkait terjadinya gempa di wilayah Kabupaten Pidie Jaya, Nanggroe Aceh Darussalam pada Rabu pagi (7/12).
+
+Dalam rilis yang diterima  XL turut menyampaikan duka cita yang mendalam kepada masyarakat Aceh.
+
+
+Regional Sales Manager Nangroe Aceh Darussalam , Trisna Gunawan mengatakan, untuk layanan XL di daerah tersebut dan Aceh pada umumnya tetap normal.
+
+Tidak ada kerusakan pada infrastruktur XL, baik BTS (Base Transceiver Station) maupun kantor Layanan XL Center di Banda Aceh.
+
+
+Tercatat ada dua BTS mati karena listrik dari PLN padam.
+
+Untuk wilayah Kabupaten Pidie dan Pidie Jaya XL memiliki total 33 BTS yang masih beroperasi dan tetap dapat digunakan oleh masyarakat.
+
+
+XL terus memantau kondisi di lokasi bencana untuk memastikan layanan telekomunikasi dan data tetap normal guna mendukung aktifitas masyarakat dan upaya tanggap darurat.
+
+Selain itu, XL juga menghimpun informasi untuk keperluan penyaluran bantuan kepada masyarakat.
+</TEXT>
+
+</TimeML>
+

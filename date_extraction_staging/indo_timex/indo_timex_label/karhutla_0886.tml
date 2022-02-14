@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0886</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-25</TIMEX3></DCT>
+
+<TITLE>BPBD Pelalawan Riau Geser Petugas Pemadam Kebakaran Hutan ke Pangkalan Terap</TITLE>
+
+<TEXT>
+Pergeseran petugas pemadam kebakaran hutan dan lahan (Karhutla) di Pelalawan kerap terjadi. 
+
+<TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, petugas Karhutla kembali difokuskan di Desa Pangkalan Terap, Teluk Meranti, Pelalawan. 
+
+Sebelumnya, sejumlah petugas Karhutla difokuskan ke Desa Teluk Binjai, Teluk Meranti. 
+
+Api di desa tersebut bisa dipadamkan dan telah dilokasir. 
+
+" Petugas kembali kita geser ke Pangkalan Terap. 
+
+Dari Teluk Binjai kita arahkan ke Pangkalan Terap, " kata kepala Badan Penanggulangan Bencana Daerah (BPBD) Pelalawan Hadi Penandio, <TIMEX3 tid="t2" type="DATE" value="2019-03-25">Senin (25/3/2019)</TIMEX3>. 
+
+Penyebab pengeseran ini, api kembali muncul di Desa Pangkalan Terap. 
+
+Bila dibiarkan, api bakal membesar. 
+
+" Kita tidak tau kenapa di Pangkalan Terap naik lagi apinya. 
+
+Makanya kita geser petugas ke sana, " ujarnya. 
+
+Sebelumnya, Kapolsek Bunut AKP Benhardi mengatakan api Karhutla dari Pangkalan Terap sudah mau memasuki wilayah Desa Merbau, Kecamatan Bunut. 
+
+Dua wilayah ini memang saling berbatasan.Hari ini, <TIMEX3 tid="t3" type="DATE" value="2019-03-25">Senin (25/3/2019)</TIMEX3>, berdasarkan analisis BMKG, tidak ada ditemukan titik hotspot di Pelalawan.Diperkirakan titik api di Pangkalan Terap, tidak terpantau BMKG. 
+
+
+</TEXT>
+
+</TimeML>

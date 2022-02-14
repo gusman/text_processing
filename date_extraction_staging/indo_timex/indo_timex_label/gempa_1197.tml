@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1197</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Ketinggian Tsunami di Palu dan Donggala 6 Meter, Bocah 8 Tahun Selamat karena Tersangkut di Atap Rumah</TITLE>
+
+<TEXT>
+Ketinggian tsunami yang menerjang kawasan pantai di Kota Palu dan Donggala, Sulawesi Tengah, usai gempa 7,4 SR, <TIMEX3 tid="t1" type="TIME" value="2018-09-28TAF">Jumat (28/9) sore</TIMEX3>, mencapai 6 meter. 
+
+''Kami dapat laporan tadi ada orang yang menyelamatkan orang dengan naik ke pohon yang tingginya hampir 6 meter, " tutur Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho di Gedung BNPB, Jakarta Timur, <TIMEX3 tid="t2" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3>, seperti dikutip dari liputan6. 
+
+com. 
+
+BNPB masih terus berkoordinasi dengan para ahli tsunami agar dapat melakukan pendataan valid. 
+
+Termasuk meneliti faktor penyebab agar dapat menjadi bahan evaluasi di masa yang akan datang. 
+
+''Tentu juga akan menjadi terkait dengan tata ruang di Kota Palu dan Donggala, '' jelas dia. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> petugas gabungan masih berupaya melakukan evakuasi, baik secara manual maupun menggunakan alat berat untuk mencari para korban. 
+
+Sejauh ini, keseluruhannya masih dalam proses pendataan dan pembaharuan jumlah dan identitas korban. 
+
+''Belum semuanya korban yang ditemukan teridentifikasi di RS. 
+
+Tim DVI Polri masih terus melakukan proses identifikasi. 
+
+Baru sebagian. 
+
+Dari 141 orang dilaporkan baru sekitar 56 yang berhasil diidentifikasi Polri. 
+
+Jadi, proses evakuasi masih terus dilakukan, " Sutopo menandaskan. 
+
+Kesaksian Bocah <TIMEX3 tid="t4" type="DURATION" value="P8Y">8 Tahun</TIMEX3> Wakil Komandan Zeni Bangunan, Mayor Edy Harahap, menceritakan saat mengevakuasi puluhan jenazah korban tsunami, dia bertemu dengan seorang anak berusia <TIMEX3 tid="t5" type="DURATION" value="P8Y">8 tahun</TIMEX3>. 
+
+''Ada anak kecil <TIMEX3 tid="t6" type="DATE" value="P8Y">8 tahun</TIMEX3> yang masih hidup cerita, 'Tinggi komandan, sekitar hampir 6 meter itu, '' cerita Mayor Edy kepada Liputan6. 
+
+com, <TIMEX3 tid="t7" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3>. 
+
+Edy memaparkan bahwa ombak pertama yang masuk ke tepi pantai telah menyeret sejumlah pedagang di pesisir pantai di Palu. 
+
+Kemudian, ombak kedua menyusul dengan ketinggian <TIMEX3 tid="t8" type="DATE" value="2018-06-05">sekitar 5-6</TIMEX3> meter. 
+
+''Dia (anak berumur <TIMEX3 tid="t9" type="DATE" value="2018-08">8 tahun itu</TIMEX3>) bilang, 'Saya sampai tersangkut di atap rumah', '' ujar Edy. 
+
+Edy menjelaskan bahwa <TIMEX3 tid="t10" type="DATE" value="PAST_REF">saat itu</TIMEX3> sedang ada acara pembukaan Festival Pesona Palu Nomoni. 
+
+''Jadi banyak anak kecil, anak kecil jadi korban, tapi tadi paling banyak perempuan, ada 80 persen perempuan, '' sebut Edy.*** 
+</TEXT>
+
+</TimeML>

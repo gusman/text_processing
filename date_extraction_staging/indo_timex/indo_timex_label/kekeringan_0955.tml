@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0955</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-10-08" temporalFunction="false" functionInDocument="CREATION_TIME">2017-10-08</TIMEX3></DCT>
+
+<TITLE>Musim Kemarau, Ratusan Warga Desa Pasir Putih Konut Kesulitan Air Bersih</TITLE>
+
+<TEXT>
+Ratusan warga Desa Pasir Putih, Kecamatan Lembo, Kabupaten Konawe Utara (Konut), Sulawesi Tenggara (Sultra) mengalami kesulitan air bersih akibat dari <TIMEX3 tid="t1" type="DATE" value="2017-SU">musim kemarau</TIMEX3> yang terjadi <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Kesulitan yang melanda desa ini sudah terjadi selama <TIMEX3 tid="t3" type="DURATION" value="P1M">satu bulan</TIMEX3>. 
+
+Hal itu disebabkan karena <TIMEX3 tid="t4" type="DATE" value="2017-SU">musim kemarau</TIMEX3> yang melanda wilayah itu sejak <TIMEX3 tid="t5" type="DURATION" value="P1M">satu bulan</TIMEX3> terakhir sehingga membuat mata air pegunungan tempat warga mengambil air bersih mengalami kekeringan. 
+
+Kepala Desa (Kades), Pasir Putih, Najamudin Genda mengatakan, kekeringan yang melanda membuat warga harus berjalan kaki mengambil air di kaki gunung yang jaraknya sekitar 2 kilo meter dari desa tersebut karena pipa air yang bersumber dari pegunungan sudah tidak teraliri air lagi. 
+
+Diungkapkan, selain memikul air dari pegunungan, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> warga setempat juga mengambil air yang berada di sekitar desa itu. 
+
+Namun, harus mengantri hingga <TIMEX3 tid="t7" type="DURATION" value="UNKNOWN">seharian</TIMEX3>. 
+
+Sumber air itu berasal dari mata air lain yang ada di desa itu. 
+
+Sayangnya debit air yang mengalir juga tak deras. 
+
+Itupun, kebanyakan warga tak kebagian air. 
+
+Padahal mulai <TIMEX3 tid="t8" type="TIME" value="2017-10-08TMO">subuh</TIMEX3> sudah mengantri tunggu jalannya air. 
+
+Kadang juga jalan tapi airnya sedikit sekali itupun cepat sekali berhenti, kata Najamudin Genda, kepada awak zonasultra. 
+
+com, <TIMEX3 tid="t9" type="DATE" value="2017-10-08">Minggu (8/10/2017)</TIMEX3>. 
+
+Agar kebutuhan air warga terpenuhi pihaknya harus menjatah air bagi setiap warga. 
+
+Setiap warga mendapat jatah air bersih 5 sampai 10 jergen air yang masin-masing berisikan 5 liter tiap jergennya. 
+
+Pernah ada bantuan sumur bor di sini pada <TIMEX3 tid="t10" type="DATE" value="2015">2015 lalu</TIMEX3> tapi tidak dapat mata air. 
+
+Mungkin karena di area pegunungan jadi susah mau dapat mata air, terangnya. 
+
+Warga setempat berharap kepada pemerintah untuk bisa memberikan bantun fasilitas air bersih demi keberlangsungan hidup mereka yang tengah mengalami krisis air bersih. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0892</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-28" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-28</TIMEX3></DCT>
+
+<TITLE>1.193 Hektare Sawah di Sukoharjo Puso, Kerugian Diperkirakan Hingga Milyaran Rupiah</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2019-SU">Musim kemarau</TIMEX3> yang melanda Kabupaten Sukoharjo membuat ribuan hektare lahan pertanian di Sukoharjo gagal panen atau puso. 
+
+Menurut data dari Dinas Pertanian dan Perikanan Kabupaten Sukoharj, setidaknya ada 1.193 hektare lahan pertanian mengalami puso. 
+
+" Luas lahan yang ditanami ada sekitar 20.460 hektare di Sukoharjo, ada sekitar 171 hektar mengalami kekeringan ringan, 330 hektare mengalami kekeringan sedang, 591 hektare mengalami kekeringan berat, dan 1.193 hektare puso, " katanya saat berbincang dengan TribunSolo. 
+
+com, <TIMEX3 tid="t2" type="DATE" value="2019-06-28">Jumat (28/6/2019)</TIMEX3>. 
+
+Lahan pertanian yang mengalami kekeringan ini hanya terjadi di empat Kecamatan di Kabupaten Sukoharjo, diantaranya Kecamatan Weru, Kecamatan Bulu, Kecamatan Nguter dan Kecamatan Bendosari. 
+
+. 
+
+Sementara delapan Kecamatan lainnya, belum ditemukan kekeringan maupun Puso. 
+
+Akibat gagal panen ini, kerugian diperkirakan mencapai Rp 4 milyar. 
+
+. 
+
+" " Sedangkan luas sawah yang mengalami puso mencapai 1.193 hektare, sehingga total kerugian diperkirakan mencapai Rp 3,6 miliar sampai Rp 4 miliar, " terangnya.Dia menambahkan, kekeringan yang terjadi pada <TIMEX3 tid="t3" type="DATE" value="2019">tahun ini</TIMEX3>, datang lebih awal, dan akan menjadi musim kering yang panjang. " Kekeringan datang lebih awal, diperkirakan kekeringan ini akan lebih panjang dari <TIMEX3 tid="t4" type="DATE" value="2018-06-28">tahun sebelumnya</TIMEX3>, " katanya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

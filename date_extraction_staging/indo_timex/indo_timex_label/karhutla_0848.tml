@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0848</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-09-07" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-07</TIMEX3></DCT>
+
+<TITLE>Polres Muba Tangkap Dua Warga Diduga Pelaku Pembakar Lahan</TITLE>
+
+<TEXT>
+Munculnya titik api yang banyak dan disertai kabut asap nampaknya makin menjadi di wilayah Kecamatan Bayunglencir, Kabupaten Musi Banyuasin (Muba). 
+
+Upaya pemadaman melalui jalur darat terus dilakukan. 
+
+Seperti yang dilakukan Polres Muba yang mengerahkan kekuatan penuh dalam memadamkan titik-titik api di Kecamatan Bayunglencir. 
+
+Semakin pekatnya kabut asap di Muba membuat korps berbaju abu-abu ini tidak tinggal diam saja. 
+
+Sekitar 60 personel gabungan dari Polsek Keluang, Polsek Sungai Lilin, Polsek Bayunglencir, dan Polres Muba terjun ke lapangan untuk memadamkan titik api yang ada di Muba. 
+
+Operasi pemadaman titik api tersebut dipimpin langsung oleh Kapolres Muba AKBP M Ridwan Sik dibantu dengan mobil Water Canon, pompa air dan motor trail untuk menjangkau titik-titik yang tidak bisa dijangkau oleh jalan kaki. 
+
+Lokasi titik api berada pada Kecamatan Bayunglencir yang terletak di Desa Pulo Gadung di Dusun 1 dan Dusun 2. 
+
+Tim pemadam bergerak <TIMEX3 tid="t1" type="TIME" value="2015-09-06T16:00">sekitar pukul 16.00 WIB</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2015-09-06">Minggu (6/9)</TIMEX3> yang langsung menjangkau dua dusun tersebut. 
+
+Titik api yang dipadamkan tim gabungan Polres Muba sebanyak 50 hektare yang terdiri dari lahan gambut. 
+
+Kapolres Muba AKBP M Ridwan Sik mengatakan, operasi pemadaman ini kita lakukan karena status tanggap darurat yang telah dikeluarkan nasional untuk bahaya kebakaran lahan. 
+
+Maka dari itu kita Polres Muba melakukan tindakan langsung pemadaman turun langsung ke lapangan untuk memadamkan titik api yang ada. 
+
+// Ini merupakan upaya Polres Muba dalam memberikan aksinya dalam pemadaman titik api yang ada di Muba. 
+
+<TIMEX3 tid="t3" type="DATE" value="2015-09-06">Kemarin</TIMEX3> kita telah melakukan pemadaman melalui darurat dengan mengerahkan water canon dan alat manual untuk memadam api di Dusun 1 dan Dusun 2, Desa Pulo Gading, kata Ridwan ketika dibincangi seusai pemadaman api di Polsek Sungai Lilin, <TIMEX3 tid="t4" type="DATE" value="2015-09-07">Senin (7/9)</TIMEX3>. 
+
+Kebakaran lahan yang ditinjau <TIMEX3 tid="t5" type="DATE" value="2015-09-06">kemarin</TIMEX3> terletak pada lahan milik perusahaan. 
+
+Pada lahan tersebut ada indikasi sengaja dibakar. 
+
+Namun <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih menyelidiki penyebab terbakarnya lahan tersebut. 
+
+Lahan yang terbakar tersebut bermasalah dengan masyarakat, kita tidak tahu apa dibakar atau memang karena kemarau untuk itu kita masih melakukan penyelidikan untuk itu, ungkapnya. 
+
+Disinggung mengenai sanksi pembakar lahan, Ridwan menjelaskan bahwa pembakaran sangat tidak boleh dilakukan. 
+
+Karena sudah ada maklumat kapolda mengenai larangan untuk pembakaran lahan. 
+
+Kita telah mengamankan dua orang pembakar lahan yang tertangkap di Dusun 4, Desa SP 2, Kecamatan Plakat Tinggi sebanyak 20 hekater. 
+
+Karena dia telah melakukan pembakaran kita amankan 2 pelaku tersebut guna dimintai keterangan lebih lanjut, ungkapnya. 
+
+
+</TEXT>
+
+</TimeML>

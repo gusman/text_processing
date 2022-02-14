@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0919</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-09" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-09</TIMEX3></DCT>
+
+<TITLE>Begini Kesaksian Warga Melihat Angin Puting Beliung Amuk SPBU: Tiba-tiba Hujan, Angin Perputar-putar</TITLE>
+
+<TEXT>
+Warga menjadi saksi mata Angin Puting Beliung menerjang sebuah SPBU. 
+
+Nama warga itu adalah Indah. 
+
+Dia melihat secara langsung angin puting beliung merusak bangunan SPBU. 
+
+Indah (39), menuturkan puting beliung itu terjadi sekira <TIMEX3 tid="t1" type="TIME" value="2020-03-08T13:30">pukul 13.30</TIMEX3>. 
+
+Kejadian angin puting beliung terjadi pada <TIMEX3 tid="t2" type="DATE" value="2020-03-08">Minggu (8/3/2020)</TIMEX3>. 
+
+Video angin puting beliung rusak SPBU viral di media sosial. 
+
+Seperti dilansir dari Tribun Jateng, angin kencang tiba-tiba datang dari arah barat ke timur di kawasan Ngampin, Ambarawa, Kabupaten Semarang, <TIMEX3 tid="t3" type="TIME" value="2020-03-08TAF">Minggu (8/3/2020) siang</TIMEX3>. 
+
+Angin puting beliung ini dilaporkan merusak sedikitnya 5 rumah dan SPBU Ngampin yang dilewatinya. 
+
+Indah warga yang melihat kejadian tersebut. 
+
+<TIMEX3 tid="t4" type="DATE" value="PAST_REF">Saat itu</TIMEX3> dia berada di sebelah SPBU Ngampin untuk mengantar anaknya berenang bersama teman-temannya. 
+
+" Saya kaget sekali, tiba-tiba hujan lalu ada angin yang berputar-putar, " katanya kepada Tribunjateng. 
+
+com. 
+
+// Ia awalnya tak bisa bergerak karena melihat angin tersebut. 
+
+Puting beliung itu kemudian bergerak menuju ke arah SPBU. 
+
+" Jadi bergerak dari barat ke timur. 
+
+Pas menerbangkan seng-seng dan genteng rumah di sekitar situ saya langsung lari, " jelasnya. 
+
+Perumahan yang ia tinggali selamat dari terjangan puting beliung. 
+
+Angin itu terus berembus menuju ke timur dan langsung merusak SPBU Ngampin. 
+
+" Padahal perumahan saya di belakang SPBU. 
+
+Saya sangat panik, " jelasnya. 
+
+Warga lain, Jono (54), merasa waswas karena rumahnya terkena terjangan puting beliung tersebut. 
+
+Genteng depan rumahnya pun beterbangan. " Kira-kira ada 5 menitan angin tersebut menerjang daerah sini, " jelasnya. 
+
+// Rumahnya tak mengalami kerusakan yang sangat parah. 
+
+Namun, genteng-genteng di atap berjatuhan. 
+
+Pantauan Tribunjateng. 
+
+com, warga bahu membahu membersihkan genteng dan seng yang beterbangan. 
+
+Petugas SPBU Ngampin juga membersihkan material yang disasar angin puting beliung. 
+
+Kemacetan sempat terjadi di sekitar lokasi. 
+
+Hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pengelola SPBU Ngampin menutup pom bensin ini dari aktivitas jual beli. 
+
+SPBU ditutup sementaraAnna Yudhiastuti Unit Manager Communication, Relation amp; CSR MOR IV PT Pertamina (Persero) dalam siaran resminya mengatakan sehubungan dengan adanya kerusakan akibat bencana putting beliung di SPBU 44.507.16 yang beralamat di Jl. 
+
+Raya Bawen-Pingit km.41.5, Ngampin, Ambarawa, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> PT Pertamina (Persero) Marketing Operation Region IV wilayah Jateng-DIY menutup sementara SPBU tersebut dan tidak melayani konsumen. 
+
+Hingga informasi ini disampaikan, tidak ada korban jiwa dalam kejadian tersebut namun 1 (satu) orang operator mengalami luka di bagian kaki akibat terkena benda keras yang tertiup angin. 
+
+Sementara ini kerugian belum dapat diperkirakan. 
+
+// Bagi konsumen yang ingin mendapatkan layanan BBM, adapun SPBU terdekat yang dapat memenuhi layanan BBM di daerah tersebut yaitu SPBU 44.506.10 di lingkar ambarawan (berjarak +/- 1,5 kilometer dari lokasi kejadian) serta SPBU 44.506.02 di daerah Jambu (berjarak 2 km dari lokasi SPBU ambarawa). 
+
+Terkait bencana puting beliung ini, kami menghimbau kepada masyarakat untuk tetap waspada dan selalu berhati-hati jika berada di luar ruangan. 
+
+Sebagai Badan Usaha Milik Negara, PT Pertamina (Persero) secara optimal dan berkesinambungan memiliki tugas untuk memenuhi kebutuah BBM dan LPG kepada masyarakt. 
+
+Jika pelanggan membutuhkan informasi atau memberikan masukan dan saran dapat menghubungi kontak Pertamina 135 atau melalui aplikasi Mypertamina yang dapat diunduh melalui Google Playstore ataupun Apple Store. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0342</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-02" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-02</TIMEX3></DCT>
+
+<TITLE>Banjir Jakarta Hari Ini, Traveloka Tawarkan Promo Hotel bagi Korban Banjir</TITLE>
+
+<TEXT>
+Banyaknya rumah yang terkena banjir membuat beberapa orang kebingungan untuk mencari tempat aman. 
+
+Tak sedikit orang yang mengungsi ke luar kota dan kembali ketika banjir surut. 
+
+Hanya saja, terkadang pindah keluar kota menjadi pilihan sulit sebab butuh persiapan yang lumayan banyak. 
+
+. 
+
+Dikutip Pikiran-Rakyat. 
+
+com dari akun twitter resmi traveloka Indonesia, traveloka memberikan promo khusus bagi korban banjir. 
+
+" Bila membutuhkan tempat menginap untuk <TIMEX3 tid="t1" type="DURATION" value="PXX">sementara waktu</TIMEX3>, dapat menggunakan kode promo " BANJIRMELIPIR " untuk mendapatkan diskon s. 
+
+d Rp 200.000 untuk membooking hotel di aplikasi Traveloka, " tulis dalam akun traveloka. 
+
+.57. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0128</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-19</TIMEX3></DCT>
+
+<TITLE>Bantuan Air Bersih Sudah 1.500 Tangki</TITLE>
+
+<TEXT>
+PDAM Tirta Albantani Kabupaten Serang sejak <TIMEX3 tid="t1" type="DATE" value="2019-01">Januari</TIMEX3> hingga <TIMEX3 tid="t2" type="DATE" value="2019-08">Agustus 2019</TIMEX3> sudah menyalurkan 1.500 tangki air bersih kepada warga terdampak kekeringan. 
+
+Air bersih itu disalurkan ke sembilan kecamatan di Kabupaten Serang dan satu kecamatan di Kota Serang. 
+
+Kepala Bagian Umum PDAM Tirta Albantani Kabupaten Serang Arif Setiawan mengatakan, pihaknya menerima permohonan bantuan air bersih dari berbagai kecamatan. 
+
+Terutama, saat memasuki <TIMEX3 tid="t3" type="DATE" value="2019-SU">musim kemarau</TIMEX3>. 
+
+Dari <TIMEX3 tid="t4" type="DATE" value="2019-01">Januari</TIMEX3> hingga <TIMEX3 tid="t5" type="DATE" value="2019-08">Agustus</TIMEX3> sudah 1.500 tangki air bersih yang kita salurkan ke masyarakat. 
+
+<TIMEX3 tid="t6" type="SET" value="P1D">Setiap hari</TIMEX3> rata-rata kita kirim 20 tangki, katanya kepada Radar Banten ditemui di kantornya, <TIMEX3 tid="t7" type="DATE" value="2019-08-19">Senin (19/8)</TIMEX3>. 
+
+Arif mengatakan, bantuan air bersih diambil dari tempat pengolahan milik PDAM di Kecamatan Kasemen. 
+
+Pihaknya memiliki enam unit mobil yang aktif untuk mengirim air bersih kepada masyarakat. 
+
+(ROZAK) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0460</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-03-08" temporalFunction="false" functionInDocument="CREATION_TIME">2017-03-08</TIMEX3></DCT>
+
+<TITLE>VIDEO : Kondisi Jalan Panjang Jiwo Usai Pohon Tumbang Dibersihkan, Masih Padat Merayap</TITLE>
+
+<TEXT>
+Lalu lintas Jalan Panjang Jiwo, Surabaya, Jawa Timur menuju Jalan Jagir Wonokromo terpantau padat merayap cenderung macet pada <TIMEX3 tid="t1" type="TIME" value="2017-03-07T20:30">pukul 20.30 WIB</TIMEX3>. 
+
+Hal itu karena adanya batang dan dahan pohon yang patah di beberapa ruas Jalan Panjang Jiwo akibat hujan angin yang terjadi <TIMEX3 tid="t2" type="DATE" value="PXX">beberapa waktu sebelumnya</TIMEX3>. 
+
+Bahkan sebuah papan nama SPBU Nginden juga ikut ambruk karena hujan disertai angin kencang itu. 
+
+Satpol PP sudah nampak membersihkan lokasi-lokasi yang berusaha membersihkan batang pohon yang patah dengan membawa alat dan kendaraan berat. 
+
+Beberapa dahan yang patah terlihat menimpa kabel listrik namun tidak sampai menyebabkan kabel putus. 
+
+Beberapa warga juga nampak melihat proses evakuasi yang dilakukan Satpol PP. 
+
+Pengendara diimbau untuk selalu berhati-hati karena jalan masih basah dan licin serta genangan air tampak di kanan kiri bahu jalan. 
+
+Berikut videonya: 
+</TEXT>
+
+</TimeML>

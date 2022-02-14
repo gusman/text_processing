@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0417</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Update Terbaru Tsunami Banten dan Lampung, Jumlah Korban dan Kerugian Fisik Hingga Pukul 07.00 WIB</TITLE>
+
+<TEXT>
+Dampak tsunami yang menerjang pantai di Selat Sunda, khususnya di daerah Pandeglang, Lampung Selatan dan Serang terus bertambah. 
+
+Hingga <TIMEX3 tid="t1" type="TIME" value="2018-12-23T07:00">Minggu (23/12/2018) pukul 07.00 WIB</TIMEX3>, data sementara jumlah korban dari bencana tsunami di Selat Sunda tercatat 40 orang meninggal dunia, 584 orang luka-luka dan 2 orang hilang. 
+
+Kerugian fisik akibat tsunami tersebut, meliputi 430 unit rumah rusak berat, 9 hotel rusak berat, 10 kapal rusak berat dan puluhan rusak. 
+
+Pandeglang adalah daerah yang paling parah terdampak tsunami. 
+
+Rilis yang diterima Tribunnews. 
+
+com dari Kepala Pusat Data Informasi dan Humas BNPB, Sutopo Purwo Nugroho menyebutkan, di Kabupaten Pandeglang tercatat 33 orang meninggal dunia, 491 orang luka-luka, 400 unit rumah rusak berat, 9 hotel rusak berat, dan 10 kapal rusak berat. 
+
+. 
+
+Saat kejadian banyak wisatawan berkunjung di pantai sepanjang Pandeglang. 
+
+Di Lampung Selatan, 7 orang meninggal dunia, 89 orang luka-luka dan 30 unit rumah rusak berat. 
+
+Sedangkan di Serang, tercatat 3 orang meninggal dunia, 4 orang luka-luka dan 2 orang hilang. 
+
+Pendataan masih terus dilakukan. 
+
+// Status tanggap darurat dan struktur organisasi tanggap darurat, pendirian posko, dapur umum dan lainnya masih disiapkan. 
+
+Alat berat juga dikerahkan untuk membantu evakuasi dan perbaikan darurat. 
+
+Sebelumnya, BPBD Lampung Selatan dan BPBD Banten menyebutkan, korban tsunami Pantai Anyer dan Lampung Selatan 36 orang meninggal dunia. 
+
+. 
+
+Korban tsunami Pantai Anyer dan Lampung Selatan sebelumnya disebutkan 20 orang. 
+
+Kemudian, <TIMEX3 tid="t2" type="TIME" value="2018-12-22T05:30">sekitar pukul 05:30</TIMEX3>, data korban Tsunami Banten dan Lampung Selatan naik menjadi 29 orang orang. 
+
+. 
+
+com dari Wartakotalive. 
+
+com, data korban meninggal akibat tsunami Pantai Anyer dan Lampung Selatan sampai <TIMEX3 tid="t3" type="TIME" value="2018-12-22T07:00">pukul 07:00 WIB</TIMEX3> menjadi 36 orang. 
+
+Korban luka-luka sampai <TIMEX3 tid="t4" type="TIME" value="2018-12-22T07:00">pukul 07:00</TIMEX3> tercatat 89 orang di Lampung Selatan. 
+
+Banyak bangunan yang mengalami kerusakan cukup parah. 
+
+// Rincian korban tersebut adalah korban meninggal di pesisir Pantai Pandeglang berjumlah 29 orang dan dari Lampung Selatan, tepatnya dari dua kecamatan yaitu Kecamatan Kalianda dan Kecamatan Rajasabasa berjumlah 7 orang. 
+
+. 
+
+com menyebutkan, korban tewas berasal dari 2 kecamatan yang terkena dampak paling parah. 
+
+" Sampai <TIMEX3 tid="t5" type="TIME" value="2018-12-23TMO">pagi ini</TIMEX3> korban meninggal ada 7 orang. 
+
+Mereka berasal dari dua kecamatan, yaitu Rajabasa dan Kalianda, " ujar Ketut Sukerta. 
+
+" Mereka masih dalam perawatan di sejumlah rumah sakit, " ujar Ketut Sukerta. 
+
+Menurut Ketut Sukerta, bisa saja korban bertambah karena <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> anggotanya masih terus melakukan pendataan korban manusia, maupun bangunan, dan yang lainnya akibat tsunami di Lampung Selatan. 
+</TEXT>
+
+</TimeML>

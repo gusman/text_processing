@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0773</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-10-16" temporalFunction="false" functionInDocument="CREATION_TIME">2017-10-16</TIMEX3></DCT>
+
+<TITLE>Agar Pengungsi Gunung Agung Nyaman, BPBD Berencana Bangun Rumah Huni Sementara</TITLE>
+
+<TEXT>
+Badan Penanggulangan Bencana Daerah (BPBD) Bali berencana mendirikan rumah hunian sementara (Hutara) bagi pengungsi Gunung Agung agar tetap nyaman. 
+
+Apalagi <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah ratusan ribu pengungsi dan aktivitas Gunung Agung masih tinggi dengan status awas. 
+
+Kepala BPBD Made Indra mengatakan, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> ratusan ribu warga Karangaesem mengungsi di berbagi daerah wilayah Bali. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> meraka ada yang tinggal di tenda-tenda, dalam gor, dan balai banjar-banjar. 
+
+Agar para pengungsi tetap nyaman selama konisi Gunung Agung belum normal, maka diwacanakan membangun rumah hunian sementara. 
+
+" Kami masih mewacanakan bagaimana kalau mereka ini dibuatkan hutara. 
+
+Kami dengan dinas pemukiman masih membahasnya, " ujarnya, <TIMEX3 tid="t4" type="DATE" value="2017-10-16">Senin (16/10/2017)</TIMEX3>. 
+
+Menurut dia bencana Gunung Agung ini masih lama, apalagi <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum terjadi erupsi. 
+
+Jadi tidak mungkin warga akan selamanya tinggal di tenda. 
+
+" Kami ingin mereka tinggal di tempat yang layak dihuni bukan ditenda, " ungkapnya. 
+
+Bila terealisasi, maka setiap satu kepala keluarga akan mendapatkan satu unit hutara. 
+
+Sejak ditetapkannya Gunung Agung statusnya naik menjadi awas, sebagian warga sudah ada yang mengungsi lamanya <TIMEX3 tid="t6" type="DURATION" value="P24D">sekitar 24 hari</TIMEX3>. 
+
+(wib) 
+</TEXT>
+
+</TimeML>

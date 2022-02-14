@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0099</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-24</TIMEX3></DCT>
+
+<TITLE>Lahan 2 Hektar di Kelurahan Temberan Terbakar</TITLE>
+
+<TEXT>
+Kebakaran hutan dan lahan kembali terjadi di wilayah Kota Pangkalpinang. 
+
+Lahan dengan luas sekitar dua hektar di Kelurahan Temberan, Kecamatan Bukit intan terbakar, <TIMEX3 tid="t1" type="DATE" value="2018-10-24">Rabu (24/10/2018)</TIMEX3>. 
+
+Kepala satuan polisi pamong praja Pangkalpinang, Rasdian Setiady, menuturkan pihaknya mendapati laporan mengenai kebakaran lahan <TIMEX3 tid="t2" type="TIME" value="2018-10-23T11:50">sekitar pukul 11.50 WIB</TIMEX3>. 
+
+Sehingga para petugas diturunkan untuk padamkan kobaran api. 
+
+" infonya ada yang bakar kemudian ditinggal, belum tahu yg bakar maupun pemiliknya. 
+
+" ujar Rasdian, <TIMEX3 tid="t3" type="DATE" value="2018-10-24">Rabu (24/10/2018)</TIMEX3>. 
+
+Kobaran api pada lahan yang belum diketahui pemiliknya itu, berhasil dipadamkan petugas <TIMEX3 tid="t4" type="TIME" value="2018-10-23T12:30">sekitar pukul 12.30 WIB</TIMEX3>. 
+
+Dengan mengerahkan satu unit mobil damkar F6 dan tiga unit motor patwal. 
+
+Tidak ada korban jiwa dalam kejadian ini. 
+
+Rasdian pun belum dapat menyimpulkan penyebab ataupun dugaan terbakarnya lahan ini. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0698</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-22</TIMEX3></DCT>
+
+<TITLE>Tim Pemadam Kesulitan Padamkan Api karena Lereng Terjal dan Bebatuan</TITLE>
+
+<TEXT>
+Tim gabungan pemadaman kebakaran hutan gunung Panderman kesulitan saat memadamkan api. 
+
+Hal itu dikarenakan lereng terjal dan juga bebatuan. 
+
+Salah satu tim gabungan pemadaman, Bambang Hariyanto mengatakan peralatan yang dibawa hanya bisa untuk membuat sekat bakar. 
+
+Selain itu kami juga mengutamakan keselamatan tim kami. 
+
+Metode yang digunakan semak-semak di babat selebar 2 meter memanjang pada lokasi yang terbakar, kata Bambang, saat beristirahat dari memadamkan api di jurang 80 derajat, <TIMEX3 tid="t1" type="DATE" value="2019-07-22">Senin (22/7/2019)</TIMEX3>. 
+
+Beruntung di titik-titik yang ditempuh masih ada sinyal, sehingga tim gabungan masih bisa berkomunikasi. 
+
+Serta melaporkan apa saja yang terjadi. 
+
+Bahkan ada foto-foto tim yang makan di tengah-tengah hutan seusai dipadamkan. 
+
+Tampak dalam foto itu satu tim makan nasi bungkus. 
+
+Salah satu tim itu tengah beristirahat setelah memadamkan api. 
+
+Kejadian ini juga tidak membuat pemkot Batu tinggal diam. 
+
+Pemkot Batu berkoordinasi dengan TNI Angkatan Udara untuk meminta bantuan menggunakan hujan buatan. 
+
+Sekretaris Daerah Batu, Zadiem Efisien mengatakan tidak lupa juga mengirim logistik untuk tim gabungan yang memadamkan api. 
+
+Ada 300 orang dari berbagai tim yang terjun untuk memadamkan api. 
+
+Ya kami sudah berkoordinasi, jika sampai <TIMEX3 tid="t2" type="TIME" value="2019-07-21TAF">sore</TIMEX3> tak juga padam maka kami meminta bantuan ke TNI AU, kata Zadiem. 
+
+
+</TEXT>
+
+</TimeML>

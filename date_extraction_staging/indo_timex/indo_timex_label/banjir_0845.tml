@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0845</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-01-11" temporalFunction="false" functionInDocument="CREATION_TIME">2017-01-11</TIMEX3></DCT>
+
+<TITLE>Jalur Wisata Gunung Bromo Tertimbun Longsor</TITLE>
+
+<TEXT>
+Curah hujan tinggi yang mengguyur kawasan hulu Pasuruan, Jawa Timur, <TIMEX3 tid="t1" type="TIME" value="2017-01-10TAF">Selasa (10/1/2017) sore</TIMEX3> hingga <TIMEX3 tid="t2" type="TIME" value="2017-01-10TNI">malam</TIMEX3>, mengakibatkan bencana banjir dan tanah longsor. 
+
+Banjir menggenangi kawasan permukiman di sekitar Daerah Aliran Sungai (DAS) Welang. 
+
+Sementara, tanah longsor terjadi di ruas jalan wisata Gunung Bromo. 
+
+Beberapa kawasan yang tertimbun longsor itu yakni jalur Tosari-Wonokriti, jalur Tosari-Ngadiwono, dan sejumlah kawasan menuju pemukiman warga. 
+
+Meski tidak menimbulkan korban luka ataupun korban jiwa, timbunan tanah tersebut sempat membuat jalur wisata Gunung Bromo tidak bisa dilalui kendaraan bermotor. 
+
+Sejumlah warga bergotong royong membersihkan timbunan tanah agar jalur tersebut bisa dilalui kendaraan. 
+
+Sementara, alat berat yang disiagakan di Tosari baru diturunkan pada <TIMEX3 tid="t3" type="TIME" value="2017-01-11">Rabu (11/1/2017) pagi tadi</TIMEX3> untuk pembersihan jalur wisata tersebut. 
+
+Seorang warga Tosari, Siswaji, mengungkapkan, intensitas hujan yang berlangsung di wilayahnya cukup deras dibanding hujan sebelumnya. 
+
+Kuatnya arus air ini mengakibatkan sejumlah tebing longsor dan menimbun ruas jalan raya. 
+
+" Timbunan tanah sempat menutup ruas jalan. 
+
+Warga bergotong royong membersihkan tumpukan tanah agar jalan bisa dilalui. 
+
+Warga yang melintas harus berhati-hati karena jalan menjadi licin karena ada sisa longsoran tanah, " kata Siswaji. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Pasuruan Bakti Jati Permana menyatakan, pihaknya telah menurunkan petugas untuk pembersihan jalur di titik-titik yang tertimbun longsoran tanah. 
+
+Dengan menggunakan alat berat yang telah disiagakan di lokasi rawan bencana, proses pembersihan bisa berlangsung lebih cepat. 
+
+" <TIMEX3 tid="t4" type="DATE" value="2017-01-11">Hari ini</TIMEX3> kami bersihkan dengan menggunakan alat berat. 
+
+<TIMEX3 tid="t5" type="DATE" value="2017-01-11">Hari ini</TIMEX3> juga ruas jalan sudah bersih total dari tumpukan longsor dan bisa dilalui kendaraan bermotor, " katanya. 
+
+Selain menimbun jalan menuju kawasan wisata Bromo, kata Bakti, longsor juga menimbun dua rumah yang ada di Desa Wonokitri. 
+
+Dua rumah tersebut tertimbun longsor pada bagian dapur dan teras. 
+
+Kedua rumah tersebut masih bisa ditempati penghuninya. 
+
+(zik) 
+</TEXT>
+
+</TimeML>

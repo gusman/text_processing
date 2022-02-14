@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0670</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-09-10" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-10</TIMEX3></DCT>
+
+<TITLE>Wilayah Dilanda Asap Tebal, Polisi Kalteng Gelar Salat Minta Hujan</TITLE>
+
+<TEXT>
+Anggota Kepolisian Daerah Kalimantan Tengah melaksanakan shalat Istisqo bersama warga di halaman kantor Kepolisian Daerah di Palangka Raya untuk memohon kepada Tuhan agar menurunkan hujan pada <TIMEX3 tid="t1" type="TIME" value="2015-09-10TMO">Kamis pagi</TIMEX3>, saat wilayah itu berselimut asap tebal akibat kebakaran hutan-lahan. 
+
+Sebagian besar anggota jemaah salat Istisqo mengenakan masker. 
+
+Aipda H. 
+
+Sunyalin menjadi imam shalat. 
+
+" Di tengah susana kota yang kabutnya semakin tebal ini mari bersama-sama kita memohon turunnya hujan agar kabut asap ini dapat berkurang. 
+
+Kabut asap yang terjadi merupakan salah satu bukti bahwa manusia telah melanggar hukum Allah, " katanya. 
+
+Kepala Kepolisian Daerah Kalimantan Tengah Brigjen Pol Fakhrizal mengatakan upaya pencegahan, penanggulangan, dan penindakan sudah dilakukan untuk mengatasi masalah kabut asap akibat kebakaran hutan dan lahan. 
+
+Dia juga menegaskan bahwa polisi mengusut dan menindak tegas pelaku pembakaran lahan dan hutan. 
+
+" Namun semua berpulang pada Yang Maha Kuasa. 
+
+Untuk itu pada <TIMEX3 tid="t2" type="TIME" value="2015-09-10TMO">pagi ini</TIMEX3> bersama-sama kita memohon supaya di daerah kita diturunkan hujan yang lebat. 
+
+Kelihatannya hanya itu yang bisa mengatasi kabut asap yang semakin hari semakin tebal, " katanya usai shalat. 
+
+
+</TEXT>
+
+</TimeML>

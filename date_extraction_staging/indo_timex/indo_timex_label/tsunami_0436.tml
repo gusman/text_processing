@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0436</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-30" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-30</TIMEX3></DCT>
+
+<TITLE>Kisah Ibu Hamil yang Selamat Dari Gempa Palu, Sempat Dua Kali Terpental</TITLE>
+
+<TEXT>
+Kota Palu, Kabupaten Donggala dan sekitarnya, diguncang gempa dan dihantam tsunami pada <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2018-09-28">(28/9/2018)</TIMEX3>. 
+
+Gempa bermagnitudo 7,7 SR ini telah meluluhlantakkan beberapa kota di Sulawesi Tengah. 
+
+Salah satunya ialah kisah seorang ibu hamil yang tengah mengandung <TIMEX3 tid="t3" type="DURATION" value="P9M">sembilan bulan</TIMEX3>. 
+
+Ratih Dwi Astuti (35) berhasil selamat dari gempa yang disertai tsunami. 
+
+Suami dan kedua anaknya juga selamat dari bencana alam yang melanda Kota Palu pada <TIMEX3 tid="t4" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Ratih dan keluarga dievakuasi menggunaan pesawat Hercules milik TNI Au pada <TIMEX3 tid="t5" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3>. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Kini</TIMEX3>, Ratih sedang menjalani perawatan di RS Sayang Rakyat, Kota Makassar. 
+
+Dikarenakan kondisi Ratih menurun, <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">kini</TIMEX3> dirinya harus menjalani opname. 
+
+Ratih menceritakan gempa dan tsunami yang melanda Kota Palu. 
+
+Ratih mengatakan bahwa dirinya yang tengah mengandung <TIMEX3 tid="t8" type="DURATION" value="P9M">sembilan bulan</TIMEX3> sempat terpental sebanyak dua kali saat terjadi gempa. 
+
+// Mulai gempa itu <TIMEX3 tid="t9" type="TIME" value="2018-09-29T17">sekitar jam 5 sore</TIMEX3> lewat. 
+
+Awalnya kecil dan terjadi beberapa kali. 
+
+Saat gempa besar terjadi saat jelang shalat magrib, saya sempat terpental 2 kali. 
+
+Namun berhasil dipegangi oleh suaminya, kata wanita asal Kediri, Jawa Timur, ini. 
+
+Saat terjadi gempa, Ratih bersama sang suami sedang berada di lantai dua rumahnya. 
+
+Setelah dirasa getaran gempa mereda, ia dan keluarganya langsung berlari keluar rumah. 
+
+Kemudian mereka langsung meninggalkan rumah menuju Bandara Mutiara Sis-Al-Jufrie, Palu, Sulawesi Tengah. 
+
+Namun sesampainya disana, Ratih mendapati bandara sudah rusak parah. 
+
+Kendati demikian, Ratih dan keluarganya tetap berdiam di bandara menunggu pesawat bersama dengan ribuan orang lainnya. 
+
+Penantian Ratih akhirnya membuahkan hasil. 
+
+<TIMEX3 tid="t10" type="TIME" value="2018-09-28TAF">Jumat (28/9/2018) siang</TIMEX3>, pesawat Hercules mendarat membawa sejumlah bantuan. 
+
+Kemudian sejumlah petugas mendata orang yang hendak diberangkatkan ke Kota Makassar. 
+
+Kemudian Ratih beserta sang suami dan anaknya dievakuasi menggunakan pesawat Hercules. 
+
+Setelah kondisinya stabil, Ratih dan keluarganya akan kembali ke kampung halamannya di Tuban Jawa Timur. 
+
+(*) 
+</TEXT>
+
+</TimeML>

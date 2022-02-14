@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0590</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-02-20" temporalFunction="false" functionInDocument="CREATION_TIME">2019-02-20</TIMEX3></DCT>
+
+<TITLE>Longsor Sebabkan Jalan Muara Teweh - Benangin Nyaris Putus, Warga Was-was Melintas</TITLE>
+
+<TEXT>
+longsor yang terjadi di sepanjang <TIMEX3 tid="t1" type="DATE" value="2018-WI">musim hujan</TIMEX3> membuat titik Kerusakan jalan lintas kabupaten di Kalimantan Tengah semakin banyak. 
+
+Bahkan, dampak longsor ini menyebabkan jalur Muara Teweh menuju Banangin atau perbatasan Kalteng- Kaltim nyaris putus. 
+
+Beberapa warga yang melewati jalan tersebut mengaku sangat khawatir ketika lewat jalan yang rawan longsor tersebut, karena jalan dalam keadaan amblas sehingga nyaris tidak bisa dilewati. 
+
+" Jalan itu sudah lama rusak dan hampitlr putus, tetapi hingga, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> jalan tersebut belum juga ada penanganan, padahal jalan itu menghubungkan Kalteng ke Kaltim, yang selama ini juga dimanfaatkan oleh warga Kaltim yang ingin bepergian ke Kalteng demikian pula sebaliknya. 
+
+Kami sangat berharap jalan tersebut ditangani jangan sampai ada korban akibat kerusakan jalan itu, " ujar Syarifah Umarz warga Muara Teweh, <TIMEX3 tid="t3" type="DATE" value="2019-02-20">Rabu (20/2/2019)</TIMEX3>. 
+
+. 
+
+Kerusakan jalan dampak longsor juga dikeluhkan Bupati Gunungmas, Arthon S Dohong, karena jalan dari Palangkaraya menuju Kabupaten Gunungmas juga nyaris putus dampak longsor, sering dilaporkan tetapi tidak ada respon dari instansi terkait sehingga warga Gunungmas sebagian memilih bepergian ke Palangkaraya lewat jalur sungai. 
+
+(banjarmasinpost. 
+
+co /faturahman) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0074</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-04-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-04-22</TIMEX3></DCT>
+
+<TITLE>Wawancara Ekslusif dengan Kalaksa BPBD Provinsi Bali Terkait Penanganan Pascaerupsi Gunung Agung</TITLE>
+
+<TEXT>
+Wawancara eksklusif dengan Kepala Pelaksana (Kalaksa) BPBD Provinsi Bali, I Made Rentin terkait penanganan yang dilakukan BPBD Bali pasca erupsi Gunung Agung pada <TIMEX3 tid="t1" type="DATE" value="2019-04-21">Minggu (21/4/2019)</TIMEX3>. 
+
+Apa yang terjadi dengan Gunung Agung pada <TIMEX3 tid="t2" type="DATE" value="2019-04-21">Hari Minggu</TIMEX3> Pak? Telah terjadi erupsi Gunung Agung pada <TIMEX3 tid="t3" type="DATE" value="2019-04-21">Minggu (21/4/2019)</TIMEX3> sebanyak dua kali. 
+
+Pertama pada saat subuh <TIMEX3 tid="t4" type="TIME" value="2019-04-21T03:21">pukul 03.21</TIMEX3> Wita dengan ketinggian abu vulkanik 2.000 meter. 
+
+Kemudian pada <TIMEX3 tid="t5" type="TIME" value="2019-04-21TAF">sore hari</TIMEX3> kembali terjadi erupsi <TIMEX3 tid="t6" type="TIME" value="2019-04-21T18:56">pukul 18.56</TIMEX3> Wita yang melontarkan abu vulkanik lebih tinggi dan lebih pekat, yaitu 3.000 meter di atas puncak Gunung Agung. 
+
+Bagaimana kondisi cuaca saat terjadinya erupsi? Kondisi erupsi <TIMEX3 tid="t7" type="DATE" value="PAST_REF">saat itu</TIMEX3> diperparah dengan cuaca yang tidak hujan. 
+
+Dari data BPBD, pada <TIMEX3 tid="t8" type="DATE" value="2019">awal 2019</TIMEX3> telah terjadi 5 sampai 6 kali erupsi, tetapi berbeda dengan yang <TIMEX3 tid="t9" type="DATE" value="2019-04-21">kemarin</TIMEX3>. 
+
+Bedanya erupsi terdahulu dengan intensitas hujan lebat sehingga sebaran abu vulkanik tidak melebar, sedangkan yang <TIMEX3 tid="t10" type="DATE" value="2019-04-21">kemarin</TIMEX3> cuaca betul-betul kering. 
+
+. 
+
+Kabarnya abu vulkanik menyebar hingga Badung dan Denpasar, apa benar Pak? // Ya benar. 
+
+Kami mendapat laporan dari Tabanan, Bangli, Klungkung, Gianyar. 
+
+Bahkan terakhir di Badung dan Denpasar sampai sudah masuk di kawasan Bandara Ngurah Rai. 
+
+Adakah pengaruhnya terhadap aktivitas penerbangan di Bandara Ngurah Rai? Hasil assessment kami terutama terhadap yang pertama. 
+
+Kekhawatiran kami yang pertama adalah kaitannya dengan operasional di Bandara Ngurah Rai. 
+
+Namun pihak Angkasa Pura menyatakan akan mengatakan rapat internal. 
+
+Singkat kata, setelah <TIMEX3 tid="t11" type="DURATION" value="PTXH">beberapa jam</TIMEX3> Angkasa Pura menyimpulkan Bandara Ngurah Rai tetap beroperasi normal. 
+
+Selanjutnya pada erupsi yang kedua dipengaruhi oleh arahan angin yang bergerak menuju ke arah Tenggara. 
+
+Artinya justru menjauh dari Bandara Ngurah Rai. 
+
+Bagaimana tindak lanjut BPBD Bali terhadap erupsi tersebut? <TIMEX3 tid="t12" type="TIME" value="2019-04-22TMO">Pagi</TIMEX3> (22/4/2019) tadi kami mengirim dua Tim Reaksi Cepat (TRC) untuk melakukan assessment ke lapangan. 
+
+Assessment yang dilakukan adalah pertama, memastikan masyarakat tidak ada yang melakukan pengungsian. 
+
+Ternyata benar, yang awalnya ada 9 KK terdiri atas 32 jiwa melakukan pergeseran dan pengungsian, <TIMEX3 tid="t13" type="TIME" value="2019-04-22TMO">pagi hari</TIMEX3> telah kembali pulang ke tempat masing-masing. 
+
+. 
+
+// <TIMEX3 tid="t14" type="DATE" value="2019-04-21">Kemarin</TIMEX3> sudah mendapat sokongan 50 ribu pax masker dari Dinas Kesehatan Provinsi Bali, dan tadi <TIMEX3 tid="t15" type="TIME" value="2019-04-22TMO">pagi</TIMEX3> sebanyak 12 ribu kami distribusikan ke Pemerintah Kabupaten Karangasem. 
+
+Desa mana saja yang sudah dibagikan masker? Dusun Badeg Dukuh, Desa Sebudi, Kecamatan Selat dibagikan 500 masker. 
+
+Kemudian, sisanya diserahkan ke BPBD Karangasem karena secara personal yang mengetahui kondisi lapangan adalah TRC BPBD Karangasem untuk antisipasi ketersediaan masker harus dalam jumlah yang memadai. 
+
+Warga yang sempat mengungsi dari mana saja dan menuju ke mana? Hanya di satu dusun. 
+
+Dusun Badeg Dukuh, Desa Sebudi, Kecamatan Selat. 
+
+Mereka sempat mengungsi ke Balai Desa. 
+
+Tetapi setelah kita lakukan assessment tadi <TIMEX3 tid="t16" type="TIME" value="2019-04-22TMO">pagi</TIMEX3>, mereka sudah kembali ke rumah masing-masing. 
+
+Tadi <TIMEX3 tid="t17" type="TIME" value="2019-04-22TMO">pagi</TIMEX3> tinggal dua orang lanjut usia yang tinggal di rumah keluarganya sendiri, sehingga dikategorikan bukan mengungsi. 
+
+. 
+
+Bagaimana imbauan dari BPBD? Erupsi yang terjadi dua kali itu, kaitannya proses rekapitulasi penghitungan suara di tingkat kecamatan, saya sampaikan bahwa BPBD dengan kondisi <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> pasca erupsi dua kali <TIMEX3 tid="t19" type="DATE" value="2019-04-21">kemarin</TIMEX3>, kami merekomendasikan proses itu tetap berjalan lancar. 
+
+// Pertimbangannya adalah dua kali erupsi, sebaran abu vulkanik sudah reda karena hitungan batas maksimal adalah 4 sampai <TIMEX3 tid="t20" type="DURATION" value="PT5H">5 jam</TIMEX3>. 
+
+Dari koordinasi BMKG, sebaran abu vulkanik memasuki laut lepas sehingga kami meyakini penghitungan suara bisa berjalan sesuai rencana yang ditetapkan oleh pihak KPU. 
+
+Bagaimana imbauan kepada masyarakat agar tidak terpapar abu vulkanik? Sebenarnya dampak kalau menghirup debu secara ilmu kesehatan ISPA (Infeksi Saluran Pernafasan Akut) iya. 
+
+Kemudian terasa perih kalau terkena mata. 
+
+Oleh karena itu diimbau kepada masyarakat ketika beraktivitas di luar rumah, antisipasi selalu ada. 
+
+Minimal membawa satu masker di sakunya. 
+
+. 
+
+Ketika BPBD mengalami kewalahan dengan empat armada dan tim medis yang lengkap, kami selalu berkoordinasi dengan Dinas Kesehatan Provinsi maupun Kabupaten/Kota untuk membantu. 
+
+Masing-masing armada berisi peralatan medis lengkap, obat, operator dan tenaga medis (dokter). 
+
+(*) 
+</TEXT>
+
+</TimeML>

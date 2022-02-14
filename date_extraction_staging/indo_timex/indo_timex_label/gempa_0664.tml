@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0664</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-10" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-10</TIMEX3></DCT>
+
+<TITLE>RODA PEMERINTAHAN DAN PEREKONOMIAN MULAI BERJALAN</TITLE>
+
+<TEXT>
+Relawan dari berbagai Lembaga dan daerah, baik dalam dan luar negeri banyak berdatangan membantu korban gempa dan tsunami di Sulawesi Tengah (Sulteng). 
+
+Salah satunya dari tim relawan Kaltara yang dimotori oleh Pemerintah Provinsi. 
+
+Tim yang berasal dari beberapa instansi dan relawan di Kaltara itu, masih terus bekerja melakukan evakuasi warga, hingga menyalurkan bantuan logistik. 
+
+Wahyu Susanto, Humas Provinsi Kaltara MISI KEMANUSIAAN: Tim Relawan Pemprov Kaltara mengunjungi sejumlah pengungsi korban gempa dan tsunami <TIMEX3 tid="t1" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+PENYISIRAN warga Kaltara yang menjadi korban gempa dan tsunami terus dilakukan oleh Tim Relawan Kaltara. 
+
+Kali ini, tim yang berada di Posko BPBD Provinsi Sulteng memulai perjalanan ke Kabupaten Donggala, <TIMEX3 tid="t2" type="DATE" value="2018-10-08">Senin (8/10)</TIMEX3>. 
+
+Tidak hanya melakukan pencarian, tetapi juga mengantarkan bantuan gas kepada personel Brimob Tarakan yang kehabisan. 
+
+Sepanjang perjalanan, pemandangan luluh lantahnya rumah warga dan gedung-gedung menjadi jamak di mata para relawan. 
+
+Namun itu menjadi salah satu penyemangat tim relawan Kaltara untuk memberikan pelayanan terbaiknya kepada pengungsi. 
+
+Di sisi lain, kondisi kedua wilayah yang terdampak gempa dan tsunami itu pun berangsur membaik. 
+
+Hal ini terlihat dari mulai berjalannya roda pemerintahan dan pelayanan publik di dua daerah tersebut. 
+
+Tidak sampai disitu, instansi pelayanan publik lainnya seperti perbankan juga sudah mulai aktif, meski masih menggunakan mobil pelayanan. 
+
+Di Bappeda Sulteng salah satunya. 
+
+Lantaran masih trauma dengan kejadian sebelumnya, para ASN (aparatur sipil negara) yang instansi itu bekerja di luar kantor. 
+
+Kecemasan pun masih menderu sebagian ASN yang ada di Pemprov Sulteng, karena gedung-gedung sudah retak pasca gempa mengguncang Kota Palu dan sekitarnya. 
+
+Kami tidak berani masuk mas, karena masih takut ada gempa susulan, ujar salah satu pegawai yang enggan disebutkan namanya. 
+
+Dari Kantor Bappeda Sulteng, rombongan pun bergerak menuju Pondok Pesantren Al-Khairat untuk melihat penyaluran bahan makanan dari masyarakat Kaltara. 
+
+Habib Husein selaku pimpinan pondok yang dipercayakan untuk menyalurkan makanan kepada warga sekitar pondok pesantren. 
+
+Dengan pambagian yang sangat rapi, warga dengan antusias menerima bantuan yang disalurkan melalui ponpes itu. 
+
+Penyaluran bantuan berlanjut ke Kabupaten Sigi. 
+
+Perjalanan yang memakan waktu 1 <TIMEX3 tid="t3" type="TIME" value="UNKNOWN">jam 20 menit itu</TIMEX3> mengantarkan tim relawan di Jono Oge, Kabupaten Sigi. 
+
+Tiba di sana, kisah haru diceritakan oleh Salem (40), salah satu korban gempa dan tsunami yang selamat. 
+
+Ia menceritakan keluarganya habis tertimbun oleh tanah, bahkan yang memprihatinkan rumahnya tergeser sejauh 4 kilometer dan menewaskan seluruh anggota keluarganya. 
+
+Jalan ini awalnya lurus mas, <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> jadi kebun jagung, tunjuk Salem merintih. 
+
+Tim pun terus melakukan pencarian, namun hingga detik ini masih belum menemukan warga Kaltara yang ada di wilayah di Jono Oge maupun Petobo. 
+
+(*) 
+</TEXT>
+
+</TimeML>

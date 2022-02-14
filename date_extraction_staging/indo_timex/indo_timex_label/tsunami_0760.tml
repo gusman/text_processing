@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0760</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Tsunami di Palu dan Donggala, Kemensos Kerahkan Enam Mobil Dapur Umum</TITLE>
+
+<TEXT>
+Kementerian Sosial RI mengerahkan enam unit mobil dapur umum ke lokasi bencana gempa bumi di Sulawesi Tengah. 
+
+Menteri Sosial Agus Gumiwang Kartasasmita mengatakan satu unit mobil dapur umum mampu menyediakan 6.000 nasi bungkus. 
+
+Jadi kalau <TIMEX3 tid="t1" type="DURATION" value="P1D">satu hari</TIMEX3> masak satu unit bisa 6.000 kali enam maka kita harapkan ada 36.000 nasi bungkus yang bisa disiapkan oleh dapur umum, kata Agus dalam jumpa pers di Kantor Kemensos, Jakarta Selatan, yang dikutip dari Kompas TV, <TIMEX3 tid="t2" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3> dini hari. 
+
+Agus juga meminta pemerintah daerah Sulawesi Tenggara dalam hal ini Bupati Donggala dan Walikota Palu untuk segera menerbitkan Surat Keputusan (SK) Tanggap Darurat. 
+
+Hal itu dilakukan guna menyalurkan bantuan berupa ratusan beras dari Kementerian Sosial RI untuk penanganan tanggap bencana di wilayah Donggala dan Palu. 
+
+Segera keluarga SK tanggap darurat sehinga kementerian atau lembaga bisa membantu penanganan bencana di sana, kata Agus. 
+
+Dengan SK Tanggap Darurat tersebut, kata Agung, Bupati Donggala dan Walikota Palu bisa mengeluarkan dan mengambil 100 ton stok beras di Kemensos untuk dibagikan ke warganya. 
+
+" Dengan terbitnya SK tanggap darurat, bupati, dan Wali Kota bisa mengambil 100 ton stok beras di gudang Bulog yang dimiliki Kemensos, " kata Agus. 
+
+Agung menuturkan, bila jumlah stok beras dari Kemensos yang dibagikan ke korban gempa sebanyak 100 ton masih belum cukup, kepala daerah bisa meminta 200 ton beras dari Kemensos. 
+
+Untuk bisa didistribusikan ke warganya kalau kurang maka gubernur Sulawesi Tenggara bisa mengambil 200 ton beras yang dimiliki Kemensos untuk dibagikan ke warga, kata Agung. 
+
+// Kalau dianggap masih kurang akan ada diskresi untuk menambah bantuan lebih dari 200 ton, sambung Agung. 
+
+Agung mengatakan, pihaknya masih mengkonsolidasikan persiapan pengiriman bantuan <TIMEX3 tid="t3" type="DATE" value="3000">sekitar 3000</TIMEX3> sembako untuk diberikan ke warga Palu dan Donggala. 
+
+" Apapun kondisi di sana, kami siap melaksanakan tugas kami, " ujar Agus. 
+
+Gempa berkekuatan magnitudo 7,7 yang mengguncang wilayah Donggala, Sulawesi Tengah pada <TIMEX3 tid="t4" type="TIME" value="2018-09-28TEV">Jumat (28/9/2018) petang</TIMEX3>, juga menyebabkan tsunami. 
+
+Menurut data BMKG, tsunami itu terjadi setidaknya di tiga wilayah, yaitu Palu, Donggala, dan Mamuju. 
+</TEXT>
+
+</TimeML>

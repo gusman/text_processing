@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0699</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-22</TIMEX3></DCT>
+
+<TITLE>Kondisi Terkini Kebakaran Hutan Gunung Panderman, Pagi Ini Tim Gabungan Pemadaman Berangkat</TITLE>
+
+<TEXT>
+Kondisi terkini kebakaran di hutan gunung Panderman belum padam hingga <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2019-07-22">Senin (22/7/2019)</TIMEX3>. 
+
+Lahan hutan gunung Panderman yang terbakar sejak <TIMEX3 tid="t3" type="TIME" value="2019-07-21TNI">Minggu (21/7/2019) malam</TIMEX3> masih terlihat berasap dan titk api nampak dari kejauhan. 
+
+Seperti halnya yang terlihat dari desa Pesanggrahan, yang memperlihatkan kondisi Gunung Panderman masih diselimuti asap tebal. 
+
+. 
+
+Maida, seorang warga yang juga tim Relawan Kota Batu mengatakan walaupun <TIMEX3 tid="t4" type="TIME" value="2019-07-22TMO">pagi hari</TIMEX3> masih terlihat kobaran api. 
+
+" Masih terlihat sedikit apinya. 
+
+Hasil koordinasi tadi <TIMEX3 tid="t5" type="TIME" value="2019-07-21TNI">malam</TIMEX3> pemadaman memang dilakukan <TIMEX3 tid="t6" type="TIME" value="2019-07-22TMO">pagi ini</TIMEX3>, " kata dia. 
+
+Dari informasi Tim Gabungan Pemadaman Kebakaran Hutan Gunung Panderman <TIMEX3 tid="t7" type="TIME" value="2019-07-21T00:30">sekitar pukul 00.30</TIMEX3>, lokasi kebakaran hutan Gunung Panderman berada di sekitar koordinat -7.903614, 112.496581. 
+
+Pemantauan visual titik api bagian tengah sudah mulai mengecil. 
+
+Namun ada beberapa titik api di bagian atas dan bawah yang masih terpantau ada titik api yang cukup besar. 
+
+Pemadaman api ini mengutamakan area hutan produksi, karena untuk menghindari hasil getah pinus yang mudah terbakar. 
+
+Sehingga tim gabungan itu mengutamakan hutan produksi. 
+
+Kemudian langkah pemadaman yang dilakukan dengan sekat pembatas agar api tidak meluas dan menjalar di area lainnya. 
+</TEXT>
+
+</TimeML>

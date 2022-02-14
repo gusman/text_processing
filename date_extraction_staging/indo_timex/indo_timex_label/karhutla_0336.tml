@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0336</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-09-17" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-17</TIMEX3></DCT>
+
+<TITLE>Kawasan Hutan  di Gunung Guntur Kembali Terbakar</TITLE>
+
+<TEXT>
+Kawasan hutan Gunung Guntur, Kabupaten Garut kembali terbakar. 
+
+Lokasi kebakaran hutan ini masih berada di sekitar puncak Gunung Guntur. 
+
+. 
+
+Selama <TIMEX3 tid="t1" type="DATE" value="2015-SU">musim kemarau</TIMEX3> kebakaran telah terjadi beberapa kali di Gunung Guntur. 
+
+Danramil Tarogong, Kapten Inf Sutopo mengatakan, kebakaran hutan terjadi di blok Legokjambu, Cigenjreng, Cilopang, Desa Rancabango, Kecamatan Tarogong Kaler. 
+
+Kebakaran terjadi sejak <TIMEX3 tid="t2" type="TIME" value="2015-09-16T11:00">Rabu (16/9) pukul 11.00</TIMEX3> dan berhasil dipadamkan <TIMEX3 tid="t3" type="TIME" value="2015-09-16T17:00">pukul 17.00</TIMEX3>. 
+
+" Tapi api kembali menyala <TIMEX3 tid="t4" type="TIME" value="2015-09-16TNI">Rabu malam</TIMEX3> sekitar <TIMEX3 tid="t5" type="TIME" value="2015-09-16T19:00">pukul 19.00</TIMEX3>. 
+
+Diperkirakan luas area yang mengalami kebakaran sekitar 10 hektare, " ujar Sutopo, <TIMEX3 tid="t6" type="DATE" value="2015-09-17">Kamis (17/9/2015)</TIMEX3>. 
+
+Sutopo memperkirakan, api berasal dari percikan bebatuan yang jatuh dan bergesekan.Area yang terbakar, lanjut Sutopo, hanya alang-alang kering yang memang mudah terbakar jika terkena percikan api kecil. " Lokasi ke titik api itu jauh. 
+
+Ada di puncak gunung. 
+
+Jadi kecil kemungkinan ada yang sengaja melakukan pembakaran, " katanya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

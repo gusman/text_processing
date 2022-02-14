@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1178</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-11-14" temporalFunction="false" functionInDocument="CREATION_TIME">2016-11-14</TIMEX3></DCT>
+
+<TITLE>Tanah Longsor Lumpuhkan Akses ke Kecamatan Tanjung Agung Muaraenim</TITLE>
+
+<TEXT>
+Jalan lintas Desa Padang Bindu Kecamatan Tanjung Agung Muara enim yang menghubungkan Kecamatan Semendo Darat Laut (SDL) longsor. 
+
+Akibatnya akses jalan tersebut putus total, <TIMEX3 tid="t1" type="DATE" value="2016-11-14">Senin</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2016-11-14">(14/11/2016)</TIMEX3>. 
+
+Berdasarkan informasi yang berhasil Tribunsumsel. 
+
+com himpun di lapangan longsor terjadi sejak <TIMEX3 tid="t3" type="TIME" value="2016-11-14TMO">dini hari</TIMEX3> sekitar <TIMEX3 tid="t4" type="TIME" value="2016-11-13T01:00">pukul 01.00 WIB</TIMEX3>. 
+
+Hal ini terjadi dikarenakan curah hujan yang cukup tinggi melanda Kabupaten Muaraenim. 
+
+Tanah longsor terjadi dua titik di antaranya Jalan raya Umum menuju Simpang Lubuk Nipis dengan panjang longsoran sekitar 10 Meter dan untuk titik kedua terjadi di jalan raya umum menuju Talang Tebat Benawa Kecamatan Tanjung Agung, dengan Panjang longsoran sekitar 30 Meter. 
+
+Akibat peristiwa tersebut akses jalan umum yang biasa dilalui masyarakat dan kendaraan umum menjadi terputus.Peristiwa longsor inipun di benarkan oleh Kapolres Muaraenim, AKBP Hendra Gunawan melalui Kapolsek Tanjung Agung AKP Iwan Gunawan SH di dampingi Kasubag Humas AKP Arsyad membenarkan adanya peristiwa tersebut. " kita sudah melaporkan peristiwa tersebut baik ke BPBD Muaraenim maupun ke PU Binamarga kabupaten Muaraenim untuk menurunkan alat berat untuk membuka kembali akses jalan antara KecamatanTanjung Agung menuju Kecamatan Semendo Darat Laut (SDL), " jelasnya. 
+</TEXT>
+
+</TimeML>

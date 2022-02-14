@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0776</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-20" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-20</TIMEX3></DCT>
+
+<TITLE>Pemda akan Salurkan Bantuan Bagi Korban Banjir di Tiga Kecamatan</TITLE>
+
+<TEXT>
+Pemerintah Daerah (Pemda) Kabupaten Pulau Morotai, bakal melakukan penyerahan bantuan pada <TIMEX3 tid="t1" type="DATE" value="2020-01-22">Rabu (22/01/2020)</TIMEX3> kepada masyarakat (korban banjir) <TIMEX3 tid="t2" type="DATE" value="PXW">beberapa minggu lalu</TIMEX3> di tiga Kecamatan, yakni Kecamatan Morotai Timur (Mortim), Morotai Utara (Morut) dan Morotai Jaya (Morja). 
+
+Hal tersebut disampaikan Kadinsos Pulau Morotai Ansar Tibu saat di temui di ruang kerjanya,, <TIMEX3 tid="t3" type="DATE" value="2019-02-20">Senin (20/02/2019)</TIMEX3>. 
+
+Ketiga kecamatan yang nantinya diberikan bantuan oleh Pemda Morotai itu berupa beras sebanyak 15,5 ton, terangnya. 
+
+Lanjut Dia, sebanyak 15,5 ton besar bantuan yang akan diberikan ke korban banjir itu <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah ada di bulog Tobelo, dan <TIMEX3 tid="t5" type="DATE" value="2020-01-20">hari ini</TIMEX3> juga rencananya ada tim ke Tobelo mengambil beras itu. 
+
+Dengan begitu diharapkan, pada <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">Rabu besok</TIMEX3> berasnya sudah ada dan langsung didistribusikan ke masyarakat yang menjadi korban banjir. 
+
+Terpisah, Kepala Bidang (Kabid) Kedaruratan dan Logistik BPBD Pulau Morotai, Kusnadi Fonae menjelaskan, bantuan yang nantinya diserahkan oleh Pemda Morotai melalui Dinsos setempat kepada warga yang terkena banjir itu sebanyak 695 KK di 13 desa yang ada di tiga Kecamatan, diantaranya Kecamatan Mortim desa Sangowo Barat 50 KK, desa Rahmat 9 KK dan desa Lifao 10 KK, kemudian Kecamatan Morut desa Tawakali 8 KK, desa Leleo Jaya 216 KK, desa Sakita 138 KK, desa Tanjung Saleh 6 KK, desa Kenari 56 KK, desa Bere-bere 54 KK, desa Maba 14 KK dan desa Lusuo 48 KK. 
+
+Sementara untuk Kecamatan Morja desa Sopi 62 KK dan desa Sopi Majiko 23 KK. 
+
+Disentil soal bantuan uang yang diberikan oleh BNPB pusat senilai Rp 250 juta, dia mengaku bahwa, untuk bantuan dana siap pakai itu <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada di tangan BPBD. 
+
+Dana itu katanya bisa cair katanya dengan lebih dulu memasukan proposal ke BNPB baru dananya ditransfer. 
+
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> proposalnya sudah dimasukan ke BNPB pusat. 
+
+Jadi kami tinggal menunggu mereka transfer, kata Kusnadi. 
+
+Dana itu katanya akan diperuntukan untuk pembayaran pekerjaan normalisasi sejumlah sungai, yang sudah dikerjakan oleh Dinas PU-PR sejak <TIMEX3 tid="t9" type="DATE" value="2020-01-06">dua minggu lalu</TIMEX3>, dan sisanya untuk pembayaran Sembako yang sudah diserahkan di desa Sopi Majiko. 
+
+Jadi, sisa dana itu kami bayar sembako di salah satu toko yang kami ambil bahan Sembako, karena bantuan sembako yang kami ambil itu belum dibayar, sehingga kami menunggu dana itu di transfer baru dilakukan penyesuaian, ujarnya. 
+
+(mj) 
+</TEXT>
+
+</TimeML>

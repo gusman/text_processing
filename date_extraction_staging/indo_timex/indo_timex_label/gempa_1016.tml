@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1016</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-01</TIMEX3></DCT>
+
+<TITLE>Bupati Pasangkayu: 800 Rumah Rusak Akibat Gempa</TITLE>
+
+<TEXT>
+Pemerintah Daerah (Pemda) Pasangkayu, Sulbar mencatat sudah 800 rumah dan tempat ibadah rusak akibat gempa yang mengguncang Pasangkayu, Sulbar dan Donggala-Palu, Sulteng. 
+
+Jumlah tersebut diperkirakan terus bertambah karena Pemda Pasangkayu masih melakukan pendataan. 
+
+Jadi <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">sekarang ini</TIMEX3> kita melakukan pendataan dan verifikasi sudah mencapai 800 (rumah-tempat ibadah), jumlah akhirnya berapa tidak tahu. 
+
+Tapi kita akan terus melakukan ini secepatnya agar pemulihan ini dapat dilakukan dengan baik, ujar Bupati Pasangkayu, Agus Ambo Djiwa, <TIMEX3 tid="t2" type="DATE" value="2018-10-01">Senin (1/10/2018)</TIMEX3>. 
+
+Rumah warga yang rusak akibat gempa tersebut nantinya akan mendapat bantuan dana untuk perbaikan. 
+
+Kita akan berkoordinasi ke Presiden, apakah Pusat yang bantu atau Pemda Pasangkayu, kata Agus. 
+
+Menurutnya, 800 rumah dan tempat ibadah yang rusak akibat gempa berkekuatan 7,4 magnitudo itu, tersebar di 12 kecamatan dan yang paling terparah berada di Kecamatan Bambaira dengan jumlah 100 rumah. 
+
+Gempa juga menyebabkan satu orang warga Pasangkayu meninggal dan satu orang mengalami luka berat. 
+
+Satu meninggal dan satu luka. 
+
+Yang luka sudah dibawa ke Makassar untuk dilakukan perawatan secara intensif, ujar Agus. 
+
+Lebih jauh Agus mengatakan, untuk warga Pasangkayu yang berada di Donggala dan Palu, baik yang sedang sekolah maupun tengah jalan-jalan ke sana saat gempa dan tsunami terjadi berdasarkan informasi yang diterima, ada puluhan orang. 
+
+Inilah juga yang sementara kami data untuk memastikan jumlahnya, katanya. 
+
+Agus mengakui, warga Pasangkayu diliputi kecemasan dan masih banyak yang mengungsi, disebabkan adanya informasi yang tidak jelas melalui media sosial. 
+
+Dia meminta kepada masyarakat agar tetap tenang dan tidak mudah terprovokasi isu melalui media sosial. 
+
+Saya minta masyarakat jangan terprovokasi isu melalu media sosial, sebut Agus. 
+
+Ia juga mengakui, hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> wilayah Pasangkayu masih lumpuh akibat belum adanya pasokan listrik dan jaringan telekomunikasi. 
+
+Bupati Pasangkayu meninjau rumah yang rusak akibat gempa. 
+
+Kalau jaringan telekomunikasi <TIMEX3 tid="t4" type="DATE" value="2018-10-01">hari ini</TIMEX3> mulai ada, tetapi listrik pascaggempa sampai <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih lumpuh, kunci Agus Ambo Djiwa.(usman) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0706</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-02-17" temporalFunction="false" functionInDocument="CREATION_TIME">2019-02-17</TIMEX3></DCT>
+
+<TITLE>Warga Batubulan, Korban Guguran Lava Gunung Karangetang Sitaro Butuh BBM dan Listrik</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DURATION" value="P2W">Dua minggu</TIMEX3> lebih sudah warga Kampung Batubulan terisolasi lantaran guguran lava gunung Karangetang yang menutupi jalan yang menghubungkan antara Kampung Batubulan dan Kawahang yang menjadi akses warga via darat. 
+
+Selain pengungsi ada 453 orang warga kampung Batubulan yang terisolir, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> mereka sangat membutuhkan BBM dan listrik. 
+
+" Sudah <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">dua minggu ini</TIMEX3> tidak pernah nonton tv lagi lantaran tidak ada listrik, " kata Samsu Bagania (78) warga Batubulan, <TIMEX3 tid="t4" type="DATE" value="2019-02-17">Minggu (17/02/2019)</TIMEX3>. 
+
+Selain itu, penerangan juga tak cukup didapatkan pada <TIMEX3 tid="t5" type="TIME" value="2019-02-16TNI">malam hari</TIMEX3>. 
+
+Sebab sejak <TIMEX3 tid="t6" type="DATE" value="2019-02-05">tanggal 5 Februari</TIMEX3> sejak lava merusak fasilitas listrik, di Batubulan tidak lagi mendapatkan pasokan listrik. 
+
+Penerangan hanya menggunakan genset, itupun hanya beberapa keluarga yang punya, dan tergantung dari pasokan bahan bakar minyak. 
+
+" Biasa kami pakai lampu botol, tapi itupun sudah kami dapat, " jelasnya. 
+
+Sehingga ia berharap agar pemerintah segera mengusahakan agar listrik bisa masuk ke Batubulan. 
+
+Gerisies Wagania warga Batubulan mengatakan, bahwa sejauh ini mereka sudah mendapatkan bantuan berupa beras dan mi instan yang dibagikan oleh pemerintah desa.Untuk memenuhi kebutuhan juga mereka harus naik perahu, menghadapi ombak besar ke pasar Ondong. 
+
+" Ongkosnya Rp 30 ribu sekali jalan, dan kami beli kebutuhan kehidupan di pasar Ondong, " jelas dia.Ia berharap juga semoga jalan penghubung segera terbuka, khususnya dari kampung Nameng ke kampung Batubulan. 
+
+Selain itu, warga juga membutuhkan air bersih.Sementara biru, Bib Wauten Kepala BPBD Sitaro mengatakan bahwa mereka rutin menyuplai bahan bakar ke kampung Batubulan via laut. " Kami rutin kirimkan logistik termasuk BBM ke Batubulan, sementara hanya menggunakan perahu, karena baru itu akses yang bisa dilalui, " ujarnya. 
+
+(amg) 
+</TEXT>
+
+</TimeML>

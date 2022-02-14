@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0750</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-03-02" temporalFunction="false" functionInDocument="CREATION_TIME">2014-03-02</TIMEX3></DCT>
+
+<TITLE>Kebakaran Hutan tiap Tahun, Masyarakat Tunggu Janji Gubernur Riau</TITLE>
+
+<TEXT>
+Kebakaran hutan terjadi <TIMEX3 tid="t1" type="SET" value="P1Y">setiap tahun</TIMEX3> di provinsi sumatera bagian tengah ini. 
+
+Titik api terbanyak terdapat di provinsi riau seolah menjadikan pembakaran lahan sebagai budaya bawaan yang sangat merugikan semua pihak. 
+
+Menurut Wakil Ketua DPRD Riau, Noviwaldy Jusman, euforia kebun sawit rakyat maupun perusahaan membuat masyarakat <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> mencari jalan pintas dengan melakukan pembakaran lahan, agar dapat menghemat biaya. 
+
+Sementara dari sisa pembakaran konon kabarnya merupakan pupuk yang baik. 
+
+" Pemerintahan baru yang dinahkodai Anas Ma'mun langsung dihadapkan dengan persoalan asap yang merajalela. 
+
+Tak tanggung tanggung saat pelantikanpun disambut dengan kabut asap. 
+
+Janji Anas Ma'mun saat menyampaikan visi dan misi pun jadi tagihan di masyarakat. 
+
+Masyarakat sangat berharap perasoalan asap ini dapat diatasi oleh pemerintah dan menangkap pelakunya sesuai dengan janji gubernur, " terang politisi Demokrat ini, <TIMEX3 tid="t3" type="DATE" value="2014-03-02">Minggu (2/3/2014)</TIMEX3>. 
+
+(*) 
+</TEXT>
+
+</TimeML>

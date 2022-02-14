@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0414</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-09-01" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-01</TIMEX3></DCT>
+
+<TITLE>Water Bombing Baru Efektif Hari Rabu</TITLE>
+
+<TEXT>
+Badan penanggulangan bencana daerah (BPBD) Provinsi Jambi mengakui adanya kendala dalam upaya pelaksanaan water bombing (bom air) yang dijadwalkan akan dimulai <TIMEX3 tid="t1" type="DATE" value="2015-08-31">Senin (31/8) kemarin</TIMEX3>. 
+
+Seperti disampaikan Arif Munandar, Kepala BNPB Provinsi Jambi dikonfirmasi Tribun menuturkan terkendala dengan kabiut asap sehingga ada keterlambatan kedatangan pesawat. 
+
+Namun, untuk ujicoba pihaknya telah melakukan water bombing pada <TIMEX3 tid="t2" type="TIME" value="2015-08-31TAF">Senin sore</TIMEX3> sebanyak 13 kali di area kebakaran lahan gambut di kabupaten Muaro Jambi. 
+
+Tepatnya di Pematang Raman dan kawasan Desa Betung, Kecamatan Kumpeh Ilir. 
+
+" Selain itu kita juga terkendala persoalan teknis. 
+
+Tadi masih ada satu pesawat lagi yang izin terbangnya belum keluar dan sedang dalam proses. 
+
+Sambil menunggu itu, <TIMEX3 tid="t3" type="DATE" value="2015-09-02">besok</TIMEX3> bersama kasdam, wakapolda dan danrem kita akan melakukan peninjauan titik mana saja yang akan diprioritaskan, " katanya. 
+
+Lebih lanjut Arif juga bilang secara tehnis <TIMEX3 tid="t4" type="DATE" value="2015-09-02">besok</TIMEX3> (<TIMEX3 tid="t5" type="DATE" value="2015-09-01">hari ini</TIMEX3>. 
+
+red) pelaksanaan water boming belum dapat dilakukan. 
+
+Namun, dipastikannya pada <TIMEX3 tid="t6" type="DATE" value="2015-08-26">hari rabu</TIMEX3> (<TIMEX3 tid="t7" type="DATE" value="2015-09-02">besok</TIMEX3>. 
+
+red) baru dapat di mulai pelaksanaannya. 
+
+Terkait efektifitas water bombing dalam upaya pemadaman kebakaran hutan dan lahan, pelaksanaan proses pemadaman lewat jalur udara dinilai cukup membantu. 
+
+Terlebih untuk menjangkau daerah yang sulit dimasuki tim pemadam dilapangan. 
+
+" Sejauh ini cukup efektif, dengan tehnik water boming kita coba menjangkau kawasan yang sulit di jangkau dari proses pemadaman di darat. 
+
+Seperti kawasan yang sulit dimasuki lewat akses darat itu yang coba kita jangkau. 
+
+mudah-mudahan ini bisa berhasil mengurangi kabut asap, " pungkasnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

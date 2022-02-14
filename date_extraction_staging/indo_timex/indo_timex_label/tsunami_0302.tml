@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0302</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-05" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-05</TIMEX3></DCT>
+
+<TITLE>Yuk Bantu Sulteng, IIN Tower RG Buka Dompet Amal</TITLE>
+
+<TEXT>
+Radar Gorontalo membuka dompet kemanusiaan untuk membantu korban gempa dan tsunami di Palu, Donggala dan Sigi, Sulawesi Tengah. 
+
+Grup IIN Tower Radar Gorontalo (RG) ingin meringankan beban penderitaan masyarakat. 
+
+Kami ingin meringankan beban penderitaan masyarakat yang terdampak gempa dan tsunami di Palu, Donggala dan Sigi, kata koordinator dompet amal RG, Sutikno Hadi. 
+
+Tikno menyebut Radar Gorontalo selalu berkomitmen memberikan bantuan kepada masyarakat terdampak bencana. 
+
+Salah satu cara dengan menggalang bantuan melalui dompet kemanusiaan. 
+
+Dan bantuan yang kami terima berupa air mineral, makanan siap saji, susu, pakaian bayi dan kebutuhan anak-anak, mengingat banyak juga korban dari anak-anak. 
+
+Bantuan dapat diantar langsung ke IIN Tower Radar Gorontalo jalan Jhon Ario Katili atau kontak person no WA 0812-4228-4490 dan 0852-5540-9021. 
+
+Gempa mengguncang Kota Palu dan Kabupaten Donggala, Sulawesi Tengah, <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9)</TIMEX3> berkekuatan 7,4 skala richter itu mengakibatkan tsunami setinggi lebih kurang lima meter. 
+
+Hingga <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah ribuan korban tercatat meninggal di Kota Palu, Dunggala dan Sigi. 
+
+(try) 
+</TEXT>
+
+</TimeML>

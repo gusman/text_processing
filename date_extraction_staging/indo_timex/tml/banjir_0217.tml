@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0217</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-21" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-21</TIMEX3></DCT>
+
+<TITLE>VIDEO: Jalan di Mempayak Masih Putus, Rakit Menyeberangkan Warga dan Kendaraan</TITLE>
+
+<TEXT>
+Jalan raya di Desa Mempayak, Kecamatan Damar, putus sekitar 50 meter, sejak Minggu (16/7/2017) lalu hingga Jumat (21/7/2017).
+
+Jalan yang menghubungkan Kecamatan Damar-Kecamatan Kelapa Kampit, Belitung Timur itu putus akibat diterjang air dari di Kulong atau Danau Mempayak saat terjadi banjir.
+
+Sementara air di Danau Mempayak menjadi kosong.
+
+Menurut warga sekitar menyebutkan air dari Danau Mempaya mengalir menuju alur Sungai Manggar.
+
+Warga berinisiatif membuat rakit memanfaatkan sejumlah drum untuk menyebrangkan warga ataupun kendaraan.
+
+Rakit tersebut ditarik menggunakan tali dengan kapasitas sekitar belasan motor dan dua mobil.
+
+(*)
+</TEXT>
+
+</TimeML>
+

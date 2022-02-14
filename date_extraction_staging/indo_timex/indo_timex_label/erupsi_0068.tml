@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0068</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-05-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-05-24</TIMEX3></DCT>
+
+<TITLE>Suara Dentuman Terdengar Keras, Besakih Diguyur Hujan Pasir Pasca Erupsi Gunung Agung</TITLE>
+
+<TEXT>
+Gunung Agung kembali mengalami erupsi, <TIMEX3 tid="t1" type="DATE" value="2019-05-24">Jumat (24/5/2019)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2019-05-23T19:23">pukul 19.23</TIMEX3> Wita. 
+
+Sama seperti letusan sebelumnya, Gunung Agung mengalami letusan eksplosif strombolian dan suara gemuruh terdengar sampai Pos Pengamatan Gunung Agung di Desa Rendang, Karangasem. 
+
+Berdasarkan laporan PVMBG, letusan Gunung Agung, <TIMEX3 tid="t3" type="DATE" value="2019-05-24">Jumat (24/5/2019)</TIMEX3> terekam di seismogram dengan amplitudo maksimum 30 mm dan durasi <TIMEX3 tid="t4" type="DURATION" value="PT4M30S">4 menit 30 detik</TIMEX3>. 
+
+Tinggi kolom abu tidak teramati, namun dari jangakuan lava pijar yang dilontarkan, diperkirakan tinggi kolom abu mencapai 1.500 hingga 3.000 meter di atas puncak Gunung Agung " Dari hasil koordinasi dengan PVMBG di Pos Pengamatan Gunung Api Agung, Rendang, tinggi kolom abu diperkirakan sekitar 1.500 hingga 3.000 meter. 
+
+Hujan abu sudah dilaporkan terjadi di beberapa wilayah, dan akan lebih tebal karena letusan yang lebih besar dibandingkan sebelumnya. 
+
+Hujan abu akan cenderung ke arah tenggara, " ujar Sekretaris BPBD Karangasem Putu Eka Tirtana, <TIMEX3 tid="t5" type="DATE" value="2019-05-24">Jumat (24/5/2019)</TIMEX3>. 
+
+Sementara paparan hujan pasir dilaporkan terjadi di beberapa wilayah di lereng Gunung Agung, seperti wilayah Besakih dan sekitarnya. 
+
+" Suara dentumannya keras, lebih keras dari sebelumnya, " ujar warga Besakih, Gusti Ngurah. 
+
+Setelah terdengar dentuman, diikuti dengan munculnya lava pijar dari kawah. 
+
+. 
+
+// " Lalu Besakih terpapar hujan pasir cukup tebal, " ungkapnya. 
+
+Sementara warga di Desa Besakih masih bersiaga dan menunggu informasi dari pihak terkait. 
+
+Hujan abu juga mengguyur wilayah Menanga. 
+
+Bahkan beberapa warga di Desa Menanga mencium aroma belerang cukup keras. 
+
+Diberitakan sebelumnya, Gunung Agung kembali mengalami erupsi, <TIMEX3 tid="t6" type="DATE" value="2019-05-24">Jumat (24/5/2019)</TIMEX3> sekitar <TIMEX3 tid="t7" type="TIME" value="2019-05-23T19:23">pukul 19.23</TIMEX3> Wita. 
+
+Sama seperti letusan sebelumnya, Gunung Agung mengalami letusan eksplosif strombolian dan suara gemuruh terdengar sampai Pos Pengamatan Gunung Api Agung di Desa Rendang, Karangasem. 
+
+. 
+
+Tinggi kolom abu tidak teramati, namun dari jangakuan lava pijar yang dilontarkan, diperkirakan tinggi kolom abu mencapai <TIMEX3 tid="t8" type="DATE" value="1500">1500</TIMEX3> hingga <TIMEX3 tid="t9" type="DATE" value="3000">3000</TIMEX3> meter diatas puncak Gunung Agung. 
+
+" Dari hasil koordinasi dengan PVMBG di Pos Pengamatan Gunung Api Agung, Rendang, tinggi kolom abu diperkirakan <TIMEX3 tid="t10" type="DATE" value="1500">sekitar 1500</TIMEX3> hingga <TIMEX3 tid="t11" type="DATE" value="3000">3000</TIMEX3> meter. 
+
+" Hujan abu sudah dilaporkan terjadi di beberapa wilayah, dan akan lebih tebal karena letusan yang lebih besar dibandingkan sebelumnya. 
+
+Hujan abu akan cenderung ke arah tenggara, " ujar Sekretaris BPBD Karangasem Putu Eka Tirtana, <TIMEX3 tid="t12" type="DATE" value="2019-05-24">Jumat (24/5/2019)</TIMEX3>.Sementara paparan hujan pasir dilaporkan terjadi di beberapa wilayah di lereng Gunung Agung, seperti wilayah seperti Besakih dan sekitarnya " Suara dentumannya keras, lebih keras dari sebelumnya, " ujar warga Besakih, Gusti Ngurah. 
+
+// Setelah terdengar dentuman, diikuti dengan munculnya lava pijar dari kawah. 
+
+Lontaran api ini cukup jelas terkihat dari desa besakih. 
+
+. 
+
+Sementara warga di Desa Besakih masih bersiaga, dan masih menunggu informasi dari pihak terkait. 
+
+Hujan abu juga mengguyur wilayah Menanga. 
+
+Bahkan beberapa warga di desa Menanga mencium aroma belerang cukup keras. 
+
+Hingga berita ini diturunkan, status Gunung Agung masih status level III (Siaga). 
+
+Sehingga diimbau bagi masyarakat di sekitar Gunung Agung dan pendaki/pengunjung/wisatawan agar tidak berada, tidak melakukan pendakian. 
+
+Tidak melakukan aktivitas apapun di zona perkiraan bahaya yaitu di seluruh area di dalam radius 4 km dari Kawah Puncak Gunung Agung. 
+
+Selain itu, zona perkiraan bahaya sifatnya dinamis dan terus dievaluasi dan dapat diubah sewaktu-waktu mengikuti perkembangan data pengamatan Gunung Agung yang paling aktual dan terbaru. 
+
+Masyarakat yang bermukim dan beraktivitas di sekitar aliran-aliran sungai yang berhulu di Gunung Agung agar mewaspadai potensi ancaman bahaya sekunder berupa aliran lahar hujan yang dapat terjadi terutama pada <TIMEX3 tid="t13" type="DATE" value="2018-WI">musim hujan</TIMEX3> dan jika material erupsi masih terpapar di area puncak. 
+
+(*) 
+</TEXT>
+
+</TimeML>

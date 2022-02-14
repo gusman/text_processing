@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1165</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-18" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-18</TIMEX3></DCT>
+
+<TITLE>Detik Menegangkan Penyelamatan Bayi 5 Bulan Oleh Anggota TNI</TITLE>
+
+<TEXT>
+Bayi berusia <TIMEX3 tid="t1" type="DURATION" value="P5M">5 bulan</TIMEX3> tersebut berusaha diselamatkan oleh para anggota TNI dari reruntuhan rumah akibat banjir bandang di Sentani. 
+
+Proses penyelamatan bayi berusia <TIMEX3 tid="t2" type="DURATION" value="P5M">5 bulan</TIMEX3> korban banjir bandang Sentani tersebut berlangsung dramatis. 
+
+Seperti yang sudah diberitakan sebelumnya, banjir bandang menerjang Sentani, Kabupaten Jayapura, Papua. 
+
+Prajurit Yonif RK 751/ VJS melaksanakan penyelamatan terhadap seorang bayi berumur <TIMEX3 tid="t3" type="DURATION" value="P5M">5 bulan</TIMEX3> suku asli Papua. 
+
+Bayi terjebak banjir di kolong rumah selama kurang lebih <TIMEX3 tid="t4" type="DURATION" value="PT6H">6 jam</TIMEX3> di Kampung Taruna, Jl Sosial Taruna, Sentani, Kabupaten Jayapura, Papua. 
+
+Pada <TIMEX3 tid="t5" type="TIME" value="2019-03-17T08:00">Minggu (17/3) pukul 08.00 WIT</TIMEX3>, tim penyisir dari Yonif 751 teridiri dari Sertu Hanafi, Sertu Samsi, Prada Yacob, Prada Yusril, dan Prada Syahril melaksanakan penanggulangan bencana banjir di sekitar kampung Taruna. 
+
+Saat melaksanakan penyisiran, seorang prajurit TNI a. 
+
+n Prada Syahril menemukan bayi (umur <TIMEX3 tid="t6" type="DURATION" value="P5M">5 bulan</TIMEX3>) di kolong rumah masyarakat. 
+
+Bayi dengan posisi terjepit kayu runtuhan rumah, ujar Kapendam Cenderawasih, Kolonel Inf Muhammad Aidi, <TIMEX3 tid="t7" type="DATE" value="2019-03-17">Minggu (17/3)</TIMEX3>. 
+
+Prada Syahril dibantu rekan lainnya melaksanakan pemyelamatan dengan menggunakan 2 buah gergaji untuk memotong kayu yang menjepit badan bayi tersebut. 
+
+Bayi yang orang tuanya belum bisa diidentifikasi itu dikeluarkan dari jepitan kayu dalam keadaan selamat. 
+
+Prada Syahril menggendong bayi tersebut selanjutnya dilarikan ke Puskesmas terdekat dengan sepeda motor. 
+
+Namun di tengah jalan berpapasan dengan ambulans sehingga bayi berhasil dievakuasi ke Puskesmas Sentani, lanjut Kolonel Aidi. 
+
+Hingga <TIMEX3 tid="t8" type="TIME" value="2019-03-17T08:30">Minggu (17/3) pukul 08.30 WIB</TIMEX3>, tercatat dampak banjir bandang sebanyak 42 orang meninggal dunia dan 21 orang luka-luka. 
+
+Kerusakan meliputi 9 rumah rusak terdampak banjir di BTN Doyo Baru, 1 mobil rusak atau hanyut, serta jembatan Doyo dan Kali Ular mengalami kerusakan. 
+
+Sekitar 150 rumah terendam di BTN Bintang Timur Sentani dan ada kerusakan 1 pesawat jenis Twin Otter di Lapangan Terbang Adventis Doyo Sentani. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1200</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-03-27" temporalFunction="false" functionInDocument="CREATION_TIME">2015-03-27</TIMEX3></DCT>
+
+<TITLE>Puluhan Rumah di Jember Diterjang Puting Beliung</TITLE>
+
+<TEXT>
+Angin puting beliung menerjang wilayah Jember. 
+
+Setidaknya 29 rumah rusak ringan dalam <TIMEX3 tid="t1" type="DURATION" value="P3D">tiga hari</TIMEX3> terakhir akibat terjangan angin puting beliung. 
+
+Berdasarkan data dari Badan Penanggulangan Bencana Daerah (BPBD) Jember, <TIMEX3 tid="t2" type="DATE" value="2015-03-25">Rabu (25/3/2015)</TIMEX3> angin puting beliung merusak 27 rumah di Kecamatan Gumukmas dan satu rumah di Kecamatan Sumberjambe. 
+
+Dari pantauan Surya, <TIMEX3 tid="t3" type="DATE" value="2015-03-26">Kamis (26/3/2015)</TIMEX3> satu rumah rusak ringan di Kelurahan Tegalbesar Kecamatan Kaliwates.27 rumah rusak ringan di Kecamatan Gumukmas itu ada di Desa Purwoasri dan Jatiagung. 
+
+Genteng dan eternit puluhan rumah itu diterbangkan angin. 
+
+Begitu juga sebuah rumah di Desa Gunung Malang Kecamatan Sumberjambe. 
+
+" Kejadian <TIMEX3 tid="t4" type="TIME" value="2015-03-26TAF">sore hari</TIMEX3>, angin kencang sekali. 
+
+Berdasarkan pendataan kami, kerusakan terjadi pada 27 rumah di Kecamatan Gumukmas dan sebuah rumah di Sumberjambe. 
+
+Itu hasil pendataan kami, " ujar Heru Widagdo, Kepala Bidang Kedaruratan dan Logistik BPBD Jember kepada Surya, <TIMEX3 tid="t5" type="DATE" value="2015-03-27">Jumat (27/3/2015)</TIMEX3>. 
+
+Sementara itu, angin kencang disertai hujan deras juga terjadi di Kelurahan Tegalbesar Kecamatan Kaliwates, <TIMEX3 tid="t6" type="TIME" value="2015-03-26TAF">Kamis (26/3/2015) siang</TIMEX3>. 
+
+Sejumlah pepohonan tumbang di Jala Teuku Umar Tegalbesar. " Genteng rumah tetangga saya pada terbang, hanya satu rumah. 
+
+Saya sampai nangis lihat anginnya kayak gitu. 
+
+Kencang sekali. 
+
+Pohon pepaya di sekitar rumah saya ambruk, " ujar Ny Suli, seorang pedagang rujak.Mulai <TIMEX3 tid="t7" type="DATE" value="2015-W13">pekan ini</TIMEX3> hingga <TIMEX3 tid="t8" type="DATE" value="2015-04">pertengahan April mendatang</TIMEX3>, BPBD Jember mewaspadai angin puting beliung di seluruh kecamatan di Kabupaten Jember.Hal ini dikarenakan pergantian musim dari penghujan ke kemarau, sehingga terjadi perubahan suhu udara. 
+
+.com/SURYAonline FOLLOW Twitter Surya - http://twitter.com/portalSURYA 
+</TEXT>
+
+</TimeML>

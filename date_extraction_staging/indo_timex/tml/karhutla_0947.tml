@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0947</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-24</TIMEX3></DCT>
+
+<TITLE>Kebakaran Hutan di Mamuju</TITLE>
+
+<TEXT>
+Api membakar semak belukar dan pepohonan pada kebakaran hutan di Mamuju, Sulbar, Sabtu (24/8/2019) pukul 14.00 Wita.
+
+Keringnya pepohonan akibat cuaca panas dan diperparah dengan kencangnya angin membuat api cepat menjalar.
+
+Kepulan asap terlihat hingga radius 100 meter dari kota Mamuju.
+
+Kebakaran hutan itu terjadi di wilayah Korongana, Rangas, Kecamatan Simboro.
+
+Belum ada tindakan dari aparat setempat untuk memadamkan api yang kian menjalar dan membakar rumput kering disekitar lahan tersebut.
+
+Hingga berita ini diturunkan, kepulan asap semakin menebal.
+
+(Berita ini masih berlanjut dan akan diverifikasi selanjutnya).
+
+(usman)
+</TEXT>
+
+</TimeML>
+

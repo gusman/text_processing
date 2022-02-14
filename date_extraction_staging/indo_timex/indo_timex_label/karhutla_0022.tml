@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0022</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-02-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-02-25</TIMEX3></DCT>
+
+<TITLE>1.753 Warga Riau Terkena ISPA Akibat Hirup Kabut Asap Kebakaran Hutan</TITLE>
+
+<TEXT>
+Kabut asap kebakaran hutan dan lahan (karhutla) di Provinsi Riau sudah berdampak terhadap kesehatan masyarakat. 
+
+Sejak <TIMEX3 tid="t1" type="DATE" value="2019-01">Januari</TIMEX3> hingga <TIMEX3 tid="t2" type="DATE" value="2019-02-24">24 Februari 2019</TIMEX3>, ribuan warga terkena penyakit infeksi saluran pernapasan akut (ISPA) karena menghirup asap. 
+
+" Sementara ini jumlah warga yang terkena ISPA sebanyak 1.753 orang akibat hirup kabut asap karhutla. 
+
+Itu data terakhir yang kami catat pada <TIMEX3 tid="t3" type="DATE" value="2019-02-24">Minggu (24/2/2019)</TIMEX3>, " kata Kepala Bidang Pelayanan Kesehatan Dinas Kesehatan Riau dr Yohanes, saat diwawancarai Kompas. 
+
+com, usai memberikan makanan tambahan kepada ibu hamil dan lansia yang terdampak karhutla di Kecamatan Rupat, Kabupaten Bengkalis, Riau, <TIMEX3 tid="t4" type="DATE" value="2019-02-25">Senin (25/2/2019)</TIMEX3>. 
+
+. 
+
+Hanya saja, Yohanes menyebut, kasus ISPA paling banyak terdapat di Kota Dumai. 
+
+" Sejauh ini tidak ada peningkatan kasus. 
+
+Paling kasusnya di Dumai paling banyak. 
+
+Tetapi, kondisi udara di Kota Dumai sudah mulai membaik kembali dan kabut asapnya mungkin mulai menurun, " kata Yohanes. 
+
+Dia mengaku, tidak mengetahui jumlah kasus ISPA per kabupaten dan kota di Riau. 
+
+" Kami cuma menerima data se-Riau saja, " sebut dia.Yohanes menuturkan, <TIMEX3 tid="t5" type="DATE" value="2019-02-25">hari ini</TIMEX3>, Dinas Kesehatan Riau menyerahkan bantuan makanan tambahan untuk ibu hamil, lansia, dan anak-anak di Kelurahan Terkul, Kecamatan Rupat, Bengkalis. " Kami memberikan bantuan makanan tambahan, seperti biskuit untuk memperkuat daya tahan tubuhnya, " ungkap Yohanes. 
+
+// Selain itu, pihaknya juga memberikan bantuan masker N95 untuk petugas yang melakukan pemadaman karhutla. 
+
+Sebagaimana diketahui, kebakaran lahan gambut masih belum berhasil dipadamkan di Kecamatan Rupat, Bengkalis. 
+
+Hingga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, tim gabungan dari TNI, kepolisian, Manggala Agni, BPBD dan masyarakat, berjibaku memadamkan api. 
+
+Bahkan, pasukan Kostrad diturunkan untuk membantu pemadaman. 
+
+Kebakaran hutan tak kunjung padamKebakaran hutan dan lahan (karhutla) di Kecamatan Rupat, Kabupaten Bengkalis, Riau, tak kunjung padam. 
+
+Masyarakat setempat berharap turun hujan. 
+
+Warga mengungkapkan, <TIMEX3 tid="t7" type="DATE" value="2018-SU">musim panas</TIMEX3> melanda Kecamatan Rupat sudah <TIMEX3 tid="t8" type="DURATION" value="P2M">hampir dua bulan</TIMEX3>. 
+
+" Kalau panas sejak <TIMEX3 tid="t9" type="DATE" value="2019-01">awal Januari 2019</TIMEX3>. 
+
+Jadi, gambut-gambut yang ada di sini mengering dan mudah terbakar. 
+
+Apalagi, di sini hampir seluruhnya tanah gambut, " kata Sugiyanto (58), salah satu warga Kelurahan Terkul, saat berbincang dengan Kompas. 
+
+com, <TIMEX3 tid="t10" type="DATE" value="2019-02-25">Senin (25/2/2019)</TIMEX3>. 
+
+Dia mengatakan, karhutla di Kecamatan Rupat sudah berlangsung hingga <TIMEX3 tid="t11" type="DURATION" value="P1M">satu bulan</TIMEX3>. 
+
+Hingga <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">kini</TIMEX3>, belum dapat dipadamkan. 
+
+" <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> sudah sangat luas terbakar. 
+
+Karet dan sawit habis terbakar. 
+
+Kalau <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sudah sulit dipadamkan, " ujar dia. 
+
+. 
+
+// " Kami <TIMEX3 tid="t15" type="SET" value="P1D">setiap hari</TIMEX3> berdoa minta hujan. 
+
+Karena di kampung kami kabut asap sudah parah. 
+
+Banyak dampaknya, batuk, filek, sesak nafas. 
+
+Sangat bahaya bagi kesehatan, " ucap dia. 
+
+Warga lainnya, Budiman (48), juga mengharapkan hal yang sama. 
+
+Upaya pemadaman dengan tenaga manusia, menurut dia, kecil kemungkinan bisa dilakukan. 
+
+" <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> banyak sekali petugas yang berupaya mematikan api. 
+
+Kami sangat berterima kasih. 
+
+Masyarakat juga ikut bantu. 
+
+Tapi, kita sama tahu bahwa kebakaran gambut <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sangat parah dan luas. 
+
+Jadi, harapan kami cepat turun hujan, " ungkap Budiman. 
+
+Dari pantauan langsung Kompas. 
+
+com di lokasi, kebakaran lahan gambut sangat sulit diatasi. 
+
+Sebab, api ada di dalam gambut yang dalamnya satu hingga tiga meter. 
+
+. 
+
+Bahkan, gambut yang terbakar disiram dan diinjak-injak hingga menjadi seperti bubur, namun masih mengeluarkan asap. 
+
+Selain kesulitan akibat terik matahari yang panas, petugas juga sesak nafas menghirup kabut asap tebal di lokasi kebakaran.Berdasarkan data dari Pemerintah Kecamatan Rupat, luas lahan yang terbakar <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> mencapai 1.300 hektare. 
+
+// Karhutla terdapat di Kelurahan Terkul, Kelurahan Pergam, Desa Sri Tanjung, Teluk Lecah, dan Desa Kebumen. 
+
+<TIMEX3 tid="t19" type="DATE" value="2018-SU">Musim panas</TIMEX3> diprediksi hingga <TIMEX3 tid="t20" type="DATE" value="2018-03">Maret</TIMEX3> Prakirawan Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Stasiun Pekanbaru Mia Vadila mengatakan, <TIMEX3 tid="t21" type="DATE" value="2018-SU">musim panas</TIMEX3> di wilayah Riau di bagian pesisir diprediksi hingga <TIMEX3 tid="t22" type="DATE" value="2019-03">Maret 2019</TIMEX3>. 
+
+" Untuk wilayah Riau di bagian pesisir utara dan timur, seperti Dumai dan Bengkalis masih <TIMEX3 tid="t23" type="DATE" value="2018-SU">musim panas</TIMEX3>. 
+
+Kondisi ini diperkirakan hingga sampai <TIMEX3 tid="t24" type="DATE" value="2018-03">Maret</TIMEX3>, " kata Mia, saat dihubungi Kompas. 
+
+com, melalui sambungan telepon, <TIMEX3 tid="t25" type="DATE" value="2019-02-25">Senin</TIMEX3>. 
+
+Dia menyampaikan, pada <TIMEX3 tid="t26" type="DATE" value="2019-02">bulan Februari</TIMEX3> dan <TIMEX3 tid="t27" type="DATE" value="2019-03">Maret mendatang</TIMEX3> memang <TIMEX3 tid="t28" type="DATE" value="2018-SU">musim panas</TIMEX3>. 
+
+Peluang hujan sangat sedikit. 
+
+" Kalau hujan diperkirakan untuk <TIMEX3 tid="t29" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pada <TIMEX3 tid="t30" type="DATE" value="2019-02-27">tanggal 27</TIMEX3> dan <TIMEX3 tid="t31" type="DATE" value="2019-03-28">28 Maret 2019</TIMEX3>, tapi belum merata. 
+
+Karena di wilayah Riau di bagian pesisir memang <TIMEX3 tid="t32" type="DATE" value="2018-SU">musim panas</TIMEX3>, " tutup Mia. 
+</TEXT>
+
+</TimeML>

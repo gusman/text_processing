@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0562</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-05</TIMEX3></DCT>
+
+<TITLE>Siswa Terdampak Puting Beliung Dapat Perlengkapan Sekolah</TITLE>
+
+<TEXT>
+Bupati Kapuas Ben Brahim S. 
+
+Bahat melalui Dinas Pendidikan menyerahkan sebanyak 30 paket pakaian dan perlengkapan sekolah kepada peserta didik PAUD, SD/MI, SMP/MTs dan SMA yang terkena dampak musibah angin puting beliung yang menerjang desa Mantangai Hulu, <TIMEX3 tid="t1" type="DATE" value="2019-08-29">pekan kemarin</TIMEX3>. 
+
+Plt Kadis Pendidikan Kabupaten Kapuas dihadapan ratusan Kepala TK/PAUD, SD, SMP, SMA se Kecamatan Mantangai, H. 
+
+Suwarno menyampaikan rasa empati dari Bapak Bupati Kapuas atas musibah angin puting beliung yang menerjang Desa Mantangai Hulu. 
+
+Kami datang kesini mewakili Bapak Bupati Kapuas untuk menyerahkan bantuan perlengkapan belajar berupa tas, buku, alat tulis dan seragam sekolah. 
+
+Ini dilakukan oleh Pemerintah Kabaupaten Kapuas sebagai wujud kepedulian kepada warganya, ucap Suwarno. 
+
+Pria yang juga Dosen pada salah satu PTS di Kapuas ini menambahkan, para guru untuk melaksanakan tugas mulianya yakni mengajar dengan penuh komitmen dan professional. 
+
+Ia juga mengajak para kepala sekolah dan guru senantiasa mensupport peserta didiknya agar semakin semangat belajarnya demi <TIMEX3 tid="t2" type="DATE" value="FUTURE_REF">masa depan</TIMEX3> yang lebih baik serta melestarikan alam sekitarnya. 
+
+Mari kita manfaatkan lahan pekarangan rumah dengan menanam tanaman penghasil sumber gizi, perindang sekaligus memperindah lingkungan. 
+
+Jika seluruh lahan kita tanami maka insyaallah kebakaran lahan dan hutan yang berdampak pada udara yang tercemar tidak akan terjadi, pungkas Suwarno. 
+
+disdik/hmskmf 
+</TEXT>
+
+</TimeML>

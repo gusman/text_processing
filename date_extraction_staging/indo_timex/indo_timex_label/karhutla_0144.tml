@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0144</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-11" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-11</TIMEX3></DCT>
+
+<TITLE>Dampak Karhutla Riau, Pekanbaru Dikepung Asap</TITLE>
+
+<TEXT>
+Setelah sempat berkurang <TIMEX3 tid="t1" type="DATE" value="PXD">beberapa hari lalu</TIMEX3>, kebakaran hutan dan lahan (Karhutla) di Provinsi Riau kembali bertambah. 
+
+Hingga <TIMEX3 tid="t2" type="DATE" value="2019-03-10">10 Maret 2019 kemarin</TIMEX3>, luas lahan yang terbakar menembus angka 1.686,4 hektare, bertambah 550,4 hektare sejak <TIMEX3 tid="t3" type="DATE" value="2019-02">akhir Februari 2019</TIMEX3> yang baru 1.136 hektare. 
+
+Akibatnya, kepulan asap mulai menyebar hingga ibukota provinsi, Kota Pekanbaru. 
+
+Asap mulai melanda warga, dari atas langit dengan menggunakan drone terlihat jelas asap mengepung Kota Pekanbaru, kata Koordinator Jaringan Kerja Penyelamat Hutan Riau (Jikalahari), Made Ali, dalam keterangannya seperti dilansir tempo. 
+
+co, <TIMEX3 tid="t4" type="DATE" value="2019-03-10">kemarin</TIMEX3>. 
+
+Menurut Made, data titik hotspot alias titik panas dalam <TIMEX3 tid="t5" type="DURATION" value="P1W">seminggu</TIMEX3> terakhir terus menunjukkan peningkatan dengan total 139 titik panas, dengan titik kepercayaan lebih dari 70 persen. 
+
+Dari total 139 titik panas ini, ada 63 titik yang berpotensi menjadi titik api. 
+
+Sebelumnya, Pelaksana Harian Kepala Badan Penanggulangan Bencana Daerah Riau Ahmadsyah Harrofie menyatakan lahan terbakar paling luas masih berada di Kabupaten Bengkalis. 
+
+Tim satgas udara <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terus berupaya melakukan pemadaman yang terjadi, kata Ahmadsyah, <TIMEX3 tid="t7" type="DATE" value="2019-03-09">Sabtu</TIMEX3>, <TIMEX3 tid="t8" type="DATE" value="2019-03-09">9 Maret 2019</TIMEX3>. 
+
+Untuk Bengkalis yang mengalami kebakaran hutan paling luas, terjadi di kecamatan Bantan, Rupat, Talang Mandau, dan Siak Kecil. 
+
+Sementara kabupaten yang masih mengalami kebakaran lahan dan hutan lain yaitu Dumai, Rokan Hilir, Bengkalis, Kepulauan Meranti, Pelalawan, Indragiri Hulu, Indragiri Hilir, dan Kampar. 
+
+Walau demikian, Made menyebut Indeks Standar Pencemaran Udara (ISPU) di Pekanbaru secara umum masih terpantau berada di level baik. 
+
+Data dari Badan Metereologi, Klimatologi, dan Geofisika (BMKG) menunjukkan ISPU masih berada di level baik untuk Dumai dan Pekanbaru areal Bandara Sultan Syarif Kasim II, Tenayan Raya dan Tampan. 
+
+Tapi, ISPU menunjukkan level sedang daerah seperti di Petapahan, Bangko Rohil, Libo, Minas dan Bengkalis Camp Duri. 
+
+Sedangkan kondisi udara di level Tidak Sehat ditunjukkan ISPU yang berada di Rumbai dan Bengkalis Duri Field. 
+
+Asisten Deputi III Kementerian Koordinator Bidang Perekonomian, Prabianto Mukti Wibowo menyatakan pemerintah <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terus melakukan upaya pencegahan agar kebakaran tidak meluas. 
+
+Kementeriannya sedang mengembangkan konsep pencegahan kebakaran hutan berbasis klaster. 
+
+Sasarannya yaitu untuk meningkatkan kesadaran dan kapasitas masyarakat rawan kebakaran hutan dan lahan, kata Prabianto Mukti Wibowo kepada Tempo, di Jakarta. 
+
+(tmp) 
+</TEXT>
+
+</TimeML>

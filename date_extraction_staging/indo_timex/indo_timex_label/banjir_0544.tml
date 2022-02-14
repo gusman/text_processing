@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0544</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-08" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-08</TIMEX3></DCT>
+
+<TITLE>Banjir Rendam 4 Kecamatan di Melawi</TITLE>
+
+<TEXT>
+Intensitas hujan cukup tinggi dalam <TIMEX3 tid="t1" type="DURATION" value="P3D">tiga hari</TIMEX3> terakhir, berdampak meluapnya Sungai Pinoh dan Sungai Melawi. 
+
+Kawasan dataran rendah di empat kecamatan, terutama tepian sungai <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> terendam. 
+
+Yakni Menukung, Ella Hilir, Pinoh Utara dan Nanga Pinoh. 
+
+Ibukota Kabupaten Melawi, Nanga Pinoh tidak luput dari banjir. 
+
+Sejumlah jalan sudah terendam, diantaranya Jalan M Nawawi di Desa Paal, Dusun Belian Permai Desa Paal, Jalan Kenanga Desa Paal. 
+
+Selain itu, Desa Tanjung Niaga, serta sejumlah titik di Desa Tanuung Lay. 
+
+Titik jalan yang terendam tersebut menjadi langganan banjir apabila curah hujan tinggi. 
+
+Biasanya selama <TIMEX3 tid="t3" type="DURATION" value="PXD">beberapa hari</TIMEX3> hingga membuat air sungai meluap. 
+
+Ajung, salah satu warga Jalan Kenanga, Nanga Pinoh mengatakan, Jalan Kenanga merupakan salah satu daerah dataran rendah yang rentan banjir. 
+
+Ini sudah <TIMEX3 tid="t4" type="DURATION" value="P2D">dua hari</TIMEX3> jalannya banjir. 
+
+Banjir yang terjadi <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sebenarnya sudah sering terjadi. 
+
+Ini memang menjadi langganan banjir, apabila hujan lebat selama <TIMEX3 tid="t6" type="DURATION" value="PXD">beberapa hari</TIMEX3>, ungkapnya, <TIMEX3 tid="t7" type="DATE" value="2019-03-07">Kamis (7/3)</TIMEX3>. 
+
+Bagi Ajung, banjir <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih dianggap biasa terjadi ketika intensitas hujan tinggi. 
+
+Sehingga belum begitu berdampak terhadap kehidupan masyarakat Nanga Pinoh. 
+
+Namun, sangat berdampak terhadap akses transportasi. 
+
+Iya, memang sejumlah jalan di Nanga Pinoh sudah tidak bisa dilalui karena banjir. 
+
+Kalau dipaksanakan, kendaraan bisa mogok, ucapnya. 
+
+Berbeda dengan Ajung, bagi warga Desa Tanjung Arak dan Kebebu, jika banjir sudah merendam sejumlah jalan di Nanga Pinoh, maka sudah memberikan dampak terhadap warga disana. 
+
+Terutama, perkebunan karet yang menjadi mata pencarian warga. 
+
+Seperti disampaikan warga Desa Dusun Sebaju, Desa Kebebu, Siyondi. 
+
+Ia mengatakan, apabila air sungai meluap hingga merendam sejumlah jalan di desa-desa di Nanga Pinoh, manandakan kondisi Desa Kebubu sudah semakin parah. 
+
+Terutama, akses jalan masuk ke Dusun Sebaju tidak bisa dilintasi, apabila tidak menggunakan perahu atau rakit. 
+
+Anak sekolah yang berangkat dari dusun menuju ke sekolah di jalan Nanga Pinoh-Ella kesulitan. 
+
+Terlebih lagi sumber penghidupan kami, seperti kebun karet. 
+
+Petani karet terpaksa harus libur, karena banyak kebun karet yang terendam banjir, paparnya. 
+
+Terpisah, Kepala Badan Penanggulangan Bencana Daerah (BPBD) Melawi, Syaparudin mengatakan, belum ada laporan kepada pihaknya terkait dampak banjir. 
+
+Dia berharap kepala desa menyampaikan informasi terkini mengenai situasi banjir dan dampaknya. 
+
+Belum ada lpaoran secara resmi kepada kita mengenai dampak banjir terhadap kehidupan dan penghidupan. 
+
+Namun kita terus monitor. 
+
+Kita berharap kepala desa bisa mendata warganya yang terkena banjir. 
+
+Karena secara prosedur, desa yang harus menyampaikan laporan tersebut, ucapnya. 
+
+Terpisah, Koordinator Taruna Siaga Bencana (Tagana) Melawi, Adang Wahyudi mengatakan, pihaknya <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> selalu stanby. 
+
+Mengingat tugas dan fungsi Tagana melakukan evakuasi, apabila adanya korban bencana. 
+
+Kita tetap stanby menunggu informasi terkini terkait dampak banjir. 
+
+Belum ada informasi terkait warga yang terkena dampak banir hingga mengancam kehidupan dan penghidupan. 
+
+<TIMEX3 tid="t10" type="DATE" value="2019-03-08">Hari ini</TIMEX3> (<TIMEX3 tid="t11" type="DATE" value="2019-03-07">kemarin</TIMEX3>, red) kondisi air naik, tapi belum begitu berdampak, pungkasnya. 
+
+Laporan: Dedi IrawanEditor: Yuni Kurniyanto 
+</TEXT>
+
+</TimeML>

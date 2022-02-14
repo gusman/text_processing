@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0656</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-02" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-02</TIMEX3></DCT>
+
+<TITLE>Indonesia Kirim Satgas ke Australia Bantu Kebakaran</TITLE>
+
+<TEXT>
+Panglima TNI Marsekal Hadi Tjahjanto mengatakan sudah seharusnya Indonesia memberikan bantuan pada Australia yang sedang tertimpa bencana kebakaran hutan dan lahan (karhutla). 
+
+Hal itu disampaikan Hadi saat menjadi Inspektur Upacara Pelepasan bantuan Satgas Garuda RI untuk mengatasi karhutla di Australia, di Lanud Halim Perdana Kusuma, Jakarta, <TIMEX3 tid="t1" type="DATE" value="2020-02-01">Sabtu (1/2/2020)</TIMEX3>. 
+
+" <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> telah terjadi kebakaran hutan dan lahan yang sangat besar di Australia dan telah berlangsung <TIMEX3 tid="t3" type="DURATION" value="PXM">beberapa bulan</TIMEX3>, " kata Hadi. 
+
+" Oleh karenanya, sudah selayaknya kita semua memberi bantuan kepada negara tetangga kita, Australia, " imbuh dia. 
+
+Hadi mengatakan, Australia adalah negara yang sering membantu Indonesia dalam menangani bencana. 
+
+Terlebih lagi, lanjut Hadi, Indonesia dan Australia melalui perjanjian Lombok <TIMEX3 tid="t4" type="DATE" value="2006">tahun 2006</TIMEX3> sudah sepakat untuk saling membantu jika terjadi bencana atau situasi darurat. 
+
+Sehingga sudah seharusnya Indonesia membantu Australia. 
+
+" Yang ditandatangani Indonesia dan Australia pada <TIMEX3 tid="t5" type="DATE" value="2006">tahun 2006</TIMEX3> menyebutkan kerja sama dan saling memberi bantuan bila dibutuhkan saat terjadi bencana ataupun situasi kedaruratan, " ungkapnya. 
+
+Diketahui, Satgas Garuda RI terdiri 44 orang. 
+
+Personel TNI sebanyak 41 orang terdiri dari tiga orang Tim LO berasal dari Angkatan Udara (AD) dan satu dari Angkatan Udara (AU). 
+
+Kemudian Tim Zeni Konstruksi 36 orang dengan rincian 26 orang TNI AD (menzikon), enam orang TNI AL (yonmar) dan empat orang TNI AU (disfaksonau). 
+
+Selain TNI, ada juga satu orang berasal dari Kementerian Luar Negeri dan dua orang dari BNPB. 
+
+Sehingga total menjadi 44 orang. 
+
+Hadi menjelaskan nantinya para personel TNI bertugas membantu rural fire service atau layanan pemadaman kebakaran pada lapis kedua. 
+
+Kemudian, membuka dan membersihkan akses ke pemukiman warga dan jalur-jalur lainnya dengan wilayah operasi radius yang aman berkisar <TIMEX3 tid="t6" type="DATE" value="2019-10-05">5-10</TIMEX3> kilometer di Distrik Eden, NSW. 
+
+Wakil Menteri Pertahanan (Wamenhan) Sakti Wahyu Trenggono menyebut, rencana TNI mengirimkan pasukan bantuan kemanusiaan ke Australia dalam menangani kebakaran hutan dan lahan merupakan panggilan meringankan beban negara sahabat. 
+
+" Dalam rangka menjaga hubungan baik dengan Australia, menunjukkan kepedulian sebagai negara yang bersahabat, maka TNI merasa terpanggil membantu meringankan beban yang dialami oleh negara Australia, " Wahyu di Kompleks Parlemen, Senayan, yang dikutip dari Kemhan. 
+
+go.id, <TIMEX3 tid="t7" type="DATE" value="2020-01-30">Kamis (30/1/2020)</TIMEX3>.Wahyu mengatakan, sebagai negara yang bersahabat, Indonesia-Australia saling membantu diberbagai bidang, baik di sektor ekonomi, pendidikan, maupun kebudayaan. 
+
+Oleh karena itu, pihaknya mendukung penuh langkah TNI dengan menyiapkan payung hukum berupa rancangan keputusan presiden (keppres) untuk dapat segera diterbitkan. 
+
+(kompas.com) 
+</TEXT>
+
+</TimeML>

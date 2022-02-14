@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0584</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-04-04" temporalFunction="false" functionInDocument="CREATION_TIME">2018-04-04</TIMEX3></DCT>
+
+<TITLE>Heboh Air Keluar dari Batang Pohon Berusia 500 Tahun yang Tumbang, Begini Kata Saksi Mata</TITLE>
+
+<TEXT>
+Kabar tentang pohon berusia <TIMEX3 tid="t1" type="DATE" value="P500Y">sekitar 500 tahun</TIMEX3> yang tumbang dan mengeluarkan air di Kelurahan Kotawaringin Hulu, Kecamatan Kotawaringin Lama, Kobar, Kalteng, sempat membuat warga setempat heboh. 
+
+Selain dianggap sebagai peristiwa langka, kejadian ini juga dinilai sebagai sebuah keistimewaan. 
+
+Apalagi dalam cerita tutur masyarakat setempat, pohon yang disebut sebagai pohon kedondong itu telah hidup sejak zaman Kiai Gede mulai menyebarkan agama Islam di sana. 
+
+. 
+
+Tapi bisa jadi, itu disebabkan batang pohon memiliki rongga yang menjadi tempat air tertampung, " ujar Muhammad Husein Naparin kepada Tribunkalteng. 
+
+com, <TIMEX3 tid="t2" type="DATE" value="2018-04-04">Rabu (4/4/2018)</TIMEX3>. 
+
+Warga Kelurahan Kotawaringin Hulu ini juga sempat mengabadikan air yang keluar dari batang pohon melalui video di kamera ponselnya. 
+
+Dia menyebut, tumbangnya pohon terjadi pada <TIMEX3 tid="t3" type="DATE" value="2018-04-02">Senin (2/4/2018)</TIMEX3> sekitar <TIMEX3 tid="t4" type="TIME" value="2018-04-03T14:00">pukul 14.00 WIB</TIMEX3> saat terjadi angin kencang disertai hujan. 
+
+. 
+
+" Kalau curahan airnya berlangsung <TIMEX3 tid="t5" type="DURATION" value="PT1M">sekitar satu menit</TIMEX3>. 
+
+Kami hanya sempat mencuci tangan dari air itu, " terang Husein. 
+
+Jarang Berbuah // Warga setempat selama ini menyebut pohon itu sebagai pohon kedondong. 
+
+Disebut begitu, karena buahnya mirip kedondong, meski secara fisik bukan seperti pohon kedondong yang selama ini dikenal. 
+
+Menurut Husein yang telah menetap di Kotawaringin Hulu sejak <TIMEX3 tid="t6" type="DATE" value="1997">1997</TIMEX3>, perbedaan buah dari pohon berusia <TIMEX3 tid="t7" type="DATE" value="UNKNOWN">sekitar 500 tahun itu</TIMEX3> terlihat pada biji. 
+
+. 
+
+Pohon ini juga tidak rutin berbuah seperti buah kedondong yang tidak mengenal musim. 
+
+Bahkan bisa dikatakan, buahnya juga tidak mesti muncul sekal dalam <TIMEX3 tid="t8" type="DURATION" value="P1Y">setahun</TIMEX3>. 
+
+" Jika berbuah, paling jumlahnya hanya sekitar 10 buah. 
+
+Memang tidak banyak(TRIBUNKALTENG. 
+
+COM/mustain khaitami) 
+</TEXT>
+
+</TimeML>

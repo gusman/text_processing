@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1038</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-12" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-12</TIMEX3></DCT>
+
+<TITLE>Suyuti Tinjau Lokasi Banjir dan Pantau Kondisi Warga</TITLE>
+
+<TEXT>
+Anggota Dewan Perwakilan Raykat Daerah (DPRD) Kota Parepare, Suyuti (SYT), turun langsung meninjau salah satu titik lokasi banjir, di Kelurahan Lumpue, Kecamatan Bacukiki Barat, <TIMEX3 tid="t1" type="DATE" value="2020-01-12">Minggu (12/01/2020)</TIMEX3>. 
+
+Suyuti mengatakan, bersama rombongan pihaknya memantau dan memastikan kondisi warga tetap aman, yang bermukim di RW 7 dan 8. 
+
+Jadi, air sudah naik hingga di atas lutut orang dewasa. 
+
+Karena memang hujan terus mengguyur Parepare dari <TIMEX3 tid="t2" type="TIME" value="2020-01-12TMO">pagi</TIMEX3> hingga <TIMEX3 tid="t3" type="TIME" value="2020-01-11TAF">sore tadi</TIMEX3>. 
+
+Bahkan, <TIMEX3 tid="t4" type="TIME" value="2020-01-11">kemarin malam</TIMEX3> juga hujan turun dengan intensitas yang tinggi, katanya. 
+
+Legislator Partai NasDem tersebut mengungkapkan, adapun rumah yang terendam banjir mencapai ratusan. 
+
+Karena, kata dia, di wilayah tersebut termasuk kawasan padat penduduk. 
+
+Kita berharap dan berdoa semoga situasi dan kondisi kembali normal, sehingga kita dapat kembali beraktivitas seperti sedia <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">kala</TIMEX3>. 
+
+Warga juga diharapkan untuk tetap waspada hingga <TIMEX3 tid="t6" type="DURATION" value="PXD">beberapa hari ke depan</TIMEX3>, tutup Anggota Komisi II ini. 
+
+
+</TEXT>
+
+</TimeML>

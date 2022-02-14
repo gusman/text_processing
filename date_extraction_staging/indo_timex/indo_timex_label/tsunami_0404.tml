@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0404</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>BNPB : 1 Tewas dan 11 Luka-luka Akibat Gelombang TInggi di Anyer</TITLE>
+
+<TEXT>
+Kepala Pusat Data, Informasi, dan Hubungan Masyarakat Badan Nasional Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho mengungkapkan ada korban dalam peristiwa gelombang tinggi yang menyisir pantai di sekitar Pandeglang, Banten, pada <TIMEX3 tid="t1" type="TIME" value="2018-12-22TNI">Sabtu (22/12/2018) malam</TIMEX3>. 
+
+Pada <TIMEX3 tid="t2" type="DATE" value="2018-12-23">Minggu (23/12/2018) ini</TIMEX3>, BNPB merilis data korban sebanyak 1 orang tewas dan 11 orang terluka. 
+
+" Korban luka dirawat di rumah sakit, " ucap Sutopo seperti yang dia tuliskan dalam akun Twitter pribadinya, <TIMEX3 tid="t3" type="DATE" value="2018-12-23">Minggu</TIMEX3> dini hari. 
+
+Sutopo meminta masyarakat untuk tetap tenang dan tidak terpancing isu yang menyesatkan. 
+
+" Tidak ada tsunami, " kata dia. 
+
+
+</TEXT>
+
+</TimeML>

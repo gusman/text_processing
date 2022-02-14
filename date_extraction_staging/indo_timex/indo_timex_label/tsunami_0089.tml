@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0089</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Gempa Palu - Mayat Berserakan dan Mengapung di Pantai hingga Kapal Melintang di Tengah Jalan</TITLE>
+
+<TEXT>
+Saksi mata menyebut banyak korban meninggal dunia di Pantai Talise, Kota Palu setelah tsunami menerjangkawasan ini, <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Menurut Nining (32) saksi mata warga Kelurahan Lolu Utara, <TIMEX3 tid="t2" type="TIME" value="2018-09-29TMO">pagi ini</TIMEX3> dia sempat ke Talise Palu untuk melihat kondisi pasca-gempa dan tsunami. 
+
+Banyak mayat berserakan di pantai dan mengambang di permukaan laut, kata Nining saat dihubungi Kompas. 
+
+com di lokasipengungsian gedung DPRD Kota Palu, <TIMEX3 tid="t3" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3>. 
+
+Menurut dia, kondisi korban meninggal dunia sangat memprihantinkan. 
+
+Jenazah dilaporkan bercampur dengan puing-puing material yang beserakan. 
+
+Kerusakan di kawasan pantai Talise juga dilaporkan sangat parah. 
+
+Nining menyebut jalan raya yang memilki 2 lajur <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> sebagian sudah lenyap di terjang gelombang tsunami. 
+
+// Hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada laporan resmi yang dirilis otoritas terkait mengenai kerusakan maupun jumlah korban akibat tsunamiyang terjadi di Palu dan Donggala. 
+
+" Jalan raya hanya menyisakan sebagian, sebagian lainnya hancur, " kata Nining. 
+
+Sebelumnya, Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memastikan bahwa gempa dan tsunami yang terjadi di Paludan Donggala bersumber dari sesar Palu Koro. 
+
+" Disebabkan oleh sesar Palu Koro yang berada di sekitar Selat Makassar, " kata Rahmat Triyono, Kepala Pusat Gempa Bumi danTsunami BMKG dalam konferensi pers <TIMEX3 tid="t6" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Rahmat menuturkan bahwa gempa utama adalah yang bermagnitudo 7,4 (sebelumnya 7,7 dan telah direvisi), terjadi pada pukul17.02 <TIMEX3 tid="t7" type="TIME" value="UNKNOWN">WIB</TIMEX3>. 
+
+Tsunami diprediksi tiba <TIMEX3 tid="t8" type="TIME" value="2018-09-29T00:20:00">20 menit kemudian</TIMEX3>. 
+
+// BMKG mengungkapkan, peringatan dini tsunami sempat dicabut setelah air surut. 
+
+Hingga <TIMEX3 tid="t9" type="TIME" value="2018-09-28T20:00">pukul 20.00 WIB tadi</TIMEX3>, tercatat ada 22 gempa susulan. 
+
+Gempa sebelum 7,7 disebut dengan gempa pendahulu dan sesudahnya disebut susulan. 
+
+Sejarah mencatat, sebagian besar gempa di wilayah Sulawesi Tengah disebabkan oleh sesar Palu Koro. 
+
+Wilayah sekitar Palu juga pernah dilanda tsunami sebelumnya akibat sesar itu. 
+
+Kapal melintangKepala Stasiun Geofisika Kota Palu, Cahyo Nugroho, belum bisa memastikan korban jiwa akibat tsunami di Kota Palu. 
+
+Hal itu dikarenakan jaringan komunikasi yang terputus akibat gempa. 
+
+Namun, lanjut dia, tsunami menyebabkan sebuah kapal melintang di tengah jalan, yang berlokasi di Kecamatan Mamboro, KotaPalu. 
+
+// " Belum ada yang jalan keluar. 
+
+Komunikasi pun terputus akibat gempa. 
+
+Efek tsunami sementara ini berdasarkan hasil observasikami itu ada sebuah kapal yang melintang di tengah jalan, " ungkap Cahyo, di ruang mini gedung C, Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), Jakarta Pusat, <TIMEX3 tid="t10" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Selain itu, tsunami disebutnya juga menyebabkan Jembatan Vatulemo di Kota Palu terputus. 
+
+" Jembatan tadi saya baru dapat gambar saja, bukan hasil observasi kami. 
+
+Belum tahu sumbernya dari mana. 
+
+Untuk sementaragambar seperti itu kan sulit direkayasa, jadi kami pastikan itu betul terjadi. 
+
+Tapi, sumbernya belum dikonfirmasi, " tambah Cahyo. 
+
+Diberitakan sebelumnya, gempa dengan kekuatan magnitudo 7,7 melanda wilayah Donggala, Sulawesi Tengah. 
+
+Gempa berkedalaman 10 kilometer, berpusat di 0,18 LS dan 119,85 BT atau 27 kilometer Timur Laut Donggala-Sulawesi Tengah. 
+
+Gempa tersebut diakibatkan aktivitas sesar geser Palu-Koro. 
+
+Akibat gempat tersebut, gelombang tsunami terjadi di Pantai Palu dengan ketinggian 0,5 sampai 1,5 meter, pantai Donggalakurang dari 50 sentimeter, dan Pantai Mamuju dengan ketinggian 6 sentimeter. 
+
+Tsunami diperkirakan sampai ke daratan pada <TIMEX3 tid="t11" type="TIME" value="2018-09-28T17:22">pukul 17.22 WIB</TIMEX3> atau <TIMEX3 tid="t12" type="TIME" value="2018-09-28T18:22">18.22 WITA</TIMEX3>.Peringatan tsunami telah diakhiri pada <TIMEX3 tid="t13" type="TIME" value="2018-09-28T17:36:12">pukul 17.36.12 WIB</TIMEX3> atau <TIMEX3 tid="t14" type="TIME" value="2018-09-28T18:36:12">18.36.12 WITA</TIMEX3>, dengan pertimbangan air naik semakin surut danpengamatan saksi mata salah satunya staf BMKG di Kota Palu. 
+</TEXT>
+
+</TimeML>

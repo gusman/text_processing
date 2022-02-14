@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0140</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-04" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-04</TIMEX3></DCT>
+
+<TITLE>Petani Tanjung Anom Terancam Kekeringan</TITLE>
+
+<TEXT>
+Pasokan air di sejumlah wilayah Kabupaten Tangerang semakin langka menyusul semakin meluasnya kekeringan dampak kemarau panjang. 
+
+Warga di daerah yang mengalami krisis air membutuhkan pasokan air untuk menyelamatkan lahan pertanian para petani dan keberlangsungan hidup warga di daerah yang mengalami krisis air. 
+
+Hal tersebut dirasakan petani yang tergabung dengan kelompok tani (Poktan) Buaran Asem Tengah, Desa Tanjung Anom, Kecamatan Mauk, mengelola lahan persawahan padi seluas 37 hektare. 
+
+Muhamad Syafei, Ketua Poktan mengaku lahan persawahan padi yang dikelola mereka terancam kekeringan. 
+
+Pasalnya, <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> para pertani mulai kekurangan air dari sungai. 
+
+Di tambah lagi, <TIMEX3 tid="t2" type="DATE" value="2019-SU">musim kemarau</TIMEX3> yang berkepanjangan. 
+
+Padahal, kalau turun hujan sekali dalam <TIMEX3 tid="t3" type="DURATION" value="P1W">sepekan</TIMEX3>, kami masih terbantu untuk mengairi sawah, walaupun sedang kekurangan air dari sungai selama <TIMEX3 tid="t4" type="DATE" value="UNKNOWN">dua bulan ini</TIMEX3>, kata Syafei, sambil menunjukan saluran air yang nyaris kering, kepada Tangerang Ekspres, di Kampung Buaran Asem, Desa Tanjung Anom, <TIMEX3 tid="t5" type="DATE" value="2019-07-03">Rabu (3/7)</TIMEX3>. 
+
+Syafei mengungkapkan, lahan persawahan padi seluas 37 Hektare, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> hanya sekitar seluas 20 hektre yang masih dapat ditanamkan padi. 
+
+Itupun, jelasnya, harus berbagi air dengan poktan lain. 
+
+Menurut Syafei, selama <TIMEX3 tid="t7" type="SET" value="UNKNOWN">beberapa hari sekali</TIMEX3>, pihaknya baru bisa menerima jatah air sungai. 
+
+Sebab, saluran air dibendung petani lain, untuk mengairi sawah mereka juga, jelasnya. 
+
+Dikatakan Syafei, jika kekurangan air sungai terus-menerus, ia berencana tidak menanam padi pada musim tanam <TIMEX3 tid="t8" type="DATE" value="2018-10">Oktober</TIMEX3>, <TIMEX3 tid="t9" type="DATE" value="2019-03">Maret</TIMEX3> atau disingkat Okma. 
+
+Tapi, ia berharap hujan dapat turun mulai <TIMEX3 tid="t10" type="DATE" value="2019-08">Agustus mendatang</TIMEX3>. 
+
+Jadi, kami dapat bertani dengan tenang, tidak khawatir kekeringan, ucapnya. 
+
+Sementara itu, Sukandar, Penyuluh pada Balai Penyuluhan Pertanian (BPP) Tegal Kunir, Kecamatan Mauk, mengakui para petani di Desa Tanjung Anom, terancam kekeringan. 
+
+<TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, ungkapnya, dari lahan persawahan di desa tersebut seluas 216 hektare, hanya sekitar 170 hektare, yang dapat ditanam padi. 
+
+Sisanya tidak ditanami padi, jelasnya. 
+
+Sukandar menyebutkan kondisi saluran air tersier Sungai Cisadane belum dapat memenuhi kebutuhan air ke seluruh lahan persawahan padi secara serempak. 
+
+Penyebabnya, kata Sukandar, kondisi infrastruktur saluran air. 
+
+Yakni akibat pendangkalan dan kondisi turap saluran air yang banyak rusak, pungkasnya. 
+
+(zky/mas) 
+</TEXT>
+
+</TimeML>

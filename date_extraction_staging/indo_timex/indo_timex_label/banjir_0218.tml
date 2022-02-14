@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0218</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-03-11" temporalFunction="false" functionInDocument="CREATION_TIME">2018-03-11</TIMEX3></DCT>
+
+<TITLE>Air Rendam Rumah Warga di Bangka Barat, Pangkalpinang Aman</TITLE>
+
+<TEXT>
+Hujan deras mengguyur sejumlah wilayah di Pulau Bangka, sejak <TIMEX3 tid="t1" type="DATE" value="2018-03-10">Sabtu (10/3/2018)</TIMEX3> hingga <TIMEX3 tid="t2" type="TIME" value="2018-03-11">Minggu (11/3/2018) pagi</TIMEX3>. 
+
+Badan Penanggulangan Bencana Daerah (BPBD) Provinsi Kepulauan Bangka Belitung mendeteksi ada dua wilayah yang terkena banjir yaitu Kabupaten Bangka Barat dan Bangka Tengah. 
+
+Laporan yang masuk, beberapa wilayah di Bangka Tengah tergenang air terutama akses jalan. 
+
+Sedangkan di beberapa tempat di Bangka Barat, banjir merendam sejumlah rumah di permukiman. 
+
+" Untuk di wilayah Bangka Barat air sudah masuk ke rumah penduduk, " jelas Mikron Antariksa Kepala Pelaksana Harian Kantor BPBD Bangka Belitung saat dihubungi, <TIMEX3 tid="t3" type="DATE" value="2018-03-11">Minggu (11/3/2018)</TIMEX3>. 
+
+Mikron mengatakan banjir menggenangi Kelurahan Tanjung, Air Putih, Pa 3, Air Belo dan sekitar pasar di Kabupaten Bangka Barat. 
+
+Mengantisipasi hal-hal yang tak diinginkan, pihak BPBD provinsi sudah berkoordinasi dengan BPBD daerah untuk melakukan evakuasi korban banjir. 
+
+" Untuk BPBD Bangka Barat sudah mengevakuasi masyarakat dari rumah yang tergenang air, ke tempat lokasi yang aman, " ungkapnya. " Bahkan dari Tagana, Dinas Sosial dan BPBD sudah mendirikan dua tenda pengungsi, " tambahnya.Sementara itu kata Mikron untuk di wilayah Nibung Bangka Tengah BPBD hanya membantu mengatur arus lalu lintas, agar pengendara yang melintas tetap tertib dan lancar. 
+
+// Standby di PoskoDalam hal penanggulangan bencana, Mikron menjelaskan BPBD sudah berkoordinasi bersama sejumlah pihak terkait. 
+
+Di antaranya dengan SAR Pangkalpinang, Dinas Sosial dan Satpol PP Provinsi Kepulauan Bangka Belitung, serta bersama relawan dan organisasi radio. 
+
+" <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> standby di posko untuk menjaga dan melihat situasi hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> hujan mulai reda, tapi tetap siaga, " jelas Mikron. 
+
+Khusus untuk wilayah Pangkalpinang, kondisi air masih terkategori stabil dan belum ada laporan soal banjir. 
+
+" Air dari atas sudah bisa sampai mengalir ke laut, " ujarnya. 
+
+Waspada BanjirKepala Badan Penanggulangan Bencana Daerah (BPBD) Provinsi Kepulauan Bangka Mikron Antariksa menyebutkan untuk Pangkalpinang masih berstatus waspada banjir. 
+
+" Pangkalpinang tinggi air memang tinggi, namun masih relatif aman di beberapa titik yang langganan genangan, " kata Mikron melalui pesan WhatsApp, <TIMEX3 tid="t6" type="DATE" value="2018-03-11">Minggu (11/3/2018)</TIMEX3>. 
+
+Mikron menyebutkan pihaknya, memantau beberapa titik banjir di beberapa kabupaten. 
+
+Beberapa tim sudah dikerahkan di lokasi. 
+
+// " Bangka Tengah, Bangka Barat, dan Pangkalpinang kami waspada, " ujarnya. 
+
+Mikron meminta masyarakat tetap siaga mengingat hujan diprediksikan akan terus terjadi hingga <TIMEX3 tid="t7" type="TIME" value="2018-03-11TAF">sore nanti</TIMEX3>. 
+
+" Tetap siaga karena peringatan dini dari BKMG hujan masih berlangsung sampai <TIMEX3 tid="t8" type="TIME" value="2018-03-10TAF">sore</TIMEX3>, dan mengamankan diri dan harta benda yang berharga, " pesannya. 
+
+Hujan MerataKepala Seksi Data dan Informasi Stasiun Meteorologi kelas 1 Pangkalpinang Kurniaji mendapatkan informasi dari Observer Meteorologi kelas 1 Pangkalpinang bahwa hujan melanda hampir seluruh wilayah di Pulau Bangka. 
+
+Di antaranya, Bangka Barat, Bangka Selatan, Bangka, Bangka Tengah dan Pangkalpinang. 
+
+Terakhir pengukuran hujan dilakukan pada <TIMEX3 tid="t9" type="TIME" value="2018-03-10T07:00">pukul 07.00 WIB</TIMEX3>, <TIMEX3 tid="t10" type="DATE" value="2018-03-11">Minggu (11/3/2018)</TIMEX3> tercatat 84,4 mm. 
+
+Untuk <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">sekarang ini</TIMEX3>, menurut Kurniaji, pos hujan Muntok mencatat 257.5mm, Kundi 124.5mm, Lubuk Besar tercatat 93.4 mm. 
+
+" Bangka Selatan dan Bangka Tengah terpantau hujan intensitas ringan. 
+
+Begitupula Kabupaten Bangka berdasarkan informasi dari beberapa pengamat pos hujan juga terpantau hujan ringan, " ungkapnya. 
+
+Pangkalpinang Aman // Meskipun diguyur hujan sejak tadi <TIMEX3 tid="t12" type="TIME" value="2018-03-10TNI">malam</TIMEX3>, namun kota Pangkalpinang masih aman dan bebas dari banjir. 
+
+Pantauan posbelitung. 
+
+co/bangkapos. 
+
+com (Bangka Pos Group), <TIMEX3 tid="t13" type="TIME" value="2018-03-04T08:00">Minggu pukul 08.00 WIB</TIMEX3>, sejumlah akses jalan di sejumlah titik yang menjadi langganan banjir masih normal dan bisa dilalui. 
+
+Seperti, Kawasan Pasar <TIMEX3 tid="t14" type="TIME" value="2018-03-11TMO">Pagi</TIMEX3> A Yani, Jalan Balai dan Kelurahan Rawa Bangun dipastikan aman dan bebas dari banjir. 
+
+Hanya saja, ada sampah yang terlihat di jalanan kemungkinan terikut dorongan arus air. 
+
+Sejumlah kendaraan baik roda dua dan empat, terlihat lalu lalang di sekitar kawasan tersebut. 
+
+Soleh, warga sekitar SPBU A Yani Pangkalpinang mengatakan, tadi <TIMEX3 tid="t15" type="TIME" value="2018-03-11TMO">subuh</TIMEX3> ruas jalan sekitar SPBU sempat tergenang air, namun tidak berlangsung lama. 
+
+Sejak <TIMEX3 tid="t16" type="TIME" value="2018-03-10T07:00">pukul 07.00 WIB tadi pagi</TIMEX3>, genangan air berangsur surut. 
+
+(*) 
+</TEXT>
+
+</TimeML>

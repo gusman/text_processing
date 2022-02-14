@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0281</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-17" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-17</TIMEX3></DCT>
+
+<TITLE>Gorontalo Darurat Kekeringan</TITLE>
+
+<TEXT>
+Tak hanya masalah kekurangan air bersih, <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau</TIMEX3> yang melanda seluruh wilayah Gorontalo, membuat masyarakat Gorontalo menghadapi ancaman gagal panen pertanian. 
+
+Ditaksir ada 330 hektar sawah dan 1.850 hektar lahan jagung yang terdampak. 
+
+Untuk itu, Pemerintah Provinsi Gorontalo, telah menetapkan status siaga darurat kekeringan. 
+
+Penetapan status tersebut, diawali dengan Rapat Koordinasi Penanggulangan Bencana Kekeringan, yang dipimpin oleh Gubernur Gorontalo Rusli Habibie didampingi Danrem, <TIMEX3 tid="t2" type="DATE" value="2019-09-16">Senin (16/9)</TIMEX3> di aula rujab gubernur. 
+
+Hasil konfirmasi kami Bapak Gubernur, <TIMEX3 tid="t3" type="DATE" value="2019-09-17">hari ini</TIMEX3> juga sedang berlangsung rapat di Kabupaten Gorontalo Utara dan Kabupaten Pohuwato yang juga menetapkan status siaga darurat, ungkap Kepala Pelaksana BPBD Provinsi Gorontalo, Sumarwoto. 
+
+Dari data sementara yang terhimpun di BPBD bahwa jumlah korban dampak kekeringan sebanyak 32.624 jiwa tersebar di 16 kecamatan di tiga kabupaten, yakni Kabgor, Bone Bolango dan Boalemo. 
+
+Warga di daerah tersebut kesulitan mengakses air bersih. 
+
+Ada juga laporan kebakaran lahan dan rumah yang sudah mencapai 105 kejadian. 
+
+Untuk merespon status darurat kekeringan, Gubernur Gorontalo Rusli Habibie, menginstruksikan tiga hal kepada Sekretaris Daerah dan instansi teknis kabupaten/kota. 
+
+Pertama memetakan dampak kekeringan hingga ke tingkat dusun, kedua menyusun anggaran untuk intervensi berbagai bantuan dan ketiga segera menyiapkan Peraturan Gubernur untuk menindak tegas pelaku pembakaran lahan. 
+
+Apapun yang diputuskan <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> komitmen kita segera ditindaklanjuti. 
+
+Saya tidak mau setelah dari sini mau dirapatkan-rapatkan lagi. 
+
+Apapun keputusan kita demi rakyat dalam rangka menghadapi kekeringan <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> segera kita kerjakan, tegasnya. 
+
+(mey-25) 
+</TEXT>
+
+</TimeML>

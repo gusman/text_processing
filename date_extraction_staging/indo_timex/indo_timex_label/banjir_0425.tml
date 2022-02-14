@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0425</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-18" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-18</TIMEX3></DCT>
+
+<TITLE>Terendam Banjir 1,5 Meter, Warga Kebon Pala Pastikan Bukan Kiriman</TITLE>
+
+<TEXT>
+WARGA Kebon Pala, Kampung Melayu, Jakarta Timur, kebanjiran akibat hujan deras yang mengguyur kawasan Jakarta sejak <TIMEX3 tid="t1" type="TIME" value="2020-01-17TNI">Jumat (17/1/2020) malam</TIMEX3>. 
+
+Seorang warga bernama Sanusi (54) mengatakan, air mulai merangkak ke permukiman warga sekira <TIMEX3 tid="t2" type="TIME" value="2020-01-17T05:30">pukul 05.30 WIB</TIMEX3>. 
+
+" Dari <TIMEX3 tid="t3" type="TIME" value="2020-01-18TMO">subuh</TIMEX3> sudah mulai naik ke jalan, kalau sudah begitu air cepat masuk rumah, " ungkapnya di lokasi, <TIMEX3 tid="t4" type="DATE" value="2020-01-18">Sabtu (18/1/2020)</TIMEX3>. 
+
+. 
+
+Hingga, mencapai titik tertinggi kurang lebih satu setengah meter. 
+
+" Ya ini faktornya karena enggak berhenti-berhenti. 
+
+". 
+
+Satu setengah meter tadi, " ungkap Sanusi. 
+
+Warga lain bernama Suhendar (51) menyatakan, banjir <TIMEX3 tid="t5" type="TIME" value="2020-01-17TMO">pagi tadi</TIMEX3> disebabkan curah hujan tinggi di Jakarta. 
+
+" Ini bukan kiriman sih, kalau kiriman kan ada peringatannya dari RT dan RW. 
+
+". 
+
+// Pantauan di lokasi, para warga mulai membersihkan sisa-sisa banjir meski genangan lambat surut. 
+
+Hujan telah berhenti sejak <TIMEX3 tid="t6" type="TIME" value="2020-01-17T13:00">pukul 13.00 WIB siang tadi</TIMEX3>. 
+
+. 
+
+Tak ada warga yang mengungsi akibat banjir yang terjadi pada <TIMEX3 tid="t7" type="TIME" value="2020-01-17TMO">pagi tadi</TIMEX3>. 
+
+Sebelumnya Wartakotalive memberitakan, banjir pada <TIMEX3 tid="t8" type="DATE" value="2020-01-01">1 Januari 2020</TIMEX3> di Jakarta bukanlah banjir kiriman atau banjir besar. 
+
+. 
+
+Pengamat tata kota Nirwono Joga mengatakan, ada 4 tipe banjir yang kerap melanda Ibu Kota Jakarta. 
+
+. 
+
+Kedua, banjir hujan lebat, yakni karena volume dan curah hujan berlebih di Ibu kota. 
+
+Ketiga, banjir rob di mana air laut naik karena beberapa penyebab faktor alam, misalnya bulan purnama. 
+
+// Terakhir, banjir besar di mana ketiga unsur tersebut tergabung menjadi satu dan biasa terjadi dalam siklus <TIMEX3 tid="t9" type="SET" value="UNKNOWN">5 tahun sekali</TIMEX3>. 
+
+" Tapi kalau yang <TIMEX3 tid="t10" type="DATE" value="UNKNOWN">kemarin itu</TIMEX3> bukan banjir kiriman, itu banjir karena curah hujan tinggi, kenapa banjir? " " Karena dua faktor, penyempitan sungai dan buruknya drainase, " ujar Nirwono saat diskusi di Populi Center, Kemanggisan, Jakarta Barat, <TIMEX3 tid="t11" type="DATE" value="2020-01-15">Rabu (15/1/2020)</TIMEX3>. 
+
+. 
+
+Ia menduga satu di antara penyebab dari banjir <TIMEX3 tid="t12" type="DATE" value="2019-01">1 Januari lalu</TIMEX3> ialah karena normalisasi beberapa sungai di Jakarta yang belum rampung. 
+
+Misalnya saja Sungai Ciliwung, Sungai Angke, dan Sungai Pesanggrahan. 
+
+. 
+
+Oleh karenanya, kata Nirwono, DKI Jakarta perlu menormalisasi sungai yang mengalami penyempitan. 
+
+Menurutnya, normalisasi sungai bukan pilihan, namun keharusan. 
+
+. 
+
+" // " Tapi suka tidak suka, Pak Gubernur harus lakukan cara tersebut kalau mau Jakarta tidak alami hal serupa di <TIMEX3 tid="t13" type="DATE" value="2021-01-18">tahun depan</TIMEX3>, " papar Nirwono. 
+
+Sebelumnya, Gubernur DKI Jakarta Anies Baswedan menyebut penyebab banjir di wilayahnya adalah kiriman air dari daerah lain. 
+
+Ia bahkan sempat beradu argumen dengan Menteri PUPR Basuki Hadimuljono, soal penyebab banjir di Jakarta seusai diguyur hujan deras pada <TIMEX3 tid="t14" type="TIME" value="2020-01-17TNI">malam</TIMEX3> pergantian <TIMEX3 tid="t15" type="DATE" value="2020">tahun 2020</TIMEX3>. 
+
+. 
+
+Basuki menilai banjir terjadi akibat luapan air sungai. 
+
+Dari 33 kilometer Kali Ciliwung, baru 16 kilometer yang dinormalisasi. 
+
+. 
+
+" Mohon maaf Bapak Gubernur, selama penyusuran Kali Ciliwung, ternyata sepanjang 33 kilometer itu yang sudah ditangani, dinormalisasi 16 kilometer. 
+
+" " Di 16 kilometer itu kita lihat insyaallah aman dari luapan, " kata Basuki di Monas, <TIMEX3 tid="t16" type="DATE" value="2020-01-01">Rabu (1/1/2020)</TIMEX3>. 
+
+. 
+
+Termasuk, Kali Pesanggrahan yang menuju Banjir Kanal Timur. 
+
+Pihaknya, kata Basuki, sedang menunggu kesepakatan dengan masyarakat untuk pembebasan lahan yang akan terdampak normalisasi sungai. 
+
+. " " Alhamdulillah menurut beliau masyarakat sudah diskusi dan insyaallah masyarakat bisa menerima itu, mudah-mudahan bisa kita tangani, " tuturnya.Mendengar pernyataan tersebut, Anies Baswedan yang berada di sebelah Basuki lalu menyanggahnya. 
+
+. " Mohon maaf Pak Menteri, saya harus berpandangan karena tadi bapak menyampaikan. " " Jadi, selama air dibiarkan dari selatan masuk ke Jakarta dan tidak ada pengendalian dari selatan. ".Anies Baswedan mencontohkan wilayah Kampung Melayu yang tetap dilanda banjir pada <TIMEX3 tid="t17" type="DATE" value="2019-03">Maret lalu</TIMEX3>, padahal sungai yang ada di sekitarnya sudah dinormalisasi. " Artinya kuncinya itu ada pada pengendalian air sebelum masuk pada kawasan pesisir, " urainya. 
+
+.Kementerian PUPR membangun Bendungan Sukamahi dan Bendungan Ciawi di Megamendung, Bogor, Jawa Barat.Dua bendungan tersebut diprediksi akan rampung pada <TIMEX3 tid="t18" type="DATE" value="2020">2020</TIMEX3>. 
+
+. " " Kalau bisa dikendalikan, insyaallah bisa dikendalikan. " " Tapi selama kita membiarkan air mengalir begitu saja, selebar apa pun sungainya, maka volume air itu akan luar biasa. " " Karena makin banyak kawasan yang digunakan untuk perumahan, sehingga air pun mengalir ke sungai, " paparnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

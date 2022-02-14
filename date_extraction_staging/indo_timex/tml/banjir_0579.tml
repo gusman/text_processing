@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0579</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-21</TIMEX3></DCT>
+
+<TITLE>Banjir 1 Meter Rendam Puluhan Rumah di Desa Bukit Batu</TITLE>
+
+<TEXT>
+Tingginya intensitas hujan yang terjadi di wilayah Desa Bukit Batu, Kecamatan Mantangai, Kabupaten Kapuas sejak pukul 02.00 hingga 08.00 WIB, Sabtu (22/3/2020), membuat debit air Sei Muroi meluap.
+
+Akibatnya, puluhan rumah warga terendam banjir dengan ketinggian 1 meter.
+
+Untuk saat ini sebagaimana data yang kami miliki ada sekitar 58 rumah warga di lingkungan RT 01, dan dari hasil pendataan, ada 34 yang kondisi rumahnya digenangi air.
+
+Sementara kondisi cuaca masih dalam keadaan mendung diselingi gerimis kecil,  kata Edy Susanto, Kepala Desa Bukit Batu.
+
+Hingga saat ini, aparatur desa setempat sudah membuat data laporan yang akan disampaikan ke BPBD Kapuas sebagai tindak lanjut antisipasi penanganannya, sekaligus mengimbau kepada warga untuk selalu waspada.
+
+Kalau melihat kondisi cuaca seperti sekarang ini kami juga berencana akan membuat posko pengungsian sementara guna antisipasi,  katanya via telepon.
+
+c-yul
+</TEXT>
+
+</TimeML>
+

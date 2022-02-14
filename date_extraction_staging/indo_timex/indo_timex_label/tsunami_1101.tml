@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1101</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-28" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-28</TIMEX3></DCT>
+
+<TITLE>Aa Gym Siap Jadi Orang Tua Asuh Anak Aa Jimmy</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="PAST_REF">Saat itu</TIMEX3> ia bekerja sebagai pengisi acara bersama grupnya, Jigo. 
+
+Keduanya selamat dari terjangan tsunami. 
+
+Aa Jimmy, istri, dan dua anaknya telah meninggal dalam tragedi Tsunami Selat Sunda. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Kini</TIMEX3>, Yumna yang masih berusia <TIMEX3 tid="t3" type="DURATION" value="P3M">tiga bulan</TIMEX3> hidup sebatang kara. 
+
+Pada kesempatan yang sama namun di tempat terpisah, Aa Gym langsung menjawab permohonan Dadang. 
+
+Aa ikut berbelasungkawa dan menawarkan kalau anak ini <TIMEX3 tid="t4" type="DATE" value="FUTURE_REF">nanti</TIMEX3> sudah siap sekolah, silahkan belajar di Pesantren Daarut Tauhiid tanpa biaya apapun. 
+
+Insya Allah kami semua yang akan berusaha jadi orang tua asuh anak Aa Jimmy yang yatim piatu. 
+
+Semasa hidup, Aa Jimmy dan keluarga/ Semasa hidup, Aa Jimmy dan keluarga/ Foto: Instagram Aa Jimmy. 
+
+Terdengar begitu mengharukan ya, Bunda. 
+
+Aa Gym pun memberi kekuatan kepada keluarga Aa Jimmy agar ikhlas menerima cobaan berat ini. 
+
+Ustaz kelahiran Bandung, <TIMEX3 tid="t5" type="DURATION" value="P56Y">56 tahun</TIMEX3> silam ini, memastikan bahwa bencana yang terjadi merupakan takdir Tuhan. 
+
+Aa Gym kemudian berpesan, lebih baik mendoakan para korban daripada membicarakan tentang orang yang sudah wafat. 
+
+Ia menegaskan, setiap manusia akan mengalami kematian pada waktunya masing-masing dan kita harus meyakini itu. 
+
+(jpg) 
+</TEXT>
+
+</TimeML>

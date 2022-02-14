@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0134</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-07" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-07</TIMEX3></DCT>
+
+<TITLE>Pengungsi Butuh Obat-obatan</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2020-01-06">Senin (6/1)</TIMEX3>, <TIMEX3 tid="t2" type="DURATION" value="P6D">enam hari</TIMEX3> pasca-banjir bandang dan longsor, warga yang tinggal di pengungsian membutuhkan bantuan obat-obatan, perlengkapan bayi, dan pakaian dalam wanita. 
+
+Sementara bantuan pakaian layak pakai terlalu banyak menumpuk di sejumlah posko. 
+
+Seperti di tenda pengungsian di Bungurmekar, Kecamatan Sajira, tempat mengungsi warga dari Kampung Susukan dan Bolang. 
+
+Bantuan makanan, minuman, dan kebutuhan dasar pengungsi sudah diterima masyarakat. 
+
+Bahkan, tumpukan pakaian layak pakai tersimpan di tenda pengungsi. 
+
+Kondisi serupa terlihat di posko pengungsian di gedung PGRI Sajira. 
+
+<TIMEX3 tid="t3" type="SET" value="P1D">Tiap hari</TIMEX3>, bantuan seperti mi instan, air mineral, pakaian layak pakai, dan kebutuhan dasar lain berdatangan Kepala Pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Lebak Kaprawi mengatakan, para pengungsi yang telah bertahan <TIMEX3 tid="t4" type="DURATION" value="PXD">beberapa hari</TIMEX3> di pengungsian mulai terserang penyakit. 
+
+Mereka mengeluhkan pusing, gatal-gatal, diare, dan infeksi saluran pernapasan akut (ISPA). 
+
+Untuk itu, para pengungsi membutuhkan bantuan obat-obatan dan peralatan bayi. 
+
+Selain bantuan kebutuhan dasar, korban banjir dan longsor di Lebak juga membutuhkan bantuan obat-obatan, pakaian dalam wanita, lilin, senter, alas tidur, dan tidak kalah penting, yakni perlengkapan bayi, kata Kaprawi kepada Radar Banten. 
+
+Perlengkapan bayi yang dibutuhkan masyarakat, di antaranya handuk, pempers, bedak, minyak telon, makanan bayi, dan susu formula. 
+
+Bantuan obat-obatan, perlengkapan bayi, dan kebutuhan dasar lain bisa dikirim langsung ke posko bencana di BPBD Lebak atau didistribusikan langsung ke posko-posko pengungsian di enam kecamatan. 
+
+Untuk pakaian layak pakai sudah menumpuk. 
+
+Bahkan di Cipanas ada 100 karung dan <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> belum dimanfaatkan masyarakat. 
+
+Karenanya, kita harapkan bantuan lain untuk korban banjir dan longsor di Lebak, imbuhnya. 
+
+Hingga <TIMEX3 tid="t6" type="DATE" value="2020-01-06">Senin (6/1)</TIMEX3>, jumlah pengungsi korban banjir dan longsor di Kabupaten Lebak kurang lebih mencapai 6.000 orang. 
+
+Pada <TIMEX3 tid="t7" type="TIME" value="2020-01-06TAF">siang hari</TIMEX3>, para pengungsi ada yang pulang ke rumahnya untuk membersihkan lumpur. 
+
+Tapi pada <TIMEX3 tid="t8" type="TIME" value="2020-01-06TAF">sore</TIMEX3> hingga <TIMEX3 tid="t9" type="TIME" value="2020-01-07TMO">pagi hari</TIMEX3>, mereka kembali ke pengungsian. 
+
+Apalagi, Bupati Iti Octavia Jayabaya telah memberikan imbauan kepada masyarakat yang tinggal di bantaran sungai untuk mengungsi. 
+
+(Mastur) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0506</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-08-13" temporalFunction="false" functionInDocument="CREATION_TIME">2016-08-13</TIMEX3></DCT>
+
+<TITLE>Dua Hari, BPBD Tanggulangi Lima Kebakaran</TITLE>
+
+<TEXT>
+Kepala Pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Kubu Raya, Mokhtar mengungkapkan, berdasarkan hasil koordinasi dengan Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Supadio Pontianak, selama <TIMEX3 tid="t1" type="DURATION" value="P2D">dua hari</TIMEX3> terakhir, yakni <TIMEX3 tid="t2" type="DATE" value="2016-08-10">Rabu (10/8)</TIMEX3> hingga <TIMEX3 tid="t3" type="DATE" value="2016-08-11">Kamis (11/8)</TIMEX3> diketahui ada 5 titik api di Kubu Raya. 
+
+Lima titik api tersebut dikarenakan terjadinya karhutla. 
+
+Namun, sebagian besar titik api itu sudah dapat ditanggulangi BPBD Kubu Raya bersama stakeholder terkait lainnya. 
+
+Untuk hari (<TIMEX3 tid="t4" type="DATE" value="2016-08-12">kemarin</TIMEX3>, red) ini kami belum mendapatkan informasi dari BMKG. 
+
+Jika ada titik api yang perlu ditanggulangi maka kami akan langsung ke lokasi, ujar Mokhtar di ruang kerjanya, <TIMEX3 tid="t5" type="DATE" value="2016-08-12">Jumat (12/8)</TIMEX3>. 
+
+Mokhtar menambahkan, lokasi lima titik api yang ada di Kubu Raya ini terjadi di dua kecamatan. 
+
+Yakni, Kecamatan Rasau Jaya dan Kecamatan Sungai Raya. 
+
+Jika <TIMEX3 tid="t6" type="DURATION" value="PXD">beberapa hari ke depan</TIMEX3> masih belum turun hujan maka diperkirakan titik api akan bertambah. 
+
+Terjadinya kebakaran lahan ini, kami perkirakan karena adanya aktifitas masyarakat yang membuka lahan dengan cara membakar, bebernya. 
+
+Selama <TIMEX3 tid="t7" type="DURATION" value="P2D">dua hari</TIMEX3> terakhir, Mokhtar menambahkan, pihaknya lebih fokus menanggulangi kebakaran lahan di Kecamatan Sungai Raya, tepatnya di Dusun Mulyorejo, Desa Limbung. 
+
+Lantaran lahan yang terbakar ini terbilang cukup besar dan berpotensi untuk menyebar, sedangkan jumlah personil BPBD Kubu Raya terbatas. 
+
+Saat bersamaan terjadi kebakaran lahan di lokasi lainnya. 
+
+Yakni di lokasi yang mengarah ke Kecamatan Sungai Kakap dari Dusun Mulyorejo. 
+
+Karena lokasinya sulit dijangkau dengan kendaraan damkar dan tidak ada sumber air, maka di sana pemadaman tidak dapat kami lakukan, bebernya. 
+
+Menurut Mokhtar, pihaknya sudah membentuk kelompok masyarakat atau relawan pemadam kebakaran di beberapa desa di Kabupaten Kubu Raya. 
+
+Mereka sudah dilatih tentang cara menanggulangi karhutla sehingga apabila terjadi kebakaran secara tiba-tiba maka relawan tersebut akan melakukan penanggulangan awal sebelum api membesar. 
+
+Dalam melakukan pemadaman ini, kami tidak berpatokan berapa lama waktunya. 
+
+Namun berapa banyak kebakaran hutan dan lahan yang kami padamkan, timpalnya. 
+
+(sul) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0886</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-04" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-04</TIMEX3></DCT>
+
+<TITLE>Gunung Gamalama Meletus, Status Waspada Tingkat II</TITLE>
+
+<TEXT>
+Gunung api Gamalama di Pulau Ternate, Maluku Utara, meletus pada Kamis (4/10/2018) pada pukul 11.52 WIT.
+
+Gunung mengeluarkan asap berwarna putih kelabu setinggi 250 meter dari puncak awal.
+
+Abu vulkanik terbawa angin ke arah barat laut dan jatuh di wilayah Kecamatan Ternate Barat dan Pulau Ternate.
+
+.
+
+Pihaknya masih terus mengamati perkembangan aktivitas vulkanik gunung tersebut.
+
+Menurut dia, Gamalama didominasi gas hidrothermal sehingga statusnya belum perlu dinaikkan.
+
+Darno mengatakan, perkembangan aktivitas vulkanik Gunung Gamalama sudah menunjukkan peningkatan aktivitas kegempaan vulkanik sekitar pukul 10.00 WIT hingga letusan terjadi pada pukul 11.52 WIT.
+
+Belum dapat diprediksi lagi kapan gunung akan kembali meletus.
+
+.
+
+Pemantauan akan ditingkatkan untuk mengantisipasi peningkatan kegempaan menyusul letusan minor ini.
+
+Warga Ternate diminta untuk tenang dan tidak mudah percaya dengan informasi dari sumber yang tidak jelas dengan tujuan menimbulkan keresahan di masyarakat.
+
+"Kami akan terus menyampaikan informasi mengenai perkembangan gunung api Gamalama dan kalau masyarakat ingin mendapatkan informasi mengenai aktivitas Gunung Gamalama dapat menghubungi Pos Pemantu Gunung Api Gamalama, " kata Darno.
+
+.Begitu pula, ada musim hujan, masyarakat yang tinggal di sekitar aliran sungai yang berhulu di Gunung Gamalama agar mewaspadai potensi ancaman bahaya sekunder berupa aliran lahar.
+</TEXT>
+
+</TimeML>
+

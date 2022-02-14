@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0564</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-03</TIMEX3></DCT>
+
+<TITLE>TelkomGroup Sediakan Wifi Gratis untuk 157 lokasi dan Serahkan 1000 Simcard Simpati untuk Polda Sulawesi Tengah</TITLE>
+
+<TEXT>
+Sebagai upaya memenuhi kebutuhan komunikasi warga yang terkena dampak bencana gempa di Sulawesi Tengah, PT Telkom Indonesia (Persero) Tbk (Telkom) sediakan akses wifi gratis di 157 lokasi yang tersebar di Palu, Donggala, Ampana, Banggai, Luwuk, Marisa, Parigi, Poso, dan Toli dengan SSID TelkomPeduli. 
+
+Selain itu, Direktur Utama Telkom Alex J Sinaga juga menyerahkan 1.000 unit kartu Simpati kepada Polda Sulawesi Tengah untuk membantu aparat kepolisian dan relawan melakukan koordinasi pasca bencana. 
+
+Selain itu, untuk membantu awak media yang bertugas, TelkomGroup menyediakan Media Center di Kantor Telkom Jalan Moh Hatta, Kota Palu, <TIMEX3 tid="t1" type="DATE" value="2018-10-03">Rabu (3/10)</TIMEX3>. 
+
+Kabid IT Polda Sulteng AKBP M Haritsuddin mengucapkan terima kasih atas bantuan dan dukungan TelkomGroup selama proses pemulihan jaringan telekomunikasi di Sulteng. 
+
+Kami sangat berterima kasih kepada TelkomGroup karena dalam waktu yang relatif singkat secara bertahap dapat me-recovery jaringan telepon maupun internet di Sulteng. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> posko-posko yang ada di Palu sudah dilayani dengan akses wifi dan telepon via kabel. 
+
+Ini sanagt memudahkan komunikasi antara posko dan petugas yang ada di lapangan, jelas Haritsuddin. 
+
+AKBP M. 
+
+Haritsuddin juga mengapresiasi TelkomGroup atas bantuan 1.000 kartu Simpati. 
+
+Menurutnya kartu tersebut akan sangat membantu aparat keamanan yang sedang bertugas di lapangan, serta akan memudahkan koordinasi maupun pelaporan antar petugas di lapangan, maupun petugas dengan posko. 
+
+Sementara itu, Direktur Network and IT Solution (NITS) Telkom Zulhelfi Abidin mengatakan Kami menyadari bahwa layanan komunikasi sangat penting saat kondisi bencana seperti ini, khususnya untuk mengabarkan keluarga, koordinasi SAR, BNPB, TNI-Polri, relawan maupun update kondisi terkini wilayah bencana bagi pihak-pihak berkepentingan, sehingga kami terus berupata untuk secepatnya memulihkan jaringan telekomunikasi, ujar Zulhelfi di Integrated Operation Center (IOC) Kantor Wilayah Telkom Palu, Sulawesi Tengah, saat memantau langsung upaya recovery jaringan TelkomGroup, <TIMEX3 tid="t3" type="DATE" value="2018-10-03">Rabu (3/10)</TIMEX3>. 
+
+TelkomGroup juga menyiapkan fasilitas telepon gratis di Posko TNI/Pemda, Posko Korem, Posko Bandara, Posko Kantor Walikota, Posko Kantor Gubernur, dan RS Undata Palu. 
+
+Untuk layanan seluler bagi warga Sulawesi Tengah, TelkomGroup melalui Telkomsel memberikan paket gratis nelpon dan SMS ke semua operator <TIMEX3 tid="t4" type="TIME" value="PT24H">24 jam</TIMEX3> yang berlaku selama <TIMEX3 tid="t5" type="DURATION" value="P1W">seminggu</TIMEX3>, bagi seluruh pelanggan di Palu dan Donggala. 
+
+Paket gratis nelpon dan SMS dapat diaktifkan dengan menu UMB *888*20 atau SMS, Ketik SULTENG Kirim ke <TIMEX3 tid="t6" type="DATE" value="8999">8999</TIMEX3>. 
+
+Pelanggan akan mendapatkan <TIMEX3 tid="t7" type="DATE" value="PT50M">50 menit</TIMEX3> dan 200 SMS Gratis ke seluruh operator dan berlaku selama <TIMEX3 tid="t8" type="DURATION" value="P1W">seminggu</TIMEX3>. 
+
+Paket dapat diaktivasi melalui dial number *888*20. 
+
+Setiap aktivasi berlaku selama <TIMEX3 tid="t9" type="DURATION" value="P7D">7 hari</TIMEX3> dan paket layanan gratis ini dapat digunakan untuk <TIMEX3 tid="t10" type="DURATION" value="P14D">14 hari ke depan</TIMEX3>. 
+
+Telkomsel juga menyediakan fasilitas telepon gratis di GraPARI Palu yang beralamat di Jalan Professor Muhammad Yamin No. 
+
+9, Palu Selatan, Kota Palu. 
+
+Direktur Nerwork Telkomsel Bob Apriawan menjelaskan, TelkomGroup terus mengupayakan percepatan pemulihan infrastruktur dan layanan telekomunikasi, khususnya untuk layanan seluler Telkomsel. 
+
+Hingga <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, recovery jaringan Telkomsel sudah mencapai 70. 
+
+Layanan komunikasi SMS dan voice sudah normal, demikian juga layanan internet 4G juga sudah berangsur pulih di kabupaten dan kota terdampak bencana, seperti di Palu, Donggala, dan Luwuk, jelas Bob. 
+
+rel/inf 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0186</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-30" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-30</TIMEX3></DCT>
+
+<TITLE>BREAKINGNEWS - Hutan Seluas 4 Hektare di Tembeling Bintan Terbakar</TITLE>
+
+<TEXT>
+Kebakaran hutan kembali terjadi di wilayah Kabupaten Bintan, <TIMEX3 tid="t1" type="DATE" value="2019-07-30">Selasa (30/7/2019)</TIMEX3>. 
+
+Kali ini terjadi di salah satu hutan di Kelurahan Tembeling Tanjung, kecamatan Teluk Bintan. 
+
+Akibat dari kebakaran hutan tersebut, suasana jalan tidak jauh dari lokasi hutan yang terbakar tampak kabut asap. 
+
+Namun arus lalulintas masih lancar. 
+
+Kepala UPT Damkar Khusus Kecamatan Gunung Kijang, Teluk Bintan dan Toapaya. 
+
+Nurwendi menuturkan, kebakaran hutan itu dari informasi warga terjadi <TIMEX3 tid="t2" type="TIME" value="2019-07-29T12:00">sekitar pukul 12:00 WIB</TIMEX3> hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+" Kejadian kebakaran hutan itu, kita langsung mendapatkan informasi dari lurah Tembeling dan <TIMEX3 tid="t4" type="DATE" value="PAST_REF">saat itu</TIMEX3> juga armada damkar Toapaya langsung kita kerahkan menuju ke lokasi kebakaran, " ucapnya.Ia juga menyampaikan, kebakaran hutan masih sedang berlangsung hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>.Pihak damkar masih terus berupaya melakukan pemadaman api di lokasi kebakaran hutan. " Sampai <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> api belum bisa kita padamkan, diperkirakan hutan yang terbakar sudah mencapai 4 hektar. 
+
+Diduga kebakaran hutan disengaja, " katanya. 
+
+(tribunbatam.id/alfandi simamora) 
+</TEXT>
+
+</TimeML>

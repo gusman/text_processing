@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0903</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-05</TIMEX3></DCT>
+
+<TITLE>Loangboat Terbalik, Anggota TNI Hilang</TITLE>
+
+<TEXT>
+Koptu Akbar Sangaji, anggota Koramil Agimuga Kabupaten Mimika, dilaporkan hilang setelah mengalami laka laut di Perairan Pulau Puriri Distrik Mimika Timur Kabupaten Mimika, <TIMEX3 tid="t1" type="DATE" value="2019-12-04">Rabu (4/12)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2019-12-04T08:00">pukul 08.00 WIT</TIMEX3>. 
+
+Informasi yang dihimpun Radar Sorong di Humas Polda Papua, kejadian bermula saat perahu fiber longboat yang dimotori Tomi Kelanangame dengan menggunakan dua mesin tempel Yamaha 15 PK dan 25 PK, bertolak dari pelabuhan rakyat Poumako Timika tujuan Distrik Agimuga. 
+
+Perahu longboat ini berpenumpang 9 orang. 
+
+Saat tiba di perairan Pulau Puriri tepatnya di kordinat 04 53 56.55 S 136 53 <TIMEX3 tid="t3" type="TIME" value="UNKNOWN">28.06</TIMEX3>, perahu longboat terbalik akibat tingginya gelombang laut. 
+
+Para penumpang kemudian berusaha menyelamatkan diri ke pesisir pantai. 
+
+Setelah tiba di pantai, diketahui salah satu penumpang yakni Koptu Akbar Sangaji tidak terlihat. 
+
+Para penumpang lainnya kemudian melakukan pencarian terhadap korban. 
+
+<TIMEX3 tid="t4" type="TIME" value="2019-12-04T10:00">Sekitar pukul 10.00 WIT</TIMEX3>, Tomi Kelanangame bersama penumpang lainnya yang selamat dalam kejadian naas tersebut, menuju Pos Polairud Pantaunaja melaporkan peristiwa kecelakaan tersebut. 
+
+Anggota Polairud Pantaunaja kemudian bergerak menuju lokasi dan melakukan pencarian. 
+
+Kabid Humas Polda Papua Kombes Pol Drs. 
+
+Ahmad Musthofa Kamal, SH mengatakan, anggota gabungan Sat Polair Polres Mimika, Basarnas dan TNI, masih melakukan pencarian terhadap korban Koptu Akbar Sangaji. 
+
+Arus yang cukup deras menyulitkan dalam proses pencarian. 
+
+Penumpang yang selamat mengalami beberapa luka akibat kecelakaan yang terjadi. 
+
+Kami menghimbau kepada warga yang melakukan aktifitas transportasi di laut untuk waspada karena dalam <TIMEX3 tid="t5" type="DURATION" value="PXX">beberapa waktu</TIMEX3> terakhir angin kencang dan gelombang laut yang tinggi mengakibatkan terjadinya korban tenggelam, himbau Kamal. 
+
+(al) 
+</TEXT>
+
+</TimeML>

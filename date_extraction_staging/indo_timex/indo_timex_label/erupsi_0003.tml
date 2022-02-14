@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0003</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-11-25" temporalFunction="false" functionInDocument="CREATION_TIME">2016-11-25</TIMEX3></DCT>
+
+<TITLE>Semburan Vulkanik Lamteuba Bertambah</TITLE>
+
+<TEXT>
+Titik semburan gas vulkanik di Kemukiman Lamteuba, Kecamatan Seulimum bertambah. 
+
+Namun hingga <TIMEX3 tid="t1" type="DATE" value="2016-11-24">kemarin</TIMEX3>, pemerintah setempat belum melakukan tindakan pencegahan. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Aceh Besar, Ridwan Jamil mengaku belum berhasil menangani persoalan tersebut. 
+
+Ia menyebutkan, pihaknya belum mendapatkan laporan detil dari pihak vulkanologi, sebagai pihak yang paling mengetahui terkait dengan gunung api. 
+
+Kita masih menunggu informasi akurat dari pihak vulkanologi, sebelum kita bertindak, kata Ridwan Jamil, <TIMEX3 tid="t2" type="DATE" value="2016-11-24">Kamis (24/11)</TIMEX3>. 
+
+Sementara itu, Camat Seulimum, Zulkifli, melaporkan bahwa telah ditemukan kembali satu titik semburan vulkanik di Gampong Ateuk kemukiman setempat. 
+
+Maka jumlah semburan vulkanik yang disebut-sebut kebakaran batu bara itu menjadi dua titik. 
+
+<TIMEX3 tid="t3" type="TIME" value="2016-11-24TAF">Siang tadi</TIMEX3> (<TIMEX3 tid="t4" type="DATE" value="2016-11-24">kemarin</TIMEX3>) tim Muspika kembali turun ke lokasi dan menemukan satu titik lagi di gampong yang berbeda, kata Camat Zulkifli. 
+
+Pantauan <TIMEX3 tid="t5" type="DATE" value="2016-11-24">kemarin</TIMEX3>, kedua titik semburan asap panas itu menimbulkan bau yang menyengat hingga ke lingkungan warga. 
+
+Ia berharap pihak terkait dapat segera menangani persoalan tersebut, pasalnya, warga semakin resah. 
+
+Saya sudah meminta agar pihak terkait segera menangani dan mendeteksi lebih dalam terhadap lokasi berpotensi lainnya, ujarnya. 
+
+Diberitakan sebelumnya, semburan terjadi di Gampong Lam Apeng di atas area seluas 2.500 meter persegi, dengan radius 2 kilometer dari lokasi pemukiman warga. 
+
+(mag63/mai) 
+</TEXT>
+
+</TimeML>

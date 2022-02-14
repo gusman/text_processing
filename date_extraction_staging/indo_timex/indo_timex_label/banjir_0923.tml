@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0923</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-19</TIMEX3></DCT>
+
+<TITLE>Pemprov Papua siap berikan bantuan dana untuk Pemkab Jayapura</TITLE>
+
+<TEXT>
+Pemerintah Provinsi Papua mengaku siap memberikan bantuan dana kepada Pemerintah Kabupaten Jayapura guna memastikan kebutuhan makan, minum, dan obat-batan bagi masyarakat yang tertimpa musibah banjir bandang di Sentani terpenuhi. 
+
+Bencana ini kami sudah tetapkan sebagai darurat provinsi, jadi harus segera ditangani dengan serius, kata Gubernur Papua Lukas Enembe, di Biak, <TIMEX3 tid="t1" type="DATE" value="2019-03-19">Selasa (19/3/2019)</TIMEX3>. 
+
+Menurut Enembe, usai melantik Bupati terpilih Biak Numfor, dirinya bersama pejabat provinsi lainnya akan tutun ke lokasi bencana untuk melihat langsung keadaan masyarakat di posko-posko pengungsian. 
+
+<TIMEX3 tid="t2" type="TIME" value="2019-03-19TAF">Siang ini</TIMEX3> kami dari Biak langusng terbang ke Jayapura dan menuju lokasi, ujarnya. 
+
+Enembe menyatakan Pemerintah Provinsi Papua sangat berduka. 
+
+Kami pemerintah provinsi, kabupaten dan kota sudah sepakat untuk memberi bantuan. 
+
+<TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> apakah bantuan ini akan diserahkan langsung di posko-posko pengungsian, atau diberikan ke pemerintah kabupaten ini yang kami belum tahu, tapi <TIMEX3 tid="t4" type="DATE" value="FUTURE_REF">nanti</TIMEX3> dibicarakan ketika kami sudah sampai disana, katanya. 
+
+Melihat kondisi cuaca yang belum normal sampai <TIMEX3 tid="t5" type="DATE" value="2019-03-19">hari ini</TIMEX3>, Gubernur Enembe berpesan kepada seluruh masyarakat Papua untuk berhati-hati dalam beraktivitas. 
+
+Alam <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sedang marah, jadi semua harus tetap berhati-hati, ucapnya. 
+
+Berdasarkan informasi yang dikeluarkan posko induk penanganan banjir, lokasi terdampak parah di Kabupaten Jayapura ada di, Kelurahan Hinekombe, Kelurahan Dobonsolo, Kelurahan Sentani Kota, Kampung Yahim, Kampung Sereh, Kampung Doyo Baru, Kampung Kertosari, Kampung Dosoyo, dan Distrik Depapre 
+</TEXT>
+
+</TimeML>

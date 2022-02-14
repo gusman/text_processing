@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0253</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-10" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-10</TIMEX3></DCT>
+
+<TITLE>Pemberian Vaksin untuk Korban dan Relawan Gempa Guna Antisipasi Tetanus</TITLE>
+
+<TEXT>
+Gempa Sulawesi yang terjadi <TIMEX3 tid="t1" type="DATE" value="2018-09">September lalu</TIMEX3> menyisakan luka mendalam bagi para korban dan seluruh lapisan masyarakat Indonesia. 
+
+Akibat kondisi yang buruk pascagempa dan tsunami, ancaman kesehatan pun mengintai para korban gempa dan relawan. 
+
+Salah satu penyakit yang mengintai adalah tetanus. 
+
+Oleh karena itu pemberian vaksin tetanus kemudian menjadi prioritas. 
+
+Untuk mencegah korban gempa dan para relawan yang bertugas di wilayah Sulawesi Tengah terkena tetanus, Kementerian Kesehatan Republik Indonesia memberikan vaksin kepada warga yang tinggal di lokasi gempa. 
+
+Dilansir dari Liputan6, Kementerian Kesehatan bersama dengan Bio Farma menyediakan <TIMEX3 tid="t2" type="DATE" value="1000">1000</TIMEX3> vial vaksin Td (tetanus dan difteri) dan Anti Tetanus Serum ke lokasi gempa di Palu dan Donggala. 
+
+Tetanus merupakan salah satu penyakit berbahaya dan mematikan yang bisa dialami oleh orang-orang yang berada dalam lokasi bencana, seperti yang terjadi di daerah Sulawesi Tengah. 
+
+Yang rentan mengalaminya adalah orang-orang yang mengalami luka yang dalam dan kotor, serta tidak memiliki riwayat imunisasi tetanus yang lengkap sebelumnya. 
+
+Melansir KlikDokter, tetanus disebabkan oleh bakteri Clostridium tetani. 
+
+Penyakit ini menjadi salah satu yang mengancam korban, relawan dan siapa saja yang berada di sekitar area bencana Sulawesi. 
+
+Bakteri tersebut sebenarnya bersumber dari tanah dan kotoran hewan, yang kemudian dapat menyebar, mengontaminasi benda-benda yang ada di sekitarnya. 
+
+Bila jaringan kulit sehat dan utuh, bakteri penyebab tetanus tidak dapat masuk dan menyebabkan infeksi. 
+
+Akan tetapi, bila terdapat ada luka, seperti bekas tertusuk, terbakar, patah tulang terbuka, gigitan hewan, serta luka terbuka lainnya, bakteri tersebut dapat masuk ke tubuh, melepaskan racun tetanospasmin yang kemudian akan menyebabkan gangguan kontrol otot. 
+
+Gejala yang mudah terlihat saat seseorang sudah mengalami infeksi tetanus adalah kaku otot dan kejang, terutama di leher dan rahang. 
+
+Gejala ini umumnya muncul <TIMEX3 tid="t3" type="DATE" value="P10D">10 hari</TIMEX3> setelah bakteri masuk ke dalam tubuh. 
+
+Selanjutnya, gangguan kontrol otot yang terjadi akan menyebabkan punggung sulit digerakkan dan kaku seperti papan. 
+
+Kekakuan yang terjadi sangat berpotensi mengakibatkan patah tulang dan perdarahan hebat. 
+
+Bila tidak tertangani, racun dari bakteri tetanus akan terus menyebar ke organ dalam tubuh, termasuk jantung. 
+
+Bila sudah menggangu fungsi otot jantung, yang terjadi kemudian adalah detak jantung tidak teratur hingga henti napas dan henti jantung. 
+
+Data menunjukkan, 30 hingga 40 kasus tetanus berujung pada kematian. 
+
+Vaksin tetanus menjadi kunci utama dalam membentengi diri terhadap serangan bakteri penyebab penyakit ini. 
+
+Bila bicara tentang kondisi pascagempa, area kotor dan luka di kulit tentu menjadi hal yang sulit dielakkan. 
+
+Meski demikian, dengan pemberian vaksin tetanus, risiko terhadap infeksi bakteri penyebab tetanus dapat diminimalkan. 
+
+Pada anak, vaksin tetanus diberikan sebanyak 5 kali, yaitu di usia 2, 4, 6 dan 15 18 bulan, serta 4 6 tahun. 
+
+Setelah itu, vaksin tetanus kembali diberikan ketika sang anak berusia 11 12 tahun. 
+
+Bila vaksinasi lengkap dilakukan, perlindungan terhadap infeksi tetanus akan diperoleh hingga <TIMEX3 tid="t4" type="DATE" value="2028-10-10">10 tahun setelahnya</TIMEX3>. 
+
+Sesudah itu, seseorang hanya perlu melakukan vaksinasi ulang untuk mengoptimalkan perlindungan. 
+
+Vaksinasi tetanus ulang dapat dilakukan setiap jangka waktu 10 tahun setelah terakhir melakukannya..Selain vaksinasi rutin setiap 10 tahun, vaksinasi darurat juga memegang peranan yang tidak kalah penting untuk mencegah infeksi tetanus. 
+
+Hal ini paling penting dilakukan di area yang tidak terjamin kebersihannya, termasuk di sekitar area tsunami dan gempa bumi Sulawesi. 
+
+Ya, para korban dan relawan gempa Sulawesi sangat dianjurkan untuk mendapatkan vaksin tetanus. 
+
+Apalagi bila memiliki riwayat vaksinasi yang tidak jelas atau belum pernah divaksinasi dalam <TIMEX3 tid="t5" type="DURATION" value="P5Y">5 tahun</TIMEX3> terakhir.Vaksin tetanus memang sebaiknya diberikan kepada korban gempa dan relawan, serta semua yang bertugas di lokasi pascabencana. 
+
+Selain itu dianjurkan pula untuk mengenakan alat pelindung diri agar tidak mudah terluka akibat benda-benda rusak yang berserakan di lokasi gempa. 
+
+Ivana 
+</TEXT>
+
+</TimeML>

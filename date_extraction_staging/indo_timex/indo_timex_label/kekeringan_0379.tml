@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0379</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-22</TIMEX3></DCT>
+
+<TITLE>Emak-emak di Tangsel Mengeluh Kekeringan, Minarsih: Suami Mandi di Kantor, Anak Mandi di Kampus</TITLE>
+
+<TEXT>
+" Suami saya mandi di kantor, anak saya mandi di kampus, " ujar Minarsih sambil tertawa. 
+
+Ia merupakan warga Perumahan Pesona Serpong, Kademangan, Setu, Tangerang Selatan (Tangsel) yang sudah <TIMEX3 tid="t1" type="DURATION" value="P2W">dua pekan</TIMEX3> mengalami krisis air karena kekeringan. 
+
+<TIMEX3 tid="t2" type="TIME" value="2019-08-22TMO">Pagi</TIMEX3> menjelang <TIMEX3 tid="t3" type="TIME" value="2019-08-22TAF">siang itu</TIMEX3>, Minarsih sedang duduk santai bersama emak-emak lainnya warga perumahan itu di pos. 
+
+Mereka sedang menunggu bantuan air bersih dari Pemkot Tangsel melalui badan penanggulangan bencana daerah (BPBD) Tangsel. 
+
+Saat ditanya mengenai kekeringan itu, mereka tertawa sambil menceritakan pengalamannya masing-masing. 
+
+Minarsih memang paling vokal lantaran ia juga pengurus dari kelompok swadaya masyarakat (KSM) yang mengatur pengairan perumahan itu. 
+
+Ia bahkan mengutarakan bisa mandi <TIMEX3 tid="t4" type="SET" value="UNKNOWN">dua hari sekali</TIMEX3>, karena keterbatasan air. 
+
+" Kita mandi juga cuma cuci muka doang. 
+
+Makanya kalau cakep bedak ini mah. 
+
+Eh ini dia doang yang asli mandi, dia mah lagi hamil kita ngalah " ujarnnya sambil menunjuk seorang ibu hamil di sampingnya. 
+
+Tawa emak-emak itu pun pecah. 
+
+. 
+
+Masalah kekeringan sudah seperti rutinitas tahunan. 
+
+// " <TIMEX3 tid="t5" type="SET" value="P1Y">Setiap tahun</TIMEX3> di sini mah kering, " ujarnya. 
+
+Selain Minarsih, Handayani juga menceritakan siasatnya untuk menghemat air. 
+
+Ia mengatakan, agar tidak banyak air yang terbuang, Minarsih menadahkan air yang digunakannya mandi untuk mencuci kakus. 
+
+" Iya air mandi itu saya tadahin buat nyiram-nyiram, " ujarnya. 
+
+Ia juga menceritakan pernah membeli air galon untuk keperluan kamar mandi dan mencuci piring. 
+
+" Pernah malah <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">waktu itu</TIMEX3> beli air galon, air isi ulang ya. 
+
+Ya tapi kalo terus-terusan mahal juga, " ujarnya. 
+
+<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> mereka hanya bisa berhemat air dan menyiasatinya. 
+
+Bantuan dari Pemkot Tangsel 8.000 liter per hari belum mencukupi kebutuhan air 300 kepala keluarga di perumahan itu. 
+
+
+</TEXT>
+
+</TimeML>

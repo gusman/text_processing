@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0491</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-01-22" temporalFunction="false" functionInDocument="CREATION_TIME">2018-01-22</TIMEX3></DCT>
+
+<TITLE>Puncak Penghujan, Darurat Tanah Longsor</TITLE>
+
+<TEXT>
+Daftar kepala keluarga (KK) yang harus mengungsi akibat tanah longsor di Kabupaten Bantul bertambah. 
+
+Dua KK di Dusun Seropan, Muntuk, Dlingo terpaksa mengungsi ke rumah kerabatnya. 
+
+Itu akibat tebing setinggi 15 meter ambruk menimpa sebuah rumah <TIMEX3 tid="t1" type="DATE" value="2018-01-21">Minggu (21/1)</TIMEX3>. 
+
+Saking parahnya, tembok rumah milik Sogiyono, 55, samping barat jebol akibat tertimpa material longsoran. 
+
+Widodo, menantu Sogiyono, menyebut ada lima orang yang menghuni rumah tersebut. 
+
+Selain mertuanya, dia dan istri serta anaknya juga tinggal di rumah itu. 
+
+Terbagi dalam dua KK, jelasnya. 
+
+Untungnya, insiden yang terjadi <TIMEX3 tid="t2" type="TIME" value="2018-01-22T04:30">sekitar pukul 04.30 ini</TIMEX3> tak mengakibatkan satu pun penghuni rumah mengalami luka-luka. 
+
+Padahal, material longsoran menghantam tiga ruangan dalam rumah hingga jebol. 
+
+Tidur di bagian timur. 
+
+Sementara simbok dan anak ngungsi ke rumah saudara, jelas Widodo di sela membersihkan material longsoran <TIMEX3 tid="t3" type="DATE" value="2018-01-21">kemarin</TIMEX3>. 
+
+Ngadiran, seorang warga setempat bercerita, tebing buatan berkonstruksi beton baru dibangun <TIMEX3 tid="t4" type="DATE" value="2016-01-22">dua tahun lalu</TIMEX3>. 
+
+Namun, tingginya intensitas hujan belakangan ini diduga memicu menjadi penyebab tanah di bawahnya bergerak hingga tebing longsor selebar 12 meter. 
+
+Karena kondisinya juga di perbukitan, ucapnya. 
+
+Pascakejadian, warga bersama relawan dan personel kepolisian mengevakuasi berbagai perabot. 
+
+Juga, membuat saluran air baru. 
+
+Kendati begitu, mereka membiarkan material longsoran seperti bebatuan, dan beton. 
+
+Itu dilakukan agar tak terjadi longsor susulan. 
+
+Pelaksana Harian Kepala Badan Penanggulangan Bencana Daerah (BPBD) Bantul Dwi Daryanto mengapresiasi kesiapsiagaan Sogiyono bersama menantunya. 
+
+Mereka sudah berancang-ancang mengantisipasi longsor. 
+
+Walau rumah rusak tidak ada korban jiwa, ujarnya. 
+
+Terkait tanah di Dusun Seropan, Dwi melihat, kondisinya rawan longsor. 
+
+Kontur tanah yang gembur rentan longsor bila diguyur hujan <TIMEX3 tid="t5" type="DURATION" value="PXD">berhari-hari</TIMEX3>. 
+
+Karena itu, BPBD bakal meminta Badan Geologi Kementerian Pekerjaan Umum dan Perumahan Rakyat untuk melakukan kajian atas tanah di Dusun Seropan. 
+
+Itu untuk mengetahui apakah wilayah ini aman dijadikan sebagai permukiman atau tidak. 
+
+Sebelumnya, lima KK di Dusun Wunut, Sriharjo, Imogiri <TIMEX3 tid="t6" type="DATE" value="2018-01-15">pekan lalu</TIMEX3> mengungsi. 
+
+Itu akibat tebing di bantaran Sungai Oya tergerus. 
+
+Jarak antara sungai dan permukiman sekitar 30 meter hanya tersisa sekitar 3 meter. 
+
+(zam/ila/mg1) 
+</TEXT>
+
+</TimeML>

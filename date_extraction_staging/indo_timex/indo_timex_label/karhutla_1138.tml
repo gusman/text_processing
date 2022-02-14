@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1138</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-24</TIMEX3></DCT>
+
+<TITLE>Luas Lahan di Hutan Maliran Kabupaten Blitar yang Terbakar Sekitar 3 Hektare</TITLE>
+
+<TEXT>
+Luas lahan yang terbakar di hutan Maliran, Desa Maliran, Kecamatan Ponggok, Kabupaten Blitar, sekitar 3 hektare. 
+
+Sedikitnya, ada enam titik api yang membakar lahan di hutan Maliran, <TIMEX3 tid="t1" type="DATE" value="2019-09-24">Selasa (24/9/2019)</TIMEX3>. 
+
+" Dalam waktu 1,5 jam, api berhasil kami padamkan, " kata kata Kabag Ops Polres Blitar Kota, M Hari Sutrisno, saat berada di lokasi kebakaran. 
+
+Hari mengatakan menerjunkan satu kompi atau sekitar 100 personel untuk memadamkan api di lokasi. 
+
+Para personel itu dari Polres Blitar Kota, Polsek Ponggok, Koramil, dan petugas pemadam kebakaran. 
+
+" Ada enam titik api yang membakar lahan di lokasi. 
+
+Luas lahan yang terbakar sekitar 3 hektare, " ujar Hari. 
+
+Untuk penyebab kebakaran, kata Hari, masih dalam proses penyelidikan.Menurutnya, polisi sudah memasang spanduk larangan dan sosialisasi ke masyarakat terkait kebakaran hutan dan lahan. " Spanduk larangan itu tidak hanya kami pasang di Maliran saja, tapi juga di beberapa titik lain di kawasan hutan di wilayah kami, " katanya.Sebelumnya, terjadi kebakaran lahan di hutan Maliran, Desa Maliran, Kecamatan Ponggok, Kabupaten Blitar, <TIMEX3 tid="t2" type="TIME" value="2019-09-24TAF">Selasa (24/9/2019) siang</TIMEX3>. 
+
+// Polisi, TNI, dan petugas pemadam kebakaran <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih memadamkan api di lokasi. 
+
+Peristiwa kebakaran terjadi <TIMEX3 tid="t4" type="TIME" value="2019-09-23T11:30">sekitar pukul 11.30 WIB</TIMEX3>. 
+
+Posisi lahan yang terbakar berada di pinggir jalan alternatif dari Kota Blitar menuju ke Kediri. 
+
+Api cepat merambat membakar lahan di lokasi. 
+
+" Kami mendapat laporan <TIMEX3 tid="t5" type="TIME" value="2019-09-23T11:30">sekitar pukul 11.30 WIB</TIMEX3>. 
+
+Kami langsung ke lokasi, " kata Kapolsek Ponggok, Iptu Sony Suhartanto di lokasi kebakaran. 
+
+Polisi bersama TNI berusaha memadamkan api di lokasi. 
+
+Mereka memadamkan api menggunakan ranting pohon. 
+
+Mereka memukul-mukulkan ranting pohon ke titik api. 
+
+Titik api sempat meluas karena tersapu angin. 
+
+Apalagi, di bawah pohon jati terdapat daun kering yang mudah terbakar. 
+
+// " Sambil menunggu mobil pemadam, kami memadamkan api dengan ranting pohon, " ujarnya. 
+
+Tiga unit mobil pemadam kebakaran datang ke lokasi. 
+
+Petugas pemadam melakukan pembasahan di lahan yang terbakar. 
+
+Sebagian petugas menyisir lokasi untuk mengantisipasi agar api tidak meluas. 
+
+Padahal, <TIMEX3 tid="t6" type="DATE" value="2019-09-23">sehari sebelumnya</TIMEX3>, petugas Polsek Ponggok spanduk larangan membakar hutan di sekitar hutan Maliran. 
+
+Spanduk larangan ini untuk mengantisipasi agar tidak terjadi peristiwa kebakaran hutan dan lahan di wilayah Ponggok. 
+
+" <TIMEX3 tid="t7" type="DATE" value="2019-09-23">Kemarin</TIMEX3> kami baru saja memasang spanduk larangan membakar hutan, <TIMEX3 tid="t8" type="DATE" value="2019-09-24">hari ini</TIMEX3> malah terjadi kebakaran lahan. 
+
+Kami juga sudah sosialisasi ke warga agar tidak membakar hutan, " katanya. 
+
+
+</TEXT>
+
+</TimeML>

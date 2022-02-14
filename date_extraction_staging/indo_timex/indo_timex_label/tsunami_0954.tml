@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0954</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-08" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-08</TIMEX3></DCT>
+
+<TITLE>PMI Surakarta akan Kembali Mengirim Relawan Ke Palu</TITLE>
+
+<TEXT>
+Gempa berkekuatan 7,7 SR yang berpusat di 0,18 LS dan 119,85 BT atau 27 kilometer Timur Laut Donggala-Sulawesi Tengah telah mengakibatkan tsunami di Pantai Palu, Sulawesi Tengah pada <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">Jumat kemarin (28/9/2018)</TIMEX3>. 
+
+Hingga <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, banyak warga yang telah menjadi korban dan membutuhkan bantuan. 
+
+Oleh karena itu, PMI Surakarta mengirimkan 7 personil ke Palu, Sulawesi Tengah pada <TIMEX3 tid="t3" type="DATE" value="2018-09-30">30 September 2018 lalu</TIMEX3>. 
+
+CEO PMI Surakarta, Sumartono Hadinoto mengatakan bahwa personil yang berangkat ke Palu antara lain adalah 1 dokter, 1 apoteker, 2 perawat dan 3 relawan. 
+
+" Mereka <TIMEX3 tid="t4" type="DATE" value="FUTURE_REF">nanti</TIMEX3> akan menetap selama <TIMEX3 tid="t5" type="DURATION" value="P2W">2 minggu</TIMEX3>, " katanya <TIMEX3 tid="t6" type="TIME" value="2018-10-08TAF">Senin (8/10/2018) siang</TIMEX3>. 
+
+. 
+
+" Kalau perlu akan kita tambah sampai <TIMEX3 tid="t7" type="DATE" value="2018-12">bulan Desember 2018</TIMEX3>, " katanya. 
+
+" Kita nilai <TIMEX3 tid="t8" type="DATE" value="PAST_REF">dulu</TIMEX3> di sana kebutuhannya apa, kita survey lalu kita laporkan ke PMI Pusat, " ujarnya. 
+
+.Gempa tersebut telah melumpuhkan kota Palu.Jumlah korban yang meninggal dunia akibat musibah gempa dan tsunami di Donggala dan Palu, Sulawesi Tengah, hingga <TIMEX3 tid="t9" type="TIME" value="2018-10-07T17:00">Minggu (7/10/2018) pukul 17.00 WITA</TIMEX3> tercatat mencapai 1.944 orang. 
+
+(*) 
+</TEXT>
+
+</TimeML>

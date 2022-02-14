@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0252</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Indonesia Berduka untuk Sulawesi Tengah</TITLE>
+
+<TEXT>
+Data sementara yang diperoleh dari Pusat Data Informasi dan Humas BNPB sedikitnya 48 orang meninggal dunia dan 356 orang luka-luka setelah gempa berkekuatan 7,4 Skala Richter (SR) mengguncang Donggala, Palu, Sulawesi Tengah dan sekitarnya pada <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho merilis, mengatakan, ada ribuan rumah rusak akibat gempa tersebut. 
+
+Ia menjelaskan, evakuasi korban terus dilakukan di tengah listrik dan jaringan komunikasi yang lumpuh akibat gempa yang disusul oleh tsunami di Pantai Palu Sulawesi TengahPrabowo Subianto dalam akun resminya atas nama pribadi dan seluruh keluarga besar Partai Gerakan Indonesia Raya dan Koalisi Indonesia Adil Makmur mengucapkan belasungkawa dan turut berdukacita, serta sangat prihatin atas bencana gempa bumi dan tsunami yang terjadi di Donggala, Palu, Mamuju, Sulawesi Tengah. 
+
+Kami berdoa agar keadaan di Donggala, Palu, Mamuju, segera aman dan seluruh rakyat di Donggala, Palu, Mamuju dilindungi Allah SWT. 
+
+Aamiin, tulisnya <TIMEX3 tid="t2" type="TIME" value="2018-09-28T19:00:00">lima jam yang lalu</TIMEX3>. 
+
+Sementara Presiden Joko Widodo mengutarakan, sesaat setelah mendapat kabar terjadinya gempa bumi di Donggala, Kota Palu, dan sekitarnya, ia menghubungi Gubernur Sulawesi Tengah melalui telepon. 
+
+Tapi gagal. 
+
+Sambungan komunikasi ke Palu terganggu. 
+
+Saya sudah memerintahkan Menkopolhukam untuk mengkoordinasikan jajarannya, BNPB, dan TNI untuk melakukan penanganan darurat atas peristiwa ini: melakukan pencarian korban, evakuasi, dan menyiapkan kebutuhan-kebutuhan dasar yang diperlukan, selekas mungkin, tulis mantan Walikota Solo itu <TIMEX3 tid="t3" type="TIME" value="2018-09-28T21:00:00">tiga jam yang lalu</TIMEX3>. 
+
+Presiden menjelaskan, sejak <TIMEX3 tid="t4" type="DURATION" value="2018-09-01TNI">semalam</TIMEX3>, pihak-pihak yang telah ia berikan instruksi sudah menuju lokasi terdampak gempa dan tsunami. 
+
+Semoga <TIMEX3 tid="t5" type="DATE" value="2018-09-29">hari ini</TIMEX3> kita sudah mendapatkan informasi yang lebih rinci mengenai kondisi di lapangan, ungkapnya. 
+
+Tak lupa Presiden yang akrab disapa Jokowi itu menyatakan duka citanya yang mendalam. 
+
+Saya dan kita semua, ikut berduka cita atas jatuhnya korban setelah terjadinya gempa dan tsunami yang terjadi di Sulawesi Tengah ini. 
+
+Seluruh masyarakat terutama yang berada di Donggala, Palu, dan sekitarnya agar tetap tenang tetapi juga tetap waspada. 
+
+Kita berdoa kepada Allah SWT, agar musibah ini dapat kita lalui dan dampaknya kita selesaikan bersama, ujar Presiden Jokowi. 
+
+Duka juga datang dari Senator muda Indonesia, Riri Damayanti John Latief. 
+
+Mari bersama kita berdzikir seraya berdoa. 
+
+Semoga saudara kita di Sulawesi Tengah diberi kekuatan dan ketabahan dalam menghadapi ujian ini serta senantiasa dalam lindungan Allah subhana wa ta ala. 
+
+Aamiin, demikian Senator Riri. 
+
+Data terhimpun dari para Relawan Aksi Cepat Tanggap (ACT) yang menerjukan relawan ke lokasi bencana mengatakan, jumlah korban tsunami hingga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> berjumlah 118 jiwa, belum termasuk mereka yang tertimpa reruntuhan bangunan pasca gempa. 
+
+Belum termasuk yang tertimbun bangunan, kata Kepala Cabang ACT Sulawesi Selatan, Syahrul, sebagimana dilasir laman kumparan <TIMEX3 tid="t7" type="DATE" value="2018-09-29">(29/9/2018)</TIMEX3>.Menurut Syahrul pihak relawan mengalami kesulitan untuk mengevakuasi korban tsunami di Palu, terutama korban yang terjebak dan tertimbun bangunan.Untuk evakuasi korban yang tertimpa bangunan kan butuh alat berat, gak semua orang punya akses itu, ungkap Syahrul.Kita baru dapat informasi karena kita butuh alat berat, sudah ada tim TNI yang diterjunkan ke lokasi karena butuh alat berat, tambahnya lagi.Sementara itu, beberapa pihak di Palu mulai dari Kapolda Sulteng, BPBD Sulteng, SAR dan kantor kepolisian di sekitar wilayah Palu belum bisa dihubungi. 
+
+Jaringan komunikasi terputus setelah tsunami menerjang Palu. 
+
+Ivana 
+</TEXT>
+
+</TimeML>

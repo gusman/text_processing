@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0539</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-10" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-10</TIMEX3></DCT>
+
+<TITLE>Ikatan Wartawan Online Gelar Bazar dan Musik Peduli Sulteng Bersama Ully Sigar dan Seniman</TITLE>
+
+<TEXT>
+Bencana tsunami yang melanda Sulawesi Tengah di Palu, Donggala, Sigi dan daerah-daerah sekitarnya mendorong Yayasan Garuda Nusantara, Rumah Balada Indonesia, Sekolah Musik Vidi Vici, dan IWO (Ikatan Wartawan Online) tergerak untuk menggalang dana yang akan disumbangkan pada para korban bencana tsunami melalui Posko Merah Putih yang telah menjalankan tugas-tugas kemanusiaan sejak <TIMEX3 tid="t1" type="DATE" value="2002">tahun 2002</TIMEX3>. 
+
+Kegiatan penggalangan dana ini didukung oleh artis-artis peduli bencana a. 
+
+l: Ully Hary Rusady (yang juga Pimpinan Posko Merah Putih), Jodhi Yudono musisi dan Ketua Umum Ikatan Wartawan Online (IWO), Paramitha Rusady, Egi Fedly, Elsa Sigar, B tari Chinta, Connie Constantia, Sylvana Herman, Tommy and Friends dan banyak lagi artis-artis peduli kemanusiaan lainnya. 
+
+Sumbangan akan diberikan kepada Posko Merah Putih untuk disalurkan pada para korban bencana tsunami Sulteng. 
+
+Selama ini Posko Merah Putih melakukan kegiatan Evakuasi korban, distribusi logistik, distribusi Obat-obatan, dapur umum korban, dapur umum relawan, pendampingan korban, dll. 
+
+<TIMEX3 tid="t2" type="DATE" value="PAST_REF">Baru-baru ini</TIMEX3> pada <TIMEX3 tid="t3" type="DATE" value="2018-10-02">2 Oktober 2018</TIMEX3> Emergency Respond Unit Posko Merah Putih yang sudah <TIMEX3 tid="t4" type="DURATION" value="P2M">dua bulan</TIMEX3> menangani Posko Gempa di Lombok telah melakukan serah terima kegiatan kepada relawan-relawan lokal di Lombok Barat untuk Emergency Respond Unit Merah Putih/ERUMP. 
+
+Selanjutnya Posko Relawan Merah Putih membuka posko di Palu dan kota kota lainnya guna membantu para pengungsi di Sulteng. 
+
+Alamat Posko Merah Putih Palu di Jalan. 
+
+Kakatua No. 
+
+43 Palu Sulawesi Tengah. 
+
+Adapun kegiatan <TIMEX3 tid="t5" type="TIME" value="2018-10-09TNI">malam</TIMEX3> dana disertai Bazar Amal diadakan di Caf Bintang Nusantara Vidi Vici Accoustic House di Ruko Bona Indah Bisnis Center Jalan Karang Tengah Blok B1 No. 
+
+9A Lebak Bulus Jakarta Selatan pada <TIMEX3 tid="t6" type="DATE" value="2018-10-12">tanggal 12 Oktober 2018</TIMEX3>. 
+
+Bazar berlangsung dari <TIMEX3 tid="t7" type="TIME" value="2018-10-09T15:00">pukul 15.00</TIMEX3> s/d selesai dan Musik dari <TIMEX3 tid="t8" type="TIME" value="2018-10-09T19">Jam 19.00</TIMEX3> s/d selesai, sementara acara musik akan berlangsung mulai pukukl <TIMEX3 tid="t9" type="TIME" value="2018-10-09T19:00">19.00 WIB</TIMEX3> hingga selesai. 
+
+(IWO) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0938</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-25" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-25</TIMEX3></DCT>
+
+<TITLE>Ma'ruf Amin Berangkat ke Pandeglang, Bawa Bantuan untuk Korban Tsunami Selat Sunda</TITLE>
+
+<TEXT>
+Calon wakil presiden nomor urut 01, Ma'ruf Amin pergi menemui korban tsunami Selat Sunda di Pandeglang, Banten, <TIMEX3 tid="t1" type="DATE" value="2018-12-25">hari ini</TIMEX3> Selasa <TIMEX3 tid="t2" type="DATE" value="2018-12-25">(25/12/2018)</TIMEX3>. 
+
+Ma'ruf mengatakan dia ingin bisa bertemu langsung dengan para korban agar bisa meringankan beban mereka. 
+
+" Mereka adalah keluarga kami, maka kami akan ke sana melihat. 
+
+" " Supaya tidak hanya melihat dari jauh, kami juga ingin berbicara, berbincang, berbagi rasa, " ujar Ma'ruf sebelum berangkat. 
+
+. 
+
+Selain itu dia juga membawa bantuan dari Kimia Farma berupa obat-obatan. 
+
+Berdasarkan agenda kegiatan yang diterima Kompas. 
+
+com, Ma'ruf akan mendatangi RSUD Berkah Pandeglang. 
+
+RSUD tersebut menjadi tempat beberapa korban tsunami dirawat. 
+
+Setelah itu, Ma'ruf akan datang posko pengungsian di Kantor Lurah Sukasari dan Masjid Jami Al Mu'amanah di Kampung Tenjolahang Timur. 
+
+. 
+
+// Ma'ruf mengaku begitu terpukul dengan tsunami yang melanda Banten dan Lampung Selatan. 
+
+Apalagi, Banten merupakan kampung halamannya. 
+
+" Saya merasa prihatin dengan peristiwa ini, karena saya orang Banten, jadi saya merasakan keprihatinan mendalam sekali. 
+
+" " Apa yang mereka rasakan saya rasakan, mereka merasa susah, saya ikut susah. 
+
+" " Mereka sedih, saya ikut sedih. 
+
+Mereka sakit, saya ikut sakit, " kata dia, dikutip TribunSolo. 
+
+com dari Kompas. 
+
+com. 
+
+.00 <TIMEX3 tid="t3" type="TIME" value="UNKNOWN">WIB</TIMEX3>, tercatat 373 orang meninggal dunia, 1.459 orang luka-luka, 128 orang hilang, dan 5.665 orang mengungsi. 
+
+Kerugian fisik akibat tsunami meliputi 681 unit rumah rusak, 69 unit hotel dan villa rusak, 420 unit perahu dan kapal rusak, 60 unit warung dan toko rusak, dan puluhan kendaraan rusak 
+</TEXT>
+
+</TimeML>

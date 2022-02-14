@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0799</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-09-14" temporalFunction="false" functionInDocument="CREATION_TIME">2016-09-14</TIMEX3></DCT>
+
+<TITLE>Krisis Air Bersih Semakin Parah</TITLE>
+
+<TEXT>
+Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Lombok Timur (Lotim) mengaku harus kerja ekstra dalam memenuhi kebutuhan air bersih, khususnya bagi masyarakat yang berada di bagian selatan. 
+
+Pasalnya, kondisi kekeringan yang terjadi seperti di Kecamatan Jerowaru semakin parah dibuktikan dengan mengeringnya semua sumur masyarakat. 
+
+Kepala Bidang Kedaruratan dan Urusan Logistik pada BPBD Lotim, M. 
+
+Takdir Illahi, mengatakan dalam pemenuhan kebutuhan air bersih seperti Kecamatan Jerowaru, Sakra Barat, Keruak, pihaknya harus bolak-balik dua kali ke Selong. 
+
+. 
+
+Hal itu dilakukannya karena pasokan atau debit air bersih yang terletak di Dusun Tutu Kecamatan Jerowaru sudah mengalami penurunan. 
+
+Sumur masyarakat di bagian selatan rata-rata sudah mengering. 
+
+Bahkan di Dusun Tutu yang biasa tempat mengambil air bersih debitnya sudah kecil. 
+
+Sehingga untuk memenuhi kebutuhan air bersih masing-masing mobil bolak-bolak ke Selong sebanyak dua kali, jelasnya. 
+
+Selain itu, lanjut Takdir, akibatnya tidak pernah turunnya hujan ataupun kecilnya curah hujan <TIMEX3 tid="t1" type="DURATION" value="PXX">beberapa waktu</TIMEX3> terakhir ini membuat debit air PDAM berkurang. 
+
+Sehingga tidak mengherankan jika beberapa kecamatan di Lotim sudah mengalami krisis air bersih. 
+
+Kalau di bagian selatan, sejak <TIMEX3 tid="t2" type="DATE" value="2016-05">bulan Mei lalu</TIMEX3> sudah ada permintaan air bersih, ungkapnya. 
+
+Namun, berdasarkan prediksi dari BMKG hujan akan turun mulai <TIMEX3 tid="t3" type="DATE" value="2015-10">bulan Oktober</TIMEX3> sampai <TIMEX3 tid="t4" type="DATE" value="2015-12">Desember</TIMEX3>, namun kondisi itu belum bisa menjamin ketersediaan air bersih bagi masyarakat. 
+
+Berdasarkan data dari BPBD Lotim, dari 15 desa yang ada di Kecamatan Jerowaru, hanya dua desa yang tidak mengalami krisis air bersih hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Sedangkan, 13 desa lainnya rata-rata sudah meminta bantuan untuk droping air bersih untuk kebutuhan masyarakat, seperti minum dan memasak. 
+
+Sedangkan untuk mandi dan kebutuhan yang lebih besar seperti pengairan lahan pertanian belum bisa terpenuhi. 
+
+(yon) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0327</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-12" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-12</TIMEX3></DCT>
+
+<TITLE>Bantu Krisis Air di Priangan Timur, ACT Tasikmalaya Salurkan 500 Ribu Liter Air &amp; Bangun Sumur Wakaf</TITLE>
+
+<TEXT>
+Selama kemarau panjang melanda, Aksi Cepat Tanggap (ACT) cabang Tasikmalaya telah salurkan lebih dari 500 ribu liter air bersih ke enam kabupaten dan kota di Wilayah Priangan Timur. 
+
+ACT Tasikmalaya secara rutin mendistribusikan air bersih karena sejumlah titik di Priangan Timur alami krisis air bersih dampak kemarau <TIMEX3 tid="t1" type="DATE" value="2019">tahun ini</TIMEX3>. 
+
+Alhamdulillah berkat bantuan semuanya, kami bersama Masyarakat Relawan Indonesia (MRI) - ACT Tasikmalaya sudah menyampaikan amanah dan mendistribusikan lebih dari setengah juta liter air bersih untuk warga yang terdampak kekeringan di Priangan Timur, kata Fauzi dari Tim Program ACT Tasikmalaya, <TIMEX3 tid="t2" type="DATE" value="2019-10-12">Sabtu (12/10/2019)</TIMEX3>. 
+
+. 
+
+" Hal ini mengingat Tasikmalaya menjadi salah satu tempat terdampak kekeringan cukup parah. 
+
+Setidaknya lebih dari 16 kecamatan mengalami kekeringan dan lebih dari 100 ribu jiwa yang terdampak kekeringan di Tasikmalaya, " jelasnya. 
+
+Dikatalannya, pendistribusian air bersih akan terus dilakukan hingga <TIMEX3 tid="t3" type="DATE" value="2019-SU">musim kemarau</TIMEX3> berakhir. 
+
+Rata-rata kami mendistribusikan 14 tangki air per minggu, ujarnya. 
+
+Selain melakukan pemdistribusian air bersih, ACT Tasikmalaya juga memiliki program sumur wakaf. 
+
+" Sumur Wakaf sebagai solusi jangka panjang untuk mengatasi kekeringan. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> sudah ada 3 Sumur Wakaf yang dibangun di Tasikmalaya, " tambahnya. 
+
+
+</TEXT>
+
+</TimeML>

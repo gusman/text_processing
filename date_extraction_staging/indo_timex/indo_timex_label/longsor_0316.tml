@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0316</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-10" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-10</TIMEX3></DCT>
+
+<TITLE>Jalan Terputus, 4 Hilang Tertimbun, 12 Meninggal</TITLE>
+
+<TEXT>
+Penanganan bencana banjir di Kabupaten Bogor, <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> difokuskan pada pencarian orang hilang yang diduga tertimbun longsor. 
+
+Pembukaan akses ke wilayah yang terisolir terus dilakukan. 
+
+Sembari menyalurkan bantuan logistik ke posko-posko pengungsi. 
+
+Korban longsor yang dilaporkan hilang sampai <TIMEX3 tid="t2" type="DATE" value="2020-01-10">Jumat (10/1/2020)</TIMEX3> ada empat orang. 
+
+Yakni, korban longsor di Kp. 
+
+Sinar Harapan, Amri (64), Saroh (35), dan Cicih (10). 
+
+Seorang lagi, Hilman (15), dilaporkan hilang di Kampung Parung Sapi, Ds. 
+
+Kalong Sawah, Kecamatan Jasinga. 
+
+Hasil pemantauan di lapangan, akses jalan masih terputus, jalan menuju Desa Panyaungan Nanggung Curugbitung, Kec. 
+
+Nanggung. 
+
+Juga jalan terputus akses Desa Cibeber Cisarua, Kec. 
+
+Nanggung. 
+
+Termasuk akses ke desa Cigudeg Kiarasari Cisangku, Kecamatan Cigudeg. 
+
+Korban meninggal dunia sampai <TIMEX3 tid="t3" type="DATE" value="2020-01-10">Jumat</TIMEX3>, <TIMEX3 tid="t4" type="TIME" value="2020-01-10T14:35">(10/1/2020) pukul 14.35 WIB</TIMEX3> terdata 12 orang. 
+
+Delapan meninggal saat peristiwa terjadi. 
+
+Sedangkan empat korban lagi, meninggal seusai bencana. 
+
+Di antaranya, karena sakit. 
+
+
+</TEXT>
+
+</TimeML>

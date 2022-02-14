@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0546</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-15" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-15</TIMEX3></DCT>
+
+<TITLE>Bersinergi Dalam Semangat Kemanusiaan</TITLE>
+
+<TEXT>
+Gempa bumi yang <TIMEX3 tid="t1" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir menimpa Pulau Lombok, menggerakkan PT Hero Supermarket Tbk (HERO Group) melalui empat unit bisnisnya: Hero Supermarket, Guardian, Giant, dan IKEA untuk memberikan bantuan dan dukungan kepada lingkungan di sekitar toko yang mencakup 3 Kelurahan (Kelurahan Monjok, Kelurahan Rambiga dan Kelurahan Karang Baru) maupun daerah yang terkena dampak bencana gempa bumi di bagian utara Lombok, dimana proses penyaluran bantuan ini juga bekerjasama dengan PKPU Human Initiative. 
+
+Penyerahan bantuan secara simbolis dilakukan pada <TIMEX3 tid="t2" type="DATE" value="2018-08-15">hari ini</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2018-08-15">Rabu</TIMEX3>, <TIMEX3 tid="t4" type="DATE" value="2018-08-15">15 Agustus 2018</TIMEX3> di Giant Ekstra Gegutu, Lombok, Nusa Tenggara Barat yang diserahkan langsung oleh Hadrianus Wahyu Trikusumo, Direktur PT Hero Supermarket Tbk kepada perwakilan masyarakat dihadapan perwakilan manajemen HERO Group beserta masyarakat lainnya. 
+
+Melihat dan mendengar pemberitaan yang ada tentang bencana di Lombok, kami tergerak untuk memberikan bantuan kepada saudara-saudara kita yang sedang tertimpa musibah. 
+
+Karena itulah Hero Supermarket dan Giant memberikan bantuan makanan dan minuman, Guardian memberikan bantuan obat-obatan termasuk pemeriksaan kesehatan, dan IKEA memberikan bantuan perlengkapan rumah tangga, Ungkap Tony Mampuk, GM Corporate Affairs PT Hero Supermarket Tbk. 
+
+Pada kesempatan ini, HERO Group juga memberikan semangat kepada anak-anak yang terdampak bencana alam melalui Fun Time with HERO Group yang diisi dengan kegiatan menggambar dan mewarnai, Trauma Healing melalui story telling serta berbagai games yang berkolaborasi dengan PKPU Human Initiative dan juga para relawan yang berasal dari karyawan HERO Group. 
+
+Selain bantuan yang diberikan oleh perusahaan, para karyawan HERO Group juga menunjukkan kepeduliannya dengan memberikan sumbangan berupa baju layak pakai, bukubuku, serta donasi uang. 
+
+Pengumpulan ini dilakukan sebagai bentuk solidaritas karyawan terhadap bencana yang dihadapi di Lombok. 
+
+Tak hanya itu saja, sejumlah karyawan juga turun langsung ke lokasi untuk memberikan dukungan terhadap para korban bencana. 
+
+Sebagai perusahaan yang selalu memperhatikan karyawan, dalam acara ini HERO Group juga secara simbolis memberikan dana bantuan kepada karyawan yang terkena dampak bencana gempa Lombok. 
+
+Kami harap bantuan ini dapat meringankan beban saudara-saudara kita di Lombok dan bermanfaat untuk memenuhi kebutuhan <TIMEX3 tid="t5" type="SET" value="P1D">sehari-hari</TIMEX3> dalam situasi pasca gempa. 
+
+Semoga kita dapat selalu semangat dalam kebersamaan dan tentunya keluarga besar Hero Supermarket, Giant, Guardian dan IKEA mendoakan situasi Lombok dapat berangsur pulih dan kembali normal, Tutup Tony Mampuk 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0910</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-21" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-21</TIMEX3></DCT>
+
+<TITLE>Nelayan La Erwin Ditemukan Tak Bernyawa</TITLE>
+
+<TEXT>
+Setelah melakukan pencarian kurang lebih <TIMEX3 tid="t1" type="DURATION" value="P2D">2 hari</TIMEX3>, Tim Basarnas Sorong akhirnya menemukan jenasah La Erwin (33), nelayan yang dilaporkan tenggelam saat menjaring ikan di Tanjung Kasuari pada <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">Selasa lalu (18/2)</TIMEX3>. 
+
+Berdasarkan laporan warga, jenazah La Erwin ditemukan oleh Tim SAR pada <TIMEX3 tid="t3" type="TIME" value="2020-02-20TMO">Kamis pagi</TIMEX3> (20/2) <TIMEX3 tid="t4" type="TIME" value="2020-02-20T07:10">sekitar pukul 07.10 WIT</TIMEX3> dengan lokasi temuan sekitar 500 meter dari lokasi tenggelamnya perahu Fiber yang digunakan La Erwin menjaring ikan. 
+
+Penemuan jenazah La Erwin tersebut berdekatan dengan Tempat Pemakaman Umum (TPU) di Pantai Numfor, jenazah La Erwin pun ditemukan dalam keadaan utuh. 
+
+Selanjutnya jenazah dibawa ke rumah duka yang disambut isak tangis keluarga. 
+
+Kepala Basarnas Sorong, Joko Sungkowo mengatakan jenazah almarhum La Erwin ditemukan oleh warga setempat <TIMEX3 tid="t5" type="TIME" value="2020-02-20T07:10">sekitar pukul 07.10 WIT</TIMEX3> yang terdampar di dekat lokasi TPU. 
+
+Kemudian warga pun melaporkan kepada petugas Basarnas. 
+
+Setelah mendapatkan laporan dari warga, petugas Basarnas kemudian menuju lokasi dan mendapatkan jenazah La Erwin. 
+
+Selanjutnya jenazah dimasukkan kedalam kantong jenazah dan langsung dibawa ke rumah duka di kawasan pantai Tanjung Kasuari. 
+
+Dan selanjutnya kami antar ke kuburan untuk menyiapkan pemakaman almarhum, jelas Joko Sungkowo kepada wartawan, <TIMEX3 tid="t6" type="DATE" value="2020-02-20">Kamis (20/2)</TIMEX3>. 
+
+Bercermin dari peristiwa tersebut, Ka Basarnas Sorong pun mengimbau kepada masyarakat Kota Sorong agar tidak melaut untuk <TIMEX3 tid="t7" type="DURATION" value="PXX">sementara waktu</TIMEX3>. 
+
+Mengingat <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> Kota Sorong masuk musim angin utara, dengan cuaca yang kurang baik khususnya di perairan laut Sorong. 
+
+Ini musim angin utara hingga angin timur dimana gelombang sangat tinggi, sehingga kami himbau agar berhati-hati ketika melaut, tandasnya. 
+
+Seperti dilansir media ini sebelumnya, La Erwin dinyatakan hilang ketika hendak menjaring ikan bersama putranya, Fajrin (9) di seputaran Tanjung Kasuari pada <TIMEX3 tid="t9" type="TIME" value="2020-02-20T16:00">pukul 16.00 WIT</TIMEX3>, <TIMEX3 tid="t10" type="DATE" value="2020-02-18">Selasa (18/2)</TIMEX3>. 
+
+Pencarian hari pertama yang dilakukan Tim SAR berserta prajurit TNI AL, dan para prajurit Polairud serta Badan Penanggulangan Bencana Daerah (BPBD) nihil. 
+
+Hingga akhirnya atas laporan warga, La Erwin ditemukan dalam kondisi tidak bernyawa lagi pada <TIMEX3 tid="t11" type="TIME" value="2020-02-20TMO">Kamis pagi kemarin</TIMEX3> (20/2). 
+
+Setelah disemayamkan di rumah duka, <TIMEX3 tid="t12" type="DATE" value="2020-02-20">Kamis kemarin</TIMEX3> sekitar <TIMEX3 tid="t13" type="TIME" value="2020-02-20T11:30">pukul 11.30 WIT</TIMEX3>, jenasah almarhum La Erwin dimakamkan di pekuran muslim samping Mako Brimob. 
+
+Sebelumnya Ferin yang merupakan istri korban menceritakan kronologi kejadian yang berawal ketika suami bersama putra pertamanya tersebut hendak pergi untuk menjaring ikan dengan menggunakan perahu fiber. 
+
+Namun, sebelum pergi suaminya sempat meminta izin untuk menjaring ikan setelah sholat dzuhur. 
+
+Tapi karena dia ketiduran, sehingga saya memintanya untuk tidak pergi karena melihat kondisi laut yang tidak memungkinkan. 
+
+Tapi kemudian anak pertamanya ini ajak pergi ke laut, makanya dia langsung ambil jaring, jelas Ferin kepada wartawan. 
+
+Ferin pun mengaku sempat mengantar sang suami dan putra pertamanya pergi menjaring. 
+
+Sampai mereka pergi, saya masih berdiri di pinggir pantai untuk melihat mereka. 
+
+Memang <TIMEX3 tid="t14" type="DATE" value="UNKNOWN">kemarin itu</TIMEX3> angin kencang sekali sama ombak. 
+
+Pas suami dan anakku sudah ada di tengah laut, tiba-tiba perahu mereka sudah tidak kelihatan. 
+
+Langsung saya berteriak minta tolong, tuturnya. 
+
+Mendengar teriakannya, sambung Ferin kakak dan warga sekitar langsung bergerak menggunakan perahu untuk menolong keduanya. 
+
+Beruntung, anak pertamanya Fajrin berhasil diselamatkan. 
+
+(juh) 
+</TEXT>
+
+</TimeML>

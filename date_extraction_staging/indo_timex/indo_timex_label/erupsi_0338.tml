@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0338</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-05-21" temporalFunction="false" functionInDocument="CREATION_TIME">2016-05-21</TIMEX3></DCT>
+
+<TITLE>Gunung Sinabung Luncurkan Awan Panas, Tiga Orang Tewas dan 4 Lainnya Kritis</TITLE>
+
+<TEXT>
+JAKARTA, TRIBUNJABAR. 
+
+CO. 
+
+ID - Luncuran awan panas Gunung Sinabung di Kabupaten Karo, Sumatera Utara, kembali menimbulkan korban jiwa pada <TIMEX3 tid="t1" type="TIME" value="2016-05-21T16:48">Sabtu (21/5/2016) pukul 16.48 WIB</TIMEX3>. 
+
+Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho mengatakan, data sementara berdasarkan laporan BPBD Kabupaten Karo terdapat 7 orang terkena awan panas. 
+
+Sebanyak 3 orang diantaranya meninggal dunia dan 4 orang luka-luka dalam kondisi kritis. 
+
+Tim SAR gabungan telah berhasil mengevakuasi korban dan dibawa ke rumah sakit. 
+
+Beberapa rumah terbakar akibat terlanda awan panas. 
+
+Pencarian korban akan dilanjutkan pada <TIMEX3 tid="t2" type="TIME" value="2016-05-22TMO">Minggu (22/5/2016) pagi</TIMEX3>, dengan memperhatikan kondisi aktivitas erupsi Gunung Sinabung. 
+
+Korban adalah warga Desa Gamber, Kecamatan Simpang Empat, Kabupaten Karo, yang sedang melakukan aktivitas berkebun di ladangnya. 
+
+Desa Gamber berada dalam radius 4 km dari puncak kawah Gunung Sinabung. 
+
+Seharusnya, kata Sutopo, daerah ini kosong karena merupakan zona merah yang semua warganya tidak boleh melakukan aktivitas. 
+
+Sebagian besar warga Desa Gamber telah mengungsi sejak lama dan rencana akan direlokasi mandiri. 
+
+Masyarakat Gamber telah diberikan bantuan sewa lahan pertanian dan sewa rumah oleh Pemerintah agar tidak melakukan aktivitas di zona merah. 
+
+Namun, ada sebagian masyarakat yang tetap nekat melakukan aktivitas pertanian di kebunnya meskipun telah dilarang aparat.Kepala BNPB Willem Rampangilei, yang <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> berapa di Turki memimpin delegasi Republik Indonesia dalam The World Humanitarian Summit, telah menerima laporan kejadian bencana di Gunung Sinabung. 
+
+// Kepala BNPB telah memerintahkan Tim Reaksi Cepat BNPB untuk segera ke Karo untuk mendampingi BPBD Kabupaten Karo dalam penanganan darurat erupsi Gunung Sinabung. 
+
+Dandim Karo sebagai Komandan Tanggap Darurat agar mengkoordinasikan pencarian dan penyelamatan korban. 
+
+Lebih memperketat penjagaan dan patroli sehingga zona merah benar-benar tidak ada aktivitas masyarakat di dalamnya. 
+
+Aktivitas Gunung Sinabung masih tetap tinggi. 
+
+Pada <TIMEX3 tid="t4" type="DATE" value="2016-05-21">hari ini</TIMEX3> telah terjadi awan panas guguran yang terjadi secara menerus pada <TIMEX3 tid="t5" type="TIME" value="2016-05-20T14:28">pukul 14.28</TIMEX3>, <TIMEX3 tid="t6" type="TIME" value="2016-05-20T15:08">15.08</TIMEX3>, 16,39, dan <TIMEX3 tid="t7" type="TIME" value="2016-05-20T16:48">16.48 WIB</TIMEX3>. 
+
+Awan panas guguran mencapai 4,5 km dimana mencapai Sungai Lao Borus ke arah Barat. 
+
+Tinggi kolom abu vulkanik mencapai 3.000 meter. 
+
+Status Awas. 
+
+Potensi letusan masih tetap tinggi dan dapat terjadi kapan saja. 
+
+Masyarakat dan pengunjung/wisatawan tidak melakukan aktivitas di dalam radius 3 km dari puncak dan dalam jarak 7 km untuk sektor selatan-tenggara. 
+
+Selain itu, dalam jarak 6 km untuk sektor tenggara-timur, serta dalam jarak 4 km untuk sektor utara timurlaut G. 
+
+Masyarakat yang berada dan bermukim di dekat sungai-sungai yang berhulu di Sinabung agar tetap waspada terhadap bahaya lahar. 
+
+(KOMPAS. 
+
+com) 
+</TEXT>
+
+</TimeML>

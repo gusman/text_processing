@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0633</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-25</TIMEX3></DCT>
+
+<TITLE>Penanganan Karhutla Dilakukan Secara Intensif</TITLE>
+
+<TEXT>
+Upaya penanganan dan pencegahan kebakaran hutan dan lahan (Karhutla), khususnya di Provinsi Kalimantan Utara (Kaltara) makin intens dilakukan. 
+
+Upaya tersebut mulai dilakukan dari 14 hingga <TIMEX3 tid="t1" type="DATE" value="2019-09-24">kemarin (24/9)</TIMEX3>, dimana pemadaman dilakukan di beberapa titik kejadian api. 
+
+Salah satunya, di wilayah Kecamatan Tanjung Palas Timur. 
+
+Demikian disampaikan kepala pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Provinsi Kaltara, Mohammad Pandi saat menjadi narasumber pada Respons Kaltara (ResKal) edisi ke-56, <TIMEX3 tid="t2" type="TIME" value="2019-09-24TMO">Senin (24/9) pagi</TIMEX3>. 
+
+Berkat kerja keras dan upaya tim penanganan dan pencegahan karhutla, pemadaman dapat dilakukan dengan hasil yang maksimal. 
+
+Ini semua terjadi karena kerja sama dan sinergitas yang baik didalam tim. 
+
+Termasuk, aparat TNI/Polri juga masyarakat Kaltara, kata Pandi. 
+
+Salah satu kesulitan yang dialami tim, adalah jarak dan waktu tempuh ke lokasi kejadian. 
+
+Hal ini cukup memperlambat gerak laju tim, lantaran banyaknya peralatan pemadaman yang harus dibawa. 
+
+Di wilayah yang terbakar, titik fokus kami adalah mengamankan area yang dekat dengan permukiman warga. 
+
+Harapannya, api tidak merambat, meluas ke wilayah permukiman, jelas Pandi. 
+
+Sementara itu, narasumber lainnya, Nurhamdi, Sekretaris Dinas Lingkungan Hidup (DLH) Provinsi Kaltara menuturkan, kualitas udara di wilayah Kaltara, khususnya Bulungan sudah berada pada level aman. 
+
+Sesuai data Indeks Standar Pencemaran Udara (ISPU), kualitas udara di Kaltara berada di bawah 50, atau masuk level aman. 
+
+Pemicu karhutla ini, selain aktivitas manusia lewat pembakaran lahan, juga dikarenakan cuaca panas ekstrim yang melanda sebagian besar wilayah Indonesia. 
+
+Utamanya, Kalimantan dan Sumatera, ungkap Nurhamdi. 
+
+Terkait upaya pencegahan dan penanganan karhutla di Kaltara, diungkapkan Nurhamdi bahwa pada <TIMEX3 tid="t3" type="DATE" value="2018-09">awal September lalu</TIMEX3>, Gubernur Kaltara Dr H Irianto Lambrie teah mengeluarkan imbauan untuk mengantisipasi kejadian karhutla. 
+
+Imbauan tersebut diteruskan DLH dengan menyurati DLH kabupaten dan kota untuk menindaklanjutinya. 
+
+Salah satunya, dengan melakukan koordinasi dan pengawasan di daerah rawan karhutla, serta melatih masyarakat dalam penanggulangan karhutla, tutur Nurhamdi. 
+
+Dari sisi kondisi cuaca, dijelaskan narasumber lainnya, kepala Stasiun Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Tanjung Harapan Muhammad Sulam Khilmi, pada saat puncak kejadian kabut asap <TIMEX3 tid="t4" type="DATE" value="PXD">beberapa hari lalu</TIMEX3>, terpantau adanya pergerakan partikel asap dari Kalimantan Tengah (Kalteng) ke wilayah Bulungan, Kaltara. 
+
+Ini disebabkan pergerakan angin di garis ekuator dari tenggara ke barat daya, ulas Khilmi. 
+
+Dampaknya, jarak pandang kasat mata hanya mencapai 200 meter. 
+
+Selain dari Kalteng, di Kaltara juga terpantau 47 titik <TIMEX3 tid="t5" type="DATE" value="PAST_REF">saat itu</TIMEX3>. 
+
+Ini juga mempengaruhi pekatnya kabut asap di Kaltara, meski kontribusinya tidak besar, jelas Khilmi.Untuk <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, kondisi udara sudah jauh lebih baik meski masih ada pengaruh kabut asap. 
+
+Seperti terlihat <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, udara sudah mulai bersih. 
+
+Juga ada kejadian hujan di beberapa tempat meski tidak terlalu signifikan, ucap Khilmi. 
+
+Dikabarkan pula, <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kondisi cuaca memang cenderung panas. 
+
+Namun, cuaca di Kaltara diperkirakan berubah pada <TIMEX3 tid="t9" type="DATE" value="2019-10">pertengahan Oktober nanti</TIMEX3> menjadi <TIMEX3 tid="t10" type="DATE" value="2018-WI">musim penghujan</TIMEX3>.Seperti siklus cuaca umumnya, setelah panas ekstrim maka akan terjadi cuaca hujan ekstrim. 
+
+Disini, kejadian banjir dan longsor menjadi perhatian. 
+
+Dari itu, kita meminta masyarakat untuk waspada dan tetap memelihara kelestarian lahan dan hutan, tutupnya.(humas) 
+</TEXT>
+
+</TimeML>

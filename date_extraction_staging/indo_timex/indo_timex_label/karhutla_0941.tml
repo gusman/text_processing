@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0941</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-08-23" temporalFunction="false" functionInDocument="CREATION_TIME">2016-08-23</TIMEX3></DCT>
+
+<TITLE>Hilang Lima Hari Saat Padamkan Kebakaran Hutan, Anggota TNI Ditemukan Sudah Tak Bernyawa</TITLE>
+
+<TEXT>
+Jasad Pratu Wahyudi akhirnya ditemukan, <TIMEX3 tid="t1" type="DATE" value="2016-08-23">Selasa (23/8/2016)</TIMEX3> setelah dikabarkan menghilang selama <TIMEX3 tid="t2" type="DURATION" value="P5D">lima hari</TIMEX3> saat bertugas memadamkan Kebakaran Lahan dan Hutan (Karlahut) di desa Labuhan Tangga Besar, Kecamatan Bangko, Kabupaten Rokan Hilir. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> jasad Prajurit Den Rudal 004/Dumai masih dalam perjalanan ke Kota Dumai. 
+
+Rencananya jasad akan dibawa ke Pemulsaran Jenazah RSUD Kota Dumai. 
+
+Gubernur Riau, Arsyadjualiandi Rachman dan Danren 031/Wirabima, Brigjen Nurendi dijadwalkan ke Dumai, untuk melepas jasad prajurit TNI ini jelang disemayamkan. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, sejumlah personel TNI sudah mulai berdatangan. 
+
+Mereka berencana melihat langsung jasad Pratu Wahyudi. 
+
+Bahkan sudah disiagakan kendaraan ambulance untuk membawa jasad Pratu Wahyudi ke Markas Den Rudal. 
+
+(Tribun Pekanbaru/Fernando Sikumbang) 
+</TEXT>
+
+</TimeML>

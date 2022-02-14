@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0229</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2013-07-12" temporalFunction="false" functionInDocument="CREATION_TIME">2013-07-12</TIMEX3></DCT>
+
+<TITLE>Pemprov Galang Bantuan Korban Gempa Aceh</TITLE>
+
+<TEXT>
+Gempa berkekuatan 6,2 skala rechter (SR) di Aceh mengakibatkan banyak korban jiwa dan material. 
+
+Hal ini membuat semua pihak membuka mata untuk memberikan bantuan. 
+
+Tak terkecuali Pemerintah Provinsi (Pemprov) Bengkulu, berdasarkan instruksi Gubernur Bengkulu H. 
+
+Junaidi Hamsyah mewajibkan seluruh SKPD di lingkungan Pemprov Bengkulu untuk mengumpulkan bantuan baik berupa pakaian layak pakai, beras, uang maupun bahan makanan. 
+
+Penegasan ini disampaikan juru bicara Pemprov yang juga Kadishubkominfo Provinsi Bengkulu Drs. 
+
+Eko Agusrianto. 
+
+Dikatakannya, berdasarkan hasil rapat koordinasi <TIMEX3 tid="t1" type="DATE" value="2013-07-11">kemarin</TIMEX3>, pengumpulan bantuan oleh masing-masing SKPD tersebut dibatasi hingga <TIMEX3 tid="t2" type="DATE" value="2013-07-15">Senin (15/7) mendatang</TIMEX3>. 
+
+Ini instruksi dari Pak Gubernur langsung dimana seluruh SKPD harus secepatnya mengumpulkan bantuan kemanusiaan untuk Aceh baikitu berupa bahan pakaian layak pakai, uang, beras maupun bahan makanan lain seperti mie instan. 
+
+Dan hasil rapat koordinasi terakhir tadi (<TIMEX3 tid="t3" type="DATE" value="2013-07-11">kemarin</TIMEX3>, red) diberi batas waktu terakhir hingga <TIMEX3 tid="t4" type="DATE" value="2012-07-15">Senin (15/7)</TIMEX3> semua bantuan sudah terkumpul, ujarnya. 
+
+Ditambahkannya, bantuan kemanusiaan tersebut akan diantar langsung ke Aceh pada <TIMEX3 tid="t5" type="DATE" value="2013-07-16">Selasa (16/7) nanti</TIMEX3>. 
+
+Dan siapa pejabat yang akan ditunjuk untuk memimpin rombongan tersebut masih menunggu petunjuk gubernur. 
+
+Bisa jadi penyerahan langsung bantuan kemanusiaan ini akan dipimpin oleh Kepala BPBD atau siapa pun pejabatnya, Pak Gubernur yang akan menunjuknya, imbuhnya. 
+
+Diungkapkannya pula, kalau pemberian bantuan kemanusiaan tersebut sebagai bentuk rasa keprihatinan yang mendalam terkait peristiwa gempa bumi yang menelan banyak korban jiwa itu. 
+
+Untuk di Dinas Hubkominfo Provinsi sendiri, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah terkumpul untuk bantuan kemanusiaan Aceh berupa 30 dus Mie instan. 
+
+Dan ini tak menutup kemungkinan akan terus bertambah hingga batas <TIMEX3 tid="t7" type="DATE" value="2013-07-15">akhir Senin (15/7) mendatang</TIMEX3>, pungkasnya. 
+
+(100) 
+</TEXT>
+
+</TimeML>

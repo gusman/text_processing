@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0177</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-03-07" temporalFunction="false" functionInDocument="CREATION_TIME">2017-03-07</TIMEX3></DCT>
+
+<TITLE>Hujan Es Disertai Angin Kencang, Pohon Tumbang Timpa Kendaraan</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="TIME" value="2016-03-07TAF">Selasa (7/3) sore</TIMEX3>, Kota Pahlawan, Surabaya, diguyur hujan es. 
+
+Angin kencang bertiup <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">kala itu</TIMEX3>. 
+
+Pohon-pohon pun bertumbangan. 
+
+Kendaraan banyak yang rusak tertimpa pohon. 
+
+Dilaporkan pohon-pohon di jalan Kutisari, Karah, Jemursari, Manyar depan Kebun Bibit, Prapen, Depan RSI 1, dan depan STTS Ngagel tumbang. 
+
+Bahkan, di dekat Carefour A. 
+
+Yani depan pabrik sabun, ada pohon yang tumbang menimpa sebuah mobil Innova putih yang sedang parkir. 
+
+Kepala Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Klas I Juanda-Surabaya Albertus Kusbagio mengatakan bahwa hujan es tersebut terjadi dari awan cumolonimbus alias CB yang besar. 
+
+Butiran air super dingin tersebut menjadi es, kata Albertus. 
+
+Pergerakan awan itu terpantau dari citra radar di wilayah Surabaya dan sekitarnya. 
+
+Ketinggian dari awan itu sekitar 4 kilometer. 
+
+Dan saat jatuh sebagai hujan tidak sempat habis mencair karena bisa saja butiran es saat di dalam awan terlalu besar. 
+
+Jadi saat jatuh sampai tanah masih ada yang berupa butiran es. 
+
+Dalam istilah meteorologi, hal tersebut dinamakan hail, ucapnya. 
+
+(cr4/jp) 
+</TEXT>
+
+</TimeML>

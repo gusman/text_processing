@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0956</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-19</TIMEX3></DCT>
+
+<TITLE>Polisi Padamkan Kebakaran Hutan di Pulau Karampuang, Mamuju</TITLE>
+
+<TEXT>
+Kebakaran hutan seluas 3 hektar terjadi di Pulau Karampuang, Kecamatan Mamuju, Kabupaten Mamuju, Sulawesi Barat, <TIMEX3 tid="t1" type="DATE" value="2019-08-18">Minggu 18/8/2019</TIMEX3>. 
+
+Dengan menggunakan kapal Polairud, Personil Polres Mamuju bergerak cepat dibantu warga memadamkan kebakaran tersebut. 
+
+Api pun berhasil dipadamkan dengan menggunakan ranting yang basah. 
+
+Kapolres Mamuju AKBP Mohammad Rivai Arvan menjelaskan, kebakaran hutan seluas tiga hektar berhasil dipadamkan tak <TIMEX3 tid="t2" type="DURATION" value="PT2H">kurang dari 2 jam</TIMEX3>. 
+
+Saya menerima informasi dari salah seorang warga melalui pesan singkat whatsapp yang melaporkan tentang adanya kepulan asap di pulau Karampuang, ucapnya, <TIMEX3 tid="t3" type="DATE" value="2019-08-18">Minggu (18/8/2019)</TIMEX3>. 
+
+Menindak lanjuti laporan tersebut, Kapolres langsung memerintahkan personilnya agar segera mendatangi TKP yang dimaksud untuk memadamkan kebakaran dan melakukan penyelidikan penyebab terjadinya kebakaran hutan dan lahan (Karhutla). 
+
+Penyebab kebarakan masih dalam penyelidikan polisi, kata Arvan. 
+
+Arvan menghimbau kepada seluruh masyarakat agar jangan sekali-kali melakukan pembukaan lahan dengan cara dibakar, baik itu lahan pertanian ataupun lahan perkebunan karena hal tersebut bertentangan dengan UU RI No.41 <TIMEX3 tid="t4" type="DATE" value="1999">Tahun 1999</TIMEX3> tentang kehutanan dan UU RI No.32 <TIMEX3 tid="t5" type="DATE" value="2014">Tahun 2014</TIMEX3> tentang perkebunan dengan ancaman pidana <TIMEX3 tid="t6" type="DURATION" value="P15Y">15 tahun</TIMEX3> penjara dan denda Rp 15 Milyar. 
+
+(usman) 
+</TEXT>
+
+</TimeML>

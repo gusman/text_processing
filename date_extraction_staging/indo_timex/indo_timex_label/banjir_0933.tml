@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0933</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-18" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-18</TIMEX3></DCT>
+
+<TITLE>Banjir Belum Mampu Diatasi</TITLE>
+
+<TEXT>
+Jalan Menuju Bandara DEO Terendam BanjirSORONG Dilanda hujan deras sejak <TIMEX3 tid="t1" type="TIME" value="2019-10-17T03:00">pukul 03.00 WIT</TIMEX3> pada <TIMEX3 tid="t2" type="DATE" value="2019-10-16">Kamis (16/10)</TIMEX3>, sejumlah titik di Kota Sorong mengalami banjir dengan ketinggian yang beragam, mulai dari mata kaki hingga pinggang orang dewasa. 
+
+Banjir yang terjadi menghambat aktifitas warga, khususnya di wilayah rawan banjir yang <TIMEX3 tid="t3" type="SET" value="UNKNOWN">hampir setiap hujan</TIMEX3> deras terjadi terkena dampak banjir, seperti di Jalan Sungai Maruni, Mamberamo, F. 
+
+Kalagison, Sapta Taruna, Arteri, Jalan Pendidikan Km 8, Jalan Basuki Rahmat Km 9,5, Jalan Rawa Indah, Jalan Cendrawasih, samping Mega Mall dan beberapa titik lainnya. 
+
+Warga dari arah Km 10 berupaya untuk mencari jalan menuju ke jalan utama dengan memutari Malanu Kampung. 
+
+Sebagian warga yang memaksakan motornya untuk melaju di area banjir dengan ukuran setinggi pinggang orang dewasa, terpaksa harus mendorong kendaraannya karena macet di tengah-tengah banjir. 
+
+Beberapa warga yang ditemui Radar Sorong di depan Ruko Jupiter mengaku sebagai warga Pulau Dom ia berencana ke Kantor BPJS Kesehatan, namun karena kondisi jalan yang banjir, mereka akhirnya tertahan di depan Ruko Jupiter. 
+
+Selain itu, warga di Jalan Rawa Indah mengaku setiap tahunnya pasti merasakan banjir saat hujan melanda. 
+
+Rumah yang rendah menjadi sasaran banjir dengan ketinggian mencapai pinggang orang dewasa. 
+
+Kalau disini, <TIMEX3 tid="t4" type="SET" value="UNKNOWN">setiap hujan</TIMEX3> deras pasti banjir, di rumah tingginya sampai pinggang, ucap warga saat memperbaiki kendaraannya. 
+
+Selain rumah warga, beberapa kantor dan ruko juga menjadi sasaran banjir, termasuk 2 ruko di sebelah kiri Papua Supermarket. 
+
+Kantor PLTD Klasaman Km 8 juga menjadi sasaran banjir, kali di depan PLTD yang meluap memaksa air masuk ke dalam kantor PLTD Klasaman. 
+
+Terkait kondisi banjir yang tak kunjung di atasi, Walikota Sorong, Drs. 
+
+Ec. 
+
+Lambertus Jitmau, MM yang ditemui Radar Sorong di Kantor Walikota Sorong enggan berkomentar. 
+
+Sama halnya dengan Walikota, Kepala Dinas PU Kota Sorong juga bersikap sama, mengalihkan permasalahan banjir ke Kepala Seksi Sumber Daya Air (SDA) Dinas Pekerjaan Umum (PU) Kota Sorong, Yafed Maniburi, ST. 
+
+Ditemui di ruangan kerjanya, Yafed menjelaskan, banjir di Kota Sorong selain kondisi cuaca, sendimen menjadi salah satu penyebab. 
+
+Sendimen disebabkan oleh galian C dan cucian pasir cukup tinggi. 
+
+Dalam <TIMEX3 tid="t5" type="DURATION" value="P2W">2 minggu</TIMEX3>, sendimen di Arteri itu paling cepat sekali naik, katanya. 
+
+Untuk itu, ia mengharapkan agar adanya kerjasama untuk mengatasi permasalahan banjir di Kota Sorong. 
+
+Dinas Perindustrian diharapkan dapat menindaklanjuti keberadaan galian C dan pencucian pasir terkait limbah yang dihasilkan. 
+
+Atasi banjir harus dilakukan bersama, tidak dilimpahkan ke satu pihak saja, ucapnya. 
+
+Dijelaskannya, program Dinas PU untuk mengatasi banjir yakni normalisasi yang salah satunya melakukan galian terhadap sendimen, dilakukan di <TIMEX3 tid="t6" type="DATE" value="2019">tahun 2019</TIMEX3> sebanyak 1 kali. 
+
+Hal tersebut dianggap kurang karena seharusnya galian sendimen dilakukan 3 kali <TIMEX3 tid="t7" type="DURATION" value="P1Y">setahun</TIMEX3>. 
+
+Namun pengerjaan yang cukup banyak di Kota Sorong, mengharuskan dana yang ada terbagi ke beberapa pengerjaan lainnya. 
+
+Sehingga untuk galian sendimen, masih terkendala di dana. 
+
+Normalisasi selalu kita kerjakan setiap tahunnya, meski dengan anggaran yang memang harus terbagi ke bebeberapa pekerjaan lain, jelasnya. 
+
+Meski demikian, Yafed menilai jika dibandingkan dengan tahun-tahun sebelumnya, banjir <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> jauh lebih mudah surut, karena normalisasi yang dilakukan terhadap kali utama yang membuat debit air mengalir jauh lebih besar. 
+
+Kalau <TIMEX3 tid="t9" type="DATE" value="PAST_REF">dulu</TIMEX3> air surut dalam waktu sehari, <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">sekarang ini</TIMEX3> cuma <TIMEX3 tid="t11" type="DURATION" value="PTXH">beberapa jam</TIMEX3> saja sudah surut, katanya. 
+
+Ditambahkannya, masyarakat juga perlu dilibatkan untuk mengatasi banjir. 
+
+Karena <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pengerjaan saluran utama yang harusnya dilakukan Dinas PU sudah terhambah dengan bangunan warga. 
+
+Untuk itu, gotong royong warga untuk kebersihan lingkungan sendiri diharapkan dapat dilakukan. 
+
+Sementara itu, banjir setinggi mata kaki menggenangi jalan menuju Bandara Domine Eduard Osok (DEO) Sorong, tepatnya di bagian portal pengambilan tiket parkir kendaraan. 
+
+Banjir terjadi pada <TIMEX3 tid="t13" type="DATE" value="2019-10-17">Kamis (17/10)</TIMEX3> setelah hujan lebat yang mengguyur Kota Sorong sejak <TIMEX3 tid="t14" type="TIME" value="2019-10-17T03:00">pukul 03.00 WIT</TIMEX3>. 
+
+Kepala Bandara DEO Sorong, Rasburhany U, ST, MT melalui Kepala Seksi Teknik dan Operasi Baharun Ompusunggu, SE mengatakan, banjir yang terjadi selain karena hujan besar yang terjadi dari <TIMEX3 tid="t15" type="TIME" value="2019-10-18TMO">dini hari</TIMEX3>, jalan menuju portal memang rendah dibandingkan bagian depan jalan yang <TIMEX3 tid="t16" type="DATE" value="PAST_REF">saat itu</TIMEX3> sedang dilakukan penimbunan, sehingga resapan air berkurang. 
+
+Menurutnya, banjir yang terjadi di kawasan bandara hanya terjadi di jalan bagian portal. 
+
+Diakui Baharun, hal tersebut memang bukan yang pertama kali. 
+
+Namun untuk kali ini, pihaknya akan mencarikan solusi agar tidak lagi terjadi banjir di kawasan bandara, salah satunya dengan membuat penampungan air dari lubang sementara yang disalurkan ke tempat drainase umum yang berada di depan bandara. 
+
+Ada dua drainase, nantinya akan disalurkan ke drainase satunya lagi yang high prone di dekat cargo, jelasnya. 
+
+<TIMEX3 tid="t17" type="DURATION" value="PXD">Beberapa hari</TIMEX3> kedepan lanjut Baharun, akan dibuatkan lebih dulu resapan yang berbentuk persegi dengan alat berat, yang selanjutnya akan disalurkan ke drainase menggunakan paralon air atau secara tradisional. 
+
+Pasti kami atasi karena kami memberikan pelayanan untuk masyarkat masuk ke bandara, ucapnya. 
+
+Banjir yang terjadi di kawasan bandara, tidak merambah ke terminal penumpang yang jauh dan lebih tinggi, sehingga banjir tidak mengganggu aktifitas masyarakat. 
+
+Banjir yang terjadi di kawasan bandara surut dalam kurun waktu 2 jam. 
+
+Meski demikian, ia memastikan dalam waktu dekat pengerjaan akan dilakukan sehingga tidak lagi terjadi banjir di kawasan bandara DEO. 
+
+(nam) 
+</TEXT>
+
+</TimeML>

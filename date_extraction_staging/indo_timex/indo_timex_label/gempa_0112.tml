@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0112</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-30" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-30</TIMEX3></DCT>
+
+<TITLE>Kisah Cewek SMA Bertahan Hidup 2 Hari di Kubangan Air Bersama Jenazah Ibunya Usai Tsunami di Palu</TITLE>
+
+<TEXT>
+BANJARMASINPOST. 
+
+CO. 
+
+ID - Gempa dan Tsunami di Palu dan Tsunami di Donggala membawa kesedihan yang begitu dalam. 
+
+Gempa bermagnitudo 7,7 SR ini telah meluluhlantakkan beberapa kota di Provinsi Sulawesi Tengah. 
+
+Salah satunya adalah kisah seorang gadis SMA bernama Nurul, korban bencana gempa dan tsunami asal kota Palu. 
+
+Nurul ditemukan masih hidup saat terjebak di dalam kubangan air di Kompleks Perumnas Bala Roa, Kota Palu, Sulawesi Tengah. 
+
+Dilansir Grid. 
+
+ID dari Kompas, tim Basarna akhirnya berhasil menyelamatkan Nurul pada <TIMEX3 tid="t1" type="DATE" value="2018-09-30">Minggu (30/9/2018)</TIMEX3>. 
+
+Selama <TIMEX3 tid="t2" type="DURATION" value="P2D">dua hari</TIMEX3> terjebak di dalam kubangan air itu, Nurul berdampingan dengan jenazah ibunya, Risni, yang lebih awal meninggal dunia. 
+
+Kubangan air tersebut berasal dari PDAM yang bocor sehingga menutupi setengah badannya. 
+
+Sang ayah yang selamat berusaha untuk membantu putri dan istrinya yang terjebak, namun kondisi tak memungkinkan. " Anakku sempat minta tolong. " " Waktu kejadian saya di samping rumah. " // " Saat gempa saya lari keluar dan tidak bisa lagi menyelamatkan ibunya dan dua anakku, " tutur Yusuf, ayah Nurul. 
+
+Nurul bisa bertahan selama <TIMEX3 tid="t3" type="DURATION" value="P2D">dua hari</TIMEX3> karena keluarganya yang selamat terus memberikan makanan dan air minum untuknya. 
+
+Meski ia bisa bertahan selama <TIMEX3 tid="t4" type="DURATION" value="P2D">2 hari</TIMEX3>, saat ditemukan oleh tim Basarnas Nurul tampak lemah dan letih. 
+
+Lokasi tempat Nurul terjebak merupakan satu kelurahan dengan ratusan rumah yang rata dengan tanah. 
+
+Bau bangkai juga mulai menyengat di lokasi tersebut. 
+
+Bahkan, menurut warga, masih banyak mayat yang terjebak di dalam rumah dan belum dievakuasi. 
+
+Rahmat, salah satu warga sekitar Perumnas Bala Roa, menjelaskan, gempa ini meluluhlantahkan satu kelurahan, ratusan rumah rusak berat, dan menyebabkan tanah longsor. 
+
+Melansir Tribunnews, tim Basarnas <TIMEX3 tid="t5" type="TIME" value="2018-09-30TMO">pagi ini</TIMEX3> melakukan upaya evakuasi yang berada dalam tiga titik, yakni Perumnas Bala Roa, Hotel Roa-roa, dan Mall Ramayana. 
+
+Foto gempa dan tsunami di PaluFoto gempa dan tsunami di PaluHingga <TIMEX3 tid="t6" type="TIME" value="2018-09-29TMO">pagi tadi</TIMEX3>, <TIMEX3 tid="t7" type="DATE" value="2018-09-30">Minggu (30/9/2018)</TIMEX3>, korban gempa Palu sudah mencapai lebih dari 400 orang. 
+
+// Kabar terakhir menyebutkan jumlah korban telah mencapai 420 orang dan ini masih bisa terus bertambah. 
+
+Sebelumnya telah dikabarkan bahwa gempa terjadi lebih dari lima kali dengan magnitudo antara 5-7,4. 
+
+Gelombang tsunami kemudian menerjang Pantai Talise, Palu. 
+
+Dilansir dari BMKG, tinggi gelombang diperkirakan antara 0,5-2,0 meter. 
+
+Akibat kejadian ini banyak bangunan yang roboh. 
+
+Salah satu saksi mata yaitu Nining sempat melihat kondisi pasca gempa dan tsunami. 
+
+" Banyak mayat berserakan di pantai dan mengambang di permukaan laut, " kata Nining saat dihubungi Kompas. 
+
+com di lokasi pengungsian gedung DPRD Kota Palu, <TIMEX3 tid="t8" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3>. 
+
+Nining menambahkan bahwa kondisi korban dunia sangat memprihatinkan. 
+
+Jenazah bercampur dengan puing-puing material yang berserakan.Sebagian jalan raya pun hancur akibat terjangan gelombang tsunami.(*) 
+</TEXT>
+
+</TimeML>

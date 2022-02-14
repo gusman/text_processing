@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0664</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-22</TIMEX3></DCT>
+
+<TITLE>Tulungagung Diterpa Musim Kemarau Panjang, Puluhan Hektare Lahan Padi Petani Dinyatakan Puso</TITLE>
+
+<TEXT>
+Selama <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau</TIMEX3> panjang <TIMEX3 tid="t2" type="DATE" value="2019">2019</TIMEX3>, terjadi kekeringan pada awal musim tanam kedua, di lahan seluas 247 hektar. 
+
+Dari jumlah itu, 20 hektare di antaranya dinyatakan puso alias gagal panenLahan padi yang mengalami puso berada di wilayah Kecamatan Pagerwojo, Kabupaten Tulungagung. 
+
+. 
+
+Sebelumnya pada masa tanam April-September, telah terjadi puso seluas 31 hektar, dari 125 hektar lahan yang kekeringan. 
+
+Sehingga jika diakumilasi, total area pertanian yang puso seluas 51 hektar. 
+
+Menurut Gatot, pemicu puso ini salah satunya perilaku petani yang tidak mau mengikuti saran petugas penyuluh di lapangan. 
+
+Misalnya sudah diperingatkan air sangat minim, kami sarankan untuk beralih ke tanaman palawija. 
+
+Tapi tetap ngotot menanam padi, terang Gatot, <TIMEX3 tid="t3" type="DATE" value="2019-11-21">kamis (21/11/2019)</TIMEX3>. 
+
+. 
+
+// Harapannya dengan menanam padi, mereka lekas balik modal atau mendapat keuntungan. 
+
+Sebab jika menanam palawija, lebih banyak membutuhkan pemeliharaan dan hasilnya diaggap kurang menguntungkan dibanding padi. 
+
+Masih menurut Gatoto, lahan yang mengalami kekeringan mempunya irigasi semi teknis. 
+
+Saat musim hujan air di area persawahan bisa diatur. 
+
+Namun saat musim kemarau, air sulit dialirkan ke area ini. 
+
+. 
+
+Sebenarnya area yang kekeringan <TIMEX3 tid="t4" type="SET" value="P1Y">setiap tahun</TIMEX3> selalu sama, sambung Gatot. 
+
+Selama ini lahan pertanian yang paling rawan kekeringan ada di Kecamatan Pagerwojo, Tulungagung, Besuki, Campurdarat dan Bandung. 
+
+Namun menurut Gatot, hujan sporadis yang beberapa kali turun cukup membantu petani. 
+
+Tanaman yang berdampak ringan bisa kembali pulih, sedangkan yang tadinya terdampak sedang bisa menjadi ringan. 
+
+Khusus di Pagerwojo, puso dipicu tingkat kebutuhan air untuk minum yang tinggi. 
+
+Sehingga sumber iar yang ada difokuskan untuk konsumsi, bukan irigasi pertanian, ungkapnya. 
+
+. 
+
+// Sebaliknya <TIMEX3 tid="t5" type="DATE" value="PAST_REF">saat itu</TIMEX3> puso terjadi karena kasus banjir bandang di banyak wilayah di Kabupaten Tulungagung. 
+
+<TIMEX3 tid="t6" type="DATE" value="PAST_REF">Saat itu</TIMEX3> ada <TIMEX3 tid="t7" type="DATE" value="1146">1146</TIMEX3> lahan pertanian berbagai komoditi yang terendam air, dan 227 hektar mengalami gagal panen. 
+
+Rinciannya 175 hektar padi, 12 hektar melon, 24 hektar cabai, 2 hektar tomat, 5 hektar kacang panjang dan 9 hektar bawang merah. 
+
+(David Yohanes) 
+</TEXT>
+
+</TimeML>

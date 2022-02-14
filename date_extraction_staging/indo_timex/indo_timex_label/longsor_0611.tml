@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0611</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-12" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-12</TIMEX3></DCT>
+
+<TITLE>Longsor SDN 17 Sepaku Bertambah Lima Meter</TITLE>
+
+<TEXT>
+Bencana tanah longsor di Sekolah Dasar Negeri (SDN) 017 Desa Bukit Raya, Kecamatan Sepaku, Kabupaten Penajam Paser Utara (PPU), <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> kondisi panjang longsor bertambah lima meter awalnya 25 meter menjadi sekitar 30 an meter. 
+
+Sebelum Pemkab PPU, <TIMEX3 tid="t2" type="DATE" value="2019-04-15">Rabu (15/4/2019) lalu</TIMEX3> tetap menetapkan status siaga darurat atas bencana longsor di SDN 17 tersebut, namun kondisinya pada <TIMEX3 tid="t3" type="DATE" value="2019-06-12">Rabu (12/06/2019)</TIMEX3> kembali pergerakan tanah hanya tidak terlalu parah, tetapi membuat panjang longsor bertambah dimana saat dilakukan pengukuran awal pada <TIMEX3 tid="t4" type="DATE" value="2019-04">April kemarin</TIMEX3> sebatas 25 meter tapi <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> telah mencapai sekitar 30 meter dengan ketinggian longsor tetap yakni dua meteran. 
+
+Kondisi longsornya sama seperti semula, meskipun memang terjadi pergerakan tanah cuma tidak terlalu parah. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> panjang longsor menjadi 30 meteran atau bertambah lima meter, ungkap Koordinator Penanganan Bencana dan Kedaruratan Badan Penanggulangan Bencana Daerah (BPBD) PPU, Hj. 
+
+Nurlaila, kepada awak media. 
+
+Dibeberkannya, titik longsor tanah persis berada di selasar atau teras lantai sekolah bagian belakang, sehingga kalau itu tidak segera ditangani dapat merusak bangun sekolah. 
+
+Mudah-mudahan curah hujan tidak terlalu tinggi jadi tidak berpengaruh terhadap kondisi longsoran tanah, katanya. 
+
+Untuk diketahui, tambahnya, <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> BPBD PPU akan melakukan pemulihan siring sebelum material pembuatan siring cor beton yang dilakukan pihaknya semua terkumpul, sehingga pekerja bisa melakukan tugasnya. 
+
+Kami akan maksimalkan pekerjaan karena kami ditarget <TIMEX3 tid="t8" type="DURATION" value="P1M">satu bulan</TIMEX3> untuk menyelesaikan pembuatan siring cor beton tersebut. 
+
+Harapannya <TIMEX3 tid="t9" type="DATE" value="2018-07-10">10 Juli</TIMEX3> pekerjaan rampung, tukas Nurlaila. 
+
+Ia menerangkan, kegiatan pembangunan cor benton dilakukan secara swadaya dengan sumber dana dari APBD PPU pos anggaran Belanja Tidak Terduga (BTT) sebesar Rp530 juta. 
+
+Pihaknya akan memaksimalkan sumber daya yang ada baik dari perusahaan dan masyarakat bahkan pemerintah kecamatan Sepaku agar target pekerjaan tercapai. 
+
+Kami akan optimalkan sumber daya yang ada baik dari swasta maupun masyarakat agar dapat membantu distribusi material ke lokasi bencana. 
+
+Bahkan agar pekerjaan rampung sesuai jadwal kami akan lembur hingga <TIMEX3 tid="t10" type="TIME" value="2019-06-11TNI">malam hari</TIMEX3>. 
+
+Untuk anggota BPBD yang dikerahkan langsung total berjumlah delapan orang ditambah warga dan swast <TIMEX3 tid="t11" type="DATE" value="FUTURE_REF">nanti</TIMEX3>, tegas Nurlaila. 
+
+
+</TEXT>
+
+</TimeML>

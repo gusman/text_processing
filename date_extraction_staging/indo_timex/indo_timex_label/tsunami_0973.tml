@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0973</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Basis Seventeen Meninggal, Korban Tsunami</TITLE>
+
+<TEXT>
+Innalillahi wa inna illaihi rajiun bass grup band Seventeen, Muhammad Awal Purbani atau Bani, menjadi korban meninggal dalam bencana tsunami yang menerjang Banten, <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">Sabtu (22/12/2018) malam kemarin</TIMEX3>. 
+
+Sambil menangis, vokalis Seventeen, Ifan, mengabarkan bahwa selain Bani, Road Manager mereka yang bernama Oki Wijaya juga telah berpulang. 
+
+Jasad almarhum Muhammad Awal Purbani saat ditemukan tim SARDiketahui bahwa Seventeen sedang manggung di Tanjung Lesung Beach Resort, Banten, ketika gelombang tinggi melanda lokasi tersebut <TIMEX3 tid="t2" type="TIME" value="2018-12-22T21:33">sekitar pukul 21.33 WIB</TIMEX3>. 
+
+Kami kehilangan bassis kami, Bani, sama road manager kami Oki, ucap Ifan melalui video yang ia unggah di akun Instagram-nya, ifanseventeen, Ahad <TIMEX3 tid="t3" type="DATE" value="2018-12-23">(23/12/2018)</TIMEX3>. 
+
+Minta ikhlas doanya juga buat Bani sama Mas Oki Terima kasih, assalamualaikum, tambahnya. 
+
+Sebelumnya Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) menyatakan bahwa gelombang itu merupakan tsunami. 
+
+Pihaknya menyampaikan kesimpulan tersebut setelah mendapatkan data dari 4 stasiun pengamatan pasang surut di sekitar Selat Sunda pada waktu kejadian tsunami, yaitu <TIMEX3 tid="t4" type="TIME" value="2018-12-22T21:27">pukul 21.27 WIB</TIMEX3>. 
+
+Hasil pengamatan menunjukkan tinggi gelombang masing-masing 0.9 meter di Serang pada <TIMEX3 tid="t5" type="TIME" value="2018-12-22T21:27">pukul 21.27 WIB</TIMEX3>, 0,35 meter di banten pada <TIMEX3 tid="t6" type="TIME" value="2018-12-22T21:33">pukul 21.33 WIB</TIMEX3>, 0,36 meter di Kota Agung pada <TIMEX3 tid="t7" type="TIME" value="2018-12-22T21:35">pukul 21.35 WIB</TIMEX3>, dan 0,28 meter pada <TIMEX3 tid="t8" type="TIME" value="2018-12-22T21:53">pukul 21.53 WIB</TIMEX3> di Pelabuhan Panjang. 
+
+Namun respon terbaru BMKG menyebut bahwa menurut catatannya belum ada aktivitas seismic yang menyebabkan tsunami di pantai tersebut. 
+
+BMKG tidak mencatat adanya gempa yang menyebabkan Tsunami <TIMEX3 tid="t9" type="TIME" value="2018-12-23TNI">malam ini</TIMEX3>. 
+
+Yang terjadi di Anyer dan sekitarnya bukan tsunami melainkan gelombang air laut pasang, tulis BMKG melalui akun Twiter resminya 
+</TEXT>
+
+</TimeML>

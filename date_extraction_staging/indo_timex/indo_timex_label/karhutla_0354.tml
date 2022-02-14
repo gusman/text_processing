@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0354</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-14" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-14</TIMEX3></DCT>
+
+<TITLE>Jokowi Tugaskan Menteri LHK dan TNI/Polri Atasi Kebakaran &amp; Asap Riau</TITLE>
+
+<TEXT>
+Presiden Joko Widodo (Jokowi) menginstruksikan kepada sejumlah kementerian dan lembaga berkoordinasi dalam menangani kebakaran hutan dan lahan (karhutla) yang menimbulkan kabut asap di Provinsi Riau. 
+
+Perintah tersebut disampaikan Jokowi melalui sambungan telepon <TIMEX3 tid="t1" type="TIME" value="2019-09-13TNI">Jumat malam</TIMEX3>. 
+
+Menurut keterangan Biro Pers Sekretariat Presiden yang diterima <TIMEX3 tid="t2" type="DATE" value="2019-09-14">hari ini</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2019-09-14">Sabtu (14/9)</TIMEX3> Jokowi meminta Menteri Lingkungan Hidup dan Kehutanan Siti Nurbaya, Kepala Badan Nasional Penanggulangan Bencana (BNPB) Doni Monardo, Panglima TNI Marsekal Hadi Tjahjanto, Kapolri Jenderal Tito Karnavian, dan Kepala Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Dwikorita Karnawati saling berkoordinasi menangani kahutla Riau. 
+
+Dalam penjelasannya kepada Biro Pers Sekretariat Presiden, Panglima TNI menjelaskan pihaknya telah melakukan Teknologi Modifikasi Cuaca (TMC) atau Hujan Buatan di wilayah yang terkena karhutla. 
+
+Hasil hujan buatan <TIMEX3 tid="t4" type="DATE" value="2019-09-14">hari ini</TIMEX3> (<TIMEX3 tid="t5" type="DATE" value="2019-09-13">Jumat</TIMEX3>) hujan di Kabupaten Indragiri Hilir, Provinsi Riau, ujarnya. 
+
+(. 
+
+Dia pun telah memerintahkan penambahan pesawat untuk menebar 3,5 ton garam sekaligus dengan pesawat CN. 
+
+Sementara itu, Kepala BNPB Doni Monardo meminta kepada seluruh elemen, khususnya pada pejabat-pejabat daerah mulai dari bupati, walikota, camat, lurah, hingga RT-RW juga turut membantu untuk bersinergi melakukan upaya pengendalian karhutla. 
+
+(. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, Panglima TNI Marsekal Hadi Tjahjanto dan Kepala BNPB Doni Monardo telah berada di Pekanbaru, Provinsi Riau untuk memimpin langsung pengendalian karhutla. 
+
+Reporter: Ihya Ulum Aldin 
+</TEXT>
+
+</TimeML>

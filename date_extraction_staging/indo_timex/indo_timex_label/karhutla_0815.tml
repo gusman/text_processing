@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0815</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-16</TIMEX3></DCT>
+
+<TITLE>Asap yang Menyelimuti Jambi dari Kebakaran Lahan di Musi Banyuasin</TITLE>
+
+<TEXT>
+Masyarakat Provinsi Jambi, khususnya di Kota Jambi terkejut dengan tebalnya kabut asap, <TIMEX3 tid="t1" type="DATE" value="2019-08-16">Jumat (16/8/2019)</TIMEX3>. 
+
+Kabut asap itu bahkan mengakibatkan pesawat Garuda batal mendarat. 
+
+Asap itu ternyata berasal dari provinsi tetangga, persisnya dari lokasi kebakaran lahan di Bayung Lencir, Musi Banyuasin, Sumatera Selatan. 
+
+Dansatgas Karhutla Provinsi Jambi, Kolonel ARH Elphis Rudy mengungkapkan, dari trayektori asap yang terpantau patroli udara maupun satelit, asap masuk ke Jambi <TIMEX3 tid="t2" type="DURATION" value="PT2H">sekitar dua jam</TIMEX3>, <TIMEX3 tid="t3" type="TIME" value="2019-08-15T09:30">pukul 09.30 WIB</TIMEX3> sampai <TIMEX3 tid="t4" type="TIME" value="2019-08-15T12:00">12.00 WIB</TIMEX3>. 
+
+" Bayung Lencir berada di tenggara Kota Jambi. 
+
+Jaraknya hanya 50 kilometer, " kata Elphis Rudy yang juga Komandan Korem 042/Garuda Putih, Jambi. 
+
+Menurut Elphis, arah angin yang datang dari arah tenggara membuat asap sempat masuk ke Kota Jambi. 
+
+Setelah itu asap menghilang dan cuaca kembali normal. 
+
+" ISPU di Jambi masih 33 atau kondisi baik. 
+
+Karhutla di Jambi sementara ini masih relatif kecil dan dapat dikendalikan, " ujar Elphis yang juga pernah menjabat kepala penerangan kodam. 
+
+(wib) 
+</TEXT>
+
+</TimeML>

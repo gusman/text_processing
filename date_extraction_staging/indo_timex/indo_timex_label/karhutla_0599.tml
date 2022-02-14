@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0599</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-05</TIMEX3></DCT>
+
+<TITLE>Berau Panen Hotspot, Terbanyak di Kecamatan Pulau Derawan BMKG Berau: Masih Aman Tapi Waspada</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2019-09-05">Hari Rabu (5/9/2019) ini</TIMEX3>, Kabupaten Berau tengah panen hot spot atau titik panas. 
+
+BMKG Berau merilis sejumlah hotspot dan terbanyak berada di Kecamatan Pulau Derawan. 
+
+Juga ada kabut asap yang diduga kiriman dari daerah lain. 
+
+Berdasarkan citra satelit Badan Meteorologi Klimatologi dan Geofisika (BMKG) Berau, <TIMEX3 tid="t2" type="DATE" value="2019-09-05">hari ini</TIMEX3> terpantau ada 119 titik panas di Kalimantan Timur dan 79 di anataranya berada di Kabupaten Berau.79 titik panas ini terpantau di Kecamatan Biatan, Kecamatan Kelay, Kecamatan Sambaliung, Kecamatan Segah dan terbanyak ada di Kecamatan Pulau Derawan. 
+
+Jika melihat data yang dimiliki BMKG Berau, titik panas ini memiliki tingkat kepercayaan (akurasi) mulai dari 18 persen hingga 100 persen. 
+
+<TIMEX3 tid="t3" type="DATE" value="2019-09-05">Hari ini</TIMEX3> memang banyak tapi titik panasnya kecil-kecil, dengan tingkat kepercayaan yang rendah. 
+
+Tapi masih tetap berpotensi menyebabkan kebakaran hutan dan lahan, terutama titik panas yang tingkat kepercayaannya di atas 78 persen, kata Kepala BMKG Berau, Tekad Sumardi kepada Tribunkaltim. 
+
+co. 
+
+Meski demikian mencapai 79 titik panas, Tekad Sumardi mengatakan, <TIMEX3 tid="t4" type="DATE" value="2019-09-05">hari ini</TIMEX3> bukan yang terbanyak. 
+
+Ini bukan yang terbanyak, kalau hanya titik-tik panas berati tidak banyak. 
+
+// Yang banyak kalau dari citra satelit terlihat blok warna merah di Tanjung Bat u dan Labanan. 
+
+Seperti yang terjadi <TIMEX3 tid="t5" type="DATE" value="PXD">beberapa hari lalu</TIMEX3>, malah tidak ada titik sama sekali, semua warnanya merah. 
+
+Itu artinya ada kebakaran hutan dan lahan, jelasnya. 
+
+Tekad Sumardi mengatakan, jumlah titik yang banyak ini harus diwaspadai, apalagi titik panas dengan tingkat kepercayaan di atas 78 persen hingga 100 persen juga cukup. 
+
+Tetap harus diantisipasi, karena sampai <TIMEX3 tid="t6" type="DATE" value="2019-10">akhir Oktober 2019</TIMEX3> harus terus waspada, tegasnya. 
+
+Apalagi, suhu udara <TIMEX3 tid="t7" type="DATE" value="2019-09-05">hari ini</TIMEX3> maksimal mencapai 34 derajat celcius, ditambah dengan kecepatan angin 5 knot yang bertiup dari arah Selatan. 
+
+<TIMEX3 tid="t8" type="DATE" value="2019-09-05">Hari ini</TIMEX3> tidak ada kebakaran hutan, dan semoga tidak smapai terjadi kebakaran hutan. 
+
+Karena itu kami berharap, titik-titik panas ini segera ditinjau untuk mecegah kebakaran, pintanya. 
+
+Meski tidak ada kebakaran hutan yang terpantau, namun Kabupaten Berau masih diselimuti kabut asap. 
+
+Menurut Tekad Sumardi, disebabkan kabut asap kiriman dari wilayah selatan Kalimantan Timur. 
+
+// Kalau ada kabut asap <TIMEX3 tid="t9" type="DATE" value="2019-09-05">hari ini</TIMEX3>, berarti kiriman dari luar daerah, tandasnya. 
+
+<TIMEX3 tid="t10" type="DATE" value="2019-09-03">Dua hari sebelumnya</TIMEX3>, kebakaran hutan masif terjadi di Tanjung Batu, Kecamatan Pulau Derawan. 
+
+Kebakaran di kawasan ini terus meluas karena selain area yang kering, ditambah dengan angin yang bertiup kencang. 
+
+Kebakaran juga terjadi di Labanan, namun seluruh kebakaran itu berhasil dikendalikan dan dipadamkan oleh Satuan Tugas Kebakaran Hutan dan Lahan. 
+
+Sebelumnya Dikepung Kabut Asap Maraknya kebakaran lahan di sejumlah kecamatan di Kabupaten Berau, berdampak pada kabut asap yang menyelimuti wilayah ini. 
+
+Meski tidak sampai menganggu aktivitas penerbangan, karena jarak pandang antara 5 hingga 7 kilometer, namun kabut asap ini mengancam kesehatan masyarakat. 
+
+Risiko Infeksi Saluran Pernafasan Akut (ISPA) menjadi ancaman serius. 
+
+Meski hingga <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">kini</TIMEX3> penderita ISPA belum terlalu siginifikan, namun Kepala Dinas Kesehatan, Totoh Hermanto, mengingatkan masyarakat agar mewaspadai kabut asap, terutama bagi bayi dibawah usia <TIMEX3 tid="t12" type="DURATION" value="P5Y">lima tahun</TIMEX3> dan ibu hamil. 
+
+Totoh Hermanto menjelaskan, dampak buruk bagi kesehatan yang mungkin terjadi pada balita adalah ISPA. 
+
+// Namun pada ibu hamil, menghirup kabut asap yang mengandung karbon sisa pembakaran, bisa memberikan dampak kesehatan jangka panjang. 
+
+Memang dampak paling umum itu terserang ISPA, tapi dampak kabut asap ini bisa menjadi semakin serius jika terus-terusan dihirup, terutama bagi ibu-ibu yang sedang mengandung. 
+
+Di dalam asap itu ada beberapa senyawa yang mungkin tidak langsung membahayakan, tapi bisa mengancam kesehatan dalam jangka panjang, termasuk risiko bayi yang dikandungnya, jelas Totoh. 
+
+Saat dalam kandungan, bayi yang belum lahir memiliki organ tubuh yang belum berfungsi secara maksimal. 
+
+Meski kabut asap ini tidak separah <TIMEX3 tid="t13" type="DATE" value="2015">tahun 2015 lalu</TIMEX3>, namun Totoh tetap menyarankan masyarakat, terutama ibu hamil untuk mengenakan masker saat berpergian ke luar rumah, atau mengurangi aktivitas di luar rumah, mengonsumsi makanan yang berserat serta vitamin serta air putih yang cukup. 
+
+Ada baiknya apabila mencegah sebelum terjadi sesuatu yang tidak diinginkan. 
+
+Ibu hamil, jangan menyepelekan kabut asap yang menyelimuti kota. 
+
+Minimal menjaga kesehatan, agar pada saat melahirkan <TIMEX3 tid="t14" type="DATE" value="FUTURE_REF">nanti</TIMEX3> berjalan lancar tanpa ada gangguan kesehatan, ujarnya. 
+
+. 
+
+Kondisi ini bisa dilihat secara kasat mata. 
+
+Langit yang biasanya tampak biru, berubah menjadi abu-abu. 
+
+Kepala Badan Meteorologi dan Klimatologi (BMKG) Berau, Tekad Sumardi, membenarkan, wilayah Berau hingga <TIMEX3 tid="t15" type="DATE" value="2019-08-12">Senin (12/8/2019) ini</TIMEX3> diselimuti oleh kabut asap. 
+
+Kabut asap ini sudah terjadi sejak <TIMEX3 tid="t16" type="DATE" value="2019-08-29">minggu lalu</TIMEX3>. 
+
+Jarak pandang menurun karena kabut asap, kata Tekad Sumardi kepada Tribunkaltim. 
+
+co. 
+
+Sumardi mengungkapkan, <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> jarak pandang sekitar 5 sampai 7 kilometer. 
+
+Tapi jarak pandang ini belum menganggu aktivitas penerbangan. 
+
+Dengan catatan, ketebalan kabut asap ini tidak meningkat, jelasnya. 
+
+Meski demikian, Tekad Sumardi, mengatakan kabut asap ini dapat mempengaruhi kesehatan masyarakat, terutama yang beraktivitas di luar rumah. 
+
+Memang tidak berpengaruh terhadap aktivitas penerbangan. 
+
+Tapi sangat berpengaruh terhadap isu nasional, termasuk dampak kesehatan kepada masyarakat, imbuhnya. 
+
+Sumardi juga mengungkapkan, kabut asap terparah terjadi di Kecamatan Teluk Bayur yakni di Kampung Labanan dan di Kecamatan Kelay. 
+
+Terparah memang ada di bagian barat Kabupaten Berau, ungkapnya.Kabut asap ini juga diperparah oleh asap kiriman dari wilayah selatan.Karena sepanjang <TIMEX3 tid="t18" type="DATE" value="2019-08">bulan Agustus 2019 ini</TIMEX3>, kata Sumardi, angin bertiup dari selatan ke utara.Ada juga asap kiriman dari daerah selatan, dari Samarinda dan sekitarnya. 
+
+Angin selatan ini membawa asap ke utara, untuk bagian utara (kabut asapanya) malah sedikit, paparnya.Sementara, titik panas yang terpantau oleh satelit BMKG, menurut Sumardi mecapai 40 persen dari luas wilayah Berau.Titik panas ini selain disebabkan oleh <TIMEX3 tid="t19" type="DATE" value="2019-SU">musim kemarau</TIMEX3>, juga disebabkan banyaknya lahan yang terbakar.Karena itu, BMKG mengimbau masyarakat dan para pemangku kepentingan, untuk melakukan langkah-langkah pencegahan dan mengatasi kebakaran lahan.Kebakaran lahan di Kampung Labanan Makarti, Kecamatan Teluk Bayur sudah terjadi sejak <TIMEX3 tid="t20" type="DATE" value="2019-08-10">10 Agustus 2019 kemarin</TIMEX3>.Petugas pemadam kebakaran masih kesulitan mengatasi api yang terus meluas karena tidak ada akses jalan masuk di lokasi kebakaran.Kontur lokasi yang tidak rata, semak belukar, dan api yang membara membuat mobil pemadam kebakaran sulit mencapai lokasi.Para petugas harus memadamkan api secara manual dengan mendatangi langsung sumber api. 
+
+(*) 
+</TEXT>
+
+</TimeML>

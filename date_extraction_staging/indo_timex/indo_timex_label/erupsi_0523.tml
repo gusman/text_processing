@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0523</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-01-19" temporalFunction="false" functionInDocument="CREATION_TIME">2014-01-19</TIMEX3></DCT>
+
+<TITLE>Pemerintahan SBY tak Peduli Korban Sinabung</TITLE>
+
+<TEXT>
+Anggota Komisi IV DPR Anton Sihombing mendesak pemerintah untuk mengambil langkah cepat penanganan bantuan untuk korban erupsi Gunung Sinabung, Karo, Sumatera Utara. 
+
+Seluruh tanaman hancur, hampir 25 ribu hektar lebih. 
+
+Anak-anak sekolah juga terganggu, kata dia di gedung DPR, <TIMEX3 tid="t1" type="DATE" value="2014-01-15">Rabu (15/1)</TIMEX3>. 
+
+Anton yang kembali maju dari daerah pemilihan Sumatera Utara III Partai Golkar itu mengaku melihat langsung penderitaan korban erupsi Sinabung. 
+
+Mereka yang mengungsi, kata dia, terkesan kehilangan induknya karena pemerintah tidak segera turun tangan. 
+
+Bupati Karo karena masalah pribadi juga tidak bisa menangani masalah tersebut. 
+
+Bupatinya saja tidak datang ke kamp-kamp karena ada permasalahan. 
+
+Bisa dibayangkan masyarakat yang mengungsi seolah-olah mereka kehilangan induk. 
+
+Pemerintah sudah terlambat, harus mengambil langkah secepatnya, kata dia. 
+
+Presiden Susilo Bambang Yudhoyono, kata Anton, juga sangat disayangkan baru terketuk hatinya dengan memberikan pernyataan bakal segera menemui korban Sinabung. 
+
+Presiden baru <TIMEX3 tid="t2" type="DATE" value="2014-01-26">Minggu depan</TIMEX3> rencananya mau ke sana, bagaimana dengan menteri-menteri? Bagaimana dengan menteri pendidikan yang seluruh fasilitas pendidikannya hancur, demikian juga dengan Mentan, kata Anton. 
+
+Anton mengaku bersama anggota lainnya di DPR menginisiasi kepedulian untuk korban Sinabung dengan meminta gaji seluruh anggota dipotong 25 persen, sementara anggota dari Dapil Sumut sepenuhnya 100 persen. 
+
+Terimakasih kepada seluruh anggota DPR yang sudah bersedia membantu 25 persen dari gapok masing-masing, mungkin <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">nanti</TIMEX3> bisa terkumpul Rp 3 miliar lebih. 
+
+Sudah diketok pimpinan sidang, berarti harus dilaksanakan, kata dia. 
+
+Anton berharap pemerintah tidak pilih kasih dengan tiidak melihat masalah erupsi Gunung Sinabung sebelah mata. 
+
+Padahal, erupsi sudah ratusan kali, seperti tadi <TIMEX3 tid="t4" type="TIME" value="2014-01-18TNI">malam</TIMEX3> erupsi hingga 38 kali. 
+
+Korban juga sudah di pengungsian selama <TIMEX3 tid="t5" type="DURATION" value="P4M">4 bulan</TIMEX3>. 
+
+ter/infoB 
+</TEXT>
+
+</TimeML>

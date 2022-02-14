@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0250</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-01-13" temporalFunction="false" functionInDocument="CREATION_TIME">2016-01-13</TIMEX3></DCT>
+
+<TITLE>Gunung Egon Siaga, Warga Desa Dievakuasi</TITLE>
+
+<TEXT>
+Gunung Egon di Kabupaten Sikka, Provinsi Nusa Tenggara Timur (NTT) yang pernah tercatat meletus dahsyat pada <TIMEX3 tid="t1" type="DATE" value="1925">1925</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> mengeluarkan debu vulkanik. 
+
+Aktivitas vulkanik terus meningkat. 
+
+Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) terpaksa menaikkan status Gunung Egon menjadi Siaga (level III) dari sebelumnya status Waspada (level II). 
+
+Gunung Egon yang memiliki tinggi 1.703 meter dari permukaan laut itu, ditetapkan status Siaga sejak <TIMEX3 tid="t3" type="TIME" value="2016-01-13T06:00">Rabu (13-1-2016) pukul 06.00</TIMEX3> Wita. 
+
+Peningkatan aktivitas kegempaan sangat signifikan sejak <TIMEX3 tid="t4" type="TIME" value="2016-01-12T09:36">Selasa (12-1-2016) pukul 09.36 WITA</TIMEX3>. 
+
+Hingga <TIMEX3 tid="t5" type="TIME" value="2016-01-13TMO">pagi ini</TIMEX3>, getaran terasa di Desa Egon Gahar di lereng tenggara Gunung Egon. 
+
+Gempa vulkanik dalam tersebut dapat memicu peningkatan aktivitas vulkaniknya. 
+
+Mekanisme gempa vulkanik dalam adalah peretakan batuan di dalam tubuh gunungapi yang dapat merupakan implikasi dari presurisasi fluida magmatik dari kedalaman menuju ke permukaan. 
+
+Tipe letusan Gunung Egon adalah freatik, yaitu adanya interaksi antara uap magma dengan air di bawah permukaan yang dapat mendorong batuan penutup di dekat permukaan kawah. 
+
+Kepala PVMBG NTT, Surono telah melaporkan peningkatan status siaga kepada Kepala BNPB dan BPBD untuk melakukan langkah-langkah antisipasi. 
+
+Sejauh ini, PVMBG telah menyarankan untuk memperluas radius yang harus dikosongkan. 
+
+Dari radius yang semula radius 1,5 km menjadi 3 km, sehingga masyarakat yang tinggal di Desa Egon Gahar harus dievakuasi karena berpotensi terkena awan panas, abu vulkanik pekat dan lontaran batu pijar jika terjadi erupsi, ungkapnya dalam rilis, <TIMEX3 tid="t6" type="DATE" value="2015-01-13">Rabu (13/01/2015)</TIMEX3>. 
+
+Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho mengatakan pihaknya sejauh ini masih berkoordinasi dengan Badan Penanggulangan Bencana Daerah (BPBD) terkait dengan kenaikan status Siaga Gunung Egon ttersebut. 
+
+Dengan naiknya status Siaga Gunung Egon, maka <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> dari 127 gunungapi aktif di Indonesia ada 1 status Awas Gunung Sinabung, 5 status Siaga Gunung Egon, Soputan, Lokon, Karangetang, Bromo, dan 14 status Waspada. 
+
+Diketahui, Gunung Egon beberapa kali meletus yaitu pada periode 1888-1891, <TIMEX3 tid="t8" type="DATE" value="1907">1907</TIMEX3>, <TIMEX3 tid="t9" type="DATE" value="1925">1925</TIMEX3>, kemudian selama <TIMEX3 tid="t10" type="DURATION" value="P79Y">79 tahun</TIMEX3> tidak dilaporkan adanya peningkatan aktivitas. 
+
+Pada <TIMEX3 tid="t11" type="DATE" value="2016-01-28">tanggal 28</TIMEX3> Januri <TIMEX3 tid="t12" type="DATE" value="2004">2004 lalu</TIMEX3>, kembali meletus hingga Agustus-September <TIMEX3 tid="t13" type="DATE" value="2004">2004</TIMEX3>. 
+
+Pada <TIMEX3 tid="t14" type="DATE" value="2008-04-15">tanggal 15 April 2008</TIMEX3>, juga kembali meletus dengan indeks eksplosivitas (VEI) 2 dan ketinggian kolom letusan 5.700 m. 
+
+rls/RPHS/IC 
+</TEXT>
+
+</TimeML>

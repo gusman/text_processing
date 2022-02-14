@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0051</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-05</TIMEX3></DCT>
+
+<TITLE>Dua Hektar Lahan Pertanian di Marga Terdampak Kekeringan</TITLE>
+
+<TEXT>
+Dampak kemarau panjang dirasakan oleh sejumlah petani khususnya di Kecamatan Tabanan dan Marga. 
+
+Kecamatan Marga, menurut data Dinas Pertanian Kabupaten Tabanan, menjadi daerah terparah terdampak kekeringan yakni mencapai 2 hektar lahan pertanian. 
+
+Disusul Kecamatan Tabanan yang mencapai 0,40 hektar atau 40 are. 
+
+Ini data per <TIMEX3 tid="t1" type="DATE" value="2019-08-05">5 Agustus 2019</TIMEX3>. 
+
+Di Marga kekeringan terjadi di Subak Apit Jaring, dan di Tabanan terjadi di Subak Gubug, ucap Koordinator POPT Distan Tabanan Ir. 
+
+I Nengah Durmita seizin Kepala Dinas Pertanian Tabanan I Nyoman Budana, <TIMEX3 tid="t2" type="DATE" value="2019-08-05">Senin (5/8)</TIMEX3>. 
+
+Meski terdampak kekeringan, produksi padi di dua kecamatan tersebut masih berpeluang diselamatkan dengan catatan ada pergiliran pengairan. 
+
+Selain itu, diharapkan kebutuhan air di dua subak kecamatan tersebut bisa terpenuhi dengan turunnya hujan. 
+
+Pihaknya terus turun ke lapangan melakukan pemantauan terkait laporan kekeringan di Subak Tungkub 2, Tempek Subak Segeh, Desa Kaba-kaba, Kecamatan Kediri. 
+
+Dari hasil pantauan di Subak Segeh ditemukan terjadi penurunan pengairan, namun masih bisa diupayakan dengan teknik gilir giring pengairan. 
+
+Selain itu, luas lahan yang terdampak kekeringan sekitar 27 hektar. 
+
+. 
+
+Satu-satunya jalan hanya teknik gilir giring pengairan, ujar Durmita. 
+
+Di sisi lain, pihaknya berharap di daerah-daerah yang berpotensi terdampak kekeringan, petani tidak memaksakan diri untuk menanam padi, namun mengembangkan tanaman palawija. 
+
+Ini dilakukan sejumlah petani di daerah Selemadeg Timur. 
+
+Sebelumnya kekeringan juga mengancam daerah Selemadeg Timur, namun <TIMEX3 tid="t3" type="DATE" value="2019">tahun ini</TIMEX3> daerah tersebut sudah mengikuti anjuran dinas dengan menanam palawija sebagai antisipasi, pungkasnya. 
+
+(Dewi Puspawati/balipost) 
+</TEXT>
+
+</TimeML>

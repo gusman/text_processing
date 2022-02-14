@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0658</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-03-08" temporalFunction="false" functionInDocument="CREATION_TIME">2016-03-08</TIMEX3></DCT>
+
+<TITLE>Dua Pekerja Tambang Batu Bara Tertimbun Longsor</TITLE>
+
+<TEXT>
+Dua orang pekerja tambang batu bara PT Mitra Indah Lestari (MIL) tertimbun longsor, Korban yang di ketahui bernama Medi dan Agus tertimbun material tanah di atas bukit saat bekerja, <TIMEX3 tid="t1" type="DATE" value="2016-03-08">Selasa (08/03)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2016-03-07T09:00">pukul 09</TIMEX3> 00 Wita di Bukuan Palaran Samarinda. 
+
+Keduanya merupakan operator alat excavator. 
+
+Berdasarkan pengakuan Murtalib rekan kerja korban, saat kejadian kedua korban sempat meminta tolong ketika tanah dari atas bukit menimpanya. 
+
+Medi berteriak di radio Handtalk (HT) meminta tolong, dirinya sudah tertimbun longsor. 
+
+Seluruh pekerja mendengar itu langsung berlari menuju lokasi longsor. 
+
+Hanya satu orang yang bisa kami selamatkan Agus yang <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3> berada dalam truk besar, kata Murtalib, pekerja PT MIL diwawancarai wartawan di lokasi kejadian. 
+
+Murtalib bersama rekan-rekannya dengan cepat menggali tanah yang menimbun kendaraan truk besar di kawasan konsesi batubara milik PT Energi Citra Industritama (ECI). 
+
+Para pekerja mendobrak jendela truk dan berhasil evakuasi Agus di dalamnya. 
+
+Agus lalu dilarikan ke rumah sakit dan hanya menderita luka ringan. 
+
+Sementara itu, hingga <TIMEX3 tid="t4" type="TIME" value="2016-03-07T15:00">pukul 15.00</TIMEX3> Wita, kepolisian dan tim pencarian terus menggali tanah longsoran untuk mencari korban Medi (28). 
+
+Tiga alat excavator dikerahkan untuk mengeruk tanah longsor setinggi 10 meter tersebut. 
+
+Polisi juga di kerahkan ke lokasi kejadian untuk menyelidiki penyebab longsoran tambang tersebut. 
+
+Wakapolsek Palaran Ajun Komisaris Polisi, Agus Setiyo mengatakan <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihaknya sedang menyelidiki kasus ini, bahkan sudah ada beberapa saksi yang di periksa, dugaan sementara penyebab longsor tambang akibat kelalaian. 
+
+Bisa dikatakan ya (akibat kelalaian teknik penggalian tambang). 
+
+Tapi, ini harus selidiki lagi, katanya. 
+
+(Gladis/sti) 
+</TEXT>
+
+</TimeML>

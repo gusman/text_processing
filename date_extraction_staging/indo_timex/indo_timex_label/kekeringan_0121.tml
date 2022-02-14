@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0121</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-09" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-09</TIMEX3></DCT>
+
+<TITLE>ICMI Orwil Banten Donasi Air Bersih di Serang Utara</TITLE>
+
+<TEXT>
+Sejumlah warga di wilayah Kecamatan Pontang dan Tirtayasa bersorak kegirangan kedatangan satu tangki air bersih kiriman dari Ikatan Cendekiawan Muslim Indonesia (ICMI) Orwil Banten bekerja sama dengan Universitas Terbuka (UT), <TIMEX3 tid="t1" type="DATE" value="2019-09-06">Sabtu (6/9)</TIMEX3>. 
+
+Mereka tertib mengantre pendistribusian bantuan air bersih yang <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sulit didapat karena kemarau berkepanjangan. 
+
+Ketua ICMI Orwil Banten Prof Dr Lili Romli mengatakan, donasi air bersih terhadap warga yang mengalami krisis air sebagai respons sosial ICMI dan UT terhadap kekeringan yang mendera beberapa kecamatan di Kabupaten Serang. 
+
+Semoga bantuan ini dapat meringankan beban warga, harap Lili yang terjun mendistribusikan bantuan air bersih di wilayah Pontang. 
+
+Kata pria yang akrab disapa Prof Lili itu, donasi air disitribusikan di beberapa lokasi di dua kecamatan. 
+
+Meliputi Desa Pegandikan, Kelepian, Kubangpuji, dan Desa Kebuyutan (Kecamatan Pontang), serta Desa Alang-alang, Laban, dan Desa Cerukruk (Kecamatan Tirtayasa). 
+
+Masing-masing wilayah dikirim satu tangki air bersih berkapasitas 8.000 liter. 
+
+Donasi air bersih ini sebagai bentuk kepedulian ICMI Orwil Banten dan UT terhadap warga Serang Utara yang dilanda kekeringan, terangnya. 
+
+Sementara Direktur UT Serang Maman Rumanta M mengatakan, donasi air bersih merupakan kerja sama positif antara kampus UT Serang dan ICMI Orwil Banten dalam melaksanakan tri darma perguruan tinggi. 
+
+Semoga kerja-kerja kemanusiaan seperti ini terus berlanjut, ucapnya. 
+
+(alt/zai/ags) 
+</TEXT>
+
+</TimeML>

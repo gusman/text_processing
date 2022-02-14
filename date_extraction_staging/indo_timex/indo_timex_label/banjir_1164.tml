@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1164</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-03-06" temporalFunction="false" functionInDocument="CREATION_TIME">2017-03-06</TIMEX3></DCT>
+
+<TITLE>Siang Ini, BNPB Kirim Helikopter ke Limapuluh Kota</TITLE>
+
+<TEXT>
+Badan Nasional Penanggulangan Bencana (BNPB) berjanji, akan mengirim satu unit helikopter bell 412 ke Limapuluh Kota, <TIMEX3 tid="t1" type="TIME" value="2017-02-06TAF">Senin (6/2/2017) siang ini</TIMEX3>. 
+
+Helikopter yang terkenal ikut operasi dalam perang Vietnam itu, akan diterbangkan dari Jakarta dan mendarat di Heliped GOR Singa Harau, Kecamatan Harau, Limapuluh Kota, Sumbar. 
+
+Targetnya, heli akan menyisir nagari nagari atau kampung yang belum tersentuh bantuan, kata Kepala BNPB Willem Rampangilei, saat berkunjung ke lokasi bencana banjir dan longsor di Pangkalan Koto Baru, <TIMEX3 tid="t2" type="DATE" value="2017-03-06">Senin (6/3)</TIMEX3>. 
+
+Sebelum bertolak ke Pangkalan, Willem mendengar ekspose Bupati Limapuluh Kota Irfendi Arbi, Komandan Satuan Tugas Penanggulangan Bencana dan Tanggap Darurat AKBP Bagus Suropratomo dan Dandim 0306/50 Kota Letkol Inf Heri Sumitro. 
+
+Bupati memohon ke Pemerintah Pusat, terutama BNPB, Kemen PU-Pera, Kementerian Pertanian, menerjunkan bantuan rehab rekon. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, Pemkab kata dia, masih menyiapkan list kerugian material dan dampak bencana. 
+
+Kepala BNPB yang datang bersama Sekretaris Utama BNPB Dodi Ruswandi dan Wagub Sumbar Nasrul Abit memastikan, pihaknya diperintahkan Presiden untuk turun menangani bencana banjir dan longsor di Limapuluh Kota. 
+
+Tahap awal, <TIMEX3 tid="t4" type="DATE" value="2017-03-06">hari ini</TIMEX3> bantuan operasional kami berikan Rp500 juta. 
+
+Silahkan dipakai untuk kegiatan Operasional, kata Willem. 
+
+Bantuan diterima Bupati dan oleh Bupati, diserahkan langsung ke Kapolres selaku pimpinan operasi kemanusiaan. 
+
+Intinya kata Willem, apapun jenis bantuan dan kebutuhan untuk masyarakat korban bencana, Pemerintah Pusat akan menekel. 
+
+Kita akan berikan, apa yang diminta. 
+
+Ini perintah bapak Presiden, katanya berkali kali. 
+
+Helikopter yang diturunkan BNPB, akan mendarat di heliped GOR Singa Harau, <TIMEX3 tid="t5" type="TIME" value="2017-03-06TAF">sore ini</TIMEX3>. 
+
+Kita akan tambah satu posko operasi lagi di Singa Harau. 
+
+Kapolres sudah saya minta, mengkoordinirnya, demikian Bupati Irfendi. 
+
+
+</TEXT>
+
+</TimeML>

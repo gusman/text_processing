@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1181</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-08" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-08</TIMEX3></DCT>
+
+<TITLE>5 Korban Gempa Pijay Meninggal di RSUD Sigli</TITLE>
+
+<TEXT>
+Sejumlah lima pasien korban gempa dari Kabupaten Pidie Jaya, meninggal saat menjalani perawatan di RSUD Tgk Abdullah Syafi'i, Sigli, Kabupaten Pidie.
+
+
+</TEXT>
+
+</TimeML>
+

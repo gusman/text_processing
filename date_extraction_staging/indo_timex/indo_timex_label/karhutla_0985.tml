@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0985</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-12" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-12</TIMEX3></DCT>
+
+<TITLE>Karhutla di Tojo Barat, Kodim 1307 Kerahkan 100 Personil</TITLE>
+
+<TEXT>
+Kebakaran hutan dan lahan (Karhutla) yang melanda sebelas desa di dua kecamatan di Kabupaten Tojo Una-Una (Touna) hingga <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> masih terus dilakukan pemadaman. 
+
+Sebanyak seratus prajurit TNI dari Kodim <TIMEX3 tid="t2" type="DATE" value="1307">1307</TIMEX3> Poso diterjunkan bergerak cepat melakukan upaya pemadaman langsung ke beberapa titik api yang menjadi lokasi kebakaran hutan dan lahan milik warga setempat. 
+
+Peristiwa kebakaran yang terjadi <TIMEX3 tid="t3" type="TIME" value="2019-09-09TNI">Senin malam</TIMEX3> 9 <TIMEX3 tid="t4" type="DATE" value="2019-09">September 2019</TIMEX3> membuat personil TNI Kodim <TIMEX3 tid="t5" type="DATE" value="1307">1307</TIMEX3> Poso yang pada <TIMEX3 tid="t6" type="TIME" value="2019-09-10TAF">Selasa siang</TIMEX3> bergerak cepat turun kelapangan memadamkan api dengan alat seadanya. 
+
+Kasdim <TIMEX3 tid="t7" type="DATE" value="1307">1307</TIMEX3> Poso, Mayor Inf Iqbal Makmur didampingi Pasi Intel Kodim Poso, Lettu Mulawarman memimpin jalannya pemadaman Karhutla yang terjadi di wilayah Touna. 
+
+Di lokasi kebakaran dengan alat seadanya seratus personil Kodim <TIMEX3 tid="t8" type="DATE" value="1307">1307</TIMEX3> Poso berjibaku melawan asap memadamkan api yang terus menjalar. 
+
+Data sementara dari Kodim <TIMEX3 tid="t9" type="DATE" value="1307">1307</TIMEX3> Poso Karhutla yang terjadi di dua kecamatan itu berada di Kecamatan Tojo dan Tojo Barat meliputi sebelas desa, yakni Desa Lemoro, Desa Betaua, Desa Uekuli, Desa Tongku, Desa Tayawa, Desa Mawomba, Desa Tanamawo, Desa Malewa, Desa Kabalo, Desa Korondoda dan Desa Buyuntaripa. 
+
+Kebakaran diperkirakan menghanguskan tiga ratus lima puluh hektar lahan di wilayah itu, Kasdim Iqbal menyampaikan, mendengar informasi terjadinya kebakaran pihaknya langsung melakukan gerak cepat dan menerjunkan seratus personil TNI Kodim Poso dalam menangani pembakaran hutan dan lahan. 
+
+Hingga <TIMEX3 tid="t10" type="DATE" value="UNKNOWN">hari ketiga</TIMEX3> ratusan TNI masih disiagakan untuk memadamkan api di lokasi kejadian, hingga <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">kini</TIMEX3> penyebab pembakaran hutan dan lahan masih dilakukan penyelidikan. 
+
+Diduga kebakaran hutan dan lahan yang menghanguskan tiga ratus lima puluh hektar itu akibat adanya pembakaran lahan oleh warga setempat. 
+
+SYM 
+</TEXT>
+
+</TimeML>

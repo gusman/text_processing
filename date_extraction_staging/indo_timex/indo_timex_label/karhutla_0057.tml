@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0057</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-06" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-06</TIMEX3></DCT>
+
+<TITLE>Kebakaran Lereng Gunung Agung Merembet ke Pura Madia Dukuh Bujangga</TITLE>
+
+<TEXT>
+Kebakaran lahan hutan di lereng Gunung Agung di wilayah Dusun Pucang, Desa Ban, Kubu, Karangasem kembali terjadi. 
+
+Kali ini, kebakaran merembet hingga Pura Madia Dukuh Bujangga. 
+
+Kepala BPBD Karangasem Ida Bagus Ketut Arimbawa mengatakan, lahan hutan yang terbakar ada di komplek hutan Gunung Abang-Agung (RTK-8). 
+
+Kata dia, lokasi kebakaran masih berada di zona merah kawasan rawan bencana (KRB 3). 
+
+Luas lahan yang terbakar mencapai tiga hektare. 
+
+Kebakaran akibat gesekan pohon, ucapnya. 
+
+Arimbawa menambahkan, kebakaran tidak hanya membakar lahan hutan. 
+
+Pura Madia Dukuh Bujangga yang berada di dekat hutan juga ikut terbakar. 
+
+Yang terbakar di pura adalah merutumpang 11, meru tumpeng 7, meru tumpang 3, bale pesamuhan, padmasana, degong dan prasasti, katanya. 
+
+. 
+
+Guna mengantisipasi kebakaran semakin meluas, tim gabungan BPBD, TNI, petugas kepolisan, Damkar dan warga setempat membuat sekat dengan melakukan pmbersihan ranting-ranting di lokasi. 
+
+Warga setempat, Sumerta mengatakan, kebakaran terjadi <TIMEX3 tid="t1" type="TIME" value="2019-10-05T14:00">sekitar pukul 14.00</TIMEX3> Wita. 
+
+Kata dia, akibat angin bertiup kencang, kebakaran cepat meluas ke Pura Madia Dukuh Bujangga. 
+
+Warga sempat memadamkan api yang mudah terjangkau, katanya. 
+
+(Eka Parananda/balipost) 
+</TEXT>
+
+</TimeML>

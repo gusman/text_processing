@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0305</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-18" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-18</TIMEX3></DCT>
+
+<TITLE>Ratusan Warga Serbu Pembagian Air Bersih</TITLE>
+
+<TEXT>
+Ratusan warga di kampung Cilengsing dan kampung Cibalanarik, Desa Cibalanarik, Kecamatan Tanjungjaya Kabupaten Tasikmalaya langsung menyerbu armada tangki pengangkut air bersih manakala mendapatkan bantuan pasokan air dari Satlantas Polres Tasikmalaya, <TIMEX3 tid="t1" type="DATE" value="2019-09-18">Rabu (18/9/2019)</TIMEX3>. 
+
+Warga yang mayoritas merupakan ibu-ibu dan remaja putri ini mengantri hanya untuk mendapatkan bebera ember air bersih. 
+
+Pasalnya sudah <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">lebih dari 4 bulan ini</TIMEX3> mereka kesulitan mendapatkan sumber mata air akibat terdampak <TIMEX3 tid="t3" type="DATE" value="2019-SU">musim kemarau</TIMEX3>. 
+
+Hingga warga terpaksa mengambil air dari Sungai Ciwulan dan Situ Sanghiang, meski dengan jarak yang lumayan cukup jauh. 
+
+Dengan membawa serta ember, jerigen serta galon berbagai ukuran, warga sangat antusias menunggu penyaluran air bersih. 
+
+Meski sempat terjadi rebutan ketika air dikeluarkan dari tangki, namun untungnya seluruh warga mendapatkan air yang mereka impikan. 
+
+Sumber air sumur di kampung kami sudah mengering total, sehingga <TIMEX3 tid="t4" type="SET" value="P1D">setiap hari</TIMEX3> harus mengambil air ke sungai Ciwulan yang jaraknya mencapai 500 meter lebih. 
+
+Mencuci, mandi hingga untuk minum pun mengambil dari sana, ujar Yani (44) salah seorang warga di kampung Cileungsing Desa Cibalanarik. 
+
+Kondisi kekeringan yang melanda kampungnya ini sudah terjadi <TIMEX3 tid="t5" type="DURATION" value="P4M">4 bulan</TIMEX3> terakhir. 
+
+Sumur warga mengering hingga membuat warga kesulitan. 
+
+Guna memenuhi kebutuhan air untuk kebutuhan <TIMEX3 tid="t6" type="SET" value="P1D">sehari-hari</TIMEX3>, warga terpaksa harus mengambil air dari sungai Ciwulan dengan medan menanjak dan menurun dengan jarak 1 Km dari pemukiman. 
+
+Pembagian air bersih di kampung Cilengsing ini dilakukan oleh Satlantas Polres Tasikmalaya. 
+
+Untuk wilayah Desa Cibalanarik, pihaknya menyiapkan empat armada truk tangki air dengan total 20.000 liter air bersih. 
+
+Jadi di hari pertama ini kita salurkan bantuan air ke Desa Cibalanarik Kecamatan Tanjungjayan. 
+
+Ada 4 armada tangki air yang masing-masing berkapasitas 5.000 liter. 
+
+Kami memang mensurvei jika di wilayah sini memang sudah sangat terdampak kekeringan, jelas Kasatlantas Polres Tasikmalaya Ajun Komisaris Polisi Atik Suswanti.Untuk wilayah hukum Polres Tasikmalaya pihaknya sengaja menyiapkan 40 unit armada truk air yang bisa mensuplai sedikitnya 220.000 liter air bersih.Penyaluran air bersih merupakan wujud bakti kapolisian kepada masyarakat dan peringatan ulang tahun Satlantas ke-64.Kekeringan yang melanda Desa Cibalanarik diakui Kepala Desa Cibalanarik, Aip Rasyidi.Dirinya menuturkan, setiap kali <TIMEX3 tid="t7" type="DATE" value="2019-SU">musim kemarau</TIMEX3>, wilayahnya selalu dilanda kekeringan.Sedikitnya ada 15 kampung yang terdampak langsung dan <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">kini</TIMEX3> mulai kesulitan air bersih. 
+
+Ia berharap upaya pemberian air bersih dilakukan secara rutin ke wilayahnya.Pada <TIMEX3 tid="t9" type="DATE" value="2019">tahun ini</TIMEX3>, pihaknya baru akan membuat sumur bor dengan mengambil dana dari Dana Desa (DD). 
+
+Kita sudah rencanakan dibuatkan sumur bor, agar masyarakat tidak terlalu kesulitan dalam menghadapi <TIMEX3 tid="t10" type="DATE" value="2019-SU">musim kemarau</TIMEX3>. 
+
+Akan tetapi bertahap karena anggaran yang terbatas, jelas Aip. 
+
+(KAPOL)*** 
+</TEXT>
+
+</TimeML>

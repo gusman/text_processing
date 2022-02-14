@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0439</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-07-26" temporalFunction="false" functionInDocument="CREATION_TIME">2018-07-26</TIMEX3></DCT>
+
+<TITLE>Kekeringan di Wilayah Pantura Kabupaten Tegal Berdampak Pada Panen Padi</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-SU">Musim kemarau</TIMEX3> yang berlarut-larut di wilayah pantura Kabupaten Tegal <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> mengancam hasil panen padi milik petani karena kekeringan. 
+
+Akibatnya, saluran irigasi yang mengalir ke lahan sawah mengalami kekurangan air. 
+
+Salah satu lahan pertanian yang mengering itu berada di Desa Kedungkelor, Kecamatan Warureja. 
+
+Petani di wilayah ini yang biasanya mengandalkan pengairan dari bendungan kesulitan mendapat air untuk mengairi sawah mereka. 
+
+Satu di antara petani Desa Kedungkelor, Suguri (65) mengaku sudah mengalami kekeringam air di lahan sawahnya cukup lama. 
+
+" <TIMEX3 tid="t3" type="DURATION" value="P1M">Sekitar satu bulan</TIMEX3> lamanya ini mengering karena kekurangan air, " ujar Sugiri (65) kepada Tribunjateng. 
+
+com, <TIMEX3 tid="t4" type="DATE" value="2018-07-26">Kamis (26/7/2018)</TIMEX3>. 
+
+Akibat kekurangan air itu, pertumbuhan tanaman padi di lahan seluas satu bahu milik Sugiri terhambat. 
+
+" Banyak yang rusak dan kopong karena kekurangan air. 
+
+Padahal ini tinggal <TIMEX3 tid="t5" type="DURATION" value="P1M">satu bulan</TIMEX3> lagi dipanen, " keluhnya saat berada di sawah.Sugiri mengaku harus mengeluarkan banyak biaya lagi untuk menyewa mesin diesel agar sawahnya bisa terairi. 
+
+// Biasanya, kata Sugiri, biaya sewa mesin berkisar Rp 100 ribu sehari dan belum termasuk BBM. 
+
+" Biaya nambah untuk sewa diesel dan beli bensin. 
+
+Kalau tidak pakai diesel untuk menyedot tidak bakal ada air sama sekali, " tambahnya. 
+
+Menurut Sugiri, air bendungan <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">kini</TIMEX3> tak sampai lahan sawahnya karena banyak yang memakai dan digilir hanya tiga kali <TIMEX3 tid="t7" type="DURATION" value="P1W">seminggu</TIMEX3>. 
+
+Apabila air melimpah, biaya yang dikeluarkan Sugiri dari tanam hingga panen sekitar Rp 6 juta. 
+
+Di <TIMEX3 tid="t8" type="DATE" value="2018-SU">musim kemarau ini</TIMEX3>, pengeluarannya membengkak hingga puluhan juta. 
+
+" Kalau kekeringan begini bisa puluhan juta. 
+
+<TIMEX3 tid="t9" type="DURATION" value="P1D">Sehari</TIMEX3> Rp250 ribu ada untuk sewa diesel, beli bensin minimal 10 liter agar bisa beroperasi maksimal, " kata Sugiri lagi. 
+
+Hal serupa juga diungkapkan petani lainnya yakni Warmad. 
+
+Bahkan, lahan pertanianya sudah mengering sejak <TIMEX3 tid="t10" type="DURATION" value="P2M">dua bulan</TIMEX3> terakhir. 
+
+Ia juga harus menggunakan mesin diesel untuk menyedot air dari sungai atau tanah untuk menyelamatkan tanaman padi miliknya. " Kalau dari sungai beli bensin untuk nyedot pakai diesel 10 liter. 
+
+Kalau dari bumi (tanah) 20 liter tidak cukup, " terangnya.(*) 
+</TEXT>
+
+</TimeML>

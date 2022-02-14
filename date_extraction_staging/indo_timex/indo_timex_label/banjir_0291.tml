@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0291</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-05-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-05-01</TIMEX3></DCT>
+
+<TITLE>Siswa SDN 9 Hutabohu, Tetap Ujian Meski Sekolah Kebanjiran</TITLE>
+
+<TEXT>
+Kendati kakinya harus terendam air setinggi lutut orang dewasa, para 97 siswa siswi SDN 9 Desa Hutabohu, tetap melaksanakan ujian sekolah, <TIMEX3 tid="t1" type="DATE" value="2018-04-30">Senin (30/4)</TIMEX3>. 
+
+Ironisnya ini bukan kali pertama, <TIMEX3 tid="t2" type="SET" value="XXXX-WI">setiap musim penghujan</TIMEX3> datang, siswa di sekolah itu harus rela belajar di atas genangan air, kecuali hari libur. 
+
+Seperti diutarakan Kepala Sekolah SDN 9 Hutabohu Roni Paudi. 
+
+Dikatakannya, belajar di atas genangan air, berulang kali dialami para siswa di sekolahnya. 
+
+Dan ini sudah terjadi sejak <TIMEX3 tid="t3" type="DURATION" value="PXY">beberapa tahun</TIMEX3> belakangan. 
+
+Roni pun menduga, hal itu dikarenakan drainase yang tersumbat, dan diperparah dengan letak bangunan yang lebih rendah dari jalan di depan sekolah. 
+
+Sementara itu, Camat Limboto Barat Hasni D. 
+
+Lamanasa saat meninjau lokasi sekolah yang tergenang banjir itu mengatakan, menurut informasi penanganan banjir di sekolah itu, sudah akan masuk dalam anggaran perubahan. 
+
+Ini sesuai hasil reses anggota DPRD Kabgor yang mengaku akan memperjuangkan anggaran tersebut. 
+
+Hal ini sangat miris mengingat lokasi sekolah yang berada sangat dekat dengan pemukiman warga namun kondisinya memprihatinkan saat hujan turun. 
+
+Dan Alhamdulillah para Aleg pada <TIMEX3 tid="t4" type="DATE" value="2018-04-28">hari sabtu kemarin</TIMEX3> dalam agenda resesnya mengatakan akan mengupayakan penanganannya masuk pada pembahasan perubahan anggaran <TIMEX3 tid="t5" type="DATE" value="2018">tahun ini</TIMEX3>. 
+
+Jelas Hasni. 
+
+Terkait sekolah yang terendam banjnir sendiri, pihak Korwil Kecamatan Limboto Barat Usman Rasid mengaku, sudah meminta kepada dinas pendidikan agar ke 97 siswa SDN 9 Hutabohu tersebut, agar dipindahkan ke sekolah yang lebih aman dari banjir. 
+
+Agar pelaksanaan ujian berlangsung baik. 
+
+Alhamdulillah ini di ijinkan, dengan catatan ke sekolah yang masih satu gugus dengan SDN 9 Limboto Barat yakni di gugus Melati. 
+
+Sehingga usai pelaksanaan ujian <TIMEX3 tid="t6" type="DATE" value="2018-05-01">hari ini</TIMEX3> kami akan segera memindahkan lokasi pelaksanaan ujian hari berikutnya di SDN 10 Desa Hutabohu. 
+
+terang Usman. 
+
+Untuk diketahui, di Wilayah Limboto Barat peserta USBN Sekolah Dasar <TIMEX3 tid="t7" type="DATE" value="2018">tahun ini</TIMEX3> berjumlah 295 siswa, yang mengikuti ujian di 4 gugus atau 4 titik pelaksanaan Ujian yakni di SDN 9 Desa Hutabohu (Gugus Melati), SDN 3 (Gugus Mawar), SDN 13 (Gugus Sakura), SDN 11 dan SDN 16 (Gugus Cempaka). 
+
+(rg-52) 
+</TEXT>
+
+</TimeML>

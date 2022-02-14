@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0285</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-08" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-08</TIMEX3></DCT>
+
+<TITLE>Pasca Gempa di Lombok, Begini Potret Kondisi Rumah Milik Lalu Muhammad Zohri</TITLE>
+
+<TEXT>
+Gempa yang mengguncang Lombok, Nusa Tenggara Barat, <TIMEX3 tid="t1" type="DATE" value="2018-08-05">Minggu (5/8/2018)</TIMEX3> masih meninggalkan duka mendalam bagi segenap masyarakat Indonesia. 
+
+Kita tahu bahwa keluarga sprinter Indonesia, Lalu Muhammad Zohri bertempat tinggal di Lombok. 
+
+Lalu bagaimana keadaan keluarga dan juga kediaman Zohri di Lombok? Dilansir dari BolaSport. 
+
+com, Pengurus Besar Persatuan Atletik Seluruh Indonesia (PB PASI) sebagai organisasi olahraga yang menaungi Zohri mengatakan bahwa keluarga Zohri di Lombok dalam keadaan baik-baik saja. 
+
+Hal itu disampaikan Humas PB PASI, Hendri Firzani saat dihubungi BolaSport. 
+
+com. 
+
+" Aman. 
+
+Rumah dan keluarga Zohri alhamdulillah selamat. 
+
+Namun tetangganya sih pada kena (jadi korban), " ungkap Hendri. 
+
+" Kabarnya mereka (keluarga Zohri) cuma sempat tidur di luar rumah, nggak sampai dibawa ke pengungsian, " tambahnya.Tak hanya selamat dan dalam keadaan baik-baik saja, rupanya kediaman Zohri tetap berdiri kokoh meski diguncang gempa berkekuatan 7.0 SR.Rumah Zohri yang terletak di Dusun Karang Pangsur, Desa Pemenang Barat, Lombok Utara tersebut aman dari guncangan gempa. 
+
+// Menurut laporan yang diinformasikan oleh Tribun Bali, rumah yang baru saja direnovasi <TIMEX3 tid="t2" type="DATE" value="2018-07-08">bulan lalu</TIMEX3> tidak terlihat ada kerusakan bahkan cat dindingnya masih berkilau. 
+
+Sama sekali tidak terlihat ada bekas gempa di rumah Zohri. 
+
+Tidak ada keretakan di rumahnya. 
+
+" Baru <TIMEX3 tid="t3" type="DATE" value="2018-07-08">bulan lalu</TIMEX3> didirikan dan rencananya akan finishing <TIMEX3 tid="t4" type="DATE" value="2018-09-08">bulan depan</TIMEX3>. 
+
+Dan untuk sementara, pembangunannya dihentikan akibat gempa, " ujar Zaini, paman Zohri. 
+
+Padahal, rumah di samping kiri dan kanannya terjadi kerusakan. 
+
+Namun Zaini bersyukur rumahnya aman dan tidak rusak akibat gempa yang terjadi <TIMEX3 tid="t5" type="DATE" value="2018-08-05">Minggu lalu</TIMEX3>. 
+
+Meski aman dari gempa dan tidak terjadi kerusakan, rumah Zohri terpantau dalam keadaan kosong tak berpenghuni. 
+
+Keluarga Zohri memilih mengungsi untuk mengamankan diri, karena tetangga samping Zohri juga mengungsi untuk menanggulangi terjadinya hal yang tidak diinginkan. 
+
+Artikel ini telah tayang di Nakita dengan judul " Terkena Gempa Lombok, Begini Kondisi Rumah Milik Lalu Muhammad Zohri " 
+</TEXT>
+
+</TimeML>

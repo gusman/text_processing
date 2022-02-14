@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1052</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-09-01" temporalFunction="false" functionInDocument="CREATION_TIME">2016-09-01</TIMEX3></DCT>
+
+<TITLE>10 Hektare Hutan Pasaman Terbakar</TITLE>
+
+<TEXT>
+Kebakaran hutan kembali melanda Pasaman.
+
+Kali ini kebakaran terjadi di Jorong Polongan Duo, Nagari Padang Mentinggi, Kecamatan Rao.
+
+Seluas 10 hektare lahan hutan pinus dan lahan perkebunan karet masyarakat diduga terbakar sejak 27 Agustus lalu.
+
+Diperkirakan hutan pinus dan lahan perkebunan karet terbakar sekitar 10 hektare,  kata Kepala BPBD Kabupaten Pasaman, M.
+
+Sayuti Pohan kepada awak media, Kamis (1/9).
+
+Pohan menjelaskan, personel BPBD, Polres Pasaman, Kodim 0305 Pasaman bersama Pemerintah Kecamatan Rao telah berusaha memadamkan api di lokasi kejadian pada Rabu (31/8).
+
+Cuaca panas dan angin kencang membuat kebakaran cepat merambah ke perkebunan karet masyarakat.
+
+(chandra) 
+</TEXT>
+
+</TimeML>
+

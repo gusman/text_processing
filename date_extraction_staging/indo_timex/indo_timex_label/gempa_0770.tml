@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0770</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-21" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-21</TIMEX3></DCT>
+
+<TITLE>Bantuan dari Pemkab Morotai Bagi Korban Gempa Bumi Tiba di Saketa</TITLE>
+
+<TEXT>
+Bantuan kemanusiaan dari Pemerintah Daerah Kabupaten Pulau Morotai bagi korban gempa bumi di Kabupaten Halmahera Selatan tiba di Saketa, Kecamatan Gane Barat, <TIMEX3 tid="t1" type="DATE" value="2019-07-21">Minggu (21/07/2019)</TIMEX3>. 
+
+Tim yang membawa bantuan dikoordinir langsung Kepala BPBD Morotai Dolik Gafur. 
+
+Bantuan berupa kebutuhan pokok bagi pengungsi tersebut diterima langsung oleh Samsudin, Asisten II Bupati Halsel di posko induk di Saketa. 
+
+Kepala BPBD Morotai Dolik Gafur mengatakan bantuan yang diserahkan tadi berupa beras 3.000 kg/120 karung, air mineral 100 dos, supermie 100 dos, minyak kelapa 2 galon, ikan teri 1 karung, tea sari wangi 2 karton serta kopi 2 karton. 
+
+Selain bantuan diatas, Pemkab Morotai juga mengikutsertakan tenaga medis yang nantinya dapat bergabung dengan tim yang ada di posko induk di Saketa. 
+
+Selain bantuan, kita juga nantinya langsung memberikan pelayanan, katanya. 
+
+Mudah-mudahan bantuan ini dapat bermanfaat bagi masyarakat di Halmahera Selatan yang menjadi korban gempa bumi, katanya lagi. 
+
+Sementara itu, Samsudin selaku penerima bantuan mengatakan, atas nama Pemkab Halsel mengucapkan terima kasih kepada Pemkab Morotai atas kepeduliannya terhadap korban gempa bumi di Halsel. 
+
+(As) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0432</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-02-15" temporalFunction="false" functionInDocument="CREATION_TIME">2014-02-15</TIMEX3></DCT>
+
+<TITLE>Bandara Ahmad Yani Mulai Beroperasi Pukul 07.15 WIB</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="TIME" value="2014-02-14T07:15">Pukul 07.15 WIB</TIMEX3> Bandar Udara Ahmad Yani sudah mulai beroperasi hal ini disampaikan oleh General Manager PT Angkasa Pura I, Priyo Jatmiko pada <TIMEX3 tid="t2" type="DATE" value="2014-02-15">Sabtu (15/2/2014)</TIMEX3> " Bandara Ahmad Yani Semarang resmi operasional jadi masyarakat bisa mulai memilih jalur penerbangan di Bandara Ahmada Yani, " ucap PriyoPesawat yang pertama melakukan penerbangan yakni Sriwijaya rute Jakarta <TIMEX3 tid="t3" type="TIME" value="2014-02-14T09:05">pukul 09.05</TIMEX3> dengan jumlah penumpang 112. 
+
+Sedangkan pesawat pertama yang landing yakni Kalstar yang datang dari Ketapang. 
+
+Bandara Ahmad Yani sempat ditutup operasionalnya sementara pada <TIMEX3 tid="t4" type="TIME" value="2014-02-14T11:15">Jumat (14/2/2014) pukul 11.15 WIB</TIMEX3> karena erupsi abu vulkanik gunung Kelud dan mulai dibuka kembail pada <TIMEX3 tid="t5" type="TIME" value="2014-02-15T07:15">Sabtu (15/2/2014) pukul 07.15 WIB</TIMEX3>. 
+
+(*) 
+</TEXT>
+
+</TimeML>

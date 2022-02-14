@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0265</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-11" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-11</TIMEX3></DCT>
+
+<TITLE>Alami Kekeringan, Warga Sampang Antri Berjam-jam untuk Sejeriken Air</TITLE>
+
+<TEXT>
+Warga Desa Palenggiyan, Kecamatan Kedungdung, Kabupaten Sampang, Jawa Timur, harus bekerja keras untuk mendapatkan air bersih di saat puncak kemarau tiba. 
+
+Sebab, sumber air di desa tersebut sudah banyak yang kering. 
+
+Jangankan untuk mandi, untuk minum pun mereka kesulitan. 
+
+Remmeh (60) salah warga Dusun Tebbes, Desa Palenggiyan, harus berangkat <TIMEX3 tid="t1" type="TIME" value="2018-10-10T02">jam 02.00 WIB</TIMEX3> dini hari untuk mendapatkan air. 
+
+Dia bersama dengan warga lainnya mencari air ke sumur-sumur yang masih ada airnya. 
+
+Berbekal jeriken ukuran 25 liter, Remmeh baru bisa pulang ke rumahnya setelah antri <TIMEX3 tid="t2" type="DURATION" value="PTXH">berjam-jam</TIMEX3>. 
+
+" Kalau berangkat <TIMEX3 tid="t3" type="TIME" value="2018-10-10T14">jam 2 malam</TIMEX3>, baru bisa pulang <TIMEX3 tid="t4" type="TIME" value="2018-10-10T05">jam 5 pagi</TIMEX3> setelah jeriken penuh, " ujar Remmeh, <TIMEX3 tid="t5" type="DATE" value="2018-10-11">Kamis (11/10/2018)</TIMEX3>. 
+
+Menurut Remmeh, lamanya waktu untuk mendapatkan air karena harus antri dengan warga lainnya. 
+
+Selain harus antri, juga menunggu keluarnya air di dalam sumur. 
+
+Debit air dari sumur sangat kecil. 
+
+" <TIMEX3 tid="t6" type="DURATION" value="PT1H">Satu jam</TIMEX3> belum tentu dapat satu jeriken, " ungkap nenek dengan empat cucu ini.Dalam <TIMEX3 tid="t7" type="DURATION" value="P1W">seminggu</TIMEX3>, Remmeh bisa menyimpan air 100 liter. 
+
+// Air yang didapatkan itu harus cukup untuk minum, memasak dan hewan ternak selama <TIMEX3 tid="t8" type="DURATION" value="P1W">seminggu</TIMEX3>. 
+
+Keluarga Remmeh kadang harus mengurangi untuk urusan mandi. 
+
+" Kalau mandi tidak begitu penting. 
+
+Yang utama untuk masak dan minum dan minumnya sapi, " ujarnya. 
+
+Kepala Desa Palenggiyan Khoiri mengakui, jika <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> di desanya betul-betul krisis air. 
+
+Bantuan dari pemerintah hanya <TIMEX3 tid="t10" type="DATE" value="P1W">seminggu</TIMEX3> dua kali. 
+
+Itu pun hanya dibagikan per jeriken kepada warga dan belum mencukupi. 
+
+Pernah ada upaya untuk membuat sumur bor. 
+
+Namun gagal karena tidak menemukan sumber air. 
+
+" Sudah tiga kali saya bikin bor sumur, tapi ketiga-tiganya gagal meskipun kedalamannya mencapai 120 meter, " terang Khoiri. 
+
+Untuk mencari solusi krisis air bersih, Khoiri mengaku sudah kehabisan cara.Meskipun ada dua embung air di desanya, namun belum bisa mengatasi. 
+
+Ketika kemarau, air di embung hanya bisa digunakan untuk mandi meskipun warna airnya sudah keruh dan tak layak.Penulis: 
+</TEXT>
+
+</TimeML>

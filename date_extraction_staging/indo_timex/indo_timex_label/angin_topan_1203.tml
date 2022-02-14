@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1203</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-12-04" temporalFunction="false" functionInDocument="CREATION_TIME">2017-12-04</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS - Hujan Deras, Daihatsu Xenia Tertimpa Pohon Tumbang di Purwosari Pasuruan</TITLE>
+
+<TEXT>
+Hujan deras disertai angin kencang yang melanda kawasan Purwosari, Kabupaten Pasuruan, <TIMEX3 tid="t1" type="TIME" value="2017-12-04TEV">Senin (4/12/2017) petang</TIMEX3> membawa korban. 
+
+Sebuah mobil Daihatsu Xenia Nopol N <TIMEX3 tid="t2" type="DATE" value="1473">1473</TIMEX3> AS ringsek tertimpa pohon tumbang saat melintas Jl Raya Purwosari, desa Bakalan, Kecamatan Purwosari. 
+
+Belum diketahui identitas sopir dan jumlah penumpang yang ada di dalam mobil ini. 
+
+Hingga berita ini diturunkan, warga setempat sedang berusaha mengevakuasi mobil silver itu. 
+
+" Tiba - tiba pohonnya tumbang begitu saja. 
+
+Kemungkinan terkena angin kencang, " kata salah satu warga, Kartuji. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, Pasuruan Kabupaten dan Kota sedang diguyur hujan deras dan disertai dengan angin yang sangat kencang. 
+
+(
+</TEXT>
+
+</TimeML>

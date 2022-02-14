@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0867</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-26" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-26</TIMEX3></DCT>
+
+<TITLE>Jembatan Gantung Lubuk Mumpo Gunung Megang Diterjang Angin Puting Beliung, Begini Penampakannya!</TITLE>
+
+<TEXT>
+Warga Desa Lubuk Mumpo, keluhkan kesulitan beraktifitas. 
+
+Pasalnya jembatan gantung yang menghubungkan desa tersebut nyaris putus dihantam angin puting beliung, di Desa Lubuk Mumpo, Kecamatan Gunung Megang, Kabupaten Muaraenim, <TIMEX3 tid="t1" type="DATE" value="2019-09-26">Kamis (26/9/2019)</TIMEX3>. 
+
+Menurut Pjs Kades Lubuk Mumpo Subran Lekat, mengatakan bahwa jembatan tersebut panjang sekitar 200 meter dan lebar 1,5 meter. 
+
+Jembatan tersebut dibangun <TIMEX3 tid="t2" type="DATE" value="1992">tahun 1992</TIMEX3>, dan pernah direhab. 
+
+Untuk itu, pihaknya meminta kepada pemerintah untuk segera diperbaiki karena jembatan gantung tersebut merupakan akses yang vital bagi masyarakat. 
+
+Untuk jumlah penduduk sebanyak <TIMEX3 tid="t3" type="DATE" value="2880">2880</TIMEX3> jiwa dengan <TIMEX3 tid="t4" type="DATE" value="1894">1894</TIMEX3> mata pilih. 
+
+Ditambahkan Kasi Pemerintahan Lubuk Mumpo Erwansyah (40) dan Kasi Kesra Lubuk Mumpo Muhamad Pawi (52) mengatakan jembatan gantung tersebut rusak setelah diterjang angin puting beliung <TIMEX3 tid="t5" type="DATE" value="2019-09-25">kemarin</TIMEX3> (<TIMEX3 tid="t6" type="DATE" value="2019-09-25">Rabu</TIMEX3>, red) <TIMEX3 tid="t7" type="TIME" value="2019-09-25T17:00">sekitar pukul 17.00</TIMEX3>. 
+
+Akibat terkena angin puting beliung tersebut kondisi jembatan gantung rusak berat tidak bisa lagi digunakan karena miring ada tali seling yang putus. 
+
+Akibatnya masyarakat kesulitan untuk beraktifitas terutama anak-anak sekolah dan mengeluarkan hasil bumi. 
+
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, warga terpaksa menggunakan perahu untuk alat transportasi. 
+
+Menurut salah seorang pengemudi perahu ketek Sulaiman (24) dan Ahyani (63) warga Lubuk Mumpo, bahwa pihaknya meminta kepada pemerintah untuk secepatnya memperbaiki jembatan gantung tersebut karena memang sangat diperlukan warga. 
+
+Ia menggunakan perahu ini, biasanya hanya pada musim buah-buahan dan mengangkut hasil bumi, selain itu perahunya tidak digunakan. 
+
+Tetapi meski dirinya ada perahu, namun meminta lebih baik jembatan gantung diperbaiki. 
+
+// " <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> warga menyeberang pulang pergi digratiskan oleh desa, tetapi belum tahu kedepan, " ujarnya. 
+
+Sekda Muaraenim Ir H Hasanudin MSi, jembatan gantung tersebut rencananya memang akan diperbaiki, bahkan telah dianggarkan dalam ABT APBD Muaraenim <TIMEX3 tid="t10" type="DATE" value="2019">Tahun 2019</TIMEX3> sekitar Rp 200 juta. 
+
+Tetapi jika melihat kerusakannya, sepertinya dana perbaikannya lebih dari Rp 200 juta, mungkin <TIMEX3 tid="t11" type="DATE" value="FUTURE_REF">nanti</TIMEX3> akan menggunakan dana tidak terduga, sebab jembatan gantung ini sifatnya segera untuk diperbaiki. 
+
+Ditambahkan anggota DPRD Muaraenim Indra Gani, membenarkan pihaknya telah menganggarkan dalam ABT APBD <TIMEX3 tid="t12" type="DATE" value="2019">tahun 2019</TIMEX3> sebesar Rp 200 juta untuk rehab. 
+
+Namun jika melihat kondisi kerusakannya sepertinya dana tersebut kurang, dan yang paling memungkinkan menggunakan dana bencana alam. 
+
+Mengenai keinginan warga untuk ditingkatkan menjadi jembatan permanent permasalahannya lahannya belum ada jika masih menggunakan dilahan yang lama. 
+
+
+</TEXT>
+
+</TimeML>

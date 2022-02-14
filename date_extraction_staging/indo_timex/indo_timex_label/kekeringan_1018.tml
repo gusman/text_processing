@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_1018</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-08-03" temporalFunction="false" functionInDocument="CREATION_TIME">2015-08-03</TIMEX3></DCT>
+
+<TITLE>Warga Desa Ini Terpaksa Konsumsi Air dari Batang Pisang</TITLE>
+
+<TEXT>
+Warga Desa Iligai di Kecamatan Lela, Kabupaten Sikka, Pulau Flores, Nusa Tenggara Timur mulai mengkonsumsi air dari batang pisang, karena sumber air tanah mulai mengering sebagai dampak dari El Nino. 
+
+Kepala Desa Iligai Valentino Mayong mengatakan mengkonsumsi air dari batang pisang dan pohon peri merupakan pilihan terakhir bagi warga setempat, karena sumber mata air yang ada sudah mulai mengering. 
+
+Menurut dia, tanaman pisang dan pohon peri itu diyakini masyarakat setempat dapat menghasilkan air yang banyak sehingga dimanfaatkan untuk masak dan minum. 
+
+Warga setempat sudah tidak sanggup lagi mengambil air dari sumber mata air yang jauh, karena debitnya pun terus berkurang dan sebagiannya lagi sudah mengering akibat El Nino, ujarnya. 
+
+Ia mengatakan pemerintah kecamatan sudah mengatasi masalah tersebut dengan tangkinisasi namun masyarakat desa tidak sanggup membeli, karena harganya mencapai Rp500.000 sampai Rp1 juta per tangki. 
+
+Ibaratnya sudah jatuh tertimpa tangga pula siapa yang bisa mampu membeli air tangki dengan harga selangit seperti itu? Masyarakat desa tak sanggup membelinya, katanya. 
+
+Ia menambahkan untuk mengatasi kekurangan air tersebut, warga desa terpaksa mencolek batang pisang dan pohon peri dengan benda tajam untuk mendapatkan air. 
+
+Mereka sudah siapkan wadah seperti ember atau jerigen untuk menadah air dari kedua pohon kehidupan itu. 
+
+Ada pula yang berjalan kaki sejauh 5 10 kilometer untuk mencari air di wilayah pegunungan dan pantai, ujarnya. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Sikka Silvanus Tibo yang dihubungi terpisah, juga mengakuinya, dan mengatakan masalah kekeringan tidak hanya melanda Sikka, tetapi juga daerah lainnya di NTT. 
+
+Masyarakat tidak perlu panik, karena sudah saatnya kita sudah memasuki <TIMEX3 tid="t1" type="DATE" value="2015-SU">musim kemarau</TIMEX3> panjang. 
+
+Tidak perlu kita persoalkan, karena masalah ini merupakan fenomena alam yang tidak bisa dibendung oleh manusia, ujarnya. 
+
+Namun, ia tidak menjelaskan, apakah program tangkinisasi itu bersifat cuma-cuma atau menggunakan sistem jual beli dengan harga yang melangit seperti yang dialami warga Desa Iligai tersebut 
+</TEXT>
+
+</TimeML>

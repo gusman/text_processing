@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0660</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-30" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-30</TIMEX3></DCT>
+
+<TITLE>Pemerintah Siapkan Pesawat Khusus Untuk Suplai Makanan Korban Gempa di Palu</TITLE>
+
+<TEXT>
+Guna membantu mendistribusikan suplai air dan makanan yang <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sangat dibutuhkan korban gempa bumi dan tsunami di Palu dan Donggala, Sulawesi Tengah (Sulteng), pemerintah akan menyiapkan pesawat khusus. 
+
+Hal ini mengingat kondisi bandara yang belum bisa beroperasi secara normal, kata Presiden Jokowi kepada wartawan saat meninjau Pantai Talise, di Kota Palu, <TIMEX3 tid="t2" type="TIME" value="2017-09-30TAF">Minggu (30/9) siang</TIMEX3>. 
+
+Dijelaskan Presiden, karena Bandara Mutiara Sis Al Jufri, Kota Palu, masih darurat dan belum bisa didarati secara normal, maka pemerintah akan menyiapkan pesawat khusus supaya makanan yang akan dibagikan kepada korban gempa bisa masuk. 
+
+Saat berbincang dengan warga di Pantai Talise, masyarakat mengkhawatirkan perihal surat-surat penting yang hilang, Presiden Jokowi meminta masyarakat agar melapor terlebih <TIMEX3 tid="t3" type="DATE" value="PAST_REF">dahulu</TIMEX3> kepada pihak yang berwenang. 
+
+<TIMEX3 tid="t4" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> lapor <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dulu</TIMEX3> ke kepolisian. 
+
+<TIMEX3 tid="t6" type="DURATION" value="P2W">Dua minggu</TIMEX3> saya ke sini lagi untuk memastikan, ujar Kepala Negara. 
+
+Presiden menegaskan, pemerintah berkomitmen untuk memperbaki fasilitas publk yang terdampak gempa dan tsunami. 
+
+Ia meyakinkan, proses rekonstruksi dan rehabilitas akan dilakukan setelah tahapan evakuasi selesai. 
+
+Termasuk jembatan yang ambruk, rumah sakit yang rusak, bandara yang rusak, sekolah rusak, dikerjakan pemerintah, tegas Presiden Jokowi. 
+
+(BPMI Setpres/ES) 
+</TEXT>
+
+</TimeML>

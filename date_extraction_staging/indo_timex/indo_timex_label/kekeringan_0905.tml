@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0905</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-07-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-07-03</TIMEX3></DCT>
+
+<TITLE>28 Desa di Sragen Dilanda Kekeringan</TITLE>
+
+<TEXT>
+28 desa dari tujuh kecamatan di Kabupaten Sragen mengalami kekeringan. 
+
+Demikian disampaikan oleh Kepala Pelaksana Harian (Kalakhar) Badan Penanggulangan Bencana Daerah (BPBD) Sragen, Sugeng Priyono, <TIMEX3 tid="t1" type="TIME" value="2018-07-03TAF">Selasa (3/7/2018) siang</TIMEX3>. 
+
+Dia mengutarakan, kekeringan terutama melanda kecamatan yang berada di utara Sungai Bengawan Solo. 
+
+Beberapa kawasan sudah kesulitan mendapat air bersih, karena sumber air mulai mengering. 
+
+" Pemetaan BPBD terdapat 7 Kecamatan, di 28 desa yang terdampak kekeringan, ini sesuai data evaluasi penanganan kekeringan pada <TIMEX3 tid="t2" type="DATE" value="2017">2017 lalu</TIMEX3>, " jelas dia. 
+
+. 
+
+Sedangkan bantuan air bersih sudah dikirim di tiga desa, meliputi Gebang kecamatan Sukodono, Ngargotirto Sumberlawang, dan Banyuurip Kecamatan Jenar. 
+
+" (Desa) yang lain akan dilakukan droping air bersih <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">nanti</TIMEX3> akhir <TIMEX3 tid="t4" type="DATE" value="2018-07">Juli</TIMEX3>, kalau <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> masih ada air bersih yang bisa dimanfaatkan, " bebernya.Sugeng mengatakan, sulitnya pemenuhan kebutuhan air bersih di sejumlah wilayah diakibatkan oleh <TIMEX3 tid="t6" type="DATE" value="2018-SU">musim kemarau</TIMEX3>. " BPBD Sragen mengalokasikan anggaran Rp 44,5 juta,setara 150 tangki air bersih. " " Karena ini kan <TIMEX3 tid="t7" type="SET" value="P1Y">setiap tahun</TIMEX3> terjadi, " ungkap dia. 
+
+.Menurutnya perlu penyambungan jaringan PDAM atau pembuatan sumur dalam. " Kami memang hanya menangani dampak dari kekeringan ini, kalau penanganan jangka panjang memang kewenangan beberapa OPD (Organisasi Perangkat Daerah, Red), " pungkas dia. 
+
+(*) 
+</TEXT>
+
+</TimeML>

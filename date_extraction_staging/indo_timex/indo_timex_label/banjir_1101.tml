@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1101</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-07-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-07-03</TIMEX3></DCT>
+
+<TITLE>Banjir di Mubar, 20 Rumah Terendam dan Jalan Lingkar Lumpuh Total</TITLE>
+
+<TEXT>
+Banjir menerjang Desa Guali, Kecamatan Kusambi, Kabupaten Muna Barat (Mubar), Sulawesi Tenggara (Sultra), <TIMEX3 tid="t1" type="DATE" value="2018-07-03">Selasa (3/7/2018)</TIMEX3>. 
+
+Sedikitnya 20 rumah warga terendam banjir dan jalan lingkar (ring road) yang menghubungkan Desa Guali dan Maperaha lumpuh total. 
+
+Bamin Unit Intel Kodim 1416/Muna Serda Hajar saat dikonfirmasi membenarkan kejadian tersebut. 
+
+Dikatakan, akibt hujan dengan intensitas tinggi yang terjadi sejak <TIMEX3 tid="t2" type="TIME" value="2018-07-02T05:00">pukul 05.00</TIMEX3> Wita ini mengakibatkan jalan ring road sekitar 500 meter lumpuh total dan 20 rumah terendam air. 
+
+Warga sekitar tidak dapat beraktivitas akibat banjir tersebut. 
+
+Curah hujan semakin tinggi sehingga dapat menambah ketinggian air. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> saja airnya sudah mencapai pinggang orang dewasa, kata Serda Hajar. 
+
+Tidak ada pembuangan air yang dekat dari desa ini, sehingga semakin tinggi curah hujannya debet air semakin tinggi pula. 
+
+Akibat banjir hewan ternak warga setempat seperti ayam banyak yang mati, jelasnya. 
+
+Pemerintah daerah setempat telah menurunkan satu unit eskavator untuk membuat saluran air di sekitar ring road guna mencegah debit air semakin meninggi. 
+
+(B) 
+</TEXT>
+
+</TimeML>

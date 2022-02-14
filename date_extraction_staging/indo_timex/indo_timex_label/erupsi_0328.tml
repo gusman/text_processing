@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0328</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-19" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-19</TIMEX3></DCT>
+
+<TITLE>Gunung Sinabung Ngamuk, Sejumlah Desa Berabu Tebal dan Gelap Gulita Seperti Malam Hari</TITLE>
+
+<TEXT>
+Kepala Pos Pengamatan Gunung Sinabung Armen Putra menginformasikan telah terjadi awan panas letusan Gunung Sinabung dengan tinggi kolom 5.000 meter, amplitudo 120 milimeter, dan lama gempa <TIMEX3 tid="t1" type="DURATION" value="PT607S">607 detik</TIMEX3>. 
+
+Informasi tersebut berdasarkan data Pusat Vulkanologi dan Mitigasi Bencana Geologi Pos Pengamatan Gunung Sinabung, tepatnya <TIMEX3 tid="t2" type="TIME" value="2018-02-18T08:53">pukul 08.53 WIB</TIMEX3>. 
+
+Padahal, <TIMEX3 tid="t3" type="TIME" value="2018-02-18T22:00:00">sekitar dua jam sebelumnya</TIMEX3>, lebih kurang <TIMEX3 tid="t4" type="TIME" value="2018-02-18T06:00">pukul 06.00 WIB</TIMEX3>, menurut laporan Moh Nurul Asrori, petugas di pos pengamatan Gunung Sinabung, cuaca di sekitar wilayah Gunung Sinabung cerah dan mendung. 
+
+<TIMEX3 tid="t5" type="DATE" value="PAST_REF">Saat itu</TIMEX3> angin bertiup lemah ke arah selatan dan barat dengan suhu udara 16-17 derajat celsius. 
+
+Sesuai pengamatan, ada 19 guguran dengan jarak luncur 500 sampai 2.000 meter mengarah ke tenggara dan selatan. 
+
+" Jarak luncur sektoral selatan-tenggara sejauh 4.900 meter dan sektoral tenggara-timur sejauh 3.500 meter. 
+
+Angin lemah ke barat dan selatan. 
+
+Tingkat aktivitas Gunung Sinabung masih di level IV atau Awas. 
+
+Kami imbau semua orang, khususnya warga sekitar, untuk menjauhi zona merah, " kata Armen, <TIMEX3 tid="t6" type="DATE" value="2018-02-19">Senin (19/2/2018)</TIMEX3>. 
+
+Zona merah atau wilayah larangan adalah area tanpa aktivitas di dalam radius 3 kilometer dari puncak, dalam jarak 7 kilometer untuk sektor selatan-tenggara, dalam jarak 6 kilometer untuk sektor tenggara-timur, serta dalam jarak 4 kilometer untuk sektor utara-timur Gunung Sinabung. 
+
+Masyarakat yang berada dan bermukim di dekat sungai-sungai yang berhulu di Gunung Sinabung juga wajib waspada terhadap potensi bahaya lahar. 
+
+" Sudah terbentuk bendungan di hulu Sungai Laborus, maka penduduk yang bermukim dan beraktivitas di sekitar hilir daerah aliran sungai agar tetap waspada karena bendungan sewaktu-waktu dapat jebol karena tidak kuat menahan volume air sehingga mengakibatkan lahar atau banjir bandang ke hilir, " ucap Armen.Luncuran awan panas turun menutupi pancaran sinar matahari ke beberapa desa di kaki Gunung Sinabung sehingga membuat gelap gulita seperti <TIMEX3 tid="t7" type="TIME" value="2018-02-18TNI">malam hari</TIMEX3>. 
+
+// Hal itu terjadi di Desa Sigarang-garang, Desa Payung, Selandi Baru dan Laukawar. 
+
+Sementara hujan abu dan pecahan material vulkanologi melanda hampir seluruh kawasan sekitar gunung, terutama di Desa Gurki, Payung, dan Sukandebi. 
+
+Bahkan warga Desa Naman sudah mengungsi ke Desa Ndeskati. 
+
+" Dari <TIMEX3 tid="t8" type="TIME" value="2018-02-18T08">jam 08.30 pagi</TIMEX3> hingga <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih seperti <TIMEX3 tid="t10" type="TIME" value="UNKNOWN">jam 12 malam</TIMEX3>. 
+
+Awan panas masih berlangsung terus. 
+
+Abu pun semakin tebal, Desa Gurki dan Payung butuh masker, " kata Hasan Tarigan, warga Desa Perbaji, yang dikonfirmasi Kompas. 
+
+com, <TIMEX3 tid="t11" type="DATE" value="2018-02-19">Senin (19/2/2018)</TIMEX3>. 
+
+Petugas gabungan yang terdiri dari BPBD Karo, Koramil 04 dan 05, serta kepolisian sudah berkoordinasi untuk menempatkan titik mobil Damkar dan water cannon. 
+
+Petugas juga sudah membagi-bagikan masker untuk semua warga yang terdampak. 
+
+Hingga berita ini diturunkan (11:57 <TIMEX3 tid="t12" type="TIME" value="UNKNOWN">WIB</TIMEX3>), erupsi masih berlangsung. 
+
+Sementara itu, Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho membenarkan mengenai erupsi besar Gunung Sinabung <TIMEX3 tid="t13" type="DATE" value="2018-02-19">hari ini</TIMEX3>. 
+
+Namun, dia belum bisa memberikan keterangan resmi dan tambahan terkait peristiwa tersebut. 
+
+" Iya betul, kami sedang koordinasi dengan PVMBG dan BPBD.Sampai <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada informasi ada korban jiwa. 
+
+Masyarakat harap tetap tenang dan tidak panik, " ucap Sutopo.Diberitakan sebelumnya, <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tercatat 7.214 jiwa atau 2.038 kepala keluarga berada di delapan pos pengungsian.Namun, hanya ada 2.863 jiwa yang tinggal di pos, sedangkan warga lain memilih tinggal di luar area pengungsian. 
+</TEXT>
+
+</TimeML>

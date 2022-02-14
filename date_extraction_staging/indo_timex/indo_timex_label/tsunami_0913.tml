@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0913</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Khawatir Tsunami Susulan, Ratusan Warga Bandar Lampung Mengungsi ke Masjid</TITLE>
+
+<TEXT>
+Khawatir terjadi tsunami susulan, ratusan warga Telukbetung, Bandar Lampung mengungsi ke dataran tinggi, <TIMEX3 tid="t1" type="DATE" value="2018-12-23">Minggu</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2018-12-23TMO">23 Desember 2018 pagi</TIMEX3>. 
+
+Dilansir TribunPekanbaru. 
+
+com dari Tribun Lampung <TIMEX3 tid="t3" type="DATE" value="2018-12-23">Minggu</TIMEX3>, <TIMEX3 tid="t4" type="DATE" value="2018-12-23">23 Desember 2018</TIMEX3>, banyak warga mengungsi di gedung Balai Keratun Pemprov Lampung. 
+
+Selain itu, nampak juga warga yang mengungsi di Masjid Al-Furqon. 
+
+Dampak tsunami yang menerjang pantai di Selat Sunda, khususnya di daerah Pandenglang, Lampung Selatan dan Serang terus bertambah. 
+
+Hingga <TIMEX3 tid="t5" type="TIME" value="2018-12-23T07:00">Minggu 23 Desember 2018 pukul 07.00 WIB</TIMEX3>, data sementara jumlah korban dari bencana tsunami di Selat Sunda tercatat 43 orang meninggal dunia, 584 orang luka-luka dan 2 orang hilang. 
+
+Kerugian fisik meliputi 430 unit rumah rusak berat, 9 hotel rusak berat, 10 kapal rusak berat dan puluhan rusak. 
+
+Hal tersebut disampaikan Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho dalam siaran persnya kepada Tribunlampung. 
+
+co. 
+
+id, <TIMEX3 tid="t6" type="TIME" value="2018-12-23TMO">Minggu 23 Desember 2018 pagi</TIMEX3>. 
+
+" Untuk jumlah pengungsi, <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih dalam pendataan. 
+
+Pandeglang adalah daerah yang paling parah terdampak tsunami, " ujar Sutopo.Sutopo menjelaskan, di Kabupaten Pandeglang tercatat 33 orang meninggal dunia, 491 orang luka-luka, 400 unit rumah rusak berat, 9 hotel rusak berat, dan 10 kapal rusak berat. 
+
+// Daerah yang terdampak, terus Sutopo, adalah permukiman dan kawasan wisata di sepanjang Pantai seperti Pantai Tanjung Lesung, Sumur, Teluk Lada, Penimbang dan Carita. 
+
+" Saat kejadian banyak wisatawan berkunjung di pantai sepanjang Pandeglang, " tuturnya. 
+
+Kemudian, di Lampung Selatan, jelas Sutopo, sebanyak 7 orang meninggal dunia, 89 orang luka-luka dan 30 unit rumah rusak berat. 
+
+Sedangkan di Serang tercatat 3 orang meninggal dunia, 4 orang luka-luka dan 2 orang hilang. 
+
+" Pendataan masih dilakukan. 
+
+Kemungkinan data korban dan kerusakan akan bertambah. 
+
+Penanganan darurat juga terus dilalukan. 
+
+Status tanggap darurat dan struktur organisasi tanggap darurat, pendirian posko, dapur umum dan lainnya masih disiapkan. 
+
+Alat berat juga dikerahkan untuk membantu evakuasi dan perbaikan darurat, " papar Sutopo. 
+
+Sutopo juga mengimbau kepada masyarakat untuk tidak melakukan aktivitas di sekitar pantai <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Penyebab TsunamiGelombang pasang yang menerjang wilayah Banten dan lampung pada <TIMEX3 tid="t9" type="TIME" value="2018-12-22TNI">Sabtu (22/12/2018) malam</TIMEX3> tidak selain menyebabkan kerusakan juga memicu sejumlah pertanyaan. 
+
+Badan Meteorologi, Klimatologi dan Geofisika (BMKG) sempat menyatakan dalam akun Twitter-nya bahwa gelombang itu hanya akibat purnama. 
+
+Namun, keterangan pers dari Kepala Pusat Gempabumi dan Tsunami BMKG Rahmat Triyono kemudian menyatakan bahwa yang terjadi adalah tsunami. 
+
+// BMKG lantas menghapus pernyataannya di Twitter. 
+
+Rahmat mengatakan, tsunami yang terjadi dengan ketinggian tertiggi 0,9 meter itu misterius karena belum diketahui sebabnya. 
+
+Umumnya, tsunami disebabkan oleh aktivitas tektonik atau gempa. 
+
+Namun, pendataan BMKG pada <TIMEX3 tid="t10" type="DATE" value="2018-12-22">Sabtu</TIMEX3> mengungkap bahwa tak ada gempa di sekitar Banten dan Lampung yang bisa memicu tsunami. 
+
+Ahli tsunami dari Badan Pengkajian dan Penerapan Teknologi (BPPT) Widjo Kongko yang melakukan kaji cepat mengungkapkan, ada indikasi tsunami tersebut disebabkan oleh erupsi Anak Krakatau. 
+
+" Kemungkinan besar terjadi flank failure/collapse akibat aktivitas Anak Krakatau <TIMEX3 tid="t11" type="TIME" value="2018-12-23TEV">petang ini</TIMEX3> dan akhirnya menimbulkan tsunami, " katanya. 
+
+Jika benar hal itu sebabnya, maka fenomena ini masih bisa berulang. 
+
+" Aktivitas Anak Krakatu belum selesai dan flank atau collapse yang terjadi bisa memicu ketidakstabilan berikutnya, " jelasnya. 
+
+Sementara itu, Kepala Bidang Mitigasi Gunung Api Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) Wawan Irawan mengatakan bahwa Anak Krakatau memang mengalami erupsi pada <TIMEX3 tid="t12" type="TIME" value="2018-12-22T18:43">Sabtu pukul 18.43 WIB</TIMEX3>, terpantau dari Pos Pengamatan Gunung Api Pasauran. 
+
+Meski demikian, dia beranggapan bahwa erupsi Anak Krakatau terlalu kecil untuk menimbulkan gelombang besar. 
+
+Hal yang sama diungkapkan oleh ahli geologi Surono. 
+</TEXT>
+
+</TimeML>

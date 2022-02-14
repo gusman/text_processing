@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0503</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-05-27" temporalFunction="false" functionInDocument="CREATION_TIME">2014-05-27</TIMEX3></DCT>
+
+<TITLE>Warga Girimulyo Kesulitan Air Bersih Kulonprogo</TITLE>
+
+<TEXT>
+Warga Pedukuhan Sabrang Lor, Desa Giripurwo, Kecamatan Girimulyo mulai mengalami kesulitan mendapatkan air bersih sejak <TIMEX3 tid="t1" type="DURATION" value="P2M">dua bulan</TIMEX3> terahkir. 
+
+Mereka terpaksa mengambil air dari mata air Kali Lanang dan harus menempuh jarak hingga dua kilometer. 
+
+Adapun wilayah yang geografisnya berupa perbukitan tersebut setiap tahunnya memang jadi langganan kekeringan sehingga warga kesulitan mendapat air bersih. 
+
+Menurut seorang warga yang tinggal di bagian paling atas pedukuhan, Yatinem (42), dia mengambil air di tuk (mata air) Kali lanang tersebut <TIMEX3 tid="t2" type="SET" value="P1D">setiap hari</TIMEX3> di <TIMEX3 tid="t3" type="TIME" value="2014-05-27TMO">pagi</TIMEX3> dan <TIMEX3 tid="t4" type="TIME" value="2014-05-26TAF">sore</TIMEX3>. 
+
+Lokasinya berjarak sekitar 1 kilometer dari rumahnya. 
+
+Airnya ya ambil dari sini. 
+
+Walaupun lokasinya agak jauh, <TIMEX3 tid="t5" type="DATE" value="2014-02-01">sekitar 1-2</TIMEX3> kilometer, ya tetap harus ke sini biar dapat air, kata Yatinem, <TIMEX3 tid="t6" type="DATE" value="2014-05-27">Selasa (27/5/2014)</TIMEX3>. 
+
+Dia pun mengantri mengambil air di tempat tersebut, bergantian bersama warga lainnya. 
+
+Untuk memenuhi kebutuhan air 60-80 liter <TIMEX3 tid="t7" type="DURATION" value="P1D">sehari</TIMEX3>, dia pun bolak-balik mengambil air dengan satu jerigen berkapasitas 20 liter dalam setiap pengambilan. 
+
+Tuk Kali Lanang tersebut menurutnya merupakan satu-satunya sumber mata air di wilayah setempat yang tidak pernah kering meski kemarau panjang melanda. 
+
+Ada sekitar 25 kepala keluarga (KK) yang selalu menggunakan mata air tersebut untuk mendapatkan air bersih. 
+
+Biasanya, air bersih tersebut digunakan untuk keperluan <TIMEX3 tid="t8" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+Mulai dari memasak, mandi, mencuci hingga untuk kebutuhan konsumsi, katanya. 
+
+Terpisah, Direktur PDAM Tirta Binangun, Djumantoro mengatakan, pihaknya sudah menyiagakan lima unit armada tangki air bersih untuk keperluan dropping. 
+
+Namun, sejauh ini belum ada permintaan bantuan air bersih yang masuk ke pihaknya. 
+
+Dari pemetaan yang dilakukannya, setidaknya ada beberapa wilayah di Kulonprogo yang berpotensi mengalami kekeringan, terutama wilayah dengan kontur geografisnya berupa perbukitan. 
+
+Antara lain, Girimulyo, Samigaluh, Kalibawang, Pengasih, Nanggulan, Kokap, dan Sentolo. 
+
+Mulai <TIMEX3 tid="t9" type="DATE" value="2014-06">Juni mendatang</TIMEX3>, kami juga membuka posko pengaduan kekeringan. 
+
+Masyarakat yang mengalami kekeringan bisa melapor ke posko dan kami akan menindaklanjutinya, kata dia. 
+
+(*) 
+</TEXT>
+
+</TimeML>

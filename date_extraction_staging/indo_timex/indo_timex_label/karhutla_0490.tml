@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0490</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-11" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-11</TIMEX3></DCT>
+
+<TITLE>Bantuan dari Malaysia Mulai Padamkan Api Senin</TITLE>
+
+<TEXT>
+Setelah <TIMEX3 tid="t1" type="DURATION" value="P100D">lebih dari seratus hari</TIMEX3> Kebakaran Hutan dan Lahan (Kahutla) tidak kunjung bisa diselesaiakan, pemerintah akhirnya meminta bantuan dari negara-negara sahabat. 
+
+Negara yang sudah memastikan membantu adalah Malaysia, Singapura dan Australia. 
+
+Kepala Pusat Data Informasi dan Humas Badan Nasional dan Penanggulangan Bencana (BNPB), Sutopo Purwo Nugroho, kepada wartawan di kantor BNPB, Jakarta Timur, <TIMEX3 tid="t2" type="DATE" value="2015-10-11">Minggu</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2015-10-11">(11/10/2015)</TIMEX3>, mengatakan bahwa pemerintah Malaysia telah mengirimkan satu unit pesawat Bombardier 415 MP dengan kapasitas 6 ton. 
+
+" Cara loading airnya dengan scooping, dengan cara bermanuver mengambil air dari laut, lalu terbang lagi dan menyiramkan air ke lokasi kebakaran, " kata Sutopo. 
+
+Pesawat tersebut akan beroperasi mulai <TIMEX3 tid="t4" type="DATE" value="2015-10-12">besok</TIMEX3>, <TIMEX3 tid="t5" type="DATE" value="2015-10-12">Senin (12/10/2015)</TIMEX3>, sampai <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">Jumat mendatang (16/10)</TIMEX3>, atau hanya <TIMEX3 tid="t7" type="DURATION" value="P5D">lima hari</TIMEX3> beroperasi. 
+
+Pesawat tersebut <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum beroperasi, karena menunggu kedatangan helikopter jenis Dolphin dari Malaysia, yang akan memandu operasi pesawat tersebut. 
+
+" Setelah itu, pihak Malaysia akan melihat situasi apakah ditarik pulang atau diperpanjang, " jelasnya. 
+
+Sementara pemerintah Singapura telah mengirimkan satu unit Helikopter Chinook dengan kapasitas 5 ton yang tiba <TIMEX3 tid="t9" type="TIME" value="2015-10-10TAF">Sabtu siang</TIMEX3>.Helikoper besar tersebut akan beroperasi selama <TIMEX3 tid="t10" type="DURATION" value="P13D">tiga belas hari</TIMEX3>, yakni pada 11-23 <TIMEX3 tid="t11" type="DATE" value="2015-10">Oktober 2015 mendatang</TIMEX3>.Pemerintah Australia mengirimkan pesawat " Thor " berjenis Hercules C-130, dengan kapasitas 15 ton.Rencanannya pesawat tersebut akan tiba paling cepat pada <TIMEX3 tid="t12" type="DATE" value="2015-10-13">Selasa (13/10/2015) mendatang</TIMEX3>, dan hanya akan beroperasi untuk <TIMEX3 tid="t13" type="DURATION" value="P7D">sekitar tujuh hari</TIMEX3>. " Pesawat tersebut akan beroperasi selama <TIMEX3 tid="t14" type="DURATION" value="P5D">lima hari</TIMEX3>, karena masih dibutuhkan di negara bagian New South Wales, Australia, " jelasnya.Rencanannya pesawat-pesawat tersebut akan difokuskan untuk mendanggulangi kebakaran hutan dan lahan di wilayah Ogan Komering Ilir (OKI) dan Musi Banyuasin, provinsi Sumatera Utara.Sutopo mengatakan sebagian besar titip api di Sumatera, berada di wilayah tersebut. " Sementara yang masih menunggu konfirmasi itu pemerintah Russia, Tiongkok dan Jepang, " tandasnya. 
+
+(TRIBUNnews.com/Nurmulia Rekso Purnomo) 
+</TEXT>
+
+</TimeML>

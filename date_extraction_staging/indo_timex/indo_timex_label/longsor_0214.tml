@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0214</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-01</TIMEX3></DCT>
+
+<TITLE>15 Jenazah Korban Longsor Cisolok Sukabumi Ditemukan, 20 Lainnya Masih Dicari</TITLE>
+
+<TEXT>
+Sebanyak 15 orang korban bencana tanah longsor di Kecamatan Cisolok, Sukabumi, Jawa Barat ditemukan dalam kondisi meninggal dunia, <TIMEX3 tid="t1" type="DATE" value="2018-01-01">Selasa (1/1/2018)</TIMEX3>. 
+
+Dari 15 orang itu, sebanyak sembilan korban sudah diidentifikasi dan tercatat sebagai warga Dusun Cimapag, Desa Sirnaresmi. 
+
+Sedangkan enam orang korban lainnya sudah ditemukan oleh tim pencari di lokasi. 
+
+Hanya tinggal menunggu evakuasi yang <TIMEX3 tid="t2" type="TIME" value="2019-01-01TAF">siang ini</TIMEX3> terkendala turunnya hujan deras. 
+
+" Sampai <TIMEX3 tid="t3" type="TIME" value="2019-01-01TAF">sore ini</TIMEX3> sudah 15 jenazah yang sudah ditemukan, " ungkap Komandan Korem 061/Suryakancana, Kolonel (Inf) M Hasan saat konferensi pers di Posko Tanggap Darurat Bencana di Dusun Cimapag, <TIMEX3 tid="t4" type="DATE" value="2019-01-01">Selasa (1/1/2019)</TIMEX3>. 
+
+Menurut dia, hasil update terbaru jumlah korban tanah longsor yang terindikasi tertimbun sebanyak 35 orang. 
+
+Sebelumnya sempat dilaporkan terdapat 41 orang tertimbun longsor. 
+
+" Karena sudah 15 jenazah yang ditemukan, berarti yang terindikasi masih tertimbun ada 20 orang lagi, " ujar dia. " Dari 15 jenazah yang ditemukan, sembilan jenazah sudah teridentifikasi dan enam jenazah masih di lokasi, tinggal menunggu evakuasi, " sambungnya.Dia menuturkan, <TIMEX3 tid="t5" type="DATE" value="2019-01-01">hari ini</TIMEX3> pihaknya mendapatkan bantuan dua alat berat untuk mempermudah evakuasi. 
+
+// Hanya saja baru satu alat berat yang bisa masuk ke lokasi. 
+
+" Cuaca belum memungkinkan untuk dua alat berat digerakkan di lokasi, " tuturnya. 
+
+Data Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Sukabumi menyebutkan, hasil terbaru <TIMEX3 tid="t6" type="DATE" value="2019-01-01">Selasa (1/1/2019)</TIMEX3> per <TIMEX3 tid="t7" type="TIME" value="2018-12-31T14">jam 14:30 WIB</TIMEX3>, jumlah rumah terdampak hingga tertimbun tanah sebanyak 30 unit. 
+
+Puluhan rumah itu dihuni 32 kepala keluarga (KK) dengan jumlah 101 jiwa. 
+
+Akibat bencana longsor itu, sebanyak 15 jiwa ditemukan meninggal dunia dan 20 orang dinyatakan hilang, serta tiga orang luka. 
+
+Sedangkan 63 jiwa berhasil selamat. 
+
+. 
+
+Peristiwa ini terjadi <TIMEX3 tid="t8" type="TIME" value="2018-12-31T17:00">sekitar pukul 17:00 WIB</TIMEX3> di Kampung Cigarehong, Kadusunan Cimapag, Desa Sirnaresmi. 
+
+Akibat longsor yang terjadi saat hujan deras mengguyur wilayah Sukabumi, dilaporkan sementara puluhan rumah tertimbun. 
+
+Belum diketahui pasti jumlah keseluruhan korban jiwa dalam peristiwa ini 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0169</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-10-06" temporalFunction="false" functionInDocument="CREATION_TIME">2017-10-06</TIMEX3></DCT>
+
+<TITLE>Banjir Surut, Warga Kembali Beraktivitas</TITLE>
+
+<TEXT>
+Sebanyak 18 korban banjir sudah kembali beraktivitas, <TIMEX3 tid="t1" type="DATE" value="2017-10-05">Kamis (5/10)</TIMEX3>. 
+
+<TIMEX3 tid="t2" type="DATE" value="2017-10-05">Sehari sebelumnya</TIMEX3>, rumah warga Paya Rengas Kelurahan Sei Raya, Kecamatan Meral ini, dikepung banjir. 
+
+Sehingga mereka harus mengungsi ke Polindes, maupun menumpang di rumah sanak keluarga. 
+
+Dinas Sosial langsung mengerahkan bantuan berupa makanan maupun peralatan lainnya. 
+
+Ditambah bantuan dari Taruna Siaga Bencana (Tagana) Karimun, dan pihak-pihak lainnya. 
+
+Alhamdulillah, cuaca mendukung sehingga pada <TIMEX3 tid="t3" type="TIME" value="2017-10-04TAF">Rabu sore</TIMEX3> sudah kembali ke rumah masing-masing. 
+
+Masyarakat juga sudah membersihkan rumahnya yang tergenang air. 
+
+Sudah tidak ada genangan air yang mencapai 50 centimer, jelas Camat Meral Irwan Dinovri. 
+
+Dikatakannya, bencana alam yang terjadi di wilayah Kecamatan Meral tidak terlalu parah dibandingkan <TIMEX3 tid="t4" type="DATE" value="2016-10-06">tahun lalu</TIMEX3>. 
+
+Namun demikian, pihaknya tetap melakukan pemantauan di beberapa titik yang diprediksi akan terkena banjir. 
+
+Juga melakukan gotong royong membersihkan drainase maupun saluran warga di sekitar. 
+
+Ada beberapa titik yang menjadi langganan banjir. 
+
+Tapi sudah ada perubahan tidak seperti <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dahulu</TIMEX3>. 
+
+Artinya, walaupun banjir tapi cepat surutnya dan Pak Bupati sudah tinjau langsung lokasi-lokasi banjir tersebut, ungkapnya. 
+
+Sementara Koordinator Tagana Karimun Dedy ketika dikonfirmasi mengatakan, secara umum untuk wilayah Pulau Karimun yang terdiri dari 4 kecamatan tidak semuanya terkena banjir. 
+
+Hanya beberapa titik saja yang terkena banjir. 
+
+Kalau dilihat data yang kami rekap, tidak begitu parah bencana banjir di Pulau Karimun. 
+
+Semuanya bisa teratasi secepat mungkin dan korban banjir tidak lama di tempat pengungsian, ujarnya. 
+
+Untuk wilayah Kecamatan Meral yang agak parah. 
+
+Sedangkan Kecamatan Meral Barat, Tebing dan Karimun tidak parah, aktivitas masyarakat tidak terganggu. 
+
+Penyebabnya hanya drainase yang tersumbat oleh sampah. 
+
+Tetapi ada juga karena wilayah yang berupa lembah, sehingga terkena limpahan air hujan yang cukup deras, katanya. 
+
+Terpisah Camat Karimun Arpan mengungkapkan, wilayahnya juga terkena banjir seperti di Teluk Air, Lubuk Semut, Sungai Lakam Barat dan Timur. 
+
+Namun hanya <TIMEX3 tid="t6" type="DURATION" value="PXX">sebentar</TIMEX3> dan banjir surut <TIMEX3 tid="t7" type="DATE" value="PTXH">beberapa jam kemudian</TIMEX3>. 
+
+Sedangkan di pulau-pulau Desa Parit, Selat Mendaun dan Tulang tidak ada banjir. 
+
+Kalau di pasar <TIMEX3 tid="t8" type="TIME" value="2017-10-05TNI">malam</TIMEX3> permasalahannya drainase banyak ditutup pemilik toko sehingga terjadi banjir. 
+
+Saya sudah laporkan ke Bupati, singkatnya. 
+
+(tri) 
+</TEXT>
+
+</TimeML>

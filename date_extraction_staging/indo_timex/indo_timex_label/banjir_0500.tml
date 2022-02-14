@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0500</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-04-24" temporalFunction="false" functionInDocument="CREATION_TIME">2015-04-24</TIMEX3></DCT>
+
+<TITLE>Sebanyak 27 Titik Infrastruktur Rusak</TITLE>
+
+<TEXT>
+Akibat hujan lebat yang terjadi <TIMEX3 tid="t1" type="TIME" value="2015-04-22TNI">Rabu (22/4) malam</TIMEX3>, sedikitnya 27 titik infrastruktur di wilayah DIJ rusak. 
+
+Kerusakan, umumnya ambrol dan longsor, antara lain menimpa bangunan rumah, jembatan, talud, dan tanggul. 
+
+KepalaBadan Penanggulangan Bencana Daerah (BPBD) DIJ Gatot Saptadi mengatakan, dampak hujan lebat <TIMEX3 tid="t2" type="TIME" value="2015-04-22TNI">Rabu (22/4) malam</TIMEX3>, paling tidak mengenai 27 titik, sehingga air luapan masuk di pemukiman warga dari sungai-sungai yang melewati Kota Jogja, Sleman, Bantul, dan Kulonprogo. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> kita masih melakukan inventarisir, sementara ini kerusakan paling parah ada di Turi, untuk gorong-gorong dan jembatan kecil yang terbongkar hingga enam meter, jelas Gatot di sela sela Rapat Koordinasi Pengendalian Pembangunan Daerah Triwulan I Tahun Anggaran <TIMEX3 tid="t4" type="DATE" value="2015">2015</TIMEX3> di Hotel Inna Garuda, <TIMEX3 tid="t5" type="DATE" value="2015-04-23">kemarin (23/4)</TIMEX3>. 
+
+Meskipun begitu, peristiwa ini belum sampai dikategorikan darurat banjir, karena belum menjadi bencana yang meluas dan penangannya segera ditangani. 
+
+Pihaknya telah berkoordinasi dengan kabupaten dan kota. 
+
+Tidak perlu sampai membentuk tim khusus karena masing-masing daerah sudah mempunyai posko. 
+
+BPBD di kabupaten dan kota sudah memiliki tim sendiri, kami hanya membantu, jelasnya. 
+
+Menurut dia, banjir kali ini dimungkinkan karena berkurangnya daerah resapan di DIJ. 
+
+Perbandingan air yang meresap dan tidak meresap, ternyata kurang berimbang. 
+
+Selain itu, alur sungai juga terganggu, sehingga tidak bisa memenuhi dengan debit tertentu. 
+
+Saya justru hati-hati terkait lahar hujan, jangan-jangan sedimen di Gunung Merapi ikut terbawa turun, ungkap Gatot. 
+
+Kepala Dinas Pekerjaan Umum, Perumahan dan Energi Sumber Daya Mineral (PUPESDM) DIJ Rani Sjamsinarsi mengatakan, data sementara kerusakan terparah akibat banjir <TIMEX3 tid="t6" type="DATE" value="2015-04-23">kemarin</TIMEX3> adalah putusnya jembatan Pules di Donokerto Turi Sleman. 
+
+Pihaknya akan membuat jembatan darurat Bailey. 
+
+Yang penting segera tersambung <TIMEX3 tid="t7" type="DATE" value="PAST_REF">dulu</TIMEX3>, karena itu jalan Provinsi, ujar Rani yang memperkirakan perbaikan butuh waktu hingga <TIMEX3 tid="t8" type="DURATION" value="P2W">dua minggu</TIMEX3>. 
+
+Selain jembatan putus, Dinas PUPESDM juga terus mendata infratruktur lainnya yang rawan jebol. 
+
+Di antaranya adalah bendungan Dadapan di Sendangtirto Berbah Sleman. 
+
+<TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> bendungan tersebut juga sudah tidak dialiri air karena sudah sangat rawan. 
+
+Selain itu juga terus mendata kerusakan pada jalan atau jembatan lain. 
+
+Konsentrasi kami perbaikan jalan dan jembatan, untuk pemukiman itu urusannya Kabupaten dan Kota, jelasnya. 
+
+Sementara itu Kepala Dinas Sosial DIJ Untung Sukaryadi, begitu mendapati laporan banjir di sejumlah wilayah di DIJ, pihaknya langsung melakukan koordinasi dengan kabupaten/kota. 
+
+Beradasarkan data sementara yang masuk ke Dinsos DIJ, jumlah pengungsi di Kota Jogja mencapai 601 kepala keluarga (KK) dengan total 1.943 jiwa. 
+
+Sementara di Bantul, terdapat 218 KK dengan 872 jiwa. 
+
+Ini data sementara, karena mungkin ada yang belum terdata, ujar Untung. 
+
+Banjir yang melanda beberapa wilayah di Jogja juga sudah didengar oleh Gubernur DIJ Sri Sultan Hamengku Buwono X. 
+
+Menurut Sultan kewenangan penanganan berada di kabupaten dan kota, kalau tidak mampu mengatasi baru berkoordinasi dengan Provinsi. 
+
+Meski sudah tahu terjangan air yang merendam beberapa wilayah di Kota, Sultan sempat menyatakan kekecewaanya pada Wali Kota Jogja Haryadi Suyuti yang tidak langsung memberi informasi. 
+
+<TIMEX3 tid="t10" type="TIME" value="2015-04-23T12:00">Jam 12</TIMEX3> (24.00) tak telpon tapi ra disaut oleh Pak Wali, mungkin Pak Wali sedang pergi, ujar Sultan. 
+
+Terpisah, Wakil Wali Kota Jogja Imam Priyono (IP) mengatakan, berdasarkan catatan Kimpraswil Kota Jogja, kerusakan infrastruktur hampir merata di semua sungai besar di Kota Jogja. 
+
+Kerusakan tersebut didominasi kondisi talud yang ambrol, katanya. 
+
+Kerusakan talud antara lain menimpa bantaran Kali Code, dan Kali Gajahwong. 
+
+Sedangkan di Kali Winongo yang mayoritas belum dibangun talud, mengalami longsor. 
+
+Di Kali Code, kerusakan paling parang terjadi di Kecamatan Pakualaman. 
+
+Tepatnya di Jagalan dan Juminahan yang mengancam rumah warga. 
+
+Bahkan, rumah warga kondisinya sampai retak-retak, karena tanah di bawahnya amblas tergerus derasnya aliran air hujan. 
+
+Kami was-was jika <TIMEX3 tid="t11" type="DATE" value="FUTURE_REF">nanti</TIMEX3> terjadi banjir, kata Rejeki Kusmini, warga Jagalan Purwokinanti Pakualaman. 
+
+Rejeki bercerita, luapan air dari SAH yang merendam rumah warga itu merupakan yang paling besar selama <TIMEX3 tid="t12" type="DURATION" value="P20Y">20 tahun</TIMEX3> terakhir. 
+
+Ia membandingkan dengan banjir lahar dingin pascaerupsi Merapi <TIMEX3 tid="t13" type="DATE" value="2010">2010</TIMEX3> silam. 
+
+Menurutnya kondisinya lebih parah hujan <TIMEX3 tid="t14" type="DATE" value="2015-04-23">kemarin</TIMEX3>. 
+
+Karena, saat banjir lahar dingin yang lalu, air SAH tak begitu besar. 
+
+Sedangkan <TIMEX3 tid="t15" type="DATE" value="2015">tahun ini</TIMEX3> akibat sumbatan sampah dan material lain, SAH yang seharusnya langsung masuk ke sungai, tersendat dan meluap sampai ke permukiman warga. 
+
+Dinas Kimpraswil juga mencatat, di sepanjang Kali Code, sedikitnya ada lima titik lain selain di Jagalan dan Juminahan. 
+
+Talud di Tegalpanggung, Susryatmajan, Bintaran, Sorosutan, dan Wirosaban, mengalami kerusakan serupa. 
+
+Satu titik yang sudah terindentifikasi di Muja-Muju. 
+
+Di sini, kerusakan talud mengancam permukiman warga. 
+
+Bahkan, <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">kini</TIMEX3> kondisinya, air sungai langsung menghantam permukiman warga. 
+
+Kerusakan yang cukup meluas ini, menurut IP, akan dikoordinasikan dengan Pemprov DIJ. 
+
+Sebab tak hanya Kota Jogja yang mengalami kerusakan infrastruktur. 
+
+Di kabupaten lain di DIJ juga mengalami hal serupa. 
+
+Makanya, kami juga menunggu arahan dari DIJ. 
+
+Kalau memang menyeluruh di DIJ, bisa jadi provinsi akan menetapkan tanggap darurat, terangnya. 
+
+Lebih lanjut IP menuturkan, <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihaknya tengah bahu-membahu untuk mendistribusikan bantuan logistik (makanan) dan kebutuhan yang mendesak. 
+
+Pendataan terus berjalan. 
+
+Tapi, fokusnya segera mengatasi kebutuhan warga yang sangat mendesak, kata IP. 
+
+Mantan Direktur Umum PDAM Tirtamarta ini menegaskan, perbaikan infrastruktur juga sangat penting. 
+
+Makanya, penanganan bencana akibat luapan Saluran Air Hujan (SAH) <TIMEX3 tid="t18" type="DATE" value="2015-04-22">Rabu lalu</TIMEX3> dilakukan bersamaan dengan pendataan. 
+
+Aparat di wilayah sudah saya perintahkan segera menyerahkan pendataan kerusakannya. 
+
+Sehingga bisa segera dihitung estimasi biaya perbaikannya, tandas IP. 
+
+Kepala Bidang Drainase dan Pengairan Dinas Permukiman dan Prasarana Wilayah (Kimpraswil) Kota Jogja Aki Lukman Nur Hakim menjelaskan, pihaknya memiliki dua skema pembiayaan. 
+
+Pertama, kalau kerusakan yang terjadi tak mendesak, kemungkinan pihaknya akan mengajukan di APBD Perubahan. 
+
+Kalau memang mendesak, kami akan penetapan tanggap darurat, terang Aki. 
+
+Sebenarnya, menurut Aki, Dinas Kimpraswil memiliki anggaran untuk perbaikan infrastruktur tersebut. 
+
+Namun, anggaran tersebut hanya untuk perbaikan drainase. 
+
+Dana insidental perbaikan talud sudah habis. 
+
+Tapi kalau di Purwokinanti sudah masuk anggaran nilainya Rp 1,1 miliar, tandas Aki. 
+
+(pra/eri/jko/mga) 
+</TEXT>
+
+</TimeML>

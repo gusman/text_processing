@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0183</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-03</TIMEX3></DCT>
+
+<TITLE>ACT Gandeng Vivo Indonesia Bantu Korban Gempa Palu dan Donggala</TITLE>
+
+<TEXT>
+Bencana gempa bumi berkekuatan magnitudo 7,4 dan tsunami yang melanda kawasan Palu dan Donggala di Sulawesi Tengah pada <TIMEX3 tid="t1" type="TIME" value="2018-09-28T17:02">Jumat (28/9) pukul 17.02 WIB</TIMEX3>, telah menyisakan duka mendalam bagi para korban dan juga seluruh bangsa Indonesia, tak terkecuali bagi Vivo Indonesia. 
+
+Untuk meringankan beban masyarakat terdampak gempa dan tsunami, Vivo Indonesia memberikan donasi sebesar Rp 4 miliar yang disalurkan melalui Tim Aksi Cepat Tanggap (ACT). 
+
+Edy Kusuma, General Manager for Brand and Activation PT Vivo Mobile Indonesia menyatakan Donasi yang vivo berikan ini tentu saja tidak bisa menggantikan kerusakan dan kehilangan yang terjadi, namun vivo merasa sangat perlu untuk mendukung program penanganan bencana, terutama untuk membantu kelangsungan hidup korban yang selamat. 
+
+Ini menjadi duka kita bersama, kami berharap upaya yang dilakukan berbagai pihak dapat membantu meringankan beban ribuan saudara kita di Palu, Donggala, dan area terdampak lain. 
+
+Menurut Edy, bantuan dari vivo ini akan dikonversikan dalam bentuk logistik yang dibutuhkan para korban bencana. 
+
+Ia menambahkan, Vivo Mobile Indonesia mengapresiasi penuh penanganan bencana Palu dan Donggala yang dilakukan secara tanggap, cepat, dan terkoordinasi dari berbagai pihak, baik dari instansi pemerintah, swasta, maupun negara lain. 
+
+Dalam bencana ini pun, beberapa rekan kerja, tim Sales, dan rekan bisnis dari Vivo Mobile Indonesia yang berada di Sulawesi Tengah pun turut menjadi korban; sekaligus beberapa saudara dari karyawan yang bekerja di Vivo Mobile Indonesia. 
+
+Donasi secara simbolis diserahkan langsung oleh Fachryansyah Farandy, General Manager for Digital and Partnership PT Vivo Mobile Indonesia kepada Rini Maryani, Vice President Aksi Cepat Tanggap yang bertempat di Kantor Pusat ACT. 
+
+Vivo bekerjasama dengan ACT yang telah sangat sigap dan profesional menyalurkan bantuan kemanusiaan kepada masyarakat yang terdampak bencana, termasuk untuk bencana gempa dan tsunami di Sulawesi Tengah sejak awal. 
+
+Kami pun berharap bantuan yang diberikan ini dapat sesegera mungkin menjangkau para korban. 
+
+Menerima langsung amanah donasi kemanusiaan dari vivo untuk Palu Donggala, Rini mengapresiasi penuh kepercayaan yang telah dititipkan. 
+
+Kepedulian dari Bangsa ini, termasuk dari vivo akan menjadi energi penggerak untuk segera memulihkan Palu dan Donggala. 
+
+Seperti tagar yang diinisiasi oleh ACT bertajuk IndonesiaBersamaPaluDonggala, ujarnya. 
+
+Pasca gempa besar dan tsunami di wilayah Palu dan Donggala, Tim Disaster Emergency Response (DERM) ACT langsung merencanakan pemberangkatan personil menuju Donggala dan Palu, berkoordinasi dengan Tim ACT Sulawesi Selatan dan Masyarakat Relawan Indonesia (MRI) Sulawesi Selatan. 
+
+Pada <TIMEX3 tid="t2" type="DATE" value="2018-09-29">Sabtu</TIMEX3> dini hari (29/9), Tim Disaster Emergency Response (DERM) ACT berangkat menuju Donggala dan Palu melalui jalur udara ke Gorontalo, lalu disambung dengan perjalanan darat. 
+
+Pada <TIMEX3 tid="t3" type="DATE" value="2018-09-30">Minggu (30/9)</TIMEX3>, sebanyak 24 relawan ACT Sulawesi Selatan, MRI Sulawesi Selatan, dan tim ACT berangkat dari Makassar menuju Bandara Mutiara SIS Al Jufri di Palu. 
+
+Evakuasi korban yang terjebak di reruntuhan bangunan dan yang terkena terjangan tsunami di pantai Palu terus dilakukan, sembari mencari titik-titik untuk membuka posko kemanusiaan. 
+
+Tambahan tim ACT berikutnya yang tiba, dialihkan ke bandara Mamuju karena kepadatan bandara Palu. 
+
+Bersamaan dengan itu, MRI Kalimantan Timur sebanyak 13 orang relawan berangkat menuju Palu dan Donggala dari Pelabuhan Semayang, Balikpapan. 
+
+Pada <TIMEX3 tid="t4" type="DATE" value="UNKNOWN">hari kedua</TIMEX3> pascabencana, ACT telah menurunkan tim yang terbagi di beberapa titik, tim Emergency Response-ACT yang menuju Donggala dari Gorontalo, tim MRI-ACT dari Mamuju yang berada di Donggala sebelah barat teluk, tim MRI-ACT dari Sulawesi Selatan di Kota Palu, dan tim MRI-Kalimantan Timur yang menuju Palu dari Balikpapan. 
+
+Badan Nasional Penanggulangan Bencana (BNPB) merilis jumlah terbaru korban yang meninggal dunia pascagempa bumi dan tsunami di Kota Palu, Kabupaten Donggala dan Sigi, Provinsi Sulawesi Tengah, hingga <TIMEX3 tid="t5" type="TIME" value="2018-10-02TEV">Selasa (2/10) petang</TIMEX3>, telah mencapai sebanyak 1.374 jiwa. 
+
+Tim ACT telah menyiapkan Posko Kemanusiaan ACT di Jalan H Hayun, Kelurahan Besusu Barat, Kecamatan Palu Timur, Kota Palu. 
+
+Posko ini terletak tak jauh dari Gerai Vivo yang telah ditutup untuk <TIMEX3 tid="t6" type="DURATION" value="PXX">sementara waktu</TIMEX3> untuk menghindari adanya gempa susulan. 
+
+Vivo Indonesia turut prihatin dengan bencana yang terjadi di Palu dan Donggala, semoga upaya pencarian dan penyelamatan korban dapat berjalan lancar dan tuntas. 
+
+Bersama rakyat Indonesia lainnya, kami selalu berdoa bagi keluarga korban selamat agar diberi kekuatan menghadapi hal ini, tutup Fachry. 
+
+(*) 
+</TEXT>
+
+</TimeML>

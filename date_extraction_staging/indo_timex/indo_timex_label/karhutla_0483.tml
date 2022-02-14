@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0483</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-07" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-07</TIMEX3></DCT>
+
+<TITLE>Kebakaran Hutan Landa Cagar Alam Gunung Papandayan, Api Baru Bisa Dipadamkan Minggu Malam</TITLE>
+
+<TEXT>
+Kebakaran hutan juga terjadi di cagar alam yang ada di kawasan Gunung Papandayan, Garut, Jawa Barat pada <TIMEX3 tid="t1" type="TIME" value="2019-10-06TAF">Minggu (6/10/2019) sore</TIMEX3>. 
+
+. 
+
+Kawasan hutan yang hangus terbakar mencapai 1,5 hektare. 
+
+Masuknya CA Papandayan, luasannya sekitar 1,5 hektar, ujar Kepala Seksi KSDA wilayah III Garut, Purwantono saat dihubungi, <TIMEX3 tid="t2" type="DATE" value="2019-10-07">Senin (7/10/2019)</TIMEX3>. 
+
+Purwantono menyampaikan, kebakaran kawasan cagar alam itu pertama kali diketahui <TIMEX3 tid="t3" type="TIME" value="2019-10-06T17:00">sekitar pukul 17.00 WIB</TIMEX3>. 
+
+Lahan yang terbakar berada di di kawasan blok letter S yang berada di antara gerbang lama dan gerbang baru masuk kawasan Taman Wisata Alam Gunung Papandayan. 
+
+Api baru bisa dipadamkan <TIMEX3 tid="t4" type="TIME" value="2019-10-06T22:00">sekitar pukul 22.00</TIMEX3>. 
+
+Tri Persada, Direktur PT Alam Indah Lestari (AIL) yang menjadi pengelola Taman Wisata Alam (TWA) Gunung Papandayan mengatakan, terbakarnya kawasan cagar alam tidak sampai menganggu hingga ke area wisata. 
+
+Tidak (mengganggu), semua aman terkendali, ujar Tri. 
+
+Pihaknya menurunkan semua personel PT AIL yang ada di lapangan untuk membantu proses pemadaman. 
+
+Kepala Bidang Pencegahan dan Kesiapsiagaan Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Garut, Tubagus Agus Sofyan menyampaikan, penyebab kebakaran diduga karena kemarau panjang yang membuat dedaunan kering dan mudah terbakar saat terjadi gesekan. 
+
+Penyebabnya kemungkinan karena faktor kemarau panjang, ujar dia. 
+
+Kebakaran baru sekali terjadi di Kawasaan Gunung Papandayan selama <TIMEX3 tid="t5" type="DATE" value="2019-SU">musim kemarau</TIMEX3>.Beda halnya dengan kawasan Gunung Guntur yang pada kemarau <TIMEX3 tid="t6" type="DATE" value="2019">tahun ini</TIMEX3> tercatat sudah terbakar lebih dari dua kali. 
+</TEXT>
+
+</TimeML>

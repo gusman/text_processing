@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0329</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-12" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-12</TIMEX3></DCT>
+
+<TITLE>Selamatkan Diri, Korban Gempa Sukabumi Terobos Reruntuhan Rumah</TITLE>
+
+<TEXT>
+Gempa bumi yang melanda wilayah Sukabumi, Jawa Barat, <TIMEX3 tid="t1" type="TIME" value="2020-03-10TAF">Selasa (10/3/20) sore</TIMEX3>, meruntuhkan rumah Haji Anna, warga Kampung Nangerang, Desa Pulosari, Kecamatan Kalapanunggal, hingga membuat Anna tertimbun puing-puing rumahnya. 
+
+" <TIMEX3 tid="t2" type="DURATION" value="PT30M">Sekitar 30 menit</TIMEX3> saya terjebak tertimbun reruntuhan rumah yang ambruk, tapi Alhamdulillah bisa berhasil menyelamatkan diri dan hanya luka lecet di kepala, tangan dan kaki, " katanya saat ditemui di rumah keluarganya di Desa Pulosari, <TIMEX3 tid="t3" type="DATE" value="2020-03-11">Rabu (11/3)</TIMEX3>. 
+
+Saat getaran gempa terasa <TIMEX3 tid="t4" type="TIME" value="2020-03-11T17:30">sekitar pukul 17.30 WIB</TIMEX3>, Anna sedang beristirahat sambil menyaksikan siaran televisi di ruang tengah rumahnya bersama istri dan cucunya. 
+
+Sedangkan anak bungsunya berada di lantai dua. 
+
+Dalam kepanikan, Anna beranjak dari kursi tempat dia duduk, berusaha menyelamatkan anggota keluarganya. 
+
+. 
+
+Anna tertimbun reruntuhan rumah, tetapi ia masih sadar ketika itu, dan berusaha berteriak meminta pertolongan. 
+
+Namun teriakan pria <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">57 tahun itu</TIMEX3> tidak terdengar oleh warga. 
+
+Anna berdoa sambil berusaha menghirup udara yang sudah bercampur debu. 
+
+Ia kemudian teringat dengan telepon seluler dalam genggamannya dan menyalakan lampu telepon seluler. 
+
+Setelah itu dia berjuang untuk keluar dari reruntuhan rumah. 
+
+Anna akhirnya berhasil mengeluarkan separuh badan dari reruntuhan. 
+
+Warga yang melihat dia kemudian menolongnya keluar dari puing-puing rumah. 
+
+. 
+
+Soekardjo Nekat Gunakan Jas Hujan Proses evakuasi berjalan kurang mulus karena bagian kaki Anna terjepit beton. 
+
+Begitu berhasil diangkat dari reruntuhan, Anna langsung dibawa ke klinik terdekat. 
+
+" Berhasil keluar dari reruntuhan <TIMEX3 tid="t6" type="TIME" value="2020-03-11T18:00">pukul 18.00 WIB</TIMEX3>. 
+
+Saat di bawah reruntuhan saya hanya bisa mengatur nafas, " katanya. 
+
+Istri Anna, Mimin (55), bagian kepalanya juga terluka karena tertimpa reruntuhan rumah ketika hendak membuka pintu untuk menyelamatkan diri. 
+
+Bagian kepalanya harus dijahit. 
+
+Anak bungsunya, Andi Maulana (18), yang saat kejadian berada di lantai dua sempat terjatuh dan tertimpa dinding rumahnya yang roboh. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0051</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-10-08" temporalFunction="false" functionInDocument="CREATION_TIME">2017-10-08</TIMEX3></DCT>
+
+<TITLE>Pohon Tumbang Hancurkan Beji Pejaten</TITLE>
+
+<TEXT>
+Informasi yang dihimpun, peristiwa tersebut terjadi <TIMEX3 tid="t1" type="TIME" value="2017-10-07T09:00">sekitar pukul 09.00</TIMEX3> wita. 
+
+<TIMEX3 tid="t2" type="DATE" value="PAST_REF">Saat itu</TIMEX3> Tabanan diguyur hujan deras. 
+
+Sebuah pohon besar jenis kresek yang tumbang di sekitar beji Desa Pakraman Pejaten tiba-tiba tumbang melintas di areal beji. 
+
+Akibatnya, sebuah pelinggih dan pemandian di beji tersebut rusak berat. 
+
+Belum diketahui kerugian secara pasti akibat kejadian tersebut diperkirakan puluhan juta rupiah. 
+
+Petugas TRC BPBD Tabanan dipimpin Kasi Kedaruratan dan Logistik Putu Trisna Adiatmika langsung turun ke lokasi. 
+
+Petugas harus berhati-hati melakukan pemotongan kayu berdiameter empat meter tersebut. 
+
+Sebelum pemotongan diawali persembahyangan oleh warga setempat untuk mencegah hal-hal yang tidak diinginkan. 
+
+Dengan kerja keras petugas TRC BPBD dibantu warga, pohon tersebut berhasil disingkirkan. 
+
+Butuh kerja keras petugas untuk menyingkri batang kayu kresek yang besar dan medannya sulit, jelas Kepala Satlak BPBD Tabanan I Gusti Ngurah Made Sucita. 
+
+. 
+
+Sebuah pohon kresek tumbang menimpa rumah bapak Budana. 
+
+Pohon tersebut tumbangsekitar pujkul <TIMEX3 tid="t3" type="TIME" value="2017-10-07T04:00">04.00</TIMEX3> wita setelah daerah tersebut diguyur hujan disertai angin kencang. 
+
+Petugas BPBD kemudian turun menyingkirkan dahan pohon yang mengenai rumah korban. 
+
+Tak urung rumah korban mengalami kerusakan cukup parah. 
+
+<TIMEX3 tid="t4" type="DATE" value="2017-10-07">Sehari sebelumnya</TIMEX3> pohon tumbang menimpa rumah di Banjar Kamasan, Dajan Peken, Tabanan serta pohon beringin di Banjar Sembunga Gede Kelod, Sembung Gede, Kerambitan tumbang ke arah jalan umum Denpasar Gilimnauk. 
+
+Akibatnya, jalur tersebut mengalami kemacetan cukup lama selama evakuasi pohon tersebut. 
+
+Sementara itu tembok penyengker warga di Banjar Riang Gede Kaja, Riang Gede, juga ambrol akibat hujan deras. 
+
+Ngurah Sucita meminta warga untuk waspada. 
+
+Pasalnya, dengan datangnya <TIMEX3 tid="t5" type="DATE" value="2016-WI">musim hujan</TIMEX3> diserta angin kencang sangat rawan terjadi pohon tumbang, longsor dan bencan alam lainnya. 
+
+Pihaknya meminta warga tetap waspada dan segera menginformasikan kepada aparat setempat bila terjadi bencana untuk dapat segera ditangani. 
+
+Masyarakat harus waspada pada <TIMEX3 tid="t6" type="DATE" value="2016-WI">musim hujan</TIMEX3> dan angin ini, pintanya. 
+
+(puspawati/balipost) 
+</TEXT>
+
+</TimeML>

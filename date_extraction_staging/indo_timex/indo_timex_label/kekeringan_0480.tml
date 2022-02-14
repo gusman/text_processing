@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0480</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-06-25" temporalFunction="false" functionInDocument="CREATION_TIME">2018-06-25</TIMEX3></DCT>
+
+<TITLE>Mahalnya Air di Gunungkidul</TITLE>
+
+<TEXT>
+Warga Gunungkidul mulai kesulitan mendapatkan air bersih sejak <TIMEX3 tid="t1" type="DATE" value="2018-06">awal Juni ini</TIMEX3>. 
+
+Terutama mereka yang berdomisili di wilayah selatan Bumi Handayani. 
+
+Tak bisa selalu mengandalkan bantuan droping air dari pemerintah, sebagian warga terpaksa membelinya dari pihak swasta. 
+
+Harganya, per tangki Rp 110 ribu. 
+
+Warga harus merogoh kocek lebih dalam sejak saluran air milik perusahaan daerah air minum (PDAM) setempat macet sejak awal kemarau. 
+
+Selama kemarau saya sudah beli tiga tangki ke swasta. 
+
+Bagaimana lagi, tak ada pilihan. 
+
+Sementara air kebutuhan utama, ungkap Wida, warga Desa Hargosari, Tanjungsari <TIMEX3 tid="t2" type="DATE" value="2018-06-24">Senin (24/6)</TIMEX3>. 
+
+Wida berharap pemerintah segera turun tangan meringankan beban masyarakat yang kesulitan air bersih. 
+
+Ini masalah tahunan yang selalu kami hadapi <TIMEX3 tid="t3" type="SET" value="UNKNOWN">setiap kemarau</TIMEX3>. 
+
+Semoga penanganan kekeringan <TIMEX3 tid="t4" type="DATE" value="2018">tahun ini</TIMEX3> lebih baik dari sebelumnya, harap Sulis, warga Desa Kanigoro, ditemui Radar Jogja di tempat terpisah. 
+
+Sebagaimana diketahui, sistem droping air oleh Badan Penanggulangan Bencana Daerah (BPBD) Gunungkidul bersifat situasional. 
+
+Hanya jika ada permintaan dari masyarakat. 
+
+Sementara kebutuhan air bersih terus-menerus. 
+
+BPBD Gunungkidul mencatat, dampak kekeringan <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> meluas di sembilan kecamatan. 
+
+Antara lain: Saptosari, Tepus, Tanjungsari, Rongkop, Girisubo, Purwosari, Gedangsari, Panggang, dan Ngawen. 
+
+Kepala Pelaksana BPBD Gunungkidul Edy Basuki mengatakan, dibanding <TIMEX3 tid="t6" type="DATE" value="2017-06-25">tahun lalu</TIMEX3> pada <TIMEX3 tid="t7" type="DATE" value="UNKNOWN">bulan yang sama</TIMEX3>, tingkat persebaran krisis air <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> meningkat. 
+
+Permohonan droping air dari warga Saptosari tergolong baru. 
+
+Pada tahun-tahun sebelumnya mereka selalu melakukan droping air mandiri. 
+
+Total ada 36 desa yang butuh bantuan (droping air, Red) di sembilan kecamatan. 
+
+<TIMEX3 tid="t9" type="SET" value="P1D">Setiap hari</TIMEX3> kami mengirimkan 24 tangki menggunakan enam armada sejak <TIMEX3 tid="t10" type="DATE" value="2018-06-04">4 Juni lalu</TIMEX3>, ujarnya. 
+
+Sumber air droping diambil dari Desa Wareng, Siraman, Wonosari; sekitar Pantai Krakal, Tanjungsari; dan sumber di wilayah perbatasan dengan Jawa Tengah atau sekitar Pracimantoro. 
+
+Sebagaimana diberitakan sebelumnya, Bupati Gunungkidul Badingah menyatakan, 30 persen wilayahnya belum terakses jaringan PDAM maupun SPAMDes. 
+
+Kondisi medan yang berupa perbukitan jauh dari sumber air menjadi kendala utama. 
+
+Sementara sumber air yang ada belum bisa dimanfaatkan secara maksimal. 
+
+Seperti di wilayah Baron. 
+
+Menurut Badingah, di tempat itu ada sumber air dengan kapasitas seribu liter per detik. 
+
+Namun sampai <TIMEX3 tid="t11" type="DATE" value="UNKNOWN">sekarang baru</TIMEX3> bisa dimanfaatkan seratus liter per detik. 
+
+(gun/yog/mg1) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0002</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-20" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-20</TIMEX3></DCT>
+
+<TITLE>Duka Korban Gempa Pidie Jaya</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="PAST_REF">Dulu</TIMEX3> Dia yang mencari nafkah untuk keluarga, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terpaksa saya yang mencari. 
+
+Amrizal Arnida-Pidie Jaya. 
+
+<TIMEX3 tid="t3" type="TIME" value="2016-12-20TMO">Pagi itu</TIMEX3>, duka-lara mendadak menyelimuti keluarga Jamaludin (45) dan istrinya Muliana, beserta empat anaknya; Aldi Fahreza, Alda Saputra, Zahratul Ifla dan Sifa Amora. 
+
+<TIMEX3 tid="t4" type="DATE" value="2016-12-07">Rabu 7 Desember</TIMEX3>, Desa Rawasari, Trienggadeng, Pidie, porak-poranda diguncang gempa 6,5 SR. 
+
+Jamaludin, tertimpa bangunan dinding kamar. 
+
+Kaki kirinya terjepit, hingga remuk. 
+
+<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Kini</TIMEX3> telah diamputasi di Rumah Sakit Umum Zainoel Abidin, Banda Aceh, <TIMEX3 tid="t6" type="DATE" value="2016-12-09">Jumat (9/12)</TIMEX3>. 
+
+Muliana yang ditemui wartawan Harian Rakyat Aceh, di pengungsian terletak di depan meunasah setempat, menyebutkan, sebelum peristiwa musibah itu terjadi, suaminya masih duduk-duduk ngobrol bersama sejumlah pelanggan di warung miliknya di bagian depan rumah. 
+
+Tidak lama kemudian, suaminya masuk ke kamar untuk beristirahat (tidur). 
+
+Tepat pukul 05.3 <TIMEX3 tid="t7" type="TIME" value="UNKNOWN">WIB</TIMEX3> itulah, gempabumi mulai mengguncang. 
+
+Saat kejadian, Muliana, sedang tertidur pulas di kamar. 
+
+Terkejut dan terbangun, seketika merangkul anak-anaknya dan berusaha berlindung di samping lemari. 
+
+Sementara kontruksi dan sejumlah dinding bangunan rumahnya mulai runtuh, berhamburan termasuk runtuhan beton dinding kamar berjatuhan ke atas ranjang dimana tempat mereka tidur. 
+
+Pasca kejadian, pada <TIMEX3 tid="t8" type="TIME" value="2016-12-20TMO">subuh</TIMEX3> yang masih gelap gulita tersebut, dengan penerangan listrik saat kejadian gempa bumi juga padam. 
+
+Jamaludin dievakuasi ke salah satu dayah di Gle Cut milik Tgk Surwadi, yang hanya terpaut sekitar 500 meter dari rumahnya. 
+
+<TIMEX3 tid="t9" type="DURATION" value="PT1H">Sekitar sejam</TIMEX3> diselamatkan di dayah tersebut, Jamaludin langsung dilarikan ke RSU sigli untuk mendapat pertolongan medis, setelah mendapat pertolongan medis selama <TIMEX3 tid="t10" type="DURATION" value="P3D">tiga hari</TIMEX3> di RSU Sigli, Jamaluddin dirujuk ke RSUZA.Ia didampingi Muliana dan dua orang adik kandung Muliana, Martoni dan Saidul Bahri serta sejumlah keluarga lainnya. 
+
+<TIMEX3 tid="t11" type="DURATION" value="PTXH">Beberapa jam</TIMEX3> ditangani dokter di RSUZA, berita sedih kembali ikut mewarnai Muliana, dokter mengabarkan demi menyelamatkan kaki kiri suaminya itu, kaki kiri Jamaludin harus segera diamputasi. 
+
+Saya tidak kuat menahan rasa sedih bang,air mata saya terus keluar saat mendengar kabar kalau kaki kiri suami saya itu harus segera diamputasi,dan tidak boleh dilamakan lagi operasi, karena kata dokter, <TIMEX3 tid="t12" type="DURATION" value="PT1H">satu jam</TIMEX3> dilamakan, <TIMEX3 tid="t13" type="DURATION" value="PT1H">satu jam</TIMEX3> ia menderita sakit, kenangnya. 
+
+Dan semakin parah infeksinya. 
+
+Khawatir akan menjalar infeksinya menjadi busuk ke seluruh kakinya. 
+
+Mungkin juga ke seluruh badannya. 
+
+Akhirnya sambil menangis sedih saya terpaksa pasrah menandatangani izin operasi yang akan segera dilakukan oleh dokter pada <TIMEX3 tid="t14" type="TIME" value="2016-12-20TNI">malam itu</TIMEX3> juga, ungkap Muliana.Setelah diamputasi, Jamaluddin dibawa pulang ke kampungnya. 
+
+<TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">Kini</TIMEX3> tinggal di tenda pengungsian yang dibuat keluarga sendiri dengan beratap terpal secara alakadar dengan penuh keprihatinan. 
+
+<TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> saya sudah pasrah dan berserah diri memohon perlindungan kepada Allah,ini memang sudah takdir Allah terhadap keluarga saya. 
+
+Kalau <TIMEX3 tid="t17" type="DATE" value="PAST_REF">dulu</TIMEX3> ayah anak-anak saya yang selalu tiada henti-hentinya berjuang mencari nafkah untuk keluarga, untuk saya dan untuk anak-anak. 
+
+Tapi <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>,terpaksa saya yang harus mencari nafkah untuk keluarga, untuknya dan anak-anak, ucap Muliana dengan mata berkaca-kaca.(mai) 
+</TEXT>
+
+</TimeML>

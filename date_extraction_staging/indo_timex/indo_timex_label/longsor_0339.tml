@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0339</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-02" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-02</TIMEX3></DCT>
+
+<TITLE>Ada Longsor di Kawasan Gunung Gelap, Lalin Pameungpeuk-Cikajang Dialihkan ke Jalur Alternatif Pakenjeng</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="TIME" value="2020-03-01TMO">Dini hari tadi</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2020-03-02">Senin (2/3/2020)</TIMEX3>. 
+
+, terjadi longsor di Kabupaten Garut. 
+
+Longsor tepatnya terjadi di Jalur Gunung Gelap, yang menghubungkan Pameungpeuk dan Cikajang. 
+
+. 
+
+Karena longsor ini, TMC Polres Garut memastikan jika Jalan Raya Pameungpeuk Garut ditutup sementara. 
+
+Oleh karena itu, pengguna jalan diimbau untuk menggunakan jalur alternatif melalui Pakenjeng/Bungbulang. 
+
+
+</TEXT>
+
+</TimeML>

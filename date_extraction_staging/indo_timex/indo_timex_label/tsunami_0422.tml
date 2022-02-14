@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0422</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Penyebab Tsunami Banten &amp; Lampung: Erupsi Anak Krakatau Sempat Bikin Alat Seismograf Rusak</TITLE>
+
+<TEXT>
+Badan Meteorologi Klimatologi dan Geofisika (BMKG) telah menyampaikan secara resmi bahwa tsunami telah terjadi dan menerjang beberapa wilayah pantai di Selat Sunda. 
+
+Tsunami terjadi <TIMEX3 tid="t1" type="TIME" value="2018-12-22TNI">Sabtu (22/12/2018) malam</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2018-12-22T21:33">pukul 21.33 WIB</TIMEX3>, menerjang pantai di Kabupaten Pandeglang, Serang, dan Lampung Selatan. 
+
+Badan Geologi mendeteksi pada <TIMEX3 tid="t3" type="TIME" value="2018-12-22">hari Sabtu (22/12/2018) pukul 21.03 WIB</TIMEX3> Gunung Anak Krakatau mengalami erupsi. 
+
+Perlu diketahui, erupsi Krakatau <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> terjadi <TIMEX3 tid="t5" type="SET" value="UNKNOWN">hampir setiap hari</TIMEX3> sejak <TIMEX3 tid="t6" type="DATE" value="2018-06-29">29 juni 2018</TIMEX3>. 
+
+Dikutip dari Geo Magz, Majalah Geologi milik Kementerian Energi dan Sumber Daya Mineral (ESDM), Anak gunung api ini tumbuh 4 m per tahun. 
+
+. 
+
+Selama <TIMEX3 tid="t7" type="DURATION" value="P2Y">dua tahun</TIMEX3> sampai <TIMEX3 tid="t8" type="DATE" value="1929-01-15">15 Januari 1929</TIMEX3> terjadi rentetan semburan air laut ke udara di pusat Kompleks Gunung Krakatau. 
+
+Pada <TIMEX3 tid="t9" type="DATE" value="1929-01-20">20 Januari 1929</TIMEX3>, asap meniang keluar dari tumpukan material gunung api yang baru muncul di permukaan, yang mulai tumbuh dari kedalaman laut 180 m. 
+
+Itulah gunung yang baru lahir yang diberi nama Gunung Anak Krakatau. 
+
+// Sejak munculnya di permukaan laut pada <TIMEX3 tid="t10" type="DATE" value="1929">1929</TIMEX3> hingga <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, pertumbuhan Gunung Anak Krakatau terbilang cepat. 
+
+Selama <TIMEX3 tid="t12" type="DURATION" value="P80Y">80 tahun</TIMEX3>, sampai dengan <TIMEX3 tid="t13" type="DATE" value="2010">2010</TIMEX3>, tingginya sudah mencapai 320 m dpl, estimasi percepatan pertumbuhannya rata-rata 4 m per tahun. 
+
+. 
+
+Selama <TIMEX3 tid="t14" type="DURATION" value="P9Y">sembilan tahun</TIMEX3>, Anak Krakatau bertambah tinggi lebih dari 100 m dan penambahan areanya seluas 378.527 m2. 
+
+Apabila pertambahan tinggi dan volume konsisten, maka diperkirakan pada <TIMEX3 tid="t15" type="DATE" value="2020">tahun 2020</TIMEX3> volume Gunung Anak Krakatau akan melebihi volume Gunung Rakata, Gunung Danan, dan Gunung Perbuwatan (11,01 km3) menjelang letusan katastrofis Gunung Krakatau pada <TIMEX3 tid="t16" type="DATE" value="1883-08">Agustus 1883</TIMEX3>. 
+
+Pada <TIMEX3 tid="t17" type="DATE" value="1883">tahun 1883</TIMEX3>, meletusnya gunung Krakatau menjadi sejarah dunia. 
+
+<TIMEX3 tid="t18" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, letusan dahsyat Krakatau menimbulkan awan panas setinggi 70 km dan tsunami setinggi 40 meter dan menewaskan sekitar 36.000 orang. 
+
+Dilansir dari kompas. 
+
+com, jauh sebelum peneliti asing menulis tentang meletusnya Gunung Krakatau (Krakatoa, Carcata) <TIMEX3 tid="t19" type="DATE" value="2018-12-26">tanggal 26</TIMEX3>, 27, dan <TIMEX3 tid="t20" type="DATE" value="1883-08-28">28 Agustus 1883</TIMEX3>, seorang pribumi telah menuliskan kesaksian yang amat langka dan menarik, <TIMEX3 tid="t21" type="DURATION" value="P3M">tiga bulan</TIMEX3> pascameletusnya Krakatau, melalui Syair Lampung Karam. 
+
+Peneliti dan ahli filologi dari Leiden University, Belanda, Suryadi mengatakan hal itu kepada Kompas di Padang, Sumatera Barat, dan melalui surat elektroniknya dari Belanda, <TIMEX3 tid="t22" type="DATE" value="2018-08-31">Minggu (31/8)</TIMEX3>. 
+
+" Kajian-kajian ilmiah dan bibiliografi mengenai Krakatau hampir-hampir luput mencantumkan satu-satunya sumber pribumi tertulis, yang mencatat kesaksian mengenai letusan Krakatau di <TIMEX3 tid="t23" type="DATE" value="UNKNOWN">tahun 1883 itu</TIMEX3>. 
+
+" // " <TIMEX3 tid="t24" type="DURATION" value="P2Y">Dua tahun</TIMEX3> penelitian, saya menemukan satu-satunya kesaksian pribumi dalam bentuk tertulis, " katanya. 
+
+Sebelum meletus <TIMEX3 tid="t25" type="DATE" value="2018-12-26">tanggal 26</TIMEX3>, 27, dan <TIMEX3 tid="t26" type="DATE" value="1883-08-28">28 Agustus 1883</TIMEX3>, gunung Krakatau telah batuk-batuk sejak <TIMEX3 tid="t27" type="DATE" value="1883-05-20">20 Mei 1883</TIMEX3>. 
+
+.000 orang. 
+
+Sebelum meletus <TIMEX3 tid="t28" type="DATE" value="1883">tahun 1883</TIMEX3>, Gunung Krakatau telah pernah meletus sekitar tahun 1680/1. 
+
+Letusan itu memunculkan tiga pulau yang saling berdekatan; Pulau Sertung, Pulau Rakata Kecil, dan Pulau Rakata. 
+
+Suryadi menjelaskan, selama ini yang menjadi. 
+
+Seismograf RusakTsunami di Selat Sunda yang menerjang pesisir pantai Banten dan Lampung, pada <TIMEX3 tid="t29" type="TIME" value="2018-12-23T21:33">Sabtu (23/12/2018) pukul 21:33 WIB</TIMEX3> diawali dengan surutnya air laut. 
+
+Badan Geologi mendeteksi pada <TIMEX3 tid="t30" type="TIME" value="2018-12-22">hari Sabtu (22/12/2018) pukul 21.03 WIB</TIMEX3> Gunung Anak Krakatau mengalami erupsi kembali dan menyebabkan peralatan seismograf setempat rusak. 
+
+<TIMEX3 tid="t31" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, seismik Stasiun Sertung merekam adanya getaran tremor terus menerus, namun tidak ada frekuensi tinggi yang mencurigakan. 
+
+// Kemungkinan, material sedimen di sekitar Anak Gunung Krakatau di bawah laut longsor sehingga memicu tsunami. 
+
+Seorang saksi mata yang merupakan warga setempat, Kamila Aprianti (18), menyebut pantai di belakang Hotel Marina Anyer sempat surut <TIMEX3 tid="t32" type="TIME" value="2018-12-22T19:00">sekitar pukul 19.00 WIB</TIMEX3>. 
+
+" Ombak dari <TIMEX3 tid="t33" type="TIME" value="2018-12-22TAF">sore</TIMEX3> sudah besar, tapi pas <TIMEX3 tid="t34" type="TIME" value="2018-12-23T19">jam 7 malam itu</TIMEX3> sempat menghilang dan air laut surut banget, saya sih belum berpikir macam-macam <TIMEX3 tid="t35" type="DATE" value="PAST_REF">saat itu</TIMEX3>, " cerita Kamila kepada Kompas. 
+
+com, <TIMEX3 tid="t36" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3> dini hari. 
+
+. 
+
+Kamila yang <TIMEX3 tid="t37" type="DATE" value="PAST_REF">saat itu</TIMEX3> tengah bersama belasan temannya di hotel berhamburan keluar bersama pengunjung hotel lain. 
+
+" Saya lihat di jalan sudah ramai sekali warga dan wisatawan lain, ada teriakan tsunami-tsunami, semua panik, jalan raya sudah tergenang air setinggi tumit saya, banyak yang berlarian dan bawa kendaraan masing-masing menuju arah bukit, " kata dia. 
+
+Kamila yang juga merupakan warga setempat, memilih untuk menyelamatkan diri ke rumahnya, di Kampung Kosambi, Kecamatan Cinangka, Kabupaten Serang, yang berada sekitar 500 meter dari hotel. 
+
+Menurut penuturannya, air laut mulai surut dari daratan <TIMEX3 tid="t38" type="TIME" value="UNKNOWN">sekitar pukul 24.00 WIB</TIMEX3>. 
+
+Namun warga belum berani untuk kembali ke arah pantai karena khawatir terjadi gelombang susulan. " Apalagi <TIMEX3 tid="t39" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> tengah hujan deras, kami para perempuan tetap terjaga di dalam rumah, sementara pemuda dan bapak-bapak ronda di halaman depan, " tutup dia.(*) 
+</TEXT>
+
+</TimeML>

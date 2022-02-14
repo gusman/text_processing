@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0288</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-26" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-26</TIMEX3></DCT>
+
+<TITLE>Kebakaran Lahan Ancam Telaga Cs</TITLE>
+
+<TEXT>
+Tiga titik api terlihat dari kejauhan di wilayah perbukitan sebelah utara Kecamatan Telaga Cs, atau di wilayah Talumelito, Ulapato B, dan Ulapato A. 
+
+Sejak <TIMEX3 tid="t1" type="TIME" value="2018-09-26TAF">Kamis (26/9) sore</TIMEX3>, kepulan asap sudah mulai terlihat membubung cukup tinggi. 
+
+Hingga <TIMEX3 tid="t2" type="TIME" value="2019-09-25TNI">malam</TIMEX3>, luasan api mulai menjalar kawasan perbukitan. 
+
+Akibatnya area yang terbakar semakin luas. 
+
+Kepala Desa Ulapato A, Efendi Nento yang ditemui di lapangan, tampak bersama Babinsa TNI dan masyarakat mencoba mendekati titik api hingga memutar ke wilayah pemukiman Talumelito. 
+
+Sayangnya jalur masuk melalui tempat Galian C pun hanya bisa dimasuki cukup beberapa meter saja. 
+
+Titik api tetap tidak bisa di dekati. 
+
+Efendi lalu mencoba membuka Google Map memperkirakan dimana lokasi titik api dari lokasi Galian C. 
+
+Tampaknya lokasi lahan terbakar itu dekat dengan lahan yang kosong. 
+
+Kami menduga itu pembukaan lahan, tutur Efendi sambil menunjuk Map di telefon selulernya. 
+
+Memang dari pantauan satelit, semacam ada lahan kosong terlihat. 
+
+Tidak mungkin itu longsor, karena bentuknya teratur, kami duga itu lahan yang dibuka, ujarnya. 
+
+Saat ditanya apakah sudah ada dari pihak BPBD? Menurut Efendi sudah ada, namun juga tetap tidak bisa berbuat banyak, karena akses jalan tidak ada. 
+
+kemungkinan <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">besok baru</TIMEX3> bisa mendekati lokasi, itu pun sulit, karena lokasinya mendaki, jelasnya. 
+
+Api bisa jadi terus menjalar ke arah Selatan, karena terlihat tiupan angin mengarah ke selatan. 
+
+Hingga berita ini diturunkan, api tetap masih saja menyala di tiga titik lokasi yang ada di kawasan bukit Desa Talumelito, Ulapato A dan Ulapato B. 
+
+Luasan lahan yang terbakar belum bisa dipastikan, namun diprediksi cukup luas. 
+
+(qen-53) 
+</TEXT>
+
+</TimeML>

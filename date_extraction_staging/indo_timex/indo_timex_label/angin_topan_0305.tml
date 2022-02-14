@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0305</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-11" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-11</TIMEX3></DCT>
+
+<TITLE>Puting Beliung Rusak Puluhan Rumah</TITLE>
+
+<TEXT>
+Angin puting beliung menghempaskan sepeda motor di gang kompleks perumahan Rancaekek Permai II, Desa Jelegong, Kecamatan Rancaekek, Kabupaten Bandung, <TIMEX3 tid="t1" type="DATE" value="2019-01-11">Jumat (11/1/2019)</TIMEX3>. 
+
+Atap genting puluhan rumah beterbangan diterjang angin kencang sekira pukul 15.00-15.30 <TIMEX3 tid="t2" type="TIME" value="UNKNOWN">WIB itu</TIMEX3>. 
+
+Kepala Stasiun BMKG Bandung, Toni Sukma Wijaya di Bandung, <TIMEX3 tid="t3" type="DATE" value="2019-01-11">Jumat</TIMEX3> menjelaskan kondisi atmosfer berdasarkan citra satelit himawari terpantau awan konvektif dengan jenis Cumulonimbus meliputi wilayah Bandung bagian timur. 
+
+Pengukuran pos hujan observasi yang tercatat di Pos Hujan Cileunyi, <TIMEX3 tid="t4" type="DURATION" value="PT1H">kurang dari satu jam</TIMEX3> tercatat 16 mm, masuk dalam kategori curah hujan dengan intensitas lebat, ujar Toni saat dihubungi Antara melalui sambungan telepon. 
+
+Hujan dan pembentukan angin yang terjadi di Bandung timur tersebut disebabkan baik oleh faktor regional dan global. 
+
+Dari sisi regional, adanya pertemuan massa udara di sekitar Jabar dan belokan angin (shearline) di Jawa Barat bagian tengah. 
+
+Kemudian faktor global, karena terdapat anomali suhu permukaan laut di perairan Jawa Barat yang cenderung hangat sehingga berpeluang terjadi pembentukan awan konvektif potensial hujan. 
+
+Dari pantauan citra radar terdeteksi adanya pembentukan awan konvektif dengan kategori hujan sedang-lebat dan ketinggian puncak awan bisa mencapai 14 km pada <TIMEX3 tid="t5" type="TIME" value="2019-01-10T15:12">pukul 15.12 WIB</TIMEX3>, Katanya. 
+
+Pelaporan data pengamatan permukaan di Stasiun Geofisika Bandung, suhu Maksimum pada <TIMEX3 tid="t6" type="TIME" value="2019-01-11T14:00">tanggal 11 Januari 2019 pukul 14:00 WIB</TIMEX3> sebesar 29,3 C, dengan kelembapan udara sekitar 59 persen. 
+
+Pada saat awal pembentukan awan cumulonimbus (Cb) di <TIMEX3 tid="t7" type="TIME" value="2019-01-10TAF">siang</TIMEX3> menjelang <TIMEX3 tid="t8" type="TIME" value="2019-01-10TAF">sore hari</TIMEX3>, pada <TIMEX3 tid="t9" type="TIME" value="2019-01-10T15:00">pukul 15.00 WIB</TIMEX3> suhu tercatat 27,0 C dengan kelembapan udara sekitar 67 persen. 
+
+Mengingat Jawa Barat masuk dalam puncak <TIMEX3 tid="t10" type="DATE" value="2018-WI">musim hujan</TIMEX3>, Toni mengimbau kepada masyarakat agar tetap tenang dan waspada, serta menjauhi pohon-pohon yang rindang atau bangunan-bangunan yang rapuh. 
+
+Usahakan tidak keluar rumah di saat hujan lebat disertai angin kencang, petir atau kilat. 
+
+Bagi pengendara motor agar menghindari genangan air dan tidak berteduh di bawah pohon saat hujan lebat disertai angin, kata Toni. 
+
+Sementara itu, Humas Basarnas Bandung, Joshua Banjarnahor mengatakan, pihaknya akan terjun ke lokasi untuk memastikan tidak ada korban jiwa. 
+
+Kantor SAR Bandung menerjunkan pasukannya. 
+
+Bila ada korban kami siap mengevakuasi warga ke lokasi lebih aman, katanya. 
+
+
+</TEXT>
+
+</TimeML>

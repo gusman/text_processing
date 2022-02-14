@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0067</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-04-21" temporalFunction="false" functionInDocument="CREATION_TIME">2019-04-21</TIMEX3></DCT>
+
+<TITLE>Ini Sejumlah Wilayah di Bali yang Terdampak Abu Vulkanik Akibat Erupsi Gunung Agung Dini Hari Tadi</TITLE>
+
+<TEXT>
+Setelah terakhir mengalami erupsi <TIMEX3 tid="t1" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>, Gunung Agung kembali mengalami erupsi <TIMEX3 tid="t2" type="TIME" value="2019-04-20TMO">dini hari tadi</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2019-04-21">Minggu (21/4/2019)</TIMEX3>. 
+
+Dari laporan Volcanic Eruption Notice KESDM, Badan Geologi, PVMBG Pos Pengamatan Gunung Agung mencatat terjadi erupsi <TIMEX3 tid="t4" type="TIME" value="2019-04-20T03:21">pukul 03:21</TIMEX3> Wita, dengan tinggi kolom abu teramati 2.000 m di atas puncak (5.142 m di atas permukaan laut). 
+
+Kolom abu teramati berwarna kelabu dengan intensitas tebal condong ke arah barat daya. 
+
+Erupsi ini terekam di seismogram dengan amplitudo maksimum 25 mm dan durasi <TIMEX3 tid="t5" type="DURATION" value="PT2M55S">2 menit 55 detik</TIMEX3>. 
+
+Erupsi kali ini menyebabkan terjadinya hujan abu di sejumlah wilayah di Bali. 
+
+Hujan abu vulkanik yang cukup deras misalnya terpantau hingga ke Klungkung. 
+
+Paparan abu cukup tebal terpantau oleh warga di seputaran lingkungan Kemuning, Semarapura <TIMEX3 tid="t6" type="TIME" value="2019-04-20T05:00">sekitar pukul 05.00</TIMEX3> Wita. 
+
+Abu vulkanik jelas tampak menempel di kendaraan dan dedaunan. 
+
+Paparan abu vulkanik yang cukup tebal seperti <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, terakhir terjadi di Klungkung saat massa krisis Gunung Agung di <TIMEX3 tid="t8" type="DATE" value="2017">akhir tahun 2017</TIMEX3> silam. 
+
+" Hujan abunya cukup tebal. 
+
+Seperti awal-awal letusan Gunung Agung <TIMEX3 tid="t9" type="DATE" value="2017">tahun 2017 lalu</TIMEX3>, " ungkap Putu Mirayanti, warga Kota Semarapura.Laporan paparan hujan abu juga terpantau hingga wilayah Banjarangkan. 
+
+// Atas kondisi ini, BPBD Klungkung langsung membagikan masker kepada warga. 
+
+Masker dibagikan kepada warga yang beraktivitas di pasar dan sekitaran Kota Semarapura. 
+
+" Karena paparan abu vulkanik cukup pekat, kami mengimbau masyarakat saat beraktivitas di luar rumah menggunakan masker, " ujar Kalak BPBD Klungkung, I Putu Widiada. 
+
+Di Denpasar, paparan abu vulkanik juga dirasakan oleh masyarakat yang sedang mengikuti kegiatan rutin Car Free Day (CFD) di Lapangan Puputan Renon, Denpasar, Bali, <TIMEX3 tid="t10" type="DATE" value="2019-04-21">Minggu (21/4/2019)</TIMEX3>. 
+
+Abu vulkanik tampak jelas di atas kendaraan yang terparkir di sepanjang jalan area Lapangan Puputan Renon. 
+
+" Saya kira hujan, tadi sempet nanya gerimis atau gimana. 
+
+Terus anak saya ngomong paling Gunung Agung Erupsi. 
+
+Ternyata benar erupsi ya, " ungkap Nur Kemah, warga Denpasar yang <TIMEX3 tid="t11" type="DATE" value="PAST_REF">saat itu</TIMEX3> tengah membersihkan motornya dari abu vulkanik. 
+
+Di wilayah Badung, hujan abu akibat erupsi Gunung Agung kali ini juga terpantau hingga di wilayah Canggu, Kuta Utara, Badung, Bali pada <TIMEX3 tid="t12" type="TIME" value="2019-04-21">Minggu (21/4/2019) pagi</TIMEX3> pukul <TIMEX3 tid="t13" type="TIME" value="2019-04-20T08:44">08.44</TIMEX3> wita. 
+
+Hal ini pun diketahui dari debu yang menempel di sejumlah kendaraan milik warga. 
+
+" Kaget tadi ini, tiba-tiba denger kabar gunung agung erupsi terus abunya sampai sini, pas saya cek bener ada abu. 
+
+Ya astungkara, baik-baik saja, " ujar Wayan Putra, salah seorang warga di Canggu.Aktivitas di Bandara Ngurah Rai Masih NormalSementara itu, hingga <TIMEX3 tid="t14" type="TIME" value="2019-04-20T09:20">pukul 09.20</TIMEX3> Wita pada <TIMEX3 tid="t15" type="DATE" value="2019-04-21">Minggu (21/4/2019)</TIMEX3>, penerbangan dari dan menuju Bandara Internasional I Gusti Ngurah Rai Bali masih berjalan normal seperti biasa. 
+
+Masih normal (penerbangan di Bandara Ngurah Rai). 
+
+Dari data RGB Citra Satelit Cuaca Himawari BMKG Debu Vulkanik terdeteksi bergerak ke arah Barat Daya-Tenggara, ungkap Communication amp; Legal Section Head PT Angkasa Pura I (Persero) Kantor Cabang Bandara Internasional I Gusti Ngurah Rai Bali, Arie Ahsanurrohim dihubungi Tribun Bali, <TIMEX3 tid="t16" type="DATE" value="2019-04-21">Minggu (21/4/2019)</TIMEX3>. 
+
+// Namun begitu, pihaknya terus memantau perkembangan <TIMEX3 tid="t17" type="SET" value="PT1H">setiap jam</TIMEX3> baik secara langsung melalui paper test maupun hasil Citra Satelit Cuaca Himawari BMKG dan VAAC Darwin. 
+
+Disaster Management Plan sesuai SOP juga telah disiapkan oleh manajamen jika kondisi sewaktu-waktu berubah. 
+
+Arie pun mengimbau agar para penumpang jangan panik atau terpancing informasi yang tidak dapat dipertanggungjawabkan kebenarannya mengenai penerbangan dari dan menuju Bali. 
+
+(mit/noviana/firizqi/zae) 
+</TEXT>
+
+</TimeML>

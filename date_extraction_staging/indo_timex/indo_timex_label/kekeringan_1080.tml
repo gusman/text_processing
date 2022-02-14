@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_1080</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-07" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-07</TIMEX3></DCT>
+
+<TITLE>Bupati M Rijanto bersama ASN Pemkab Blitar Gelar Shalat Istisqo, 42.968 KK di 3 Kecamatan Kekeringan</TITLE>
+
+<TEXT>
+Kemarau panjang <TIMEX3 tid="t1" type="DATE" value="2019">tahun ini</TIMEX3> membuat warga di Kabupaten Blitar, melakukan berbagai upaya untuk bisa segera mendatangkan hujan. 
+
+Sebab, tak hanya kekeringan yang sudah melanda persawahan mereka, namun warga sudah mulai kesulitan air bersih. 
+
+Karena itu, untuk mendatangkan hujan, warga Kabupaten Blitar tak hanya melakukan ritual Tiban (ritual minta hujan dengan cara beradu kekuatan dengan saling menahan cambukan), namun juga menggelar salat istisqo. 
+
+Salat istisqo kali ini dilakukan di Lapangan sepak bola Kecamatan panggungrejo, <TIMEX3 tid="t2" type="TIME" value="2019-10-07TAF">Senin (7/10/2019) siang</TIMEX3>. 
+
+Bahkan, tak hanya dikuti warga, namun juga berbagai elemen masyarakat, termasuk para pegawai (PNS) Pemkab Blitar. 
+
+Itu karena salat yang diikuti sekitar 1.000 orang itu juga dihadiri M Rijanto, Bupati Blitar, Totok Subihandono, Sekda, Budi Kusuma, Kadiknas. 
+
+Saking banyaknua pesertanya, hingga hampir memenuhi lapangan sepak bola. 
+
+Meski berlangsung dengan terik matahani, namun salat yang berakhir <TIMEX3 tid="t3" type="TIME" value="2019-10-07T11:00">pukul 11.00 WIB itu</TIMEX3> berlangsung khusuk. 
+
+Itu diawali dengan pidato M Rijanto. 
+
+" Kekeringan <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah menjalar ke berbagai kecamatan. 
+
+<TIMEX3 tid="t5" type="DATE" value="PAST_REF">Dulu</TIMEX3>, Kecamatan Panggungrrejo itu tak pernah terkena dampak kekeringan, namun pada kemarau <TIMEX3 tid="t6" type="DATE" value="2019">tahun ini</TIMEX3>, warganya mulai kesulitan air, " ungkapnya.Menurutnya, <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> ada sekitar 47.967 jiwa, khsususnya di Kecamatan Panggungrejo, yang mengalami kesulitan air bersih.Untuk di Kabupaten Blitar, ada tiga kecamatan yang mengalami kekeringan, yakni Kecamatan Wonotirto, Bakung, dan Panggungrejo denga 42.968 kepala keluarga (KK) yang kesulitan air. 
+
+" Kalau warga beli air <TIMEX3 tid="t8" type="SET" value="P1D">tiap hari</TIMEX3> kan kasihan, sehingga salat Istisqo ini, kami semua berharap agar hujan segera turun, " ujar Rijanto.Selama <TIMEX3 tid="t9" type="DURATION" value="P4M">empat bulan</TIMEX3> musim kemarau ini, warga memang harus beli air buat mencukupi kebutuhannya <TIMEX3 tid="t10" type="SET" value="P1D">setiap hari</TIMEX3>. 
+
+Sebab, pasokan air dari pemkab tak mencukupi.Sementara, harga air bersih per 600 liter Rp 60.000. 
+
+" Itu cuma cukup dipakai <TIMEX3 tid="t11" type="DURATION" value="P3D">tiga hari</TIMEX3>, dengan tiga anggota keluarga. 
+
+Dan, kami harus menghematnya. 
+
+Misalnya, cukup hanya mandi <TIMEX3 tid="t12" type="TIME" value="2019-10-06TAF">sore</TIMEX3> saja, " ujar Ny Sri Wini, warga Desa Kalitengah, Kecamatan Panggungrejo, usai mengikuti salat istisqo.Salat istisqo sendiri dipimpin KH Azizi, pengurus harian Syuriah NU Kabupaten Blitar. " Agar hujan cepat turun, maka kita semua harus rela kepanasan, untuk melakukan salat seperti ini. 
+
+Dan, kita semua harus menghindari perbuatan maksiat, " ungkapnya. 
+</TEXT>
+
+</TimeML>

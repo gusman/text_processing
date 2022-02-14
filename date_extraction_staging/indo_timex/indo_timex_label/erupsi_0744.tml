@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0744</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-06-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-06-01</TIMEX3></DCT>
+
+<TITLE>Bandara Internasional Adi Soemarmo Kembali Dibuka Pasca-Erupsi Merapi</TITLE>
+
+<TEXT>
+Bandara Internasional Adi Soemarmo, Solo, Jawa Tengah telah dibuka kembali dan beroperasi normal setelah ditutup selama <TIMEX3 tid="t1" type="DURATION" value="PT3H">3 jam</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2018-06-01">Jumat (1/6/2018)</TIMEX3>. 
+
+Corporate Secretary PT Angkasa Pura 1 (Persero), Israwadi, mengatakan pembukaan kembali dan operasi normal di Bandara Adi Soemarmo berdasarkan penerbitan NOTAM B3955/18 oleh Direktorat Navigasi Penerbangan. 
+
+Sebelumnya, Bandara Internasional Adi Soemarmo ditutup karena terdampak sebaran debu vulkanik dari erupsi Gunung Merapi pada <TIMEX3 tid="t3" type="TIME" value="2018-05-31T08:20">pukul 08.20 WIB</TIMEX3>. 
+
+Selain Adi Soemarmo, bandara yang juga ditutup adalah Bandara Internasional Ahmad Yani, Semarang. 
+
+(.30 <TIMEX3 tid="t4" type="TIME" value="UNKNOWN">WIB</TIMEX3> hingga <TIMEX3 tid="t5" type="TIME" value="2018-06-01T18:30">pukul 18.30 WIB itu</TIMEX3> dilakukan berdasarkan penerbitan NOTAM B3949/18 dan B3951/18. 
+
+Keputusan penerbitan NOTAM penutupan bandara oleh AirNav dilakukan setelah hasil di kedua bandara dinyatakan positif mengandung debu vulkanik dan berpotensi mempengaruhi keselamatan operasional penerbangan. 
+
+Penutupan Bandara Internasional Ahmad Yani, Semarang diperpanjang hingga <TIMEX3 tid="t6" type="TIME" value="2018-05-31T19:30">pukul 19:30 WIB</TIMEX3> untuk proses pembersihan landasan pacu dari debu vulkanik untuk memastikan keselamatan penerbangan. 
+
+Seluruh penumpang yang terkena dampak akibat penutupan bandara, diharapkan untuk terus memantau status penerbangan Anda melalui pihak maskapai. 
+
+Penumpang juga dapat mengikuti perkembangan terkini melalui Facebook dan Twitter, ujarnya. 
+
+// Penerbangan terdampakDengan penutupan kedua bandara, sejumlah penerbangan terkena dampak atas perpanjangan penutupan Bandara Internasional Ahmad Yani, Semarang (16 penerbangan), yakni:KedatanganGaruda Indonesia GA 242 CGK-SRGGaruda Indonesia GA 248 CGK SRGCitilink QG 798 CGK SRGWings Air IW <TIMEX3 tid="t7" type="DATE" value="1897">1897</TIMEX3> SUB SRGBatik Air ID <TIMEX3 tid="t8" type="DATE" value="7557">7557</TIMEX3> HLP SRGLion Air JT 516 CGK SRGLion Air JT 502 CGK SRGKeberangkatanGaruda Indonesia GA 245 SRG CGKGaruda Indonesia GA 249 SRG CGKCitilink QG 799 SRG CGKNam Air IN 230 SRG BDONam Air IN 254 SRGDPSNam Air IN 223 SRGCGKLion Air JT 517 SRGCGKLion Air JT 503 SRG CGKPembatalan Garuda Indonesia GA 367 SRG - SUB 
+</TEXT>
+
+</TimeML>

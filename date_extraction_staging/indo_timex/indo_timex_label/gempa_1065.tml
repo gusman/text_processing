@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1065</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-04" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-04</TIMEX3></DCT>
+
+<TITLE>AJI Kendari Gelar Donor Darah Bantu Korban Bencana Sulteng</TITLE>
+
+<TEXT>
+Kota Palu, Donggala, dan Sigi, Sulawesi Tengah (Sulteng) luluhlantah akibat gempa dan tsunami, pada <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat 28 September 2018 lalu</TIMEX3>. 
+
+Ribuan orang menjadi korban dalam bencana tersebut, serta memporak-porandakan pemukiman warga dan fasilitas umum lainnya. 
+
+Bantuan dari berbagai pihak terkait pun mulai berdatangan, tidak terkecuali dari Aliansi Jurnalis Independen (AJI) Kota Kendari. 
+
+Tidak hanya melalui bantuan relawan, logistik dan pakaian, AJI Kendari juga menggelar aksi kemanusian donor darah. 
+
+Kegiatan itu dilaksanakan di Taman Kota kendari, <TIMEX3 tid="t2" type="DATE" value="2018-10-04">Kamis (4/10/2018)</TIMEX3>. 
+
+Ketua Panitia Suarjono menjelaskan, pihaknya menargetkan sekitar 150 hingga 200 kantong darah yang akan didistribusikan PMI ke rumah sakit atau pun posko pengungsian yang ada di Palu dan Donggala. 
+
+Jadi kegiatan amal ini diinisiasi dan diikuti oleh AJI Kendari, Askindo, IJTI Kendari, PMI, mahasiswa, pengusaha dan partisipan lainnya. 
+
+Donor darah ini dalam rangka mendukung kegiatan kemanusiaan, jelasnya. 
+
+Dengan adanya kegiatan kemanusiaan ini, Suarjono mengajak seluruh lapisan masyarakat untuk turut andil mendonorkan darahnya, sebagai aksi nyata dalam membantu korban gempa dan tsunami Palu dan Donggala. 
+
+Kebutuhan darah di Palu dan Donggala sangat tinggi, untuk itu kami melakukan aksi ini dan berharap masyarakat bisa mendonorkan darahnya, terangnya. 
+
+Suwarjono menambahkan bagi warga yang akan mendonor darahnya terlebih <TIMEX3 tid="t3" type="DATE" value="PAST_REF">dulu</TIMEX3> akan dilakukan pengecekan, seperti tekanan darah, golongan darah serta kondisi kesehatan lainya. 
+
+Jika memenuhi syarat maka warga bisa langsung mendonorkan darahnya ke petugas PMI. 
+</TEXT>
+
+</TimeML>

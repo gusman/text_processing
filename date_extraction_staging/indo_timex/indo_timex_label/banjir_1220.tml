@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1220</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-05-15" temporalFunction="false" functionInDocument="CREATION_TIME">2016-05-15</TIMEX3></DCT>
+
+<TITLE>Lima Desa di Aceh Jaya Terendam Banjir</TITLE>
+
+<TEXT>
+Hujan yang turun sejak <TIMEX3 tid="t1" type="TIME" value="2016-05-14TNI">Sabtu (14/5/2016) malam</TIMEX3>, mengakibatkan lima desa di Kecamatan Pasie Raya, Kabupaten Aceh Jaya teremdam banjir. 
+
+Penyebab utamanya adalah luapan sungai Krueng Teunom. 
+
+Banjir terjadi sejak tadi <TIMEX3 tid="t2" type="TIME" value="2016-05-15TMO">pagi</TIMEX3> sekitar <TIMEX3 tid="t3" type="TIME" value="2016-05-14T05:00">Pukul 05.00 WIB</TIMEX3>, banjir karena luapan air sungai, kata Kepala Desa Pulo Tinggi, Ibnu Hamid kepada wartawan, <TIMEX3 tid="t4" type="DATE" value="2016-05-15">Minggu (15/05/16)</TIMEX3>. 
+
+Ibnu mengungkapkan, ketinggian air <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terus meningkat, yakni 50 hingga 100 cm, meski demikian banyak masyarakat yang berada di Desa Pulo Tinggi, belum mau mengungsi. 
+
+Warga belum ada yang mengungsi, ketinggian banjir ini terus meningkat karena hujan masih mengguyur ungkap dia. 
+
+Kejadian ini, lanjut Ibnu, sudah terjadi sejak <TIMEX3 tid="t6" type="DURATION" value="P3Y">tiga tahun</TIMEX3> terakhir. 
+
+Dimana <TIMEX3 tid="t7" type="SET" value="XXXX-WI">setiap musim hujan</TIMEX3> air dari sungai krueng Teunom terus meluap. 
+
+Hal itu dikarenakan aliran sungai berliku dan tak ada tanggul penahan. 
+
+<TIMEX3 tid="t8" type="DATE" value="2016-05">Bulan ini</TIMEX3> sudah dua kali terjadi banjir, pokoknya kalau sudah hujan lebat <TIMEX3 tid="t9" type="DURATION" value="PXX">sebentar</TIMEX3> sudah banjir katanya. 
+
+Untuk itu dia meminta pemerintah daerah untuk segera membangun tanggul di krueng Teunom yang panjangnya dua km, bukan mengirimkan makanan saja. 
+
+Kami berharap pemerintah menanggulangi banjir ini dengan membangun tanggul, bukan bantuan indomie yang kami harapkan saat terjadi banjir, karena sejak <TIMEX3 tid="t10" type="DATE" value="2012">tahun 2012</TIMEX3> sudah kami usulkan tapi pemerintah hanya berjanji-janji sampai <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> tidak ada realisasi ujarnya. 
+
+Adapun lima Desa di Kecaman Pasie Raya yang terenda banjir yaitu, Desa Pulo Tinggi, Timpleng, Alue Krueng, Twi Kareung dan Paya Guci. 
+
+
+</TEXT>
+
+</TimeML>

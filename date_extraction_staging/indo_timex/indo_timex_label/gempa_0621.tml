@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0621</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-08" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-08</TIMEX3></DCT>
+
+<TITLE>PP Kaltim Kirim  129 Relawan dan Logistik Bantuan Ke Palu</TITLE>
+
+<TEXT>
+Pemuda Pancasila (PP) Kalimantan Timur (Kaltim), <TIMEX3 tid="t1" type="DATE" value="2018-09-04">Kamis (4/9/2018)</TIMEX3> mengirim Bantuan LogIstik dan 129 Relawan ke Palu Provinsi Sulawesi Tengah (Sulteng). 
+
+Para relawan serta bantuan logistik tersebut diberangkatkan dari pelabuhan Samarinda, menggunakan kapal tunda. 
+
+Pada misi kemanusian penanggulangan bencana gempa dan tsunami di sulawesi tengah tersebut, Pemuda Pancasila Kalimantan Timur mengirimkan bantuan logistik berupa sembako, pakaian layak pakai, perlatan medis dan obat-obatan, sarana transportasi roda enam hingga kendaraan roda dua untuk mempermudah jangkauan penyaluran bantuan ke setiap lokasi. 
+
+<TIMEX3 tid="t2" type="DATE" value="2018-10-08">Hari ini</TIMEX3> kami bersama 129 relawan pemuda pancasila berangkat dari pelabuhan Samarinda menggunakan kapal tongkang/kapal tunda menuju Pantoloan Sulawesi tengah. 
+
+Selain membawa logistik berupa bahan makan, tenda, pakaian, dan obat-obatan. 
+
+Kami juga mengirim 11 truck dalmas, 7 unit mobil 4 4 double cabin, 20 unit motor trail. 
+
+Tujuannya agar mempermudah mobilisasi relawan dan penyaluran bantuan, ujar Wakil Ketua MPW PP Kaltim, Agus Suwandi. 
+
+Para relawan akan menempuh perjalanan selama lebih kurang <TIMEX3 tid="t3" type="DURATION" value="PT20H">20 jam</TIMEX3> melalui jalur sungai dan laut menuju Kabupaten Pantoloan untuk selanjutnya menempuh jalur darat hingga ke lokasi bencana di Palu Sulawesi Tengah. 
+
+Relawan yang diberangkatkan, sebagian besar merupakan tenaga ahli di bidang masing-masing, seperti tenaga medis himgga mekanik. 
+
+Keberangkatan relawan ini, sudah di persiapkan, karena melibatkan tenaga-tenaga profesioanal untuk itu beberapa paramedis kita siapkan sebelumnya, untuk tim kesehatan ada tenaga medis, dokter dan perawat. 
+
+Kemudian ada bidang transportasi, logistik dan akomodasi semua ada yang menkoordinir, imbuh Agus Suwandi yang ditemui di pelabuhan Samarinda pada <TIMEX3 tid="t4" type="TIME" value="2018-10-04TAF">Kamis Sore</TIMEX3>. 
+
+Dijadwalkan, relawan Pemuda Pancasila akan melakukan kegiatan penanggulangan bencana selama 7 hingga <TIMEX3 tid="t5" type="DURATION" value="P10D">10 Hari</TIMEX3> di Palu Sulteng 
+</TEXT>
+
+</TimeML>

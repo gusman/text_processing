@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0096</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-15" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-15</TIMEX3></DCT>
+
+<TITLE>Angin Puting Beliung Rusak Enam Rumah Warga di Desa Irat, Pemilik Rumah Terpaksa Mengungsi</TITLE>
+
+<TEXT>
+Enam rumah warga di Desa Irat Kecamatan Payung mengalami kerusakan pada bagian atap setelah diterpa angin puting beliung yang menimpa di Desa Irat dan menyebabkan pemilik rumah terpaksa harus dievakuasi. 
+
+Ketika dikonfirmasi melalui panggilan telepon pada <TIMEX3 tid="t1" type="DATE" value="2020-02-15">Sabtu</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2020-02-15TAF">(15/2/2020) sore</TIMEX3>, Kepala Desa Irat, Bahrul Mazi menyatakan kejadian bermula saat intensitas hujan cukup deras melanda Desa Irat. 
+
+Bahkan beberapa kali gelegar petir saling bersambutan disertai angin kencang hingga pada akhirnya menimbulkan angin puting beliung. 
+
+Kejadian terjadi <TIMEX3 tid="t3" type="TIME" value="2020-02-14T14:30">sekitar pukul 14.30 WIB</TIMEX3> di saat hujan sedang turun. 
+
+" Dari pengecekan kami di lokasi itu ada enam rumah yang terkena dampaknya bahkan ada satu rumah warga yang mengalami kerusakan parah, rabung atau kerangka atapnya turut rusak, " cerita Bahrul. 
+
+Ketika dikonfirmasi, Bahrul menyebutkan pemilik rumah yang alami kerusakan parah di antaranya milik Sujati. 
+
+Untuk menghindari hal-hal yang tidak diinginkan, pemilik rumah yang mengalami kerusakan agar mengungsi ke rumah saudaranya yang lebih aman. 
+
+" <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kami meminta pemilik rumah untuk mengungsi di rumah saudara-saudaranya dan rumah dalam keadaan kosong, " tambah Bahrul.Sementara itu tindakan yang telah diambil oleh pihaknya lanjut Bahrul yakni menyampaikan kejadian ini kepada Pemerintah Daerah Bangka Selatan melalui Dinas Sosial agar dapat membantu meringankan beban pemilik rumah yang mengalami kerusakan. " <TIMEX3 tid="t5" type="TIME" value="2020-02-15TNI">Malam ini</TIMEX3> kami juga akan memberikan bantuan ala kadarnya kepada pemilik rumah yang tekena dampak seperti sembako sembari menunggu bantuan dari Dinsos, " tukasnya.Dirinya juga berharap agar Pemerintah Daerah Bangka Selatan dapat mengambil langkah yang cepat dan tepat agar dapat membantu masyarakat yang mengalami kesulitan.(Bangkapos.com/Jhoni Kurniawan) 
+</TEXT>
+
+</TimeML>

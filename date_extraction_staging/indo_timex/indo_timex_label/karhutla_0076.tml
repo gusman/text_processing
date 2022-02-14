@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0076</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-22</TIMEX3></DCT>
+
+<TITLE>Kebakaran Lahan di Kintamani Kian Meluas, Api Merembet 600 Meter ke Utara</TITLE>
+
+<TEXT>
+Kebakaran lahan di wilayah Kecamatan Kintamani masih terjadi hingga memasuki <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">hari ketiga</TIMEX3>. 
+
+<TIMEX3 tid="t2" type="DATE" value="2019-10-21">Senin (21/10/2019) kemarin</TIMEX3>, kebakaran terjadi di dua titik pada waktu yang hampir bersamaan. 
+
+Kepala Pelaksana BPBD Bangli, I Wayan Karmawan mengatakan, peristiwa kebakaran pada <TIMEX3 tid="t3" type="DATE" value="2019-10-21">Senin (21/10/2019)</TIMEX3> terjadi di Dusun Kubusuih, Desa Sukawana dan Desa Batur Selatan. 
+
+Api melalap kebun cengkih. 
+
+Pemadaman dilakukan dengan cara manual. 
+
+Titik apinya terus berpindah-pindah. 
+
+Pada <TIMEX3 tid="t4" type="DATE" value="2019-10-19">hari Sabtu</TIMEX3> titik api diketahui pada lahan di belakang Restoran Amora. 
+
+<TIMEX3 tid="t5" type="TIME" value="2019-10-20TNI">Minggu malam</TIMEX3> titik api berpindah 500 meter ke sebelah utara, yang menyebabkan hutan cemara BKSDA terbakar. 
+
+Sedangkan pada <TIMEX3 tid="t6" type="DATE" value="2019-10-22">hari ini</TIMEX3> (<TIMEX3 tid="t7" type="DATE" value="2019-10-21">kemarin</TIMEX3>), kembali berpindah sekitar 600 hingga 1 kilometer ke utara dari musibah kebakaran <TIMEX3 tid="t8" type="TIME" value="2019-10-20TNI">Minggu malam</TIMEX3>. 
+
+Titik kebakaran berada di dekat Restoran Madusari, ucapnya. 
+
+Masih terjadinya kebakaran lahan di Batur Selatan, kata Karmawan, disinyalir akibat embusan angin di wilayah Kintamani yang masih kencang. 
+
+Dalam <TIMEX3 tid="t9" type="DURATION" value="P3D">tiga hari</TIMEX3> musibah kebakaran, Karmawan mengatakan kebanyakan terjadi di lahan milik warga. 
+
+Kebakaran hutan lindung hanya terjadi pada <TIMEX3 tid="t10" type="TIME" value="2019-10-20TNI">Minggu malam</TIMEX3>, yang merupakan kewenangan BKSDA. 
+
+Karmawan belum bisa memastikan penyebab kebakaran tersebut. 
+
+Pihaknya pun masih melakukan pendataan luas lahan yang terbakar. 
+
+Kasi Kedaruratan dan Logistik BPBD Bangli, I Ketut Agus Sutapa menambahkan, kendala utama upaya pemadaman lantaran faktor cuaca. 
+
+// Terpaan angin di wilayah Kintamani masih kencang. 
+
+Selain itu, upaya pemadaman tidak bisa dilakukan 100 persen karena keterbatasan alat. 
+
+Kami tidak bisa menjangkau titik-titik api yang berada di jurang. 
+
+Selain itu kami juga terkendala medan yang sempit. 
+
+Seperti di Kubusalya saat kejadian <TIMEX3 tid="t11" type="TIME" value="2019-10-20TNI">Minggu malam</TIMEX3>, itu medannya sempit sehingga armada damkar tidak bisa masuk. 
+
+Jika berbicara potensi, selama kondisi cuaca terik, belum turun hujan, dan masih ada angin ya tidak kemungkinan ada. 
+
+Namun kami berharap, mudah-mudahan kebakaran lahan tidak terjadi lagi, ujarnya. 
+
+Wakil Ketua DPRD Bangli, I Komang Carles mengatakan, kebakaran lahan dan hutan di wilayah Kintamani merupakan musibah tahunan. 
+
+Menurut dia, saat memasuki <TIMEX3 tid="t12" type="DATE" value="2019-SU">musim kemarau</TIMEX3> semestinya damkar mesiagakan armadanya di wilayah Kintamani, sebagai langkah antisipasi. 
+
+Rumahnya kan sudah ada di Kintamani. 
+
+Sudah dibuatkan sejak <TIMEX3 tid="t13" type="DATE" value="PXY">beberapa tahun lalu</TIMEX3>. 
+
+Kalau memang alasannya armada damkar terbatas, dari total aramada yang ada paling tidak satu atau dua unit lah sidaga sementara di Kintamani. 
+
+Ini dalam rangka pencegahan. 
+
+Apalagi <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> selain kemarau, juga ditambah angin kencang, ucapnya. 
+
+Politisi asal Desa Batur, Kintamani itu mengungkapkan, masyarakat sekitar memahami ihwal kondisi armada damkar Bangli yang terbatas. 
+
+Terlebih dengan musibah <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, yang terjadi pada sejumlah titik. 
+
+Sebab itu pada saat kebakaran lahan <TIMEX3 tid="t16" type="DATE" value="2019-10-20">Minggu kemarin</TIMEX3>, banyak masyarakat yang turut membantu membeli air secara swadaya untuk membantu proses pemadaman api yang telah mendekati pemukiman. 
+
+Jadi kami harapkan setidaknya selama dua hingga <TIMEX3 tid="t17" type="DURATION" value="P3M">tiga bulan</TIMEX3> kedepan armada damkar standby <TIMEX3 tid="t18" type="DATE" value="PAST_REF">dulu</TIMEX3> di Kintamani. 
+
+Hingga <TIMEX3 tid="t19" type="TIME" value="2019-10-22TAF">siang ini</TIMEX3> (<TIMEX3 tid="t20" type="DATE" value="2019-10-21">kemarin</TIMEX3>), apinya masih hidup. 
+
+Walaupun intensitasnya tidak sebesar <TIMEX3 tid="t21" type="DATE" value="2019-10-19">Sabtu</TIMEX3> ataupun <TIMEX3 tid="t22" type="DATE" value="2019-10-20">Minggu</TIMEX3>, ucapnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

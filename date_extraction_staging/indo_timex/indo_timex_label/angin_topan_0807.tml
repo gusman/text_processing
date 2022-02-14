@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0807</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-13" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-13</TIMEX3></DCT>
+
+<TITLE>Angin Kencang dan Hujan Es, 1 Keluarga Tertimpa Rumah Ambruk</TITLE>
+
+<TEXT>
+Satu keluarga di Jombang, Jawa Timur, tertimpa material bangunan rumah yang ambruk akibat angin kencang, pada <TIMEX3 tid="t1" type="TIME" value="2019-12-05TEV">Kamis (12/12/2019) petang</TIMEX3>. 
+
+Rumah yang ambruk akibat angin kencang tersebut adalah rumah milik Sigit Prasojo (35), di Dusun Cermenan, Desa Sugihwaras, Kecamatan Ngoro, Kabupaten Jombang. 
+
+Saat angin kencang melanda pada <TIMEX3 tid="t2" type="TIME" value="2019-12-12TEV">Kamis petang</TIMEX3>, Sigit bersama istri, anak dan keponakannya, sedang berada di dalam rumah. 
+
+Angin kencang yang diikuti fenomena turunnya hujan es, membuat rumah Sigit rusak parah. 
+
+Rumah itu kehilangan atap serta sebagian tembok ambruk. 
+
+. 
+
+Sigit mengalami luka di kepala dan pelipis kanan. 
+
+Selain Sigit, Wilandari (29) istrinya, juga mengalami luka lecet pada kaki kiri. 
+
+Lalu, Aisyah (8), keponakannya, terluka pada bagian bibir dan lecet pada kaki dan tangan. 
+
+" Yang kena ya Sigit, istrinya sama keponakannya, kalau anaknya tidak kena, " kata Subandi, paman Sigit, saat ditemui, <TIMEX3 tid="t3" type="TIME" value="2019-12-13TMO">Jumat (13/12/2019) pagi</TIMEX3>.Subandi mengungkapkan, ketiga korban langsung di larikan ke Puskesmas Kesamben.Namun, lanjut dia, ketiga kerabatnya itu langsung diperbolehkan pulang untuk menjalani rawat jalan. " Tadi <TIMEX3 tid="t4" type="TIME" value="2019-12-12TNI">malam</TIMEX3> langsung boleh pulang. 
+
+Tapi <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> Sigit harus diperiksa lagi di Rumah Sakit (RSK) Mojowarno untuk memeriksakan (luka) kepala, takutnya ada apa-apa, " ujar dia. 
+
+// Pada <TIMEX3 tid="t6" type="TIME" value="2019-12-13">Jumat pagi</TIMEX3>, tampak sejumlah petugas baik dari Kepolisian, TNI maupun relawan, membersihkan puing-puing rumah Sigit yang ambruk akibat kencang. 
+
+Sementara, sejumlah kerabat Sigit tampak mengemasi barang-barang miliknya untuk diboyong ke rumah kerabat terdekatnya. 
+
+Subandi mengatakan, Rumah Sigit yang ambruk akibat angin kencang, baru ditempati <TIMEX3 tid="t7" type="DURATION" value="PXD">beberapa hari</TIMEX3>. 
+
+" Rumahnya baru ditempati, tiga harian ini, " ungkap dia. 
+
+Selain rumah Sigit, angin kencang juga membuat bagian belakang rumah milik Dwi Prayogo Lugito rusak. 
+
+Kerusakan itu ambruknya atap dan robohnya tembok bagian belakang. 
+
+Rumah yang rusak pada belakang itu berada di sebelah selatan dari rumah Sigit Prasojo. 
+
+Puluhan rumah rusak Berdasarkan inventarisasi Badan Penanggulangan Bencana Daerah (BPBD) Jombang Jawa Timur, akibat angin kencang pada <TIMEX3 tid="t8" type="TIME" value="2019-12-12TEV">Kamis petang</TIMEX3>, ada puluhan rumah yang rusak. 
+
+Selain rumah hunian warga, beberapa tempat usaha juga rusak akibat akibat angin kencang. 
+
+Bangunan-bangunan itu mengalami kerusakan pada kategori ringan, sedang hingga rusak parah. 
+
+// Kasi Kesiapsiagaan Bencana BPBD Jombang, Gunadi mengatakan, bangunan dan rumah yang rusak, tersebar di sejumlah Kecamatan. 
+
+Angin kencang juga berdampak pada tumbangnya pohon di sejumlah tempat. 
+
+Adapun sebaran Kecamatan yang terdampak angin kencang, ungkap Gunadi, yakni Kecamatan Mojowarno, Kecamatan Ngoro, Kecamatan Wonosalam, serta Kecamatan Gudo. 
+
+Angin kencang juga melanda beberapa desa di Kecamatan Diwek, Kecamatan Bareng, serta Kecamatan Mojoagung. 
+
+" Rumah dengan kondisi rusak parah ada di Kecamatan Ngoro, milik sudara Sigit warga Cermenan, Desa Sugihwaras, " katanya kepada, <TIMEX3 tid="t9" type="DATE" value="2019-12-13">Jumat</TIMEX3>. 
+
+Fenomena hujan es Guna mengungkapkan, selain angin kencang, pada <TIMEX3 tid="t10" type="TIME" value="2019-12-12TEV">Kamis petang kemarin</TIMEX3> juga terjadi fenomena hujan es. 
+
+Turunnya hujan es terjadi hampir bersamaan dengan datangnya angin kencang di beberapa wilayah. 
+
+Fenomena turunnya hujan es, terjadi di Desa Karanglo, Kecamatan Mojowarno, Kabupaten Jombang. 
+
+" Di Desa Karanglo, Kecamatan Mojowarno, ada fenomena hujan es. 
+
+Itu dirasakan warga, " kata Gunadi.Ning Tyas, warga Desa Karanglo mengungkapkan, fenomena turunnya hujan es, terjadi <TIMEX3 tid="t11" type="TIME" value="2019-12-12T15:00">sekitar pukul 15.00 WIB</TIMEX3>. " Itu kejadiannya <TIMEX3 tid="t12" type="TIME" value="2019-12-12T03:00">jam 3</TIMEX3> (<TIMEX3 tid="t13" type="TIME" value="2019-12-12TAF">sore</TIMEX3>), datangnya bersamaan dengan datangnya puting beliung, " katanya. 
+</TEXT>
+
+</TimeML>

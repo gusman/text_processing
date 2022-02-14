@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0050</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-09-06" temporalFunction="false" functionInDocument="CREATION_TIME">2017-09-06</TIMEX3></DCT>
+
+<TITLE>Lima Desa di Banyuwangi Krisis Air Bersih</TITLE>
+
+<TEXT>
+Lima desa yang krisis air masing-masing, Desa Sidowangi, Bangsring, Alasrejo, Wongsorejo dan Alasbuluh. 
+
+Dari kelima desa ini, total warga yang krisis air bersih mencapai <TIMEX3 tid="t1" type="DATE" value="5000">sekitar 5000</TIMEX3> jiwa. 
+
+Selama ini, warga di lima desa ini mengandalkan air bersih dari sumur dan mata air. 
+
+Namun, akibat musim kering, mata air mulai berkurang. 
+
+Lalu, ada jaringan pipa dari mata air yang rusak. 
+
+Sehingga, pasokan air bersih terganggu. 
+
+Ini memang fenomena rutin tahunan. 
+
+Ketika <TIMEX3 tid="t2" type="DATE" value="2017-SU">musim kemarau</TIMEX3>, pasokan air bersih sedikit terganggu. 
+
+Namun, sudah kita atasi dengan mendatangkan air bersih bersama Badan Penanggulangan Bencana Daerah (BPBD), kata Camat Wongosrejo Sulistyowati, <TIMEX3 tid="t3" type="DATE" value="2017-08-06">Rabu (6/8)</TIMEX3>. 
+
+Pasokan air bersih ini kata dia digelontor secara bergilir ke seluruh desa yang terdampar kekeringan. 
+
+Akibat krisis air bersih ini, imbuhnya, belum ditemukan warga menderita gangguan kesehatan. 
+
+Sementara itu, Nanang Hariadi, staf kedaruratan logistik BPBD Banyuwangi mengatakan <TIMEX3 tid="t4" type="DATE" value="2017">tahun ini</TIMEX3> jumlah desa di Kecamatan Wongsorejo yang terdampak kekeringan berkurang dibanding <TIMEX3 tid="t5" type="DATE" value="2016-09-06">tahun sebelumnya</TIMEX3>. 
+
+<TIMEX3 tid="t6" type="DATE" value="2016-09-06">Tahun lalu</TIMEX3> lebih banyak desa yang krisis air bersih akibat kekeringan. 
+
+<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> tinggal lima desa, sebab belum dilalui jaringan PDAM, jelasnya disela pembagian air bersih di Dusun Karangejo Utara, Desa Wongsorejo, <TIMEX3 tid="t8" type="TIME" value="2017-08-30TAF">Rabu siang</TIMEX3>. 
+
+Pria ini menjelaskan, Kecamatan Wongsorejo menjadi langganan kekeringan <TIMEX3 tid="t9" type="SET" value="XXXX-SU">setiap musim kemarau</TIMEX3>, lalu diikuti krisis air bersih. 
+
+Memang sejak Lebaran lalu tak ada hujan di Wongsorejo ini. 
+
+Sehingga mata air banyak mengering dan krisis air bersih, jelasnya. 
+
+. 
+
+<TIMEX3 tid="t10" type="SET" value="P1D">Setiap hari</TIMEX3>, satu titik dusun dijatah 1 tanki, kapasitas <TIMEX3 tid="t11" type="DATE" value="5000">5000</TIMEX3> liter. 
+
+Air bersih siap minum ini bagi ke masing-masing juriken warga. 
+
+Ada juga yang dipasok ke tandon umum atau mushola. 
+
+Pembagian air bersih ini sudah berlangsung sejak <TIMEX3 tid="t12" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir, akan berlanjut hingga krisis air selesai. 
+
+Menurutnya, pembagian air bersih ini untuk mengurangi beban warga, terutama kurang mampu. 
+
+Sebab, jika harus membeli air bersih biayanya lumayan mahal. 
+
+Selain Kecamatan Wongsorejo, imbuh Nanang, ada 8 kecamatan lagi yang terdampak kekeringan, rawan krisis air. 
+
+Dari jumlah ini, tiga diantaranya paling rawan krisis air bersih. 
+
+Masing-masing Kecamatan Tegaldlimo, Wongsorejo dan Bangorejo. 
+
+Dari masing-masing kecamatan rata-rata ada lima desa yang terdampak kekeringan. 
+
+Srinani (50), salah satu warga terdampak krisis air bersih di Dusun Karangejo Utara, Kecamatan Wongsorejo mengatakan krisis air bersih sudah berlangsung <TIMEX3 tid="t13" type="DURATION" value="P2M">dua bulan</TIMEX3> terakhir. 
+
+Selama ini, pihaknya mengandalkan pasokan air tandon. 
+
+Namun, karena kering, dia kelimpungan mendapatkan air bersih. 
+
+Kalau punya uang beli air bersih, satu juriken Rp 750, ujarnya. 
+
+Wanita ini merasa beruntung mendapatkan jatah air bersih dari pemerintah. 
+
+Sebab, tak perlu jauh-jauh mencari pasokan air bersih. 
+
+Pasokan air bersih ini hanya diperuntukkan bagi memasak dan air minum. 
+
+Untuk mandi, dia mengandalkan air sungai. 
+
+Terkadang air sumur, namun pasokannya tak maksimal. 
+
+Kalau ambil ke tandon juga jauh. 
+
+Apalagi <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> airnya mengering, keluhnya lagi. 
+
+
+</TEXT>
+
+</TimeML>

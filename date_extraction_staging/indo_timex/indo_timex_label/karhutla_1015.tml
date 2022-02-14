@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1015</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-18" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-18</TIMEX3></DCT>
+
+<TITLE>Kualitas Udara Kian Buruk, JNE Dharmasraya Bagi Masker ke Masyarakat</TITLE>
+
+<TEXT>
+- Jalur Nugraha Ekakurir (JNE) Cabang Kabupaten Dharmasraya, melakukan aksi peduli bagi-bagi masker gratis kepada warga di Jalan Lintas Sumatera, menyusul kabut asap yang masih menyelimuti wilayah itu. 
+
+" Pembagian masker pada <TIMEX3 tid="t1" type="DATE" value="2019-09-18">hari ini</TIMEX3> murni untuk kepedulian JNE terhadap warga Dharmasraya dalam berkendara maupun melakukan aktivitas lainnya, " kata Pimpinan Cabang JNE Dharmasraya, Maryadi, SE, di Pulau Punjung, <TIMEX3 tid="t2" type="DATE" value="2019-09-18">Selasa (18/09)</TIMEX3>. 
+
+Dikatakannya, aksi bagi bagi masker bersama seluruh karyawan JNE di Jalan Lintas Sumatera Jorong Sido Mulyo, Nagari Tebing Tinggi, Kecamatan Pulau Punjung dimulai <TIMEX3 tid="t3" type="TIME" value="2019-09-17T08:00">pukul 08.00 WIB</TIMEX3>. 
+
+" Ini murni kepedulian, tidak ada niat yang lain, kami perusahaan bergerak dalam menjual jasa, " kata Pimcab JNE Dharmasraya yang juga Ketua PWI Dharmasraya ini lagi. 
+
+Ia berharap dengan pemberian masker tersebut dapat mengurangi dampak asap bagi kesehatan masyarakat yang sedang beraktifitas di luar ruangan. 
+
+Aksi itu diharapkan juga diikuti para perusahaan dan organisasi lainnya agar masyarakat Dharmasraya dan sekitarnya terhindar dari berbagai penyakit akibat asap kebakaran hutan dan lahan. 
+
+Kepala Dinas Kesehatan, dr. 
+
+Rahmadian, menghimbau, masyarakat mengurangi aktivitas di luar rumah untuk mengantisipasi Infeksi Saluran Pernapasan Akut (ISPA). 
+
+" Kalau pun beraktivitas di luar rumah, diharapkan menggunakan masker serta banyak mengkonsumsi buah dan minum air putih, " lanjut dia. 
+
+Selain itu, Maryadi mengimbau masyarakat untuk menerapkan Perilaku Hidup Bersih dan Sehat (PHBS) seperti tidak merokok serta istirahat yang cukup. 
+
+
+</TEXT>
+
+</TimeML>

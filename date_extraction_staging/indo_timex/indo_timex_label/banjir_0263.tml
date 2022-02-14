@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0263</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-05-30" temporalFunction="false" functionInDocument="CREATION_TIME">2017-05-30</TIMEX3></DCT>
+
+<TITLE>Senator Salurkan Bantuan untuk Korban Longsor Lebong</TITLE>
+
+<TEXT>
+Dua orang Senator asal Provinsi Bengkulu, Riri Damayanti John Latief dan M Saleh, menyalurkan bantuan untuk korban longsor di Kabupaten Lebong, <TIMEX3 tid="t1" type="DATE" value="2017-05-30">Selasa (30/5/2017)</TIMEX3>. 
+
+. 
+
+Bantuan ini, kata dia, merupakan dana yang terhimpun dari gaji para Senator yang dipotong setiap bulannya. 
+
+Saya mewakili Senator lainnya mengucapkan turut berduka cita dan berbelasungkawa kepada para korban. 
+
+Semoga kejadian ini memberikan kita hikmah dan kemampuan untuk mengantisipasi agar ke depan tidak ada lagi korban jiwa dalam bencana di Lebong ini, kata Riri. 
+
+Sementara M Saleh, mengatakan, pihak Senator berharap agar bantuan ini bisa meringankan beban korban bencana. 
+
+Ia berkomitmen untuk menambahkan dana bantuan yang disalurkan <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> dari dana pribadi yang dia miliki. 
+
+Camat Lebong Selatan, Yasir, menyatakan rasa terimakasihnya kepada Riri Damayanti dan M Saleh serta seluruh Senator lainnya yang telah ikut andil mengurangi beban para korban yang tertimpa bencana longsor, belum lama ini. 
+
+Kepala Desa Sukasari, Lukker, menyatakan harapannya kepada para Senator untuk dapat meneruskan kepada Kepala Daerah perihal pemindahan lahan bangunan milik korban longsor seluas 3 hektar. 
+
+Jika tidak dipindah nampaknya akan sulit untuk membangun di kawasan bekas longsor. 
+
+Jadi tolong bantu sampaikan kepada pemerintah kabupaten agar memberi kebijakan atas kebingungan kami ini, harapnya. 
+
+Mendengar hal ini, Riri Damayanti berharap kepada pihak Pemerintah Kabupaten Lebong melalui perangkat pemerintah yang hadir <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3> untuk dapat mengakomodir permintaan warga. 
+
+Bilamana Pemkab Lebong tidak mampu mengkomodir keseluruhannya, harus ada solusi terkait pembebasan lahan itu. 
+
+Kita harus berempati. 
+
+Tidak mudah mengalami derita yang dialami oleh para korban, demikian Riri. 
+
+Untuk diketahui, Kabupaten Lebong mengalami musibah bencana alam tanah longsor dan banjir terjadi, <TIMEX3 tid="t4" type="DATE" value="2017-05-04">Kamis (4/5/2017) lalu</TIMEX3>. 
+
+Sebanyak Lima Desa terkena dampak Bencana alam tanah longsor dan banjir, yaitu Desa Sukasari, Kota Donok, Talang Ratu, Talang Kodok dan Suka Negri. 
+
+Desa Sukasari merupakan desa yang mengalami kerusakan paling parah yaitu 17 rumah yang mengalami rusak ringan dan berat, di Desa Talang Donok dengan 4 rumah, sedangkan Desa Suka Negri 1 rumah. 
+
+YP 
+</TEXT>
+
+</TimeML>

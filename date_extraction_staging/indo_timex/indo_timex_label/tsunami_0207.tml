@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0207</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-30" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-30</TIMEX3></DCT>
+
+<TITLE>Kok Bisa-bisanya Tsunami Palu Tak Terdeteksi? BIG Ungkapkan Masalahnya</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DURATION" value="P2D">Dua hari</TIMEX3> terakhir, banyak orang mengungkapkan keheranannya soal peringatan dini dan penanganan bencana. 
+
+" Kok bisa tsunami Palu enggak tahu? " " Memang kita enggak punya peta hazard sampai enggak tahu? " Kepala Badan Informasi Geospasial (BIG) Hasanuddin Z Abidin mengungkapkan keruwetan masalah yang dihadapi saat gempa Donggala yang diikuti tsunami Palu. 
+
+Ia menjelaskan, BIG sebenarnya mengelola satu stasiun pasang surut di dermaga Kota Palu. 
+
+Dalam stasiun itu terdapat alat pengukur pasang surut yang berfungsi mendeteksi tsunami. 
+
+Didukung dengan daya listrik, stasiun akan meneruskan data pasang surut ke pemangku kepentingan seperti BIG dan Badan Meteorologi, Klimatologi, dan Geofisika (BMKG). 
+
+" Stasiunnya persis di pinggir laut. 
+
+Online pakai listrik. 
+
+Sebelum gempa sebenarnya berfungsi tetapi begitu gempa komunikasi listrik mati, " jelasnya. 
+
+Hasan menambahkan, dia sendiri tak tahu nasib stasiun pasang surut, apakah hancur akibat gempa dan tsunami atau masih berdiri. 
+
+" Yang jelas begitu listrik mati, data berhenti mengalir. 
+
+Inilah tantangannya kalau alat tergantung listrik. 
+
+Kita mengandalkan baterai cadangan tetapi ternyata juga tidak berfungsi, " ungkapnya. 
+
+Ketika stasiun pasang surut tak berfungsi, sebenarnya masih ada satu harapan: buoy tsunami yang biasanya dipasang di lepas pantai. 
+
+" Tapi yang saya tahu kita tidak punya buoy tsunami di Palu. 
+
+Buoy tsunami juga punya masalah. 
+
+Banyak yang hilang dicuri, " ungkap Hasan.Gempa palu, kata hasan, punya pelajaran penting soal perlunya infrastruktur peringatan dini gempa dan tsunami. " Kita perlu buoy tsunami dan back up jika satu tidak berfungsi. 
+
+Termasuk soal stasiun pasang surut, bagaimana bisa tetap beroperasi dengan baterai cadangan, " katanya. 
+</TEXT>
+
+</TimeML>

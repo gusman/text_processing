@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0038</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-23" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-23</TIMEX3></DCT>
+
+<TITLE>Kebakaran Lahan Gambut, Api Mulai Melumat Kebun Sawit Milik Warga</TITLE>
+
+<TEXT>
+Kebakaran lahan gambut terjadi di Kabupaten Aceh Barat Daya (Abdya) di kawasan Jalan 30, Desa Rukon Dame, Kecamatan Babahrot. 
+
+Informasi diperoleh Serambinews. 
+
+com dari Mustafa, warga Babahrot, <TIMEX3 tid="t1" type="DATE" value="2017-07-23">Minggu (23/7/2017)</TIMEX3>, titik api di kawasan itu muncul sejak <TIMEX3 tid="t2" type="TIME" value="2017-07-21TAF">Jumat (21/7/2017) sore</TIMEX3> sampai <TIMEX3 tid="t3" type="DATE" value="2017-07-23">Minggu (23/7/2017)</TIMEX3>. 
+
+Kebakaran lahan gambut semakin meluas dan membakar kebun kelapa sawit milik masyarakat. 
+
+. 
+
+Titik api yang muncul berjarak sekitar 7 Km dari Jalan Nasional, yaitu jalan lingkar dari Desa Ie Mirah, Kecamatan Babahrot menuju Desa Lama Tuha, Kecamatan Kuala Batee. 
+
+. 
+
+Kabut asap menutup sebagian Jalan 30 di kawasan Desa Rukon Dame akibat kebakaran lahan gambut, " katanya. 
+
+Kawanan kera yang selama ini hidup di areal hutan muda di kawasan lahan gambut itu, dilaporkan berkerumun di sekitar Jalan 30, karena habitatnya mulai dimangsa api. 
+
+(*) 
+</TEXT>
+
+</TimeML>

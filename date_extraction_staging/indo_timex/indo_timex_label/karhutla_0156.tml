@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0156</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-30" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-30</TIMEX3></DCT>
+
+<TITLE>Jumlah Titik Panas Menurun</TITLE>
+
+<TEXT>
+Sejak <TIMEX3 tid="t1" type="DURATION" value="P3D">tiga hari</TIMEX3> terakhir ini, jumlah titik panas atau hot spot cenderung menurun. 
+
+Penurunan jumlah titik panas ini diharapkan juga mengurangi asap akibat kebakaran hutan dan lahan. 
+
+Kualitas udara dilihat dari parameter konsentrasi parikulat (PM 10) pantauan BMKG per <TIMEX3 tid="t2" type="DATE" value="2019-09-30">hari ini</TIMEX3>, Ahad <TIMEX3 tid="t3" type="DATE" value="2019-09-29">(29/9)</TIMEX3> pada kondisi sedang hingga baik, kata Plt. 
+
+Kepala Pusat Data, Informasi dan Humas Badan Nasional Penanggulangan Bencana (BNPB) Agus Wibowo dalam keterangan pers tertulis yang dikutip Republika. 
+
+co. 
+
+id, Ahad. 
+
+Kualitas udara di Jambi, Pekanbaru, Pontianak dan Palembang menunjukkan baik pada <TIMEX3 tid="t4" type="TIME" value="2019-09-30T12:00">pukul 12.00 WIB hari ini</TIMEX3>, sedangkan di Kota Palangkaraya dan Sampit menunjukkan tingkat sedang. 
+
+<TIMEX3 tid="t5" type="TIME" value="2019-09-29TMO">Pagi hari tadi</TIMEX3> wilayah Jambi diguyur hujan. 
+
+Turunnya hujan tersebut menghasilkan berkurangnya asap yang signifikan di wilayah Jambi. 
+
+Berdasakaran data Modis-Catalog Lapan dalam <TIMEX3 tid="t6" type="DURATION" value="PT24H">24 jam</TIMEX3> terakhir menunjukkan titik panas sejumlah 197 di Kalimantan Tengah. 
+
+Sedangkan di wilayah Sumatra, titik panas tertinggi teridentifikasi di wilayah Sumatra Selatan dengan 120 titik. 
+
+Ia melanjutkan, dilihat dari citra satelit Himawari pada sebaran asap hingga <TIMEX3 tid="t7" type="TIME" value="2019-09-30T11:00">pukul 11.00 WIB hari ini</TIMEX3> (29/9), tidak terdeteksi adanya transboundary haze atau asap yang melewati batas negara. 
+
+Asap terdeteksi di wilayah Kalimantan Selatan dan Kalimantan Tengah, sedangkan arah angin di wilayah Sumatera dan Kalimantan terpantau dari tenggara selatan menuju barat laut timur laut. 
+
+Sementara itu, Agus menuturkan, terkait dengan langkah penanganan karhutla, proses pembangunan sekat kanal atau canal blocking yang dilakukan oleh seluruh unsur Pemerintah Provinsi Kalimantan Selatan, diharapkan dapat memberikan kelembaban dan kebasahan pada lahan rawa gambut. 
+
+Proses pembangunan dipimpin langsung Gubernur Kalimantan Selatan Sahbirin Noor. 
+
+Terserang ISPA Seorang anggota Tim Reaksi Cepat (TRC) Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Indragiri Hilir, Alawi, terserang Infeksi Saluran Pernapasan Akut (ISPA) setelah beberapa kali melakukan pemadaman api kebakaran hutan dan lahan (Karhutla) di sejumlah daerah di wilayahnya. 
+
+Hasil pemeriksaan dokter, Alawi terkena ISPA, tadi <TIMEX3 tid="t8" type="TIME" value="2019-09-29TNI">malam</TIMEX3> sudah dibawa ke rumah sakit, ucap Kepala Pelaksana BPBD Inhil, Yuspik di Tembilahan, Inhil, Ahad <TIMEX3 tid="t9" type="DATE" value="2019-09-29">(29/9)</TIMEX3>. 
+
+Yuspik mengatakan Alawi divonis terserang ISPA berdasarkan hasil pemeriksaan dokter di sebuah klinik, pada <TIMEX3 tid="t10" type="TIME" value="2019-09-27TNI">Jumat malam</TIMEX3> (27/9). 
+
+Menurut Yuspik, Alawi baru saja pulang dari salah satu lokasi kebakaran hutan dan lahan usai berjibaku memadamkan api di lahan gambut. 
+
+Saat akan turun melanjutkan tugas, Alawi merasa pusing dan muntah-muntah. 
+
+Menurut Yuspik, gejala pusing disertai muntah ini sudah dialami Alawi sejak <TIMEX3 tid="t11" type="DURATION" value="P3D">tiga hari</TIMEX3> terakhir. 
+
+Pusing dan muntah ini sudah <TIMEX3 tid="t12" type="DURATION" value="P3D">tiga hari</TIMEX3>, tapi baru tadi <TIMEX3 tid="t13" type="TIME" value="2019-09-29TNI">malam</TIMEX3> diperiksa secara medis. 
+
+Ternyata hasilnya ISPA. 
+
+Langsung saya perintahkan untuk dibawa ke rumah sakit, tutur Yuspik. 
+
+Pria yang tinggal di Jalan Prof M Yamin, Kota Tembilahan itu, <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> telah dirawat di ruang Neorologi Rumah Sakit Umum Daerah Puri Husada Tembilahan. 
+
+Yuspik mengingatkan kepada seluruh masyarakat untuk berhati-hati terhadap dampak buruk paparan asap Karhutla.Khusus kepada anggota TRC BPBD Inhil Yuspik menekankan agar tetap memprioritaskan keselamatan serta kesehatan saat menjalankan tugas. 
+
+Jadikan ini pelajaran kita semua agar tetap berhati-hati terhadap dampak asap Karhutla terutama kepada petugas yang tengah melakukan pemadaman. 
+
+Selalu gunakan masker dan utamakan keselamatan serta kesehatan, ujarnya.(rep) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0728</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-02-05" temporalFunction="false" functionInDocument="CREATION_TIME">2015-02-05</TIMEX3></DCT>
+
+<TITLE>Kena Batu Longsoran, Siswi di Batu ini Pusing dan Tenggorokannya Sakit</TITLE>
+
+<TEXT>
+Khusnul Nur Windriyanti (11) merasakan pusing dan tenggorokannya sakit pascatertimpa longsoran batu saat mengikuti pelajaran di Gazebo Madrasah Ibtidaiyah Luqman Al Hakim, Desa Sumberejo, Kota Batu, Jawa Timur, <TIMEX3 tid="t1" type="DATE" value="2015-02-05">Kamis (5/2/2015)</TIMEX3>. 
+
+Saat ditemui di rumahnya di Gang Banyak RT 1 RW 1, Dusun Sumberejo, Desa Sumberejo, Kecamatan Batu, wajah Indri -panggilan Khusnul Nur Windriyanti- tampak pucat. 
+
+Di dalam rumah, anak berambut panjang ini mengenakan jaket warna putih. 
+
+Ibu Indri, Ny Siti Mariyam mempersilakan SURYAMALANG. 
+
+COM masuk rumahnya. 
+
+Namun, Indri tidak tampak ikut menemui, meski beberapa kali Ny Siti memintanya ke ruang tamu. 
+
+Ia diam di dalam kamar tidurnya. 
+
+Ny Siti menuturkan, kepala Indri terkena batu saat longsor terjadi. 
+
+Dia menangis terus menerus menahan sakit di kepalanya. 
+
+Lalu, pihak sekolah membawanya ke RS Etik Asharto bersama tiga kawannya yang juga menjadi korban longsor. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3>, dia masih merasa pusing dan tenggorokannya sakit ketika tidur. 
+
+Kata dokter, kalau Indri merasa mual-mual diminta kembali (ke RS), tutur Ny Siti. 
+
+Ny Siti berharap, tidak terjadi apa-apa dengan anak keduanya itu. 
+
+" Alhamdulillah tidak parah. 
+
+Semoga tidak gegar otak, kalau gegar otak kasihan anaknya, <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">nanti</TIMEX3> sekolahnya bagaimana? katanya. 
+
+(Iksan Fauzi) 
+</TEXT>
+
+</TimeML>

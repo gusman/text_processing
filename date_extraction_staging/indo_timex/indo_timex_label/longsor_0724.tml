@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0724</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-02-06" temporalFunction="false" functionInDocument="CREATION_TIME">2016-02-06</TIMEX3></DCT>
+
+<TITLE>Dua Rumah di Kediri Rusak Parah Terkena Longsoran Tebing</TITLE>
+
+<TEXT>
+Longsor menimpa dua rumah warga Desa Ponggok, Kecamatan Mojo, Kabupaten Kediri, <TIMEX3 tid="t1" type="TIME" value="2016-02-05TEV">Jumat (5/2/2016) petang</TIMEX3>. 
+
+Bencana itu terjadi bersamaan turun hujan deras yang mengguyur wilayah Kediri. 
+
+Rumah milik Prasetyo Budi rusak total, sementara rumah Purwanto tembok belakang jebol diterjang longsoran tebing di atasnya. 
+
+Lokasi rumah yang terkena tanah longsor memang berada di bawah tebing. 
+
+Namun bencana itu tidak sampai menelan korban karena penghuni rumah lebih dahulu menyelamatkan diri. 
+
+Kapolsek Mojo AKP Sokib Dimyati saat dikonfirmasi suryamalang. 
+
+com menjelaskan, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> korban telah mengungsi di rumah kerabatnya. 
+
+" Kami mengimbau masyarakat yang tinggal di daerah rawan untuk waspada saat ada hujan deras, " tambahnya 
+</TEXT>
+
+</TimeML>

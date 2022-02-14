@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1111</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-19" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-19</TIMEX3></DCT>
+
+<TITLE>Tiga Rumah Tertimpa Tanah Longsong di Luhung Pasar Baru Bayang Pesisir Selatan Sumbar</TITLE>
+
+<TEXT>
+Tiga buah rumah di Kampung Luhung, Nagari Pasar Baru, Kecamatan Bayang, Kabupaten Pesisir Selatan, Propinsi Sumatera Barat (Sumbar) pada Savtu <TIMEX3 tid="t1" type="DATE" value="2020-01-18">(18/1/2020)</TIMEX3> tertimpa tanah longsor. 
+
+Ketiga rumah tertimba tanah longsor tersebut, masing-masing, rumah milik Tasnadri (Ujang) <TIMEX3 tid="t2" type="DURATION" value="P49Y">49 tahun</TIMEX3>, mengakibatkan dapur dan dinding rumah pada lantai dua bagian belakang roboh. 
+
+Berikutnya rumah milik Syafrianto, <TIMEX3 tid="t3" type="DURATION" value="P39Y">39 tahun</TIMEX3>, bagian dapur roboh dan rumah Darliusni, <TIMEX3 tid="t4" type="DURATION" value="P43Y">43 tahun</TIMEX3> memgalami kerusakan pada bagian dapur rumah. 
+
+Selain itu, disejumlah rumah penduduk di Kampung Luhung juga dimasuki material longsor berupa lumpur, kata Camat Bayang Ilham Rahmadsyah Putra, Dari pantauan di lapangan <TIMEX3 tid="t5" type="TIME" value="UNKNOWN">pagi ini Minggu</TIMEX3> (19/1/2020) warga masyarakat Luhung melakukan goro guna membersihkan di rumah warga mereka yang timbunan lumpur. 
+
+Sementara itu, Camat Linggo Sari Baganti, menyebutkan, empat nagari di kecamatannya dilanda banjir, <TIMEX3 tid="t6" type="TIME" value="2020-01-18TNI">Sabtu malam</TIMEX3>. 
+
+Keempat nagari yang dilanda banjir tersebut, Nagari Lagan Hilir Punggasan, Punggasan Timur, Padang XI Punggasan dan Air Haji Tenggara. 
+
+Banjir <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah surut, kata Camat Linggo Sari Baganti, Rahmad Hidayat. 
+
+Selain banjir, juga terjadi tanah longsor di Gunung Linggo, Kampung Koto Merapak Nagari Padang XI Punggasan Kecamatan Linggo Sari Baganti. 
+
+Menurut camat berdasarkan data sementara tidak ada kerugian material karena lokasi longsor jauh dari pemukiman masyarakat. 
+
+Sementara itu, Kepala Badan Penanggulangan Bencana Daerah (BPBD) Erman Budiarto, menyebutkan, kalau pihaknya sudah menurunkan tim ke lapangan. 
+
+cal/berita minang 
+</TEXT>
+
+</TimeML>

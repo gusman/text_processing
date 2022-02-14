@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0403</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-08-04" temporalFunction="false" functionInDocument="CREATION_TIME">2016-08-04</TIMEX3></DCT>
+
+<TITLE>Tujuh Titik Panas Terpantau di Pulau Sumatera</TITLE>
+
+<TEXT>
+Tujuh titik panas terpantau di wilayah Sumatera, <TIMEX3 tid="t1" type="TIME" value="2016-08-04TAF">Kamis (4/8/2016) sore</TIMEX3>. 
+
+Dari rilis Badan Meteorologi Klimatologi dan Geofisika (BMKG) Pekanbaru, tujuh titik panas tersebut tersebar di Provinsi Nanggroe Aceh Darussalam (NAD) sebanyak empat titik panas, Sumatera Utara satu titik panas, Bangka Belitung sebanyak dua titik. 
+
+Umumnya cuaca di wilayah Riau cerah hingga berawan. 
+
+Potensi hujan ringan diprakirakan dapat terjadi di wilayah Riau bagian tengah, pesisir timur dan selatan pada <TIMEX3 tid="t2" type="TIME" value="2016-08-03TAF">sore</TIMEX3> atau <TIMEX3 tid="t3" type="TIME" value="2016-08-03TNI">malam</TIMEX3> dini hari. 
+
+Sedangkan untuk prakiraan tinggi gelombang laut berlaku mulai <TIMEX3 tid="t4" type="DATE" value="2016-08-04">tanggal 4 Agustus 2016</TIMEX3> sampai <TIMEX3 tid="t5" type="DATE" value="2016-08-05">tanggal 5 Agustus 2016</TIMEX3> di beberapa perairan Riau seperti di Rohil, Dumai, Bengkalis, Inhil, Meranti berkisar <TIMEX3 tid="t6" type="TIME" value="2016-08-03T00:25">0.25</TIMEX3> sampai 0.5 meter. 
+
+
+</TEXT>
+
+</TimeML>

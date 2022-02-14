@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1063</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-09-19" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-19</TIMEX3></DCT>
+
+<TITLE>Titik Panas di Riau Melonjak dalam Masa 24 Jam</TITLE>
+
+<TEXT>
+Badan Penanggulangan Bencana Daerah (BPBD) menyatakan lonjakan titik panas di Riau dalam <TIMEX3 tid="t1" type="DURATION" value="PT24H">24 jam</TIMEX3> terakhir terdeteksi berada di perbatasan Riau-Jambi. 
+
+Dari pantauan petugas keberadaan titik panas itu berada di Pelalawan dan Indragiri Hulu. 
+
+Persisnya berada di perbatasan Riau- Jambi, kata Kepala BPBD Riau, Edwar Sanger, <TIMEX3 tid="t2" type="DATE" value="2015-09-19">Sabtu</TIMEX3> (19/9)Saat ini terdapat sekitar 127 titik panas yang terdeteksi satelit Terra dan Aqua pada <TIMEX3 tid="t3" type="TIME" value="2015-09-19">Sabtu pagi</TIMEX3>. 
+
+Jumlah tersebut melonjak tajam dalam <TIMEX3 tid="t4" type="DURATION" value="PT24H">24 jam</TIMEX3> terakhir dimana pada <TIMEX3 tid="t5" type="TIME" value="2015-09-18TMO">Jumat pagi</TIMEX3> Riau dipastikan nihil titik panas. 
+
+Tadi <TIMEX3 tid="t6" type="TIME" value="2015-09-18TNI">malam</TIMEX3> BMKG Pekanbaru merilis ada 116 titik panas, lalu meningkat jadi 127. 
+
+Jujur saya terkejut dengan lonjakan ini, ujarnya. 
+
+Mendapati keberadaan titik panas di dua wilayah itu, Edwar mengaku langsung melakukan komunikasi intensif dengan anggota di kedua daerah itu. 
+
+Selanjutnya setelah mendapatkan informasi ratusan titik panas itu berada di perbatasan Riau-Jambi, ia langsung menerbangkan tiga unit Helikopter untuk melakukan pengeboman air (water bombing) menuju ke Pelalawan dan Inhu. 
+
+Edwar menduga lonjakan titik panas di Riau itu merupakan pembakaran secara sengaja dengan maksud tertentu. 
+
+
+</TEXT>
+
+</TimeML>

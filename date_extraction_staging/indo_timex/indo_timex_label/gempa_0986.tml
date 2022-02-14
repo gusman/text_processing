@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0986</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Kenang Konser di Palu, Tantri Kotak Prihatin dan Doakan Korban Gempa dan Tsunami</TITLE>
+
+<TEXT>
+Gempa dan tsunami yang mengguncang Kabupaten Donggala dan Kota Palu, Sulawesi Tengah pada <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3> menyisakan duka mendalam bagi para korban. 
+
+Tak hanya itu, seluruh rakyat Indonesia juga turut merasa sedih dan saling bahu membahu membantu para korban. 
+
+Begitu juga dengan sederet selebriti yang turut merasa prihatin. 
+
+Salah satunya personel band Kotak, Tantri Syalindri. 
+
+Sang vokalis itu pun mengenang momen konser yang digelar di Palu <TIMEX3 tid="t2" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+Bersama band Kotak, Tantri menghibur ribuan penonton di Palu. 
+
+Tantri mengaku setiap manggung di sana, mereka selalu melewati jembatan Ponulele, yang merupakan jembatan terbesar di Palu sekaligus ikon kota tersebut. 
+
+Namun, sayang <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3> jembatan tersebut hancur karena terjangan tsunami. 
+
+Melihat video dahsyatnya tsunami di Palu yang tersebar di media sosial membuat Tanti prihatin. 
+
+Ia tak bisa berbuat apa-apa dan hanya bisa mendoakan agar para korban yang selamat diberikan kekuatan. 
+
+// " Belum lama ini kotakband_ manggung di Palu dan selalu melewati jembatan terbesar di Palu yang <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> ambruk terkena dampak tsunami tadi <TIMEX3 tid="t5" type="TIME" value="2018-09-28TNI">malam</TIMEX3>. 
+
+Hati ini sesak rasanya, melihat video2 yang tersebar di media sosial. 
+
+Saya hanya bisa mendoakan semoga semua saudara2 saya diberikan kekuatan dan aman. 
+
+Stay safe Palu dan sekitarnya. 
+
+Ini adalah foto2 penonton di Palu saat kami manggung disana, semoga semua selamat. 
+
+Amin Ya rabb. 
+
+. 
+
+(28.09.2018), " tulis Tantri pada keterangan foto, <TIMEX3 tid="t6" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3>. 
+
+Warganet pun turut bersimpati atas musibah gempa dan tsunami yang mengguncang Donggala dan Palu itu. 
+
+cupidwilldie: Amiinnnn kakak saya masih belum bisa di hubungi. 
+
+Tinggal di jalan raja moili deket jembatan. 
+
+Mohon doanya agar masyarakat daerah sekitar baik baik saja. 
+
+. 
+
+sugesy54: Belum saja usai duka ibu pertiwi gempa di lombok, <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> tambah duka gempa dan tsunami di palu praypalu prayNKRI first_alia:. 
+
+Bener2 miris liatnya. 
+
+Sebelumnya, Humas Badan Nasional Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho membagikan foto dan video jembatan Ponulele. 
+
+// Melalui Twitternya, Sutopo memperlihatkan kondisi awal jembatan lengkung pertama di Indonesia itu. 
+
+Ia lantas membandingkan dengan potret jembatan setelah diguncang gempa. 
+
+Kondisinya tak semegah saat jembatan kuning itu masih berdiri kokoh. 
+
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Kini</TIMEX3>, tiang-tiang penyangga jembatan hancur. 
+
+Sutopo menjelaskan gempa tersebut berasal dari sesar Palu Koro yang aktif bergerak dan melintasi Kota Palu. 
+
+Menurut analisis sementara ahli tsunami dari ITB berdasarkan modeling, tsunami di Palu disebabkan adanya longsoran bawah laut. 
+
+Menurut Sutopo, Teluk Palu dan pesisir Donggala memang rawan tsunami. 
+
+(TribunSolo. 
+
+com/Rohmana Kurniandari) 
+</TEXT>
+
+</TimeML>

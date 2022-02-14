@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0303</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-21" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-21</TIMEX3></DCT>
+
+<TITLE>15 Hektar Lahan di Gunung Guntur Terbakar</TITLE>
+
+<TEXT>
+Kebakaran lahan terjadi di kawasan Gunung Guntur, <TIMEX3 tid="t1" type="DATE" value="2019-08-21">Rabu (21/8/2019)</TIMEX3>. 
+
+Akibatnya sedikitnya 15 ha lahan yang ada di kawasan tersebut hangus dilalap si jago merah. 
+
+Terjadinya kebakaran lahan di kawasan Gunung Guntur dibenarkan Komandan Koramil (Danramil) Tarogong, Kapten Infanteri Dedi Saepulloh. 
+
+Disebutkannya, kebakaran terjadi di lahan yang berada di Blok Citiis, Desa Pasawahan, Kecamatan Tarogong Kaler. 
+
+Kebakaran terjadi mulai <TIMEX3 tid="t2" type="TIME" value="2019-08-20T12:00">sekitar pukul 12.00 WIB</TIMEX3> di Blok Citiis yang masuk wilayah Desa Pasawahan. 
+
+Ada sedikitnya 15 ha lahan yang terbakar, ujar Dedi. 
+
+Dari hasil peninjuaan da keterangan masyarakat tutur Dedi, kebakaran awalnya berasal dari salah satu galian pasir yang berada di Blok Citiis. 
+
+Api kemudian menjalar ke lokasi Tapal Kuda dan terus meluas dengan cepat hingga akhirnya menghanguskan lahan seluas 15 ha. 
+
+Bersama jajaran Polsek Tarogong Kaler dan warga, tambah Dedi, pihaknya langsung turun ke lokasi guna memadamkan kobaran api. 
+
+Upaya pemadaman dilakukan dengan cara manual sehingga cukup menyulitkan dan kobaran api baru berhasil dipadamkan <TIMEX3 tid="t3" type="TIME" value="2019-08-20T17:30">sekitar pukul 17.30 WIB</TIMEX3>. 
+
+Lahan yang terbakar lumayan luas juga karena memang kobaran api berlangsung cukup lama yakni sejak <TIMEX3 tid="t4" type="TIME" value="2019-08-20TAF">siang</TIMEX3> hingga <TIMEX3 tid="t5" type="TIME" value="2019-08-20TAF">sore</TIMEX3>. 
+
+Upaya pemadamanpun sempat menemui kendala karena dilakukan dengan cara manual ditambah tiupan angin yang kencang, katanya. 
+
+Meski <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> api sudah berhasil dipadamkan, namun diakui Dedi dirinya telah memerintahkan anak buahnya agar stand by di lokasi. 
+
+Hal ini untuk mengantisipasi adanya kemungkinan api muncul lagi. 
+
+Menurut Dedi, Gunung Guntur merupakan salah satu gunung di Kabupaten Garut yang memiliki kerawanan yang cukup tinggi terhadap kebakaran hutan. 
+
+Ada beberapa faktor yang dapat menjadi pemicu kebakaran di Gunung Guntur yakni faktor alam seperti panasnya cuaca dan juga faktor manusia dimana kadang ada yang sengaja melakukan pembakaran untuk membuka lahan bagi kegiatan komersil seperi galian pasir dan batu ilegal. 
+
+(Aep Hendy S)*** 
+</TEXT>
+
+</TimeML>

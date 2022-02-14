@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1212</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-01</TIMEX3></DCT>
+
+<TITLE>Banjir Januari 2020, Bocah 15 Tahun Masih dalam Pencarian</TITLE>
+
+<TEXT>
+Hilman (15) warga Desa Kalong Sawah, Jasinga, Bogor, dilaporkan hilang terseret arus banjir dan belum ditemukan. 
+
+" Koramil, unsur Muspika, BPBD, Tagana bersama warga membantu Evakuasi Warga dan menghimbau warga yang rumahnya dekat sungai untuk mengungsi. 
+
+<TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> BPBD sedang dalam perjalanan untuk memberikan bantuan penguatan, " Komandan Kodim <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">0621</TIMEX3> Kabupaten Bogor, Letkol Inf Harry Eko Prasetyo dikutip dari Suara Jabar <TIMEX3 tid="t3" type="DATE" value="2019-01-01">Rabu (1/1/2019)</TIMEX3>. 
+
+Harry menjelaskan, musibah banjir terjadi akibat intensitas hujan tinggi di wilayah Bogor sejak <TIMEX3 tid="t4" type="TIME" value="2019-12-31TNI">Selasa (31/12/2019) malam</TIMEX3>. 
+
+Delapan desa di Kecamatan Jasinga, Kabupaten Bogor, Jawa barat, terendam banjir usai sungai Cidurian meluap lantaran hujan yang mengguyur wilayah Jabodetabek itu. 
+
+Kedelapan desa terdampak itu adalah, Desa Kalong Sawah, Desa Sipak, Desa Pamegarsari, Desa Jasinga, Desa Koleang, Desa Bagiang, Desa Tegal Wangi dan Desa Pangaur. 
+
+*** 
+</TEXT>
+
+</TimeML>

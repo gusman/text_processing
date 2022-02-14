@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0675</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-17" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-17</TIMEX3></DCT>
+
+<TITLE>Hilang Sehari Siti Ditemukan Meninggal Terseret Banjir</TITLE>
+
+<TEXT>
+Siti Sinanloe (54), warga Kelurahan Naibonat, Kabupaten Kupang, ditemukan sudah meninggal, <TIMEX3 tid="t1" type="DATE" value="2018-02-17">Sabtu (17/2/2018)</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2018-02-16T07:00">sekitar pukul 07.00</TIMEX3> Wita. 
+
+Siti dinyatakan hilang pada <TIMEX3 tid="t3" type="DATE" value="2018-02-16">Jumat (16/2/2018)</TIMEX3>. 
+
+Kepala Rescue SAR Kupang, Henri F Plaikol, mengatakan, saat mendapat laporan, tim SAR langsung melakukan pencarian di sekitar sungai. 
+
+Siti baru ditemukan, <TIMEX3 tid="t4" type="DATE" value="2018-02-17">Sabtu (17/2/2018)</TIMEX3> sekitar <TIMEX3 tid="t5" type="TIME" value="2018-02-16T07:30">pukul 07.30</TIMEX3>. 
+
+Korban terseret banjir sekitar 3 Km dari jejak kaki korban. 
+
+Menurut Henri, hingga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum diketahui penyebab korban terseret banjir. 
+
+" Keluarga juga tidak tahu korban kemana dan tidak ada saksi mata, tetapi ada jejak kaki menuju ke sungai dan kita telusuri. 
+
+Korban kita temukan sudah tidak bernyawa, " ujar Henri kepada wartawan, <TIMEX3 tid="t7" type="DATE" value="2018-02-17">Sabtu (17/2/2018)</TIMEX3>. 
+
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, jenazah korban sudah diserahkan ke keluarga untuk disemayamkan. 
+
+(*) 
+</TEXT>
+
+</TimeML>

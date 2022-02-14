@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0970</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-21" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-21</TIMEX3></DCT>
+
+<TITLE>Adik Kandung Ceritakan Keanehan Sebelum Sekeluarga Tewas Tertimbun Longsor di Bogor</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DURATION" value="PXX">Beberapa waktu</TIMEX3> belakangan Bogor dilanda hujan deras di berbagai daerah. 
+
+Hal ini pun mengakibatkan longsor di Kampung Cibolang, Desa Banjarwangi, Kecamatan Ciawi, Kabupaten Bogor, <TIMEX3 tid="t2" type="DATE" value="2020-02-20">Kamis (20/2/2020)</TIMEX3>. 
+
+. 
+
+Menurut Kasi Kedaruratan BPBD Kabupaten Bogor, M Adam Hamdani, longsor terjadi sekira <TIMEX3 tid="t3" type="TIME" value="2020-02-20T03:00">pukul 03.00 WIB</TIMEX3>. 
+
+Kepala Polisi Sektor Ciawi, Komisaris Sahroni Kuswandi, mengatakan kejadian diketahui oleh tetangga dan keluarga korban lainnya pada <TIMEX3 tid="t4" type="TIME" value="2020-02-20TMO">Kamis pagi</TIMEX3> pukul <TIMEX3 tid="t5" type="TIME" value="2020-02-20T06:30">6.30 WIB</TIMEX3>. 
+
+<TIMEX3 tid="t6" type="DATE" value="PAST_REF">Saat itu</TIMEX3> keluarga korban curiga karena para korban tidak memperlihatkan aktivitas seperti biasanya. 
+
+" Saat digedor pintu dan didobrak, keluarga korban melihat kamar para korban sudah terang tanpa dinding, " kata Sahroni di lokasi kejadian, <TIMEX3 tid="t7" type="DATE" value="2020-02-20">Kamis 20 Februari 2020</TIMEX3>. 
+
+Sahroni mengatakan, tetangga korban <TIMEX3 tid="t8" type="TIME" value="2020-02-20T03:00">sekitar pukul 03.00 WIB</TIMEX3> mendengar suara gemuruh di kediaman keluarga Abas Abdul Latif. 
+
+Para tetangga lantas mendatangi rumah korban <TIMEX3 tid="t9" type="TIME" value="2020-02-21TMO">pagi harinya</TIMEX3>. 
+
+Saat dilihat, Abas bersama istrinya, Ela, dan kedua anaknya Esa dan Efan, sudah tertimbun tembok rumah yang ambrol. 
+
+// " Jadi korban meninggal karena tertimpa tembok rumah mereka, " ucap Sahroni. 
+
+Di lokasi terlihat ada air menggenangi celah selebar 20 cm antara kamar korban dan tebing. 
+
+Hal itu pun dibenarkan oleh Wakil Bupati Bogor, Iwan Setiawan, yang menyebut dengan kejadian ini warga harus lebih waspada tatkala curah hujan yang tinggi. 
+
+" Ke depan kami akan buat tim Destana atau desa tanggap bencana. 
+
+Tugas mereka <TIMEX3 tid="t10" type="DATE" value="FUTURE_REF">nanti</TIMEX3> mengedukasi dan menghimbau warga saat cuaca buruk agar kejadian seperti ini tidak terjadi lagi, " kata Iwan. 
+
+.30 <TIMEX3 tid="t11" type="TIME" value="UNKNOWN">WIB</TIMEX3>. 
+
+Ketika itu kondisi korban sudah meninggal dunia dan dilarikan ke RSUD Ciawi. 
+
+Ia pun kemudian mendatangi RSUD Ciawi untuk melihat langsung kondisi korban setelah meninjau lokasi kejadian. 
+
+" Korban ini diketahui <TIMEX3 tid="t12" type="TIME" value="2020-02-20TMO">pagi tadi</TIMEX3> sekitar <TIMEX3 tid="t13" type="TIME" value="2020-02-20T07:30">pukul 07.30 WIB</TIMEX3>, kejadian persisnya tidak ada yang tau tapi diperkirakan <TIMEX3 tid="t14" type="TIME" value="2020-02-20T03:00">pukul 03.00 WIB</TIMEX3> dini hari saat kondisi hujan memang sedang besar, " katanya saat ditemui di RSUD. 
+
+Mengenai ambruknya tembok rumah tersebut, Acep mengatakan diduga karena labilnya tanah yang bersebelahan dengan tembok kamar. " Kan rumahnya dua lantai, korban tidur di kamar bawah, nah di bawah itu ada dua tembok satu tembok kamar satu lagi tembok pembatas dan ada tanahnya, dugaan karena itu longsor kemudian tembok ambruk, " ujarnya. 
+
+// Biasa Tidur Bersama NenekEla Latif rencananya akan dimakamkan di Desa Teluk Pinang terpisah dari suami dan kedua anaknya. 
+
+Sedangkan suami Ela yakni Abas Abdul Latif dan kedua anaknya akan dimakamkan di Kampung Cibolang, Desa Banjarwangi. 
+
+Sementara itu Ibu Abas sekaligus nenek dari Elsa dna Efan, Amah mengatakan, saat kejadian tak ada yang mengetahui tembok ambruk. 
+
+" Enggak ada yang tahu karena hujan kan cukup besar juga ya, <TIMEX3 tid="t15" type="DATE" value="2020-02-01TNI">semalam itu</TIMEX3> tengah <TIMEX3 tid="t16" type="TIME" value="2020-02-19TNI">malam tadi</TIMEX3> sempat ngobrol sama ibu, " katanya. 
+
+Amah pun mengungkapkan jika kedua cucunya Eva dan Efan biasa tidur bersamanya. 
+
+Namun <TIMEX3 tid="t17" type="TIME" value="2020-02-20TNI">malam</TIMEX3> sebelum terjadi peristiwa ambruknya tembok rumah tersebut, Efa dan Evan tiba-tiba ingin tidur bersama ayah dan ibunya. 
+
+" Biasa mah tidur sama Umi tapi tadi <TIMEX3 tid="t18" type="TIME" value="2020-02-20TNI">malam</TIMEX3> ngomong Efan mau tidur sama ayah, " katanya. 
+
+Istri Abas, Ela Latipah sedang hamil <TIMEX3 tid="t19" type="DURATION" value="P2M">dua bulan</TIMEX3> saat peristiwa longsor terjadi. 
+
+// Hal itu diungkapkan langsung adik kandung Abas, Ai Nurhayanti. 
+
+" Iya lagi Hamil <TIMEX3 tid="t20" type="DURATION" value="P2M">dua bulan</TIMEX3>, dimakamkannya di Teluk Pinang, " ujarnya. 
+
+Nurhayanti mengatakan bahwa <TIMEX3 tid="t21" type="DATE" value="2020-02-20">satu hari sebelumnya</TIMEX3> Ia sempat mengalami keanehan. 
+
+Ketika itu Ia sedang memasak nasi. 
+
+Namun nasi tersebut tidak juga matang meski sudah dimasak dan diisi air berulang kali. 
+
+" Iya namanya sudah takdir ya, kalau tanda tanda enggak ada, tapi saya sempat aneh masak nasi tapi enggak matang matang padahal airnya sudah habis terus diisi lagi, terus karena enggak matang saya angkat saja, " ujarnya. 
+
+
+</TEXT>
+
+</TimeML>

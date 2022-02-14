@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0660</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-24</TIMEX3></DCT>
+
+<TITLE>BMKG Petakan 22 Titik Panas di Lampung, Ini Rinciannya</TITLE>
+
+<TEXT>
+Badan Meteorologi Klimatologi dan Geofisika (BMKG) Stasiun Meteorologi Radin Inten II Lampung menyebutkan telah terpantau 22 titik panas (Hotspot) di Provinsi Lampung.22 titik panas ditemukan melalui Satelit TERRA/AQUA dalam pengamatan pada <TIMEX3 tid="t1" type="DATE" value="2019-08-23">23 Agustus 2019 kemarin</TIMEX3>. 
+
+Titik-titik itu terbagi di beberapa Kabupaten/Kota yang ada di Provinsi Lampung diantarnya, Lampung Tengah Kecamatan Bekri terdeteksi 2 titik, Kecamatan Nyunyai terdeteksi 2 titik. 
+
+Lampung Timur Kecamatan Sukadana terdeteksi 4 titik. 
+
+Mesuji Kecamatan Simpang Pematang terdeteksi 4 titik, Tulang Bawang Kecamatan Gedung Meneng terdeteksi 5 titik, Kecamatan Gedung Aji 1 titik, Kecamatan Menggala 1 titik, dan Rawapitu 1 titik. 
+
+Selanjutnya Way Kanan tepat di Kecamatan Blambangan Umpu terdeteksi 2 titik. 
+
+Hal ini diungkapkan Kepala Seksi (Kasi) Data dan Informasi BMKG Lampung Rudi Hariyanto saat dihubungi Tribun, <TIMEX3 tid="t2" type="DATE" value="2019-08-24">Sabtu (24/8/2019)</TIMEX3>. 
+
+Rudi mengatakan beberapa titik Hotspot tersebut telah terpantau melalui foto citra satelit. 
+
+" Dari pantauan yang ada terlihat yang paling banyak terdeteksi titik hotspot itu di Tulang Bawang, " ungkapnya. 
+
+Kemudian pihaknyapun menghimbau kepada seluruh warga masyarakat terkhusus yang berada di daerah-daerah terdeteksi titik hotspot agar selalu tetap waspada akan adanya kemungkinan-kemungkinan yang terjadi dan menjaga kesehatan. 
+
+// Kata dia, Wilayah Lampung <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> memasuki <TIMEX3 tid="t4" type="DATE" value="2019-SU">musim kemarau</TIMEX3>, puncak <TIMEX3 tid="t5" type="DATE" value="2019-SU">musim kemarau</TIMEX3> pada <TIMEX3 tid="t6" type="DATE" value="2019-08">bulan agustus</TIMEX3> sampai <TIMEX3 tid="t7" type="DATE" value="2018-09">september</TIMEX3>. 
+
+" Bagi petani yang akan berkebun agar bertanam tanaman yang kebutuhan air sedikit, memperbanyak minum air mineral, menggunakan masker, dan tidak membakar atau meninggalkan api, " himbau Rudi. 
+
+" Puncak <TIMEX3 tid="t8" type="DATE" value="2019-SU">musim kemarau ini</TIMEX3> suhu <TIMEX3 tid="t9" type="TIME" value="2019-08-23TNI">malam</TIMEX3> berubah menjadi dingin, maka diharapkan warga agar menjaga kesehatan, " tutur Rudi. 
+
+Puncak <TIMEX3 tid="t10" type="DATE" value="2019-SU">Musim Kemarau</TIMEX3> Hingga SeptemberBadan Meteorologi, Klimatologi, dan Geofisika (BMKG) Lampung merilis puncak <TIMEX3 tid="t11" type="DATE" value="2019-SU">musim kemarau</TIMEX3> masih berlangsung sepanjang <TIMEX3 tid="t12" type="DATE" value="2019-08">Agustus</TIMEX3> hingga <TIMEX3 tid="t13" type="DATE" value="2019-09">September mendatang</TIMEX3>. 
+
+Kasi Data dan Informasi BMKG Lampung Rudy Hariyanto mengatakan, puncak <TIMEX3 tid="t14" type="DATE" value="2019-SU">musim kemarau ini</TIMEX3> diakibatkan aliran udara dari Benua Australia menuju Asia melewati Indonesia, termasuk wilayah Lampung sehingga angin terasa kencang mulai <TIMEX3 tid="t15" type="TIME" value="2019-08-23TAF">siang</TIMEX3> hingga <TIMEX3 tid="t16" type="TIME" value="2019-08-23TNI">malam hari</TIMEX3>. 
+
+" Kondisi cuaca di <TIMEX3 tid="t17" type="TIME" value="2019-08-23TAF">siang hari</TIMEX3> terik atau panas lalu di <TIMEX3 tid="t18" type="TIME" value="2019-08-23TNI">malam hari</TIMEX3> terasa dingin. 
+
+Kondisi ini memicu pengurangan pasokan air hujan maupun air tanah. 
+
+Akibatnya tanah juga menjadi kering dan tak sedikit yang retak-retak, " kata Rudy kepada Tribun <TIMEX3 tid="t19" type="TIME" value="2019-08-05TNI">Senin (5/8) malam</TIMEX3>. 
+
+Dia mengimbau masyarakat atau petani untuk menanam tanaman yang tidak membutuhkan banyak air. 
+
+Selain itu untuk tidak melakukan pembakaran lahan secara sembarangan tanpa pengawasan. 
+
+Terpantau melalui citra satelit, potensi berkurangnya air dari hujan atau daratan secara umum hampir merata di seluruh wilayah Lampung. 
+
+" Hanya saja tidak terlalu meskipun juga berdampak untuk daerah tertentu bagian barat seperti Lampung Barat, Pesisir Barat, dan Tanggamus. 
+
+Masih ada hujan meskipun sedikit intensitasnya. 
+
+Kalau kabupaten lain statusnya sudah kering, " ungkapnya.Dia mengimbau masyarakat waspada kebakaran hutan atau lahan. 
+
+Terpantau melalui citra satelit, terdapat enam titik atau lokasi hotspot yang muncul akibat suhu yang terlalu panas di titik tersebut. 
+
+Empat titik di Lampung Tengah, satu titik di Lampung Selatan, dan satu titik lagi di Lampung Timur. 
+
+// " Hanya kita tidak tahu pasti secara fisik apakah terjadi kebakaran di lokasi ini atau tidaknya. 
+
+Hanya saja jika hotspot itu tingkat kepercayaannya di atas 80 persen maka dapat dipastikan terjadi kebakaran hutan atau lahan, dan empat titik di Lampung Tengah terpantau di atas 80 persen, " beber dia. 
+
+Rudy meminta masyarakat agar waspada perubahan suhu cuaca dengan tidak sembarangan membuang puntung rokok atau melakukan pembakaran lahan karena bisa berpotensi terjadi kebakaran akibat angin bertiup kencang terlebih mulai <TIMEX3 tid="t20" type="TIME" value="2019-08-23TAF">siang</TIMEX3> hingga <TIMEX3 tid="t21" type="TIME" value="2019-08-23TNI">malam hari</TIMEX3>. 
+
+" Lebih berhati-hati terkait timbulnya kebakaran, meminimalisasi terjadinya kebakaran dengan tidak membakar lahan atau membuang puntung rokok sembarangan, " tukasnya. 
+
+(Tribunlampung. 
+
+co. 
+
+id/Kiki Adipratama/Sulis Setya Markhamah) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0416</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-12" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-12</TIMEX3></DCT>
+
+<TITLE>Mahasiswa Aceh di Jakarta Sukses Galang Dana Hingga Rp 43 Juta untuk Korban Gempa</TITLE>
+
+<TEXT>
+Selama <TIMEX3 tid="t1" type="DURATION" value="P4D">empat hari</TIMEX3> sejak <TIMEX3 tid="t2" type="DATE" value="2016-12-08">Kamis (8/12/2016)</TIMEX3> hingga <TIMEX3 tid="t3" type="DATE" value="2016-12-11">Minggu (11/12/2016)</TIMEX3>, mahasiswa asal Aceh yang kuliah di Jakarta berhasil mengumpulkan pakaian, makanan, serta uang tunai untuk para korban gempa di Meureudu, Ibu Kota Kabupaten Pidie Jaya, Aceh. 
+
+Firmansyah Asnawi, pembina Posko Bencana Gempa Aceh yang dibentuk Asrama Mahasiswa Aceh FOBA menjelaskan, hingga <TIMEX3 tid="t4" type="DATE" value="2016-12-11">kemarin</TIMEX3>, dana yang terkumpul mencapai Rp 43.365.442. 
+
+Sementara, donasi dalam bentuk barang yang diterima terdiri dari dua kardus besar dan 24 karung besar berisi pakaian pria dan wanita, susu, popok bayi, pembalut wanita dan lain-lain, ditambah 400 dus isi buah kurma. 
+
+Demi mendapatkan bantuan tersebut, mahasiswa asal Aceh membuka Posko Bencana Gempa Aceh di Asrama Mahasiswa Aceh FOBA, Jalan Setiabudi Barat Nomor 1, Setiabudi, Jakarta Selatan. 
+
+Mereka juga membagikan selebaran di jalan-jalan dan masjid. 
+
+<TIMEX3 tid="t5" type="TIME" value="2016-12-11TMO">Minggu pagi</TIMEX3>, mahasiswa Aceh juga memanfaatkan momen Car Free Day (hari bebas kendaraan) untuk galang dana bagi korban bencana gempa Aceh. 
+
+Penggalangan dana dipusatkan di Bundaran Hotel Indonesia Jakarta. 
+
+Kegiatan berlangsung pukul 07.00-11.30, dipimpin Agung Julistian dan Bustanul Arifin. 
+
+" Saat CFD, mahasiswa UI (Universitas Indonesia) dan Gunadarma juga ikut menyalurkan bantuan melalui Posko Bencana Gempa Aceh Wisma Mahasiswa Aceh FOBA, " ujar Firman kepada Warta Kota, <TIMEX3 tid="t6" type="DATE" value="2016-12-05">Senin (12/12)</TIMEX3>. 
+
+Firman mengatakan, barang bantuan itu telah dikirimkan langsung ke Aceh pada <TIMEX3 tid="t7" type="TIME" value="2016-12-11TAF">Minggu sore</TIMEX3> sekitar <TIMEX3 tid="t8" type="TIME" value="2016-12-11T16:00">pukul 16.00</TIMEX3>. 
+
+" Terhitung <TIMEX3 tid="t9" type="DATE" value="2016-12-12">hari Senin</TIMEX3>, <TIMEX3 tid="t10" type="DATE" value="2016-12">12 Desember 2016</TIMEX3>, kami menutup penerimaan sumbangan berupa barang atau pakaian. 
+
+Sedangkan penerimaan sumbangan (dalam bentuk uang) masih kami buka hingga <TIMEX3 tid="t11" type="DATE" value="2016-12-31">tanggal 31 Desember 2016</TIMEX3>, " imbuh lulusan S2 Universitas Indonesia itu. 
+
+Untuk bantuan uang, masyarakat bisa mentransfer ke nomor rekening Bank BCA KCU Sudirman 0352434343 a/n Agung Julistian, dan nomor rekening BNI Syariah 0390262266 a/n Firmansyah. 
+
+(*) 
+</TEXT>
+
+</TimeML>

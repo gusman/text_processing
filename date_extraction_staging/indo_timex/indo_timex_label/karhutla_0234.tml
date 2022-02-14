@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0234</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-07-31" temporalFunction="false" functionInDocument="CREATION_TIME">2018-07-31</TIMEX3></DCT>
+
+<TITLE>BPBD Deteksi 2 Titik Api</TITLE>
+
+<TEXT>
+Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Rejang Lebong mendeteksi adanya dua titik api di Kabupaten Rejang Lebong. 
+
+Dua titik api tersebut diduga karena adanya kebakaran hutan yang terjadi di Kabupaten Rejang Lebong. 
+
+Selama <TIMEX3 tid="t1" type="DURATION" value="P1W">satu minggu</TIMEX3> terakhir kita menemukan adanya dua titik api yang diduga karena kebakaran hutan, sampai Kepala BPBD Rejang Lebong, Basuki. 
+
+Bahkan menurut Basuki, pasca mendeteksi adanya dua titik api tersebut, tim dari BPBD Rejang Lebong telah melakukan pengecekan ke titik api. 
+
+Titik api yang mereka temukan tersebut, berdasarkan laporan masyarakat yang disampaikan kepada pihak BPBD Rejang Lebong. 
+
+Titik api yang kita temukan tersebut awalnya dari laporan warga kemudian kita cek kebenarannya, sampai Basuki. 
+
+Setelah dilakukan pengecekan, ternyata menurut Basuki, titik api yang terjadi tersebut ada di Kawasan Kecamatan Padang Ulak Tanding yang berbatasan langsung dengan Kabupaten Musirawas Sumatera Selatan. 
+
+Dimana menurutnya kawasan yang terbakar tersebut merupakan kawasan hutan lindung. 
+
+Lebih lanjut Basuki menjelaskan, pasca ditemukannya titik api tersebut, kemudian pihaknya langsung berkoordinasi dengan pihak terkait lainnya seperti dengan personil TNI dan Polri. 
+
+Kemudian tim dari BPBD, TNI dan Polri dan dibantu masyarakat serta pihak kehutanan berhasil memadamkan api. 
+
+Api <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah padam, selain kita padamkan bersama pihak terkait, hujan yang terjadi dalam <TIMEX3 tid="t3" type="DURATION" value="P2D">dua hari</TIMEX3> terakhir juga mempercepat proses pemadaman, sampai Basuki. 
+
+Sementaran itu, untuk luas hutan yang terbakar sendiri, menurut Basuki belum ia pastikan, karena memang <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihaknya masih melakukan penghitungan terkait dengan luas lahan yang terbakar. 
+
+Dengan adanya kasus kebakaran hutan tersebut, Basuki mengimbau kepada masyarakat untuk tidak melakukan pembakaran lahan seperti untuk pembukaan lahan pertanian dan lainnya. 
+
+Terlebih lagi <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah memasuki musin kemarau sehingga menurut Basuki dampak dari kebakaran hutan ini akan sangat luas. 
+
+Kita selalu mengimbau kepada masyarakat untuk tidak melakukan pembakaran hutan atau lahan, karena <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah memasuki <TIMEX3 tid="t7" type="DATE" value="2018-SU">musim kemarau</TIMEX3> sehingga dampaknya bisa luas, demikian Basuki. 
+
+(251) 
+</TEXT>
+
+</TimeML>

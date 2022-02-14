@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0696</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-08" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-08</TIMEX3></DCT>
+
+<TITLE>Lahan Gambut di Sampang Madura Terbakar, Api Diduga Berasal dari Sisa Pembakaran Sampah Pemiliknya</TITLE>
+
+<TEXT>
+Kebakaran lahan gambut terjadi di wilayah Kabupaten Sampang. 
+
+Lahan gambut di Jalan Kusuma Bangsa terbakar, <TIMEX3 tid="t1" type="DATE" value="2019-08-01">Kamis (8/8/2019)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2019-08-07T08:45">pukul 08.45 WIB</TIMEX3>. 
+
+Kasi Ops Damkar Satpol PP Sampang, Mahtuh Fathorrohman mengatakan, lahan gambut terbakar diduga disebabkan api bekas pembakaran sampah. 
+
+. 
+
+" <TIMEX3 tid="t3" type="DATE" value="PAST_REF">Saat itu</TIMEX3> ia sedang bersih pekarangan di belakang rumahnya dan membakar hasil sampahnya, " ujar Mahtuh Fathorrohman. 
+
+" Berhubung kondisi angin kencang, membuat api merembet ke lahan gambut dan sejumlah pohon bambu miliknya " sambung dia. 
+
+Mahtuh Fathorrohman mengatakan, pemilik lahan meminta tolong kepada warga untuk mematikan api tersebut sebelum petugas Damkar tiba di lokasi. 
+
+. 
+
+" Kami tiba di lokasi <TIMEX3 tid="t4" type="TIME" value="2019-08-07T08:55">pukul 08.55 WIB</TIMEX3>, dengan membawa dua unit damkar dan dua unit yangki suplay air, " kata Mahtuh Fathorrohman. " <TIMEX3 tid="t5" type="TIME" value="2019-08-07T10:00">Pukul 10.00 WIB</TIMEX3> semua proses pemadaman selesai, " pungkasnya.Beruntung, tidak ada korban jiwa peristiwa kebakaran itu, namun sejumlah tanaman bambu ludes terbakar. 
+
+
+</TEXT>
+
+</TimeML>

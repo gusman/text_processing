@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0072</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-11-10" temporalFunction="false" functionInDocument="CREATION_TIME">2019-11-10</TIMEX3></DCT>
+
+<TITLE>Kekeringan, Polres Jembrana Distribusikan 4.000 Liter Air Bersih ke Banjar Sari Kuning</TITLE>
+
+<TEXT>
+Kekeringan masih menyelimuti beberapa daerah di Jembrana, sehingga warga kekurangan air bersih karena belum turun hujan. 
+
+Polres Jembrana pun mendistribusikan 4.000 liter air bersih menggunakan water canon, untuk warga di wilayah Banjar Sari Kuning, Desa Dangintukadaya, Kecamatan Melaya, Jembrana, <TIMEX3 tid="t1" type="DATE" value="2019-11-10">Minggu (10/11/2019)</TIMEX3>. 
+
+Kapolres Jembrana, AKBP I Ketut Gede Adi Wibawa mengatakan, kekeringan akibat kemarau panjang di Jembrana membuat polisi prihatin. 
+
+Untuk itu, sebagai bentuk kepedulian polisi kepada masyarakat, Polres Jembrana mendistribusikan 4.000 liter menggunakan mobil AWC. 
+
+" Ini bentuk kepedulian kami, karena air itu menjadi inti dari kehidupan manusia, " ucapnya. 
+
+Ketut mengaku sudah <TIMEX3 tid="t2" type="DURATION" value="PXM">beberapa bulan</TIMEX3> terakhir ini warga kesulitan mengakses air bersih. 
+
+. 
+
+" Bantuan air bersih ini untuk membant memenuhi kebutuhan air warga <TIMEX3 tid="t3" type="SET" value="P1D">sehari-hari</TIMEX3>, seperti memasak dan minum, karena masih dilanda kekeringan, " jelasnya. 
+
+Sejumlah warga terlihat antusias menyambut bantuan air bersih yang digagas Sat Sabhara Polres Jembrana. 
+
+// Warga secara tertib mengantre mengambil jatah air bersih menggunakan ember dan jeriken. 
+
+Nengah Kacir (48), warga Banjar Sari Kuning, Melaya salah satunya. 
+
+Ia mengaku bantuan ini sangat membantu warga untuk mencukupi kebutuhan air <TIMEX3 tid="t4" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+" <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">Beberapa bulan ini</TIMEX3> kami kesulitan mendapatkan air bersih, suksma untuk bapak kehadirannya, atas pendistribusiannya, " jelasnya. 
+
+. 
+
+Namun hanya terjadi dua kali dalam <TIMEX3 tid="t6" type="DURATION" value="P2D">dua hari</TIMEX3>, itu pun <TIMEX3 tid="t7" type="DATE" value="2018-11">awal November lalu</TIMEX3>. 
+
+Menurut BMKG, dari pantauan memang siklon angin Timur masih cukup kuat. 
+
+Dibanding dengan pertumbuhan awan yang diharapkan terjadi <TIMEX3 tid="t8" type="DATE" value="2018-11">awal November lalu</TIMEX3>. 
+
+Pertumbuhan awan memungkinkan terjadinya hujan dan dapat membasahi tanah. 
+
+Sehingga, kekeringan bisa teratasi secara alami. 
+
+" Ya mungkin memang akan terjadi <TIMEX3 tid="t9" type="DATE" value="2019-11">pertengahan November ini</TIMEX3>. 
+
+Bisa jadi akan terjadi di beberapa titik. 
+
+Tapi tidak terjadi (hujan), karena memang angin timur <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> cukup kuat ya. 
+
+Jadi pertumbuhan awan itu tidak ada, " jelasnya.(*) 
+</TEXT>
+
+</TimeML>

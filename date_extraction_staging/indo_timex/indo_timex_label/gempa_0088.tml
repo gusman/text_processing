@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0088</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-26" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-26</TIMEX3></DCT>
+
+<TITLE>Gempa Ambon, Data Sementara 5 Orang Tewas dan Belasan Luka-luka</TITLE>
+
+<TEXT>
+Gempa kembali mengguncang wilayah Indonesia yakni di Pulau Ambon, Provinsi Maluku. 
+
+Gempa 6,8 magnitudo mengguncang Pulau Ambon dan Kabupaten Seram Bagian Barat, <TIMEX3 tid="t1" type="DATE" value="2019-09-26">Kamis (26/09/2019)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2019-09-25T08:46">pukul 08.46 WIT</TIMEX3>. 
+
+Adapun lokasi gempa berada pada titik koordinat <TIMEX3 tid="t3" type="TIME" value="2019-09-25T03:38">3.38</TIMEX3> Lintang Selatan,128.43 Bujur Timur atau berjarak 40 km Timur Laut Ambon-Maluku dengan kedalaman 10 kilometer. 
+
+Dilansir dari Kompas. 
+
+com, lima warga di Pulau Ambon meninggal dunia akibat gempa tersebut. 
+
+Berdasarkan data sementara yang diterima Kompas. 
+
+com dari Badan Penanggulangan Bencana Daerah (BPBD) Provinsi Maluku, dua warga dinyatakan tewas setelah tertimbun reruntuhan bangunan di kampus IAIN Ambon. 
+
+Keduanya yakni Narti Rumain dan Haji Kebo. 
+
+Adapun tiga warga lainnya yang juga dinyatakan tewas yakni Frans Masi, warga Nania, Kecamatan Baguala Ambon yang tewas karena tertimpa tanah longsor. 
+
+Sedangkan dua warga lainnya yang merupakan pasangan suami istri yakni Hamid dan Aisya tewas setelah tertimpa reruntuhan bebatuan. 
+
+" Untuk korban luka-luka data sementara itu ada empat, mereka terluka akibat tertimpa reruntuhan, " kata Kepala BPBD Maluku Farida Salampessy kepada Kompas.com, <TIMEX3 tid="t4" type="TIME" value="2019-09-19TAF">Kamis siang</TIMEX3>.Adapun keempat warga yang terluka akibat gempa tersebut yakni Djamila Lasaiba, Gamar Assagaff, dan dua warga lainnya yang belum teridentifikasi. 
+
+// " Korban luka <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> telah dibawa ke rumah sakit, " ujarnya. 
+
+Namun berdasarkan informasi yang dihimpun Kompas. 
+
+com sampai <TIMEX3 tid="t6" type="TIME" value="2019-09-26TAF">siang ini</TIMEX3> ada belasan warga yang dinyatakan terluka akibat gempa tersebut. 
+
+Goncangan gempa tentu saja membuat masyarakat panik dan takut. 
+
+Selain menghindari tempat-tempat yang berpotensi roboh dan menimpa kita, ada baiknya khususnya bagi umat Islam memanjatkan doa ketika gempa bumi terjadi. 
+
+Berikut ini doanya: " ALLAHUMMA INNII ASALUKA KHOIROHAA, WA KHOIROMAA FIIHAA WA KHOIRO MAA ARSALTA BIH, WA AUDZUBIKA MIN SYARRIHAA WASYARRI MAA FIIHAA WA SYARRI MAA ARSALTA BIH. 
+
+" " Ya Allah, sesungguhnya aku memohon kehadirat-Mu kebaikan atas apa yang terjadi, dan kebaikan apa yang didalamnya, dan kebaikan atas apa yang Engkau kirimkan dengan kejadian ini. 
+
+Dan aku memohon perlindungan kepada-Mu dari keburukan atas apa yang terjadi, dan keburukan atas apa yang terjadi didalamnya, dan aku juga memohon perlindungan kepada-Mu atas apa-apa yang Engkau kirimkan. 
+
+" Seperti yang telah diberitakan sebelumnya, gempa berkekuatan 7,4 skala Richter mengguncang Palu. 
+
+// Sejumlah bangunan roboh dan ratusan korban jiwa akibat bangunan runtuh. 
+
+Belum lagi korban yang masih dinyatakan hilang karena tertimba bangunan ataupun terseret tsunami. 
+
+Gempa juga disusul oleh gelombang tsunami. 
+
+Gempa bumi merupakan salah satu bencana alam yang sering terjadi di Indonesia dan juga di beberapa negara lain. 
+
+Indonesia terletak pada pertemuan tiga lempeng utama dunia, yaitu lempeng Australia, Eurasia, dan Pasifik yang berhimpitan dan saling menekan, sehingga memungkinkan munculnya gempa. 
+
+Pada gempa berkekuatan 5,9 skala richter di Yogyakarta pada <TIMEX3 tid="t7" type="DATE" value="2006-05-27">27 Mei 2006</TIMEX3>, <TIMEX3 tid="t8" type="DATE" value="UNKNOWN">lebih dari 6000</TIMEX3> orang meninggal dunia, puluhan ribu lainnya luka, dan ratusan ribu rumah rusak. 
+
+Terbayang betapa mengerikannya gempa bumi. 
+
+Oleh karena itu kita sebaiknya mengerti langkah-langkah apa yang harus dilakukan saat terjadi gempa, sesuai panduan Palang Merah Indonesia (PMI). 
+
+Kebiasaan waspada- Kenali daerah sekitar tempat tinggal (apakah termasuk rawan gempa atau tidak). 
+
+- Ketika masuk ke sebuah gedung atau bangunan, perhatikan di mana letak pintu keluar, tangga darurat, atau cara-cara untuk mengeluarkan diri jika sewaktu-waktu harus menyelamatkan diri. 
+
+// - Di dalam ruangan tempat kamu berada, perhatikan titik-titik yang aman untuk berlindung ketika gempa terjadi. 
+
+- Perhatikan juga tempat yang berbahaya jika gempa terjadi, seperti di dekat kaca, tiang atau pilar, lemari, dan lain-lain. 
+
+- Catat dan simpan nomor-nomor telepon penting yang harus dihubungi saat gempa terjadi seperti PMI, rumah sakit, pemadam kebakaran, polisi, dan lain-lain. 
+
+- Matikan kran air, kompor, gas, dan listrik jika selesai digunakan. 
+
+Tindakan ketika gempa terjadiSaat terjadi gempa tetaplah tenang, lalu lakukan tindakan sebagai berikut:1. 
+
+Jika berada di dalam rumah Berusahalah menyelamatkan diri dan keluarga. 
+
+Berlindunglah di bawah meja agar tubuh tidak terkena benda-benda yang berjatuhan. 
+
+Lindungi kepala dengan apa saja, misalnya bantal, papan, atau kedua tangan dengan posisi telungkup.2. 
+
+Jika berada di luar rumah Merunduk dan lindungilah kepala, lalu bergeraklah menjauh dari gedung dan tiang menuju daerah terbuka. 
+
+Jangan melakukan tindakan apapun, tunggulah sampai keadaan benar-benar tenang karena setelah gempa pertama biasanya ada gempa susulan.3. 
+
+Jika berada di pusat perbelanjaan atau di tempat umum lainnya Usahakan untuk tetap tenang, biasanya kerumunan orang dalam bencana berpotensi kepanikan. 
+
+Ikuti petunjuk dari petugas penyelamat. 
+
+Jangan menggunakan lift ketika terjadi gempa atau kebakaran namun gunakanlah tangga darurat, lalu bergeraklah ke tempat terbuka.4. 
+
+Jika berada di dalam kendaraan Berpeganganlah dengan erat sehingga tidak terjatuh dari guncangan atau jika kendaraan berhenti secara mendadak. 
+
+Tetaplah tenang dan ikuti perintah atau petunjuk dari petugas. 
+
+Mintalah pengemudi untuk menghentikan kendaraan. 
+
+Setelah itu bergeraklah ke tempat yang terbuka.5. 
+
+Jika berada di gunung atau pantai Gempa dapat menimbulkan longsor di gunung atau perbukitan. 
+
+Jika Kamu berada di pegunungan, bergeraklah ke tempat yang aman seperti lapangan terbuka yang jauh dari daerah lereng. 
+
+Gempa di bawah laut bisa menimbulkan gelombang tsunami, jika gempa itu terjadi, bergeraklah ke dataran yang lebih tinggi. 
+
+Tindakan setelah gempa terjadiSetelah bencana gempa bumi terjadi, lakukanlah langkah-langkah berikut:- Bila masih berada di dalam ruangan atau gedung, segeralah keluar. 
+
+- Periksalah keadaan diri sendiri, apakah ada bagian tubuh yang terluka atau tertimpa benda-benda. 
+
+- Mintalah orang dewasa untuk mematikan aliran listrik dan gas. 
+
+- Janganlah menyalakan api, karena bisa terjadi kebocoran gas atau tumpahan bahan bakar. 
+
+- Jika mampu, berilah pertolongan pertama kepada orang-orang yang berada di sekitarmu. 
+
+- Dengarkanlah informasi dari sumber-sumber yang terpercaya dan bertindaklah sesuai imbauan.Artikel ini telah tayang di bangkapos.com dengan judul Doa Saat Terjadi Gempa, Perhatikan juga Tips Menyelamatkan Diri Saat Gempa Bumi. 
+</TEXT>
+
+</TimeML>

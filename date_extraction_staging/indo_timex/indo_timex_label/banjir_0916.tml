@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0916</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-18" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-18</TIMEX3></DCT>
+
+<TITLE>Pemprov Papua terus salurkan bantuan ke Sentani</TITLE>
+
+<TEXT>
+Pemerintah Provinsi Papua sejak <TIMEX3 tid="t1" type="DATE" value="2019-03-16">Sabtu (16/3/2019)</TIMEX3>, sampai dengan <TIMEX3 tid="t2" type="DATE" value="2019-03-18">hari ini</TIMEX3> masih terus salurkan bantuan untuk korban banjir bandang, di Sentani, Kabupaten Jayapura. 
+
+Asisten Bidang Umum Papua, Elysa Auri mengatan bantuan logistik mulai dikirim, terutama makanan jadi untuk para pengungsi. 
+
+Pemerintah melalui Badan Penanggulangan Bencana Daerah Papua maupun stakeholder lainya sudah memberikan bantuan makanan siap saji. 
+
+Pengiriman difokuskan ke posko-posko yang didirikan pemerintah sejak hari pertama bencana terjadi, kata Auri kepada wartawan, di Jayapura, <TIMEX3 tid="t3" type="DATE" value="2019-03-18">Senin (18/3/2019)</TIMEX3>. 
+
+Menurut ia, <TIMEX3 tid="t4" type="DATE" value="2019-03-18">hari ini</TIMEX3> Kepala Badan Nasional Penanggulangan Bencana (BNPB), Doni Monardo akan turun ke lokasi banjir untuk melihat langsung daerah-daerah yang hancur akibat diterjang banjir bandang. 
+
+Saya akam dampimgi beliau tinjau lokasi banjir, sekaligus melihat perkembangan korban yang <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> berada di posko-posko pengungsian, ujarnya. 
+
+Kami berharap bantuan-bantuan yang sudah tersalurkan, bisa meringankan beban masyarakat dan Pemda setempat, sambungnya. 
+
+Sebelumnya, sejumlah 4.150 warga Kabupaten Jayapura mengungsi karena banjir bandang yang melanda Kelurahan Hinekombe, Dobonsolo, Sentani Kota pada <TIMEX3 tid="t6" type="DATE" value="2019-03-16">Sabtu (16/3/2019)</TIMEX3>. 
+
+Banjir bandang juga menerjang Kampung Yahim dan Kampung Kehiran di Distrik Sentani itu menyebabkan sedikitnya puluhan orang tewas, serta menghancurkan berbagai fasilitas umum dan ratusan rumah warga. 
+
+Bupati Jayapura, Mathius Awoitauw saat dihubungi Jubi menyatakan hingga <TIMEX3 tid="t7" type="TIME" value="2019-03-17T14:28">pukul 14.28</TIMEX3> WP menyebutkan jumlah pengungsi telah mencapai 4.150 jiwa. 
+
+Para pengungsi tersebar di sejumlah lokasi, antara lain di komplek perumahan Gajah Mada (1.450 orang), rumah jabatan Bupati Jayapura (1.000 orang), Komplek BTN Bintang Timur (600 orang), HIS (400 orang), SIL (300 orang), dan Doyo (200 orang). 
+
+Pengungsi sudah mencapai 4.150 jiwa. 
+
+Kami membutuhkan bantuan darurat dari semua pihak untuk menangani para pengungsi itu. 
+
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, pos komando utama penanganan pengungsi ada di Gunung Merah Sentani, kata Awoitauw. 
+</TEXT>
+
+</TimeML>

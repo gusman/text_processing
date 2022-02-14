@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0912</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-18" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-18</TIMEX3></DCT>
+
+<TITLE>Perahu Nelayan Terbalik Dihantam Badai di Perairan Mentawai, 1 Orang Dilaporkan Hilang</TITLE>
+
+<TEXT>
+Kecelakaan kapal kembali terjadi di perairan Kepulauan Mentawai, Provinsi Sumatera Barat <TIMEX3 tid="t1" type="TIME" value="2018-08-17TNI">Jumat (17/8/2018) malam</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2018-08-17T21:00">pukul 21.00 WIB</TIMEX3>. 
+
+Sebuah perahu nelayan terbalik dihantam badai di sekitar Pulau Nuko, Kecamatan Sipora Utata. 
+
+Satu orang nelayan yang berasal dari Tua Pejat yang diketahui bernama Jay, dilaporkan hilang. 
+
+Satu nelayan lagi bernama Anjang, berhasil selamat setelah berusaha berenang ke Pulau Nuko menggunakan jerigen. 
+
+Kepala Kantor Pencarian dan Pertolongan Kelas B Mentawai, Akmal mengatakan, lokasi kecelakaan kapal nelayan itu berjarak 25 NM dari Dermaga Tua Pejat, Kabuoaten Kepukauan Mentawai, atau berada tepat pada titik kordinat 02 13' 18 " S / 099 32' 18 " E. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, kata Akmal, pihaknya bersama BPBD Mentawai, TNI AL dari Lanal Mentawai dan TNI AD dari Kodim Mentawai, serta Polair Polres Mentawai, dan sejumlah masyarakat Tua Pejat masih melakukan pencarian terhadap satu nelayan yang masih hilang. 
+
+" <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, upaya pencarian masih kami lakukan. 
+
+Pencarian dilakukan dengan menyisiri perairan Pulau Nuko menggunakan tiga unit kapal. 
+
+Mudah-mudahan, nelayan yang hilang itu bisa ditemukan dalam kondisi selamat, " kata Akmal saat dihubungi tribunpadang. 
+
+com dari Padang, <TIMEX3 tid="t5" type="DATE" value="2018-08-18">Sabtu (18/8/2018)</TIMEX3>.Terbaliknya perahu itu, lanjut Akmal, berawal saat Jay dan Anjang mencari ikan pada <TIMEX3 tid="t6" type="TIME" value="2018-08-17TAF">Jumat sore</TIMEX3> ke perairan Pulau Nuko.Kemudian pada <TIMEX3 tid="t7" type="TIME" value="2018-08-17TNI">Jumat malam</TIMEX3>, tiba-tiba badai buruk yang disertai gelombang tinggi menghantam perahu yang digunakan kedua nelayan tersebut, sehingga perahu nelayan tersebut terbalik. " Dengan adanya kejadian ini, kami mengimbau agar para nelayan yang melaut untuk tetap waspada, karena kondisi cuaca tak menentuk. 
+
+Kadang bagus dan kadang buruk. 
+
+Bahkan <TIMEX3 tid="t8" type="DATE" value="2018-08-11">pekan lalu</TIMEX3>, kapal bagan asal Bengkulu juga karam di perairan Mentawai ini karena dihantam gelombang, " ujarnya.(*) 
+</TEXT>
+
+</TimeML>

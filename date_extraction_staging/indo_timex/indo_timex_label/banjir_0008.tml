@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0008</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-09-08" temporalFunction="false" functionInDocument="CREATION_TIME">2016-09-08</TIMEX3></DCT>
+
+<TITLE>Jalan Moun Mata Ambles Lintasan Barat Nyaris Putus</TITLE>
+
+<TEXT>
+AMBLAS: Badan Jalan Nasional Meulaboh di KM 166 di Desa Moun Mata rusak parah akibat banjir, Krueng Sabee, Aceh Jaya, <TIMEX3 tid="t1" type="DATE" value="2016-09-07">Rabu</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2016-09-07">(7/9)</TIMEX3>. 
+
+ENDRA SAYENG/RAKYAT ACEH CALANG (RA) Banjir <TIMEX3 tid="t3" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3> dan hujan yang mengguyur Aceh Jaya, mengakibatkan jalan nasional Banda Aceh-Meulaboh, tepatnya di Km 166, kawasan Desa Moun Mata, Kecamatan Krueng Sabee, ambles. 
+
+Akibatnya, pihak kepolisian Polres Aceh Jaya melakukan jalur buka tutup, untuk menghindari jatuhnya korban, sejak <TIMEX3 tid="t4" type="DATE" value="2016-09-07">Rabu (7/9)</TIMEX3>. 
+
+Kapolres Aceh Jaya, AKBP Riza Yulianto pada Rakyat Aceh di lokasi tersebut menjelaskan, meski ambles, jalan tersebut masih dapat dilalui kendaraan roda empat. 
+
+Namun untuk kendaraan roda enam masih harus mengantre, karena badan jalan menyempit, katanya. 
+
+Menurut Kapolres, kejadian seperti ini bukan baru sekali terjadi, namun sudah menjadi peristiwa tahunan <TIMEX3 tid="t5" type="SET" value="XXXX-WI">setiap musim penghujan</TIMEX3> datang. 
+
+Karena itu, Kapolres meminta pengguna jalan, terutama pada saat mudik, lebih berhati-hati. 
+
+Kepala Dinas PU Aceh Jaya, Nurman yang dihubungi Rakyat Aceh mengatakan, pihaknya berharap akan ada proses pengerjaan jalan ini, sehingga bisa permanen. 
+
+Namun kewenangan ini ada di Satker Balai Jalan Nasional. 
+
+Kita berharap segera diselesaikan, kata Nurman. 
+
+Satker Wilayah 2 Balai Jalan Nasional Aceh, Emi Evendi yang dikonfirmasi Rakyat Aceh menegaskan, mulai <TIMEX3 tid="t6" type="DATE" value="2016-09-09">besok</TIMEX3>, pihaknya akan melakukan penanganan jalan di Desa Moun Mata, agar dapat dilalui dengan nyaman saat mudik lebaran. 
+
+Kita sudah usulkan untuk dibangun boxcover, sehingga dapat mengantisipasi air yang tergenang ketika hujan datang, katanya. 
+
+Kita berharap masyarakat bersabar, karena penanganannya membutuhkan proses. 
+
+(mag-67/ara/mai) 
+</TEXT>
+
+</TimeML>

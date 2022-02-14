@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0020</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-03</TIMEX3></DCT>
+
+<TITLE>Banjir Subulussalam Rendam Sembilan Desa</TITLE>
+
+<TEXT>
+Sedikitnya 1.338 jiwa dari sembilan desa di tiga Kecamatan Kota Subulussalam, menjadi korban banjir yang melanda daerah itu. 
+
+Banjir kiriman dari Aceh Tenggara ditambah curah hujan begitu tinggi mengakibatkan sungai souraya, meluap hingga ke kawasan pemukiman penduduk. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Kota Subulussalam, Nesal Putra kepada Rakyat Aceh, menjelaskan puncak tingginya debit air diperkirakan mulai <TIMEX3 tid="t1" type="DATE" value="2018-11-30">Jumat (30/11)</TIMEX3>. 
+
+Siangnya, banjir mulai menjalar ke kawasan pemukiman warga bahkan sebagian jalan aspal terendam banjir. 
+
+Ada sembilan desa terendam banjir yang mengakibatkan dampak banjir mencapai 1.338 jiwa. 
+
+Itu data sementara. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kami masih berada di lapangan untuk melakukan verifikasi korban banjir dan melakukan pemantauan kata Nesal Putra, <TIMEX3 tid="t3" type="DATE" value="2018-12-02">Minggu (2/12)</TIMEX3>. 
+
+Tidak ada korban jiwa akibat banjir tersebut. 
+
+Namun, kata Nesal, karena sebagian lantai rumah panggung warga sudah terendam, warga terpaksa tinggal di plafon rumah masing-masing yang berkontruksi papan. 
+
+Bahkan, sebagian warga memilih menginap di rumah sanak famili yang tidak terkena banjir. 
+
+Ketinggian air pada <TIMEX3 tid="t4" type="TIME" value="2018-11-30TNI">Jumat malam</TIMEX3> mencapai setinggi lutut orang dewasa terlebih yang paling dalam berada di Desa Sigrun, Kecamatan Sultan Daulat. 
+
+Namun, <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> air sudah terlihat turun yang tinggal 30 centimeter lagi dari sebelumnya 50 centimeter. 
+
+Cuaca masih terlihat mendung dan diperkirakan hujan akan kembali mengguyur daerah itu. 
+
+Sehingga, dicemaskan air kembali naik. 
+
+Untuk mengantisipasi, kata Nesal, pihaknya bersama personel TNI, Polri, Dinas Sosial, Tagana dan SAR terus memantau di lapangan. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> juga tim kita masih berada di lapangan untuk mengantisipasi ketinggian air. 
+
+Kemungkinan kalau hujan kembali mengguyur air kembali naik. 
+
+Semoga hal itu tidak terjadi, tambah Nesal Putra (lim/mai) 
+</TEXT>
+
+</TimeML>

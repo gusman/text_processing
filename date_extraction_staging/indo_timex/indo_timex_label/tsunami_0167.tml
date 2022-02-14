@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0167</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-11" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-11</TIMEX3></DCT>
+
+<TITLE>ACT Bagi Seragam Sekolah untuk Korban Tsunami di Lampung Selatan</TITLE>
+
+<TEXT>
+Tsunami yang menerjang kawasan pesisir Lampung Selatan <TIMEX3 tid="t1" type="DATE" value="2018-12-28">lebih dari dua pekan lalu</TIMEX3> masih menyisakan duka. 
+
+Ratusan infrastruktur luluh lantak tersapu ombak. 
+
+Anak-anak terdampak tsunami juga kehilangan seragam sekolah mereka yang hanyut terbawa tsunami. 
+
+Sejak masuk sekolah pada <TIMEX3 tid="t2" type="DATE" value="2019-01-07">Senin (7/1/2019)</TIMEX3>, mereka terpaksa menggunakan pakaian seadanya. 
+
+Untuk mereka, Aksi Cepat Tanggap (ACT) bersama Masyarakat Relawan Indonesia (MRI) bergerak membagikan seragam sekolah agar pengungsi anak dapat kembali bersekolah dengan seragam yang layak. 
+
+Selama <TIMEX3 tid="t3" type="DURATION" value="P2D">dua hari</TIMEX3> dari <TIMEX3 tid="t4" type="DATE" value="2019-01-07">Selasa (7/1/2019)</TIMEX3> hingga <TIMEX3 tid="t5" type="DATE" value="2019-01-08">Rabu (8/1/2019)</TIMEX3>, tim membagikan seragam di dua desa terdampak yaitu Desa Sukaraja dan Desa Rajabasa. 
+
+Terlihat kebahagiaan di wajah mereka saat menerima paket seragam tersebut. 
+
+Saya sempat bingung mau sekolah karena sudah tidak ada seragam. 
+
+Tapi, kakak-kakak dari ACT ngasih seragam, kita jadi senang, ucap Wahyu (12), seorang siswa kelas 5 SD dari Desa Sukaraja. 
+
+Ungkapan senada juga disampaikan oleh Laura Safara pelajar dari Desa Rajabasa. 
+
+Seneng dapat seragam. 
+
+Jadi tidak bingung mikirin seragam. 
+
+Terima kasih ACT, tutur Safara. 
+
+Penyaluran bantuan seragam ke Desa Rajabasa sendiri dilakukan pada <TIMEX3 tid="t6" type="DATE" value="2019-01-08">Rabu (8/1)</TIMEX3> sehari setelah pendistribusian logistik di Desa Sukaraja. 
+
+Bantuan didistribusikan langsung dari Posko Unit ACT di Desa Sukaraja. 
+
+Gelar selaku Komandan Posko Unit Sukaraja menuturkan, pendistribusian ini sebagai bentuk kepedulian ACT untuk membantu semua lapisan masyarakat, termasuk kalangan anak-anak. 
+
+Baginya, jangan sampai anak-anak menjadi tidak konsentrasi dalam belajar karena tidak memiliki seragam sekolah. 
+
+Gelar sendiri ikut senang merasakan kebahagiaan anak-anak penerima bantuan. 
+
+Pastinya kita turut bahagia bisa membantu mereka. 
+
+Terima kasih untuk para donatur. 
+
+Semoga ke depan kita dapat terus membersamai para penyintas Lampung Selatan, ungkap Gelar. 
+
+Hingga <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, Tim ACT terus membersamai masyarakat terdampak tsunami. 
+
+Berbagai program telah diluncurkan untuk membantu masyarakat Lampung bangkit dari trauma. 
+
+Program-program unggulan sudah diimplementasikan seperti Dapur Umum yang menyuplai kebutuhan makanan korban tsunami, psiko sosial untuk menghilangkan trauma, pelayanan medis, distribusi logistik, dan bantuan lainnya. 
+
+Hingga <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, posko-posko ACT di Way Urang, Maja, Sukaraja, Way Muli, dan Kunjir terus aktif menyalurkan bantuan. 
+
+* 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1109</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-21" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-21</TIMEX3></DCT>
+
+<TITLE>Sempat Lumpuh Total, Kini Akses Jalinsum di Nagari Takung Sijunjung Itu Kembali Normal</TITLE>
+
+<TEXT>
+Tak hanya rumah dan pemukiman penduduk didera bencana banjir dan longsor. 
+
+Tapi, akses jalan lintas sumatera (Jalinsum) baik yang berada di Nagari Takung dan Nagari Kunangan Parit Rantang (Kunpar), Kecamatan Kamang Baru, Kabupaten Sijunjung, Sumatera Barat, sudah kembali normal. 
+
+Kedua nagari yang dilintasi jalan negara itu sempat lumpuh total akibat tertimbun material longsong dan terendam banjir. 
+
+Di Nagari Takung, Jalinsum tertimbun material tanah longsor. 
+
+Sehingga Jalinsum dari Sumbar ke Jambi itu lumpuh total <TIMEX3 tid="t1" type="DURATION" value="PTXH">berjam-jam</TIMEX3>. 
+
+Berkat kerja keras Pemkab Sijunjung bersama instansi terkait termasuk Polri-TNI, <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> Jalinsum yang tak. 
+
+jauh dari Terminal Kiliranjao itu sudah kembali pulih. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> jalan sudah bisa dilewati dengan sistem buka tutup, kata Kapolres Sijunjung, AKBP Driharto, SIK melalui Paur Humas Polres Sijunjung, Iptu Nasrul alias Ajo. 
+
+Sementara jalan negara yang berada di Nagari Kunpar yang terendam banjir pun sudah mulai surut. 
+
+Jalan negara di Kunpar itupun sudah bisa dilewati. 
+
+Akibat bencana ini banyak rumah, sawah warga terendam banjir. 
+
+Bahkan sejumlah ternak warga juga ada yang terbawa arus banjir, kata Wabup Arrival Boy saat meninjau langsung kelokasi bencana. 
+
+Plt BPBD (Badan Penanggulangan Bencana Daerah) Sijunjung, Hendri Caniago membenarkan bencana banjir dan tanah longsor melanda Kecamatan Kamang Baru dan Tanjung Gadang itu. 
+
+Ya, selain Muaro Takung di rendam banjir, juga terdapat beberapa daerah terkena longsor. 
+
+Seperti, Nagari Kunpar, Nagari Tembulun dan Nagari Tanjung Gadang di Kecamatan Tanjung Gadang juga terkena bencana. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kondisi daerah yang terkena banjir sudah mulai berangsur pulih, ucap Hendri Caniago. 
+
+saptarius 
+</TEXT>
+
+</TimeML>

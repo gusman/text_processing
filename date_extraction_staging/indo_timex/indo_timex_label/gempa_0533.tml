@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0533</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-30" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-30</TIMEX3></DCT>
+
+<TITLE>Jasad Bergelimpangan di Jalan, Pak.
+
+.</TITLE>
+
+<TEXT>
+HARI pertama pascagempa dan tsunami Donggala-Palu, Sulteng, menyingkap banyak duka. 
+
+Mayat-mayat bergelimpangan di jalanan. 
+
+Ridwan Marzuki, DonggalaeQuator. 
+
+co. 
+
+id Suara Wahyudi Widodo tiba-tiba terhenti. 
+
+Mirip orang tersedak. 
+
+Atlet paralayang ini sudah <TIMEX3 tid="t1" type="DURATION" value="P4D">empat hari</TIMEX3> di Palu, saat getaran bumi menyentakkannya. 
+
+Gempa datang dengan daya kejut luar biasa. 
+
+Awalnya hanya getaran kecil. 
+
+Lalu menyusul sangat besar. 
+
+Mencapai 7,7 Skala Richter yang belakangan BMKG meralatnya menjadi 7,4 SR. 
+
+Gempa susulan inilah yang melantakkan bangunan, jalan, dan jembatan. 
+
+Banyak sekali korban. 
+
+Saya merinding mengingatnya, ujar Wahyudi sesaat setelah tiba di Lanud Hasanuddin, <TIMEX3 tid="t2" type="TIME" value="2018-09-28TNI">malam tadi</TIMEX3>. 
+
+Ia sempat menahan napas, lalu melanjutkan ceritanya. 
+
+Wajahnya masih diliputi trauma. 
+
+Tubuhnya gemetaran dan terlihat lunglai. 
+
+Dia sangat sedih. 
+
+Banyak rekannya tewas korban gempa dan tsunami. 
+
+Wahyudi merupakan salah seorang korban selamat yang turut dievakuasi dari Palu ke Makassar. 
+
+Warga Bondowoso, Jatim ini, ke Palu untuk mengikuti kejuaraan paralayang internasional, 23-29 <TIMEX3 tid="t3" type="DATE" value="2018-09">September</TIMEX3>. 
+
+Pesertanya 63 orang dari lima negara. 
+
+Bersama rombongan dari daerahnya, dia menginap di Penginapan Borneo, sebuah penginapan di kawasan Kota Palu. 
+
+Keadaan sangat mencekam. 
+
+Masing-masing berupaya menyelamatkan diri. 
+
+Kota lumpuh, urainya menggambarkan suasana sesaat setelah gempa. 
+
+Bersama sejumlah tamu lain yang menginap di Borneo, pria <TIMEX3 tid="t4" type="DATE" value="UNKNOWN">42 tahun ini</TIMEX3> menyelamatkan diri sekuat tenaga. 
+
+Berlari ke arah mobil pikap, lalu menuju ke perbukitan di Kawasan Balani. 
+
+Mereka mengungsi. 
+
+Tak tidur hingga <TIMEX3 tid="t5" type="TIME" value="2018-09-30TMO">pagi</TIMEX3>. 
+
+Yustira Ramadani (42), lain lagi. 
+
+Koordinator Tim Paralayang Jatim ini menginap di Hotel Roa-roa, Palu. 
+
+Rombongannya 10 orang bersamanya. 
+
+Namun, nasib mengharuskan tiga rekannya tak pulang. 
+
+Belum ditemukan hingga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">kini</TIMEX3>. 
+
+Mereka di lantai tujuh, lalu bangunan rubuh hingga ke dasar. 
+
+Mereka masih tertimbun, ujar Yustira sedih, suaranya parau.Bangunan itu luluh lantak. 
+
+Tak menyisakan satu lantai pun. 
+
+Dia memperkirakan, puluhan orang masih terjebak di dalam bongkahan bangunan Hotel Roa-roa. 
+
+Tak ada yang bisa mengevakuasi. 
+
+Peralatan tiada, tim SAR pun belum tiba. 
+
+Saya tidak mengatakan meninggal, tapi belum ditemukan. 
+
+Kemungkinan terjebak di reruntuhan hotel. 
+
+Dua cedera, Sugeng dan Vicky, imbuh pelatih Tim Paralayang Jatim ini.LOMPAT SELAMATYustira dan beberapa rekannya beruntung masih di lobi saat puncak gempa terjadi. 
+
+Dengan cekatan dia melompat keluar dari lobi ketika bangunan rubuh dengan cepat.Saat sudah berada di jalan, seluruh lantai telah ambruk. 
+
+Sebuah kesyukuran sekaligus kepiluan baginya. 
+
+Syukur karena selamat, pilu karena sebagian rekannya tertimbun.Memang, akibat kejadian itu, selain tiga rekan setimnya dari Jatim, atlet paralayang dari daerah lain dan luar negeri juga ikut tewas. 
+
+Terkubur dalam runtuhan. 
+
+Tiga dari Malang, satu dari Sulawesi Utara, satu dari Korea, imbuhnya.Bersama rekannya, dia sudah berupaya maksimal menolong yang terjebak, namun terhambat bongkahan cor. 
+
+Hingga <TIMEX3 tid="t7" type="TIME" value="2018-09-29TAF">sore hari</TIMEX3>, pesawat evakuasi milik TNI AU datang. 
+
+Dia pun diterbangkan ke Makassar. 
+
+Selanjutnya menggunakan pesawat komersial ke Surabaya.Alfari Widyasmara (33), asal Yogyakarta, juga berada di Palu saat bencana terjadi. 
+
+Beruntung dia sedang di luar hotel begitu gempa datang. 
+
+Dia masih sempat menyelamatkan diri dengan berlari ke bukit.Hingga <TIMEX3 tid="t8" type="TIME" value="2018-09-30TMO">pagi</TIMEX3> dia bertahan di sana. 
+
+Setelah merasa aman, barulah kembali ke penginapan. 
+
+Namun, kerusakan parah terjadi. 
+
+Jalanan terbongkar, pagar, dan gedung rubuh.Di pinggir jalan mayat-mayat bergelimpangan, Pak. 
+
+Tadi <TIMEX3 tid="t9" type="TIME" value="2018-09-30TMO">pagi</TIMEX3> saya lewat di situ, masih banyak mayat. 
+
+Masih belum ada tim SAR, urainya dengan nada suara agak parau. 
+
+(FAJAR/JPG) 
+</TEXT>
+
+</TimeML>

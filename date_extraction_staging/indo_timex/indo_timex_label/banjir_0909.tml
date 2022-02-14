@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0909</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-21" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-21</TIMEX3></DCT>
+
+<TITLE>Mengungsi sepekan akibat banjir</TITLE>
+
+<TEXT>
+Banjir terbesar dalam <TIMEX3 tid="t1" type="DURATION" value="P30Y">30 tahun</TIMEX3> terakhir melanda Kota Merauke. 
+
+Ratusan warga dievakuasi ke lokasi pengungsian. 
+
+GERARDUS Wagatu tidak menyangka dia sekeluarga harus mengungsi di Gedung Olah Raga (GOR) Hiad Sai. 
+
+Mereka bersama rombongan warga lain dijemput petugas Satuan Polisi Pamong Praja untuk dievakuasi dari kediaman masing-masing. 
+
+Wagatu berdomisili di Kelurahan Rimba Jaya, Kabupaten Merauke. 
+
+Banjir melanda wilayah itu sehingga merendam permukiman penduduk. 
+
+Banjir memasuki rumah hingga setinggi paha atau sekitar 75 sentimeter. 
+
+Banyak perabotan tidak bisa diselamatkan karena banjir mendadak datang, katanya kepada Jubi, <TIMEX3 tid="t2" type="DATE" value="2019-03-19">Selasa (19/3/2019)</TIMEX3>. 
+
+Wagatu sekeluarga diungsikan <TIMEX3 tid="t3" type="DATE" value="P1D">sehari</TIMEX3> setelah banjir besar melanda Rimba Jaya pada <TIMEX3 tid="t4" type="DATE" value="2019-03-16">Sabtu</TIMEX3>. 
+
+Aktivitas warga pun lumpuh karena banjir juga merendam kantor pemerintahan, gedung sekolah, dan berbagai fasilitas publik. 
+
+Wagatu juga tidak menyangka banjir bisa sebegitu besar hanya lantaran guyuran hujan deras selama <TIMEX3 tid="t5" type="DURATION" value="2019-03-01TNI">semalam</TIMEX3>. 
+
+Di lingkungan tempat tinggalnya, hanya dua rumah yang selamat dari banjir. 
+
+Selama kurang lebih <TIMEX3 tid="t6" type="DURATION" value="P30Y">30 tahun</TIMEX3> saya tinggal di Kota Merauke, baru kali ini terjadi banjir besar. 
+
+Wagatu sekeluarga membaur bersama sekitar 500 warga lain yang juga diungsikan di GOR Hiad Sai. 
+
+Mereka diperkirakan menetap hingga <TIMEX3 tid="t7" type="DURATION" value="P1W">sepekan</TIMEX3> di lokasi pengungsian. 
+
+Kebutuhan <TIMEX3 tid="t8" type="SET" value="P1D">sehari-hari</TIMEX3> warga selama mengungsi ditanggung Pemerintah Kabupaten (Pemkab) Merauke. 
+
+Di pengungsian, Wagatu bisa beristirahat <TIMEX3 tid="t9" type="DURATION" value="PXX">sejenak</TIMEX3> walaupun dengan fasilitas serba darurat. 
+
+Setelah banjir masuk ke rumah, kami sekeluarga tidak tidur hingga <TIMEX3 tid="t10" type="TIME" value="2019-03-21TMO">pagi</TIMEX3>. 
+
+Kami takut banjir lebih besar muncul sehingga harus tetap waspada, ungkap Wagatu. 
+
+Wagatu belum mengetahui kondisi terkini di lingkungan tempat tinggal mereka. 
+
+Karena khawatir banjir bakal dan masih melanda, dia memutuskan untuk tetap bertahan di pengungsian. 
+
+Biar bertahan <TIMEX3 tid="t11" type="DATE" value="PAST_REF">dahulu</TIMEX3> sampai cuaca normal kembali. 
+
+Satu atau <TIMEX3 tid="t12" type="DURATION" value="P2D">dua hari ke depan</TIMEX3>, mungkin baru bisa pulang untuk melihat kondisi rumah, tuturnya. 
+
+Ancaman diareKepala Bidang Perlindungan dan Jaminan Sosial Dinas Sosial Kabupaten Merauke, Fonny Runtu, memastikan kondisi warga terjamin selama di pengungsian. 
+
+Semua mendapat bantuan dan dilayani dengan baik. 
+
+Kami juga mendirikan dapur umum untuk menyiapkan makan sebanyak tiga kali <TIMEX3 tid="t13" type="DURATION" value="P1D">sehari</TIMEX3> buat pengungsi. 
+
+Warga di pengungsian <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">kini</TIMEX3> mulai diserang penyakit, seperti batuk, pilek, infeksi saluran pernapasan, dan maag. 
+
+Namun, mereka langsung ditangani tenaga medis yang selalu bersiaga di lokasi pengungsian.Ada 27 pengungsi mengeluh sakit dan langsung kami tangani. 
+
+Mereka terdiri atas 15 anak-anak, dua remaja, dan sembilan warga dewasa, kata David, dokter yang bertugas di pengungsian.David mengingatkan para orangtua agar selalu mengawasi anak mereka. 
+
+Kebutuhan makanan higienis dan bergizi harus tetap diperhatikan selama mengungsi. 
+
+Dia memastikan sejauh ini belum ada pengungsi yang menderita sakit akibat dampak kebersihan makanan.Walaupun sejauh ini belum ada, diare sangat rentan menyerang anak-anak. 
+
+Apalagi, mereka bakal berada di pengungsian selama <TIMEX3 tid="t15" type="DURATION" value="P1W">sepekan</TIMEX3>, ujar David. 
+</TEXT>
+
+</TimeML>

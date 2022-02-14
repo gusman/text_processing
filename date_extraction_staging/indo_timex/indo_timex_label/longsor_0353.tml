@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0353</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-05-18" temporalFunction="false" functionInDocument="CREATION_TIME">2019-05-18</TIMEX3></DCT>
+
+<TITLE>Longsor Hegarmanah Tewaskan Satu Orang, Lurah Peringatkan Warga yang Ada di Tebing Setinggi 30 meter</TITLE>
+
+<TEXT>
+Satu orang meninggal dunia bernama Syamsudin (69) akibat terbawa longsor dan tertimbun yang terjadi di Hegarmanah Kulon, RT5/8, Kelurahan Hegarmanah, Kecamatan Cidadap, Kota Bandung, <TIMEX3 tid="t1" type="DATE" value="2019-05-18">Sabtu (18/5/2019)</TIMEX3>. 
+
+Kejadian longsor tersebut terjadi <TIMEX3 tid="t2" type="TIME" value="2019-05-17T07:30">sekitar pukul 07.30 WIB</TIMEX3>. 
+
+Lurah Hegarmanah, Suhari mengatakan kejadian longsor itu membuat pihaknya langsung melakukan penanganan pasca-longsor tersebut, karena tanah longsor menutup saluran sungai Cikalintu. 
+
+" <TIMEX3 tid="t3" type="TIME" value="2019-05-17TMO">Pagi tadi</TIMEX3> ada longsor memakan korban atas nama Syamsudin (69), <TIMEX3 tid="t4" type="TIME" value="2019-05-17T08:00">sekitar pukul 08.00 WIB</TIMEX3>. 
+
+Almarhum telah dimakamkan <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> juga, dan <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kami bersama satgas PU melaksanakan penanganan pasca longsor, mudah mudahan selesai <TIMEX3 tid="t7" type="DATE" value="2019-05-18">hari ini</TIMEX3>, mudah mudahan tidak menghambat saluran sungai, " ujar Suhari kepada Tribun Jabar di lokasi, <TIMEX3 tid="t8" type="DATE" value="2019-05-18">Sabtu (18/5/2019)</TIMEX3>. 
+
+Terkait satu warganya yang meninggal dunia, menurutnya untuk korban sudah dimakamkan langsung seusai pencarian yang sebelumnya korban tertimbun tanah longsor. 
+
+Suhari meminta Dinas PU Kota Bandung untuk segera memperbaiki kirmir yang hancur. 
+
+" Ke depan kami mengajukan secara formal ke PU dan oleh pak camat telah disampaikan ke pihak Dinas PU ditangani melalui pasang bronjong itu langkah awal, " ujarnya. 
+
+Suhari mengimbau kepada masyarakat yang rumahnya di pinggir tebing untuk waspada. " Rumah ini sangat mengkhawatirkan karena di pinggir tebing, kami hanya menghimbau saja kepada masyarakat untuk waspada, ini kondisinya sangat curam dengan ketinggian 20-30 meter dari bibir sungai sehingga kami memberikan peringatan saja kepada masyarakat untuk waspada dan apabila hujan besar jangan terlalu terlena, " ujarnya.Suhari berharap kepada dinas terkait untuk segara merespon untuk secepatnya melakukan perbaikan.(*) 
+</TEXT>
+
+</TimeML>

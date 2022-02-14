@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0848</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-07-03" temporalFunction="false" functionInDocument="CREATION_TIME">2015-07-03</TIMEX3></DCT>
+
+<TITLE>Gempa 6,4 SR Guncang Xinjiang, 3 Tewas, Banyak Rumah Roboh</TITLE>
+
+<TEXT>
+Gempa bumi berkekuatan 6,4 skala richter (SR) mengguncang wilayah Xinjiang, China barat pada Jumat (3/7/2015).
+
+Gempa tersebut menewaskan tiga orang dan membuat banyak rumah roboh.
+
+Selain itu, sebanyak 20 orang lainnya terluka.
+
+Wilayah terdampak akibat gempa itu berada di sebuah wilayah yang berjarak 160 km dari sebelah selatan Kota Hotan.
+
+Saat ini, gempa telah mengakibatkan tiga kematian, termasuk seorang ayah dan anak, dan lebih dari 20 cedera,  bunyi laporan China National Emergency Broadcasting (CNEB).
+
+Versi Survei Geologi Amerika Serikat (AS) kekuatan gempa 4,8 SR.
+
+Gempa tersebut membuat panik warga etnis Uighur di Xijiang.
+
+Namun, pihak berwenang China optimistis jumlah korban jiwa akibat gempa tidak akan banyak.
+
+Jika banyak orang yang berkumpul di satu tempat saat gempa, dapat menyebabkan bencana yang serius, tetapi dalam kasus ini, ada sedikit orang sehingga tidak begitu serius,  kata Peneliti Pusat Jaringan Gempa China, Sun Shihong kepada penyiar China Central Television.
+
+Gempa bumi kerap melanda China.
+
+Pada tahun 2008, gempa bumi pernah melanda wilayah Provinsi Sichuan dengan korban tewas hingga 70 ribu orang.
+
+Wilayah Xinjiang dekat dengan perbatasan India, Pakistan, Afghanistan dan negara-negara Asia Tengah.
+
+Wilayah ini kerap jadi sorotan dunia, karena warganya mengalami diskriminasi dari Pemerintah China.
+
+(mas) 
+</TEXT>
+
+</TimeML>
+

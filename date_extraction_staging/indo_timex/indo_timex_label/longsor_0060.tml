@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0060</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-01-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-01-24</TIMEX3></DCT>
+
+<TITLE>Longsor, Jalan Pangkung Gayung-Pendem Sempat Terputus</TITLE>
+
+<TEXT>
+Akibat hujan deras yang mengguyur wilayah Jembrana <TIMEX3 tid="t1" type="TIME" value="2018-01-23TNI">Senin (23/1) malam</TIMEX3> mengakibatkan tanah longsor rumah milik Nyoman Tastra (58) di Lingkungan Pangkung Gayung, Kelurahan Baler Bale Agung, Kecamatan Negara. 
+
+Tidak ada korban jiwa dalam musibah tersebut. 
+
+Material longsoran berupa tanah, batu dan besi pondasi dari senderan rumah Tastra sempat menutupi akses jalan rabat dibawahnya. 
+
+Akibatnya jalur tembus ke Kelurahan Pendem itu sempat tertutup selama <TIMEX3 tid="t2" type="DURATION" value="PTXH">beberapa jam</TIMEX3>. 
+
+Untuk menanggulangi akses jalan antar-kelurahan terblokir material longsor tersebut, warga bersama petugas gabungan dari Tagana, Badan Penanggulangan Bencana Daerah (BPBD), Bhabinkamtibmas <TIMEX3 tid="t3" type="DATE" value="2018-01-23">Selasa (23/1)</TIMEX3> bergerak cepat. 
+
+Pembersihan puing-puing material yang menutupi jalan dilakukan secara material bergotongroyong. 
+
+<TIMEX3 tid="t4" type="TIME" value="2018-01-23T12:00">Sekitar pukul 12.00</TIMEX3> Wita, akses jalan yang sempat tertutup sejak dinihari, bisa kembali dilalui kendaraan. 
+
+Walaupun kecil, jalur ini sering dilalui kendaraan roda empat terutama untuk angkut hasil bumi, terang salah seorang warga yang bergotongroyong membersihkan. 
+
+. 
+
+Tepatnya <TIMEX3 tid="t5" type="TIME" value="2018-01-23T03:00">sekitar pukul 03.00</TIMEX3> Wita dinihari. 
+
+Suaranya keras bergemuruh, saya lihat keluar sudah ambrol (halaman depan), terangnya. 
+
+Untungnya longsoran itu hanya terjadi pada bagian halaman depan rumah. 
+
+Dengan kondisi <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">sekarang ini</TIMEX3>, Tantra mengaku khawatir rumahnya yang berada di tebing setinggi lima meter dari jalan akan ikut tergerus. 
+
+Begitu juga dengan bangunan dapur yang berada di pinggir dsenderan yang belum tergerus. 
+
+Yang ambrol ini panjangnya sekitar 13 meter, sebenarnya memang sudah ada retakan lubang sedikit. 
+
+Mungkin dari sana air masuk dan menggerus senderan, terangnya. 
+
+Dari pengamatan <TIMEX3 tid="t7" type="TIME" value="2018-01-23TAF">siang kemarin</TIMEX3>, jalan rabat beton itu <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">kini</TIMEX3> sudah bisa dilalui kendaraan baik roda dua maupun roda empat. 
+
+Namun kondisi tebing bekas senderan itu nampak rawan longsor. 
+
+Puing-puing lantai halaman depan rumah juga masih terlihat. 
+
+(Surya Dharma/balipost) 
+</TEXT>
+
+</TimeML>

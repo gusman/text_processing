@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0992</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-02" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-02</TIMEX3></DCT>
+
+<TITLE>Banjir Bandang Terjadi di Jember dan Bondowoso, Gubernur Khofifah Sebut 2 Penyebabnya</TITLE>
+
+<TEXT>
+Banjir bandang terjadi di Kecamatan Ijen, Bondowoso dan di Kecamatan Sukorambi, Jember. 
+
+Gunung Raung dan Gunung Argopuro yang sempat terbakar pada <TIMEX3 tid="t1" type="DATE" value="2019-SU">musim kemarau lalu</TIMEX3>, diduga menjadi salah satu penyebab banjir bandang. 
+
+. 
+
+Salah satunya adalah Gunung Raung dan Argopuro. 
+
+Selain itu, Karhutla juga terjadi di Gunung Panderman di Batu Malang dan Gunung Welirang Mojokerto. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> Argopuro, di Bondowoso Gunung Raung, kata Khofifah saat mengunjungi korban banjir bandang di Jember, <TIMEX3 tid="t3" type="DATE" value="2020-02-02">Minggu (2/2/2020)</TIMEX3>. 
+
+Menurut dia, gunung-gunung itu mengalami kebakaran hutan dan lahan yang cukup signifikan saat musim kemarau lalu. 
+
+Untuk pertama kalinya, Pemprov Jatim meminta kepada Badan Nasional Penanggulangan Bencana (BNPB) untuk memberikan bantauan pesawat dan helikopter untuk melakukan water bombing. 
+
+Sebab, bila dilakukan secara manual, lokasinya cukup sulit, karena karena ketinggian dan kemiringan gunung. 
+
+Terkait dugaan adanya pembalakan liar atau illegal logging, Khofifah menyerahkan penanganan kepada penegak hukum untuk melakukan investigasi. 
+
+// Kami serahkan pada tim untuk melakukan investigasi, serahkan pada instansi vertikal, kata dia. 
+
+. 
+
+Menurut Khofifah, Pemprov Jatim sudah menyiapkan format agar bisa menabur biji tanaman dari udara. 
+
+Ini sudah disiapkan oleh Dinas Kehutanan, karena tidak sekadar menabur biji, tapi sementara disemai, kemudian di dalam polybag dan harus ada pupuknya, kata Khofifah. 
+
+Pemprov Jatim masih menghitung luasan lahan yang akan ditabur biji di <TIMEX3 tid="t4" type="DATE" value="2020-WI">musim hujan ini</TIMEX3>. 
+
+Mudah mudahan bisa langsung tumbuh. 
+
+Ini bagian dari perluasan reboisasi yang dilakukan Perhutani PTPN dan semua di antara kita, kata Khofifah. 
+
+Sebelumnya diberitakan, banjir bandang di Jember terjadi pada <TIMEX3 tid="t5" type="DATE" value="2020-02-01">Sabtu (1/2/2020)</TIMEX3>. 
+
+Ada 450 korban yang mengungsi. 
+
+Sementara itu, banjir bandang di Bondowoso terjadi pada <TIMEX3 tid="t6" type="DATE" value="2020-01-29">Rabu (29/1/2020)</TIMEX3>. 
+
+Ratusan rumah warga terdampak banjir tersebut. 
+</TEXT>
+
+</TimeML>

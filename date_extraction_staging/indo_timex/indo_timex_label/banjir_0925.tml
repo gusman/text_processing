@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0925</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-03" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-03</TIMEX3></DCT>
+
+<TITLE>Sanggeng Banjir, Warga Blokade Jalan</TITLE>
+
+<TEXT>
+Pemblokiran jalan karena protes banjir merendam rumah kembali terjadi, <TIMEX3 tid="t1" type="TIME" value="2020-03-02">Senin (2/3/2020) pagi</TIMEX3>. 
+
+Sejumlah warga di Sanggeng menutup sebagian ruas Jalan Yos Sudarso, samping Polsek Manokwari Kota gara-gara beberapa rumah kebanjiran. 
+
+Kendaraan dari arah Wosi terpaksa mengambil rute lebih jauh ke perumahan Fasharkan TNI AL. 
+
+Warga yang kecewa menutup jalan di pertigaan rumah sakit dr Azhar Zahir menggunakan kayu. 
+
+Pantauan Radar Sorong di lokasi, air menggenangi beberapa rumah hingga setinggi paha orang dewasa. 
+
+Pemilik rumah hanya bisa berusaha mengamankan barang-barang elektronik ke tempat lebih tinggi. 
+
+Warga mengeluhkan parit yang tidak berfungsi baik. 
+
+Saluran pembuangan terlalu kecil tak mampu menanpung debit air yang cukup besar, sehingga meluap hingga ke badan jalan dan sampai masuk ke dalam rumah. 
+
+Belum lagi di saluran tersebut dapat sejumlah pipa yang makin menghambat aliran air. 
+
+Ada banyak pipa di parit. 
+
+Air yang mengalir tertahan dan akibatkan genangan, Jelas seorang pemuda kepada wartawan. 
+
+Menurutnya, banjir di samping Polsek Manokwari Kota ini sudah sering terjadi. 
+
+Warga sudah menyampaiken ke pemerintah untuk memperbaiki parit supaya bila hujan deras tak terjadi genangan. 
+
+Tetapi sudah beberapa kali kejadian seperti tidak ada perhatian, Katanya. 
+
+Pemuda ini sempat meminta wartawan berhenti mengambil foto karena dikiranya staf dari instansi pemerintah. 
+
+Stop sudah ambil-ambil gambar. 
+
+PU tidak pernah perbaiki saluran di sini, makanya terus terjadi banjir, Ujarnya. 
+
+Hujan deras yang mengguyur Manokwari, <TIMEX3 tid="t2" type="TIME" value="2020-03-02TMO">kemarin pagi</TIMEX3> juga menimbulkan banjir di sejumlah pemukiman, ruas jalan terendam di Wosi, Sanggeng. 
+
+Kapolsek Manokwari Kota, Iptu Hanny J. 
+
+O Salamena, SH menghibau warga untuk waspada tanah longsor. 
+
+Hujan deras dapat membuat tanah di lereng gunung labir sehinga sewaktu-waktu dapat terjadi longsor. 
+
+Hujan <TIMEX3 tid="t3" type="DATE" value="2020-03-03">hari ini</TIMEX3> cukup deras. 
+
+Di beberapa tempat terjadi ada genangan air, Pungkasnya. 
+
+(lm) 
+</TEXT>
+
+</TimeML>

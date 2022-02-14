@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0511</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2012-11-12" temporalFunction="false" functionInDocument="CREATION_TIME">2012-11-12</TIMEX3></DCT>
+
+<TITLE>Korban Tewas Gempa Myanmar Bertambah Jadi 13 Orang</TITLE>
+
+<TEXT>
+Runtuhnya sebuah biara di dekat desa Kyauk Myaung akibat gempa, menewaskan dua orang, sementara satu orang dikabarkan meninggal dunia di wilayah kota Mandalay, enam orang meninggal dunia di kota Sint Ku kota, termasuk dua orang yang tewas akibat runtuhnya tambang emas.
+
+Seorang pejabat pemerintah di ibukota Naypyidaw yang meminta tidak disebutkan namanya, mengkonfirmasi telah ditemukan dua korban tewas di wilayahnya akibat gempa.
+
+"Warga sangat khawatir dengan gempa susulan, " kata sebuah organisasi bantuan di sana, seperti dilansir oleh Asiaone.
+
+com.
+
+Gempa juga mengakibatkan ratusan orang terluka.
+
+Seperti diberitakan sebelumnya, gempa berkekuatan 6,6 skala Ritcher melanda Myanmar tengah, Minggu (11/11/2012), pagi.
+
+Badan Survei Geologi Amerika Serikat (USSG), memantau gempa berada sekitar 117 kilometer (72 mil) utara dari Kota Mandalay dengan kedalaman hanya 10 kilometer.
+
+Gempa pertama kali terjadi pada pukul, 7.42 waktu setempat, dan diikuti oleh dua gempa susulan berkekuatan 5,0 skala Ritcher selang 20 menit.
+
+(*)			
+</TEXT>
+
+</TimeML>
+

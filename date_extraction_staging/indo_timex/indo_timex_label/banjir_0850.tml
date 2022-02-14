@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0850</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-29" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-29</TIMEX3></DCT>
+
+<TITLE>UPDATE: Korban Banjir Tapanuli Tengah Bertambah, 6 Tewas dan 3 Hilang</TITLE>
+
+<TEXT>
+Badan Nasional Penanggulangan Bencana (BNPB) mengungkapkan bahwa data terbaru jumlah korban meninggal dunia akibat di Kabupaten Tapanuli Tengah bertambah, yakni 6 tewas dan 3 hilang. 
+
+Data tersebut berdasarkan laporan terbaru dari Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Tapanuli Tengah pada <TIMEX3 tid="t1" type="TIME" value="2020-01-29TAF">Rabu (29/1/2020) siang</TIMEX3>. 
+
+Kepala Pusat Data Informasi dan Komunikasi Kebencanaan BNPB Agus Wibowo menjelaskan, banjir di Tapanuli Tengah terjadi sejak <TIMEX3 tid="t2" type="DATE" value="2020-01-29">Rabu (29/1/2020)</TIMEX3> sekitar <TIMEX3 tid="t3" type="TIME" value="2020-01-28T01:00">pukul 01.00 WIB</TIMEX3> akibat luapan Sungai Aek Sirahar setelah hujan dengan intensitas tinggi mengguyur wilayah tersebut. 
+
+Banjir dengan ketinggian sekitar 2 hingga 2,5 meter itu merendam empat kecamatan di Tapanuli Tengah. 
+
+Atas bencana banjir tersebut BPBD Tapanuli Tengah telah menyatakan status tanggap darurat selama <TIMEX3 tid="t4" type="DURATION" value="P7D">7 hari</TIMEX3> terhitung sejak <TIMEX3 tid="t5" type="DATE" value="2020-01-29">tanggal 29 Januari 2020</TIMEX3>. 
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> BPBD Tapanuli Tengah telah berkoordinasi dengan dinas terkait dan unsur TNI/Polri untuk melakukan evakuasi dan melalukan pendataan kerugian material yang ditimbulkan. 
+
+Selain itu tim gabungan juga mendirikan posko pengungsian, dapur umum, fasilitas kesehatan dan terus melakukan pencarian kepada warga yang diduga hanyut oleh aliran banjir. 
+
+(shf) 
+</TEXT>
+
+</TimeML>

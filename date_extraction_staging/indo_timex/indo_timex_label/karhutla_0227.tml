@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0227</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-28" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-28</TIMEX3></DCT>
+
+<TITLE>Kebakaran Hutan di Lebong dan RL</TITLE>
+
+<TEXT>
+Warga Kelurahan Kampung Gandung Kecamatan Lebong Utara, dihebohkan dengan kepulan asap, akibat kebakaran hutan dan lahan yang berada di kawasan mereka. 
+
+Akibat hal tersebut, setidaknya 1,5 hektar hutan dan lahan terbakar. 
+
+Kebakaran sendiri baru diketahui warga <TIMEX3 tid="t1" type="TIME" value="2019-08-27T15:00">sekitar pukul 15.00 WIB kemarin</TIMEX3> (27/8). 
+
+Terbakarnya hutan dan lahan ini diketahui akibat perbuatan salah seorang warga Desa Lebong Tambang, bernama Sunardi (42), yang ingin membuka lahan untuk perkebunan miliknya. 
+
+Akan tetapi karena rerumputan telah banyak kering akibat <TIMEX3 tid="t2" type="DATE" value="2019-SU">musim kemarau</TIMEX3> yang terjadi sejak <TIMEX3 tid="t3" type="DATE" value="2019-06-28">2 bulan yang lalu</TIMEX3>, api cepat menjalar sehingga pembuka lahan tidak sanggup memadamkan api sendirian. 
+
+Sementara itu, mengetahui api semakin membasar dan khawatir dapat menjalar ke perkebunan dan perumahan, akhirnya warga melaporkan hal tersebut ke pihak TNI dan Polsek Lebong Utara. 
+
+Koramil 01 Lebong Utara yang dipimpin oleh Perwira Penghubung (Pabung) Kodim <TIMEX3 tid="t4" type="DATE" value="UNKNOWN">0409</TIMEX3> Rejang Lebong (R/L), Kapten Inf Yon Arison serta Polsek Lebong Utara dipimpin oleh Kapolsek Iptu Firmansyah bersama anggota, langsung mencoba memadamkan api. 
+
+Sementara itu, untuk membantu memadamkan api, sebanyak 2 unit mobil Pemadam Bahaya Kebakaran (PBK) milik Dinas Satuan Polisi Pamong Praja (Dis Satpol PP) dan 10 orang petugas ikut dikerahkan. 
+
+Setalah bekerja cukup lama, akhirnya api mampu dipadamkan dan beruntung sisa-sisa api yang masih menyala, mati karena pada <TIMEX3 tid="t5" type="TIME" value="2019-08-27TAF">sore kemarin</TIMEX3>, Kabupaten Lebong diguyur hujan. 
+
+Kepala Dinas Satpol PP Kabupaten Lebong, Zainal Husni Toha SH MM melalui Kepala Bidang (Kabid) Ketertiban Umum dan Ketentraman Masyarakat, Adrian Aristiawan SH, mengatakan, <TIMEX3 tid="t6" type="DATE" value="PAST_REF">beberapa waktu yang lalu</TIMEX3> pihaknya telah mengirmkan surat kepada seluruh camat yang ada di Kabupaten Lebong, untuk menyampaikan agar setiap warga yang akan membakar lahan maupun lahan pribadi harus melapor ke pemerintah desa atau kelurahan terlebih <TIMEX3 tid="t7" type="DATE" value="PAST_REF">dahulu</TIMEX3>. 
+
+Sementara di Kabupaten Rejang Lebong, kasus kebakaran hutan dan lahan (Kahutla) juga sering terjadi dalam <TIMEX3 tid="t8" type="DURATION" value="P1M">satu bulan</TIMEX3> terakhir. 
+
+Selama <TIMEX3 tid="t9" type="DATE" value="2019-08">bulan Agustus ini</TIMEX3> saja, Dinas Pemadam Kebakaran Kabupaten Rejang Lebong mencatat setidaknya ada delapan kasus Kahutla di Kabupaten Rejang Lebong. 
+
+Memang dalam <TIMEX3 tid="t10" type="DURATION" value="P1M">satu bulan</TIMEX3> terakhir kasus kebakaran di Rejang Lebong terutama kasus kebakaran hutan dan lahan sering terjadi, sampai Kepala Dinas Pemadam Kebakaran Kabupaten Rejang Lebong, Drs Sumardi MSi melalui Sekretaris Dinas, Ridwan saat dikonfirmasi <TIMEX3 tid="t11" type="DATE" value="2019-08-27">Selasa (27/8) kemarin</TIMEX3>. 
+
+Dijelaskan Ridwan, kebakaran hutan dan lahan yang pertama terjadi di <TIMEX3 tid="t12" type="DATE" value="2019-08">bulan Agustus ini</TIMEX3> terjadi pada <TIMEX3 tid="t13" type="DATE" value="2019-08-20">Selasa (20/8) kemarin</TIMEX3> yaitu api membakar rumpun bambu yang ada di Desa Kampung Delima Kecamatan Curup Timur. 
+
+Kemudian kejadian kedua terjadi pada <TIMEX3 tid="t14" type="DATE" value="2019-08-22">Kamis (22/8)</TIMEX3> di Desa Muara Telita Kecamatan Padang Ulak Tanding. 
+
+Selanjutnya kebakaran terjadi pada <TIMEX3 tid="t15" type="DATE" value="2019-08-23">Jumat (23/8)</TIMEX3> di Desa Pal 8 Kecamatan Bermani Ulu Raya yaitu api membakar lahan warga seluas <TIMEX3 tid="t16" type="DATE" value="2019-04-01">1/4</TIMEX3> hektar, dihari yang sama juga api juga membakar 300 meter persegi hutan pinus yang ada di kawasan Hutan Madapi di Desal Pal 8 Kecamatan Bermani Ulu Raya. 
+
+Selanjutnya Kahutla kembali terjadi pada <TIMEX3 tid="t17" type="DATE" value="2019-08-24">Sabtu (24/8)</TIMEX3> di Desa Tebat Tenong Luar Kecamatan Bermani Ulu Raya. 
+
+Di Desa Tebat Tenong Luar ini api membakar lahan kosong yang ada di samping Kantor Camat Bermani Ulu Raya. 
+
+Kemudian pada <TIMEX3 tid="t18" type="DATE" value="2019-08-25">Hari Minggu (25/8) kemarin</TIMEX3> terjadi dua kebakaran lahan di Kecamatan Padang Ulak Tanding yaitu Desa Muara Telita dan di Trans Guru Agung. 
+
+Untuk Muara Telita api membakar semak yang ada dipinggir jalan lintas Curup-Lubuklinggau, sedangkan di trans Guru Agung api membakar lahan warga, kebakaran di Trans Guru Agung ini terjadi karena adanya aktivitas pembukaan lahan. 
+
+Kemudian kebakaran hutan dan lahan yang terakhir terjadi pada <TIMEX3 tid="t19" type="TIME" value="2019-08-26TNI">Senin (26/8) malam kemarin</TIMEX3> yaitu di Desa Kampung Melayu Kecamatan Bermani Ulu, dalam kejadian ini api membakar lahan palawija milik salah satu warga. 
+
+Dari sejumlah kejadian kebakaran ini, semua api bisa segera kita padamkan dan tidak ada korban jiwa, papar Ridwan. 
+
+(251/614) 
+</TEXT>
+
+</TimeML>

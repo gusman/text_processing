@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0047</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-15" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-15</TIMEX3></DCT>
+
+<TITLE>Kebakaran di Bukit Abang Meluas, Warga Terunyan Khawatir Longsoran Material</TITLE>
+
+<TEXT>
+Kebakaran hutan yang terjadi di lereng Bukit Abang tepatnya di Munduk Tanggun Titi dan Munduk Cemara Landung, Desa Terunyan sejak <TIMEX3 tid="t1" type="TIME" value="2018-10-13TAF">Sabtu (13/10) sore</TIMEX3>, meluas. 
+
+Cuaca panas ditambah kencangnya angin membuat api dengan cepat merembet ke kawasan hutan lainnya. 
+
+Hingga <TIMEX3 tid="t2" type="DATE" value="2018-10-15">Senin (15/10)</TIMEX3>, kebakaran belum bisa dikendalikan lantaran medan menuju lokasi sangat terjal. 
+
+Warga bersama petugas terus memantau kondisi lahan hutan yang terbakar dan mengantisipasi kebakaran merembet mendekati rumah penduduk. 
+
+Perbekel Desa Terunyan Wayan Arjana saat dihubungi mengatakan, hingga <TIMEX3 tid="t3" type="TIME" value="2018-10-14TAF">siang kemarin</TIMEX3> kebakaran hutan di lereng Bukit Abang belum bisa dipadamkan. 
+
+Kebakaran bahkan meluas hingga ke kawasan hutan di perbatasan wilayah Abang Batudinding. 
+
+Api sulit dikendalikan lantaran lokasi hutan yang terbakar sangat terjal dan sulit dijangkau warga dan petugas. 
+
+Meski lokasi kebakaran cukup jauh dari pemukimman penduduk, namun warganya bersama petugas terus bersiaga memantau kebakaran serta mencegah agar api tak sampai merembet mendekati rumah penduduk. 
+
+Lokasi kebakaran cukup jauh dari pemukiman, ujarnya. 
+
+Arjana mengungkapkan, yang <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> dikhawatirkan warga dari peristiwa kebakaran hutan adalah dampak yang ditimbulkan saat musim penghujan <TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">nanti</TIMEX3>. 
+
+Sebagaimana pengalaman <TIMEX3 tid="t6" type="DATE" value="2014-10-15">empat tahun lalu</TIMEX3>, kebakaran hutan yang terjadi di wilayah Terunyan menyebabkan lahan hutan di lereng bukit menjadi gundul. 
+
+Kondisi itu memicu terjadinya banjir dan longsoran material pasir serta bebatuan dari atas bukit saat musim hujan terjadi. 
+
+Seperti yang terjadi <TIMEX3 tid="t7" type="DATE" value="2014-10-15">empat tahun lalu</TIMEX3>. 
+
+Karena hutannya gundul setelah kebakaran, saat turun hujan material pasir dari atas bukit turun mengenai lahan pertanian. 
+
+Itu yang <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> dikhawatirkan masyarakat, terangnya. 
+
+. 
+
+Dikatakan Jaksa hingga <TIMEX3 tid="t9" type="DATE" value="2018-10-08">Senin kemarin</TIMEX3> kebakaran hutan belum bisa dipadamkan bahkan meluas. 
+
+Jaksa mengatakan kebakaran yang melanda kawasan hutan di Terunyan dikhawatirkan warga akan berdampak pada terjadinya banjir disertai longsor saat musim penghujan <TIMEX3 tid="t10" type="DATE" value="FUTURE_REF">nanti</TIMEX3>. 
+
+Perbekel Desa Abang Batudinding Made Diksa dikonfirmasi terpisah mengaku cukup khawatir dengan kebakaran hutan yang terjadi di lereng bukit Abang. 
+
+Pasalnya, kebakaran yang terjadi sejak <TIMEX3 tid="t11" type="DATE" value="2018-10-13">Sabtu lalu itu</TIMEX3> sudah meluas hingga ke kawasan hutan yang ada di wilayah desanya. 
+
+Rumput-rumput kering di hutan sudah banyak yang terbakar. 
+
+Warga khawatir kebakaran merembet ke pemukiman terlebih sanggah-sanggah warga banyak yang pakai atap duk (ijuk), terangnya. 
+
+Meski khawatir, namun Diksa mengaku warga di desanya tidak bisa berbuat banyak untuk mengendalikan kebakaran hutan. 
+
+Pasalnya lokasi hutan yang terbakar sangat terjal dan sulit dijangkau warga. 
+
+(dayu rina/balipost) 
+</TEXT>
+
+</TimeML>

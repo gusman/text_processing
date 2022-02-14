@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0058</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-20" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-20</TIMEX3></DCT>
+
+<TITLE>Pascagempa 7,0 SR di Lombok Timur, Listrik Padam di Seluruh Lombok</TITLE>
+
+<TEXT>
+Gempabumi dengan kekuatan 7 SR kembali mengguncang Lombok dan daerah sekitarnya. 
+
+BMKG melaporkan gempabumi berkekuatan 7 SR dengan pusat gempa di laut, 30 km timur laut Lombok Timur NTB pada kedalaman 10 km terjadi pada <TIMEX3 tid="t1" type="TIME" value="2018-08-19T21:56">Minggu (19/8) pukul 21.56 WIB</TIMEX3>. 
+
+Gempa tidak berpotensi tsunami. 
+
+Kepala Pusat Data Informasi dan Humas BNPB, Sutopo Nugroho, mengatakan Posko BNPB telah melakukan konfirmasi ke BPBD untuk mengetahui dampak gempa. 
+
+Guncangan gempa dirasakan keras Lombok Timur, Lombok Utara, Sumbawa Barat, Sumbawa Besar, Lombok Barat dan Kota Mataram selama <TIMEX3 tid="t2" type="DATE" value="2017-10-05">5-10</TIMEX3> detik. 
+
+Gempa dirasakan sedang di Bali seperti di Jembrana, Kota Denpasar, Karangasem, Badung, Gianyar, Bangli, Kulungkung dan Buleleng selama <TIMEX3 tid="t3" type="DATE" value="2017-10-05">5-10</TIMEX3> detik. 
+
+Gempa juga dirasakan ringan di Jawa Timur bagian timur dan Makassar. 
+
+Masyarakat panik dan berhamburan keluar rumah di Lombok. 
+
+Sebagian masyarakat histeris karena merasakan guncangan gempa yang lebih keras dibandingkan sebelumnya, sebutnya dalam rilis yang diterima. 
+
+Mereka, lanjutnya, mendengar suara gemuruh yang kemungkinan berasal dari longsoran di perbukitan dan Gunung Rinjani. 
+
+Belum dapat dipastikan dampak gempa karena listrik padam dan komunikasi mati di Lombok Timur. 
+
+Kondisi listik PLN padam di seluruh Lombok. 
+
+Kondisi gelap gulita sehingga menyulitkan untuk memperoleh informasi dampak gempa, paparnya. 
+
+Gubernur NTB, TGH Zainul Madji telah menghimbau pada masyarakat Lombok untuk tetap waspada dan tenang. 
+
+Bagi masyarakat di sekitar Sembalun dan Sambelia Lombok Timur agar menjauhi perbukitan. 
+
+Masyarakat agar menjauhi bangunan dan rumah yang sudah tidak memenuhi standar keamanan. 
+
+Aktivitas pendidikan pada berbagai tingkatan agar diliburkan sampai batas waktu yang ditentukan kemudian. 
+
+Gempa dirasakan keras di Lombok Timur yang paling berdekatan dengan pusat gempa. 
+
+Gempa dirasakan VI MMI di Lombok Timur. 
+
+Berdasarkan laporan dari aparat di Lombok Timur belum dapat dipastikan berapa korban jiwa dan kerusakan. 
+
+Situasi listrik padam. 
+
+Gempa susulan masih terasa. 
+
+Warga mengamankan diri dan mengungsi di lapangan yang ada dan menjauhi bangunan-bangunan. 
+
+Di Kecamatan Sembalun Lombok Timur, evakuasi warga yang sedang dirawat di Pustu Sembalun menuju Rumah sakit Lapangan Yonkes di Lapangan Sembalun. 
+
+Masyarakat juga diarahkan mengungsi di lapangan Sembalun. 
+
+Beberapa rumah dan bangunan roboh. 
+
+Banyak bangunan roboh di Kecamatan Sambelia. 
+
+Masyarakat berkumpul di lapangan dan di tempat yang aman. 
+
+Masyarakat merasakan trauma dengan gempa. 
+
+Kepala BNPB Willem Rampangilei, kata Sutopo, telah berkoordinasi dengan Panglima TNI terkait pengiriman bantuan logistik dan peralatan menyusul gempa susulan 7 SR. 
+
+Pesawat-pesawat Hercules TNI di Lanud Halim Perdanakusuma di Jakarta dan Lanud Abdurahman Saleh di Malang disiapkan untuk mengangkut bantuan.Demikian juga kapal KRI jika diperlukan. 
+
+Menteri BUMN, Rini Soemarno akan lebih meningkatkan operasi pasar beras dan kebutuhan-kebutuhan dasar di Lombok. 
+
+(kmb/balipost) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1103</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-03-27" temporalFunction="false" functionInDocument="CREATION_TIME">2018-03-27</TIMEX3></DCT>
+
+<TITLE>Jalan Silokek Sijunjung Normal Kembali Setelah Tertimbun Longsor 16 Jam</TITLE>
+
+<TEXT>
+Ruas jalan Muaro-Silokek, Kecamatan Sijunjung, Propinsi Sumatera Barat lumpuh total. 
+
+Badan jalan dari dan ke Muaro-Silokek itu tertimbun material longsor selama <TIMEX3 tid="t1" type="DURATION" value="PT16H">16 jam</TIMEX3>. 
+
+Akibat bencana alam itu, akses dari ke Nagari Muaro-Silokek itu otomatis tak bisa dilewati. 
+
+Peristiwa bencana alam longsor yang menimbun badan jalan itu terjadi pada <TIMEX3 tid="t2" type="TIME" value="2018-03-26TNI">Senin (26/3/2018) malam</TIMEX3>. 
+
+Kejadian longsor itu terjadi <TIMEX3 tid="t3" type="TIME" value="2018-03-26T19:30">sekitar pukul 19.30 WIB</TIMEX3>. 
+
+Setelah kami mendapat informasi langsung kelokasi. 
+
+Namun usaha kami <TIMEX3 tid="t4" type="DATE" value="PAST_REF">saat itu</TIMEX3> terbatas lantaran alat seadanya karena tak ada BBM (bahan bakar minyak) untuk alat berat. 
+
+Dan baru <TIMEX3 tid="t5" type="TIME" value="2018-03-26T09:00">jam 09.00 WIB tadi</TIMEX3> dapat BBM itu pun diperoleh dari SPBU Muaro KaLaban, kata Kepala Badan Penanggulangan Bencana Daerah (BPBD) Sijunjung, Hardiwan, SP kepada Jurnal Sumbar, <TIMEX3 tid="t6" type="DATE" value="2018-03-27">Selasa (27/3/2018)</TIMEX3>. 
+
+Disebutkan Hardiwan, untuk kenderaan roda dua sekitar <TIMEX3 tid="t7" type="TIME" value="2018-03-25T22:30">pukul 22.30 WIB tadi malam</TIMEX3> sudah bisa lewat. 
+
+Kalau untuk kenderaan roda empat baru pada <TIMEX3 tid="t8" type="DATE" value="2018-03-27">Selasa (27/3/2018)</TIMEX3> sekitar <TIMEX3 tid="t9" type="TIME" value="2018-03-26T11:00">pukul 11.00 WIB</TIMEX3> bisa melewati jalan tersebut. 
+
+Alhamdullillah sudah kembali normal dan bencana longsor ini sudah kami laporkan ke bupati, wabup dan juga sekda dengan kejadian di tujuh titik, kata Hardiwan. 
+
+Tak hanya di Muaro Silokek, di Taratak Baru Utara, Kecamatan Tanjung Gadang ruas badan jalan kabupaten juga tertimbun longsor. 
+
+Di Taratak Baru Utara bencana longsor terjadi pada <TIMEX3 tid="t10" type="TIME" value="2018-03-26TNI">Senin (26/3/2018) malam</TIMEX3> kisaran <TIMEX3 tid="t11" type="TIME" value="2018-03-26T21:30">pukul 21.30 WIB</TIMEX3>. 
+
+Akibat bencana itu, BPBD dan Kapolsek Tanjung Gadang, Iptu Polisi Zamrinaldi, SH dan masyarakat saling bahu membahu pada <TIMEX3 tid="t12" type="DATE" value="2018-03-27">Selasa (27/3/2018)</TIMEX3> membersihkan badan jalan yang tertimbun longsor. 
+
+Berkat perjuangan tersebut jalan pun bisa dilewati. 
+
+Sayangnya itu tak berlangsung lama. 
+
+<TIMEX3 tid="t13" type="TIME" value="2018-03-26T08:00">Sekitar pukul 08.00 WIB tadi</TIMEX3>, tanah dari atas bukit kembali bergerak dan longsor dan mengakibatkan badan jalan di Taratak Baru Utara itu tertutup total. 
+
+Alhamdulillah baru <TIMEX3 tid="t14" type="TIME" value="2018-03-26T15:00">sekitar pukul 15.00 WIB</TIMEX3> jalan kembali normal, terang Hardiwan. 
+
+Bahkan di Nagari Kampung Dalam perbatasan Nagari Buluhkasok, Kecamatan Lubuktarok juga mengalami bencana alam. 
+
+Ruas jalan di Kampung Dalam itu terban cukup dalam. 
+
+Soal jalan terban di Lubuktarok itu juga sudah kami sampaikan pada bupati, wabup dan sekda, jelas Hardiwan. 
+
+Semua lalulintas di tiga kecamatan itu sudah kembali normal, tambah kepala BPBD Sijunjung itu. 
+
+Saptarius 
+</TEXT>
+
+</TimeML>

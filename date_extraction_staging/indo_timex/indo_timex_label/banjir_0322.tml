@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0322</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-03" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-03</TIMEX3></DCT>
+
+<TITLE>Peduli Korban Banjir, Banser Kab.
+
+Tasik Buka Posko Bantuan</TITLE>
+
+<TEXT>
+Bencana Banjir yang terjadi di Jakarta dan beberapa daerah lainnya di Jawa Barat menyita perhatian banyak pihak. 
+
+Ada banyak yang simpati, empati bahkan peduli terhadap korban banjir. 
+
+Kepedulian ditunjukkan oleh anggota Barisan Ansor Serbaguna (Banser) Kab. 
+
+Tasikmalaya. 
+
+Mereka menunjukkan kepeduliannya dengan membuka posko bantuan untuk korban banjir di Jakarta dan sekitarnya. 
+
+Posko Bantuan ini sudah dibuka sejak <TIMEX3 tid="t1" type="DATE" value="2020-01-02">Kamis</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2020-01-02">2 Januari 2020 kemarin</TIMEX3>. 
+
+Para anggota Banser ini mendirikan tenda di depan Kantor PCNU Kab. 
+
+Tasikmalaya di Jalan Raya Timur Singaparna Badakpaeh Kab. 
+
+Tasikmalaya. 
+
+Tenda ini digunakan sebagai posko penerimaan bantuan. 
+
+Bantuan yang kita terima beragam. 
+
+Mulai dari bantuan uang tunai, pakaian, makanan maupun obat-obatan, kata Kasatkorcab Banser Kab. 
+
+Tasikmalaya, Imam Mudofar, saat ditemui di lokasi, Jum at, <TIMEX3 tid="t3" type="DATE" value="2020-01-03">3 Januari 2020</TIMEX3>. 
+
+Selain mendirikan posko, kata Imam, pihaknya juga menyediakan kotak donasi. 
+
+Dengan memanfaatkan kepadatan kendaraan yang melintas di Jalan Raya Timur Singaparna, anggota Banser dan Denwatser keliling di sekitar jalan raya untuk menerima donasi dari para pengguna jalan. 
+
+Nantinya, lanjut Imam, bantuan yang terkumpul akan diserahkan langsung kepada para korban bencana banjir baik di Jakarta ataupun dibeberapa daerah lainnya di Jawa Barat melalui posko-posko bantuan yang didirikah GP. 
+
+Ansor dan Banser di wilayah setempat. 
+
+Saat terjadi bencana di Kab. 
+
+Tasikmalaya, ada banyak bantuan sebagai bentuk kepedulian terhadap kita terima dari daerah lain. 
+
+Dan <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kita juga melakukan hal serupa untuk saudara-saudara kita yang terkena musibah banjir, katanya. 
+
+
+</TEXT>
+
+</TimeML>

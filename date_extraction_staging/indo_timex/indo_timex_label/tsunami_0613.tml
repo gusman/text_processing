@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0613</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-30" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-30</TIMEX3></DCT>
+
+<TITLE>Mendagri Bantah Ada Penjarahan Toko di Palu</TITLE>
+
+<TEXT>
+Menteri Dalam Negeri (Mendagri) Tjahjo Kumolo membantah pemberitaan sejumlah media online mengenai adanya penjarahan pasca terjadinya gempa bumi dan tsunami di Palu dan Donggala, Sulwesi Tengah, <TIMEX3 tid="t1" type="DATE" value="2018-09-28">Jumat (28/9) lalu</TIMEX3>. 
+
+Mendagri yang kebetulan <TIMEX3 tid="t2" type="DATE" value="PAST_REF">saat itu</TIMEX3> tengah berada di lokasi tempat yang disebut-sebut terjadi penjarahan menjelaskan, <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3> kondisi listrik mati, bandara pun runtuh. 
+
+Halaman di sana jadi tempat pengungsi, dan ada toko yang ikut roboh, makanan dan minumannya berhamburan. 
+
+Kemudian diambil masyarakat. 
+
+Jadi bukan penjarahan, kata Tjahjo dalam siaran persnya di Jakarta, <TIMEX3 tid="t4" type="DATE" value="2018-09-30">Minggu (30/9)</TIMEX3>. 
+
+Menurut Mendagri, saat dirinya meninjau masyarakat korban bencana yang dirawat di rumah sakit, dia melihat mereka perlu bantuan segera. 
+
+Sedangkan, toko-toko tutup. 
+
+Listrik pun padam. 
+
+Untuk itulah, Mendagri dalam rapat koordinasi telah meminta pemda memfasilitasi makanan dan minuman untuk korban gempa. 
+
+Beli minuman makanan di toko yang dijual, berikan <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dulu</TIMEX3> kepada pengungsi dan yang dirawat dirumah sakit, tegas Mendagri. 
+
+Mendagri meminta agar pemda langsung mencari siapa pemilik toko. 
+
+Lalu, membeli makanan tersebut. 
+
+Ini adalah kondisi darurat, dan listrik mati, serta bantuan baru akan masuk pada <TIMEX3 tid="t6" type="TIME" value="2018-09-29TNI">malam hari</TIMEX3> dari daerah tetangga. 
+
+Kondisi darurat makan-minum bantuan belum masuk, toko tutup. 
+
+Ya bantu masyarakat yang perlu makan minum dan saya minta langsung ke gubernur beli minuman dari toko yang tutup. 
+
+Uangnya dari gotong royong, dan Mendagri ikut beli juga, ungkap Tjahjo. 
+
+Intinya, lagi Mendagri, karena dalam keadaan darurat, penanganan yang cepat yang diperlukan. 
+
+Apapun yang bisa dilakukan untuk meringankan warga, harus segera dilakukan. 
+
+Misalnya, Pemda mencari toko yang masih menyediakan bahan makanan dan minuman. 
+
+Ia minta, beli barangnya dengan dana Pemda. 
+
+Harus dikawal oleh Satpol PP dan polisi. 
+
+Baru barang yang sudah dibeli, didistribusikan ke pengungsi dan korban yang dirawat di rumah sakit dengan pengawalan petugas. 
+
+Saya minta cari yang punya toko, beli barangnya <TIMEX3 tid="t7" type="DATE" value="PAST_REF">dulu</TIMEX3>, lalu minta pengawalan Satpol-PP dan Polri kemudian bagikan makanan tersebut, kata Tjahjo. 
+
+BerhamburanTerkait kondisi bandara, Mendagri Tjahjo Kumolo mengemukakan, <TIMEX3 tid="t8" type="DATE" value="PAST_REF">saat itu</TIMEX3> kondisinya dalam keadaan rusak. 
+
+Ada beberapa bangunan yang merupakan fasilitas bandara runtuh karena gempa. 
+
+<TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, listrik juga mati. 
+
+Bandara juga tidak ada yang tunggu. 
+
+Tidak hanya itu, halaman bandara juga difungsikan untuk menampung pengungsi. 
+
+Ya memang ada toko di bandara yang rusak akibat gempa makanan minuman berhamburan kemudian itu diambil masyarakat jadi bukan penjarahan, ungkap Tjahjo. 
+
+Mendagri yang <TIMEX3 tid="t10" type="DATE" value="PAST_REF">saat itu</TIMEX3> tengah ada di bandara, melihat langsung kejadian itu. 
+
+Ia akui, halaman bandara memang penjagaan masih minim. 
+
+Itu yang saya tahu. 
+
+Tidak begitu beritanya katanya. 
+
+(Puspen Kemendagri/ES) 
+</TEXT>
+
+</TimeML>

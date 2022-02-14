@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0966</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-04-10" temporalFunction="false" functionInDocument="CREATION_TIME">2018-04-10</TIMEX3></DCT>
+
+<TITLE>Pemda Kapuas Hulu Salurkan Beras Korban Bencana Banjir ke 10 Kecamatan</TITLE>
+
+<TEXT>
+Pemerintah Daerah Kabupaten Kapuas Hulu, telah menyalurkan bantuan beras kepada korban bencana banjir ke 10 kecamatan di Kapuas Hulu sebanyak 49.997 kilogram, <TIMEX3 tid="t1" type="DATE" value="2018-04-10">Selasa (10/4/2018)</TIMEX3>. 
+
+Acara penyaluran secara simbolis berlangsung di Halaman Kantor Bupati Kapuas Hulu. 
+
+Dihadiri Wakil Bupati Kapuas Hulu dan sejumlah kepala OPD dilingkungan Pemda Kapuas Hulu. 
+
+. 
+
+" Bantuan beras tersebut, didistribusikan ke 10 Kecamatan seperti, kecamatan Kalis, Embaloh Hilir, Embaloh Hulu, Bunut Hilir, Jongkong, Suhaid, Semitau, Bika, Selimbau, Silat Hilir, " ujarnya saat memberikan kata sambutan dalam penyaluran beras bantuan bencana banjir di Kapuas Hulu. 
+
+Wabup juga sangat berharap, adanya bantu sosial ini bisa meringankan dan membantu bagi masyarakat yang terkena musibah banjir di Kapuas Hulu. 
+
+" Kita tahu bahwa, daerah Kapuas Hulu masih sangat rawan akan terjadi bencana banjir, " ungkapnya 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0358</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-04-08" temporalFunction="false" functionInDocument="CREATION_TIME">2019-04-08</TIMEX3></DCT>
+
+<TITLE>Longsor dan Pergerakan Tanah di Cipatat KBB, Eriah Sedang tidur Saat Rumahnya Tertimpa Longsor</TITLE>
+
+<TEXT>
+Tingginya intensitas hujan <TIMEX3 tid="t1" type="DATE" value="PAST_REF">akhir-akhir ini</TIMEX3> membuat sejumlah wilayah di Bandung Barat alami kerusakan, semisal tanah longsor dan pergerakan tanah. 
+
+Badan Penanggulangan Bencana Daerah (BPBD) Bandung Barat melaporkan pada <TIMEX3 tid="t2" type="DATE" value="2019-04-07">Minggu (7/4/2019)</TIMEX3> terjadi longsor dan pergerakan tanah di Desa Citatah, Kecamatan Cipatat. 
+
+Kepala Pelaksana BPBD KBB, Duddy Prabowo melalui petugas lapangannya, Rudi Wibiksana dan Tatang Garnita mengatakan longsor terjadi di Jalan Provinsi, Kampung Cibogo RT <TIMEX3 tid="t3" type="DATE" value="2019-04-03">3/4</TIMEX3>, Desa Citatah, Kecamatan Cipatat. 
+
+Material longsor menimpa satu bangunan yang dihuni oleh satu kepala keluarga. 
+
+" Longsor terjadi pada tebing di Jalan provinsi <TIMEX3 tid="t4" type="TIME" value="2019-04-07T01:00">pukul 01.00</TIMEX3> wib dan menimpa bangunan rumah sekaligus warung milik Agus (61) dan istrinya, Eriah (52). 
+
+Saat longsor Eriah sedang tidur sehingga dia mengalami luka ringan dengan memar di bagian punggung. 
+
+Korban mengungsi di rumah putranya, " katanya di Ngamprah, <TIMEX3 tid="t5" type="DATE" value="2019-04-08">Senin (8/4/2019)</TIMEX3>. 
+
+Bukan hanya bencana longsor, ada pula bencana pergerakan tanah menurut Rudi yang terjadi di Kampung Cilimus RT 3/14, Desa Citatah yang berdampak pada delapan rumah serta mengancam enam rumah. 
+
+" Kami sudah cek lokasi dan memasang rambu peringatan. 
+
+Alhamdulillah, tak ada kejadian hal yang negatif dalam pergerakan tanah ini, " katanya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

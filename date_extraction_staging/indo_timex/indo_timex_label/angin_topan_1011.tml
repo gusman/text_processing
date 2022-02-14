@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1011</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-31" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-31</TIMEX3></DCT>
+
+<TITLE>Pohon Tumbang di Poros Malino Akibat Angin Kencang</TITLE>
+
+<TEXT>
+Hujan deras disertai angin kencang mengakibatkan sebuah pohon besar tumbang hingga menutupi badan jalan. 
+
+Kepolisian Sektor (Polsek) Parangloe terpaksa mendatangkan alat berat guna mengevakuasi pohon tersebut. 
+
+Pohon tumbang tersebut menutupi Jalan poros Malino Km 53 di Kampung Mala lang, Kecamatan Parangloe, Kabupaten Gowa. 
+
+Tak ada korban jiwa dalam peritiwa pohon tumbang tersebut, hanya beberapa pengendara terpaksa berhenti hingga menunggu akses jalan kembali terbuka. 
+
+Kapolsek Parangloe Iptu Kasmawati mengatakan terpaksa mendatangkan alat berat Excapator membersihkan pohon tumbang tersebut agar akses jalan kembali normal. 
+
+Kita terpaksa mendatangkan alat berat milik pengusaha H. 
+
+Rewa di sekitar lokasi kejadian agar akses jalan cepat kembali normal, katanya kepada KabarMakassar. 
+
+com ketika di konfirmasi, <TIMEX3 tid="t1" type="DATE" value="2020-01-31">Jumat (31/1)</TIMEX3>. 
+
+Beberapa personel Polsek Parangloe diturunkan guna mengamankan jalannya evakuasi pohon tumbang serta mengatur lalu lintas. 
+
+Disamping itu sembari menghimbau pengguna jalan untuk tidak terlalu mendekat. 
+
+Kami terus pantau dan mengawasi jalannya evakuasi pohon tumbang ini agar warga tidak terlalu dekat yang bisa membahayakan keselamatannya, ucap Iptu Kasma. 
+
+<TIMEX3 tid="t2" type="DATE" value="PTXM">Beberapa menit kemudian</TIMEX3> akses jalan berhasil dievakuasi dan berjalan lancar. 
+
+Satu persatu kendaraan roda dan roda empat sudah bisa melewati. 
+
+Reporter: Editor: Abdul KadirPrisatno Panji Latief 
+</TEXT>
+
+</TimeML>

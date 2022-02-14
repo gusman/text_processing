@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0100</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-02-15" temporalFunction="false" functionInDocument="CREATION_TIME">2016-02-15</TIMEX3></DCT>
+
+<TITLE>Belum Ada Laporan Kerusakan Tanaman Lada Akibat Banjir</TITLE>
+
+<TEXT>
+Musibah banjir yang melanda saeluruh kabupaten dan kota di Pulau Bangka <TIMEX3 tid="t1" type="DATE" value="2016-02-08">seminggu yang lalu</TIMEX3> dikhawatirkan berdampak terhadap perkebunan lada yang diusahakan masyarakat. 
+
+Namun untuk <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihak Badan Pengelola, Pengembangan dan Pemasaran Lada (BP3L) Babel hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum menerima laporan adanya tanaman lada milik masayarakat yang rusak akibat banjir. 
+
+" Untuk <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kita belum menerima laporannya. 
+
+Kemungkinan banjir tidak berpengaruh karena tidak sampai <TIMEX3 tid="t5" type="DURATION" value="PXD">berhari-hari</TIMEX3> dan airnya cepat terserap tanah, " ungkap Ketua BP3L Babel Zainal Arifin, <TIMEX3 tid="t6" type="DATE" value="2016-02-15">Senin (15/2)</TIMEX3>. 
+
+Menurut Zainal, jika banjir sampai menggenangi kebun lada selama <TIMEX3 tid="t7" type="DURATION" value="PXD">berhari-hari</TIMEX3> dampaknya jelas ada bagi tanaman lada karena akar lada akan membusuk dan tanaman itu selanjutnya mati. 
+
+" 'Nah, banjir yang melanda kan tidak sampai <TIMEX3 tid="t8" type="DURATION" value="PXD">berhari-hari</TIMEX3>, " jelasnya. 
+
+Berkaitan dengan produktifitas lada sendiri, Zainal mengatakan kalaupun tidak terjadi banjir produktifitas lada Babel untuk <TIMEX3 tid="t9" type="DATE" value="2016">tahun ini</TIMEX3> dipastikan menurun dibanding <TIMEX3 tid="t10" type="DATE" value="2015-02-15">tahun sebelumnya</TIMEX3>. 
+
+" Ini karena dampak kemarau panjang. 
+
+Memang <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> daun lada terlihat subur tapi apakah berbuah lebat nantinya, " ujarnya. 
+
+Ditanya mengenai harga lada, Zainal mengatakan untuk <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> harga lada Babel terbilang stabil di kisaran Rp 150.000 per kilo. " Untuk harga lada ini kita dipengaruhu kurs dollar terhadap rupiah yang masih tinggi, " imbuhnya.Terpisah Kepala Desa Bencah Kecamatan Airgegas Heri Purnomo mengaku hingga <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada kebun lada di desa yang terkenal sebagai sentra lada pulau Bangka tersebut rusak akibat banjir. " Kalau yang terbenam banjir ada tapi belum ada yang rusak. 
+
+Entah kalau <TIMEX3 tid="t14" type="DURATION" value="UNKNOWN">dua tiga minggu</TIMEX3> kedepan bagaimana kelihatannya. 
+
+Soalnya kalau terendam air akar lada bisa busuk, " ungkapnya.(wan) 
+</TEXT>
+
+</TimeML>

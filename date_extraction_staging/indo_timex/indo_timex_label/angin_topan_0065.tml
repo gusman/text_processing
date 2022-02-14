@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0065</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-16" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-16</TIMEX3></DCT>
+
+<TITLE>Pohon Tumbang di Dusun Bunut Madya Bangli, Hancurkan Bak Penampungan Air</TITLE>
+
+<TEXT>
+Sebuah bak penampungan air sedalam empat meter di wilayah Dusun Bunut Madya, Desa Terunyan, Kintamani, Bangli, Bali, hancur tertimpa pohon tumbang. 
+
+Kondisi tersebut berdampak pada kesulitan air bagi 35 KK di dusun sekitar. 
+
+Kepala Pelaksana (Kalak) BPBD Bangli, I Ketut Gede Wiredana saat dikonfirmasi, <TIMEX3 tid="t1" type="DATE" value="2020-01-15">Rabu (15/1/2020)</TIMEX3>, membenarkan adanya musibah itu. 
+
+Menurut dia, kejadian pohon tumbang tersebut sejatinya terjadi pada <TIMEX3 tid="t2" type="DATE" value="2020-01-04">Sabtu (4/1/2020)</TIMEX3> sekitar <TIMEX3 tid="t3" type="TIME" value="2020-01-15T21:00">pukul 21.00</TIMEX3> Wita. 
+
+Hanya saja, baru dilaporkan ke BPBD Bangli pada <TIMEX3 tid="t4" type="DATE" value="2020-01-13">Senin (13/1/2020)</TIMEX3>. 
+
+Kejadiannya bertepatan dengan musibah angin kencang pada <TIMEX3 tid="t5" type="DATE" value="2019-01">awal Januari lalu</TIMEX3>, ujarnya. 
+
+Wiredana mengatakan, pohon yang tumbang itu Pohon Aas, dengan panjang mencapai 15 meter, serta berdiameter hampir 2 meter. 
+
+. 
+
+Tumbangnya pohon yang berlokasi di Subak Pangkungan, Dusun Bunut Madya itu juga menyebabkan pohon enau di sekitarnya ikut tumbang. 
+
+// Wiredana menjelaskan, tumbangnya Pohon Aas menimpa bak penampungan air warga berukuran 8x4 meter hingga hancur total. 
+
+Hancurnya bak penampungan air sedalam 4 meter itu secara otomatis mengakibatkan 35 KK sekitar mengalami kesulitan air bersih. 
+
+Ini mengingat bak penampungan tersebut sebelumnya dimanfaatkan warga untuk memenuhi kebutuhan <TIMEX3 tid="t6" type="SET" value="P1D">sehari-harinya</TIMEX3>, baik untuk minum, memasak, mandi, hingga mencuci. 
+
+. 
+
+Sebab oleh warga debit mata air di sekitar cenderung besar ketika <TIMEX3 tid="t7" type="TIME" value="2020-01-15TNI">malam hari</TIMEX3>. 
+
+Sehingga pada <TIMEX3 tid="t8" type="TIME" value="2020-01-16TMO">pagi harinya</TIMEX3> warga tinggal memanfaatkan air yang telah tertampung. 
+
+Namun dengan hancurnya bak tersebut, untuk memenuhi kebutuhan air warga cenderung kesulitan karena harus mengantre. 
+
+Terlebih jarak antara mata air dengan pemukiman warga juga cukup jauh. 
+
+Yakni lebih dari 1 kilometer, bebernya. 
+
+Wiredana menambahkan, pihaknya telah berupaya melakukan evakuasi material pohon. 
+
+Empat alat berupa gergaji mesin seluruhnya dibawa untuk proses evakuasi. 
+
+Namun mengingat besarnya pohon yang ditangani, penanganan membutuhkan waktu hampir mencapai <TIMEX3 tid="t9" type="DURATION" value="P1D">satu hari</TIMEX3> penuh. 
+
+Itupun sudah melibatkan masyarakat sekitar. 
+
+<TIMEX3 tid="t10" type="TIME" value="2020-01-15T15:30">Sekitar pukul 15.30</TIMEX3> wita saya cek, proses penanganan masih berlangsung. 
+
+Mudah-mudahan <TIMEX3 tid="t11" type="DATE" value="2020-01-16">hari ini</TIMEX3> bisa selesai. 
+
+Musibah ini tidak mengakibatkan korban jiwa, namun kerugian materiil diperkirakan mencapai Rp 200 juta, ucapnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

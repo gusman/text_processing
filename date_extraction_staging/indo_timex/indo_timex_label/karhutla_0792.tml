@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0792</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-01" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-01</TIMEX3></DCT>
+
+<TITLE>TNI Kirim Bantuan, Bagaimana Kondisi Terkini Kebakaran Hutan di Australia?</TITLE>
+
+<TEXT>
+TNI telah memberangkatkan Satuan Tugas (Satgas) Garuda RI untuk membantu pemadaman kebakaran hutan dan lahan di Australia pada <TIMEX3 tid="t1" type="DATE" value="2020-02-01">Sabtu (1/2/2020)</TIMEX3>. 
+
+Satgas Garuda RI terdiri 44 orang. 
+
+Personel TNI sebanyak 41 orang terdiri dari tiga orang Tim LO berasal dari Angkatan Udara (AD) dan satu dari Angkatan Udara (AU). 
+
+Selain itu, ada Tim Zeni Konstruksi sebanyak 36 orang dengan rincian 26 orang TNI AD (menzikon), enam orang TNI AL (yonmar), dan empat orang TNI AU (disfaksonau). 
+
+Selain TNI, ada juga satu orang berasal dari Kementerian Luar Negeri dan dua orang dari BNPB. 
+
+Sehingga total menjadi 44 orang. 
+
+Panglima TNI Marsekal Hadi Tjahjanto mengatakan, sudah seharusnya Indonesia memberikan bantuan kepada Australia. 
+
+Kebakaran tersebut menjadi yang terburuk di Australia dalam <TIMEX3 tid="t2" type="DURATION" value="P2DE">dua dekade</TIMEX3> terakhir. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, kebakaran hutan bahkan mulai mengancam Ibu kota Australia, Canbera dan daerah sekitarnya. 
+
+// Dengan kondisi itu, pihak berwenang Ibu Kota Cambera telah menyatakan keadaan darurat, dikutip dari <TIMEX3 tid="t4" type="DATE" value="2020-01-31">(31/1/2020)</TIMEX3>. 
+
+Menteri Utama Canberra Andrew Barr mengatakan, Canberra dalam kondisi siaga tinggi karena kebakaran hutan sudah melahap 8 persen dari total daratan di wilayahnya. 
+
+" Canberra <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> menghadapi ancaman kebakaran hutan dan lahat terburuk sejak kebakaran hebat <TIMEX3 tid="t6" type="DATE" value="2003">tahun 2003</TIMEX3>, " kata Barr. 
+
+" Kombinasi panas eksteim, angin, dan landskap wilayah yang kering akan membuat pinggiran kota di selatan Canberra dalam bahaya <TIMEX3 tid="t7" type="DATE" value="PXD">beberapa hari mendatang</TIMEX3>, " lanjut dia. 
+
+. 
+
+New South Wales juga telah mengumumkan keadaan darurat selama <TIMEX3 tid="t8" type="DURATION" value="P7D">tujuh hari</TIMEX3>, terhitung sejak <TIMEX3 tid="t9" type="DATE" value="2020-01-30">Jumat (30/1/2020)</TIMEX3>. 
+
+Pemerintah juga bersiap untuk memulai evakuasi warga dari daerah terdampak. 
+
+Perdana Menteri New South Wales Gladys Berejiklian mengatakan, kondisi darurat tersebut dikeluarkan karena kondisi cuaca diperkirakan akan memburuk secara signifikan pad <TIMEX3 tid="t10" type="DATE" value="2020-02-01">Sabtu (1/2/2020)</TIMEX3>. 
+
+" Kami ingin memastikan kami mengambil setiap tindakan pencegahan untuk bersiap menghadapi hari yang mengerikan pada <TIMEX3 tid="t11" type="DATE" value="2020-02-01">hari Sabtu</TIMEX3>, " katanya, dilansir dari, <TIMEX3 tid="t12" type="DATE" value="2020-02-01">Sabtu (1/2/2020)</TIMEX3>.Ini merupakan pengumuman kondisi darurat ketiga kalinya bagi New South Wales, setelah sebelumnya dikeluarkan pada <TIMEX3 tid="t13" type="DATE" value="2019-11">November</TIMEX3> dan <TIMEX3 tid="t14" type="DATE" value="2019-12">Desember</TIMEX3>. 
+
+// Ribuan orang telah meninggal pesisir selatan negara itu pada <TIMEX3 tid="t15" type="DATE" value="2020-01-30">Kamis (30/1/2020)</TIMEX3>. 
+
+. 
+
+Bandara Canberra juga sempat ditutup karena ancapan api di sekitarnya, seperti diberitakan <TIMEX3 tid="t16" type="DATE" value="2020-01-31">Jumat (31/1/2020)</TIMEX3>. 
+
+Pada <TIMEX3 tid="t17" type="DATE" value="2020-02-01">hari yang sama</TIMEX3>, tiga petugas pemadam kebakaran Amerika Serikat tewas setelah pesawat mereka jatuh di zona kebakaran dekat kota. 
+
+<TIMEX3 tid="t18" type="DATE" value="2020-W05">Awal minggu ini</TIMEX3>, sejumlah foto langit merah akibat kebakaran hutan telah tersebar luas di media sosial. 
+
+
+</TEXT>
+
+</TimeML>

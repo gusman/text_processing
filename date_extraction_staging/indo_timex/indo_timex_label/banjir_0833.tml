@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0833</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-10" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-10</TIMEX3></DCT>
+
+<TITLE>3 Kecamatan di Gresik Masih Dilanda Banjir</TITLE>
+
+<TEXT>
+Banjir masih menggenangi tiga kecamatan di Kabupaten Gresik, Jawa Timur, <TIMEX3 tid="t1" type="DATE" value="2019-03-10">Minggu (10/3/2019)</TIMEX3>, yakni kecamatan Dukun, Bungah dan Kecamatan Manyar. 
+
+Di Kecamatan Dukun, banjir melanda enam desa, antara lain Desa Bangeran, Gedong Kedokan, Bulangan, Lowayu, Madumulyorejo, Jrebeng, dan Dukunanyar. 
+
+" Untuk di Desa Bangeran, jalan poros desa masih tergenang air sepanjang 800 meter dengan ketinggian 50 centimeter. 
+
+sementara area persawahan dan tambak yang tergenang seluas 8 hektar. 
+
+Tempat pemakaman umum juga terendam air setinggi 40 centimeter, " jelas Kepala Badan Pengendalian Bencana Daerah (BPBD) Gresik, Tarso Sagito, saat dihubungi, <TIMEX3 tid="t2" type="TIME" value="2019-03-10TAF">Minggu (10/3/2019) sore</TIMEX3>. 
+
+Sementara di Desa Gedong Kedokan, jalan poros desa tergenang sepanjang 400 meter dengan ketinggian 25 hingga 30 centimeter dan area persawahan yang tergenang mencapai 9 hektar. 
+
+Tempat pemakaman di wilayah itu juga tergenang air setinggi 30 hingga 45 centimeter. 
+
+. 
+
+" Untuk Dusun Kaliagung ada area persawahan yang masih tergenang seluas 9 hektar. 
+
+Sedang di Desa Lowayu, area persawahan dan tambak yang tergenang seluas 15 hektar. 
+
+Untuk Desa Madumulyorejo ada satu rumah yang terendam dengan ketinggian 5 hingga 10 centimeter dan jalan desa setempat dengan ketinggian air yang sama sepanjang 10 meter, " kata Tarso. 
+
+Lalu di Desa Jrebeng, masih terdapat dua rumah terendam baniir dengan ketinggian 10 hingga 15 centimeter dan jalan desa sepanjang 15 meter. 
+
+Di Desa Dukunanyar, jalan poros desa masih tergenang banjir sepanjang 600 meter. 
+
+Selain di Kecamatan Dukun, banjir juga masih melanda Kecamatan Bungah. 
+
+Di Dusun Karangpoh, ada satu warung dan dua rumah dan persawahan seluas 4 hektar tergenang.Sementara di Dusun Bungah masih di Kecamatan Bungah, ada tujuh rumah tergenang banjir. 
+
+Lalu di Dusun Nongkokerep ada delapan rumah dan di Dusun Kaliwot ada sembilan rumah terkena banjir.Sementara di Kecamatan Manyar, banjir masih merendam sebagian Desa Sembayat. 
+
+Tepatnya, di Dusun Sembayat Timur, tiga rumah dan satu warung tergenang air setinggi 20 hingga 40 centimeter. 
+
+. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Kini</TIMEX3> banjir mulai surut, terutama di Kecamatan Cerme dan Driyorejo. " Sampai dengan <TIMEX3 tid="t4" type="TIME" value="2019-03-09TAF">siang tadi</TIMEX3>, <TIMEX3 tid="t5" type="TIME" value="2019-03-09T12:00">pukul 12.00 WIB</TIMEX3>. 
+
+Laporan (banjir) tinggal beberapa desa di Kecamatan Manyar, Bungah, serta Dukun, yang masih tergenang air, " ujar Tarso. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0199</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-03-26" temporalFunction="false" functionInDocument="CREATION_TIME">2016-03-26</TIMEX3></DCT>
+
+<TITLE>Bencana Longsor Terjadi Berulang di Banjarnegara, Ratusan Orang Terpaksa Mengungsi</TITLE>
+
+<TEXT>
+Kepala Pusdatin dan Humas Badan Nasional Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho mengatakan, 158 jiwa mengungsi akibat bencana longsor di Desa Clapar, Banjarnegara, Jawa Tengah. 
+
+" Untuk kali kesekian, longsor kembali terjadi di Desa Clapar, Kecamatan Madukara, Banjarnegara, pada <TIMEX3 tid="t1" type="TIME" value="2016-03-24T19:00">Kamis pukul 19.00 WIB</TIMEX3>. 
+
+Kemudian, longsor kedua di tempat yang sama pada <TIMEX3 tid="t2" type="TIME" value="2016-03-25T01:30">Jumat pukul 01.30 WIB</TIMEX3>, disusul longsor ketiga pada <TIMEX3 tid="t3" type="TIME" value="2016-03-25T06:00">06.00 WIB</TIMEX3>, " kata Sutopo lewat keterangan tertulis yang diterima di Jakarta, <TIMEX3 tid="t4" type="DATE" value="2016-03-25">Jumat (25/3/2016)</TIMEX3>. 
+
+Ia menyatakan, menurut kondisi geologi dan topografinya, daerah tersebut secara alamiah memang mudah longsor. 
+
+Longsor terjadi pada area yang cukup luas, yaitu lima hektar tanah yang bergerak sejauh 1,2 kilometer. 
+
+Tipe longsoran yang terjadi adalah longsoran merayap (soil creep) yang bergerak secara perlahan-lahan sehingga masyarakat dapat mengantisipasi dengan melakukan evakuasi. 
+
+Bencana tersebut, kata dia, terjadi berulang. 
+
+Pada <TIMEX3 tid="t5" type="TIME" value="2016-03-25TMO">Jumat pagi</TIMEX3>, terhitung sembilan rumah rusak berat, tiga rumah rusak sedang, dua rumah rusak ringan, dan 29 rumah terancam longsor susulan. 
+
+Sebanyak 158 jiwa warga RT <TIMEX3 tid="t6" type="DATE" value="2015-05-03">3-5</TIMEX3> di RW I mengungsi ke SD 2 Clapar, Madukara.Sebanyak 300 personel gabungan dari BPBD Kabupaten Banjarnegara, kata dia, bersama Kodim <TIMEX3 tid="t7" type="DATE" value="UNKNOWN">0704</TIMEX3> Banjarnegara, Polres Banjarnegara, Banser, PMI, Tagana, Bela Negara, dan relawan membantu evakuasi warga ke tempat yang aman.Gubernur Jawa Tengah telah memerintahkan BPBD Provinsi Jawa Tengah dan BPBD terdekat, seperti BPBD Kabupaten Wonosobo, Banyumas, Purbalingga, dan Cilacap membantu evakuasi dan pemenuhan kebutuhan dasar bagi pengungsi. " Logistik dan peralatan dikerahkan ke lokasi. 
+
+Posko penting, seperti pengungsian dan dapur umum, telah didirikan, " katanya.Sutopo mengatakan, menurut kondisi terkini, tanah terus bergerak, dipicu oleh hujan yang turun <TIMEX3 tid="t8" type="DURATION" value="UNKNOWN">seharian</TIMEX3>. 
+
+Listrik dimatikan, dan akses jalan utama Kabupaten Banjarnegara Pagentan melalui Madukara terputus total.Daerah di sekitar longsor dikosongkan untuk mengantisipasi longsor susulan, mengingat area longsor cukup luas. " Dengan kondisi seperti itu, wilayah ini sudah tidak layak untuk menjadi permukiman karena tanah sangat labil dan membahayakan. 
+
+Masyarakat diimbau untuk terus meningkatkan kesiapsiagaan. 
+
+Curah hujan berintensitas tinggi masih berpotensi terjadi di beberapa wilayah, seperti Jawa, sebagian Sumatera bagian selatan, Sulawesi, dan Papua. 
+
+Ancaman banjir, longsor, dan puting beliung masih tinggi, " kata dia. 
+
+(kontan/Tri Wahono) 
+</TEXT>
+
+</TimeML>

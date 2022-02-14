@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1074</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-05" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-05</TIMEX3></DCT>
+
+<TITLE>1.047 Jenazah Korban Gempa dan Tsunami Sudah Dimakamkan Massal</TITLE>
+
+<TEXT>
+Sebanyak 1.047 jenazah korban tewas akibat gempa dan tsunami di Sulawesi Tengah (Sulteng) sudah dimakamkan secara massal di TPU Paboya, Kota Palu. 
+
+Hal tersebut dilakukan Yang dimakamkan, data yang <TIMEX3 tid="t1" type="DATE" value="2018-10-04">kemarin</TIMEX3> kita sampaikan 1.047 jenazah sudah dimakamkan semuanya, kata Kepala Pusat Data Informasi dan Hubungan Masyarakat BNPB Sutopo Purwo Nugroho di Kantor BNPB, Jakarta Timur, <TIMEX3 tid="t2" type="DATE" value="2018-10-04">Kamis (4/10)</TIMEX3>. 
+
+Sutopo menjelaskan, jumlah korban luka berat 2.549 orang sudah berada di rumah sakit. 
+
+Menurut dia, sebagian korban dirawat di luar Kota Palu. 
+
+Tapi, pelayanan rumah sakit dan tenaga medis di lokasi bencana terus ditingkatkan. 
+
+Hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, lanjut dia, tercatat korban hilang mencapai 113 orang. 
+
+Sedangkan, korban tertimbun mencapai 152 orang. 
+
+Ini di luar wilayah Petobo, Balaroa, Desa Sidera, Biromaru, Jono Oge, yang tenggelam akibat likuifaksi, pungkasnya dikutip dari. 
+
+
+</TEXT>
+
+</TimeML>

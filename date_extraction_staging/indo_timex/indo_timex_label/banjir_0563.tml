@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0563</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-17" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-17</TIMEX3></DCT>
+
+<TITLE>Bank Kalsel Batulicin Beri Bantuan Korban Banjir di Kabupaten Tanah Bumbu</TITLE>
+
+<TEXT>
+Bank Kalsel Cabang Batulicin menyerahkan sejumlah bantuan untuk membantu meringankan para korban banjir di Kabupaten Tanah Bumbu (Tanbu), <TIMEX3 tid="t1" type="DATE" value="2019-06-14">Jumat (14/6/2019)</TIMEX3>. 
+
+Bantuan diserahkan secara langsung Pgs Kepala Cabang Bank Kalsel Tanbu, Azis Nurhakim kepada tokoh masyarakat di halaman Mesjid Al Harah Desa Bakarangan, Kecamatan Kusan Hulu. 
+
+Bantuan yang diserahkan berupa puluhan dus mie instan dan minyak kayu putih. 
+
+Pemberian bantuan yang dihadiri Bupati Tanbu, H Sudian Noor, Ketua TP PKK Tanbu, Hj Sadariah Sudian Noor, Kepala BPBD, H Eryanto Rais dan Camat Kusan Hulu, Herlambang. 
+
+Diharapkan dengan bantuan mie instan dan minyak kayu putih ini merupakan wujud kepedulian Bank Kalsel terhadap masyarakat yang terkena dampak dari bencana banjir dan diharapkan dapat membantu meringankan beban para korban bencana banjir di Kecamatan Kusan Hulu, terutama di Desa Bakarangan, kata Pgs Kepala Cabang Bank Kalsel Tanbu Azis Nurhakim. 
+
+Menurut Camat Kusan Hulu Herlambang, kondisi banjir dan cuaca yang relatif dingin di sekitar lokasi banjir dapat mengakibatkan gangguan kesehatan para korban banjir dan juga relawan sehingga rutinitas pekerjaan menjadi terhambat dan terganggu. 
+
+Herlambang mengucapkan, terimakasih atas bantuan dan kepedulian yang diberikan Bank Kalsel kepada para korban bencana banjir khususnya di Kecamatan Kusan Hulu. 
+
+Semoga bantuan ini dapat bermanfaat untuk meringankan beban para korban bencana banjir, ujarnya. 
+
+ida/IB 
+</TEXT>
+
+</TimeML>

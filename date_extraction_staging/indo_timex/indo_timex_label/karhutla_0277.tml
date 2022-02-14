@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0277</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-16</TIMEX3></DCT>
+
+<TITLE>Senin 16 September 2019 Malam Kualitas Udara Pekanbaru Capai Level Berbahaya</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2019-09-16">Hari ini</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2019-09-16">Senin (16/9/2019)</TIMEX3> kualitas udara di Pekanbaru berada di level berbahaya. 
+
+Melansir bmkg. 
+
+go. 
+
+id, hingga <TIMEX3 tid="t3" type="TIME" value="2019-09-15T21:00">pukul 21.00</TIMEX3>, grafik kondisi Partikel udara yang berukuran lebih kecil dari 10 mikron (mikrometer) menujukkan peningkatan. 
+
+Tiga Pesawat semai Garam, Lakukan Modifikasi CuacaKemungkinan kebakaran hutan dan lahan (Karhutla) masih akan terjadi sampai <TIMEX3 tid="t4" type="DATE" value="2019-10">akhir Oktober 2019 mendatang</TIMEX3>. 
+
+BMKG pada konferensi pers di BNPB dan Gubernuran Riau <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">kemarin (14/09/2019)</TIMEX3> menyebutkan bahwa <TIMEX3 tid="t6" type="DATE" value="2019-SU">musim kemarau</TIMEX3> di wilayah Riau masih akan terjadi sampai <TIMEX3 tid="t7" type="DATE" value="2019-10">pertengahan Oktober 2019</TIMEX3>. 
+
+Sedang di wilayah lain bisa sampai <TIMEX3 tid="t8" type="DATE" value="2018-10">akhir Oktober</TIMEX3> atau <TIMEX3 tid="t9" type="DATE" value="2019-11">Awal November 2019</TIMEX3>. 
+
+Pessawat Cassa 212-200 dengan kapasitas 1 ton sudah beroperasi di Riau sejak bulan 26 <TIMEX3 tid="t10" type="DATE" value="2019-02">Februari 2019</TIMEX3>. 
+
+" Untuk memperkuat armada TMC Pemerintah menambah 1 pesat CN 295 dengan kapasitas 2.4 ton yang sudah berada di Pekanbaru dan 1 Hercules dengan kapasitas 5 ton yang direncanakan datang di Pekanbaru pada <TIMEX3 tid="t11" type="DATE" value="UNKNOWN">hari Senin besok</TIMEX3>, " ungkap Plt Kapusdatinmas, Agus Wibowo dalam keterangan tertulisnya. 
+
+Operasi TMC sangat tergantung dengan keberadaan awan potensial hujan yang secara rutin diperkirakan oleh BMKG.Seluruh pesawat dalam kondisi siaga dan jika terdapat potensi awan makan akan segera terbang untuk menyemai awan agar menjadi hujan. 
+
+// BMKG memperkirakan bahwa pertumbuhan awan berasal dari arah utama, sehingga <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sebagian wilayah Indonesia di sebelah utara seperti Aceh dan Sumatera Utara sudah mulai hujan. 
+
+" Pada <TIMEX3 tid="t13" type="DATE" value="2019-09-16">hari ini</TIMEX3> terdapat potensi awan sedang di wilayah Riau dan Tim masih menunggu sampai pertumbuhan awan potensial cukup banyak dan kemudian dilakukan operasi TMC, " lanjutnya. 
+
+Pesawat CN 295 merupakan pesawat terbang transpor militer taktis dengan 2 mesin turboprop dan diawaki oleh 2 personil. 
+
+Pesawat ini bisa digunakan untuk mengangkut pasukan, evakuasi medis atau angkutan barang. 
+
+" Untuk keperluan TMC CN 295 dikonfigurasi agar dapat mengangkut bahan semai dengan kapasitas 2.4 ton, " terang Agus Wibowo. 
+
+Bagian perut pesawat dimodifikasi dengan dipasang rel untuk mengangkut 8 x 300 kg bahan semai yang dengan pipa untuk menabur bahan semai secara semi otomatis. 
+
+Saat pesawat terbang sampai di awan yang potensial hujan maka petugas membuka kran dan garam akan keluar melalui pipa untuk menaburi awan dengan garam. 
+
+Bahan semai garam NaCl akan mengikat butiran-butiran air dalam awan, kemudian menggumpal menjadi berat dan akhirnya jatuh menjadi hujan. 
+</TEXT>
+
+</TimeML>

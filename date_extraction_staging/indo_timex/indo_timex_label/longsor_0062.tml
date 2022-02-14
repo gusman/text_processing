@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0062</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-11" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-11</TIMEX3></DCT>
+
+<TITLE>Hujan Deras Seharian, Tembok dan Kandang Babi Longsor</TITLE>
+
+<TEXT>
+Hujan deras yang mengguyur wilayah Bangli selama <TIMEX3 tid="t1" type="DURATION" value="UNKNOWN">seharian</TIMEX3> Jumat <TIMEX3 tid="t2" type="DATE" value="2018-08-10">(10/8)</TIMEX3> menyebabkan tembok penyengker rumah dan kandang babi milik warga di Kelurahan Bebalang Bangli amblas tergerus longsor. 
+
+Akibat musibah itu pemilik rumah mengalami kerugian hingga ratusan juta rupiah. 
+
+Informasi yang dihimpun <TIMEX3 tid="t3" type="DATE" value="2018-08-11">Sabtu (11/8)</TIMEX3> menyebutkan, warga yang rumahnya mengalami longsor yakni I Wayan Wija. 
+
+Peristiwa longsor diketahui terjadi <TIMEX3 tid="t4" type="TIME" value="2018-08-10T02:12">sekitar pukul 02.12</TIMEX3> wita. 
+
+Longsor yang terjadi menyeret tembok penyengker sepanjang 30 meter. 
+
+Tak hanya itu empat lokal kandang ternak yang berisi empat ekor babi yang ada didekatnya ikut ambrol. 
+
+Kasubag Humas Polres Bangli AKP Sulhadi saat dikonfirmasi mengatakan musibah longsor menyebabkan pemiliknya mengalami kerugian hingga Rp 150 juta. 
+
+Selain di rumah Wayan Wija, hujan deras yang mengguyur <TIMEX3 tid="t5" type="DURATION" value="UNKNOWN">seharian</TIMEX3> juga mengakibatkan pondasi tembok sanggah milik warga lainnya Wayan Setop Indrawan ambles. 
+
+Akibat kejadian itu kerugian ditaksir mencapai Rp 50 juta. 
+
+. 
+
+Dikatakan Agus, tidak ada korban akibat kejadian itu. 
+
+Senderan rumahnya aman. 
+
+Pemilik rumah sudah kita sarankan untuk tetap waspada berkenaan masih hujan, kata Agus. 
+
+(Dayu Swasrina/balipost) 
+</TEXT>
+
+</TimeML>

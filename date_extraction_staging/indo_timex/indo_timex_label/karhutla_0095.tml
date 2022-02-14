@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0095</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-06" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-06</TIMEX3></DCT>
+
+<TITLE>150 Hektar Hutan di Bangka Habis Terbakar</TITLE>
+
+<TEXT>
+Musibah kebakaran yang terjadi selama <TIMEX3 tid="t1" type="DATE" value="2015-SU">musim kemarau ini</TIMEX3> menghanguskan total hutan di Kabupaten Bangka seluas 150 hektar. 
+
+Sedangkan untuk hutan di Gunung Maras <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> yang terbakar sekitar 47 hektar dari 15.000 hektar. 
+
+Kepala Dinas Kehutanan dan Perkebunan Kabupaten Bangka Suhodo mengatakan hutan yang terbakar itu bukan pohon-pohon yang besar tetapi semak belukar di sekitar Gunung Maras sehingga masih bisa menyangah air saat musim hujan. 
+
+Kasi Perlindungan dan Konservasi Dinas Kehutanan dan Perkebunan Kabupaten Bangka, Agus Tranggono menjelaskan kebakaran hutan ini tersebar dibeberapa titik. 
+
+Seperti di Desa Kimak, Merawang, Deniang, Lintas Timur, Gunung Maras, Bukit Mangkadir hingga Gunung Pelawan. 
+
+" Kalau di Gunung Maras yang terakhir ini sekitar tujuh hektar dengan total kebakaran seluas 47 hektar. 
+
+Namun tidak terbuka semua kebakarannya tidak merata, " jelas Agus yang akrab disapa Agung saat mendampingi Kepala Dishutbun Kabupaten Bangka Suhodo, <TIMEX3 tid="t3" type="DATE" value="2015-10-06">Selasa (6/10/2015)</TIMEX3> kepada bangkapos. 
+
+com di ruang Rapat Bangka Bermartabat. 
+
+. 
+
+
+</TEXT>
+
+</TimeML>

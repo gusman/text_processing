@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0022</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-05-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-05-24</TIMEX3></DCT>
+
+<TITLE>Gunung Merapi Meletus Dini Hari Tadi, Keluarkan Asap Setinggi 6 Kilometer</TITLE>
+
+<TEXT>
+Gunung Merapi kembali mengalami letusan pada <TIMEX3 tid="t1" type="DATE" value="2018-05-24">Kamis (24/5/2018)</TIMEX3> dinihari, tepatnya pada <TIMEX3 tid="t2" type="TIME" value="2018-05-23T01:55">pukul 01.55 WIB</TIMEX3>. 
+
+Letusan ini diikuti dengan munculnya kolom asap yang membumbung setinggi <TIMEX3 tid="t3" type="DATE" value="6000">6000</TIMEX3> meter ke arah barat. 
+
+Ini merupakan kolom asap paling tinggi sejak letusan pada <TIMEX3 tid="t4" type="DATE" value="2018-05-11">11 Mei 2018 lalu</TIMEX3> yang mencapai <TIMEX3 tid="t5" type="DATE" value="5500">5500</TIMEX3> meter. 
+
+Sementara letusan pada <TIMEX3 tid="t6" type="DATE" value="2018-05-23">Rabu (23/5/2018)</TIMEX3> dinihari, memicu munculnya kolom asap setinggi <TIMEX3 tid="t7" type="DATE" value="2000">2000</TIMEX3> meter. 
+
+(.500 Meter)(. 
+
+Akun twitter BPPTKG mengungkapkan bahwa letusan juga disertai dengan suara gemuruh yang terdengar di seluruh pos pengamatan. 
+
+Hujan AbuKepala Pelaksana BPBD Kabupaten Magelang, Edi Susanto mengatakan, pasca terjadi letusan pada <TIMEX3 tid="t8" type="TIME" value="2018-05-23TMO">dini hari tadi</TIMEX3>, hujan abu sempat turun di 19 titik di wilayah Kabupaten Magelang. 
+
+" Wilayah yang terkena abu antara lain, Tegalrandu, Sumber, Dukun Ngadipuro, Banyubiru, Muntilan, Mungkid, Menayu, Kalibening, Borobudur, Salaman, Tempuran, Sedayu, Sawangan, Tamanagung, Deyangan, Sraten, Keji dan Donorojo, " ujar Edi, <TIMEX3 tid="t9" type="DATE" value="2018-05-24">Kamis (24/5/2018)</TIMEX3>. 
+
+Edi mengatakan, tinggi kolom letusan mencapai 6.000 meter selama <TIMEX3 tid="t10" type="DURATION" value="PT4M">empat menit</TIMEX3> dan terdengar dari Pos PGM Ngepos di Kecamatan Srumbung, dan pos pengamatan lain. 
+
+// " Arah angin yang condong ke barat membuat material abu mengguyur sebagian wilayah Kabupaten Magelang, " ujarnya. 
+
+Edi pun mengimbau warga untuk tetap tenang. 
+
+(. 
+
+" Kami harapkan tenang, waspada dan ikuti petunjuk dari petugas. 
+
+Gunakan masker saat di luar ruangan karena abu masih berhamburan, " katanya. 
+
+Update SituasiSetelah meletus atau tepatnya <TIMEX3 tid="t11" type="TIME" value="2018-05-23T04:41">pukul 04.41 WIB</TIMEX3>, aktivitas kegempaan Merapi kembali landai. 
+
+Begitu pula sebelum letusan, di mana alat pemantau BPPTKG juga tidak merekam adanya aktivitas kegempaan. 
+
+Saat letusan terjadi, kabut tebal menutupi kawah, sehingga tidak terpantau kamera CCTV. 
+
+Akibat letusan ini, beberapa desa di Magelang seperti Kalibening dan Sumber terjadi hujan abu. 
+
+BPPTKG belum dapat menjelaskan apakah letusan tersebut freatik ataukah magmatik, karena sampel abu letusan harus dianalisis terlebih <TIMEX3 tid="t12" type="DATE" value="PAST_REF">dahulu</TIMEX3>. 
+
+// Rilis lebih lengkap terkait letusan ini dijadwalkan akan dilaksanakan <TIMEX3 tid="t13" type="TIME" value="2018-05-24TMO">pagi ini</TIMEX3> pukul <TIMEX3 tid="t14" type="TIME" value="2018-05-23T08:00">08.00 WIB</TIMEX3>. 
+
+Adapun kondisi visual puncak Merapi <TIMEX3 tid="t15" type="TIME" value="2018-05-24TMO">pagi ini</TIMEX3> adalah sebagai berikut:1. 
+
+Hasil Monitor CCTV Deles05.27. 
+
+selamat <TIMEX3 tid="t16" type="TIME" value="2018-05-24TMO">pagi</TIMEX3>, visual merapi <TIMEX3 tid="t17" type="TIME" value="2018-05-24TMO">pagi ini</TIMEX3> dari CCTV Deles mulai tampak. 
+
+BPBDklaten BPBDjateng kementerianESDM kabargeologi vulkanologi_mbg merapiwaspada tetap semangat beraktivitas2. 
+
+Puncak Merapi Tidak Nampak dari PGM Jrakah05.51. 
+
+Selamat <TIMEX3 tid="t18" type="TIME" value="2018-05-24TMO">pagi</TIMEX3>, walaupun masih dingin <TIMEX3 tid="t19" type="TIME" value="2018-05-24TMO">pagi</TIMEX3> kita harus tetap semangat beraktivitas. 
+
+berikut pantauan dari PGM Jrakah. 
+
+kabut tebal suhu 18.0*c kelembaban 91 tekanan udara 870.2 Hpa Angin Tenang KementerianESDM kabargeologi vulkanologi_mbg3. 
+
+Merapi <TIMEX3 tid="t20" type="TIME" value="2018-05-24TMO">Pagi</TIMEX3> Ini Via PGM Selo06.25. 
+
+visual merapi <TIMEX3 tid="t21" type="TIME" value="2018-05-24TMO">pagi ini</TIMEX3> via PGM Selo berkabut, suhu udara 18.4 C, kelembaban 81 rh, pressure 834.9 hpa, angin perlahan ke barat dan cuaca cerah berawan. 
+
+merapiwaspada KementerianESDM kabargeologi vulkanologi_mbg4. 
+
+<TIMEX3 tid="t22" type="TIME" value="2018-05-23T06:58">Pukul 6.58 WIB</TIMEX3>, Puncak Merapi Dilihat dari PGM Jrakah Mulai Cerah06.58. 
+
+Selamat <TIMEX3 tid="t23" type="TIME" value="2018-05-24TMO">pagi</TIMEX3> semua. 
+
+Visual merapi via PGM Jrakah mulai cerah <TIMEX3 tid="t24" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Diharapkan masyarakat tatap melakukan aktivitas seperti biasa dan tetap waspada. 
+
+merapiwaspada kementerianESDM kabargeologi(TRIBUN JOGJA) 
+</TEXT>
+
+</TimeML>

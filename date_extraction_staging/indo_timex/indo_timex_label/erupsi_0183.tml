@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0183</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-08-02" temporalFunction="false" functionInDocument="CREATION_TIME">2017-08-02</TIMEX3></DCT>
+
+<TITLE>Gunung Sinabung Meletus, Lagi, Debu Membumbung hingga Setinggi 4.200 Meter</TITLE>
+
+<TEXT>
+Gunung Sinabung di Kabupaten Karo, Provinsi Sumatera Utara (Sumut) kembali meletus. 
+
+Letusannya menyemburkan debu setinggi 4.200 meter atau 4,2 km. 
+
+Sepanjang <TIMEX3 tid="t1" type="DATE" value="2017-08-02">Rabu (2/8)</TIMEX3> dari <TIMEX3 tid="t2" type="TIME" value="2017-08-01T08:00">pukul 08.00</TIMEX3> hingga <TIMEX3 tid="t3" type="TIME" value="2017-08-01T12:00">pukul 12.00</TIMEX3> beberapa kali letusan dan 17 kali semburan awan panas. 
+
+Informasi didapatkan Badan Nasional Penanggulangan Bencana (BNPB) sepanjang <TIMEX3 tid="t4" type="TIME" value="2017-08-02TMO">pagi</TIMEX3> hingga <TIMEX3 tid="t5" type="TIME" value="2017-08-01TAF">siang tadi</TIMEX3> aktivitas vulkanik di Gunung Sinabung sangat tinggi. 
+
+Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho menyebut, dari Pos Pengamatan Gunung Sinabung melaporkan pada <TIMEX3 tid="t6" type="TIME" value="2017-08-01T10:00">pukul 10.00</TIMEX3> terjadi letusan dengan tinggi kolom 4.200 meter disertai dengan luncuran awan panas guguran sejauh 4.500 m ke tenggara-timur. 
+
+Angin sedang ke arah selatan. 
+
+Amplitudo 120 mm dan lama gempa <TIMEX3 tid="t7" type="DURATION" value="PT553S">553 detik</TIMEX3>. 
+
+Kemudian pada <TIMEX3 tid="t8" type="TIME" value="2017-08-01T10:14">pukul 10.14</TIMEX3>, meletus lagi setiggi 3.000 m disertai luncuran awan panas guguran sejauh 4.000 meter ke arah tenggara-timur. 
+
+Angin sedang ke arah selatan. 
+
+Ampitudo 120 mm dengan lama gempa <TIMEX3 tid="t9" type="DURATION" value="PT333S">333 detik</TIMEX3>. 
+
+Selanjutnya pada <TIMEX3 tid="t10" type="TIME" value="2017-08-01T10:20">pukul 10.20</TIMEX3> Wib, meletus lagi. 
+
+Tinggi kolom abu 3.000 meter disertai awan panas guguran sejauh 4.500 m ke arah tenggara-timur. 
+
+Angin sedang ke arah selatan. 
+
+Amplitudo 120 mm dengan lama gempa <TIMEX3 tid="t11" type="DURATION" value="PT707S">707 detik</TIMEX3>. 
+
+Ribuan penduduk terdampak langsung dari hujan abu vulkanik akibat letusan Gunung Sinabung. 
+
+Tidak ada korban jiwa, sebut Sutopo dalam keterangan persnya yang diterima JawaPos. 
+
+com, <TIMEX3 tid="t12" type="DATE" value="2017-08-02">Rabu (2/8)</TIMEX3>. 
+
+Selain itu, hujan abu menyebar di beberapa tempat seperti di Desa Perbaji, Sukatendel, Temberun, Perteguhen, Kuta Rakyat, Simpang Empat, Tiga Pancur, Selandi, Payung, dan Kuta Gugung. 
+
+Sutopo menyebut, masyarakat memerlukan masker dan air untuk membersihkan lingkungan. 
+
+BPBD Karo bersama TNI, Polri, Dinas Kesehatan dan SKPD lain, relawan, dan masyarakat telah membagikan masker, pembersihan jalan dan lahan, pembersihan aset-aset pemerintah (pasar dan tempat umum lainnya), dan menghimbau kepada masyarakat untuk tidak memasuki zona merah. 
+
+(iil/JPC) 
+</TEXT>
+
+</TimeML>

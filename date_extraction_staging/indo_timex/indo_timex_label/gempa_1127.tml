@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1127</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-06-02" temporalFunction="false" functionInDocument="CREATION_TIME">2016-06-02</TIMEX3></DCT>
+
+<TITLE>Ini Data Sementara Kerusakan Gempa di Pesisir Selatan</TITLE>
+
+<TEXT>
+Gempa bumi berkekuatan 6,5 SR yang mengguncang Pesisir Selatan, <TIMEX3 tid="t1" type="TIME" value="2016-06-02">Kamis (2/6) pagi</TIMEX3> mengakibatkan 16 warga mengalami luka-luka ditimpa material bangunan. 
+
+Berdasarkan data Posko Bencana BPBD Pessel yang dihimpun 1. 
+
+Kecamatan Lengayang 6 korban dirawat di Puskesmas setempat. 
+
+Mereka Wiwi Winarti (35), Susi (5), Raka (3,5), Warni (36), Dina (28) dan Syafri (10). 
+
+2. 
+
+Kecamatan Ranah Pesisir dirawat di Puskesmas Balai <TIMEX3 tid="t2" type="DATE" value="2016-05-31">Selasa</TIMEX3> sebanyak 3 orang yaitu Nabila (3), Yono (11) dan Silfa (13). 
+
+3. 
+
+Kecamatan Sutera 2 orang yaitu Iwet (40) dan Rahmat Hidayat (25). 
+
+4. 
+
+Kecamatan Linggo Sari Baganti 3 orang yaitu Inang Ujang (45), Edi (46) dan Syamsuardi (50). 
+
+5. 
+
+Kecamatan IV Jurai 2 korban dirawat di RSUD Dr. 
+
+M. 
+
+Zein Painan akibat terinjak kaca yang hancur diguncang gempa masing-masing Doni (23) dan Leonardi Pradana (17). 
+
+Rumah yang rusak sedang sebanyak 66 unit dan 1 unit rusak berat. 
+
+(marlison/niko) 
+</TEXT>
+
+</TimeML>

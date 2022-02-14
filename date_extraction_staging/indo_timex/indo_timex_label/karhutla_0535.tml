@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0535</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-16</TIMEX3></DCT>
+
+<TITLE>Kapolda Kalsel Dinginkan Lahan Gambut Guntung Damar yang Terbakar</TITLE>
+
+<TEXT>
+Kapolda Kalimantan Selatan Irjen Pol Drs. 
+
+Yazid Fanani, M. 
+
+Si melaksanakan pengecekan titik api atau hotspot dan melakukan pendinginan lahan yang terbakar yang ada di Jalan Guntung Damar Kecamatan Landasan Ulin Kota Banjarbaru, Kalimantan Selatan (Kalsel), <TIMEX3 tid="t1" type="TIME" value="2019-09-16T12:40">Senin (16/9/2019) pukul 12.40</TIMEX3> Wita. 
+
+Dalam kegiatan ini Kapolda Kalsel didampingi oleh Irwasda, Karo Ops, Dir Samapta, Dansat Brimobda Kalsel dan Kapolres Banjarbaru beserta 830 orang personil gabungan yang terdiri dari Anggota TNI, Polri, Damkar, BPBD dan Dinas Kehutanan. 
+
+Di lokasi lahan yang telah terbakar itu Kapolda Kalsel bersama tim gabungan berjibaku masuk ke lokasi kebakaran lahan untuk melakukan pemadaman dan pendinginan. 
+
+Kapolda tidak segan-segan terjun langsung dan melakukan penyemprotan lahan untuk pemadaman dan pendinginan lahan. 
+
+Kabid Humas Polda Kalsel Kombes Pol Mochamad Rifa i, SIK ditempat terpisah mengatakan bahwa Kapolda Kalsel Irjen Pol Drs. 
+
+Yazid Fanani, M. 
+
+Si langsung memimpin kegiatan pemadaman dan pendinginan ini dan semua merupakan upaya-upaya yang dilakukan oleh Tim Satgas Gabungan Karhutla Provinsi Kalsel dalam mengatasi Kebakaran Hutan dan Lahan di Propinsi Kalsel. 
+
+Sementara itu sampai <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terus dilakukan pemadaman wilayah yang dapat dijangkau Satgas Darat, sedangkan untuk lokasi yang tidak dapat dijangkau oleh Satgas Darat diminta bantuan Water Bombing dari Satgas Udara. 
+
+Penyemprotan lahan yang terbakar di seputaran lokasi tersebut dilakukan sebagai antisipasi terhadap Karhutla serta pendinginan lokasi lahan yang terbakar agar tidak menyebar ke tempat lain. 
+
+Rel/IB 
+</TEXT>
+
+</TimeML>

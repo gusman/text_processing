@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0289</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-03-07" temporalFunction="false" functionInDocument="CREATION_TIME">2017-03-07</TIMEX3></DCT>
+
+<TITLE>Trans Sulawesi Boalemo Lumpuh 3 Jam</TITLE>
+
+<TEXT>
+Kabupaten Boalemo kembali diterjang banjir, Senin(6/3). 
+
+Hujan deras yang mengguyur wilayah Kota Idaman ini mengakibat 3 titik terendam banjir, yakni Desa Potanga (Botumoito), Desa Ayuhulalo (Tilamuta), Desa Piloliyanga (Tilamuta) dan Desa Pentadu Barat (Tilamuta). 
+
+Kondisi terparah terjadi di Desa Potanga, Kecamatan Botumoito. 
+
+Air setinggi 1 meter merendam rumah warga dan akses jalan Trans Sulawesi. 
+
+Bahkan akibat dari genangan air di ruas jalan Trans Sulawesi tersebut, arus lalu lintas mengalami kelumpuhan selama <TIMEX3 tid="t1" type="DURATION" value="PT3H">3 jam</TIMEX3>. 
+
+Kendaraan roda dua maupun roma empat tidak dapat melintas, dan memilih untuk menunggu air surut. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Boalemo Mus Moha yang dihubungi RADAR Gorontalo, <TIMEX3 tid="t2" type="TIME" value="2017-03-06TNI">Senin malam</TIMEX3> menyampaikan bahwa berdasarkan data yang diperoleh, terdapat 481 KK dan 1.562 jiwa yang terdampak banjir di Desa Potanga. 
+
+Kami sudah berkoordinasi dengan Dinas Sosial dan Pemberdayaan Masyarakat Desa dalam rangka evakuasi korban banjir. 
+
+Sampai <TIMEX3 tid="t3" type="TIME" value="2017-03-07TNI">malam ini</TIMEX3> (tadi <TIMEX3 tid="t4" type="TIME" value="2017-03-06TNI">malam</TIMEX3>), kami masih fokus evakuasi. 
+
+Insya Allah <TIMEX3 tid="t5" type="DATE" value="2017-03-08">besok</TIMEX3> (<TIMEX3 tid="t6" type="DATE" value="2017-03-07">hari ini</TIMEX3>), baru kami akan melakukan intervensi terhadap korban, ujar Mus. 
+
+Dalam proses evakuasi, memprioritaskan warga yang sakit, anak-anak serta kaum lanjut usia. 
+
+Selanjutnya, lokasi kedua yang terendam banjir adalah Desa Piloliyanga dan Desa Ayuhulalo. 
+
+Di dua desa tersebut, terdapat 80 KK yang terkena dampak banjir yang tingginya mencapai setengah meter ini. 
+
+Selain itu, 1 buah pohon tumbang di wilayah tersebut. 
+
+Akibatnya, jaringan listrik dan arus lalu lintas pun putus. 
+
+Jalan tertutup karena ada pohon tumbang. 
+
+Dan jaringan listrik juga putus. 
+
+Namun kami sudah berkoordinasi dengan PLN, dan alhamdulilah sudah ditindaklanjuti pada <TIMEX3 tid="t7" type="TIME" value="2017-03-05TNI">malam tadi</TIMEX3> oleh pihak PLN, ujarnya. 
+
+Lokasi selanjutnya yang terkena banjir adalah Desa Pentadu Barat, Tilamuta. 
+
+Sebanyak 25 rumah warga tergenang oleh arus air kiriman dari gunung. 
+
+Untuk wilayah Pentadu Barat banjir disebabkan oleh tersumbatnya saluran air yang berada di lokasi tersebut. 
+
+Alhamdulilah, sampai <TIMEX3 tid="t8" type="TIME" value="2017-03-06T19:00">jam 7 malam</TIMEX3> sudah ditindaklanjuti untuk dibersihkan agar aliran air kembali normal, tandas Mus Moha. 
+
+Sementara itu, Pelaksana Tugas (Plt) Kepala Dinas Sosial dan Pemberdayaan Masyarakat Desa (DSPMD) Kabupaten Boalemo Syafurddin Lamusu menyatakan bahwa pihaknya akan melakukan distribusi bantuan pada Selasa(7/3)pagi. 
+
+Karena kejadian banjir ini terjadi pada <TIMEX3 tid="t9" type="TIME" value="2017-03-06TAF">Sore</TIMEX3> menjelang <TIMEX3 tid="t10" type="TIME" value="2017-03-06TNI">malam hari</TIMEX3>, maka <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">kini</TIMEX3> DSPMD dan Tagana tengah melakukan pengepakan paket bantuan. 
+
+<TIMEX3 tid="t12" type="DATE" value="2017-03-08">Besok</TIMEX3> (<TIMEX3 tid="t13" type="DATE" value="2017-03-07">hari ini</TIMEX3>) akan disalurkan. 
+
+Bantuan yang akan disalurkan meliputi bahan makanan pokok, mie instan, ikan siap saji, perlengkapan bayi hingga alat tidur, beber Syafruddin. 
+
+Apakah Tagana membangun tenda evakuasi ataupun dapur umum?. 
+
+Bendahara KAHMI Kabupaten Boalemo ini menyampaikan bahwa hingga <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">kini</TIMEX3> pihaknya tidak membangun tenda evakuasi maupun tenda dapur umum. 
+
+Banjir berangsur surut. 
+
+Masyarakat memilih untuk kembali ke rumah dan melakukan pembenahan pasca banjir. 
+
+Jadi kami tidak membagun tenda darurat. 
+
+Hanya saja untuk bantuan, akan tetap kami salurkan, pungkasnya. 
+
+Berbicara soal banjir, tentunya Desa Potanga menjadi wilayah yang langgaran terjadi banjir. 
+
+<TIMEX3 tid="t15" type="SET" value="XXXX-WI">Setiap musim penghujan</TIMEX3>, Potanga menjadi daerah yang terendam banjir. 
+
+Hal ini tidak lain diakibatkan oleh tidak mampunya saluran air di desa itu menampung debit air yang begitu besar dari gunung. 
+
+Apalagi, saluran air yang modelnya berbelok pada salah satu sisinya itu, membuat air sulit untuk mengalir. 
+
+Akibatnya pun meluap ke rumah warga dan jalan Trans Sulawesi. 
+
+Adapun solusi yang pernah dilakukan oleh pemerintah daerah Kabupaten Boalemo, adalah mengupayakan adanya alih arus sungai. 
+
+Selain itu, model saluran pun diupayakan menjadi lurus. 
+
+Namun program normalisasi sungai mendapat penolakan dari sejumlah warga. 
+
+Untuk bisa mengatasi persoalan banjir di Desa Potanga, tidak ada cara lain selain melakukan program pelurusan dan pelebaran. 
+
+Sehingga debit air dapat ditampung dan tidak lagi meluap hingga ke rumah warga dan jalan Trans Sulawesi. 
+
+(RG-59) 
+</TEXT>
+
+</TimeML>

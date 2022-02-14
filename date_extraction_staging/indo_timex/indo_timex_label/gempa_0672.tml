@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0672</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-10-13" temporalFunction="false" functionInDocument="CREATION_TIME">2017-10-13</TIMEX3></DCT>
+
+<TITLE>Gempa Guncang Lembata - Camat Nubatukan Antar Sayur Kangkung untuk Pengungsi</TITLE>
+
+<TEXT>
+Camat Nubatukan Stanis Kebesa Langoday bersama para lurah mengantar sayur kangkung, bawang dan barang bantuan lainnya untuk para pengungsi yang berada di Rumah Jabatan (Rujab) Bupati Lembata. 
+
+Bantuan bahan makanan itu diberikan setelah Camat Kebesa memimpin upacara peringatan Hari Ulang Tahun (HUT) ke-18 Otonomi Daerah (Otda) Kabupaten Lembata di halaman kantor lama bupati setempat, <TIMEX3 tid="t1" type="DATE" value="2017-10-12">Kamis (12/10/2017)</TIMEX3>. 
+
+Disaksikan Pos-Kupang. 
+
+com, seusai peringatan HUT Otda itu, Kebesa bersama mantan Camat Nubatukan, Begu Ibrahim serta para lurah berjalan beriringan dari bekas kantor bupati Lembata itu ke Rumah Jabatan Bupati yang letaknya bersebelahan. 
+
+Mengenakan kain sarung motif Lembata dipadu kemeja putih, Kebesa melangkah bersama rombongan menuju Rujab Bupati yang <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> menjadi tempat pengungsian warga Ile Ape dan Ile Ape Timur akibat gempa bumi. 
+
+Mengantar bantuan itu ibarat menghantar dulang untuk sebuah hajatan sesuai tradisi masyarakat setempat. 
+
+Pasalnya, para pejabat kecamatan itu berjalan di depan bersama rombongan, dan para pegawai mengikuti dari belakang sambil membawa barang bantuan kemanusiaan. 
+
+Adapun barang yang dibawa itu, antara lain sayur-sayuran beberapa karung, bawang merah, beras, minyak goreng dan sejumlah dos air minum kemasan. 
+
+Hanya ini yang kami bawa <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Tentunya bantuan ini akan diikuti dengan bantuan lain pada hari-hari ke depan. 
+
+Apa yang kami bawa ini sesuai kebutuhan para pengungsi, ujar Camat Kebesa. 
+
+Dia menyebutkan, barang yang dibawa itu merupakan bantuan spontanitas pegawai kecamatan bersama lurah dan para pegawai kelurahan. 
+
+Bantuan itu untuk meringankan beban warga yang <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sedang risau oleh musibah gempa bumi yang terus mengguncang Lembata <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+// Bantuan itu, kata Kebesa, merupakan awal dari bantuan lain yang akan diserahkan pada hari-hari ke depan selama para pengungsi masih berada di tempat tersebut. 
+
+Bantuan ini apa adanya dari kami. 
+
+<TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">Nanti</TIMEX3> akan ada lagi bantuan yang kami bawa ke sini, ujarnya. 
+
+Bantuan logistik juga datang dari manajemen Koperasi Simpan Pinjam (KSP) Ankara-Lewoleba. 
+
+Bantuan yang diberikan manajemen koperasi ini, di antaranya beras, mie, minyak goreng dan jenis bahan pangan lainnya. 
+
+Bantuan serupa juga dari manajemen Bank NTT Cabang Lewoleba juga dari manajemen Bank BNI Cabang Pembantu (Capem) Lembata. 
+
+Pada <TIMEX3 tid="t7" type="TIME" value="2017-10-12TAF">Kamis (12/10/2017) siang</TIMEX3> sekitar <TIMEX3 tid="t8" type="TIME" value="2017-10-12T14:00">pukul 14.00</TIMEX3> Wita, warga Uyelewun Raya (Kedang) juga datang mengantar bantuan kemanusiaan untuk pengungsi. 
+
+Bantuan dari masyarakat Uyelewun Raya itu diserahkan Koordinator Apol Mayan didampingi Rauf dan beberapa anak muda lainnya. 
+
+Hadir pula Linus Lawang. 
+
+Bantuan itu diserahkan kepada Kepala Dinas Sosial dan PMD Kabupaten Lembata, Aloysius Buto, disaksikan Bupati Lembata Eliaser Yentji Sunur didampingi Wakil Bupati Thomas Ola Langoday. 
+
+Sekretaris BPBD Lembata, Frans Dangkur, mengatakan, <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> para pengungsi masih mendapat pelayanan. 
+
+Kebutuhan emergensi untuk mereka masih bisa dipenuhi. 
+
+Persediaan logistik juga masih memadai. 
+
+Beras, mie instan masih tersedia, setidaknya untuk <TIMEX3 tid="t10" type="DURATION" value="PXD">beberapa hari ke depan</TIMEX3>. 
+
+(*) 
+</TEXT>
+
+</TimeML>

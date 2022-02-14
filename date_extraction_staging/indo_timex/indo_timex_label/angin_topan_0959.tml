@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0959</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-25</TIMEX3></DCT>
+
+<TITLE>Detik-detik Rombongan Wisatawan dari Kediri Selamatkan Diri saat Mobil Tertimpa Pohon di Solo</TITLE>
+
+<TEXT>
+Mobil Grand Livina bernomor polisi N-1379-BV milik warga Kediri, Jawa Timur (Jatim) yang tertimpa pohon tumbang di Jalan Slamet Riyadi Solo ternyata penuh dengan penumpang, <TIMEX3 tid="t1" type="DATE" value="2019-12-25">Rabu (25/12/2019)</TIMEX3>. 
+
+Mereka tengah berlibur ke Kota Bengawan saat momen Natal dan <TIMEX3 tid="t2" type="DATE" value="2019-01-01">Tahun Baru</TIMEX3> (Nataru). 
+
+Beruntung dalam peristiwa yang terjadi saat hujan deras disertai angin, tidak mengakibatkan korban jiwa. 
+
+Pengemudi Marati Dian (35) warga Kediri pun sempat menceritakan detik-detik dirinya dan keluarga menyelamatkan diri setelah pohon cukup besar menimpa mobilnya. 
+
+Dikatakan, pihaknya sedang dalam perjalanan dari Selat Mbak Lies di Serengan via jalur barat, lantas menuju ke PGS di Gladag Solo. 
+
+Dalam perjalanan saat lampu merah di kawasan Keprabon mobil sempat berhenti. 
+
+. 
+
+Kondisi <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3> hujan deras dan angin kencang, Dian bersama 7 orang penumpangnya tetap berjalan. 
+
+" Tiba-tiba ada suara bruk <TIMEX3 tid="t4" type="TIME" value="2019-12-24T13:15">pukul 13.15 WIB</TIMEX3>, ternyata mobil saya sudah tertimpa pohon, " papar Dian.Diketahui dalam mobil tersebut ada total 8 orang, rata-rata kalangan anak. 
+
+.Dia pun bergegas berhenti dan keluar mobil di tengah guyuran hujan untuk menyelamatkan diri. " Kami ditolong tukang becak dan warga yang berada di sekitar lokasi kejadian, " jelas dia.Para rombongan langsung mengamankan di pinggir deretan ruko sembari menyaksikan mobilnya tertimpa pohon. " Beruntung tidak apa -apa dan tidak ada yang dibawa ke rumah sakit, " kata Dian. 
+
+(*) 
+</TEXT>
+
+</TimeML>

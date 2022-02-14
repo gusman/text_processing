@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0693</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-05" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-05</TIMEX3></DCT>
+
+<TITLE>Kabut dan Angin Hambat Operasi Pemadaman Kebakaran Hutan, BPBD Jatim: Besok Dilanjutkan Kembali</TITLE>
+
+<TEXT>
+Kabut tebal dan angin kencang beberapa kali menghambat operasi pemadaman udara kebakaran hutan di wilayah Jawa Timur yang dilakukan oleh BPBD Jatim. 
+
+Kepala Pelaksana BPBD Jatim, Suban Wahyudiono mengungkapkan, ada beberapa titik kebakaran hutan yang terjadi di Jawa Timur. 
+
+Suban Wahyudiono memimpin langsung operasi padaman yang di wilayah Gunung Welirang Kabupaten Mojokerto, <TIMEX3 tid="t1" type="DATE" value="2019-08-04">Minggu (4/8/2019)</TIMEX3>. 
+
+. 
+
+Suban Wahyudiono menjelaskan, operasi pemadaman kebakaran tersebut sempat terhenti karena titik api tertutup kabut tebal. 
+
+Namun, setelah kabut tebal terpantau sudah bergeser, Suban Wahyudiono mengatakan, penyiraman dilakukan kembali. 
+
+" Penyiraman dengan metode water bombing, masih perlu dilakukan karena kepulan asap dan bara api masih terpantau di sebagian wilayah Gunung Arjuno dan Gunung Welirang, " ucapnya. 
+
+. 
+
+Sebelumnya teridentifikasi 7 titik api di wilayah tersebut dan telah mendapatkan pemadaman sebanyak satu kali. 
+
+Operasi pemadaman akan kembali digelar pada <TIMEX3 tid="t2" type="DATE" value="2019-08-06">Selasa (6/8/2019)</TIMEX3>, mengingat kru helikopter harus beristirahat setelah menjalani <TIMEX3 tid="t3" type="DURATION" value="P7D">7 hari</TIMEX3> aktifitas penerbangan. 
+
+Selanjutnya, pendinginan juga dilakukan di wilayah Gunung Panderman Kota Batu yang dipetakan terdapat 1 titik api.Pemadaman di wilayah ini dilakukan dengan helikopter yang diterbangkan pada <TIMEX3 tid="t4" type="DATE" value="UNKNOWN">hari yang sama (4/8/2019)</TIMEX3>, <TIMEX3 tid="t5" type="TIME" value="2019-08-04T09:00">pukul 09.00 WIB</TIMEX3>. 
+
+
+</TEXT>
+
+</TimeML>

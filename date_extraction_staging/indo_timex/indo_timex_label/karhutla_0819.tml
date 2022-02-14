@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0819</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-20" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-20</TIMEX3></DCT>
+
+<TITLE>Kebakaran Lahan Gambut Mendekati Perumahan Warga di Kota Pontianak</TITLE>
+
+<TEXT>
+Kebakaran lahan gambut yang terjadi di Kota Pontianak, Kalimantan Barat semakin meluas. 
+
+Bahkan kebakaran semakin mendekati permukiman penduduk pada <TIMEX3 tid="t1" type="TIME" value="2018-08-13TAF">Senin sore</TIMEX3> (20/8/2018). 
+
+Seperti yang terjadi di sekitar Perumahan Purnama Elok Jalan Purnama Dua Pontianak, Kalimantan Barat, <TIMEX3 tid="t2" type="TIME" value="2018-08-13TAF">Senin sore</TIMEX3>. 
+
+Petugas kepolisian bersama pemadam kebakaran swasta bahu-membahu memadamkan api di sekitar Perumahan Purnama Elok agar tidak merembet ke pemukiman dan membakar rumah warga. 
+
+Apalagi kebakaran lahan yang sudah terjadi sejak <TIMEX3 tid="t3" type="TIME" value="2018-08-19TAF">Minggu sore</TIMEX3> 19 <TIMEX3 tid="t4" type="DATE" value="2018-08">Agustus itu</TIMEX3> sempat membuat khawatir warga setempat. 
+
+Pasalnya lokasi di sekitar perumahan ini merupakan semak dan gambut yang cukup tebal ditambah lagi dengan lokasi ini merupakan langganan kebakaran lahan. 
+
+Kapolresta Pontianak Kota Kombes Polisi Wawan Kristianto mengatakan, peristiwa yang terjadi di komplek perumahan ini merupakan salah satu titik api yang terdapat di wilayah hukum Polresta Pontianak Kota. 
+
+Sehingga pihak kepolisian bersama TNI dan pemadam kebakaran setempat terus berusaha memadamkan api agar tidak meluas dan membakar rumah warga. 
+
+Sementara Sugandi salah seorang warga setempat mengaku resah dengan kebakaran yang terjadi di dekat komplek perumahannya. 
+
+Kendati sudah menjadi langganan kebakaran lahan namun dirinya berharap agar pemerintah setempat memikirkan cara agar kedepan tidak ada lagi kebakaran lahan seperti yang terjadi <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Sementara hingga <TIMEX3 tid="t6" type="TIME" value="2018-08-13TAF">Senin siang</TIMEX3> jumlah titik panas di Kalimantan Barat terpantau sebanyak 331 hotspot. 
+
+Jumlah tersebut sedikit menurun dibanding jumlah titik api pada <TIMEX3 tid="t7" type="DATE" value="2018-08-16">16 Agustus 2018</TIMEX3> yang mencapai 1.061 hotspot. 
+
+Akibat kabut asap seluruh sekolah di Kota Pontianak terpaksa diliburkan mulai <TIMEX3 tid="t8" type="DATE" value="2018-08-20">Senin</TIMEX3>. 
+
+Kabut asap juga sempat mengganggu aktivitas penerbangan di Bandara Internasional Supadio Pontianak. 
+
+(sms) 
+</TEXT>
+
+</TimeML>

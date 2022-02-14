@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0097</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-24</TIMEX3></DCT>
+
+<TITLE>Tsunami di Selat Sunda, Ahli Tsunami di Selandia Baru Yakin Anak Krakatau Jadi Pemicunya</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DURATION" value="P2D">Dua hari</TIMEX3> pasca-kejadian, citra dan pemodelan semakin memberi terang citra dan pemodelan semakin memberi terang pada kasus tsunami Selat Sunda yang terjadi <TIMEX3 tid="t2" type="DATE" value="2018-12-22">Sabtu (22/12/2018)</TIMEX3>. 
+
+Ilmuwan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">kini</TIMEX3> semakin yakin bahwa tsunami disebabkan oleh ulah Anak Krakatau. 
+
+Skenario terkuatnya, Krakatau erupsi, terjadi longsor di lerengnya, dan akhirnya material longsor masuk ke laut membangkitkan tsunami. 
+
+Salah satu dasar keyakinan itu adalah hasil pemodelan yang dilakukan Aditya Gusman, ahli tsunami Indonesia di GNS Science Selandia Baru. 
+
+Dengan memakai data waktu tiba yang didapatkan dari tide gauge milik Badan Informasi Geospasial (BIG), Aditya memodelkan lokasi sumber tsunami dan waktu. 
+
+Metodenya dikenal dengan backward tsunami propagation time. 
+
+" Hasilnya sumber diprediksi berada disekitar kepulauan Anak Krakatau dan waktu kejadian sumber tsunami pada <TIMEX3 tid="t4" type="TIME" value="2018-12-23T21:02">21.02 WIB</TIMEX3>, " ungkap Adit dalam posting di Facebook-nya, <TIMEX3 tid="t5" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>. 
+
+Lokasi hasil pemodelan adalah Anak Krakatau, menunjukkan tsunami <TIMEX3 tid="t6" type="DATE" value="2018-12-22">dua hari lalu</TIMEX3> dipicu oleh aktivitas gunung tersebut. 
+
+Waktu kejadian juga menguatkan karena bertepatan dengan erupsi terakhir Anak Krakatau yang terdata oleh Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG). 
+
+Skenario Terjadinya Tsunami dan Dasar ArgumennyaMeski masih perlu penelitian lapangan, sejumlah citra dan analisis semakin menguatkan dugaan bahwa tsunami dipicu oleh longsoran ketika erupsi Anak Krakatau Terjadi. 
+
+Perbadingan citra radar Badan Pengkajian dan Penerapan Teknologi (BPPT) pada 11 dan <TIMEX3 tid="t7" type="DATE" value="2018-12-23">23 Desember</TIMEX3> menunjukkan terjadinya perubahan permukaann pada Anak Krakatau, sekitar 357 meter dan 1.800 meter. 
+
+// " Ini bukti bahwa ada area yang hilang atau longsor ke laut, " kata peneliti tsunami BPPT, Widjo Kongko, <TIMEX3 tid="t8" type="DATE" value="2018-12-24">senin (24/12/2018)</TIMEX3>. 
+
+Ahli vulkaologi Surono mengatakan, dengan citra BPPT, material gunung yang longsor dan energi hantamannya juga besar. 
+
+" Saya kira itu pemicu tsunaminya, bukan letusan Anak Krakatau, " katanya. 
+
+Dalam penelitian yang dirilis di Journal of Volcanology and Geothermal Research pada <TIMEX3 tid="t9" type="DATE" value="1995">1995</TIMEX3>, ahli geologi Lembaga Ilmu Pengetahuan Indonesia (LIPI) mengungkapkan, longsor Anak Krakatau bisa berakibat tsunami. 
+
+Hery mengungkapkan, sisi barat daya gunung berketinggian 230 meter di atas permukaan laut itu tumbuh cepat dan curam. 
+
+" Tentu ini merupakan bagian yang labil dan jika melorot atau longsor tentu dapat memicu tsunami, " demikian kata Hery. 
+
+Riset itu mengungkapkan, tsunami karena longsoran pernah terjadi pada <TIMEX3 tid="t10" type="DATE" value="1981">tahun 1981</TIMEX3> dan berpotensi terjadi lagi pada <TIMEX3 tid="t11" type="DATE" value="FUTURE_REF">masa depan</TIMEX3> selama Anak Krakatau masih tumbuh. 
+
+Penelitian Budianto Ontowirjo dari BPPT dan Thomas Giachetti dari University of Oregon di Geological Society London Special pada <TIMEX3 tid="t12" type="DATE" value="2012">2012</TIMEX3>, longsoran bisa bangkitkan gelombang dengan ketinggian awal 43 meter. 
+
+Dalam riset itu, Ontowirjo melakukan pemodelan dengan asumsi material bervolume 0,280 km3 longsor ke arah barat daya.Gelombang awal setinggi 43 meter bisa menerjang tiga pulau kecil di sekitar Anak Krakatau dalam waktu kurang dari <TIMEX3 tid="t13" type="DURATION" value="PT1M">1 menit</TIMEX3> dengan amplitudo gelombang 15 - 30 meter.Gelombang dapat diteruskan ke daratan Jawa dan Sumatera dengan kecepatan 80 - 100 km/jam dan sampai dalam kurun waktu 35 - <TIMEX3 tid="t14" type="TIME" value="PT45M">45 menit</TIMEX3> setelah kejadian longsor. 
+
+// Tsunami Selat Sunda pada <TIMEX3 tid="t15" type="DATE" value="2018-12-22">Sabtu lalu</TIMEX3> menghantam daratan Banten dan Lampung sekitar 25 - <TIMEX3 tid="t16" type="TIME" value="PT50M">50 menit</TIMEX3> setelah kejadian erupsi Anak Krakatau. 
+
+Dalam pemodelan Ontowirjo, tsunami bisa mencapai ketinggian 1,5 meter di Merak dan Panimbang serta 3,4 meter di Labuhan. 
+
+Riset itu menyarankan perlunya perhatian pada jenis tsunami karena longsor material gunung api sebab Krakatau <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">kini</TIMEX3> dimanfaatkan sebagai tujuan wisata dan wilayah sekitar Merak juga dijadikan kawasan industri. 
+
+Skenario tsunami itu harus diikuti dengan rencana penelitian. 
+
+" Pemetaan dasar laut Anak Krakatau adalah sebuah keharusan tanpa menunggu datangnya tsunami berikutnya. 
+
+Itu tak sulit dilakukan, " kata Hery. 
+
+
+</TEXT>
+
+</TimeML>

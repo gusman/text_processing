@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1122</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-10" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-10</TIMEX3></DCT>
+
+<TITLE>Atap Rumah dan Ruko di Bawan Beterbangan Diterjang Angin Kencang</TITLE>
+
+<TEXT>
+Sebanyak 3 unit bangunan yang terdiri dari dua ruko dan satu rumah warga rusak di Jorong Pasar Bawan, Nagari Bawan, Kecamatan Ampek Nagari, <TIMEX3 tid="t1" type="DATE" value="2020-01-09">Kamis (9/1)</TIMEX3> sekira <TIMEX3 tid="t2" type="TIME" value="2020-01-09T17:30">pukul 17.30 WIB</TIMEX3>. 
+
+Atap-atap rumah warga lepas diterbangkan angin. 
+
+Kepala Pelaksana BPBD Kabupaten Agam Muhammad Lutfi menjelaskan, angin kencang yang melanda sebahagian wilayah Kabupaten Agam mengakibatkan atap rumah dan ruko diterbangkan angin. 
+
+Akibatnya, dua kepala keluarga diungsikan ke rumah tetangga. 
+
+Setidaknya, ada tiga atap rumah warga yang diterbangkan angin di daerah tersebut, katanya. 
+
+Adapun pemilik yang rumah atau kedai yang rusak tersebut adalah Kutiyono (46). 
+
+Kondisi atap belakang rumah roboh. 
+
+Kerugian mencapai Rp10 juta, Selain itu, Jamaris mengalami kerugian lebih kurang Rp20 juta karena atap rukonya diterbangkan angin. 
+
+Sedangkan pemilik ruko Ramadan, juga mengalami kerugian akibat atap ruko yang diterbangkan angin. 
+
+Kerugian lebih kurang Rp10 juta. 
+
+Upaya yang dilakukan Satgas BPBD Kabupaten Agam turun ke lokasi kejadian untuk melakukan pendataan dan penanganan berupa memberikan bantuan terpal, tikar dan selimut ke warga yang terdampak, kata Lutfi. 
+
+
+</TEXT>
+
+</TimeML>

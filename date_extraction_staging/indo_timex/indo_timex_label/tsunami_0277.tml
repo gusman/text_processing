@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0277</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-24</TIMEX3></DCT>
+
+<TITLE>Cerita Imon Selamat Saat Tsunami Banten: Ombak Datang dari Arah Laut Setinggi 5 Meter</TITLE>
+
+<TEXT>
+Berjibaku berenang didalam ombak setinggi lima meter yang menggulung dirinya ketika berkendara, Imon berhasil selamat dari musibah tsunami di Selat Sunda. 
+
+Ketika Tsunami menerjang daerah Kabupaten Pandeglang, Imon tengah berkendara bersama rekannya untuk pulang ke rumah di daerah Sambolo. 
+
+" Saya habis main di daerah Carita, terus pulang naik motor berdua teman, tiba-tiba ombak datang dari arah laut setinggi lima meter, " jelas Imon di kawasan Sambolo, Carita, Pandeglang, Banten, <TIMEX3 tid="t1" type="DATE" value="2018-12-24">Senin (24/12/2018)</TIMEX3>. 
+
+Imon bersama rekannya pun tergulung ombak bersama runtuhan puing-puing bangunan yang ikut terseret tsunami. 
+
+Dengan kemampuan berenangnya, Imon pun berenang didalam air yang gelap tanpa ada sedikitpun cahaya. 
+
+Beberapa belas menit bergelut didalam ombak nan ganas, akhirnya Imon pun tiba di daratan. 
+
+Tak berhenti perjuangan Imon sampai disitu, ia pun masih harus mencari rekannya yang juga terseret ombak. 
+
+" Saya cari <TIMEX3 tid="t2" type="DURATION" value="PTXM">beberapa menit</TIMEX3> alhamdulillah ketemu, teman saya juga selamat hanya luka ringan kebentur puing sama kayak saya, " tutur Imon.Setelah bertemu temannya, Imon pun langsung berjalan kaki menuju bukit yang ada di belakang desa Sambolo, ditengah <TIMEX3 tid="t3" type="TIME" value="2018-12-23TNI">malam</TIMEX3> gelap dan basah kuyup serta luka disekujur tubuhnya " Akhirnya saya jalan berdua teman ke atas bukit, <TIMEX3 tid="t4" type="TIME" value="2018-12-23TNI">tengah malam</TIMEX3>, gelap, basah kuyup, motor saya pun sudah gak tahu kemana kang, " imbuh Imon.(TribunJakarta.com, Dwi Putra Kesuma) 
+</TEXT>
+
+</TimeML>

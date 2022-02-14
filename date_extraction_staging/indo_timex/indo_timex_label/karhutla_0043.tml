@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0043</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-09" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-09</TIMEX3></DCT>
+
+<TITLE>Pulahan Hektar Lahan Warga di Batu Ringgit Kubu Terbakar</TITLE>
+
+<TEXT>
+Kebakaran lahan terus terjadi di wilayah Karangsem. 
+
+Kali ini kebakaran melanda puluhan hektar lahan milik warga di wilayah Desa Batu Ringgit, Kecamatan Kubu, Karangasem, <TIMEX3 tid="t1" type="DATE" value="2018-10-09">Selasa (9/10)</TIMEX3>. 
+
+Atas kondisi itu, Dinas Damkar Karangasem menerjunkan sekitar lima mobil damkar untuk memadamkan kobaran api. 
+
+Berdasarkan pantauan di lokasi, puluhan hektar lahan hutan terbakar di Desa Batu Ringgit, Kubu. 
+
+Luas lahan hutan yang terbakar mencapai puluhan hektar yang tersebar di sejumlah titik. 
+
+Api dengan cepat melalap dedaunan kering, sehingga api terus membesar dan merembet lahan-lahan di dekat pemukiman warga. 
+
+Petugas dari Damkar di Bantu TNI, BPBD petugas kepolisian dari Polsek Kubu serta warga sekitar harus berjibaku untuk dapat memadamkan kobaran api. 
+
+Karena api semakin melebar, maka petugas dibuat kewalahan untuk medamkan api. 
+
+Seorang warga, I Gede Subrata, mengungkapkan jika kebakaran terjadi sekitar pukuk <TIMEX3 tid="t2" type="TIME" value="2018-10-08T09:00">09.00</TIMEX3> Wita. 
+
+Kata dia, titik api berasal dari selatan, karena tiupan angin yang cukup kencang api dengan cepat merembet ke lahan kering lainnya menuju arah Barat. 
+
+<TIMEX3 tid="t3" type="TIME" value="2018-10-08T11:00">Sekitar pukul 11.00</TIMEX3> Wita barulah datang mobil damkar dan langsung melakukan pemadaman dibantun oleh pihak kepolisian, TNI, BPBD dan warga sekitar. 
+
+. 
+
+Karena tiupan angin kencang, api yang dibawa angin terus membakar lahan yang kering sehingga api terus membesar, katanya. 
+
+Kabid Operasianal Dinas Pemadam Kebakaran Karangasem, Gede Sumartana, menjelaskan, setelah menerima laporan adanya kebakaran lahan di wilayah Desa Batu Ringgit, Kecamatan Kubu, pihaknya langsung turun kelapangan. 
+
+Untuk, proses pemadaman pihaknya menerjunkan lima armada dari tiga pos yakni Selat, Abang dan Karangasem. 
+
+Kita terjunkan 20 personil. 
+
+Untuk memadamkan api kita butuh waktu hingga <TIMEX3 tid="t4" type="DURATION" value="PT2H">dua jam</TIMEX3> lebih, jelas Sumartana. 
+
+Sementara Kapolsek Kubu, AKP I Made Suadnyana, menjelaskan, jika awal mula terjadinya kebakaran akibat adanya warga yang membakar sampah. 
+
+Dimana api sampah yang dibakar belum mati, namun sudah ditinggal pergi. 
+
+Kebakaran memang belum sampai ada yang mengenai pemukiman warga. 
+
+Karena petugas daei damkar di bantu polisi, BPBD dan warga dengan sigap berupaya memadamkan api. 
+
+Sehingga tidak sampai membakar pemukiman warga, jelas AKP Suadnyana. 
+
+(eka prananda/balipost) 
+</TEXT>
+
+</TimeML>

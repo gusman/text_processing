@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0092</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-09" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-09</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS Kabut Asap Landa di Lintas Timur, Jarak Pandang Terbatas Akibat Kebakaran Lahan Gambut</TITLE>
+
+<TEXT>
+Asap tebal dari kebakaran lahan gambut selimuti ruas jalan di Lintas Timur, <TIMEX3 tid="t1" type="DATE" value="2019-09-02">Senin (09/09/2019)</TIMEX3>. 
+
+Kebakaran diperkirakan sejak <TIMEX3 tid="t2" type="TIME" value="2019-09-08T08:00">pukul 08.00</TIMEX3> dan hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> titik api masih belum berhasil dipadamkan. 
+
+Posisi tepat kebakaran yaitu sekitar 500 meter dari simpang tiga jembatan emas jika dari arah Pangkalpinang menuju Sungailiat. 
+
+Asap tebal membuat jarak pandang hanya bisa terlihat sekitar lima meter saja. 
+
+Bagi masyarakat yang akan melintasi jalur lintas timur, diharapkan untuk Melawati alternatif jalan lain. 
+
+Lebih lanjut <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tim pemadam kebakaran dari kabupaten Bangka sudah menurunkan tiga unit mobil pemadam kebakaran. 
+
+(Bangka Pos/Rizky Irianda Pahlevy). 
+
+
+</TEXT>
+
+</TimeML>

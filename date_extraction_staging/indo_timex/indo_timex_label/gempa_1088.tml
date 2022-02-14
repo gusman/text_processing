@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1088</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-12-08" temporalFunction="false" functionInDocument="CREATION_TIME">2016-12-08</TIMEX3></DCT>
+
+<TITLE>Jaringan Aksi Mahasiswa Pasbar Galang Dana Untuk Gempa Aceh</TITLE>
+
+<TEXT>
+Mahasiswa Pasaman Barat (Pasbar), yang tergabung dalam Jaringan Aksi Mahasiswa (JAM) Pasbar menggalang dana untuk disalurkan kepada korban gempa di Pidie Jaya dan Kabupaten Biriuen, Provinsi Aceh. 
+
+
+
+Aksi penggalangan dana dilakukan di Bundaran Simpang Empat Kabupaten Pasaman Barat dan Intansi pemeritahan Kabupaten Pasaman Barat, <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">Kamis (8/12) siang</TIMEX3>. 
+
+Puluhan mahasiswa sejak <TIMEX3 tid="t2" type="TIME" value="2016-12-07T10:00">pukul 10.00 WIB</TIMEX3>, turun ke jalan untuk mengumpulkan bantuan kemanusiaan dari masyarakat setempat. 
+
+
+
+Selain mengumpulkan dana dari pengguna jalan, perwakilan mahasiswa juga menggelar orasi, untuk membakar semangat pengguna jalan untuk menyalurkan bantuannya, guna meringankan beban rakyat di Kabupaten Pindie Jaya dan Kabupaten Biriuen, Aceh. 
+
+
+
+Ketua JAM Pasbar, Domigus Putra di dampinggi Sekretarisnya Robi Candra, mengatakan kondisi korban gempa bumi di Pidie Jaya <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> memprihatinkan sehingga butuh kesadaran semua pihak untuk membantu mereka secara moril dan materil. 
+
+
+
+Aksi ini merupakan bentuk keprihatinan terhadap warga Aceh yang sedang tertimpa musibah gempa bumi. 
+
+Aksi solidaritas penggalangan dana ini kami lakukan untuk membantu saudara-saudara kita yang sedang tertimpa musibah gempa bumi di Aceh, " kata Domigus Putra. 
+
+
+
+Dijelaskan Domigus, untuk sementara sumbangan yang terkumpul sampai <TIMEX3 tid="t4" type="TIME" value="2016-12-08TAF">sore ini</TIMEX3> sudah mencapai dua juta lebih, menurutnya aksi solidaritas penggalangan dana ini akan dilakukan selama <TIMEX3 tid="t5" type="DURATION" value="P4D">empat hari</TIMEX3> kedepan. 
+
+Selain turun ke jalan, mereka juga berencana membuka posko di kampus STAI-YAPTIP Pasaman Barat di jalan Bundo Kandung Kenagarian Aur Kuning. 
+
+
+
+
+</TEXT>
+
+</TimeML>

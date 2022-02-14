@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0490</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-02-15" temporalFunction="false" functionInDocument="CREATION_TIME">2014-02-15</TIMEX3></DCT>
+
+<TITLE>Persiba Batal Latihan Karena Abu Gunung Kelud</TITLE>
+
+<TEXT>
+Pihak tim kepelatihan Persiba Bantul membatalkan rencana latihan rutin tim di Lapangan Pasutan, Trirenggo, Bantul, <TIMEX3 tid="t1" type="TIME" value="2014-02-15TAF">Sabtu (15/2/2014) sore ini</TIMEX3>. 
+
+Asisten Pelatih Persiba, Albert Rudiana ketika dihubungi Tribunjogja. 
+
+com <TIMEX3 tid="t2" type="TIME" value="2014-02-14TAF">siang tadi</TIMEX3> sempat berujar bahwa latihan akan digelar <TIMEX3 tid="t3" type="TIME" value="2014-02-14TAF">sore harinya</TIMEX3>. 
+
+Namun sekira <TIMEX3 tid="t4" type="TIME" value="2014-02-14T15:00">pukul 15.00</TIMEX3> Albert kembali mengabarkan bahwa latihan ditunda. 
+
+" Latihan <TIMEX3 tid="t5" type="DATE" value="2014-02-15">hari ini</TIMEX3> kita liburkan <TIMEX3 tid="t6" type="DATE" value="PAST_REF">dulu</TIMEX3>, abunya masih banyak di lapangan, " kata Albert. 
+
+Abu yang dimaksudkan oleh ALbert tersebut adalah abu hasil erupsi Gunung Kelud. 
+
+Seperti diketahui sebelumnya, abu hasil letusan Gunung Kelud memang menyebar sampai wilayah Yogyakarta. 
+
+" Latihan menjadi kurang maksimal jika kondisi lapangan masih banyak abu, pernafasan juga terganggu, " imbuh Albert. 
+
+Atas kondisi ini, secepatnya tim kepelatihan Persiba akan menyusun program latihan lainnya. 
+
+Pasalnya jika tidak ada halangan Persiba bakal bertanding melawan PSM Makassar dan Persebaya <TIMEX3 tid="t7" type="DATE" value="2014-02-22">minggu depan</TIMEX3>. 
+
+(*) 
+</TEXT>
+
+</TimeML>

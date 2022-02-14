@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1077</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-11-30" temporalFunction="false" functionInDocument="CREATION_TIME">2017-11-30</TIMEX3></DCT>
+
+<TITLE>Bantu Korban Banjir, Forum Bikers Parmout Galang Dana</TITLE>
+
+<TEXT>
+Forum Bikers Kabupaten Parmout melaksanakan penggalangan dana untuk para korban banjir di Desa Sausu Peore, Kecamatan Sausu, Kabupaten Parmout. 
+
+Hal itu disampaikan Sekretaris Forum Bikers Kabupaten Parmout, Idrus yang ditemui Sulteng Raya disela-sela penggalangan dana, <TIMEX3 tid="t1" type="DATE" value="2017-11-29">Rabu (29/11/2017)</TIMEX3>. 
+
+Dia mengatakan, pelaksanaan penggalangan dana tersebut dilakukan pihaknya untuk membantu korban bencana banjir di Desa Sausu Peore Kecamatan Sausu, sebagai bentuk kepedulian mereka. 
+
+Menurutnya, penggalangan dana yang diawali di depan SPBU Kampal Kelurahan Kampal, sebagai titik pertama kegiatan tersebut. 
+
+Rencananya, di <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">hari kedua</TIMEX3> akan dilaksanakan di titik berikutnya yakni, Pasar Sentral Tagunu dan Pertigaan Toboli di Kecamatan Parigi Utara. 
+
+Kegiatan ini bentuk kepedulian kami atas korban bencana banjir di Sausu Peore yang <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> membutuhkan bantuan, katanya. 
+
+Dia menambahkan, pihaknya juga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> telah menurunkan tim untuk melakukan asisten dan observasi, melihat langsung apa yang dibutuhkan oleh masyarakat yang menjadi korban banjir, tanpa mengambil data dari instansi terkait. 
+
+Rencananya kata dia, seluruh Bikers se Kabupaten Parmout juga akan melaksanakan bakthi sosial dan sekaligus menyerahkan bantuan hasil penggalangan dana tersebut. 
+
+<TIMEX3 tid="t5" type="DATE" value="2017-11-24">Jumat</TIMEX3> (<TIMEX3 tid="t6" type="DATE" value="2017-12-01">Besok</TIMEX3>) rencananya kami akan menyerahkan bantuannya dan kegiatan bakthi sosial disana, ujarnya. 
+
+Dia menuturkan, penggalangan dana itu bukan merupakan kegiatan pertama yang dilaksanakan forum tersebut, sebelumnya mereka juga melakukan kegiatan yang sama untuk korban banjir di Tolitoli. 
+
+Sementara itu, kegiatan sosial itu dilakukannya, untuk meminimalisir anggapan masyarakat tentang penilaian negatif komunitas Bikers. 
+
+OPI 
+</TEXT>
+
+</TimeML>

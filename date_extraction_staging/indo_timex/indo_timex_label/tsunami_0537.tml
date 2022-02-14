@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0537</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-28" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-28</TIMEX3></DCT>
+
+<TITLE>Tsunami Terjang Pantai Palu !</TITLE>
+
+<TEXT>
+Gempa bumi dengan kekuatan magnitude 7,7 SR yang kemudian dimutakhirkan oleh BMKG menjadi magnitudo 7,4 telah mengguncang wilayah Kota Palu dan Donggala, Sulawesi Tengah pada <TIMEX3 tid="t1" type="TIME" value="2018-09-21TEV">Jumat senja</TIMEX3> (28/9/2018) <TIMEX3 tid="t2" type="TIME" value="2018-09-27T17:02">pukul 17.02 WIB</TIMEX3>. 
+
+Kepala Pusat Data Informasi dan Humas BNPB Sutopo Purwo Nugroho melaporkan pusat gempa pada 10 km pada 27 km Timur Laut Donggala, Sulawesi Tengah. 
+
+Gempabumi berpotensi tsunami. 
+
+BMKG telah mengaktivasi peringatan dini tsunami dengan status Siaga (tinggi potensi tsunami 0,5 3 meter) di pantai Donggala bagian barat, dan status Waspada (tinggi potensi tsunami kurang dari 0,5 meter) di pantai Donggala bagian utara, Mamuju bagian utara dan Kota Palu bagian barat. 
+
+BMKG telah mengakhiri peringatan dini tsunami sejak <TIMEX3 tid="t3" type="TIME" value="2018-09-28T17:36">28/9/2018 pukul 17.36 WIB</TIMEX3>. 
+
+Berdasarkan konfirmasi kepada BMKG, tsunami terjadi menerjang pantai. 
+
+Posko BNPB juga telah mengkonfirmasi ke BPBD bahwa tsunami telah menerjang pantai Talise di Kota Palu dan pantai di Donggala. 
+
+Beberapa video yang didokumentasikan masyarakat dan disebarkan di sosial media mengenai tsunami di Kota Palu dan Donggala adalah benar. 
+
+Gempa tsunami menimbulkan korban jiwa. 
+
+Laporan sementara, terdapat beberapa korban yang meninggal karena tertimpa bangunan roboh. 
+
+Tsunami juga menerjang beberapa permukiman dan bangunan yang ada di pantai. 
+
+Jumlah korban dan dampaknya masih dalam pendataan. 
+
+Petugas BPBD, TNI, Polri, Basarnas, SKPD, dan relawan melakukan evakuasi dan pertolongan pada korban. 
+
+Korban yang luka-luka ditangani oleh petugas kesehatan. 
+
+Penanganan darurat terus dilakukan. 
+
+Kondisi listrik padam menyebabkan jaringan komunikasi di Donggala dan sekitarnya tidak dapat beroperasi karena pasokan listrik PLN putus. 
+
+Terdapat 276 base station yang tidak dapat digunakan. 
+
+Operator komunikasi terus berusaha memulihkan pasokan listrik secara darurat. 
+
+Kemkominfo telah melakukan langkah-langkah penanganan untuk memulihkan komunikasi yang putus tersebut. 
+
+Kepala BNPB bersama pejabat BNPB berangkat ke Palu pada <TIMEX3 tid="t4" type="TIME" value="2018-09-28TNI">malam ini</TIMEX3> melalui Makassar kemudian melanjutkan ke Kota Palu dan Donggala menggunakan helikopter. 
+
+Bandar Udara Mutiara Sis Al Jufri Palu ditutup dari <TIMEX3 tid="t5" type="TIME" value="2018-09-21TNI">Jumat malam</TIMEX3> 28/9/2018 <TIMEX3 tid="t6" type="TIME" value="2018-09-27T19:26">pukul 19.26 WITA</TIMEX3> hingga <TIMEX3 tid="t7" type="TIME" value="2018-09-29T19:20">Sabtu 29/9/2018 pukul 19.20 WITA</TIMEX3>. 
+
+Sementara itu, Tim Reaksi Cepat BNPB juga telah bergerak menuju Donggala melalui Balikpapan. 
+
+Dari Balikpapan, Tim Reaksi Cepat BNPB terbang ke Donggala menggunakan helikopter water bombing yang ada di Balikpapan. 
+
+Tim ini membawa peralatan komunikasi satelit dan peralatan lainnya. 
+
+TNI akan mengerahkan pasukan untuk membantu penanganan dampak gempa dan tsunami di Kota Palu dan Doggala. 
+
+TNI menggerakkan 7 SSK dari Yonkes, Yonzipur, Yonif, dan Yonzikon menggunakan 2 pesawat Hercules C-130. 
+
+Basarnas akan menggerakkan 30 personel beserta peralatan menggunakan pesawat Hercules. 
+
+Polri juga akan menggerakkan personel dan peralatan untuk memberikan dukungan penanganan darurat. 
+
+Komunikasi yang lumpuh <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> menyebabkan kesulitan untuk koordinasi dan pelaporan dengan daerah. 
+
+Kondisi listrik padam juga menyebabkan gelap gulita di Palu dan Donggala. 
+
+Gempa susulan masih terus berlangsung. 
+
+detak/inf 
+</TEXT>
+
+</TimeML>

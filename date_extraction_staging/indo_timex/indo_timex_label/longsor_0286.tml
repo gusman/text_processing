@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0286</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-10-26" temporalFunction="false" functionInDocument="CREATION_TIME">2016-10-26</TIMEX3></DCT>
+
+<TITLE>Longsor Parah di Lima Desa</TITLE>
+
+<TEXT>
+Akses jalan di lima desa, dua kecamatan putus akibat tanah longsor, <TIMEX3 tid="t1" type="DATE" value="2016-10-26">Rabu (26/10)</TIMEX3>. 
+
+Untung, tak ada korban jiwa akibat bencana itu. 
+
+Bencana ini terjadi di Kecamatan Telaga, tepatnya Desa Dulamayo Selatan dan Dulamayo Barat. 
+
+Sedangkan Kecamatan Telaga Biru, ada tiga desa, yakni Desa Tapaluluo, Desa Modelidu dan Dulamayo Utara. 
+
+Tak hanya menghambat aktivitas warga, longsor ini juga membuat para petugas PPS dari lima desa itu, jalan kaki menuju pusat kecamatan yang jaraknya mencapai lebih dari 12 km. 
+
+itupun dibawah guyuran hujan. 
+
+Hingga berita ini diturunkan, para anggota PPS dari lima desa itu belum sampai di PPK. 
+
+(hmi) 
+</TEXT>
+
+</TimeML>

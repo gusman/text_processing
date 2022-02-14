@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0571</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-03-27" temporalFunction="false" functionInDocument="CREATION_TIME">2018-03-27</TIMEX3></DCT>
+
+<TITLE>Lantai Dapur Longsor, Risa Luka Parah</TITLE>
+
+<TEXT>
+Lantai dapur milik Imas, salah satu warga di Jalan Paku Negara, RT 14, Kelurahan Raja, Kecamatan Arut Selatan, Kabupaten Kotawaringin Barat, tiba-tiba ambrol ditelan longsor. 
+
+Akibatnya, seorang karyawan Imas mengalami luka parah karena masuk ke longsoran sedalam 5 meter tersebut. 
+
+Insiden tersebut terjadi, <TIMEX3 tid="t1" type="DATE" value="2018-03-24">Minggu (24/3)</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2018-03-26T12:00">sekitar pukul 12.00 WIB</TIMEX3>. 
+
+Imas mengisahkan, kejadian longsornya lantai pada ruangan dapur berlangsung begitu cepat, hingga Risa karyawannya pun tidak sempat menyelamatkan diri saat lantai rumah bagian dapur ambrol begitu dalam. 
+
+Risa menderita luka parah pada bagian wajah, dan lengan kanannya remuk. 
+
+Saat kejadian begitu cepat, saya minta Risa karyawan saya itu untuk mengangkat jemuran, karena memang gerimis. 
+
+Pada saat Risa akan mengangkat jemuran pakaian tiba-tiba lantai yang dipijaknya ambrol dan Risa pun masuk ke dalam lubang akibat dari ambrolnya lantai itu, cerita Imas. 
+
+Menurut Imas, ambrolnya lantai dapur rumahnya itu membuat seperti lubang dengan kedalaman hampir 5 meter dan diameter 2 meter lebih. 
+
+Risa masuk dalam lubang itu, saya tidak bisa berbuat apa-apa melihat kondisi tubuh Risa sudah dipenuhi lumpur dan berada di dalam lubang yang begitu dalam. 
+
+Risa hanya bisa berteriak minta tolong. 
+
+Melihat kondisi seperti itu, saya pun hanya bisa teriak minta tolong. 
+
+Alhamdulillah selang <TIMEX3 tid="t3" type="TIME" value="UNKNOWN">10 menit datang</TIMEX3> salah satu tukang yang memang sedang memperbaiki rumah tetangga saya, kata Imas. 
+
+Melihat kondisi lubang yang dalam, lanjut Imas, tukang itu pun langsung minta pertolongan ke teman-temannya dan langsung memberikan pertolongan pada Risa. 
+
+Alhamdulillah ada yang mendengar suara teriakan minta tolong dari kami, sehingga Risa pun segera mendapatkan pertolongan, kata Imas di lokasi kejadian, <TIMEX3 tid="t4" type="DATE" value="2018-03-26">Senin (26/3)</TIMEX3>. 
+
+Sementara itu, Satuan Polisi Pamong Praja dan Pemadam Kebakaran (Satpol PP dan Damkar) Kobar begitu mendapatkan laporan langsung mendatangi ke lokasi kejadian, dan segera melakukan evakuasi terhadap barang-barang milik Imas. 
+
+Rumah tersebut rawan ambrol mengingat pascakejadian lantai rumah bagian tengah juga sudah mengalami penurunan sekitar 10 cm. 
+
+Menurut Rizky Dwi Fahrozi, anggota Sat Pol PP Kabupaten Kobar, ambrolnya lantai rumah Imas akibat dibagian bawah rumahnya terdapat sumber mata air yang begitu deras yang mengikis tanah sehingga longsor. 
+
+Bahkan, menurutnya, untuk mengetahui aliran dari mata air, anggota Damkar Kobar mencurahkan pewarna dan saat diikuti aliran tersebut, ternyata mengalir ke bagian rumah salah seorang warga yang berada tak jauh dari rumah Imas. 
+
+Sepertinya, ini sumber mata air besar karena aliran airnya begitu deras atau juga bisa jadi ada aliran sungai di bawah bangunan itu, ujar anggota Damkar Kobar itu. 
+
+Informasi terhimpun, kejadian longsornya rumah milik warga yang ada di Jalan Paku Negara RT 14 Kelurahan Baru itu bukan pertama kali terjadi. 
+
+Sebelumnya, juga pernah terjadi pada tetangga Imas dan pemilik rumah langsung menimbun dengan batu belah. 
+
+Namun, hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum diketahui asal sumber air itu dari mana? c-uli 
+</TEXT>
+
+</TimeML>

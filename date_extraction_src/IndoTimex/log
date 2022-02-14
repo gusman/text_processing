@@ -1,0 +1,7 @@
+Picked up _JAVA_OPTIONS: -Djava.net.preferIPv4Stack=true
+Feb 13, 2022 7:01:25 PM info.bethard.timenorm.TemporalExpressionParser parseAll
+WARNING: Expected no more than 2 parses for "Jumat 28 September 2018", found:
+  FindEnclosed(FindAbsolute(Map(Year -> 2018, MonthOfYear -> 9, DayOfMonth -> 28)),Map(DayOfWeek -> 5))
+  FindEnclosed(FindEnclosed(FindAbsolute(Map(Year -> 2018)),Map(MonthOfYear -> 9, DayOfMonth -> 28)),Map(DayOfWeek -> 5))
+  FindAbsolute(Map(Year -> 2018, MonthOfYear -> 9, DayOfMonth -> 28))
+  FindEnclosed(FindAbsolute(Map(Year -> 2018)),Map(MonthOfYear -> 9, DayOfMonth -> 28))

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0602</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-04" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-04</TIMEX3></DCT>
+
+<TITLE>Aksi Kapolsek Pahandut Gendong Manula, Dievakuasi karena Rumah Terendam</TITLE>
+
+<TEXT>
+Hujan deras yang mengguyur Kota Palangkaraya, Kalimantan Tengah, sejak <TIMEX3 tid="t1" type="DATE" value="2019-12-04">Rabu (4/12/2019)</TIMEX3> dini hari, hingga <TIMEX3 tid="t2" type="TIME" value="2019-12-04TMO">pagi</TIMEX3>, membuat saluran drainase meluber menggenangi jalan dan rumah warga terutama yang ada di pinggiran selokan. 
+
+Kuatnya arus air lewat selokan menuju ke Sungai Kahayan mengakibatkan, tiang penyangga gardu induk PLN di Jalan Sakan sekitar Pasar Kahayan, Palangkaraya, roboh. 
+
+Akibatnya lampu PLN pelanggan sekitar gardu tersebut padam, namun langsung diperbaiki petugas, dan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah menyala kembali setelah <TIMEX3 tid="t4" type="DURATION" value="PTXH">beberapa jam</TIMEX3> diperbaiki. 
+
+Bukan hanya itu, Informasi dari Polresta Palangkaraya, dampak banjir juga mengakibatkan dua orang manula di Kelurahan Panarung dievakuasi oleh petugas kepolisian menggunakan perahu karet. 
+
+. 
+
+Warga manula tersebut, diangkut dari tempat tinggalnya di Jalan Ramin 3, Gang Demak, Kelurahan Panarung, Kecamatan Pahandut, Kota Palangkaraya. 
+
+Dua orang yang sempat dievakuasi antara lain, Warsono (68) dan Rusinem (67) juga warga Jalam Ramin. 
+
+Evakuasi dipimpin langsung oleh Kapolsek Pahandut dan personel Satbrimob Polda Kalteng. 
+
+" Proses evakuasi usai <TIMEX3 tid="t5" type="TIME" value="2019-12-03T07:30">pukul 07.30</TIMEX3> Wib. 
+
+Untuk warga sementara dievakuasi ke Mapolsek Pahandut, " ujar Kapolsek. 
+
+Unit Patroli Satsabhara Polresta Palangkaraya juga mengevakuasi warga sekitaran Jalan Krakatau yang terkena banjir akibat curah hujan cukup tinggi.Salah seorang warga bernama Rudi Siswanto beserta keluarganya dievakuasi dengan menggunakan mobil patroli Sabhara karena air masuk ke dalam rumah hingga 70 cm atau setinggi pinggang orang dewasa.Kepala Regu Patmor Brigadir Dwi Setya menuturkan, untuk <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, warga dievakuasi ke lokasi yang lebih aman dengan menggunakan mobil patroli milik Satsabhara karena jalan yang terendam air masih bisa dilalui.Pantauan <TIMEX3 tid="t7" type="TIME" value="2019-12-03TAF">siang hari</TIMEX3> debit air sudah berangsur surut. " Kami berharap masyarakat tetap waspada karena <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, sudah memasuki <TIMEX3 tid="t9" type="DATE" value="2018-WI">musim penghujan</TIMEX3> dan sangat rawan terjadinya banjir, ujarnya.Tribunkalteng.com / faturahman 
+</TEXT>
+
+</TimeML>

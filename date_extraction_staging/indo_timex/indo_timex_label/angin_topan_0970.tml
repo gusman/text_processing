@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0970</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-03-04" temporalFunction="false" functionInDocument="CREATION_TIME">2017-03-04</TIMEX3></DCT>
+
+<TITLE>Pasca-Diterjang Angin Puting Beliung, Rumah Orang Tua Ketua DPRD Karanganyar Masih Ditutup</TITLE>
+
+<TEXT>
+Pasca diterjang angin puting beliung <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">Jumat (3/3/2017) sore kemarin</TIMEX3>, rumah orang tua Ketua DPRD Karanganyar Sumanto di Dukuh Pendem Wetan, Desa Suruh, Kecamatan Tasikmadu masih ditutup. 
+
+. 
+
+com, <TIMEX3 tid="t2" type="DATE" value="2017-03-04">Sabtu (4/3/2017)</TIMEX3>. 
+
+Nugroho mengatakan, rumah tersebut tak langsung diperbaiki. 
+
+Bahkan, sisa puing bangunan yang berserakan belum dibereskan. 
+
+" Sementara masih ditutup, kami juga masih menunggu arahan dari Pak Sumanto, " ungkapnya. 
+
+Nugroho menyebutkan, Sumanto masih menata kondisi psikologis keluarganya yang masih shock usai kejadian. 
+
+Meski demikian, pihaknya siap jika diminta bantuan untuk membereskan atau memugar bangunan rumah yang tersapu puting beliung itu. 
+
+" Kami menanti keputusan apakah mau dipugar atau tidak, jika Pak Sumanto menghendaki kami siap mengirimkan relawan, " sebutnya. 
+
+// Terkait kerugian material akibat peristiwa itu, Nugroho mengaku pihaknya belum bisa memperkirakan. 
+
+" <TIMEX3 tid="t3" type="DATE" value="2017-03-03">Kemarin</TIMEX3> langsung ditutup, sehingga kami belum bisa menghitung kerugian, " katanya. 
+
+Sementara, tiga orang pekerja di rumah orang tua Sumanto yang menjadi korban, <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih dirawat di RSUD Karanganyar. 
+
+. 
+
+(*)Save 
+</TEXT>
+
+</TimeML>

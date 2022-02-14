@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0037</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-09-24" temporalFunction="false" functionInDocument="CREATION_TIME">2016-09-24</TIMEX3></DCT>
+
+<TITLE>Lahan Gambut Babahrot Mulai Terbakar</TITLE>
+
+<TEXT>
+Lahan gambut kawasan Mata Ie, Desa Persiapan Teuladan Jaya, Kecamatan Babahrot, Aceh Barat Daya (Abdya), dilaporkan mulai terbakar, <TIMEX3 tid="t1" type="TIME" value="2016-09-24TAF">Sabtu (24/9/2016) sore</TIMEX3>. 
+
+Berdasarkan laporan diterima Kepala Badan Penanggulangan Bencana Kabupaten (BPBK) Abdya, Amiruddin, kebakaran lahan gambut terjadi <TIMEX3 tid="t2" type="TIME" value="2016-09-23T13:00">sekitar pukul 13.00 WIB</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2016-09-24">Sabtu</TIMEX3>. 
+
+Lokasi lahan gambut yang terbakar adalah daerah Mata Ie, daerah pedalaman Kecamatan Babahrot, malah jauh dari pusat Desa Persiapan Teuladan Jaya. 
+
+Penyebab kebakaran, menurut Amiruddin, belum diketahui secara pasti. 
+
+" Dugaan sementara, api dari puntung rokok, tetapi belum ada yang mengaku. 
+
+Aparat Polsek dan Muspika Babahrot sudah ada di lokasi, " kata Kepala BPBK Abdya itu. 
+
+Amiruddin menjelaskan, tiga unit mobil pemadam kebakaran sudah dikerahkan untuk menangani kebakaran gambut di lokasi, termasuk belasan personel pemadam kebakaran. 
+
+Kendala akses jalan ke titik apa yang sulit dijangkau, petugas pemadam tetap berusaha menyiram air melalui selang air yang ditarik ke lokasi lahan gambut yang terbakar. 
+
+(*) 
+</TEXT>
+
+</TimeML>

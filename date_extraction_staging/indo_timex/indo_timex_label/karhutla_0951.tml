@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0951</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-28" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-28</TIMEX3></DCT>
+
+<TITLE>Polisi Bersama Warga Padamkan Kebakaran Lahan</TITLE>
+
+<TEXT>
+Kebakaran lahan perkebunan milik rakyat kembali terjadi di Gunung Baluno Desa Totolisi Kecamatan Sendana <TIMEX3 tid="t1" type="DATE" value="2018-09-27">Kamis (27/9/2018) kemarin</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2018-09-27T19:00">pukul 19.00</TIMEX3> Wita. 
+
+Kapolsek Sendana AKP Achmad Syarif Tola foto: ipunkMendapat laporan masyarakat, jajaran Polsek Sendana langsung menuju ke tempat kejadian peristiwa. 
+
+Menurut Kapolsek Sendana AKP Achmad Syarif Tola, Jum at <TIMEX3 tid="t3" type="DATE" value="2018-08-28">(28/8/2018)</TIMEX3> kebakaran lahan di Gunung Baluno Dusun Boddi Desa Binanga berbatasan dengan Dusun Totolisi Selatan Desa Totolisi Sendana diduga diakibatkan oleh puntung rokok. 
+
+Kebakaran lahan perkebunan rakyat seluas sekitar 2 Ha dan berjarak sekitar 200 meter dari jalan poros Majene Mamuju itu berhasil dipadamkan oleh polisi bersama masyarakat setempat. 
+
+Di sekitar TKP tidak terdapat rumah penduduk. 
+
+Sumber api diperkirakan karena adanya orang dari kebun membuang puntung rokok yang masih menyala dan dibuang di sembarang tempat, sehingga mengakibatkan rumput dan alang-alang kering terbakar dan menjalar dengan cepat, tutur Kapolsek Sendana AKP Achmad Syarif Tola. 
+
+Lebih jauh katanya, api berhasil dipadamkan secara manual dengan menggunakan tangkai kayu dan pelepah kelapa. 
+
+Bersama Bhabinkamtibmas Desa Binanga dan Desa Leppangan, Aiptu Ismail dan Personil Polsek Sendana serta warga Dusun Totolisi, Warga Dusun Boddi Desa Binanga Kecamatan Sendana bahu membahu memadamkan api, beber AKP Achmad Syarif Tola. 
+
+Ia mengimbau kepada masyarakat agar tidak membuang sembarang puntung rokok di saat musim kemarau seperti <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang ini</TIMEX3>. 
+
+(ipunk) 
+</TEXT>
+
+</TimeML>

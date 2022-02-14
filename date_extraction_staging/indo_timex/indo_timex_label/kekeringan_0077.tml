@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0077</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-07-23" temporalFunction="false" functionInDocument="CREATION_TIME">2015-07-23</TIMEX3></DCT>
+
+<TITLE>Petani Sayur di Baluijuk Mulai Mengeluh Kekeringan</TITLE>
+
+<TEXT>
+Ketersediaan air paling penting untuk bertani sayur adalah air. 
+
+Di saat-saat <TIMEX3 tid="t1" type="DATE" value="2015-SU">musim kemarau</TIMEX3> seperti <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>, sumber air banyak didatangi warga, bahkan sudah ada yang mengering. 
+
+Petani sayur di Desa Balun Ijuk Kecamatan Merawang Kabupaten Bangka Provinsi Bangka Belitung mulai merasakan kesulitan. 
+
+Effendi seorang petani sayur mengatakan, semenjak <TIMEX3 tid="t3" type="DATE" value="2015-SU">musim kemarau</TIMEX3> beberapa bulan terakhir air di kebunnya mulai menyusut. 
+
+" Sudah ada yang mengering. 
+
+Air-air sungai tempat pemandian juga sudah mulai menyusut, warga mulai bedatangan mencari air ke kebun-kebun, kami juga mulai merasakannya " sebut Efendi kepada bangkapos. 
+
+com, <TIMEX3 tid="t4" type="DATE" value="2015-07-23">Kamis</TIMEX3> (23/7/2015)Begitu juga dengan kebun milik tetangganya. 
+
+Biasanya untuk menyiram sayur-sayur pada musim sekarang dilakukan <TIMEX3 tid="t5" type="TIME" value="2015-07-23TMO">pagi-pagi</TIMEX3>, karena air masih banyak. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0719</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-10-20" temporalFunction="false" functionInDocument="CREATION_TIME">2015-10-20</TIMEX3></DCT>
+
+<TITLE>Tim Terpadu Bantu Korban Hutan Terbakar Di Seram</TITLE>
+
+<TEXT>
+Pemerintah Provinsi (Pemprov) Maluku memberangkatkan tim terpadu untuk membantu para korban hutan terbakar di Pulau Seram, Kabupaten Maluku Tengah. 
+
+Tim terpadu telah diberangkatkan dengan membawa bantuan bagi para korban kebakaran hutan di Seram Utara, kata Sekretaris Badan Penanggulangan Bencana Daerah (BPBD) Maluku Kifly Wakanno di Ambon, <TIMEX3 tid="t1" type="DATE" value="2015-10-20">Selasa (20/10)</TIMEX3>. 
+
+Penyaluran bantuan diprioritaskan ke Seram Utara karena keterbatasan bahan pokok masyarakat di sana. 
+
+Gubernur Maluku Said Assagaff menginstruksikan segera menyalurkan bantuan dan tim terpadu diarahkan ke Seram Utara untuk membantu para pengungsi, ujarnya. 
+
+Apalagi kebakaran hutan juga melanda komunitas adat terpencil (KAT) Huaulu. 
+
+Jadi tim terpadu diarahkan membawa bantuan sekaligus mendata jumlah pengungsi maupun korban material akibat hutan terbakar, tegas Kifly. 
+
+Sebelumnya, Gubernur Maluku Said Assagaff mengemukakan Menteri Lingkungan Hidup dan Kehutanan Siti Nurbaya mengkonfirmasi adanya kebakaran hutan di pulau Seram. 
+
+Ibu Menteri intensif memantau perkembangan kebakaran hutan yang sempat diinformasikan mencapai 40.000-50.000 hektare di pulau Seram, katanya. 
+
+Padahal berdasarkan data Badan Meteorologi, Klimatologi dan Geofisika (BMKG) maupun menurut keterangan Bupati Maluku Tengah Abua Tuasikal yang terbakar hanya 1.000 hektare lebih. 
+
+Bupati Maluku Tengah Abua Tuasikal telah berkoordinasi dengan personil TNI untuk memadamkan api yang sulit dijangkau lokasinya. 
+
+Kebakaran terjadi di kawasan gunung yang tinggi dengan jurang terjal sehingga sulit dijangkau untuk dipadamkan. 
+
+Apalagi, kebakaran disulut hembusan angin kencang sehingga api menjalar dengan cepat. 
+
+Terpenting penanganan para korban, terutama kebutuhan makanan yang telah dipasok ke lokasi-lokasi penampungan, ujarnya. 
+
+Abua mengatakan pihaknya telah melakukan upaya penanganan kebakaran hutan yang terjadi di Kecamatan Seram Utara Timur Kobi, baik dari sisi pemenuhan kebutuhan pangan kepada warga masyarakat yang menjadi korban, terutama bagi mereka yang perkebunannya terbakar maupun upaya pemadaman api. 
+
+Kondisi hutan dengan medan yang sulit serta jarak tempuh ke titik api sangat sulit dijangkau dengan menggunakan kendaraan bermotor membuat api belum dapat dipadamkan, tandasnya. 
+</TEXT>
+
+</TimeML>

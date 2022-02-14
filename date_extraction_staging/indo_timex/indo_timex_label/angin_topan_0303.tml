@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0303</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-17" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-17</TIMEX3></DCT>
+
+<TITLE>Diterjang Puting Beliung, 10 Rumah di Cibatu Garut Rusak</TITLE>
+
+<TEXT>
+Sedikitnya 10 rumah warga kampung Naska, Kertajaya Cibatu, Kabupaten Garut, rusak diterjang puting beliung. 
+
+Peristiwa tanpa diduga itu terjadi <TIMEX3 tid="t1" type="TIME" value="2020-01-16TAF">sore hari</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2020-01-16">Kamis (16/1/2020)</TIMEX3> sekira <TIMEX3 tid="t3" type="TIME" value="2020-01-16T15:30">pukul 15.30 WIB</TIMEX3>. 
+
+Dua rumah di antaranya rusak berat. 
+
+Kerugian material ditaksir ratusan juta rupiah. 
+
+Tidak ada korban yang meninggal akibat musibah itu. 
+
+Namun seorang bocah, Windi (13) kakinya patah akibat tertimpa kayu yang roboh. 
+
+Jumlah warga yang terdampak 55 orang. 
+
+Rumah yang mengalami rusak berat milik Rohmat (48) dan Nia (40). 
+
+Delapan rumah lainnya yang rusak ringan Ian (48), Jono (40), Atang (47), Firman (52), Darus (45), dan Ojon (50). 
+
+
+</TEXT>
+
+</TimeML>

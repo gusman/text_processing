@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0788</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-02" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-02</TIMEX3></DCT>
+
+<TITLE>Bikin Sedih, Muhammad Zaini Temukan Ayahnya Menggigil dan Ibunya Sudah Mengambang</TITLE>
+
+<TEXT>
+Cerita ini bikin sedih kita semua. 
+
+Seorang pria yang mencari kedua orangtuanya yang terjebak banjir. 
+
+Dia pun melakukan evakuasi. 
+
+Nama pria itu adalah Muhammad Zaini (43) dia kemudian menceritakan kisahnya saat mengevakuasi kedua orangtuanya. 
+
+Diberitakan sebelumnya bahwa ada pasangan lansia, Muhammad Ali (82) dan Nawah (70), terjebak banjir dan belum dievakuasi. 
+
+Untuk diketahui, Muhammad Ali dan Nawah merupakan korban banjir yang terjebak di Jalan H Amsir RT 004/004, Cipinang Melayu, Jakarta Timur sejak <TIMEX3 tid="t1" type="TIME" value="2020-01-01T03:00">Rabu (1/1/2020) pukul 03.00 WIB</TIMEX3> dini hari. 
+
+Zaini dan adiknya ditemani petugas naik perahu karet ke rumah kedua orangtuanya. 
+
+Perjalanan ke lokasi lumayan sulit, lantaran harus melawan arus air yang cukup deras. 
+
+Saat sampai, mereka dan petugas bergegas langsung membongkar dinding di mana kedua orangtuanya berada. 
+
+" Pas sampai, adik saya mendengar bapak meminta tolong, " kata Zaini saat ditemui di posko banjir Cipinang Melayu, Jakarta Timur. 
+
+Ketika ditemukan, Ali sudah dalam keadaan menggigil karena terjebak banjir selama <TIMEX3 tid="t2" type="DURATION" value="PT12H">12 jam</TIMEX3> lebih.Tanpa lama, Ali pun langsung menyelamatkan sang ayah. 
+
+// Namun nahas, sang ibu saat ditemukan sudah dalam kondisi tidak bernyawa. 
+
+" Posisi ibu itu ada di dalam, itu sudah ngambang, " ungkap Zaini. 
+
+Saat perjalanan balik, katanya, petugas harus melawan arus air yang cukup deras sehingga memerlukan tenaga ekstra. 
+
+Zaini menambahkan, ayahnya langsung dilarikan k Rumah Sakit Budi Asih untuk penanganan lebih lanjut. 
+
+Selain itu, Zaini juga mengungkapkan, kedua orangtuanya di saat banjir hanya berdua. 
+
+" Mereka hanya berdua. 
+
+Tinggal bersama kakak saya, tapi kakak saya pergi ke Bandung ajak anaknya jalan-jalan liburan sekolah dan <TIMEX3 tid="t3" type="DATE" value="2020-01-01">tahun baru</TIMEX3>, " ungkapnya. 
+
+Kendati demikian, sebelum peristiwa banjir tersebut, kedua orangtuanya dalam kondisi sehat. 
+
+Hanya saja, sudah tidak terlalu kuat berjalan karena faktor usia. 
+
+
+</TEXT>
+
+</TimeML>

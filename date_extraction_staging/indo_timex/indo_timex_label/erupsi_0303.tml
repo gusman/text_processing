@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0303</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-03" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-03</TIMEX3></DCT>
+
+<TITLE>Bukan Cuma Merapi, 12 Gunung di Indonesia Ini Juga Waspada dan Siaga</TITLE>
+
+<TEXT>
+Gunung Merapi di perbatasan Daerah Istimewa Yogyakarta (DIY) dan Jawa Tengah (Jateng) mengalami erupsi lagi, <TIMEX3 tid="t1" type="TIME" value="2020-03-03">Selasa 3 Maret 2020 pagi ini</TIMEX3>. 
+
+Ini untuk kesekian kalinya gunung berapi aktif ini meletus. 
+
+Dalam beberapa peristiwa letusan, bahkan sampai menelan korban jiwa dan kerusakan material yang tidak sedikit. 
+
+Batuk kecil Merapi tadi <TIMEX3 tid="t2" type="TIME" value="2020-03-03TMO">pagi</TIMEX3> saja menyebabkan sebanyak empat penebangan dibatalkan karena adanya pergerakan debu vulkanik. 
+
+Bukan lantaran menular, sejumlah gunung berapi di berbagai belahan Indonesia juga mengalami " batuk-batuk " belakangan ini. 
+
+Status Gunung Merapi sendiri hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih pada level waspada, sejak <TIMEX3 tid="t4" type="DATE" value="2018-05-21">21 Mei 2018</TIMEX3>. 
+
+.1. 
+
+Gunung Karangetang (Sulawesi Utara). 
+
+Karangetang berada dalam tingkat aktivitas level III (Siaga), memiliki ketinggian 1.784 m di atas permukaan laut (dpl) kembali erupsi sejak <TIMEX3 tid="t5" type="DATE" value="2018-11-25">25 November 2018</TIMEX3>. 
+
+
+</TEXT>
+
+</TimeML>

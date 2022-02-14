@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0009</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-02-04" temporalFunction="false" functionInDocument="CREATION_TIME">2017-02-04</TIMEX3></DCT>
+
+<TITLE>Babinsa Bantu Bersihkan Rumah Terendam Banjir</TITLE>
+
+<TEXT>
+Hujan lebat yang melanda Tamiang Hulu kemaren malam (1/2) mengakibatkan beberapa rumah warga yang terletak di Pemukiman sekitar lereng pegunungan yang tak jauh dari sungai ini terendam banjir lumpur.
+
+Komandan Koramil 14/Tamiang Hulu Kapten Inf Nunu Rukmana yang memonitor kejadian ini dengan sigap langsung memerintahkan seluruh anggotanya untuk membantu membersihkan rumah-rumah warga dari genangan lumpur.
+
+Melaksanakan perintah Danramil, para Babinsa Koramil 14/Tamiang Hulu berbondong-bondong bantu membersihkan rumah warga dari genangan lumpur di desa Ronggo, Kecamatan Tamiang Hulu, Aceh Tamiang, Kamis (2/2).
+
+Menurut Danramil 14 yang memimpin pembersihan pemukiman warga tersebut, lumpur yang naik berasal dari luapan sungai Tamiang Hulu.
+
+Dikarenakan pemukiman warga tersebut terletak di Area Pegunungan, maka setiap kali hujan yang turun dengan intensitas tinggi pasti berdampak seperti luapan air sungai.
+
+Akibatnya lumpur pun naik merendam pemukiman warga.
+
+Dengan bantuan kami, warga pun merasa terbantu dan hingga sore tadi pemukiman warga yang tergenang lumpur sudah bersih dan bisa ditempati kembali,  ungkap Kapten Inf Nunu Rukmana.
+
+(rel/min)
+</TEXT>
+
+</TimeML>
+

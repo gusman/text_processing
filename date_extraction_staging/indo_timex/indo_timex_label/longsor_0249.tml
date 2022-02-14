@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0249</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-05-13" temporalFunction="false" functionInDocument="CREATION_TIME">2016-05-13</TIMEX3></DCT>
+
+<TITLE>Taba Penanjung Kembali Longsor</TITLE>
+
+<TEXT>
+Setelah longsor yang terjadi pada <TIMEX3 tid="t1" type="DATE" value="2016-05-12">Kamis (12/5/2016)</TIMEX3>, daerah Taba Penanjung atau Jalan Lintas Bengkulu-Kepahiang kembali tertimpa longsor, Jum at <TIMEX3 tid="t2" type="DATE" value="2016-05-13">(13/5/2016)</TIMEX3>. 
+
+Meski tidak separah yang <TIMEX3 tid="t3" type="DATE" value="2016-05-12">kemarin</TIMEX3>, namun langsor ini sempat membuat kendaraan macet selama <TIMEX3 tid="t4" type="DURATION" value="PT1H">satu jam</TIMEX3>. 
+
+. 
+
+Namun setelah gumpalan longsor dikeruk menggunakan alat berat, kendaraan kembali diperbolehkan melintas, katanya kepada Pedoman Bengkulu. 
+
+Berdasarkan keterangan yang ia dapatkan, longsor tersebut terjadi akibat hujan deras yang terjadi sejak <TIMEX3 tid="t5" type="TIME" value="2016-05-12T15:00">pukul 15.00 WIB</TIMEX3>, <TIMEX3 tid="t6" type="DATE" value="2016-05-12">Kamis (12/5/2016)</TIMEX3>. 
+
+Titik longsor <TIMEX3 tid="t7" type="DATE" value="2016-05-13">hari ini</TIMEX3> terjadi persis pada titik longsor yang terjadi <TIMEX3 tid="t8" type="DATE" value="2016-05-12">kemarin</TIMEX3>. 
+
+<TIMEX3 tid="t9" type="TIME" value="2016-05-12T16">Sekitar jam 4 sore tadi</TIMEX3> sudah bisa dilintasi kembali. 
+
+Aparat yang berjaga menerapkan sistem buka tutup. 
+
+Saya sendiri <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> sudah tiba di Kepahiang. 
+
+Setiap kendaraan yang ingin melintas sebaiknya lebih berhati-hati, demikian Nugroho. 
+
+RN 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0163</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-11" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-11</TIMEX3></DCT>
+
+<TITLE>Kabut Asap Selimuti Dam Mukakuning</TITLE>
+
+<TEXT>
+Dampak kebakaran hutan dan lahan terus memicu munculnya kabut asap di Kota Batam. 
+
+Salah satu kawasan yang terdampak adalah hutan lindung Dam Mukakuning. 
+
+Humas Manggala Agni Batam, Herman, mengatakan, kabut asap menyelimuti hampir seluruh bagian hutan lindung Dam Mukakuning. 
+
+Kita terus akan lakukan pemantauan di lapangan dan sudah koordinasi dengan BMKG Kepri perihal kabut asap ini, katanya kepada batampos. 
+
+co. 
+
+id, <TIMEX3 tid="t1" type="DATE" value="2019-09-10">Rabu (10/9/2019)</TIMEX3>. 
+
+Ia menambahkan pihaknya akan menelusuri penyebab kabut asap apakah benar terjadi karena pembakaran lahan atau memang kabut asap kiriman. 
+
+Kita akan telusuri penyebab timbulnya kabut asap itu, di sini (Batam) tidak ada kebakaran. 
+
+Sepertinya memang kabut asap kiriman, tegasnya. 
+
+Sejauh ini Manggala Agni sudah memonitor titik yang berpotensi kebakaran lahan. 
+
+Anggota Manggala Agni telah tersebar di beberapa wilayah yang berpotensi timbulnya kebakaran hutan dan lahan. 
+
+Di tambah lagi kondisi di kawasan Dam dan sekitarnya <TIMEX3 tid="t2" type="DATE" value="PAST_REF">akhir-akhir ini</TIMEX3> cukup kering karena hujan jarang turun, imbuhnya. 
+
+Pantauan di lapangan <TIMEX3 tid="t3" type="TIME" value="2019-09-10T07">sekitar jam 7.00</TIMEX3> hingga menjelang <TIMEX3 tid="t4" type="TIME" value="2019-09-10TAF">siang</TIMEX3>, kabut tak kunjung hilang. 
+
+Pencemaran udara ini menimbulkan pertanyaan warga, khususnya pengendara yang berhenti <TIMEX3 tid="t5" type="DURATION" value="PXX">sejenak</TIMEX3> untuk melihat area hutan Dam Mukakuning yang sudah mulai tak terawat karena terbakar <TIMEX3 tid="t6" type="DATE" value="PXM">beberapa bulan yang lalu</TIMEX3>. 
+
+Perlu diperhatikan (lahan yang terbakar), agar tidak diperparah dengan modus pembukaan lahan untuk perkebunan dan pertanian dengan cara membakar, ujar salah satu pekerja yang berada di lokasi. 
+
+Hal senada juga diutarakan warga Rusun Mukakuning. 
+
+Lokasi Rusun yang tak jauh dari Dam membuat banyak warga yang mengeluh susah bernapas karena menghirup asap tebal <TIMEX3 tid="t7" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir. 
+
+Yang tinggal di sini juga banyak anak-anak, jadinya terganggu pernapasan akibat asap yang berasal dari Dam tersebut, ujar Marlina.(cr1) 
+</TEXT>
+
+</TimeML>

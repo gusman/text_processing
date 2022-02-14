@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0024</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-10" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-10</TIMEX3></DCT>
+
+<TITLE>Korban Meninggal akibat Bencana Gempa dan Tsunami di Sulteng Bertambah Jadi 2.045 Orang</TITLE>
+
+<TEXT>
+Jumlah korban meninggal dunia akibat bencana gempa bumi dan tsunami di Sulawesi Tengah, per <TIMEX3 tid="t1" type="TIME" value="2018-10-10T13:00">10 Oktober 2018 pukul 13.00 WIB</TIMEX3>, meningkat menjadi <TIMEX3 tid="t2" type="DATE" value="2045">2045</TIMEX3> orang. 
+
+Jumlah tersebut terdiri dari 1.636 orang dari Kota Palu, 171 orang dari Donggala, Sigi 222 orang, Parigi Moutong 15 orang, dan Pasang Kayu Sulawesi Barat 1 orang. 
+
+" Awalnya kami menduga Donggala yang paling parah karena pusat gempa ada di sana. 
+
+Tapi ternyata yang paling parah Kota Palu, dan itu akibat tsunami, " kata Kepala Pusat Data, Informasi dan Hubungan Masyarakat Badan Nasional Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho di kantor BNPB, Utan Kayu, Jakarta Timur, <TIMEX3 tid="t3" type="DATE" value="2018-10-03">Rabu (10/10/2018)</TIMEX3>. 
+
+Sutopo menjelaskan, korban meninggal dunia paling banyak akibat tersapu tsunami. 
+
+Jumlah itu, kata Sutopo, masih bisa bertambah seiring dengan proses evakuasi korban yang masih terus berlanjut. 
+
+Seluruh korban tersebut, menurut data BNPB, sudah dimakamkan. 
+
+Sebanyak 969 korban dimakamkan secara massal, sedangkan 1.076 korban dimakamkan oleh keluarga. 
+
+Selain korban meninggal dunia, BNPB mencatat 10.679 orang luka berat. 
+
+Tercatat pula 671 orang hilang yang diperkirakan masih tertimbun di bawah reruntuhan bangunan akibat gempa dan tsunami.Selain itu, gempa bermagnitudo 7,4 SR yang terjadi pada <TIMEX3 tid="t4" type="DATE" value="UNKNOWN">28 September 2018 itu</TIMEX3> juga mengakibatkan 82.775 mengungsi di sejumlah titik. 
+
+// Dilaporkan pula, 67.310 rumah dan 2.736 sekolah rusak, 20 fasilitas kesehatan dan 12 titik jalan rusak berat. 
+
+.00 <TIMEX3 tid="t5" type="TIME" value="UNKNOWN">WIB</TIMEX3>, Badan Meteorologi, Klimatologi dan Geofisika (BMKG) mencatat ada 526 gempa susulan, pascagempa bermagnitudo 7,4 mengguncang Sulawesi Tengah, <TIMEX3 tid="t6" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Namun demikian, dari jumlah tersebut, hanya ada 17 gempa yang dirasakan oleh masyarakat. 
+
+Sutopo mengatakan, frekuensi dan kekuatan gempa susulan dari hari ke hari juga semakin mengecil. 
+
+" Kalau kita melihat trennya, semakin mengecil frekuensinya dan magnitudonya juga semakin kecil. 
+
+Artinya, mulai stabil, " ujar Sutopo di kantor BNPB, Utan Kayu, Jakarta Timur, <TIMEX3 tid="t7" type="DATE" value="2018-10-03">Rabu (10/10/2018)</TIMEX3>. 
+
+Frekuensi dan kekuatan gempa susulan yang kian mengecil itu, kata Sutopo, menandakan sistem sesar Palu Koro pergerakannya kian normal. 
+
+Sutopo juga menyebut, terjadinya gempa susulan menunjukkan proses keseimbangan sebuah sesar gempa. 
+
+Sutopo menyebut, ke depannya gempa susulan berpotensi terus terjadi. 
+
+Namun demikian, masyarakat diminta untuk tetap tenang. 
+
+// Gempa bermagnitudo 7,4 dan tsunami yang melanda Sulawesi Tengah, <TIMEX3 tid="t8" type="DATE" value="2018-10-08">Jumat (8/10/2018)</TIMEX3> juga mengakibatkan 2.045 orang meninggal dunia. 
+
+BNPB mencatat juga, ada 671 orang hilang dan 10.679 orang luka berat. 
+
+Tercatat pula 82.775 warga mengungsi di sejumlah titik. 
+
+Dilaporkan pula, 67.310 rumah dan 2.736 sekolah rusak. 
+
+Ditambah lagi, terdapat 20 fasilitas kesehatan dan 12 titik jalan rusak berat. 
+
+. 
+
+com dengan judul " Korban Meninggal akibat Bencana di Sulteng Bertambah Jadi 2.045 Orang " 
+</TEXT>
+
+</TimeML>

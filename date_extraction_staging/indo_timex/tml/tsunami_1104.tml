@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1104</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-27" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-27</TIMEX3></DCT>
+
+<TITLE>Pemkab ini Kirim Relawan ke Banten</TITLE>
+
+<TEXT>
+Pemerintah Kabupaten Muba bergerak cepat dalam membantu korban tsunami Selat Sunda di Provinsi Banten dan Lampung.
+
+Sepuluh relawan yang tergabung dalam Emergency Medical Response Team (EMRT) RSUD Sekayu diberangkatkan menuju Pandeglang, Banten, Kamis (27/12) dari Bandara Sultan Mahmud Badaruddin (SMB) II.
+
+Mereka terdiri dari satu dokter Spesialis Bedah dan Spesialis Pengakit Dalam, 3 Dokter Umum dan 5 Perawat yang dipimpin oleh dr Hendra Cipta SpB.
+
+Mereka (relawan) akan bertugas selama seminggu.
+
+Tetapi melihat situasi di lapangan.
+
+Apakah diperpanjang atau tidak,  kata Makson.
+
+(yud/dom)
+</TEXT>
+
+</TimeML>
+

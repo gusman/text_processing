@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0398</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-28" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-28</TIMEX3></DCT>
+
+<TITLE>Gempa Bumi di Donggala, Mal Tatura Palu Dilaporkan Rubuh</TITLE>
+
+<TEXT>
+Inilah laporan terakhir kondisi Kota Palu, Sulawesi Tengah, pasca-gempa <TIMEX3 tid="t1" type="TIME" value="2018-09-27T17:00">pukul 17.00</TIMEX3> wita, <TIMEX3 tid="t2" type="DATE" value="2018-09-28">Jumat (28/9/2018)</TIMEX3>. 
+
+Sejumlah bangunan tua di sepanjang Jl Trans Sulawesi, atau Jl RE Martadinata, Palu Selatan dikabarkan rubuh. 
+
+Mal Tatura, di Jl Emmy Saelan, Lau Selatan, Kota Palu dikabarkan rubuh. 
+
+" Betul Mal Tatura rubuh, Hotel Asiyra dan batching Plant saya di seberang Water Front Citra Land Palu, juga rubuh, saya update terus infonya, " kata Oetomo Tjandra, pengusaha pemilik Batching Plant di sekitar Teluk Palu, kepada Tribun, <TIMEX3 tid="t3" type="TIME" value="2018-09-27T18:45">pukul 18.45</TIMEX3> wita. 
+
+Oetomo yang mengaku masih di Surabaya, mendapat laporan dari karyawan dan stafnya dari Palu, <TIMEX3 tid="t4" type="TIME" value="2018-09-27T18:30">pukul 18.30</TIMEX3> witaSebelumnya, dilaporkan warga Kota Palu, panik. 
+
+Mal Tatura salah salah satu pusat perbelanjaan tertua di kota Palu. 
+
+Mal ini diresmikan <TIMEX3 tid="t5" type="DATE" value="2006">tahun 2006</TIMEX3>, atau suah berusia <TIMEX3 tid="t6" type="DURATION" value="P12Y">12 tahun</TIMEX3>. 
+
+Belum ada laporan resmi apakah ada korban jiwa yang tertimpa reruntuhan mal saat gempa 7,7 SR ini. 
+
+Lili Chandra, warga Jl Gadjah Mada, Palu, melaporkan, suasana kota berpenduduk sekitar 460 ribu warga ini, mencekam " Kami hanya di sekitar rumah. 
+
+Gempa terus. 
+
+" Ujarnya. 
+
+// Dia juga melporkan salah seorang adiknya lagi sibuk mencari neneknya yang sudah berusia 80-an tahun. 
+
+" Adik lagi cari nenek pakai motor. 
+
+Macet, semua orang di jalan " kata Lili. 
+
+Dilaporkan listrik di bagian kota padam. 
+
+Rumah warga gelap gulita. 
+
+Jalan-jalan dilaporkan retak.10 Kali GempaBerikut daftar gempa yang mengguncang Sulawesi Tengah, tepatnya di Kota Palu, Kabupaten Donggala, Kabupaten Sigi, dan getarannya terasa hingga di Sulawesi Selatan dan Sulawesi Barat. 
+
+Gempa kesepuluh* pukul:18:06:52 WIB* kekuatan:5.4 SR* lokasi:01.56 LS,119.95 BT // * pusat:10 Km tenggara Sigi, kedalaman 10 KmGempa kesembilan* pukul:17:47:45 WIB* kekuatan:5.0 SR* lokasi:0.46 LS,119.91 BT* pusat:9 Km tenggara Donggala, kedalaman 10 KmGempa kedelapan* pukul:17:39:05 WIB* kekuatan:5.5 SR* lokasi:0.54 LS,119.86 BT // * pusat:13 Km tenggara Donggala, kedalaman 11 KmGempa ketujuh* pukul:17:25:07 WIB* kekuatan:5.9 SR* lokasi:0.93 LS,119.99 BT* pusat:12 Km tenggara Palu, kedalaman 10 KmGempa keenam* pukul:17:14:25 WIB* kekuatan:6.1 SR* lokasi:0.09 LU,119.94 BT* pusat:58 Km timur laut Donggala, kedalaman 10 KmGempa kelima* pukul:17:02:44 WIB* kekuatan:7.7 SR* lokasi:0.18 LS,119.85 BT* pusat:27 Km timur laut Donggala, kedalaman 10 Km* peringatan: sempat berpotensi tsunami, lalu dicabutGempa keempat* pukul:15:25:00 WIB* kekuatan:5.3 SR* lokasi:0.35 LS,119.91 BT* pusat:11 Km timur laut Donggala, kedalaman 10 KmGempa ketiga* pukul:14:28:37 WIB* kekuatan:5.0 SR* lokasi:0.34 LS, 119.87 BT* pusat:10 Km timur laut Donggala, kedalaman 10 KmGempa kedua* pukul:13:59:56 WIB* kekuatan:5.9 SR* lokasi:0.35 LS, 119.82 BT* pusat:61 Km arah utara Palu, kedalaman 10 KmGempa pertama* pukul:13:59:56 WIB* kekuatan:5.9 SR* lokasi:0.35 LS, 119.82 BT* pusat:61 Km arah utara Palu, kedalaman 10 Km1 TewasAkibat gempa bumi tersebut, data dari Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana, Sutopo Purwo Nugroho, seorang tewas dan 10 luka. 
+
+Selain itu, puluhan bangunan rusak. 
+
+. 
+
+(*) 
+</TEXT>
+
+</TimeML>

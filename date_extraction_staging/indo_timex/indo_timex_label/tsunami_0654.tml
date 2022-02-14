@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0654</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>UPDATE TSUNAMI LAMPUNG - Akses ke Pulau Sebesi dan Pulau Sebuku Masih Terisolasi</TITLE>
+
+<TEXT>
+Sampai <TIMEX3 tid="t1" type="DATE" value="2018-12-23">Minggu</TIMEX3>, <TIMEX3 tid="t2" type="TIME" value="2018-12-23TAF">23 Desember 2018 sore</TIMEX3>, kondisi masyarakat yang bermukim di Desa Tejang Pulau Sebesi dan Pulau Sebuku masih belum diketahui. 
+
+Pasalnya, akses menuju kedua pulau berpenghuni tersebut belum bisa ditembus alias masih terisolasi. 
+
+Dari informasi yang diperoleh, masyarakat di kedua pulau tersebut turut merasakan dampak dari gelombang tsunami yang terjadi pada <TIMEX3 tid="t3" type="DATE" value="2018-12-22">Sabtu</TIMEX3>, <TIMEX3 tid="t4" type="TIME" value="2018-12-22TNI">22 Desember 2018 malam</TIMEX3>. 
+
+Gubernur Lampung M Ridho Ficardo saat mengunjungi korban yang dirawat di RSUD Bob Bazar, <TIMEX3 tid="t5" type="DATE" value="2018-12-23">Minggu</TIMEX3>, mengatakan, Pemprov Lampung juga akan memberikan perhatian pada masyarakat di pulau-pulau kecil, seperti Pulau Sebesi dan Pulau Legundi. 
+
+Menurutnya, Pemprov Lampung akan berkoordinasi dengan aparat kepolisian dan TNI AL guna membantu sarana untuk mencapai pulau-pulau kecil. 
+
+Insya Allah <TIMEX3 tid="t6" type="DATE" value="2018-12-24">besok</TIMEX3> kita akan coba untuk menjangkau pulau-pulau kecil. 
+
+Segera melakukan upaya tanggap darurat bagi masyarakat di pulau-pulau kecil yang terkena dampak gelombang tinggi, kata dia. 
+
+Baru Kali PertamaTsunami Lampung yang menghantam kawasan pesisir pantai Kecamatan Rajabasa dan Kalianda merupakan peristiwa kali pertama. 
+
+// Tawar, warga Desa Way Muli, Kecamatan Kalianda, mengatakan, saat tsunami menghantam <TIMEX3 tid="t7" type="TIME" value="2018-12-22T22:00">sekitar pukul 22.00 WIB</TIMEX3>, suasana menjadi sangat mencekam. 
+
+Warga panik dan berlarian menyelamatkan diri menuju kaki Gunung Rajabasa. 
+
+Gelombang datang tiga kali. 
+
+Pertama tidak terlalu besar. 
+
+Gelombang kedua dan ketiga besar mencapai lima meter. 
+
+Karenanya, rumah yang berdekatan dengan laut banyak yang rusak, kata dia. 
+
+Menurut Tawar, kejadian tsunami seperti ini baru kali pertama terjadi. 
+
+Sebelumnya, gelombang pasang tidak sampai memorakporandakan rumah warga. 
+
+Hal sama diungkapkan Nur, warga Dusun Pangkul, Rajabasa. 
+
+Rumahnya rusak tak bersisa karena disapu gelombang pasang. 
+
+Beruntung, keluarganya selamat. 
+
+Rumah dan perabotan rusak dihantam gelombang tinggi. 
+
+Kejadiannya <TIMEX3 tid="t8" type="TIME" value="UNKNOWN">sekitar jam sepuluh</TIMEX3> (<TIMEX3 tid="t9" type="TIME" value="2018-12-22TNI">malam</TIMEX3>). 
+
+Saya dan keluarga menyelamatkan diri ke gunung, terang dia.58 Korban Jiwa // Jumlah korban meninggal dunia akibat tsunami Lampung terus bertambah. 
+
+Hingga <TIMEX3 tid="t10" type="DATE" value="2018-12-23">Minggu</TIMEX3>, <TIMEX3 tid="t11" type="TIME" value="2018-12-23TAF">23 Desember 2018 sore</TIMEX3>, jumlah korban jiwa dalam musibah tsunami Lampung mencapai 58 orang. 
+
+Terakhir, korban meninggal yang masuk dalam data pemerintah daerah sebanyak 58 orang. 
+
+Ada tambahan dari Desa Kunjir, kata Plt Kepala Dinas Kominfo Lampung Selatan Sefri Masdian. 
+
+Pencarian korban, kata Sefri, akan dilanjutkan pada <TIMEX3 tid="t12" type="DATE" value="2018-12-17">Senin</TIMEX3>, <TIMEX3 tid="t13" type="DATE" value="2018-12-24">24 Desember 2018 besok</TIMEX3>. 
+
+<TIMEX3 tid="t14" type="TIME" value="2018-12-22TAF">Sore kemarin</TIMEX3>, sejumlah laporan dari masyarakat terkait anggota keluarganya yang hilang sudah masuk ke posko crisis center. 
+
+Korban meninggal dalam tsunami Lampung diperkirakan terus bertambah. 
+
+Korban HilangBeberapa warga berusaha mencari kepastian anggota keluarganya yang belum diketahui kabarnya. 
+
+Seperti yang dilakukan Sri Hartini. 
+
+Ia mencari informasi tentang keponakannya yang masih berusia <TIMEX3 tid="t15" type="DURATION" value="P1Y2M">satu tahun dua bulan</TIMEX3>. 
+
+// Saya mencari informasi tentang keponakan saya yang hilang sewaktu rumah mereka diterjang gelombang. 
+
+Orangtuanya sudah selamat. 
+
+Tapi keponakan saya yang masih berusia <TIMEX3 tid="t16" type="DURATION" value="P1Y2M">satu tahun dua bulan</TIMEX3> belum diketahui nasibnya, terang Sri. 
+
+Alimin, warga Poncowati, Terbanggi Besar, Lampung Tengah, juga menunggu kepastian nasib cucunya yang masih berusia <TIMEX3 tid="t17" type="DURATION" value="P5Y">5 tahun</TIMEX3>. 
+
+Menurutnya, sang cucu sedang berlibur dengan kedua orangtuanya di Pantai Alau-alau Kalianda. 
+
+Alimin menjelaskan, anak dan menantunya selamat. 
+
+Namun, mereka mengalami luka-luka cukup serius dan dirujuk ke RS Urip Sumoharjo, Bandar Lampung. 
+
+Sementara sang cucu yang masih berusia <TIMEX3 tid="t18" type="DURATION" value="P5Y">5 tahun</TIMEX3> hingga <TIMEX3 tid="t19" type="DATE" value="PRESENT_REF">kini</TIMEX3> belum diketahui nasibnya. 
+
+Menurut pengakuan anak saya, cucu saya sewaktu kejadian terbawa ombak. 
+
+Karena tempat penginapan mereka roboh diterjang ombak, ujar Alimin saat ditemui di RSUD Bob Bazar, Kalianda. 
+
+(*) 
+</TEXT>
+
+</TimeML>

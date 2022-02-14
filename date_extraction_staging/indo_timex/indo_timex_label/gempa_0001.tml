@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0001</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-09" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-09</TIMEX3></DCT>
+
+<TITLE>Kerugian Gempa Simeulue Rp130 Juta</TITLE>
+
+<TEXT>
+Dampak bencana gempa bumi Simeulue, hasil pendataan Badan Penanggulangan Bencana Daerah (BPBD) Simeulue, selain merusak sejumlah rumah dan perkantoran, telah menimbulkan kerugian dengan estimasi sekitar Rp 130.000.000. 
+
+BPBD Simeulue merilis data sementara kerusakan pasca gempa bumi pertanggal <TIMEX3 tid="t1" type="DATE" value="2020-01-08">8 Januari 2020</TIMEX3>, yakni? Kantor Bupati Simeulue. 
+
+Kantor Satpol PP dan WH. 
+
+Kantor MPU. 
+
+Kantor Camat Teupah Tengah. 
+
+Puskesmas Kecamatan Teupah Barat dan Kantor Desa Salur Kecamatan Teupah Barat. 
+
+? Selanjutnya Kantor Pers Kabupaten Simeulue di Kecamatan Simeulue Timur. 
+
+Pasar Rakyat Kecamatan Teluk Dalam sebanyak 5 pintu dan satu unit rumah penduduk di Desa Badegong Kecamatan Teupah Selatan, yang dihuni satu Kepala Keluarga (KK) atau tiga jiwa. 
+
+Pasca gempa bumi <TIMEX3 tid="t2" type="DATE" value="2020-01-08">kemarin</TIMEX3>, estimasi kerugian sementara sekitar Rp 30 juta, dan data ini bisa berubah disebabkan masih dilakukan pendataan di lapangan petugas kita. 
+
+Perlu saya tegaskan, tidak ada korban jiwa maupun luka-luka serta tidak ada yang mengungsi, kata Ir Ali Hasmi, Kepala Pelaksana BPBD Simeulue, kepada Harian Rakyat Aceh, <TIMEX3 tid="t3" type="DATE" value="2020-01-08">Rabu (8/1)</TIMEX3>. 
+
+Masih menurut Ali Hasmi, hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kondisi puluhan ribu masyarakat di 10 Kecamatan dalam abupaten Simeulue, telah kembali normal serta tidak ada yang trauma, meskipun sempat terjadi dua kali gempa susulan dengan guncangan yang ringan, yakni <TIMEX3 tid="t5" type="TIME" value="2020-01-07TNI">Selasa (7/1) malam</TIMEX3> dan <TIMEX3 tid="t6" type="TIME" value="2020-01-08TMO">Rabu (8/1) pagi</TIMEX3>. 
+
+Ada gempa susulan, <TIMEX3 tid="t7" type="DURATION" value="2020-01-01TNI">semalam</TIMEX3> dan tadi <TIMEX3 tid="t8" type="TIME" value="2020-01-09TMO">pagi</TIMEX3> namun guncangannya ringan. 
+
+Warga diminta tetap siaga dengan bencana gempa bumi susulan, imbuhnya. 
+
+Sementara Wakil Bupati Simeulue, Hj Afridawati yang langsung turun dan meninjau kesejumlah titik-titik lokasi korban bencana gempa bumi, juga meminta warganya tetap tenang dan siaga serta untuk tidak panik? saat terjadi dan sesudah bencana. 
+
+<TIMEX3 tid="t9" type="DATE" value="2020-01-09">Hari ini</TIMEX3> kita turun meninjau langsung lokasi? dampak bencana gempa bumi, kita minta warga tetap tenang dan juga kepada saudara kita nelayan yang sedang melaut untuk tetap harus siaga dengan gempa bumi susulan, kata Wabup Hj Afridawati. 
+
+Dia juga intruksikan, bila terjadi bencana gempa bumi susulan untuk mengedepankan evakuasi keselamatan anak-anak, warga lanjut usia dan perempuan serta khusus korban rumahnya rusak akibat dampak gempa bumi itu, diminta untuk mengajukan proposal rehap rumahnya kepada instansi Dinas Sosial dan Baitul Mall. 
+
+Untuk korban dampak bencana gempa bumi, yang rumahnya rusak supaya mengajukan proposal rehap kepada dinas Sosial dan Baitul Mall. 
+
+Serta bila terjadi bencana apapun, untuk kedepankan evakuasi keselamatan anak-anak, lansia dan perempuan, imbuhnya. 
+
+(ahi/min) 
+</TEXT>
+
+</TimeML>

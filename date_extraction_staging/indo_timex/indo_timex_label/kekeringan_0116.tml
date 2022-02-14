@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0116</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-07-31" temporalFunction="false" functionInDocument="CREATION_TIME">2019-07-31</TIMEX3></DCT>
+
+<TITLE>668 Hektare Sawah di Kabupaten Tangerang Kekeringan</TITLE>
+
+<TEXT>
+Ratusan hektare sawah di Kabupaten Tangerang mengalami kekeringan akibat kemarau. 
+
+Dari data Dinas Pertanian dan Ketahanan Pangan (DPKP) Kabupaten Tangerang sekitar 668 hektare sawah mengalami kekeringan. 
+
+Kondisi kekeringan terbagi tiga kategori, yakni kekeringan ringan 330 hektare, kekeringan sedang 328 hektare, dan kekeringan berat seluas 10 hektare. 
+
+Kepala DPKP Kabupaten Tangerang Aziz Gunawan mengatakan, kekeringan paling parah melanda tiga kecamatan. 
+
+Yakni, Kecamatan Solear lima hektare, Kecamatan Panongan empat hektare dan Kecamatan Mauk satu hektare. 
+
+Wilayah tersebut terdampak berat lantaran masuk dalam kategori wilayah tadah hujan dan tidak memiliki saluran irigasi. 
+
+Sementara 658 hektare itu tersebar di kecamatan lain. 
+
+Kemungkinan data wilayah yang kekeringan bisa bertambah, katanya, <TIMEX3 tid="t1" type="DATE" value="2019-07-30">Selasa (30/7)</TIMEX3>. 
+
+Aziz menerangkan, akibat kekeringan, produksi padi hasil panen mengalami penurunan. 
+
+Untuk 10 hektare yang kekeringan berat itu dipastikan gagal panen. 
+
+Kalau rata-rata per hektare lima ton, berarti total keseluruhannya 50 ton. 
+
+Sedangkan untuk yang kategori kekeringan ringan diperkiraan akan ada pengurangan 10-15 persen setiap satu hektarenya, terangnya. 
+
+Sementara, Plt Kepala Bidang Tanaman Pangan dan Hortikultura DPKP Kabupaten Tangerang Bangbang Purnama mengatakan, untuk menanggulangi kekeringan tersebut, pihaknya bersama Dinas Pertanian Provinsi Banten membentuk enam posko tim mitigasi kekeringan. 
+
+Tim melibatkan BPP (Badan Penyuluh Pertanian) dan PPOPT (Petugas Pengamat Organisme Pengganggu Tanaman) Provinsi Banten, dan Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Tangerang. 
+
+Para petugas di lapangan bertugas untuk mendata daerah yang terkena dampak kekeringan, mencari daerah yang memiliki kantong air dan melakukan pompanisasi, katanya, <TIMEX3 tid="t2" type="DATE" value="2019-07-30">Selasa (30/7)</TIMEX3>. 
+
+Bangbang menjelaskan, ada enam posko mitigasi kekeringan. 
+
+Kami juga sudah mengajukan bantuan 40 pompa ke provinsi, tetapi sampai <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum terealisasi. 
+
+Sambil menunggu, diharapkan masyarakat dengan bijaksana memanfaatkan air dari kantong-kantong yang ada di sekitar masing-masing wilayah, pungkas Bangbang. 
+
+(mg-04/asp/sub) 
+</TEXT>
+
+</TimeML>

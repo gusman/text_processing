@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1102</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-25</TIMEX3></DCT>
+
+<TITLE>Hot Spot Bakal Padam Jika Hujan 3 Hari Berturut-turut</TITLE>
+
+<TEXT>
+Dampak kemarau panjang yang melanda seluruh wilayah di Indonesia, membuat kebakaran hutan, kebun dan lahan (Karhutbunlah) terjadi di sebagian besar wilayah. 
+
+Seperti yang <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terdampak paling besar yaitu Kabupaten Ogan Komering Ilir karena <TIMEX3 tid="t2" type="DATE" value="2018-WI">musim hujan</TIMEX3> yang tidak kunjung datang. 
+
+Komandan Kodim <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">0402</TIMEX3> OKI/OI, Letkol. 
+
+Inf. 
+
+Riyandi, saat ditanya mengenai masalah Teknologi Modifikasi Cuaca, Dandim menjelaskan jika TMC ini tidak sepenuhnya efektif. 
+
+" Jadi begini, pertanyaannya kan apakah TMC ini lebih efektif? untuk menjawabnya mari kita berpikir menganalisa, awan tercipta dengan sendirinya dan apabila awan belum matang tapi kita paksakan untuk turun hujan, ya bisa saja tapi dalam waktu yang tidak begitu signifikan, " ungkapnya, <TIMEX3 tid="t4" type="DATE" value="2019-10-25">Jumat (25/10/2019)</TIMEX3>. 
+
+Selanjutnya kata Dandim, andaikan di OKI ini turun hujan dalam waktu satu hari penuh dengan lebat serta deras hujannya, belum tentu bisa mengatasi. 
+
+" Meski sudah hujan <TIMEX3 tid="t5" type="DURATION" value="UNKNOWN">seharian</TIMEX3> penuh, tapi hari berikutnya bakal panas lagi dan terciptalah kabut lagi karena tidak menyentuh dasar bara api, " katanya. 
+
+Dikatakan, jika dasar bara api berada sekitar antara 1 sampai tiga meter di bawah tanah. 
+
+" Dalamnya dasar bara api itu yang mengakibatkan kita kesulitan mengendalikan, kecuali kalau ada hujan selama <TIMEX3 tid="t6" type="DURATION" value="P3D">3 hari</TIMEX3> berturut turut baru padam, " " Sehingga kalau TMC hanya jadi gerimis saja, mending kita menunggu hujan, " pungkasnya.Untuk itu Dandim mengajak agar kita berdoa sama-sama berharap ada hujan alami turun membasahi bumi. 
+
+// " Berdoa saja secara bersama-sama agar hujan alami segera turun, dan akan menyelesaikan semua masalah, " Masih kata Dandim, sejak <TIMEX3 tid="t7" type="DATE" value="2019-10-24">kemarin</TIMEX3> ada tiga titik yang difokuskan yang pertama di pulau beruang dan sekitarnya, kecamatan cengal dan sekitarnya, untuk satunya lagi di daerah sekitar Kayuagung dan kemungkinan dalam waktu sehari atau <TIMEX3 tid="t8" type="DURATION" value="P2D">dua hari</TIMEX3> akan tuntas. 
+
+" Sejak <TIMEX3 tid="t9" type="DATE" value="2019-10-24">kemarin</TIMEX3> tiga titik itu sudah diatasi, <TIMEX3 tid="t10" type="DATE" value="2019-10-25">hari ini</TIMEX3> muncul lagi titik-titik di daerah Sodong dan sekitarnya. 
+
+Yaitu Sodong Pagardewa, Gajah mati, ini baru terjadi <TIMEX3 tid="t11" type="TIME" value="2019-10-24">kemarin sore</TIMEX3> dan kita kejar <TIMEX3 tid="t12" type="DATE" value="2019-10-25">hari ini</TIMEX3> bisa padam, " ungkapnya. 
+
+Cukup banyak lahan perusahaan yang terbakar, kalau masalah perusahaan ini mereka sudah membuat kanalisasi, lalu diatas kanal (dipermukaan) lebih cepat kering hal itu yang menyebabkan lahan perusahaan mudah terbakar. 
+
+" Jika lahan masyarakat itu, api muncul biasanya karena ada angin yang berputar2 jadi timbul api, " tutupnya. 
+
+Poto:Paling kanan Komandan Kodim <TIMEX3 tid="t13" type="DATE" value="UNKNOWN">0402</TIMEX3> OKI/OI, Letkol. 
+
+Inf. 
+
+Riyandi, tengah Djakfar Shodiq Wakil Bupati Ogan Komering Ilir, paling kiri Kapolres OKI AKBP Donni Eka Syaputra, saat ditemui wartawan Tribunsumsel. 
+
+com setelah acara di Mapolres OKI, Jum'at (25/10/2019).2 Lampiran 
+</TEXT>
+
+</TimeML>

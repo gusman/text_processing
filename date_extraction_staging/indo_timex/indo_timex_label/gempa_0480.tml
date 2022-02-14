@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0480</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-02" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-02</TIMEX3></DCT>
+
+<TITLE>Ceritakan Kondisi Keluarganya di Palu Pasca Gempa, Ben Joshua Ungkap Rumahnya Alami Kerusakan</TITLE>
+
+<TEXT>
+Korban gempa bumi dan tsunami di Kabupaten Donggala-Kota Palu, Sulawesi Tengah, yang berhasil dievakuasi terus bertambah. 
+
+Kapendam XIII Merdeka Kolonel Inf Muhammad Thohir mengatakan, hingga <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">hari ketiga</TIMEX3>, korban meninggal yang bisa ditemukan sebanyak 925 jiwa. 
+
+Sementara untuk jumlah pengungsi sebanyak 59.450 jiwa yang terpapar di 109 titik. 
+
+" Sementara luka-luka sebanyak 799 jiwa ". 
+
+com. 
+
+Untuk korban yang masih tertimbun sebanyak 152 jiwa. 
+
+" Sementara rumah rusak sama dengan <TIMEX3 tid="t2" type="DATE" value="2018-10-01">kemarin</TIMEX3> 65.733, " ujarnya. 
+
+Ada perubahan data yakni soal penguburan massal sebanyak 53 jenazah dan <TIMEX3 tid="t3" type="DATE" value="2018-10-03">besok</TIMEX3> akan ada lagi dan berdasarkan laporan yang masuk di posko utama sudah siap untuk dikubur sebanyak 140 jiwa. 
+
+Di sisi lain, sejumlah selebriti tanah air pun menjadi korban bencana tersebut. 
+
+. 
+
+// Tak hanya Pasha, aktor Ben Joshua pun merasakan kesedihan yang sama. 
+
+Meski tak secara langsung menjadi korban, namun ia mendapat kabar rumah masa kecilnya di Palu rusak. 
+
+" Ikut sedih amp; berduka dgn kejadian gempa disertai tsunami di Palu amp; Donggala " " Barusan dapat kabar kalau keluarga gue di Palu dalam keadaan baik, walaupun rumah retak akibat gempa, " tulis Ben. 
+
+. 
+
+" Tapi belum dapat kabar bagaimana kondisi teman-teman di Pantoloan tempat gue tinggal waktu kecil <TIMEX3 tid="t4" type="DATE" value="PAST_REF">dulu</TIMEX3>, " kata dia. 
+
+Badan Nasional Penanggulangan Bencana (BNPB) terus memantau proses pemulihan pascagempa yang mengguncang Lombok, Nusa Tenggara Barat (NTB) <TIMEX3 tid="t5" type="DATE" value="2018-08-02">dua bulan lalu</TIMEX3>. 
+
+Kepala Pusat Data, Informasi, dan Humas BNPB Sutopo Purwo Nugroho menyebutkan, dari 149.715 unit rumah yang rusak, tersisa 25.292 unit yang belum diverifikasi. 
+
+.715 unit, total terverifikasi 124.423 unit rumah, " ujar Sutopo melalui siaran persnya, <TIMEX3 tid="t6" type="DATE" value="2018-10-01">Senin (1/10/2018)</TIMEX3>. 
+
+Hal itu merupakan langkah pertama dalam proses rehabilitasi rumah di daerah tersebut. 
+
+// Nantinya, hal itu akan disahkan melalui penerbitan Surat Keputusan (SK). 
+
+Hingga <TIMEX3 tid="t7" type="TIME" value="2018-10-01">Senin (1/10/2018) pagi</TIMEX3>, terdapat 95.882 unit yang sudah diterbitkan SK-nya. 
+
+. 
+
+Bantuan tersebut ditransfer langsung ke rekening korban melalui Bank BRI. 
+</TEXT>
+
+</TimeML>

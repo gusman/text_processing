@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0021</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-22" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-22</TIMEX3></DCT>
+
+<TITLE>Atap Rumah Warga Gayo Lues Diterbangkan Puting Beliung ke Sawah</TITLE>
+
+<TEXT>
+Sebuah rumah yang beratapkan seng berdindingkan papan milik Usuludin (55) warga Badak Kecamatan Dabun Gelang, Kabupaten Gayo Lues (Galus) diterjang angin puting beliung, <TIMEX3 tid="t1" type="DATE" value="2018-10-22">Senin (22/10/2018)</TIMEX3> sekira <TIMEX3 tid="t2" type="TIME" value="2018-10-21T16:00">pukul 16.00 WIB</TIMEX3>. 
+
+Tidak ada korban jiwa dalam musibah tersebut. 
+
+. 
+
+Bahkan untuk sementara sudah dipasang tenda oleh warga setempat. 
+
+Kasbi anggota Taruna Siaga Bencana (Taruna) di Desa Badak, kepada Serambinews. 
+
+com mengatakan, sebuah rumah warga diterjang angin puting beliung yang sempat melanda daerah tersebut yang disertai dengan hujan lebat menjelang shalat Ashar sebelumnya. 
+
+. 
+
+Bahkan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> korban masih tetap berada di rumah itu bersama keluarganya setelah dipasang tenda untuk <TIMEX3 tid="t4" type="DURATION" value="PXX">sementara waktu</TIMEX3> oleh keluarga korban bersama warga setempat, " sebutnya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

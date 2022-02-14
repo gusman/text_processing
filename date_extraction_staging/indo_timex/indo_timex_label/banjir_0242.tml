@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0242</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-11-10" temporalFunction="false" functionInDocument="CREATION_TIME">2014-11-10</TIMEX3></DCT>
+
+<TITLE>Ratusan Rumah di Lebong Terendam Banjir</TITLE>
+
+<TEXT>
+Hujan deras yang melanda Kabupaten Lebong pada <TIMEX3 tid="t1" type="TIME" value="2014-11-09TAF">Minggu (9/11) sore</TIMEX3>, mengakibatkan sungai di Desa Lemeu meluap, sehingga ratusan rumah di itu terendam banjir dengan kedalaman 20 cm hingga 1 meter atau sepinggang orang dewasa. 
+
+Hingga <TIMEX3 tid="t2" type="TIME" value="2014-11-09TNI">Minggu (9/11) malam</TIMEX3>, kondisi rumah di desa tersebut masih terendam banjir. 
+
+Data sementara, jumlah rumah yang terendam banjir kurang lebih 290 rumah. 
+
+Berdasarkan pantauan lapangan, di beberapa titik lokasi banjir aktivitas warga terhenti. 
+
+Terlihat warga lebih banyak melakukan aktivitas memindahkan barang-barang mereka ke lokasi yang lebih tinggi. 
+
+Air sungai mulai naik <TIMEX3 tid="t3" type="TIME" value="2014-11-09T17">sekitar jam 5 sore</TIMEX3> (<TIMEX3 tid="t4" type="DATE" value="2014-11-09">Minggu</TIMEX3>, red) tadi dengan ketinggian air sekitar 70 cm atau sepinggang orang dewasa. 
+
+Memang sebelumnya kita sudah memperkirakan kalau air sungai Uram akan naik karena derasnya hujan yang turun. 
+
+Kondisi ini terjadi karena ada 1 titik tembok penahan banjir di pinggir desa jebol lebih kurang sepanjang 40 meter. 
+
+Akibat tingginya air tersebut, warga terpaksa menggunakan perahu untuk memindahkan barang-barangnya ke tempat yang lebih tinggi, kata Kepala Desa Lemeu, Rapani. 
+
+Selain itu, Camat Uram Jaya, Aminin yang turun ke lapangan bersama beberapa personil dari BPBD dan Polsek Lebong Utara, mengatakan, intensitas hujan <TIMEX3 tid="t5" type="DURATION" value="PXD">beberapa hari</TIMEX3> belakangan ini memang tinggi. 
+
+Ia mengharapkan agar diberikan bantuan berupa perahu karet ke Desa Lemeu, untuk mengantisipasi terjadinya banjir susulan dikarenakan kondisi <TIMEX3 tid="t6" type="SET" value="XXXX-XX-XXTAF">setiap sore</TIMEX3> selalu hujan. 
+
+Dengan adanya perahu karet tersebut maka akan memudahkan untuk melakukan evakuasi warga pada saat terjadi banjir, katanya. 
+
+Meski tak ada korban jiwa, nilai kerugian akibat banjir ini cukup besar namun belum dapat dihitung satu persatu. 
+
+Kita berharap agar kejadian ini tidak terulang lagi, untuk antisipasi kita mengharapkan agar bantuan berupa perahu karet bisa segera diturunkan ke desa lemeu, kata Camat. 
+
+(777) 
+</TEXT>
+
+</TimeML>

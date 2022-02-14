@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0469</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-29</TIMEX3></DCT>
+
+<TITLE>Bantaran Bengawan Solo di Lamongan Longsor, 5 Rumah dan 1 Bengkel Porak Poranda</TITLE>
+
+<TEXT>
+Tanggul bantaran Bengawan Solo di wilayah Keduyung Kecamatan Laren Lamongan Jawa Timur kembali mengalami longsor. 
+
+<TIMEX3 tid="t1" type="SET" value="P1Y">Setiap tahun</TIMEX3> wilayah tanggul ini selalu bergerak, dari hanya sekedar sliding, erosi hingga longsor menggerus lahan warga tempat beridirinya bangunan rumah, saat musim penghujan. 
+
+Masuk <TIMEX3 tid="t2" type="DATE" value="2017-WI">musim penghujan</TIMEX3> tahun lalu juga ada 6 rumah yang sebagian bangunannya menggantung, lantaran tanah tempat berdirinya bangunan digerus air Bengawan Solo. 
+
+Beda dengan insiden yang terjadi pada <TIMEX3 tid="t3" type="TIME" value="2018-10-28TNI">Minggu (28/10/2018) malam</TIMEX3> hingga <TIMEX3 tid="t4" type="TIME" value="2018-10-29TMO">dini hari</TIMEX3>. 
+
+Kejadian <TIMEX3 tid="t5" type="DURATION" value="2018-10-01TNI">semalam</TIMEX3>, ada sebanyak lima rumah dan satu bengkel yang terseret bersamaan dengan kejadian longsornya tanah bantaran. 
+
+. 
+
+Lima bangunan rumah dan satu bengkel yang terseret bantaran longsor tempat berdirinya bangunan itu rusak parah dan porak poranda. 
+
+Untungnya penghuni rumah berhasil menyelamatkan diri, keluar rumah sesaat sebelum insiden terjadi. 
+
+" Alhamdulillah keluarga semua selamat, " kata salah satu pemilik rumah yang jadi korban, Kaswaji kepada TribunJatim. 
+
+com, <TIMEX3 tid="t6" type="DATE" value="2018-10-29">Senin (29/10/2018)</TIMEX3>. 
+
+Para penghuni rumah sigap bergegas keluar rumah saat mendengar suara aneh dari bangunan rumah yang mereka huni. 
+
+. 
+
+Sehingga bangunan rumah tak sampai terseret air. 
+
+// Lima rumah satu bengket yang terjun bebas terbawa tanah longsor diantaranya, rumah Kaswaji ukuran 20 meter x 7, 5 meter, Askuri ukuran 16 meter x 8 meter, Subadi panjang 16 meter, lebar 11 meter, Sunafi 9 x 7 meter dan Supriyadi 30 meter x 8 meter. 
+
+Sedang satu bangunan bengkel milik Mat Fadli lebar 6 meter, panjang 10 meter juga terseret anjloknya tanah bantaran. 
+
+Kepala Desa Keduyung, Edi Purwanto dikonfirmasi mengatakan, longsor yang tersebut terjadi mulai <TIMEX3 tid="t7" type="TIME" value="2018-10-28T21:00">sekitar pukul 21.00 WIB</TIMEX3> hingga <TIMEX3 tid="t8" type="TIME" value="2018-10-28T23:00">pukul 23.00 WIB</TIMEX3>. 
+
+" <TIMEX3 tid="t9" type="TIME" value="2018-10-29T09:00">Jam 9 itu</TIMEX3> terjadi keretakan, tapi dipikir itu keretakan biasa karena kemarau. 
+
+Tapi pas <TIMEX3 tid="t10" type="TIME" value="2018-10-28T11:00">jam 11</TIMEX3>, rumah yang belakang itu tiba-tiba ambruk, dan disusul rumah lainnya, " kata Edi, <TIMEX3 tid="t11" type="TIME" value="2018-10-29">Senin pagi</TIMEX3> (29/10/2018). 
+
+Hingga <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, Edi mengaku belum mengetahui penyebab terjadinya longsor tersebut. 
+
+Penyebabnya masih belum tahu, karena hujan tidak ada. 
+
+. 
+
+Sementara Muslimin, Kasi Tanggap Darurat BPBD Lamongan mengatakan, kondisi tanah di sekitar bibir bengawan solo memang sangat rentan mengalami longsor. 
+
+" Tanah yang berada di bibir bengawan solo itu sudah lama rentan, jadi penyembuhannya memang agak lama, " tutur Muslimin. 
+
+Berdasarkan hasil pengukuran yang dilakukan oleh Balai Besar Bengawan Solo, kata Muslimin, tanah yang mengalami longsor tersebut sepanjang 85 meter, lebar 10 meter, dengan kedalaman 6 meter, dan merusak 5 rumah dan 1 bengkel.Ada 6 bangunan yang sudah ambles ke bawah, dan ada 2 bangunan lagi berpotensi mengalami longsor susulan karena posisinya sudah menggantung.Muslimin menambahkan, <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pihaknya tengah melakukan evakuasi barang-barang dari rumah yang terkena longsor, untuk dipindahkan ke rumah familinya.Pihaknya menghimbau kepada masyarakat untuk lebih waspada, karena kondisi seperti ini masih berpotensi kembali terjadi, apalagi ketika turun hujan yang besar.(TribunJatim.com/Hanif Manshuri) 
+</TEXT>
+
+</TimeML>

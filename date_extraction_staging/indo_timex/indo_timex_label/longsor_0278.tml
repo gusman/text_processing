@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0278</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-05" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-05</TIMEX3></DCT>
+
+<TITLE>Korban Longsor di Puncak Belum Ditemukan, Pencarian Dilanjutkan Besok Pagi</TITLE>
+
+<TEXT>
+Pencarian korban yang tertimbun reruntuhan longsor di jalur puncak, Kecamatan Cisarua Kabupaten bogor akan dilanjutkan <TIMEX3 tid="t1" type="DATE" value="2018-02-06">besok</TIMEX3>. 
+
+Hal itu dikatakan Kasatlantas Polres Bogor, AKP Hasby Ristama saat ditemui dilokasi titik longsoran pada <TIMEX3 tid="t2" type="TIME" value="2018-02-05TEV">Senin (5/2/2018) petang</TIMEX3>. 
+
+" Untuk sementara pencarian dihentikan <TIMEX3 tid="t3" type="DATE" value="PAST_REF">dulu</TIMEX3> karena cuaca sudah gelap dan juga ditakutkan ada bencana longsor susulan, " kata AKP hasby. 
+
+. 
+
+Berdasarkan keterangan seorang sopir angkot, kataAKP Hasby, korban yang tertimbun tanah longsor berjumlah tiga orang. 
+
+" Sementara pencarian kami lanjutkan <TIMEX3 tid="t4" type="DATE" value="2018-02-06">besok</TIMEX3>, korban yang dalam pencarian berdasarkan saksi dari sopir angkot jumlahnya ada tiga orang, " katanya. 
+
+. 
+
+Pantauan TribunnewsBogor. 
+
+com, pada <TIMEX3 tid="t5" type="TIME" value="2018-02-04T18:00">pukul 18.00 WIB</TIMEX3> material tanah longsor di Jalur Puncak sudah berhasil dibersihakn dari badan jalan oleh petugas. 
+
+Disisi lain, sejumlah petugas masih berada disekitar tebingan jurang untuk mecari keberadaan korban yang hingga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ditemukan. 
+</TEXT>
+
+</TimeML>

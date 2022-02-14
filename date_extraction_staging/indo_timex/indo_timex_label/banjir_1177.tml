@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1177</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-13" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-13</TIMEX3></DCT>
+
+<TITLE>Giliran KCK Bantu Korban Banjir</TITLE>
+
+<TEXT>
+Korban banjir bandang di Kabupaten Lahat juga dialami mayoritas bayi dan balita. 
+
+Untuk itu Persit KCK Cabang XVI Kodim <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">0405</TIMEX3> Lahat memberi perhatian khusus. 
+
+Diantaranya bantuan berupa perlengkapan bayi dan balita seperti pampers, susu, minyal angin, minyak telon maupun pakaian. 
+
+Sebelumnya bantuan kita salurkan ke Mulak Sebingkai yang mengalami musibah banjir bandang. 
+
+<TIMEX3 tid="t2" type="DATE" value="UNKNOWN">Hari ini (13/1)</TIMEX3> kita salurkan bantuan ke Kikim Timur, kata Ketua Persit (KCK) Cabang XVI Kodim <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">0405</TIMEX3> Lahat Rika Sungudi, <TIMEX3 tid="t4" type="DATE" value="2020-01-13">Senin (13/1)</TIMEX3> saat memberikan bantuan berupa sembako, pakaian dan uang tunai. 
+
+Lanjut istri Dandim <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">0405</TIMEX3> Lahat Letkol Kav Sungudi ini bahwa bantuan dan kepedulian ini merupakan bentuk kepedulian. 
+
+Serta Kemanunggalan dengan masyarakat. 
+
+Seperti diketahui bencana banjir bandang terjadi di Kabupaten Lahat sejak <TIMEX3 tid="t6" type="DATE" value="2019-01-13">akhir tahun lalu</TIMEX3> Seperti di Mulak Sebingkai, dan Kikim Timur dan beberapa Kecamatan lainnya di Sumsel. 
+
+Akibatnya ratusan rumah terendam, rusak maupun hanyut terbara arus sungai. 
+
+(gti) 
+</TEXT>
+
+</TimeML>

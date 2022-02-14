@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0678</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-18" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-18</TIMEX3></DCT>
+
+<TITLE>HEBOH: Wilayah Jakarta Kembali Tergenang Banjir, Lihat Kondisinya</TITLE>
+
+<TEXT>
+Waspada buat anda yang tinggal di Jakarta dan sekitarnya, curah hujan di <TIMEX3 tid="t1" type="DATE" value="2020-01-18">Sabtu (18/01/2020)</TIMEX3> cukup tinggi sehingga membuat beberapa wilayah di Jakarta mulai terendam. 
+
+Pantauan Wartakotalive. 
+
+com dari Twitter Radio Elshinta, ada info dari warga, banjir setinggi 50 - 60c m di RT <TIMEX3 tid="t2" type="DATE" value="2020-01-08">08/01</TIMEX3>, Kelurahan Gunung, Kebayoran Baru Jakarta Selatan. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> para korban banjir membutuhkan makanan dan obat obatan untuk warga. 
+
+Sementara itu di depan Universitas Atmajaya arah ke Semanggi saat hujan deras terdapat genangan air setinggi kurang lebih 30 cm pada <TIMEX3 tid="t4" type="TIME" value="2020-01-17T06:45">pukul 06.45</TIMEX3>. 
+
+Namun genangan itu sudah bisa diatasi dan jalanan sudah kering kembali. 
+
+Informasi dari warga juga sempat terjadi banjir di depan Pasar Patra Kedoya, Jakarta Barat, hujan sudah reda. 
+
+" Alhamdulillah pompa bekerja normal semoga lekas surut, " ujar Twitter di Radio Elshinta. 
+
+Sementara informasi dari warga, di Komplek TVRI Kemandoran yang ada di belakang Jalan Permata Hijau sudah terendam banjir setinggi 30 cm.Lalu di Jalan Kemandoran I, Pulo Mawar banjir sudah mencapai 100 cm.Tinggi muka air (TMA) berdasar informasi yang didapat Wartakotalive.com dari Dinas Sumber Daya Air DKI Jakarta sebagai berikut: // Pesanggrahan normalBendung Katulampa 20 cm cuaca mendung (siaga 4)Depok 115 cm dengan cuaca mendung (siaga 4)Manggarai 115 cm dengan cuaca gerimis (siaga 4)Krukut Hulu 40 cm mendung (siaga 4)Karet 520 cm cuaca gerimis (siaga 4)Waduk Pluit 150 cm dengan cuaca gerimis (siaga 4)Banjir di Tanjung DurenBerdasarkan postingan akun Instagram jktinfo, satu diantara kawasan yang terendam banjir berada di Tanjung Duren, Jakarta Barat. 
+
+Tampak sejumlah petugas dan polisi mengatur lalu lintas di Tanjung Duren tersebut. 
+
+// Tak hanya di Tanjung Duren, banjir juga meredam kawasan Simpang Tawakal Raya, Tomang, Kemandoran, Perumahan Bulak Rantai dan sekitarnya. 
+
+Kondisi cuacaBerdasarkan prakiraan cuaca di Jakarta <TIMEX3 tid="t5" type="TIME" value="UNKNOWN">Sabtu 18 Januari 2020 siang nanti</TIMEX3>, hujan lokal terjadi di wilayah Jakbar, Jaksel, dan Jaktim, sedang cuaca berawan di Jakpus, Jakut, dan Kepulauan Seribu. 
+
+Pada prakiraan cuaca di Jakarta <TIMEX3 tid="t6" type="TIME" value="UNKNOWN">Sabtu 18 Januari 2020 malam nanti</TIMEX3>, seluruh wilayah di Jakarta berawan. 
+
+Lalu pada prakiraan cuaca di Jakarta <TIMEX3 tid="t7" type="DATE" value="2020-01-18">Sabtu 18 Januari 2020</TIMEX3> dini hari, hujan lokal terjadi di Jakut, hujan ringan di Kepulauan Seribu, sedang cuaca berawan di Jakbar, Jakpus, Jaksel, dan Jaktim. 
+
+Pihak Badan Meteorologi Klimatologi dan Geofisika (BMKG) melalui situsnya bmkg. 
+
+go. 
+
+id pada prakiraan cuaca di Jakarta <TIMEX3 tid="t8" type="DATE" value="2020-01-18">Sabtu 18 Januari 2020</TIMEX3> menyampaikan peringatan dini potensi hujan disertai petir di wilayah Jaksel dan Jaktim. 
+
+" Waspada potensi hujan disertai kilat/petir dan angin kencang berdurasi singkat di wilayah Jaksel dan Jaktim pada <TIMEX3 tid="t9" type="TIME" value="2020-01-17TAF">sore hari</TIMEX3>, " tulis BMKG dalam situsnya. 
+
+Secara keseluruhan dari prakiraan cuaca di Jakarta <TIMEX3 tid="t10" type="DATE" value="2020-01-18">Sabtu 18 Januari 2020</TIMEX3>, rentang suhu udara Jakarta berkisar 24-32 derajat Celsius. 
+
+Hujan Guyur Bogor pada <TIMEX3 tid="t11" type="TIME" value="2020-01-17TAF">Siang</TIMEX3> NantiSementara itu prakiraan cuaca di Bodetabek <TIMEX3 tid="t12" type="TIME" value="UNKNOWN">Sabtu 18 Januari 2020 siang nanti</TIMEX3>, hujan ringan guyur Bogor, cuaca berawan terjadi di Depok dan Bekasi, sedang Tangerang diprediksi cerah berawan. 
+
+// Lalu dari prakiraan cuaca di Bodetabek <TIMEX3 tid="t13" type="TIME" value="UNKNOWN">Sabtu 18 Januari 2020 malam nanti</TIMEX3>, hujan lokal terjadi di Depok, cuaca berawan di Bogor dan Bekasi, sedang cuaca cerah berawan terjadi di Tangerang. 
+
+Begitupun pada prakiraan cuaca di Bodetabek <TIMEX3 tid="t14" type="DATE" value="2020-01-18">Sabtu 18 Januari 2020</TIMEX3> dini <TIMEX3 tid="t15" type="DATE" value="2020-01-19">hari nanti</TIMEX3>, hujan lokal terjadi di Depok dan Bekasi, sedang cuaca berawan terjadi di Bogor dan Tangerang. 
+
+. 
+
+" Waspada hujan sedang hingga lebat disertai kilat/petir dan angina kencang di wilayah Bandung, Subang, Tasikmalaya pada <TIMEX3 tid="t16" type="TIME" value="2020-01-17TAF">sore</TIMEX3> hingga <TIMEX3 tid="t17" type="TIME" value="2020-01-17TNI">malam hari</TIMEX3>, " tulis BMKG dalam situsnyaBerdasarkan prakiraan cuaca di Bodetabek <TIMEX3 tid="t18" type="DATE" value="2020-01-18">Sabtu 18 Januari 2020</TIMEX3>, suhu udara di Bogor 22-30 derajat Celsius, Depok 22-31 derajat Celsius, Tangerang 24-32 derajat Celsius, dan Bekasi 22-33 derajat Celsius. 
+
+(*) 
+</TEXT>
+
+</TimeML>

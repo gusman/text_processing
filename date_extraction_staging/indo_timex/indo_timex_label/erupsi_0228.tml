@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0228</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-01-14" temporalFunction="false" functionInDocument="CREATION_TIME">2014-01-14</TIMEX3></DCT>
+
+<TITLE>Lewat Twitter, SBY Sampaikan Rencana Kunjungi Pengungsi Sinabung</TITLE>
+
+<TEXT>
+Presiden RI Susilo Bambang Yudhoyono menjanjikan pada <TIMEX3 tid="t1" type="DATE" value="2014-01-21">pekan depan</TIMEX3> akan berkunjung kembali ke Kabanjahe, Sumut. 
+
+Kunjungan ini bertujuan untuk melihat kondisi para pengungsi dan letusan Gunung Sinabung di Kabupaten Karo, Sumatera Utara. 
+
+<TIMEX3 tid="t2" type="DATE" value="2014-01-19">Minggu depan</TIMEX3>, Insya Allah saya akan berkunjung kembali ke Kabanjahe, untuk pastikan penanganan Sinabung dan pengungsi berjalan baik, kata Presiden SBY melalui akun twitternya SBYudhoyono, <TIMEX3 tid="t3" type="TIME" value="2014-01-13TNI">Senin malam</TIMEX3> (13/1). 
+
+Pada <TIMEX3 tid="t4" type="DATE" value="2013-09">awal September 2013 lalu</TIMEX3>, Presiden didampingi Ibu Negara Ani Yudhoyono telah menyempatkan diri meninjau para pengungsi korban letusan Gunung Sinabung. 
+
+<TIMEX3 tid="t5" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, Presiden SBY dan rombongan mengunjungi dua lokasi pengungsian, yaitu Jambur Sempakata dan Jambur Tuah Lopati yang berjarak sekitar 25 kilometer dari kawasan Gunung Sinabung. 
+
+Meskipun baik pusat dan daerah terus menangani permasalahan ini, saya memutuskan untuk meningkatkan pengendalian dan bantuan pusat, tulis Presiden melalui akun twitternya SBYudhoyono itu. 
+
+(flo/jpnn) 
+</TEXT>
+
+</TimeML>

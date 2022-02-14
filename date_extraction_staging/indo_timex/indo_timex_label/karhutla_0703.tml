@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0703</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-03</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS - Kebakaran Hutan di Pujon, Bukan di Gunung Panderman di Kota Batu</TITLE>
+
+<TEXT>
+Kebakaran hutan terjadi di area hutan RPH Pujon, <TIMEX3 tid="t1" type="DATE" value="2018-09-03">Senin (3/9/2018)</TIMEX3> dan kobaran api terlihat dari kejauhan. 
+
+Kobaran api terlihat dari sekitar kawasan Kota Batu, Kota dan Kabupaten Malang <TIMEX3 tid="t2" type="TIME" value="2018-09-03TNI">malam ini</TIMEX3>. 
+
+Hingga berita ini ditulis, beberapa titik api terpantau masih membara. 
+
+Asap terlihat dengan jelas dari beberapa titik. 
+
+Warga semula menduga itu terjadi di Gunung Panderman Kota Batu. 
+
+Kobaran api terlihat berupa semburan warna merah bila dilihat dari kejauhan di sekitar Kota dan Kabupaten Malang. 
+
+Bahkan penampakan cahaya merah dari api kebakaran itu bisa terlihat dari Singosari, Kabupaten Malang. 
+
+Pantauan SURYAMALANG. 
+
+COM dari Singosari, terlihat sekitar enam titik yang terbakar. 
+
+Satu dari enam titik terlihat sangat besar.Sedangkan satu titik lain terlihat memanjang. 
+
+// Sampai <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> terlihat api masih berkobar. 
+
+Kepulan asap juga terlihat di sela cahaya yang berwarna merahBambang Hariyanto, Kepala Urusan Teknik Kehutanan, Perhutani KPH Pujon membenarkan kebarakan tersebut. 
+
+Lokasi kebakaran diperkirakan di petak 100 RPH Pujon Selatan BKPH Pujon. 
+
+Berita ini sekaligus merevisi berita sebelumnya, yang menyebut kebakaran terjadi di gunung Panderman Kota Batu. 
+
+" Teman-teman dari Perhutani Pujon bersama LMDH Pujon Kidul sudah bergerak menuju lokasi, " kata Bambang, <TIMEX3 tid="t4" type="DATE" value="2018-09-03">Senin (3/9/2018)</TIMEX3>. 
+
+Kepala BPBD Kota Batu Sasmito mengatakan, pihaknya telah menerima laporan tersebut dan langsung berkoordinasi dengan tim Perhutani KPH Pujon. 
+
+Dari BPBD Batu ada 6 personelnya dikerahkan untuk ikut membantu memadamkan api. 
+
+" Sementara penanganan manual. 
+
+Diberi jarak antar rumput kering. 
+
+Dibabat agar tidak menjalar, " kata Sasmito. 
+
+Sasmito menambahkan, lokasi kebakaran jauh dari area pendakian, baik Gunung Panderman maupun Gunung Butak.Kejadian kebakaran hutan ini diperkirakan terjadi sejak <TIMEX3 tid="t5" type="TIME" value="2018-09-02T10:00">pukul 10.00 WIB</TIMEX3>. 
+
+" Diperkirakan api merambat melingkar. 
+
+Kemudian titik baru muncul berkembang, " imbuh Sasmito. 
+
+(Mohammad Zainudin - Sany Eka Putri) 
+</TEXT>
+
+</TimeML>

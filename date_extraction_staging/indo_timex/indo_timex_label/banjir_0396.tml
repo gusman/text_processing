@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0396</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-07" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-07</TIMEX3></DCT>
+
+<TITLE>Kehilangan Surat Berharga Karena Banjir, Warga Tangerang Bisa Melapor ke Polisi</TITLE>
+
+<TEXT>
+Banyak diantara korban terdampak banjir di Tangerang yang kehilangan surat-surat berharga karena tidak sempat menyelamatkan dokumen berharga itu. 
+
+Seperti BPKB, STNK, akta lahir, kartu keluarga, SIM, dan dokumen berharga lainnya yang hanyut karena banjir. 
+
+Maka dari itu, Kapolres Metro Tangerang Kota, Kombes Pol Sugeng Hariyanto menerangkan kalau jajarannya siap membantu memberikan surat kehilangan dokumen-dokumen penting. 
+
+" Ada beberapa yang memang sudah laporan ke polisi terkait surat-surat laporan kendaraan yang hilang. 
+
+Kita akan tetap bantu dengan berikan surat keterangan dan kemudian bisa urus kembali duplikat surat yang hilang, " jelas Sugeng, <TIMEX3 tid="t1" type="DATE" value="2020-02-07">Jumat (7/2/2020)</TIMEX3>. 
+
+Menurut dia, sudah ada puluhan warga yang melaporkan kehilangan dokumen-dokumen penting ke Polres Metro Tangerang Kota. 
+
+Terhitung sejak banjir bandang yang menerjang Jabodetabek pada <TIMEX3 tid="t2" type="DATE" value="2020">awal tahun 2020</TIMEX3> ditambah banjir sejak <TIMEX3 tid="t3" type="DATE" value="2020-02-01">1 Februari kemarin</TIMEX3>. 
+
+" Ada puluhan, enggak sampai rstusan. 
+
+Baik itu sertifikat tanah, akte jual beli, ada BPKB roda dua dan roda empat, dan banyak lagi, " ujar Sugeng.Sayangnya, tidak ada posko dan layanan khusus korban banjir yang ingin melaporkan kehilangan dokumen berharga di Mapolrestro Tangerang Kota.Menurut Sugeng, pihaknya hanya akan membantu membuatkan surat kehilangan yang namtinya akan diteruskan ke pihak terkait seperti Disdukcapil, Samsat, dan lainnya. " Sementara kita belum ada (posko). 
+
+Secara teknis terkait pendataan ada di Samsat. 
+
+Kita sebatas membantu bikin surat keterangan untuk dilakukan penerbitan kembali, " tutupnya.Seperti diketahui sebelumnya, Kota Tangerang dua kali secara berturut-turut ditenggelamkan banjir tinggi pada <TIMEX3 tid="t4" type="DATE" value="2020-01">bulan Januari</TIMEX3> dam <TIMEX3 tid="t5" type="DATE" value="2020-02">Februari 2020</TIMEX3>. 
+</TEXT>
+
+</TimeML>

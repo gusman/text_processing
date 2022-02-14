@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1228</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-22" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-22</TIMEX3></DCT>
+
+<TITLE>Banjir Kembali Terjang Mojoagung dan Mojowarno Jombang, Ratusan Rumah Terendam</TITLE>
+
+<TEXT>
+Banjir kembali menerjang dua kecamatan di Kabupaten Jombang, Jawa Timur, dan merendam ratusan rumah, <TIMEX3 tid="t1" type="TIME" value="2018-02-22TMO">Kamis pagi</TIMEX3> (22/2/2018). 
+
+Banjir akibat meluapnya air Sungai Kaligunting di Kecamatan Mojoagung, Sungai Catakakgayam di Kecamatan Mojowarnoli menyusul hujan deras tinggi yang mengguyur wilayah selatan dan tengah Kabupaten Jombang sepanjang <TIMEX3 tid="t2" type="TIME" value="2018-02-21TNI">Rabu (21/2/2018) malam</TIMEX3>. 
+
+Banjir di antaranya menerjang Desa Selorejo, Kecamatan Mojowarno. 
+
+Di lokasi ini, ketinggian air di jalan raya mencapai 1 meter. 
+
+Sementara di dalam rumah berkisar 40 sentimeter hingga 50 sentimeter. 
+
+Tadi sekira <TIMEX3 tid="t3" type="TIME" value="2018-02-21T03:30">pukul 03.30 WIB</TIMEX3>, air mulai masuk ke dalam rumah-rumah warga, kata Ary Dwi Febriyanto, warga setempat, kepada SURYA. 
+
+co. 
+
+id, <TIMEX3 tid="t4" type="DATE" value="2018-02-22">Kamis (22/2/2018)</TIMEX3>. 
+
+Banjir ini, menurutnya, akibat luapan sungai Cakatgayam yang mengalir di desa setempat. 
+
+Sungai meluap karena tak mampu menampung besarnya volume air hujan yang turun sejak <TIMEX3 tid="t5" type="TIME" value="2018-02-21TNI">Rabu (21/2/2018) malam</TIMEX3> sekitar <TIMEX3 tid="t6" type="TIME" value="2018-02-21T21:00">pukul 21.00 WIB</TIMEX3>. 
+
+Di Kecamatan Mojoagung, seperti biasa desa-desa yang sudah menjadi langganan banjir kembali dilanda luapan air Sungai Gunting. 
+
+Di antaranya Desa Kademangan, Gambiran dan Desa Karobelah. " Ini banjir yang keempat kalinya sejak <TIMEX3 tid="t7" type="DATE" value="2017-WI">musim hujan</TIMEX3> akhir <TIMEX3 tid="t8" type="DATE" value="2017-02-22">tahun lalu</TIMEX3>. 
+
+<TIMEX3 tid="t9" type="SET" value="P1Y">Setiap tahun</TIMEX3>, <TIMEX3 tid="t10" type="SET" value="XXXX-WI">setiap musim penghujan</TIMEX3> desa ini selalu kebanjiran, " kata Sri Rejeki, warga setempat.Ketinggian air di Kecamatan Mojoagung berkisar antara 30 sentimeter hingga 100 sentimeter. 
+
+// Kendati demikian, belum ada warga yang dilaporkan mengungsi. 
+
+Mereka hanya menyelamatkan barang-barangnya ke lokasi lebih tinggi di dalam rumah. 
+
+Hampir semua rumah di dedsa-desa yang jadi langganan banjir ini ini sudah siap dengan tempat yang disebut 'pogo'. 
+
+Pogo ini semacam loteng dengan ketinggian sekitar dua meter dari lantai. 
+
+Gunanya untuk menyimpan barang-barang elektronik dan pakaian. 
+
+Kadang-kadang mereka juga tidur di sana. 
+
+" Kami tidak mengungsi, hanya mengamankan barang-barang elektronik agar tidak rusak karena banjir. 
+
+Ini sudah biasa kami lakukan, karena banjir biasanya akan surut dengan sendirinya <TIMEX3 tid="t11" type="TIME" value="UNKNOWN">nanti siang</TIMEX3>, tandasnya, diamini Mufid tetangganya. 
+
+Dan memang, <TIMEX3 tid="t12" type="TIME" value="2018-02-22TMO">pagi ini</TIMEX3> sejumlah titik sudah mulai surut. 
+
+Warga lain terlihat mulai bergotong-royong membersihkan kotoran dari rumah-rumah penduduk. 
+
+Mereka juga terlihat membersihkan saluran-saluran agar air dari permukiman mengalir lebih lancar, kembali ke sungai. 
+
+
+</TEXT>
+
+</TimeML>

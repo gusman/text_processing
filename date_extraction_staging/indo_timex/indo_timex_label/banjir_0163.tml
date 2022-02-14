@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0163</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-03" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-03</TIMEX3></DCT>
+
+<TITLE>60 Ton Sampah Diangkut, DLH Kerahkan Petugas Keruk Sampah Pascabanjir</TITLE>
+
+<TEXT>
+Banjir di Tangsel mulai surut. 
+
+Namun, bukan berarti masalah selesai. 
+
+Sebaliknya, setelah air mulai hilang sampah dari sisa banjir justru menumpuk di sekitar lingkungan tempat tinggal. 
+
+Hal tersebut tidak didiamkan. 
+
+Dinas Lingkungan Hidup (DLH) Tangsel berkomitmen untuk membantu warga Tangsel dengan mengangkut sampah sisa banjir. 
+
+Setidaknya, <TIMEX3 tid="t1" type="DATE" value="2020-01-02">sehari kemarin</TIMEX3> Dinas Lingkungan Hidup (DLH) mengangkut sampah sebanyak 60 ton pasca banjir yang terjadi diwilayah kota Tangsel, <TIMEX3 tid="t2" type="DATE" value="2020-01-02">Kamis (2/1)</TIMEX3>. 
+
+Sampah tersebut berasal dari 50 ton sampah eceng gondok dari Situ Sasak dan tujuh muara, serta 10 ton sampah plastic, kayu dan sampah rumah tangga pasca banjir yang terjadi di tujuh Kecamatan. 
+
+Kepala DLH Kota Tangsel, Toto Sudarto, menjelaskan, pengangkutan sampah ini dilakukan di lokasi yang sudah surut, serta pembersihan eceng gondok yang ada di situ sasak dan tujuh muara. 
+
+Kita mengerahkan semua pasukan, baik pesapon, mandor dan lainnya, hampir 500 orang kita kerahkan untuk mengangkut sampah, ungkapnya. 
+
+Pengangkutan sampah ini memakan waktu, sehingga dirinya focus didaerah-daerah yang sudah surut, baru berpindah ke wilayah lainnya. 
+
+Dirinya juga menambahkan, upaya pengangkutan sampah ini akan jauh lebih mudah apabila masyarakat memiliki kesadaran yang tinggi untuk tidak membuang sampah sembarangan. 
+
+Toto pun tidak lupa mengimbau kepada masyarakat untuk dapat bekerja sama untuk membuang sampah pada tempatnya dan tepat waktu. 
+
+Kepala Seksi Persampahan pada DLH Kota Tangsel, Rastra Yudhatama, menjelaskan, untuk mengangkut sampah pasca banjir, DLH menurunkan sebanyak 30 armada. 
+
+Kita mengerahkan petugas sebanyak 40 orang untuk mengangkat eceng gondok di Setu Sasak Pamulang, dan ratusan petugas lainnya tersebar di berbagai wilayah, jelasnya. 
+
+Untuk mengangkut sampah, pihaknya juga mengerahkan alat berat sebanyak 2 unit, pengangkutan sampah ini dilakukan di lokasi RW 02 Kamurang Atas Pakualam, Graha Serpong Mas, Pesona Serpong dan lainnya. 
+
+(mol/esa) 
+</TEXT>
+
+</TimeML>

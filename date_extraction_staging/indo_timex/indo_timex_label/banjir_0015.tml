@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0015</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-01-04" temporalFunction="false" functionInDocument="CREATION_TIME">2017-01-04</TIMEX3></DCT>
+
+<TITLE>Setelah Gempa, Pidie Jaya Dikepung Banjir</TITLE>
+
+<TEXT>
+Sejumlah desa di Pidie Jaya diterjang banjir, akibat tingginya curah hujan melanda, <TIMEX3 tid="t1" type="DATE" value="2017-01-04">Rabu (4/1)</TIMEX3>. 
+
+Berdasarkan informasi yang berhasil dihimpun Rakyat Aceh, sejumlah desa yang ikut tergenang yaitu, Desa Pante Beureune, Meunasah Mancang, Beuringen, Dayah Usen, Gampong Blang, Blang Cut, Dayah Krut, Kecamatan Meurah Dua, dan sebagian Meunasah Lhok, Meureudu. 
+
+Menurut keterangan warga, ketinggian air dipemukiman mereka sudah mencapai 30 centimeter. 
+
+(amz) 
+</TEXT>
+
+</TimeML>

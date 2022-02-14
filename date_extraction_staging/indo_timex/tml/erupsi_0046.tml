@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0046</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-11-27" temporalFunction="false" functionInDocument="CREATION_TIME">2017-11-27</TIMEX3></DCT>
+
+<TITLE>Bandara Lombok Praya Dibuka</TITLE>
+
+<TEXT>
+Untuk itu Bandara Internasional Lombok dinyatakan dibuka kembali dan beroperasi normal mulai hari ini, Senin 27 November 2017 pukul 06.00 WITA (22.00 UTC),  demikian pernyataan rilis itu.
+
+Untuk informasi lanjutan, Ditjen Perhubungan Udara akan selalu memberikan dan menyebarkan informasi aktual kepada masyarakat lewat semua saluran informasi Ditjen Perhubungan Udara Kementerian Perhubungan.
+
+Masyarakat juga bisa mencari dan memberikan informasi terkait dampak letusan Gunung Agung di daerahnya di media sosial Ditjen Hubud @djpu151 dan website BMKG.
+
+(Nikson/balipost)
+</TEXT>
+
+</TimeML>
+

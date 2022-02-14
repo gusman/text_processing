@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0884</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-04" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-04</TIMEX3></DCT>
+
+<TITLE>Kebakaran Lahan Landa Kabsor</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DURATION" value="PXD">Beberapa hari</TIMEX3> terakhir, kebakaran lahan gambut terjadi di Kabupaten Sorong. 
+
+<TIMEX3 tid="t2" type="TIME" value="2020-01-03TAF">Senin (3/1) siang</TIMEX3> sekitar <TIMEX3 tid="t3" type="TIME" value="2020-02-03T12:35">pukul 12.35 WIT</TIMEX3>, kebakaran lahan kembali terjadi di SP 3 Km 30 Jalan Kontainer, Kabupaten Sorong. 
+
+Kebakaran lahan berlanjut hingga <TIMEX3 tid="t4" type="TIME" value="2020-02-03TAF">sore hari</TIMEX3>, <TIMEX3 tid="t5" type="TIME" value="2020-02-03T17:00">sekitar pukul 17.00 WIT</TIMEX3> di Klalin 2, Kelurahan Klaigit Distrik Aimas, Kabupaten Sorong. 
+
+Informasi yang diperoleh Radar Sorong, kebakaran terjadi di lahan kosong milik warga, <TIMEX3 tid="t6" type="TIME" value="2020-02-03T12:35">sekitar pukul 12.35 WIT</TIMEX3> yang diduga merambat ke 3 titik lainnya. 
+
+Dibantu anggota Polres Sorong, warga melakukan pemadaman secara gotong royong. 
+
+Awalnya, pemadaman memanfaatkan air kali di sekitar lokasi lahan yang terbakar, sembari menunggu mobil pemadam kebakaran hutan dan lahan (karhutla) Kabupaten Sorong. 
+
+<TIMEX3 tid="t7" type="TIME" value="2020-02-03T17:00">Sekitar pukul 17.00 WIT</TIMEX3>, di Klalin 2, kebakaran kembali terjadi. 
+
+Lokasi kebakaran hanya berjarak sekitar 100 meter dari pemukiman warga. 
+
+Diperkirakan lahan yang terbakar seluas kurang lebih 5 Hektar. 
+
+Sebelumnya, beberapa warga melihat adanya api yang menyala di semak belukar antara jalan Petrogas dan pemukiman warga. 
+
+Api kemudian mulai menjalar ke arah pemukiman warga. 
+
+Kepala Distrik Aimas, Yuri, S. 
+
+Sos turun langsung ke lokasi kebakaran, mengajak warga untuk memadamkan api dengan cara memotong rumput menggunakan mesin babat agar tidak merembet ke pemukiman. 
+
+Pemadaman kebakaran juga dibantu anggota Koramil 1802-01 Sorong Timur dan anggota Polsek Aimas. 
+
+<TIMEX3 tid="t8" type="DURATION" value="PT1H">Sekitar 1 jam</TIMEX3> keudian, dua mobil Damkarhutla milik Pemerintah Kabupaten Sorong, tiba di lokasi kebakaran melakukan pemadaman. 
+
+Lurah Malasom, Akmadi yang dihubungi koran ini membenarkan adanya kebakaran. 
+
+Iya, ini kami masih lakukan pemadaman, katanya kepada Radar Sorong, <TIMEX3 tid="t9" type="DATE" value="2020-02-03">kemarin</TIMEX3>. 
+
+Sebelumnya, pada <TIMEX3 tid="t10" type="DATE" value="2020-02-02">Minggu (2/2)</TIMEX3> sekitar <TIMEX3 tid="t11" type="TIME" value="2020-02-03T19:00">pukul 19.00 WIT</TIMEX3> di Jalan Kontainer Km 30 juga terjadi kebakaran lahan gambut yang diperkirakan seluas 8 hektar. 
+
+Kurang lebih <TIMEX3 tid="t12" type="DURATION" value="PT3H">3 jam</TIMEX3>, mobil Damkarhutla Kabupaten Sorong baru tiba di lokasi untuk memadamkan api. 
+
+Ukuran tanki yang minim, memaksa mobil damkarhutla berkali-kali melakukan pengisian air. 
+
+Hingga <TIMEX3 tid="t13" type="TIME" value="2020-02-03TNI">tengah malam</TIMEX3> sekitar <TIMEX3 tid="t14" type="TIME" value="UNKNOWN">pukul 24.00 WIT</TIMEX3>, pemadalam selesai dilakukan. 
+
+Kebakaran lahan yang terjadi di Kabupaten Sorong ditanggapi serius Bupati Sorong, Dr. 
+
+Johny Kamuru, SH, MSi terkait dengan penanganannya oleh mobil damkarhutla yang diperoleh sejak <TIMEX3 tid="t15" type="DATE" value="2018">Tahun 2018</TIMEX3>. 
+
+Menurutnya, kendala yang terjadi pada damkarhutla harus segera diatasi untuk mengantisipasi adanya kebakaran lahan yang jauh lebih besar. 
+
+Kita akan komunikasikan dengan Satpol PP untuk persoalannnya, katanya kepada Radar Sorong, <TIMEX3 tid="t16" type="DATE" value="2020-02-03">kemarin</TIMEX3>. 
+
+(nam) 
+</TEXT>
+
+</TimeML>

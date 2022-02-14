@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_1146</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-01</TIMEX3></DCT>
+
+<TITLE>TNI AL Selamatkan Korban Tsunami Selat Sunda yang 9 Hari Terdampar, Begini Cara Ia Bertahan Hidup</TITLE>
+
+<TEXT>
+Anggota TNI Angkatan Laut menemukan seorang korban tsunami Selat Sunda yang sudah terdampar selama <TIMEX3 tid="t1" type="DURATION" value="P9D">sembilan hari</TIMEX3>, saat menyisir perairan Lampung Selatan, <TIMEX3 tid="t2" type="DATE" value="2018-12-30">Minggu (30/12/2018)</TIMEX3>. 
+
+Video saat TNI AL menyelamatkan korban tsunami Selat Sunda di perairan Lampung Selatan inipun banyak beredar di media sosial. 
+
+Video TNI AL selamatkan korban tsunami Selat Sunda di perairan Lampung Selatan ini diunggah oleh akun Facebook Pardie Rea Reo pada <TIMEX3 tid="t3" type="DATE" value="2018-12-31">Senin (31/12/2018)</TIMEX3>. 
+
+Dalam video, tampak anggota TNI AL dari KRI Rigel menggunakan sekoci menghampiri korban di bibir pantai. 
+
+Korban disebutkan terdampar di Pulau Panjang akibat terjangan tsunami dan baru ditemukan pada <TIMEX3 tid="t4" type="DATE" value="2018-12-30">Minggu (30/12/2018)</TIMEX3>. 
+
+. 
+
+" Ya itu dia, seorang warga terdampar di pulau panjang, " ujar salah seorang petugas yang terekam dalam video. 
+
+Korban yang diselamtkan TNI tersebut diketahui bernama Lago. 
+
+Saat ditemukan, pakaian yang dikenakan Lago tampak robek.Ia segera dinaikkan ke atas sekoci oleh petugas penyelamat. 
+
+// Lago menuturkan ia menjadi korban tsunami Selat Sunda saat sedang memancing ikan pada <TIMEX3 tid="t5" type="TIME" value="2018-12-22TNI">Sabtu (22/12/2018) malam</TIMEX3>. 
+
+Kepada petugas Lago mengaku sebagai nelayan yang berasal dari Kalianda, Lampung. 
+
+" Saya dari Kalianda, Lampung, " ujar Lago kepada petugas. 
+
+Lago pun mengaku sudah <TIMEX3 tid="t6" type="DURATION" value="P9D">sekitar sembilan hari</TIMEX3> terdampar di pulau tersebut. 
+
+" <TIMEX3 tid="t7" type="DURATION" value="UNKNOWN">Semingguan</TIMEX3>, " jawab Lago saat ditanya petugas berapa lama ia berada di Pulau Panjang. 
+
+Ia bertahan hidup dengan memakan apa saya yang ditemukannya, termasuk sampah di laut. 
+
+Ia pun tak sendiri, beberapa orang temannya juga menjadi korban dan terdampar. 
+
+Salah seorang temannya disebutkan hilang, dan Lago hanya menemukan perahunya. 
+
+" Yang di Pulau Baru hancur, hanya perahunya doang yang ketemu, " ujarnya.Sementara satu temannya bernama Jokowi disebutkan berada di pulau yang sama, namun <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">kini</TIMEX3> tak diketahui keberadaanya. 
+
+// Hingga berita ini diturunkan belum ada keterangan resmi dari pihak TNI AL terkait penemukan korban tsunami tersebut. 
+
+Berikut video selengkapnya:Kisah Nelayan Asal Lampung yang Selamat dari TsunamiNelayan asal Lampung bernama Puji, kisahkan pengalamannya usai selamat dari terjangan tsunami Selat Sunda yang terjadi <TIMEX3 tid="t9" type="DATE" value="2018-12-22">Sabtu (22/12/2018)</TIMEX3> pekan lalu. 
+
+Tsunami Selat Sunda yang diakibatkan dari aktivitas Gunung Anak Krakatau ini menerjang wilayah Pandeglang, Anyer, dan Lampung. 
+
+Dalam kesaksiannya, Puji mengatakan jika sebelum terjadi tsunami Selat Sunda, ia bersama 14 nelayan lainnya tengah mencari ikan di tengah laut. 
+
+Puji bahkan menyatakan bahwa ia sempat camping di Gunung Anak Krakatu sembari mencari ikan. 
+
+Dari 15 nelayan, tersisa empat termasuk Puji yang berhasil menyelamatkan diri dari tsunami Selat Sunda dan letusan Gunung Anak Krakatau. 
+
+" Ya itu nggak ada tanda-tanda sama sekali kalau mau kejadian Gunung Anak Krakatau mau meletus. 
+
+Posisi saya lagi di tengah laut, sekitar 700 meter dari Anak Krakatau lagi mencari ikan, " kata Puji melansir dari Youtube Lampung TV. 
+
+Kala itu Puji dan belasan nelayan lainnya memahami kondisi Gunung Anak Krakatau sedang aktif. 
+
+// Tetapi, mereka tak mengira kalau Gunung Anak Krakatau akan meletus dahsyat karena situasi yang tampak sudah seperti hari-hari biasanya. 
+
+Puji pun melihat jelas Gunung Anak Krakatau meletus hingga menimbulkan tsumami Selat Sunda. 
+
+" Waktu kejadian itu saya lihat Gunung Anak Krakatau membelah dua. 
+
+Pas belah dua itu mulai timbulnya tsunami. 
+
+<TIMEX3 tid="t10" type="DATE" value="UNKNOWN">Waktu itu</TIMEX3> yang saya lihat paling jelas meletusnya bukan di bagian atas, tapi di samping. 
+
+Meletusnya di bagian samping, lahar-lahar mencar semua, " ujarnya. 
+
+Tsunami terjadi setelah belahan Anak Krakatau jatuh ke laut hingga menimbulkan tiga gelombang tinggi. 
+
+" Terus bagian atasnya ambruk, nah <TIMEX3 tid="t11" type="TIME" value="2019-01-01T00:05:00">lima menit kemudian</TIMEX3> timbul ombak tsunami. 
+
+Ada tiga ombak itu yang besar dan yang paling besar ombak ketiga, " katanya. 
+
+Menurut Puji, tingginya gelombang tsunami di tengah laut mencapai 12 meter. 
+
+Gelombang tsunami itu lantas menghancurkan perahu Puji dan nelayan lainnya. 
+
+Beruntungnya, mereka masih bisa mengapung di tengah laut menggunakan bongkahan perahu. " Untungnya materialnya tidak sampai kami, cuman batu apungnya saja yang kena kami. 
+
+Air lautnya juga campur sama belerang, bau, keruh juga kayak air kopi, " jelasnya.Puji menceritakan situasi di tengah laut usai letusan Gunung Anak Krakatau sempat hujan bercampur debu vulkanik.Perjuangan Puji menyelamatkan diri di tengah laut ketika tsunami pun tak mudah.Ia sempat menyusul temannya yang masih ada di daratan Anak Krakatau. " Lalu saya berenang sama teman saya nyusul teman saya di daratan Anak Krakatau. 
+
+Disana ternyata perahu teman-teman juga sudah hancur, mereka juga berenang. 
+
+Terus saya samperin, saya nanya katanya di daratan masih ada dua orang lagi, " paparnya.Tapi, di tengah Puji ingin menolong temannya, belahan Anak Krakatau kembali jatuh ke laut sebanyak dua kali.Ambrukan Anak Krakatau yang terakhir langsung membuat air laut terasa panas. " Saya samperin, tapi belum sampai tempat bagian ujung gunungnya jatuh. 
+
+Saya teriak ke mereka agar berenang ke tengah.Setelah teman saya berenang ke tengah, bagian timur gunung ambruk lagi. 
+
+Setelah ambruk itu airnya langsung panas sampai badan kerasa panas, " katanya.Beruntungnya lagi, Puji dan enam nelayan lainnya berhasil menyelamatkan diri dari tragedi letusan Anak Krakatau dan tsunami.Mereka berkumpul di tengah laut dalam keadaan mengapung sambil memikirkan cara menyelamatkan diri.Bahkan mereka sempat mengisi tenaga dengan mengonsumsi makanan seadanya, termasuk ikan mentah demi menambah tenaga. " Akhirnya kita kumpul ada tujuh orang dan ada persediaan beras. 
+
+Kita makanin itu beras mentah di tengah laut, makan ikan mentah juga saking laparnya biar ada tenaga, " ucapnya.Dengan berbagai pertimbangan, akhirnya Puji dan enam nelayan lain memutuskan berenang ke daratan dengan bantuan bongkahan perahu.Sayangnya, tiga nelayan tidak mampu lagi berenang hingga meminta Puji dan nelayan lain untuk terus berenang menyelamatkan diri lebih dulu. " Sesudah itu kita memutuskan untuk berenang ke pulau dari tengah laut. 
+
+Tapi, tiga orang ngga kuat berenang.Puji mengatakan tiga temannya tidak sanggup lagi berenang ke daratan lantaran kehabisan tenaga dan alami kram kaki.Di sisi lain, Puji dan tiga nelayan lain yg berhasil selamat juga tidak sanggup menyelamatkan temannya karena sudah mulai lemas. " Mereka sempat bilang sudah ngga kuat lagi, kaki sudah kram, ngga tahan lagi. 
+
+Kita juga bingung caranya menyelamatkan gimana, tubuh saya juga sudah lemas, buat menyelamatkan diri susah, " ujarnya.Alhasil, Puji dan temannya memutuskan meninggalkan tiga nelayan tersebut guna menyelamatkan diri lebih dulu.Puji berenang ke daratan dari tengah laut selama <TIMEX3 tid="t12" type="DURATION" value="PT16H">16 jam</TIMEX3> dengan kondisi tubuh yang sudah sangat lemas dan sedih karena harus meninggalkan temannya. " Akhirnya kita tinggalkan tiga orang itu di tengah laut, " tandasnya. 
+
+
+</TEXT>
+
+</TimeML>

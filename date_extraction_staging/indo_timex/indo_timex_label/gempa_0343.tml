@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0343</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-10" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-10</TIMEX3></DCT>
+
+<TITLE>Beredar Video dan Foto Kerusakan Akibat Gempa di Sukabumi, BPBD: Masih Dalam Pengecekan</TITLE>
+
+<TEXT>
+Beredar video dan foto memperlihatkan kerusakan rumah dan masjid akibat gempa yang mengguncang Sukabumi <TIMEX3 tid="t1" type="TIME" value="2020-03-09T17:18">sekitar pukul 17.18 WIB</TIMEX3>. 
+
+<TIMEX3 tid="t2" type="DATE" value="2020-03-10">Selasa (10/3/2020)</TIMEX3>. 
+
+Menanggapi kabar viral tersebut, Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Sukabumi belum memberikan jawaban pasti. 
+
+BPBD masih mencari kebenaran kejadian tersebut, yang menyebutkan tempat kejadian di Kecamatan Kalapanunggal, Kabupaten Sukabumi. 
+
+" Masih dicek kebenarannya dan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> lagi pantau hasil assessment rekan-rekan P2BK wilayah masing-masing, " kata Koordinator Pusdalops PB BPBD Kabupaten Sukabumi, Daeng Sutisna. 
+
+<TIMEX3 tid="t4" type="DATE" value="2020-03-10">Selasa (10/3/2020)</TIMEX3>. 
+
+Sementara itu, Kabid Rehabilitasi dan Kontruksi BPBD Kabupaten Sukabumi Anita Mulyani menambahkan, pihaknya baru mendapatkan laporan gambar terkait kebenaran kejadian tersebut. 
+
+" Laporan baru gambar, masih menunggu data resmi, " tandasnya. 
+
+* 
+</TEXT>
+
+</TimeML>

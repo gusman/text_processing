@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0009</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-15" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-15</TIMEX3></DCT>
+
+<TITLE>Dampak Karhutla, Kualitas Udara di Riau Paling Tidak Sehat</TITLE>
+
+<TEXT>
+Kebakaran hutan dan lahan (karhutla) yang terjadi di sebagian wilayah Sumatera berdampak negatif terhadap kualitas udara. 
+
+Indeks Standar Pencemar Udara (ISPU) yang terpantau Kementerian Lingkungan Hidup dan Kehutanan (KLHK) <TIMEX3 tid="t1" type="DATE" value="2019-09-14">Sabtu (14/9)</TIMEX3> menunjukkan kualitas udara terburuk terjadi di wilayah Pekanbaru, Riau. 
+
+Terkait dampak karhutla, rekapitulasi Data P3E Sumatera KLHK dan Dinas LHK Provinsi Riau pada <TIMEX3 tid="t2" type="TIME" value="UNKNOWN">pukul 07.00 15.00 WIB</TIMEX3> (14/9) mencatat ISPU tertinggi di wilayah Pekanbaru 269, Dumai 170, Rohan Hilir 141, Siak 125, Bengkalis 121, dan Kampar 113, kata Plt Kepala Pusat Data, Informasi dan Humas BNPB, Agus Wibowo dalam keterangannya, <TIMEX3 tid="t3" type="DATE" value="2019-09-15">Minggu (15/9)</TIMEX3>. 
+
+Agus menjelaskan, angka 101 199 mengindikasikan kondisi kualitas udara tidak sehat. 
+
+<TIMEX3 tid="t4" type="DATE" value="2019-09-13">Jumat (13/9) lalu</TIMEX3>, kualitas udara di wilayah Riau pada kondisi sangat tidak sehat hingga berbahaya. 
+
+Data juga menunjukkan kualitas udara di provinsi lain, seperti Jambi (123), Kepulauan Riau (89), Sumatera Selatan (51), Sumatera Barat (46) dan Aceh (14). 
+
+Kualitas udara yang diukur dengan ISPU memiliki kategori baik (0-0), sedang (51-100), tidak sehat (101-199), sangat tidak sehat (200-299), dan berbahaya (lebih dari 300). 
+
+Oleh karenanya, untuk menangani Karhutla tersebut, BNPB mengerahkan tujuh helikopter untuk pengeboman air dan patroli dikerahkan untuk wilayah Provinsi Riau. 
+
+Terhitung dari <TIMEX3 tid="t5" type="DATE" value="2019-02-19">19 Februari 2019</TIMEX3> hingga <TIMEX3 tid="t6" type="DATE" value="2018-10-31">31 Oktober lalu</TIMEX3>, lebih dari 124 juta liter air digelontorkan untuk pengemboman air dan lebih dari 159 garam untuk operasi hujan buatan atau teknologi modifikasi cuaca (TMC), ucap Agus. 
+
+Agus menyebut, luas lahan terbakar akibat karhutla di wilayah Riau menurut catatan BNPB mencapai 49.266 hektare. 
+
+Sejumlah luas lahan terbakar lahan gambut seluas 40.553 hektare dan mineral 8.713 hektare. 
+
+Karhutla yang masih terus berlangsung ini mengakibatkan dampak yang luas selain kerusakan lingkungan dan kesehatan, juga aktivitas kehidupan warga masyarakat, ujar Agus. 
+
+BNPB berharap, pemerintah daerah tidak hanya bermain dengan kata-kata, tetapi melakukan tindakan nyata. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0059</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-13" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-13</TIMEX3></DCT>
+
+<TITLE>Kulkus Bulus, Kebakaran di Puncak Gunung Batukaru</TITLE>
+
+<TEXT>
+Warga Wongaya Gede, Kecamatan Penebel, Tabanan, <TIMEX3 tid="t1" type="TIME" value="2019-08-12TNI">Senin (12/8) malam</TIMEX3> dihebohkan dengan adanya kebakaran di areal puncak Gunung Batukaru. 
+
+Suasana bertambah tegang saat kulkul bulus dibunyikan. 
+
+Sontak sejumlah warga pun berangkat menuju puncak untuk mencari titik api, yang diketahui disekitar pura puncak Kedaton, wikayah Pura Batukaru. 
+
+Bahkan ratusan warga lainnya memonitor di areal Pura Luhur Batukaru. 
+
+Dari informasi yang dihimpun, kebakaran hutan diketahui oleh sejumlah warga <TIMEX3 tid="t2" type="TIME" value="2019-08-12T21:00">sekitar pukul 21.00</TIMEX3> Wita. 
+
+Kebakaran diketahui karena terlihat titik api di ketinggian pura Batukau. 
+
+Danramil Penebel, Kapten Inf T. 
+
+Yudha Wicaksono mengatakan, personil kepolisian dan TNI <TIMEX3 tid="t3" type="TIME" value="2019-08-13TNI">malam itu</TIMEX3> juga dibantu sejumlah kelompok masyarakat langsung berangkat menuju puncak untuk mencari titik api. 
+
+. 
+
+Info dari yang berada di puncak Kedaton, pada <TIMEX3 tid="t4" type="TIME" value="2019-08-12T01:00">pukul 01.00</TIMEX3> wita api sudah mulai mengecil namun bara api tertiup angin sehingga dikawatirkan akan menyala lagi dan api tambah membesar, terangnya. 
+
+Tim dari Babinsa, Babhinkamtibmas dan masyarakat memadamkan api dengan cara manual. 
+
+Rencananya akan ada lagi yang berangkat untuk mengantar logistik dengan start <TIMEX3 tid="t5" type="TIME" value="2019-08-12T06:30">06.30</TIMEX3> Wita dari Pura Batukau. 
+
+Sementara di areal Pura Barukaru sudah disiagakan 2 mobil pemadam kebakaran, dan ambulans. 
+
+(Puspwati/balipost) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0602</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-11-27" temporalFunction="false" functionInDocument="CREATION_TIME">2017-11-27</TIMEX3></DCT>
+
+<TITLE>Gunung Agung Meletus, Bandara El Tari Kupang Tetap Beroperasi Tapi 4 Penerbangan Dibatalkan</TITLE>
+
+<TEXT>
+Dampak dari erupsi Gunung Agung di antaranya adalah penutupan Bandara Internasional I Gusti Ngurah Rai Bali. 
+
+Ratusan penerbangan pesawat pun dibatalkan. 
+
+Dampaknya juga dirasakan di Nusa Tenggara Timur. 
+
+Meski Bandara El Tari Kupang tidak ditutup namun empat penerbangan domestik batal diberangkatkan. 
+
+Hal ini dibenarkan Kepala Operasional Penerbangan Bandara El Tari Kupang, Kadek Tresna saat dikonfirmasi <TIMEX3 tid="t1" type="DATE" value="2017-11-27">Senin (27/11/2017)</TIMEX3>. 
+
+Menurut Kadek sampai <TIMEX3 tid="t2" type="TIME" value="2017-11-20TAF">Senin siang</TIMEX3> ada 4 penerbangan yang dibatalkan karena efek Gunung Agung. 
+
+Keempat penerbangan dimaksud, yaitu penerbangan pesawat Garuda Denpasar - Kupang dengan nomor penerbangan GA438, dan penerbangan pesawat Garuda dari Kupang tujuan Denpasar dengan nomor penerbangan GA439. 
+
+Penerbangan pesawat Garuda Ende - Kupang dengan nomor penerbangan GA7026, begitupun sebaliknya Kupang - Ende dengan nomor penerbangan GA7027 juga batal. 
+
+" Bandara Ngurah Rai ditutup sejak <TIMEX3 tid="t3" type="DATE" value="2017-11-27">hari ini</TIMEX3> Senin <TIMEX3 tid="t4" type="TIME" value="2017-11-27T07:00">(27/11/2017) pukul 07.00</TIMEX3> Wita sampai <TIMEX3 tid="t5" type="DATE" value="2017-11-28">Selasa (28/11/2017)</TIMEX3>. 
+
+Jadi ada beberapa penerbangan dari kita dan dari bandara luar yang cancel (batal), " ujar Kadek.(*) 
+</TEXT>
+
+</TimeML>

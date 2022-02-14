@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0057</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-04-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-04-01</TIMEX3></DCT>
+
+<TITLE>Longsor Tutup Jalan Penghubung Banjar Satung-Buahan</TITLE>
+
+<TEXT>
+Hujan deras yang mengguyur Gianyar menyebabkan bencana tanah longsor di ruas jalan penghubung Banjar Satung dengan Banjar Buahan, Desa Buahan, Kecamatan Payangan. 
+
+Peristiwa terjadi <TIMEX3 tid="t1" type="DATE" value="2018-03-31">Sabtu (31/3)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2018-03-31T20:00">pukul 20.00</TIMEX3> Wita. 
+
+Akibatnya, warga Banjar Satung terisolir, malahan warga setempat yang akan ngiring sesuhunan di Pura Rambut Siwi Lungan ke Pura Tangluk, Banjar Susut, batal dilakukan. 
+
+Bendesa Pakraman Satung I Wayan Panggil didampingi Kelian Dinas I Nyoman Mudana saat dikonfirmasi <TIMEX3 tid="t3" type="DATE" value="2018-04-01">Minggu (1/4)</TIMEX3>, membenarkan adanya kejadian tersebut. 
+
+Kata dia, lokasi tanah di sekitar lokasi memang labil, dan telah sering terjadi longsor. 
+
+Kejadian <TIMEX3 tid="t4" type="DURATION" value="2018-04-01TNI">semalam</TIMEX3> adalah longsor terbesar sehingga material tanah menutup jalan. 
+
+Akibatnya, warga Satung sempat terisolir, jelas Bendesa Pakraman Satung. 
+
+. 
+
+Padahal, sebelum kejadian warga telah siap di Pura Rambut Siwi untuk segera nedunan Ida Sesuhunan. 
+
+Karena kejadian ini kami terpaksa batal ngiring seuhunan, jelas dia. 
+
+Sementara Kelian Dinas Satung, I Nyoman Mudana menambahkan, sebelum kejadian memang sempat terjadi hujan deras. 
+
+Akibatnya, air yang datang dari hulu ke lokasi itu tidak terbendung karena tanah di lokasi itu labil. 
+
+Tanah sawah yang ada di atas jalan ambrol sekitar 20 meter, yang kemudian menimbun jalan. 
+
+Paginya kami berupaya menyingkirkan material longsor dengan cara manual, paparnya. 
+
+(Manik Astajaya/balipost) 
+</TEXT>
+
+</TimeML>

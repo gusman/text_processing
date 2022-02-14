@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0637</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-23" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-23</TIMEX3></DCT>
+
+<TITLE>Terbaru, Korban Tsunami di Banten Jadi 43 Orang Meninggal Dunia, 584 Luka-luka</TITLE>
+
+<TEXT>
+Kepala Pusat Data Informasi dan Humas Badan Nasional Penanggulangan Bencana (BNPB) Sutopo Purwo Nugroho mengungkapkan, korban meninggal dunia akibat tsunami yang melanda wilayah pantai di sekitar Selat Sunda bertambah menjadi 43 orang. 
+
+Sementara 584 orang mengalami luka-luka. 
+
+Data tersebut merupakan data terkini BNPB, <TIMEX3 tid="t1" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3> per <TIMEX3 tid="t2" type="TIME" value="2018-12-22T07:00">pukul 07.00 WIB</TIMEX3>. 
+
+" Dua orang hilang. 
+
+Kerugian fisik meliputi 430 unit rumah rusak berat, 9 hotel rusak berat, 10 kapal rusak berat dan puluhan rusak, " kata Sutopo dalam keterangan persnya. 
+
+Di Kabupaten Pandeglang tercatat 33 orang meninggal dunia, 491 orang luka-luka, 400 unit rumah rusak berat, 9 hotel rusak berat, dan 10 kapal rusak berat. 
+
+Daerah yang terdampak adalah permukiman dan kawasan wisata di sepanjang Pantai seperti Pantai Tanjung Lesung, Sumur, Teluk Lada, Penimbang dan Carita. 
+
+Di Lampung Selatan, 7 orang meninggal dunia, 89 orang luka-luka dan 30 unit rumah rusak berat. 
+
+Sedangkan di Serang tercatat 3 orang meninggal dunia, 4 orang luka-luka dan 2 orang hilang. 
+
+Menurut dia, pendataan masih dilakukan. 
+
+Kemungkinan data korban dan kerusakan akan bertambah. 
+
+Sebelumnya BMKG menyatakan bahwa gelombang yang menerjang sejumlah wilayah di kawasan sekitar Selat Sunda itu merupakan tsunami. 
+
+BMKG menyampaikan kesimpulan tersebut setelah mendapatkan data dari 4 stasiun pengamatan pasang surut di sekitar Selat Sunda pada waktu kejadian tsunami, yaitu <TIMEX3 tid="t3" type="TIME" value="2018-12-22T21:27">Sabtu (22/12/2018) pukul 21.27 WIB</TIMEX3>.Hasil pengamatan menunjukkan tinggi gelombang masing-masing 0.9 meter di Serang pada <TIMEX3 tid="t4" type="TIME" value="2018-12-22T21:27">pukul 21.27 WIB</TIMEX3>, 0,35 meter di Banten pada <TIMEX3 tid="t5" type="TIME" value="2018-12-22T21:33">pukul 21.33 WIB</TIMEX3>, 0,36 meter di Kota Agung pada <TIMEX3 tid="t6" type="TIME" value="2018-12-22T21:35">pukul 21.35 WIB</TIMEX3>, dan 0,28 meter pada <TIMEX3 tid="t7" type="TIME" value="2018-12-22T21:53">pukul 21.53 WIB</TIMEX3> di Pelabuhan Panjang.Ahli dari Badan Pengkajian dan Penerapan Teknologi (BPPT) Widjo Kongko menduga bahwa tsunami dengan ketinggian tertinggi 0,9 meter ini disebabkan oleh erupsi Gunung Anak Krakatau yang pada <TIMEX3 tid="t8" type="DATE" value="2018-12-22">Sabtu</TIMEX3> bererupsi hingga 4 kali, terakhir pada <TIMEX3 tid="t9" type="TIME" value="2018-12-22T21:03">pukul 21.03 WIB</TIMEX3>.Erupsi gunung api itu diduga menyebabkan guguran material yang jatuh ke lautan dan akhirnya mengakibatkan gelombang tinggi.Menurut BMKG, gelombang yang menerjang bisa jadi lebih tinggi dari yang terdata sebab ada beberapa wilayah di sekitar Selat Sunda yang punya morfologi teluk seperti di Palu. 
+
+(KOMPAS.com) 
+</TEXT>
+
+</TimeML>

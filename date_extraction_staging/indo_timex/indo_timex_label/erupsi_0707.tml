@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0707</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-02-18" temporalFunction="false" functionInDocument="CREATION_TIME">2014-02-18</TIMEX3></DCT>
+
+<TITLE>PVMBG: Gunung Kelud Masih Berpotensi Meletus</TITLE>
+
+<TEXT>
+Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) mengingatkan, Gunung Kelud masih berpotensi meletus. 
+
+Oleh karena itu warga diminta tetap tinggal di pengungsian selama Kelud masih berstatus Awas. 
+
+" Selama tremor masih ada, selama status Awas diberlakukan, berarti masih ada potensi (letusan) lain, " ujar Penanggung Jawab Gunung Api PVMBG Umar Rosadi saat ditemui di Pos Pemantauan Gunung Kelud, di Kabupaten Kediri, Jawa Timur, <TIMEX3 tid="t1" type="DATE" value="2014-02-18">Selasa (18/2/2014)</TIMEX3>. 
+
+Dia mengatakan, hingga <TIMEX3 tid="t2" type="TIME" value="UNKNOWN">pukul 12.00 WIB siang tadi</TIMEX3>, status gunung masih dinyatakan Awas. 
+
+Dituturkannya, berdasarkan pemantauan pihaknya, getaran tremor terjadi terus menerus dengan kekuatan 0,5 milimeter (mm) hingga 1 mm. 
+
+" Dan embusan asap masih berlangsung dengan tinggi maksimal 600 meter, " kata Umar. 
+
+Artinya, kata Umar, pada radius 10 kilometer dari puncak kawah tidak boleh ada aktivitas warga. 
+
+" Warga harus bersabar tinggal di pengungsian, " tuturnya. 
+
+Ia mengatakan, status awas masih tetap diberlakukan hingga evaluasi aktivitas gunung, <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">Rabu (19/2/2014) esok</TIMEX3>. 
+
+" <TIMEX3 tid="t4" type="TIME" value="2014-02-19TMO">Besok pagi</TIMEX3> akan kami umumkan hasil evaluasinya, " kata Umar. 
+</TEXT>
+
+</TimeML>

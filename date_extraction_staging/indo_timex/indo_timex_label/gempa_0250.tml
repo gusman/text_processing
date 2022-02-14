@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0250</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-10-20" temporalFunction="false" functionInDocument="CREATION_TIME">2017-10-20</TIMEX3></DCT>
+
+<TITLE>Gempa Tektonik Guncang Kepahiang</TITLE>
+
+<TEXT>
+Kabupaten Kepahiang kembali diguncang gempabumi tektonik, <TIMEX3 tid="t1" type="DATE" value="2017-10-20">Jumat (20/10/2017)</TIMEX3>. 
+
+Gempa pertama terjadi pada <TIMEX3 tid="t2" type="TIME" value="2017-10-19T07:36:06">pukul 07:36:06 WIB</TIMEX3> dan gempa kedua pada <TIMEX3 tid="t3" type="TIME" value="2017-10-19T07:37:15">pukul 07:37:15 WIB</TIMEX3>. 
+
+Kepala Stasiun Geofisika Kepahiang-Bengkulu Litman mengatakan hasil analisis BMKG menunjukkan bahwa gempabumi pertama yang berkekuatan M 3.0 SR terletak pada episenter dengan koordinat 3.66 LS dan 102.58 BT pada jarak 2 km Barat Kepahiang. 
+
+Sedangkan gempabumi kedua yang berkekuatan M 2.8 SR terletak pada episenter dengan koordinat 3.60 LS dan 102.65 BT tepatnya pada jarak 8 km Timut Laut Kepahiang. 
+
+Kedua gempabumi tersebut terjadi pada kedalaman 1 km. 
+
+Berdasarkan rekaman alat intensitymeter dan info yang dirasakan oleh masyarakat, menunjukkan bahwa dampak kedua gempabumi ini menimbulkan guncangan yang dirasakan di Kepahiang II SIG BMKG (III-IV MMI). 
+
+Gempabumi ini menyebabkan kerusakan ringan berupa retakan pada dinding dan pagar di beberapa rumah di sekitar wilayah Pasar Ujung, Kepahiang, ungkapnya. 
+
+Ditinjau dari kedalaman hiposenternya, lanjutnya, gempa ini merupakan gempa dangkal akibat aktivitas Sesar Sumatera di daratan Bengkulu pada segmen Musi. 
+
+Terkait dengan peristiwa gempabumi yang baru saja terjadi ini, hingga laporan ini disusun pada <TIMEX3 tid="t4" type="TIME" value="2017-10-19T09:35">pukul 09.35 WIB</TIMEX3> telah terjadi tiga kali aktivitas gempabumi susulan. 
+
+Ditinjau dari historis kegempaan, Kepahiang pernah di guncang gempa akibat sesar sumatera segmen musi pada <TIMEX3 tid="t5" type="DATE" value="1979">tahun 1979</TIMEX3>, <TIMEX3 tid="t6" type="DATE" value="1997">1997</TIMEX3> dan <TIMEX3 tid="t7" type="DATE" value="2014">2014</TIMEX3>. 
+
+Kepada masyarakat di sekitar wilayah Kepahiang Bengkulu dihimbau agar tetap tenang dan terus mengikuti arahan BPBD dan informasi BMKG. 
+
+CHO 
+</TEXT>
+
+</TimeML>

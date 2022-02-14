@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0435</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-04-02" temporalFunction="false" functionInDocument="CREATION_TIME">2017-04-02</TIMEX3></DCT>
+
+<TITLE>Cerita Ismiatun Lolos dari Longsor: Terpaksa Dia Lepaskan Tangan Mertuanya</TITLE>
+
+<TEXT>
+Jarum jam menunjukkan <TIMEX3 tid="t1" type="TIME" value="2017-04-01T23:00">pukul 23.00 WIB</TIMEX3> namun pasangan suami istri Kateni (52) dan Ismiatun (47) masih terjaga dan belum mau tidur. 
+
+Keduanya merupakan keluarga korban terdampak longsor di Dusun Tangkil, Desa Banaean, Kecamatan Pulung, Kabupaten Ponorogo, Jawa Timur. 
+
+" Saya enggak bisa tidur, mendengar suara genset ingat suara longsor tadi <TIMEX3 tid="t2" type="TIME" value="2017-04-02TMO">pagi</TIMEX3>, " Kateni bercerita saat ditemui di rumah kepala Desa Banaran yang menjadi tempat pengungsian sementara pada <TIMEX3 tid="t3" type="TIME" value="2017-04-01TNI">Sabtu (1/4/2017) malam</TIMEX3>. 
+
+Sejumlah korban longsor di Desa Banaran sementara diungsikan. 
+
+Lantaran listrik padam untuk penerangannya menggunakan genset. 
+
+Kateni (52) kehilangan putranya, Iwandana Suwandi (27), dan ibu kandungnya, Katemi (80). 
+
+Material longsor menelan keduanya hidup-hidup yang di <TIMEX3 tid="t4" type="DATE" value="2017-04-02">hari itu</TIMEX3> sedang berada di rumah. 
+
+" Anak saya sedang tidur di kamar, " kata dia sambil membuka nasi bungkus dari relawan. 
+
+Ia masih jelas detik-detik saat longsor menimbun rumahnya. 
+
+<TIMEX3 tid="t5" type="DATE" value="PXX">Beberapa saat</TIMEX3> sebelum longsor Kateni sudah keluar rumah dan berniat ke ladang mencari rumput untuk ternaknya. " Saya baru <TIMEX3 tid="t6" type="DURATION" value="PXX">sebentar</TIMEX3> keluar dari rumah, tebing sudah longsor. 
+
+Saya bisa lihat dari jalan, " kata dia merasa tak percaya atas apa yang dilihatnya.Kateni tak merasakan firasat apa pun sebelum longsor merenggut nyawa orang yang dicintainya. 
+
+Biasanya, sang anak tidur di rumah mertuanya. " Baru <TIMEX3 tid="t7" type="DATE" value="2017-04-01">kemarin</TIMEX3> dia datang ke rumah, " ia menambahkan. 
+
+// Istri Kateni, Ismiatun (47), menjadi saksi hidup saat material longsoran menerjang rumahnya dan mengubur mertua dan anaknya yang sedang tidur <TIMEX3 tid="t8" type="TIME" value="2017-04-02TMO">pagi itu</TIMEX3>. 
+
+Saat sedang memasak di dapur ia mendengar suara gemuruh sangat kencang. 
+
+Dia sadar tebing di belakang rumahnya longsor. 
+
+Segera Ismiatun mencari ibu mertuanya dan berusaha menggandengnya keluar rumah. 
+
+Namun, material longsoran datang begitu cepat. 
+
+Ismiatun melepas tangan ibu mertuanya yang sebelumnya ia gandeng. 
+
+" Lalu saya lari keluar rumah, " kenang Ismiatun. 
+
+Saat berlari ia sempat menoleh ke belakang dan melihat tanah longsor menggilas rumahnya hanya dalam hitugan detik. 
+
+Ia hanya bisa menangis sambil berteriak histeris melihat rumahnya tertimbun tanah. 
+
+Dia menyesal tidak bisa menyelamatkan putra dan ibu mertuanya. 
+
+Seluruh harta bendanya, termasuk 10 ekor kambing miliknya tertimbun longsoran tanah. 
+
+Berbeda dengan Tamikun (60), istrinya Sumini (50) dan anaknya Tri Wahyu Ningtyas berhasil selamat. 
+
+Saat kejadian Tamikun berada di jalan tak jauh dari rumahnya. 
+
+<TIMEX3 tid="t9" type="TIME" value="2017-04-02TMO">Pagi itu</TIMEX3> ia hendak pergi ke ladang untuk mencari rumput untuk pakan ternaknya. 
+
+Dari kejauhan ia melihat sebuah pohon di atas tebing tiba-tiba longsor. 
+
+<TIMEX3 tid="t10" type="DATE" value="PTXS">Beberapa detik kemudian</TIMEX3> diikuti tanah tebing turun begitu cepat. 
+
+Seketika material longsor menggulung sejumlah petani di kebon jahe dan menimbun sejumlah rumah warga. 
+
+// " Cepat sekali kejadiannya, tanah itu tiba-tiba menutup seluruh rumah, " kata Tamikun. 
+
+Beruntung anaknya sedang di sekolah. 
+
+Begitu juga dengan istrinya yang <TIMEX3 tid="t11" type="DATE" value="PAST_REF">saat itu</TIMEX3> sedang tidak di rumah. 
+
+Meski kehilangan harta benda serta 15 ekor kambingnya, Tamikun bersyukur anak dan istrinya masih bisa selamat. 
+
+Berdasarkan laporan dari BPBD Ponorogo, ada sekitar 27 warga yang tertimbun longsoran. 
+
+Selain itu, ada 21 rumah yang <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">kini</TIMEX3> rata dengan tanah. 
+
+
+</TEXT>
+
+</TimeML>

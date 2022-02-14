@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0541</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-11-13" temporalFunction="false" functionInDocument="CREATION_TIME">2016-11-13</TIMEX3></DCT>
+
+<TITLE>Hujan Deras, Sejumlah Daerah Terendam Banjir</TITLE>
+
+<TEXT>
+Hujan lebat mengguyur sejumlah wilayah di Indonesia sepanjang <TIMEX3 tid="t1" type="DATE" value="2016-11-12">hari kemarin (13/11)</TIMEX3>. 
+
+Dampaknya, sejumlah daerah terendam banjir. 
+
+Akses transportasi pun terganggu. 
+
+Deputi Bidang Meteorologi Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Yunus Subagyo menuturkan, kondisi ini diperirakan terjadi hingga <TIMEX3 tid="t2" type="DATE" value="2016-11-20">sepekan mendatang</TIMEX3>. 
+
+<TIMEX3 tid="t3" type="DATE" value="2015-WI">Musim hujan</TIMEX3> sudah berlangsung hampir di seluruh wilayah Indonesia sebelah selatan Katulistiwa. 
+
+Peluang cuaca buruk tentu selalu ada. 
+
+Karenanya, kita selalu memberi peringatan melalui EWS (Early Warning System) <TIMEX3 tid="t4" type="DURATION" value="PT3H">3 jam</TIMEX3> sblm kejadian, tuturnya pada Koran ini, <TIMEX3 tid="t5" type="DATE" value="2016-11-12">kemarin (13/11)</TIMEX3>. 
+
+Dari data BMKG sendiri, beberapa wilayah yang mendapat EWS antara lain daerah Jabodetabek, Jawa Barat, dan Sumatera Selatan. 
+
+EWS disampaikan dalam beberapa kali. 
+
+Sementara hujan merata terjadi di hampir seluruh wilayah Indonesia lainnya. 
+
+Tingginya curah hujan ini akibat pengaruh dari La Nina lemah, menguatnya Dipole Mode negatif dan hangatnya perairan muka air laut di sekitar Indonesia telah menyebabkan meningkatnya banjir, longsor dan puting beliung. 
+
+Hujan lebat yang terjadi dalam <TIMEX3 tid="t6" type="DURATION" value="PXX">beberapa waktu</TIMEX3> terakhir ini telah merendam beberapa wilayah. 
+
+Dari data Pusdaplops Badan Nasional Penanggulangan Bencana (BNPB) hingga <TIMEX3 tid="t7" type="TIME" value="2015-11-13TAF">Minggu (13/11) siang</TIMEX3>, daerah-daerah tersebut meliputi Kabupaten Karawang, Kabupaten Bandung, Kota Bandung, Sumedang, Sukabumi, Lebong (Bengkulu), Wonogiri, Gresik, Jakarta Selatan, Jakarta Timur, Jakarta Barat, Sampang (Madura), Trenggalek, dan Klaten. 
+
+Selain bencana banjir, sejumlah bencana longsor juga terjadi di sejumlah daerah. 
+
+Seperti Kabupaten Semarang, Lebong (Bengkulu), Ponorogo, Bandar Lampung, Tasikmalaya, Sukabumi Dan Wonogiri. 
+
+Jumlah kejadian bencana yang terjadi diperkirakan lebih banyak di lapangan. 
+
+sebab, ada beberapa BPBD yang masing belum melaporkan update terbaru. 
+
+Sutopo Purwo Nugroho, Kepala Pusat Data Informasi dan Humas BNPB menyampaikan, <TIMEX3 tid="t8" type="DATE" value="2016">tahun 2016</TIMEX3> merupakan tahun bencana. 
+
+Tercatat, hingga <TIMEX3 tid="t9" type="DATE" value="2016-11">11 November 2016</TIMEX3>, ada 1.985 kejadian bencana. 
+
+Jumlah ini pun diprediksi akan terus bertambah. 
+
+Sutopo menuturkan, kejadian bencana <TIMEX3 tid="t10" type="DATE" value="2016">tahun ini</TIMEX3> bisa dibilang merupakan rekor tertingggi yang pernah terjadi sejak <TIMEX3 tid="t11" type="DURATION" value="P10Y">10 tahun</TIMEX3> terakhir. 
+
+Sebagai perbandingan jumlah kejadian bencana selama <TIMEX3 tid="t12" type="DURATION" value="P10Y">10 tahun</TIMEX3> terakhir adalah <TIMEX3 tid="t13" type="DATE" value="2007">tahun 2007</TIMEX3> (816 bencana), <TIMEX3 tid="t14" type="DATE" value="2008">2008</TIMEX3> (1.073), <TIMEX3 tid="t15" type="DATE" value="2009">2009</TIMEX3> (1.246), <TIMEX3 tid="t16" type="DATE" value="2010">2010</TIMEX3> (1.941), <TIMEX3 tid="t17" type="DATE" value="2011">2011</TIMEX3> (1.633), <TIMEX3 tid="t18" type="DATE" value="2012">2012</TIMEX3> (1.811), <TIMEX3 tid="t19" type="DATE" value="2013">2013</TIMEX3> (1.674), <TIMEX3 tid="t20" type="DATE" value="2014">2014</TIMEX3> (1.967), dan <TIMEX3 tid="t21" type="DATE" value="2015">2015</TIMEX3> (1.677). 
+
+Meskipun bencana yang terjadi tidak termasuk bencana besar, namun korban jiwa dan kerugian ekonomi yang ditimbulkan bencana cukup besar. 
+
+Sebanyak 375 orang tewas, 383 jiwa luka-luka, 2,52 juta jiwa menderita dan mengungsi, dan lebih dari 34 ribu rumah rusak.Jika diurutkan kembali, kata dia, dari seluruh bencana tersebut bencana banjir adalah yang paling banyak terjadi yaitu 659 kejadian. 
+
+Selanjutnya berturut-turut adalah putting beliung 572 kejadian, longsor 485, kebakaran hutan dan lahan 178, kombinasi banjir dan longsor 53, gelombang pasang dan abrasi 20, gempa bumi 11, dan erupsi gunungapi 7 kejadian. 
+
+Bencana longsor merupakan bencana yang menimbulkan korban tewas paling banyak yaitu 161 jiwa, papar Pria asli Boyolali itu. 
+
+Sedangkan, banjir menyebabkan 136 jiwa tewas, kombinasi banjir dan longsor 46 tewas, puting beliung 20 jiwa, erupsi gunungapi 7 jiwa, gempabumi 3 jiwa, dan kebakaran hutan dan lahan 2 jiwa.Sutopo memaparkan, selain curah hujan tinggi, masalah daerah aliran sungai yang kritis, kerusakan lingkungan, degradasi sungai, tingginya kerentanan dan masih terbatasnya mitigasi struktural dan non struktural di masyarakat menyebabkan bencana terus meningkat.Beberapa daerah yang sebelumnya jarang terjadi bencana, <TIMEX3 tid="t22" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> pun mudah terjadi bencana. 
+
+Misal Kota Bandung yang secara beruntun mengalami bencana. 
+
+Pada <TIMEX3 tid="t23" type="DATE" value="2016-11-23">Minggu (23/11/2016)</TIMEX3> Kota Bandung kembali direndam banjir karena hujan beritensitas tinggi dan drainase perkotaan yang sudah tidak mampu menampung aliran permukaan. 
+
+Hujan es dan angin kencang terjadi di beberapa tempat sehingga menyebabkan pohon tumbang. 
+
+Stasiun keretaapi di Kota Bandung juga direndam banjir.Masyarakat dihimbau untuk meningkatkan kesiapsiagaan menghadapi banjir, longsor dan puting beliung. 
+
+Diprediksikan hujan akan terus meningkat hingga puncaknya pada <TIMEX3 tid="t24" type="DATE" value="2017-01">Januari 2017 mendatang</TIMEX3>. 
+
+Sesuai dengan polanya, <TIMEX3 tid="t25" type="DATE" value="2016-01">Januari</TIMEX3> merupakan puncak curah hujan di sebagian besar wilayah di Indonesia. 
+
+Pola bencana juga menunjukkan bahwa <TIMEX3 tid="t26" type="DATE" value="2016-01">Januari</TIMEX3> adalah bulan paling banyak bencana di Indonesia.Yunus menjelaskan, fenomena hujan es yang terjadi berasal dari awan cumulonimbus (cb) yang menjulang tinggi. 
+
+Puncak awan Cb berwujud es. 
+
+Saat jatuh ke bumi mendapat gesekan atmosfer menjadi cair. 
+
+Prinsipnya di mana saja bisa terjadi hujan es asal ada sumber awan Cb. 
+
+Namun tidak semua bisa cair karena bongkahan es terlalu besar, suhu permukaan tidak cukup panas sehingga sebagian es mencair dan sebagian masih berwujud es, paparnya.Ganggu TransportasiHujan merata sepanjang hari di Jabodetabek dan Jawa Barat <TIMEX3 tid="t27" type="DATE" value="2016-11-12">kemarin</TIMEX3> turut berakibat pada aktivitas transportasi. 
+
+Pada angkutan kereta, rute Jakarta-Bandung mengalami keterlambatan. 
+
+KA Parahiyangan <TIMEX3 tid="t28" type="TIME" value="2016-11-12TAF">sore</TIMEX3> dan <TIMEX3 tid="t29" type="TIME" value="2016-11-12TNI">malam hari</TIMEX3> teruama yang dari bandung mengalami keterlambatan. 
+
+Untuk rute ke Jawa Aman, ungkap Kepala Humas PT KAI DAOP I Sapto HartoyoMerespon kondisi yang sedang tidak bersahabat ini, Sapto memastikan pihaknya telah melakukan antisipasi. 
+
+DAOP I telah menyiagakan petugas di daerah-daera rawan banjir dan rawan longsor. 
+
+Selain itu, kegiatan bersih-bersih gorong-gorong sepanjang jalur kereta telah dilakukan. 
+
+Ada 56 petugas yang kita siagakan pada titik rawan sepanjang lintas daop 1, ujarnnya.Selain kereta, jalan tol juga terganggu. 
+
+Akibat hujan deras yang mendera Jakarta, terjadi genangan di KM 38 jalan tol Jakarta Cikampek. 
+
+Lalu lintas pun sempat tersendat. 
+
+Namun, menjelang <TIMEX3 tid="t30" type="TIME" value="2016-11-12TNI">malam</TIMEX3>, jalur 2, 3 dan 4 Jalan Tol Jakarta Cikampek KM 38 arah Jakarta sudah dapat dilalui.Selain itu, mulai <TIMEX3 tid="t31" type="TIME" value="2016-11-12T19:50">pukul 19.50 WIB</TIMEX3> Jalan Tol Jakarta Cikampek arah Jakarta diberlakukan contraflow dari KM 41 sd KM 35. 
+
+Hal ini diharapkan dapat membantu mengurangi kepadatan lalu lintas arah Jakarta, papar Dwimawan Heru, AVP Corporate Communication PT Jasa Marga. 
+
+(mia) 
+</TEXT>
+
+</TimeML>

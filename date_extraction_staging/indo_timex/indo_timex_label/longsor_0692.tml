@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0692</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-16" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-16</TIMEX3></DCT>
+
+<TITLE>Satu-Satunya Akses Jalan 69 KK di Pardasuka Longsor</TITLE>
+
+<TEXT>
+Curah hujan tinggi di wilayah Kabupaten Pringsewu juga menimbulkan dampak di wilayah pinggiran selatan Bumi Jejama Secancanan. 
+
+Yakni di wilayah Kecamatan Pardasuka. 
+
+Tepatnya di Pekon Rantau Tijang. 
+
+Yakni berupa jalan penghubung antar dusun, antara Dusun 6 dan Dusun 7 Pekon Rantau Tijang. 
+
+Camat Pardasuka Titik Puji Lestari mengatakan, ruas jalan tersebut merupakan satu-satunya akses menuju Dusun 7 yang ditinggali oleh 69 KK. 
+
+" Longsor sepanjang kurang lebih 15 meter dengan kedalaman 12 meter, badan jalannya masih ada, tapi sudah sampai batas bahu jalan, " kata Titik, <TIMEX3 tid="t1" type="DATE" value="2020-01-16">Kamis</TIMEX3>, <TIMEX3 tid="t2" type="DATE" value="2020-01-16">16 Januari 2020</TIMEX3>. 
+
+Peristiwa longsor itu terjadi <TIMEX3 tid="t3" type="DATE" value="2020-01-09">sekitar seminggu lalu</TIMEX3>. 
+
+Oleh karena khawatir menggerus badan jalan, sehingga dilakukanlah penanganan darurat. 
+
+Yakni dengan masyarakat gotong royong menimbun ruas jalan yang longsor itu.Menurut Titik, <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> penanganan longsor tersebut telah selesai. 
+
+// Ruas Jalur Alternatif Penghubung 2 Kabupaten Jebol Akibat Luapan Air SungaiHujan yang mengguyur wilayah Kabupaten Pringsewu <TIMEX3 tid="t5" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir menyisakan kerusakan pada sejumlah infrastruktur di Bumi Jejama Secancanan. 
+
+Kerusakan infrastruktur terutama jalan yang akibatkan genangan. 
+
+Paling parah pada ruas jalur alternatif yang menghubungkan dua kecamatan di dua kabupaten. 
+
+Yakni Kecamatan Banyumas, Kabupaten Pringsewu dan Kecamatan Kalirejo, Kabupaten Lampung Tengah. 
+
+Tepatnya ruas jalur alternatif yang mempersingkat jarak tempuh antara Pekon Sri Rahayu Kecamatan Banyuma ke Desa Sri Way Langsep Kecamatan Kalirejo. 
+
+Jalan yang berada di ruas wilayah Pekon Sri Rahayu tersebut jebol akibat tergerus air luapan Sungai Way Waya. 
+
+Camat Banyuma Hartoyo mengatakan, jalan ini jebol sepanjang 10 meter sehingga tidak memungkinkan untuk dilalui kendaraan. 
+
+" Jalan tersebut merupakan jalan tanah tanggul yang hanya biasa dilalui kendaraan roda dua, " kata Hartoyo, <TIMEX3 tid="t6" type="DATE" value="2020-01-16">Kamis</TIMEX3>, <TIMEX3 tid="t7" type="DATE" value="2020-01-16">16 Januari 2020</TIMEX3>. 
+
+Kalau yang di lokasi jebol, ungkap dia, badan jalan selebar empat meter. 
+
+// Kemudian yang arah Sri Way Langsep hanya selebar 1,5 meter. 
+
+Jadi hanya sepeda dan sepeda motor saja yang dapat melewatinya. 
+
+Dia menambahkan, bahwa jalan tersebut mempersingkat jarak tempuh hanya sekitar 0,5 KM sudah sampai. 
+
+Bila menempuh jalan memutar, jarak yang ditempuh bisa berkisar 2,5 KM sampai dengan 3 KM. 
+
+Atas kerusakan jalan tersebut, Hartoyo mengaku sudah berkoordinasi dengan Badan Penanggulangan Bencana Daerah (BPBD) Pringsewu. 
+
+Dia mengatakan, hasil koordinasi tersebut akan melakukan penanganan secara bersama-sama. 
+
+Yakni dengan bergotong royong bersama masyarakat. 
+
+Diguyur Hujan <TIMEX3 tid="t8" type="DURATION" value="PT1H">1 Jam</TIMEX3>, Luapan Kali Pasir Gintung Rendam 20 Rumah WargaHujan lebat durasi kurang lebih <TIMEX3 tid="t9" type="DURATION" value="PT1H">satu jam</TIMEX3>, <TIMEX3 tid="t10" type="TIME" value="2020-01-14TNI">Selasa (14/1) malam</TIMEX3> menjadi penyebab meluapnya air kali pasir gintung. 
+
+Akibatnya ada sekitar 20 rumah warga di Kelurahan Pasir Gintung Kecamatan Tanjungkarang Pusat terendam banjir dengan ketinggian air mencapai pinggang orang dewasa. 
+
+Ketinggian air berangsur surut setengah jam setelah hujan reda. 
+
+// " Disini emang udah langganan, hujan bentar air kali langsung naik, " ujar Yusuf Ketua RT 05 LK 1, <TIMEX3 tid="t11" type="DATE" value="2020-01-15">Rabu (15/1)</TIMEX3>. 
+
+Yusuf memaparkan, hujan diperkirakan <TIMEX3 tid="t12" type="TIME" value="2020-01-15T19:30">sekitar pukul 19.30</TIMEX3> - <TIMEX3 tid="t13" type="TIME" value="2020-01-15T20:30">20.30 WIB</TIMEX3> memicu air kali meluber ke pemukiman. 
+
+Hingga <TIMEX3 tid="t14" type="TIME" value="2020-01-16TMO">pagi ini</TIMEX3>, masih tampak sejumlah warga membersihkan lumpur dan kotoran bekas banjir. 
+
+" Dari tadi <TIMEX3 tid="t15" type="TIME" value="2020-01-15TNI">malam</TIMEX3> sudah surut, ya ini beres beres sisah nya aja, " ujar Yusuf. 
+
+Salah satu warga terdampak banjir, Purwanti mengatakan ketinggian banjir bervariasi. 
+
+Posisi rumahnya lebih tinggi dari tetangga hanya memasuki rumah sebatas mata kaki. 
+
+Kendati demikian, kata Purwanti, hujan yang tidak begitu lama pada <TIMEX3 tid="t16" type="TIME" value="2020-01-16TNI">malam itu</TIMEX3> cukup membuatnya cemas. 
+
+" Cuma saya sama ibu saya dirumah, suami lagi kerja belum pulang, " kata Purwanti.Untungnya hujan cepat redah, sehingga air berangsur surut. " Ga ada kerusakan, paling hanya perabot kaya kursi sama lemari basah karena terendam, " katanya.Ketua RT 05 Lk 2 Otong menambahkan, kali pasir gintung meluap karena terjadinya pendangkalan.Menurutnya, kedalaman air kali pada saat normal hanya sebatas lutut orang dewasa. " <TIMEX3 tid="t17" type="DATE" value="PAST_REF">Dulu</TIMEX3> sekitar tahun 73 air kali ini masih dalam bisa sampe setinggi dada. 
+
+<TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> lihat sendiri seperti apa, " beber Otong.Otong menyebut salah satu solusi untuk mengatasi banjir dengan cara mengeruk dasar kali.Selama ini, kata Otong, sudah diajukan kepada pemerintah setempat namun belum ada tanggapan.Sementara itu, Lurah Pasir Gintung Mashuri menyatakan pengerukan aliran sungai atau kali pasir gintung terkendala akses jalan.Seperti diketahui, areal tersebut merupakan padat penduduk.Sementara jalan penghubung warga hanya gang kecil yang dapat dilalui kendaraan roda dua. " Rasanya kalau mau masuk alat berat kan sulit, " kata Mashuri.Kendati demikian pihak kelurahan masih menghimbau warga untuk waspada, mengingat <TIMEX3 tid="t19" type="DATE" value="2019-WI">musim hujan</TIMEX3> masih akan terjadi hingga <TIMEX3 tid="t20" type="DURATION" value="PXM">beberapa bulan</TIMEX3> kedepan.Mashuri menambahkan, kalau memang banjirnya parah dan membahayakan warga kemungkinan akan dibentuk posko darurat bencana. " Untuk <TIMEX3 tid="t21" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum, tapi sudah koordinasi dengan puskesling dan puskesmas rawat inap Simpur, " tandasnya. 
+</TEXT>
+
+</TimeML>

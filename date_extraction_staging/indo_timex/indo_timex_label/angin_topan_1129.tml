@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1129</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-06-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-06-29</TIMEX3></DCT>
+
+<TITLE>Terios 10 Penumpang Tertimpa Pohon Kelapa</TITLE>
+
+<TEXT>
+Diduga akibat kelalaian siitukang tebang, Terios dengan 10 penumpang ringsek tertimpa pohon kelapa yang tumbang. 
+
+Peristiwa tragis terjadi di Tiram, Nagari Ulakan, Kecamatan Ulakan Tapakih, Padang Pariaman, <TIMEX3 tid="t1" type="DATE" value="2018-06-28">Kamis (28/6)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2018-06-28T13:30">pukul 13.30</TIMEX3> Wib. 
+
+Menurut informasi yang diperoleh, <TIMEX3 tid="t3" type="TIME" value="2018-06-29TAF">siang itu</TIMEX3>, Syahrul (42) warga Pintir Kayu, Nagari Sunua Barat, Kecamatan Nan Sabaris, tengah menebang pohon kelapa di pinggir jalan raya, Tiram Pariaman. 
+
+Tadinya, Syahrul mengupayakan agar pohon kelapa itu tidak rebah ke jalan. 
+
+Namun, sial, ketika batang kelapa terpotong, tiba-tiba datang angin kencang. 
+
+Beberapa orang yang membantu menariknya dengan tali, tak sanggup menahan. 
+
+Hingga akhirnya pohon tersebut tumbang ke jalan. 
+
+Bersamaan dengan itu, dari arah Tiram meluncur Terios B <TIMEX3 tid="t4" type="DATE" value="1992">1992</TIMEX3> KZM. 
+
+Pohon kelapa itu pun akhirnya menimpa mobil berpenumpang 10 orang tersebut. 
+
+Akibatnya, mobil itu ringsek dan, beberapa orang penumpangnya terpaksa dilarikan ke Rumah sakit Umum Daerah (RSUD) Pariaman. 
+
+Kapolsek Nan Sabaris, Iptu Irwan Sikumbang mengatakan, Terios <TIMEX3 tid="t5" type="TIME" value="UNKNOWN">siang itu baru</TIMEX3> saja selesai berwisata Pantai Tiram dan bermaksud hendak melanjutkan perjalanan ke Pariaman. 
+
+Tentang kejadian itu dibenarkan Zainuddin salah seotang dari penumpang minibus ketika ditemui wartawan. 
+
+Akibat kejadian tersebut, sebagian diantara mereka, khusus anak-anak, tampak trauma. 
+
+
+</TEXT>
+
+</TimeML>

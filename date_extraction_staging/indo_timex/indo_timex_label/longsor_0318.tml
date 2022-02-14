@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0318</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-03" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-03</TIMEX3></DCT>
+
+<TITLE>Longsor di Cadas Pangeran, Tanah Tutupi Sebagian Badan Jalan</TITLE>
+
+<TEXT>
+Hujan deras yang mengguyur wilayah Sumedang, berujung longsor di Jalan Raya Ciherang- Cadas Pangeran tepatnya di RT 03 RW 02 Dusun Cilengsar Desa Ciherang, <TIMEX3 tid="t1" type="TIME" value="2020-02-03T20:15">Senin 3 Februari 2020 Pukul 20.15 WIB</TIMEX3>. 
+
+Material longsoran menutup sebagian badan jalan nasional di Cadas Pangeran. 
+
+Longsoran berupa material tanah batu dan pohon yang sudah lapuk, kata Dandim 0610/Sumedang Letkol Arh. 
+
+Novianto Firmansyah. 
+
+Dikatakan, tak ada korban jiwa akibat longsor tersebut dan Babinsa serta Bhabinkamtibmas siaga di lokasi. 
+
+*** 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0619</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-08-23" temporalFunction="false" functionInDocument="CREATION_TIME">2016-08-23</TIMEX3></DCT>
+
+<TITLE>Bakar Hutan, Izin Developer Terancam Dicabut</TITLE>
+
+<TEXT>
+Kondisi Kota Pontianak yang kembali dikelilingi kabut asap, membuat Wali Kota Pontianak, Sutarmidji kembali melontarkan ancaman. 
+
+Ancaman tersebut ditujukan kepada pihak pengembang perumahan atau developer yang diduga mempunyai andil dalam menciptakan asap pekat <TIMEX3 tid="t1" type="DATE" value="PAST_REF">akhir-akhir ini</TIMEX3>. 
+
+Ia mengancam akan memblacklist pengembang perumahan itu dengan tidak memberikan izin mendirikan perumahan di lahan yang dibakarnya selama <TIMEX3 tid="t2" type="DURATION" value="P3Y">tiga tahun</TIMEX3>. 
+
+Saya sudah minta semua lahan yang terbakar dipasang plang yang menyatakan di bawah pengawasan Pemkot. 
+
+Kalau itu untuk perumahan, saya akan larang keluarkan izin perumahannya selama <TIMEX3 tid="t3" type="DURATION" value="P3Y">tiga tahun</TIMEX3> di lahan itu dan developer itu kita minta untuk membayar biaya yang dikeluarkan untuk memadamkan api, tegasnya <TIMEX3 tid="t4" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+Ia menduga kebakaran lahan yang terjadi di Kota Pontianak <TIMEX3 tid="t5" type="DATE" value="PAST_REF">baru-baru ini</TIMEX3>, sengaja dibakar oleh oknum yang tidak bertanggung jawab. 
+
+Bahkan ada indikasi pembakaran lahan dilakukan oleh developer atau pengembang perumahan yang melakukan pembukaan lahan untuk membangun perumahan baru. 
+
+Sementara, pelaku yang diperintahkan developer untuk membakar lahan, bila tidak ada pasal-pasal pidana umum untuk menjeratnya, maka ia akan menjatuhkan tindak pidana ringan (tipiring) dan meminta pengadilan menjatuhkan denda yang seberat-beratnya. 
+
+Kita akan tindak tegas siapapun itu yang melakukan pembakaran lahan, kata Midji. 
+
+Ia menghimbau agar warga segera bertindak dan melapor ketika mendapati ada orang yang dengan sengaja membakar lahan disekitar pemukiman warga. 
+
+Pasalnya, warga baru bertindak ketika api sudah membesar dan menjalar hingga mendekati pemukiman mereka. 
+
+Padahal ketika melihat orang sengaja membakar lahan itu, warga membiarkannya. 
+
+Sangat disayangkan bila warga masih kurang peduli dengan kebakaran lahan yang terjadi di sekitar pemukimannya. 
+
+Harusnya waktu melihat orang itu membakar, warga sekitar langsung menangkapnya, ungkapnya. 
+
+(Lyn/Rz). 
+
+
+</TEXT>
+
+</TimeML>

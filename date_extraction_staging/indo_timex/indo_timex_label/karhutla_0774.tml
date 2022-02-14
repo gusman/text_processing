@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0774</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-20" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-20</TIMEX3></DCT>
+
+<TITLE>Alhamdulillah Hujan Deras Turun di Riau dan Kalimantan Tengah</TITLE>
+
+<TEXT>
+Pelaksana Tugas Kepala Pusat Data Informasi dan Humas BNPB, Agus Wibowo menyatakan, operasi pemadaman kebakaran hutan dan lahan dengan teknologi modifikasi cuaca (TMC) berhasil turunkan hujan di Riau dan Kalimantan Tengah. 
+
+" Operasi TMC di Riau berhasil menurunkan hujan di Dumai, tepatnya di Kelurahan Batu Teritip yang berbatasan dengan Rohil. 
+
+Hujan kurang lebih selama <TIMEX3 tid="t1" type="DURATION" value="PT30M">30 menit</TIMEX3> dengan intensitas sedang, " ujar Agus dalam keterangan tertulisnya, <TIMEX3 tid="t2" type="DATE" value="2019-09-19">Kamis (19/9/2019)</TIMEX3>. 
+
+Ia menjelaskan, proses TMC di Riau dan Kalimantan Tengah tersebut dilakukan menggunakan penyemaian awan dengan pesawat CN 295 dan Hercules C-130. 
+
+Pesawat CN 295, lanjutnya, melakukan penyemaian awan pada pukul 13.30-15.45 <TIMEX3 tid="t3" type="TIME" value="UNKNOWN">WIB</TIMEX3> di wilayah Kabupaten Katingan, utara Palangkaraya dan Kabupaten Kapuas. 
+
+Pesawat terbang pada ketinggian <TIMEX3 tid="t4" type="DATE" value="8000">8000</TIMEX3> kaki dan menghabiskan bahan semai garam NaCI sebanyak 1.500 kg. 
+
+" Sedangkan di Riau pesawat Hercules C-130 menyemai dengan menabur garam NaCL sebanyak 3,4 ton di daerah Dumai dan Padang Sidempuan, Sumatera Utara sesuai potensi pertumbuhan awan yang berpotensi menghasilkan hujan, " tutur Agus. 
+
+Agus menjelaskan, operasi TMC akan terus dilakukan di Sumatera dan Kalimantan dengan tiga pesawat bantuan TNI yang disediakan di Pekanbaru dan Palangkaraya.Di Kalbar, dalam <TIMEX3 tid="t5" type="DURATION" value="P2D">2 hari</TIMEX3> terakhir, Badan Penanggulangan Bencana Daerah (BPBD) Kalimantan Barat telah telah menyemai sebanyal 1,6 ton garam di udara untuk menciptakan hujan buatan dengan teknologi modifikasi cuaca (TMC).Semai garam di udara dilakukan dengan menggunakan pesawat cassa milik Badan Nasional Penanggulangan Bencana (BNPB) di daerah yang memiliki awan potensial untuk terjadinya hujan. 
+
+// Kepala BPBD Kalbar Lumano menerangkan, pelaksanaan teknologi modifikasi cuaca pertama dilakukan <TIMEX3 tid="t6" type="DATE" value="2019-09-19">Kamis (19/9/2019)</TIMEX3> sekitar <TIMEX3 tid="t7" type="TIME" value="2019-09-19T14:00">pukul 14.00 WIB</TIMEX3>. 
+
+" Operasi TMC di hari pertama dengan bahan semai 800 kilogram garam di wilayah udara Kabupaten Landak, Sanggau dan Sekadau, " kata Lumano, kepada Kompas. 
+
+com, <TIMEX3 tid="t8" type="DATE" value="2019-09-20">Jumat</TIMEX3> (20/19/2019). 
+
+<TIMEX3 tid="t9" type="DATE" value="UNKNOWN">Sementara hari ini</TIMEX3>, pada <TIMEX3 tid="t10" type="TIME" value="2019-09-19T14:00">pukul 14.00 WIB</TIMEX3> juga, dan dengan bahan semai 800 kilogram garam dilakukan di wilayah udara Kabupaten Bengkayang dan Landak. 
+
+" Barusan ini, informasinya di Bengkayang, Landak dan Sintang terjadi hujan. 
+
+Tapi belum merata, " ucapnya. 
+
+Berdasarkan prakiraan cuaca Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Pontianak, mulai <TIMEX3 tid="t11" type="DATE" value="2019-09-21">Sabtu (21/9/2019)</TIMEX3> sampai <TIMEX3 tid="t12" type="DATE" value="2019-09-24">Selasa (24/9/2019)</TIMEX3>, hampir semua daerah di Kalbar berpeluang hujan. 
+
+Diberitakan, Kabut asap akibat kebakaran hutan dan lahan (karhutla) kembali pekat di hampir seluruh wilayah Kalimantan Barat. 
+
+Berdasarkan pengolahan data Lembaga Antariksa dan Penerbangan Nasional (Lapan), <TIMEX3 tid="t13" type="DATE" value="2019-09-20">Jumat (20/9/2019</TIMEX3>, terpantau 1.431 titik panas di Kalbar. 
+
+Jumlah titik panas itu, terbanyak ditemukan di Kabupaten Ketapang, yakni 1.061 titik. 
+
+Kemudian disusul Kabupaten Kayong Utara 128 titik, Melawi 64 titik, Kubu Raya 54 titik, Sintang 36 titik.Berdasarkan Informasi Konsentrasi Partikulat (PM10) yang dilansir dari laman Badan Meteorologi, Klimatologi dan Geofisika (BMKG) Pontianak, yang terpantau <TIMEX3 tid="t14" type="TIME" value="2019-09-20T19:21">Jumat (20/9/2019) pukul 19.21 WIB</TIMEX3>, kualitas udara jauh melampaui nilai ambang batas (NAB), yakni 270.48 gram/m3, yang artinya masuk kategori sangat tidak sehat. 
+
+// Sebagaimana diketahui, nilai ambang batas (NAB) adalah batas konsentrasi polusi udara yang diperbolehkan berada dalam udara ambien. 
+
+Nilai ambang PM10 150 gram/m3. 
+
+Karhutla yang terjadi di Riau dan sejumlah wilayah Kalimantan kian mengkhawatirkan dengan masifnya jumlah titik api yang berdampak pada sebaran asap. 
+
+Adapun terkait data terkini karhutla, merujuk dari data BNPB pada <TIMEX3 tid="t15" type="TIME" value="2019-09-18T09:00">Rabu (18/9) pukul 09.00 WIB</TIMEX3>, total ada 328.724 hektar lahan yang terbakar dengan 2.719 titik panas selama Januari- <TIMEX3 tid="t16" type="DATE" value="2019-08">Agustus 2019</TIMEX3>. 
+
+Provinsi Jambi menjadi wilayah terbanyak yang memiliki 555 titik api. 
+
+Kemudian diikuti Sumatera Selatan (482); Riau (388); Kalimantan Barat (346); Kalimantan Tengah (281); dan Kalimantan Selatan 105 titik api. 
+
+FENOMENA ULAR BERKAKIKebakaran hutan dan lahan (karhutla) di Riau dan Kalimantan dikabarkan juga telah menewaskan aneka satwa liar di dalamnya. 
+
+Salah satu yang viral adalah temuan bangkai ular berkaki di lokasi karhutla kecamatan Rengat, Kabupaten Indragiri Hulu (Inhu), Provinsi Riau. 
+
+Diberitakan Kompas. 
+
+com <TIMEX3 tid="t17" type="TIME" value="2019-09-20TMO">Jumat (20/9/2019) pagi</TIMEX3>, ular tersebut tampak memiliki dua kaki di bagian ekor. 
+
+Anggota Manggala Agni Daops Rengat, Maidi, pun mengataka bahwa pihaknya menemukan ular berkaki di lahan yang terbakar. 
+
+// " Tim kami pulang duluan, karena sudah <TIMEX3 tid="t18" type="TIME" value="2019-09-19TNI">malam</TIMEX3>. 
+
+Ternyata tim TNI menemukan ular berkaki mati di lokasi. 
+
+Aku pun kaget setelah nengok videonya. 
+
+Karena jarang ada ular berkaki, " kata Maidi. 
+
+Berkaitan dengan bangkai ular berkaki ini, Kompas. 
+
+com mencoba menghubungi alhi herpetologi (reptil dan amfibi) Lembaga Ilmu Pengetahuan Indonesia (LIPI), Amir Hamidy. 
+
+Amir menegaskan, itu bukan ular berkaki tapi hemipenis ular. 
+
+" Itu bukan kaki, itu adalah hemipenis dari ular ya. 
+
+Hemipenis itu alat kelamin ular jantan, " kata Amir kepada Kompas. 
+
+com melalui sambungan telepon, <TIMEX3 tid="t19" type="DATE" value="2019-09-20">Jumat (20/9/2019)</TIMEX3>. 
+
+" Kalau manusia punya penis, ular jantan punya hemipenis, " imbuh Amir. 
+
+Amir menjelaskan, semua jenis ular jantan memiliki hemipenis.Berbeda dengan pria yang memiliki satu penis, ular jantan memiliki dua hemipenis yang terletak di pangkal ekor. " Semua ular jantan punya hemipenis, jadi ini bukan kejadian langka atau yang wah, " kata dia.Untuk diketahui, hemipenis ular akan keluar pada saat ular kawin, saat ular masih hidup kemudian dipencet maka hemipenis juga bisa keluar, atau saat mati karena terbakar seperti yang ditemukan di Riau. " Saat ular mati terbakar, otot-otot hemipenis akan kontraksi sehingga hemipenisnya keluar, " jelas Amir.Meski demikian, Amir tidak dapat mengidentifikasi jenis ular apakah itu, karena kondisinya yang sudah hangus terbakar. 
+
+(*)Berita ini sudah terbit di Kompas.com dengan judul BNPB: Komodifikasi Cuaca Turunkan Hujan di Riau dan Kalimantan Tengah 
+</TEXT>
+
+</TimeML>

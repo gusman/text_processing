@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0668</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-07" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-07</TIMEX3></DCT>
+
+<TITLE>Warga Terpaksa Mandi Tiga Hari Sekali Dampak Kekeringan Di Pasuruan</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2018-SU">Musim Kemarau</TIMEX3> mencapai puncaknya. 
+
+Dampaknya masyarakat di berbagai wilayah di Pasuruan mengalami krisis dan kekurangan air bersih. 
+
+Jatah air bersih yang didistribusikan oleh pemerintah maupun pihak-pihak swasta terbatas. 
+
+Untuk mengatur pemanfaatan dan penggunaan air bersih serta berhemat air, warga terpaksa mandi <TIMEX3 tid="t2" type="SET" value="UNKNOWN">3 hari sekali</TIMEX3>. 
+
+Seperti yang dilakukan warga di Desa Sibon Kecamatan Pasrepan Kabupaten Pasuruan Jawa Timur, Terpaksa jarang mandi dan mau tidak mau harus hemat menggunakan air. 
+
+Kalau tidak begitu, pasti akan kekurangan air untuk masak dan minum, kata Abdul Hanan, warga Desa Sibon, <TIMEX3 tid="t3" type="DATE" value="2018-09-07">Jumat (7/9/2018)</TIMEX3>. 
+
+Hanan menambahkan, desanya mendapatkan jatah air sebanyak dua truk tangki setiap harinya dengan kapasitas masing-masing tangki sebanyak 5.000 liter air, totalnya mendapat jatah 10.000 liter air. 
+
+Padahal jumlah warga di Desa Sibon, sekitar 4.500 jiwa lebih. 
+
+Untuk satu keluarga itu hanya dapat sekitar satu jurigen. 
+
+Makanya warga lebih mengutamakan untuk bisa minum dan memasak. 
+
+Kalau untuk mandi diatur sehemat mungkin, agar air tidak terbuang percuma, imbuh Hanan. 
+
+Kepala BPBD (Badan Penanggulangan Bencana Daerah) Kabupaten Pasuruan Bakti Jati Permana, menyampaikan krisis air bersih di Kabupaten Pasuruan terjadi di 20 desa di lima kecamatan. 
+
+Krisis air bersih <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> juga sudah masuk dalam tahapan tanggap darurat bencana dan akan diberlakukan seusai prosedur atau ketetapan yang berlaku. 
+
+" Karena ukurannya kedaruratan, maka kami minta warga sangat berhemat air. 
+
+Suplai air dari pemerintah hanya cukup untuk masak dan minum, bukan untuk mandi, MCK dan keperluan ternak. 
+
+kalau dihitung setiap orang hanya mendapat jatah 2 liter setiap harinya, " kaya Bakti. 
+
+Dipastikan, seluruh desa di Kabupaten Pasuruan yang mengalami krisis mendapatkan jatah sebanyak dua tangki air <TIMEX3 tid="t5" type="SET" value="P1D">setiap hari</TIMEX3>. 
+
+Untuk pengirimannya, waktu atau jam tidak bisa dipastikan karena armada yang terbatas. 
+
+Meski secara teknis setiap orang hanya mendapat jatah 2 liter <TIMEX3 tid="t6" type="SET" value="P1D">setiap hari</TIMEX3>, namun kenyataan di lapangan bisa mendapatkan lebih banyak. 
+
+Karena selain pemerintah sejumlah perusahaan juga membantu pengiriman air di wilayah sekitar pabriknya. 
+
+" Kami pastikan akan terus kirim air sampai hujan turun dan sumber serta mata air kembali muncul. 
+
+Kami berharap warga bisa mengatur penggunaan air dengan baik, " tandasnya.Data BPBD Kabupaten Pasuruan, krisis air bersih berada di 20 desa di 5 kecamatan. 
+
+Masing-masing, Kecamatan Lumbang, Winongan, Pasrepan, Lekok dan Gempol. 
+
+Semua mata air di 20 desa pada 5 kecamatan itu, sudah tidak lagi mengeluarkan airnya. 
+
+
+</TEXT>
+
+</TimeML>

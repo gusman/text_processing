@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0462</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-01-21" temporalFunction="false" functionInDocument="CREATION_TIME">2014-01-21</TIMEX3></DCT>
+
+<TITLE>Tebing 50 Meter di Kendal Longsor Timbun Rumah Milik Suwarto dan Ropi'i</TITLE>
+
+<TEXT>
+Bencana tanah longsor terjadi di Kecamatan Kaliwungu Selatan, Kabupaten Kendal pada <TIMEX3 tid="t1" type="TIME" value="2014-01-21TMO">Selasa (21/1/2014) pagi</TIMEX3>. 
+
+Tebing setinggi 50 meter longsor dan dua menimpa rumah warga Dukuh Protowetan RT 1 RW 3 Desa Protomulyo. 
+
+Tidak ada korban jiwa dalam peristiwa ini, namun rumah-rumah di atas tebing terancam roboh lantaran tanah di belakangnya terkikis. 
+
+Dua rumah yang rusak tertimpa tanah merupakan milik Suwarto dan Ropi i. 
+
+Warga masih belum tenang masih karena dibayangi longsor susulan. 
+
+Menurut Ropi'i, longsor terjadi karena tanah sekitar banyak dikeruki. 
+
+" Masalahnya, pengerukan tanah tidak diimbangi dengan penghijauan di sekitarnya, " tutur Ropi'i. 
+
+Ropi'i mengatakan, masih ada tebing yang berpotensi longsor sepanjang 300 meter. 
+
+Camat Kaliwungu Selatan Toni Ari Wibowo mengiyakan bencana longsor terjadi lantaran hujan turun terus-menerus sejak <TIMEX3 tid="t2" type="DATE" value="2014-01-18">tiga hari lalu</TIMEX3>. 
+
+" Kami masih menunggu Pemkab mengenai bantuan untuk penanganan korban longsor, " ujar Toni. 
+
+
+</TEXT>
+
+</TimeML>

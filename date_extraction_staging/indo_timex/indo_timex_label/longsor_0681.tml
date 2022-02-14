@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0681</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2014-12-13" temporalFunction="false" functionInDocument="CREATION_TIME">2014-12-13</TIMEX3></DCT>
+
+<TITLE>Longsor Timbun 150 Rumah di Banjarnegara, 3 Tewas</TITLE>
+
+<TEXT>
+Sedikitnya 150 rumah di Dusun Sigemlong, Desa Sampang, Kecamatan Karangkobar, Kabupaten Banjarnegara, Jawa Tengah tertimbun tanah longsor, <TIMEX3 tid="t1" type="TIME" value="2014-12-05TNI">Jumat (12/12/2014) malam</TIMEX3>. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Banjarnegara Catur Subandrio saat dihubungi membenarkan adanya bencana itu. 
+
+" Betul telah terjadi kondisi luar biasa. 
+
+Satu dusun tertimpa longsor, sekitar 150 rumah tertimbun, " kata dia. 
+
+Ia menjelaskan, kejadiannya sebelum Magrib, sebuah tebing longsor dan menimbun Dusun Sigemblong. 
+
+" Kami masih melakukan koordinasi dengan tim yang di lokasi. 
+
+Memang belum jelas, tapi kemungkinan ada korbannya, " kata Catur saat sedang menuju lokasi bencana. 
+
+Kapolres Banjarnegara, AKBP Wika Hardianto saat dihubungi belum mengetahui jumlah korban. 
+
+" Saya ini sedang berada di lokasi kejadian tetapi belum dapat menjangkau sampai titik longsor, " katanya lewat telepon selulernya, <TIMEX3 tid="t2" type="TIME" value="2014-12-05TNI">Jumat (12/12/2014) malam</TIMEX3>. 
+
+Wika menceritakan, <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kondisi tanah masih labil. 
+
+Belum ada tim evakuasi yang berhasil masuk lokasi longsor. 
+
+
+</TEXT>
+
+</TimeML>

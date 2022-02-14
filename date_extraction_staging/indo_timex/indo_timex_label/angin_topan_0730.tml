@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0730</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-28" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-28</TIMEX3></DCT>
+
+<TITLE>Hujan Deras Disertai Angin Kencang di Aru, 4 Rumah Rusak dan Sejumlah Pohon Tumbang</TITLE>
+
+<TEXT>
+Hujan deras yang disertai angin kencang yang terjadi wilayah Kabupaten Kepulauan Aru, <TIMEX3 tid="t1" type="DATE" value="2019-01-28">Senin (28/01/2019)</TIMEX3>, mengakibatkan 4 rumah rusak berat dan sejumlah pohon di beberapa titik kota Dobo tumbang atau roboh. 
+
+Dari pantauan media ini, terlihat sejumlah kendaraan roda 2 sempat berhenti karena panik, Aktivitas Pegawai di kantor bupati juga sempat berhenti seketika dikarenakan hujan dan angin kencang. 
+
+Pohon tumbang menutup akses jalan poros Pemda Kantor Bupati, diantaranya di Depan Kantor Bupati Kepulauan Aru, dan juga jalan utama Pemda. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Kepulauan Aru, Fredrik Hendrik menyebutkan bahwa robohnya sejumlah pohon disebabkan oleh hujan dan angin kencang. 
+
+Akibat hujan besar dan angin kencang tadi membuat sejumlah pohon roboh, katanya. 
+
+Lanjut Hendrik, akibatnya ada 3 titik lokasi tumbangnya Pohon berjumlah tujuh buah. 
+
+Ada 3 titik Pohon roboh yaitu di seputaran Kantor Bupati ada 5, depan Bandara Dobo 1 dan 1 di KM 6 Jalan Polres Aru tepatnya di gereja Imanuel, ungkapnya. 
+
+Hendrik menambahkan, setelah pihaknya menerima laporan, petugas dari BPBD Kepulauan Aru dan Dinas Damkar segera melakukan evakuasi atau pemotongan pohon dan membersihkan dahan, agar arus lalu lintas di jalur Pemda, kembali normal. 
+
+Pada <TIMEX3 tid="t2" type="TIME" value="2019-01-27T15:00">pukul 15.00 WIT</TIMEX3> evakuasi selesai dilaksanakan dan arus lalu lintas Pemda dan kembali normal. 
+
+tutur Hendrik. 
+
+Kepala BPBD Aru menambahkan, angin kencang yang melanda Kecamatan Aru Tengah tepatnya di Desa Benjina mengakibatkan 4 buah rumah rusak berat. 
+
+Tadi <TIMEX3 tid="t3" type="TIME" value="2019-01-28TMO">pagi</TIMEX3> sekitar <TIMEX3 tid="t4" type="TIME" value="2019-01-27T09:00">jam 09 pagi</TIMEX3> di kota kecamatan Aru Tengah (Benjina) juga 4 rumah mengalami kerusakan berat karena angin kencang. 
+
+Namun tidak ada korban jiwa, katanya. 
+
+Pihaknya mengimbau kepada kepada seluruh masyarakat di Kabupaten Kepulauan Aru bila terjadi hujan lebat yang disertai angin kencang, agar selalu waspada dan berhati hati. 
+
+Kami imbau warga agar senantiasa waspada dan berhati-hati terhadap potensi timbulnya bencana angin kencang selama <TIMEX3 tid="t5" type="DATE" value="2019-WI">musim hujan ini</TIMEX3>, ucapnya. 
+
+
+</TEXT>
+
+</TimeML>

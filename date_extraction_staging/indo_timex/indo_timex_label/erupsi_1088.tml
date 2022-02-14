@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_1088</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-11-04" temporalFunction="false" functionInDocument="CREATION_TIME">2015-11-04</TIMEX3></DCT>
+
+<TITLE>Penerbangan di Bali Ditutup sampai 5 November 2015</TITLE>
+
+<TEXT>
+Aktivitas penerbangan di Bali dan sekitarnya termasuk Surabaya masih akan terganggu dengan erupsi Gunung Rinjani. 
+
+Bahkan laporan resmi dari BMG dan BVMBG masih akan menutup Bandara Ngurai Rai Denpasar Bali. 
+
+Ini mengingat sampai <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, penyebaran abu vulkanik Gunung Rinjani yang berada di Nusa Tenggara Barat masih terjadi. 
+
+Kondisi ini berdampak hingga Pulau Bali. 
+
+Akibat kondisi itu, bandara internasional tersebut ditutup. 
+
+" Penutupan Operasional Bandara I Gusti Ngurah Rai Bali telah diperpanjang 1 x <TIMEX3 tid="t2" type="DURATION" value="PT24H">24 jam</TIMEX3> sampai dengan <TIMEX3 tid="t3" type="TIME" value="2015-11-05T08:45">tanggal 5 November 2015 pukul 08.45</TIMEX3> Wita <TIMEX3 tid="t4" type="DATE" value="2015-11-05">besok</TIMEX3>, " rilis resmi otoritas yang diterima, <TIMEX3 tid="t5" type="TIME" value="2015-11-04TNI">Rabu (4/11/2015) malam</TIMEX3>. 
+
+Pertimbangan Kemenhub menutup operasional penerbangan di Bandara sebagai berikut, Laporan BMKG tentang kondisi cuaca dan arah angin dalam periode 24 jam ke depan. 
+
+Masih ada ancaman semburan abu vulkanik. 
+
+Pengumuman resmi penutupan sampai <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">Kamis besok itu</TIMEX3> juga sudah sampai di Bandara Juanda Surabaya. 
+
+Sebab, dampak penutupan Bandara Denpasar memengaruhi penumpang di Juanda. 
+
+Seperti sepanjang <TIMEX3 tid="t7" type="DATE" value="2015-10-28">Rabu tadi</TIMEX3>, penumpang tujuan Denpasar menumpuk di bandara. 
+
+Mereka tak tahu kalau ada pembatalan penerbangan. 
+
+Data yang dimiliki Bandara Juanda, <TIMEX3 tid="t8" type="SET" value="P1D">setiap hari</TIMEX3> ada sekitar 42.000 penumpang. 
+
+Penerbangan ke Bali berada di urutan kedua. 
+
+Jumlah penumpang terbanyak rangking pertama adalah tujuan Jakarta (Bandara Soekarno Hatta). 
+
+Tujuan ini sebesar 54 persen. 
+
+Untuk penumpang tujuan Bali sebesar 12 persen. 
+
+
+</TEXT>
+
+</TimeML>

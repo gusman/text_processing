@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1163</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-07" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-07</TIMEX3></DCT>
+
+<TITLE>Warga Bukit Gonggang Keluhkan Jadi Langganan Banjir</TITLE>
+
+<TEXT>
+Banjir melanda Korong Bukit Gonggang, Nagari Campago, Kecamatan V Koto Kampuang Dalam. 
+
+Dimana 15 rumah penduduk, tujuh kolam dan areal persawahan yang ditanami padi berumur sekira <TIMEX3 tid="t1" type="DURATION" value="P1M">satu bulan</TIMEX3> terendam air, <TIMEX3 tid="t2" type="DATE" value="2019-12-07">Sabtu (7/12)</TIMEX3> sekitar <TIMEX3 tid="t3" type="TIME" value="2019-12-06T18:30">pukul 18.30 WIB</TIMEX3>. 
+
+Muhardi Koto, salah seorang warga yang dihubungi mengatakan, kondisi ini sudah menjadi langganan. 
+
+Apabila setengan jam hujan turun dengan lebat maka badan jalan, rumah penduduk yang berada di tempat yang rendah, kolam ikan dan areal persawahan pasti terendam. 
+
+Penyebabnya saluran pembuangan air tidak memadai bila air melebihi kapasitasnya, begitu pula banda yang berada di tepi jalan juga tidak mampu menampung arus air, karena sudah beberapa lama tidak pernah dikeruk. 
+
+Masyarakat setempat yang jadi langganan banjir ini, bila melihat curah hujan tinggi sudah mulai cemas dan kwatir terhadap musibah yang akan merendam tempatnya dan areal sawah dan kolam ikan, jelas Muhardi Koto. 
+
+Sementara air mulai naik ke badan jalan mencapai ketinggian satu meter. 
+
+Dengan ketinggian itu, otomatis merendam rumah penduduk, sawah dan kolam ikan. 
+
+Karena persoalan ini sudah berlangsung puluhan tahun, sudah sepantasnya pihak Pemerintah Nagari, Pemerintah Kecamatan dan Pemkab Padang Pariaman menindaklanjutinya. 
+
+Supaya masyarakat setempat bebas dari banjir. 
+
+Saya atas nama warga Korong Bukit Gonggang, Nagari Campago meminta Pemkab Padang Pariaman sesegera mungkin membebaskan masyarakat yang menjadi langganan banjir ini, pintanya. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0392</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-01-02" temporalFunction="false" functionInDocument="CREATION_TIME">2019-01-02</TIMEX3></DCT>
+
+<TITLE>3 Korban Longsor di Cisolok Ditemukan Pagi Ini, Identifikasi Sulit Karena Kondisi Fisik Jenazah</TITLE>
+
+<TEXT>
+Tiga korban longsor di Kampung Garehong, Dusun Cimapag, Desa Sirnaresmi, Kecamatan Cisolok, Kabupaten Sukabumi, ditemukan <TIMEX3 tid="t1" type="TIME" value="2019-01-02TMO">pagi ini</TIMEX3> " <TIMEX3 tid="t2" type="DATE" value="2019-01-02">Hari ini</TIMEX3> tim kembali mencari korban tertimbun. 
+
+Berhasil ditemukan tiga orang tapi belum bisa teridentifikasi identitasnya, " ujar Kepala Humas Kantor SAR Bandung Joshua Banjarnahor via pesan elektroniknya, <TIMEX3 tid="t3" type="DATE" value="2019-01-02">Rabu (2/1/2019)</TIMEX3>. 
+
+Temuan pertama dan kedua pada <TIMEX3 tid="t4" type="TIME" value="2019-01-01T09:34">pukul 09.34</TIMEX3> di lokasi yang tidak jauh. 
+
+Temuan ketiga <TIMEX3 tid="t5" type="TIME" value="2019-01-01T10:37">pukul 10.37</TIMEX3>. 
+
+Proses identifikasi terhadap ketiga jenazah korban longsor di Sukabumi itu masih terus dilakukan tapi menemui kendala. 
+
+" Id entifikasi sudah agak sulit, tidak seperti sebelumnya karena kondisi fisik korban, " ujar Joshua Banjarnahor. 
+
+Menurut Joshua Banjarnahor <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> tim dari Basarnas, TNI dan Polri, BPBD, serta unsur SAR lainnya terus melakukan pencarian. 
+
+Diyakini masih ada 21 orang yang tertimbun. 
+
+" Kami mencari 21 orang yang masih dinyatakan hilang, diduga tertimbun longsoran. 
+
+Untuk yang berhasil dievakuasi sejak hari kejadian sampai hari pukul <TIMEX3 tid="t7" type="TIME" value="2019-01-01T10:30">10.30</TIMEX3> mencapai 14 orang, " ujar Joshua Banjarnahor. 
+
+Adapun pencarian <TIMEX3 tid="t8" type="DATE" value="2019-01-02">hari ini</TIMEX3> sudah menggunakan alat berat yang sudah tiba di lokasi kejadian. " Pencarian <TIMEX3 tid="t9" type="DATE" value="2019-01-02">hari ini</TIMEX3> menggunakan alat berat dan libatkan K-9 (anjing pelacak), " ujar Joshua Banjarnahor. 
+
+// Kepanikan melanda warga Kampung Garehong, Dusun Cimapag, Desa Sirnaresmi, Kecamatan Cisolok, Kabupaten Sukabumi, <TIMEX3 tid="t10" type="TIME" value="2018-12-31TEV">Senin (31/12/2018) petang</TIMEX3>. 
+
+Bukit yang ada di perkampungan tiba-tiba longsor. 
+
+Tanah, lumpur, batu, dan material lain menimbun puluhan rumah. 
+
+Banyak warga yang menjadi korban. 
+
+Mereka <TIMEX3 tid="t11" type="DATE" value="PAST_REF">saat itu</TIMEX3> tengah ada di dalam rumah karena gelap <TIMEX3 tid="t12" type="DURATION" value="PXX">sebentar</TIMEX3> lagi datang. 
+
+Hingga <TIMEX3 tid="t13" type="TIME" value="2019-01-01TAF">Selasa (1/1/2019) sore</TIMEX3>, tim gabungan berhasil mengevakuasi 16 korban tewas akibat longsor yang mengubur Kampung Garehong. 
+
+Di antara korban tersebut ada bayi yang berusia <TIMEX3 tid="t14" type="DURATION" value="P3M">tiga bulan</TIMEX3> bernama Elan. 
+
+Bayi tersebut ditemukan <TIMEX3 tid="t15" type="TIME" value="2018-12-31TNI">Senin malam</TIMEX3> dalam kondisi selamat. 
+
+Namun selang <TIMEX3 tid="t16" type="DURATION" value="PTXH">beberapa jam</TIMEX3> Elan mengembuskan napas terakhir. 
+
+Petugas tim gabungan masih mencari korban yang diduga masih terkubur. 
+
+Kapolres Sukabumi AKBP Nasriadi saat diwawancara Kompas TV <TIMEX3 tid="t17" type="DURATION" value="2019-01-01TNI">semalam</TIMEX3> mengatakan ketebalan lumpur atau material longsor sekitar tiga meter. 
+
+<TIMEX3 tid="t18" type="DATE" value="2019-01-02">Hari ini</TIMEX3>, tim gabungan melanjutkan pencarian korban longsor di Kampung Garehong. 
+
+Sesaat sebelum kejadian, sejumlah saksi mendengar suara gemuruh dari atas bukit. 
+
+Seorang warga yang selamat, Suherman, menyangka itu merupakan suara motor. 
+
+// Namun saat dilihat, longsor telah menimbun rumah tetangganya. 
+
+" Kejadiannya <TIMEX3 tid="t19" type="TIME" value="2019-01-01T18:00">sekitar pukul 18.00</TIMEX3>, " ujar Suherman. 
+
+Proses evakuasi korban mengalami kendala terutama dari sisi cuaca. 
+
+Beberapa kali proses evakuasi terpaksa dihentikan karena cuaca buruk dan terjadi hujan deras. 
+
+Batu seukuran rumah masih terlihat bergeletakan tertutup lumpur. 
+
+Lokasi kampung <TIMEX3 tid="t20" type="DATE" value="PRESENT_REF">kini</TIMEX3> hanya terlihat beberapa atap rumah. 
+
+Semuanya tinggal hamparan tanah. 
+
+. 
+
+Terutama saat petugas hendak memobilisasi angkutan atau alat berat keperluan evakuasi. 
+
+Jalan yang sempit dan curam diperparah dengan banyaknya kendaraan warga yang parkir. 
+
+Hal ini diakui oleh AKBP Nasriadi <TIMEX3 tid="t21" type="DURATION" value="2019-01-01TNI">semalam</TIMEX3>. 
+
+Mulai <TIMEX3 tid="t22" type="DATE" value="2019-01-02">hari ini</TIMEX3>, petugas akan menyortir kendaraan yang boleh mendekat ke lokasi kejadian. 
+
+
+</TEXT>
+
+</TimeML>

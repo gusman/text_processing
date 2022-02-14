@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0226</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-22</TIMEX3></DCT>
+
+<TITLE>Lahan 1 Ha Diduga Sengaja Dibakar</TITLE>
+
+<TEXT>
+Meskipun imbauan untuk tidak membakar lahan telah disampaikan, sepertinya masyarakat di Kabupaten Lebong tidak menghiraukan hal tersebut. 
+
+Karena diduga untuk membuka kebun, lahan seluas lebih kurang 1 hektar (Ha) kembali dibakar. 
+
+Kebakaran terjadi, <TIMEX3 tid="t1" type="TIME" value="2019-10-21">kemarin (21/10) sore</TIMEX3> di kawasan Desa Sukau Datang Kecamatan Pelabai. 
+
+Lahan yang sebelumnya hanya ditumbuhi semak belukar, diduga sengaja dibakar pemilik lahan untuk membuka perkebunan. 
+
+Akibatnya kebakaran menjalar di perkebunan warga yang berada di samping lahan yang dibakar tersebut. 
+
+Menurut salah seorang warga, Sumardi (46), pada awalnya kebulan asap masih tampak terlihat sedikit. 
+
+Akan tetapi lama kelamaan api semakin membesar, sehingga warga sekitar langsung berdatangan untuk melihat titik api dan langsung memadamkan kebakaran tersebut. 
+
+Beruntung api cepat diketahui warga dan bersama-sama warga memadamkan api, jelasnya, <TIMEX3 tid="t2" type="DATE" value="2019-10-21">kemarin (21/10)</TIMEX3>. 
+
+Sementara itu, Kepala Dinas Satuan Polisi Pamong Praja (Satpol PP) Lebong, Zainal Husni Toha melalui Kepala Bidang (Kabid) Pemadam Bahaya Kebakaran (PBK), Wide Veronika SIp MM mengatakan, bahwa setelah pihaknya mengetahui adanya kebakaran, 3 unit mobil Damkar langsung diturunkan. 
+
+Setelah mendapatkan laporan dari masyarakat kita langsung menerjunkan 3 unit mobil, sampainya. 
+
+Ketika tiba di lokasi, api masih ada yang hidup, meskipun warga sekitar telah membantu untuk memadamkan api. 
+
+Petugas pun langsung melakukan pemadaman agar seluruh bara api pemicu kembali terakarnya lahan bisa diantisipasi. 
+
+Selain itu, petugas masih berjaga-jaga jika sewaktu-waktu api kembali membesar. 
+
+Kita khawatir api kembali membesar dan merambat ke perumahan warga, ucapnya. 
+
+Kembali terjadinya kebakaran lahan dan cukup dekat dengan perumahan warga, Wide mengimbau, kepada seluruh masyarakat untuk tidak lagi membuka lahan perkebunan dengan cara dibakar. 
+
+Hal tersebut guna mengantisipasi hal-hal yang tidak diinginkan. 
+
+Imbauan telah disampaikan, kami berharap warga bisa mematuhi atau mengikuti imbauan yang telah ada, harapnya. 
+
+Untuk mengatasi atau mengantisipasi masyarakat membakar hutan, tim gabungan dari kepolisian dan Dinas Satpol PP Kabupaten Lebong telah menyampaikan, baik melalui media sosial ataupun memasang spanduk, agar tidak membuka lahan dengan cara dibakar. 
+
+Jika masih melanggar maka diancam dengan pidana <TIMEX3 tid="t3" type="DURATION" value="P10Y">10 tahun</TIMEX3> penjara dan denda sebesar Rp 10 miliar. 
+
+Jika ditemukan warga dengan sengaja membakar lahan, kami akan langsung tindak, jelas Kapolres Lebong, AKBP Ichsan Nur SIk melalui Kasat Reskrim, IPTU Andi Ahmad Bustanil SIk. 
+
+Hal tersebut sesuai dengan Undang-undang nomor <TIMEX3 tid="t4" type="DURATION" value="P18Y">18 tahun</TIMEX3> 2014 pasal 48 ayat 1 yang isinya setiap orang dengan sengaja membuka dan atau mengola lahan dengan cara pembakaran yang berakibat terjadinya pencemaran dan kerusakan fungsi lingkungan hidup. 
+
+Untuk Kabupaten Lebong jika membakar diatas 2 hektar, maka akan diancam hukuman <TIMEX3 tid="t5" type="DURATION" value="P10Y">10 tahun</TIMEX3> penjara dan denda Rp 10 miliar, tegas Kasat Reskrim.(614). 
+</TEXT>
+
+</TimeML>

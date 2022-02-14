@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0585</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-13" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-13</TIMEX3></DCT>
+
+<TITLE>Bantu Pemulihan Pasca Gempa, Chevron Bangun Pustu Pertama di Sulteng</TITLE>
+
+<TEXT>
+Provinsi Sulawesi Tengah (Sulteng) akan memiliki Pukesmas Pembantu (Pustu) Plus yang pertama di provinsi tersebut. 
+
+Lokasinya di Desa Beka, Kecamatan Marawola, Kabupaten Sigi, sekitar 20 km sebelah selatan Kota Palu. 
+
+Fasiltas kesehatan tingkat pratama tersebut akan menyediakan layanan dokter, perawat dan bidan di satu lokasi sehingga berbeda dibandingkan layanan Pustu pada umumnya. 
+
+Pembangunan Pustu Plus tersebut merupakan bantuan pemulihan pasca bencana gempa bumi dan tsunami yang melanda Sulawesi Tengah pada <TIMEX3 tid="t1" type="DATE" value="2018-10-13">tahun lalu</TIMEX3>. 
+
+Dana pembangunannya berasal dari sumbangan para karyawan dan perusahaan Chevron yang beroperasi di Riau, Kalimantan Timur, dan Jakarta. 
+
+Chevron merupakan Kontraktor Kontrak Kerja Sama (KKKS) dari Pemerintah Indonesia dalam kegiatan usaha hulu minyak dan gas bumi. 
+
+Acara peletakan batu pertama (groundbreaking) pembangunan Pustu Plus di Desa Beka berlangsung pada <TIMEX3 tid="t2" type="DATE" value="2019-10-07">Senin (7/10/2019)</TIMEX3>. 
+
+Kegiatan dihadiri oleh Asisten I Provinsi Sulawesi Tengah Muhamad Faisal Mang, Asisten I Kabupaten Sigi Andi Ilham, Vice President SMO Operations Chevron Nurhasan, Pembina Yayasan Kemanusiaan Muslim Indonesia (YKMI) Muchtar Razali, serta para tokoh masyarakat. 
+
+Kami dari Pemerintah Provinsi Sulawesi Tengah sangat menghargai upaya yang sudah dilakukan oleh Chevron dan YKMI dalam membantu proses pemulihan daerah kami, khususnya dalam penyediaan sarana kesehatan, kata Asisten I Pemprov Sulawesi Tengah Muhamad Faisal Mang. 
+
+Dia juga mengatakan, kesuksesan sebuah perusahaan itu tidak hanya diukur dari aset yang dikelola, tapi juga dari manfaat sosial yang diberikan. 
+
+Sumbangan karyawan Chevron dikumpulkan melalui sebuah insiatif internal yang diberi nama Program Chevron Berbakti. 
+
+Sumbangan yang terkumpul kemudian ditambahkan dengan jumlah yang sama oleh Perusahaan, atau dikenal dengan skema matching fund. 
+
+Meski berjarak ribuan kilometer, karyawan kami turut merasakan kesedihan yang dialami saudara-saudara kita di Sulawesi Tengah ketika terjadi bencana gempa bumi dan tsunami. 
+
+Sumbangan ini merupakan wujud empati karyawan Chevron untuk membantu masyarakat Sulawesi Tengah agar segera bangkit kembali, tutur Vice President SMO Operations Chevron Nurhasan. 
+
+Untuk kesinambungan jangka panjang, lanjut dia, operasional Pustu Plus ini membutuhkan dukungan dari Pemkab Sigi, terutama Dinas Kesehatan, melalui penyediaan tenaga kesehatan yang diperlukan, pengelolaan dan pemeliharaan fasilitas secara baik. 
+
+Dukungan lain juga diharapkan dari aparat desa setempat agar fasilitas ini bermanfaat secara optimal. 
+
+Nurhasan juga mengatakan, program di bidang kesehatan selaras dengan fokus program-program investasi sosial Perusahaan. 
+
+Tidak hanya di Sulawesi Tengah, hasil sumbangan karyawan Chevron juga disalurkan untuk membangun fasilitas serupa di Kabupaten Lombok Utara, Nusa Tenggara Barat, yang juga mengalami bencana gempa bumi pada <TIMEX3 tid="t3" type="DATE" value="2018-10-13">tahun lalu</TIMEX3>. 
+
+Acara peletakan batu pertama di Lombok telah dilaksanakan <TIMEX3 tid="t4" type="DATE" value="2019-10-06">pekan lalu</TIMEX3>. 
+
+Untuk pembangunan Pustu Plus di Desa Beka, Chevron menggandeng YKMI sebagai mitra pelaksana. 
+
+Semoga kami dapat menjalankan amanah pembangunan ini sesuai dengan harapan pemberi dana dan masyarakat. 
+
+Sehingga sarana kesehatan ini menjadi sebuah hasil yang bermanfaat dan mendapatkan layanan kesehatan yang lebih baik dari sebelumnya. 
+
+Kami sangat menghargai kepedulian yang diberikan oleh Chevron dan tentu berterima kasih serta berempati yang amat dalam kepada Pemerintah dan masyarakat Sigi, kata Pembina YKMI Muchtar Razali. 
+
+Bangunan Pustu Plus dirancang dengan struktur yang ramah gempa; mudah diakses bagi penyandang disabilitas dan orang-orang berusia lanjut; serta memperhatikan prosedur standar keselamatan. 
+
+Lama pembangunan diperkirakan maksimal <TIMEX3 tid="t5" type="DURATION" value="P6M">enam bulan</TIMEX3>. 
+
+Pada masa tanggap darurat setelah kejadian pada <TIMEX3 tid="t6" type="DATE" value="2018-10-13">tahun lalu</TIMEX3>, Chevron juga bergerak cepat dengan menyalurkan bantuan Perusahaan ke Sulawesi Tengah melalui lembaga nirlaba Mercy Corps, Save the Children, dan Aksi Cepat Tangap (ACT). 
+
+Selain itu, di bawah koordinasi SKK Migas, Chevron bersama Kontraktor Kerja Sama (KKKS) lainnya menyalurkan bantuan obat-obatan, tim medis, dan bahan makanan. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0948</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-24</TIMEX3></DCT>
+
+<TITLE>Kebakaran Lahan Kembali Terjadi di Majene</TITLE>
+
+<TEXT>
+Kebakaran lahan kembali terjadi di Lingkungan Apoleang Kelurahan Mosso Kecamatan Sendana <TIMEX3 tid="t1" type="DATE" value="2018-08-23">Kamis (23/8/2018)</TIMEX3>. 
+
+Personel Polsek Sendana bersama masyarakat memadamkan api foto: IstMendapat laporan masyarakat, personel Polsek Sendana bersama masyarakat setempat segera melakukan upaya pemadaman. 
+
+Menurut Kapolsek Sendana AKP Achmad Syarif Tola, Jum at <TIMEX3 tid="t2" type="DATE" value="2018-08-24">(24/8/2018)</TIMEX3>, kebakaran diakibatkan karena kelalaian masyarakat pemilik lahan yang membuka lahannya dengan cara membakar rumput alang-alang. 
+
+<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Sekarang ini</TIMEX3> cuaca sangat panas dan diiringi angin kencang mengakubatkan api cepat menjalar, tutur AKP Ahmad. 
+
+Ia menyebut, dalam peristiwa itu api melalap setidaknya kurang lebih 2 hektar lahan. 
+
+Beruntung, karena personil Polsek Sendana bersama masyarakat segera memadamkan api dengan alat seadanya sehingga api berhasil dikuasai. 
+
+(ipunk) 
+</TEXT>
+
+</TimeML>

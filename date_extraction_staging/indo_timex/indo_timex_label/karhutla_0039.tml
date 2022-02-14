@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0039</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-07-28" temporalFunction="false" functionInDocument="CREATION_TIME">2017-07-28</TIMEX3></DCT>
+
+<TITLE>Pemadaman Api Berlanjut, BNPB Tambah Satu Heli</TITLE>
+
+<TEXT>
+Pemadaman kobaran maupun titik-titik api di lahan gambut Aceh Barat yang terbakar sejak <TIMEX3 tid="t1" type="DATE" value="2017-07-18">18 Juli lalu</TIMEX3>, dilanjutkan hingga <TIMEX3 tid="t2" type="DATE" value="2017-07-27">Kamis kemarin</TIMEX3>. 
+
+Badan Nasional Penangggulangan Bencana (BNPB) malah menambah satu helikopter untuk mengefektifkan pemadaman api dari udara. 
+
+Heli tersebut tiba di Meulaboh <TIMEX3 tid="t3" type="TIME" value="2017-07-27T14:30">pukul 14.30 WIB kemarin</TIMEX3>, mendarat di halaman Batalion 116 Garda Samudera, kawasan Alue Peunyareng, Meulaboh. 
+
+Pantauan Serambi, heli jenis Bell 412 dengan nomor register PK-DAS itu memiliki kapasitas water bombing seberat 800 kilogram. 
+
+Pejabat BNPB Pusat, Jarwansyah di Meulaboh mengatakan, dengan tibanya satu heli tambahan tersebut, diharapkan pemadaman api di sejumlah titik kebakaran lahan di Aceh Barat kian maksimal. 
+
+Menurutnya, heli yang lebih kecil dari helikopter MI 172 yang sudah duluan <TIMEX3 tid="t4" type="DATE" value="PAST_REF">dulu</TIMEX3> tiba itu, akan difokuskan untuk membantu menyiram air melalui udara. 
+
+Sementara itu, sepanjang <TIMEX3 tid="t5" type="TIME" value="2017-07-27TAF">Kamis siang</TIMEX3>, heli MI 172 yang diawaki kru asal Vietnam terus mengguyurkan air melalui udara. 
+
+Sumber airnya berasal dari pantai di wilayah Meulaboh. 
+
+Lokasi pemadaman api itu dipusatkan di kawasan Suak Raya dan Suak Nie, Kecamatan Johan Pahlawan. 
+
+Juga di sebagian wilayah Kecamatan Samatiga. 
+
+Meski berada dalam guyuran hujan, pemadaman api melalui heli terus dilakukan guna meminimalisir terjadinya gangguan kabut asap. 
+
+Jarwansyah yang dikonfirmasi ulang <TIMEX3 tid="t6" type="TIME" value="2017-07-27TAF">Kamis sore</TIMEX3> di Meulaboh mengatakan, pihaknya belum mendapatkan data detail berapa kali bombing air melalui udara itu dilakukan pada <TIMEX3 tid="t7" type="TIME" value="2017-07-27TAF">Kamis siang</TIMEX3> hingga <TIMEX3 tid="t8" type="TIME" value="2017-07-27TAF">sore</TIMEX3>. 
+
+Sementara itu, setelah ditunggu-tunggu, hujan dengan intensitas ringan mengguyur Meulaboh dan sekitarnya, <TIMEX3 tid="t9" type="TIME" value="2017-07-27T10:30">Kamis (27/7) pukul 10.30 WIB</TIMEX3>. 
+
+Guyuran hujan ini disambut haru warga karena kawasan ini telah dilanda kabut asap sejak <TIMEX3 tid="t10" type="DURATION" value="P2W">dua pekan</TIMEX3> terakhir. 
+
+Hal serupa juga terjadi di Kota Banda Aceh dan Aceh Besar, <TIMEX3 tid="t11" type="DATE" value="2017-07-27">Kamis kemarin</TIMEX3>. 
+
+Penduduknya senang dan bersyukur karena hujan akhirnya turun <TIMEX3 tid="t12" type="TIME" value="2017-07-27T06:00">sekitar pukul 06.00 WIB</TIMEX3>. 
+
+Apalagi shalat minta hujan (Istisga) sudah berkali-kali dilakukan warga Aceh Besar. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Aceh Barat T Syahluna Polem mengatakan, turunnya hujan di Meulaboh merupakan rahmat dan sudah lama dinantikan. 
+
+Alhamdulillah, hujan turun dapat mengurangi asap pekat yang melanda, katanya. 
+
+// Dengan mulai turunnya hujan ini, kebakaran lahan yang <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">kini</TIMEX3> telah membakar 69 hektare lahan perkebunan dapat segera padam. 
+
+Selama ini sudah dilakukan penyiraman, akan tetapi tak mampu memadamkan kebakaran yang sangat parah, kata Syahluna. 
+
+Asap pekat <TIMEX3 tid="t14" type="TIME" value="2017-07-27TMO">Kamis pagi</TIMEX3> sempat menyelimuti pusat kota di Meulaboh, Aceh Barat. 
+
+Warga sempat panik luar biasa terutama mereka ingin menjemput anak mereka yang di sekolah. 
+
+Sedangkan sebelumnya asap hanya menyelimuti sekitar pinggir kota kecuali <TIMEX3 tid="t15" type="TIME" value="2017-07-27TNI">malam hari</TIMEX3>. 
+
+Namun, setelah dilanda hujan asap pekat pun hilang. 
+
+Sejumlah sekolah malah memulangkan muridnya karena khawatir terhadap dampak lain dari asap yang semakin pekat. 
+
+Namun, sejumlah sekolah tetap bertahan hingga <TIMEX3 tid="t16" type="TIME" value="2017-07-27T10:00">pukul 10.00 WIB</TIMEX3> setelah guru membagikan masker kepada muridnya. 
+
+Tapi murid-murid sekolah dan madrasah di Samatiga langsung disuruh pulang karena asap sangat pekat, kata Ardian, warga Meulaboh. 
+
+Sementara itu, Dinas Kesehatan Aceh Barat <TIMEX3 tid="t17" type="DATE" value="2017-07-27">kemarin</TIMEX3> turun ke Jalan Nasional Meulaboh-Calang di depan dinas setempat. 
+
+Mereka membagikan masker kepada pengendara sebanyak 9.000 lembar. 
+
+Pembagian masker dipimpin Kadis Kesehatan, dr Zafril Lufty. 
+
+Sementara itu, Pemkab Aceh Barat sudah menjadwalkan pada <TIMEX3 tid="t18" type="DATE" value="2017-07-28">Jumat (28/7)</TIMEX3> sekira <TIMEX3 tid="t19" type="TIME" value="2017-07-27T14:00">pukul 14.00 WIB</TIMEX3> akan dilaksanakan shalat minta hujan (Istisqa) di halaman Masjid Agung Baitul Makmur Meulaboh. 
+
+Surat ajakan shalat minta hujan itu diteken Bupati HT Alaidinsyah pada <TIMEX3 tid="t20" type="DATE" value="2017-07-27">27 Juli 2017</TIMEX3> dan sudah diedarkan kepada berbagai kalangan di Aceh Barat sejak <TIMEX3 tid="t21" type="TIME" value="2017-07-28TMO">pagi hari</TIMEX3>. 
+
+Shalatnya akan dipimpin ketua MPU setempat. 
+
+Meski hujan sudah turun, rencana shalat Istisqa tetap akan dilakukan, ujar Kasubbag Hubungan Media Massa Humas Setdakab, Adiwijaya. 
+
+<TIMEX3 tid="t22" type="DATE" value="2017-07-27">Sehari sebelumnya</TIMEX3> Polres Aceh Barat melaksanakan shalat Istisqa di halaman mapolres dengan iman dan khatibnya, Tgk Harmen Nuriqmar. 
+
+Shalat Istisqa itu dihadiri Kapolres AKBP Teguh Priyambodo Nugroho dan personel Polri serta santri, TNI, dan BPBD. 
+
+Dari Aceh Jaya dilaporkan, titik api yang membakar lahan <TIMEX3 tid="t23" type="DATE" value="2017-07-27">Kamis (27/7)</TIMEX3>, mulai reda pascaturunnya hujan di daerah itu <TIMEX3 tid="t24" type="TIME" value="2017-07-27TMO">pagi kemarin</TIMEX3>. 
+
+Seiring turunnnya hujan, kabut asap itu lenyap dari atmosfer Aceh Jaya. 
+
+Tim bersama kita tetap siaga untuk melakukan pemadaman api jika hal itu kembali terjadi di Aceh Jaya, kata Ismail, Kabid Pencegahan dan Kesiapsiagaan pada Kantor BPBK Aceh Barat, kepada Serambi. 
+
+Sementara itu, kondisi Aceh Jaya sejak <TIMEX3 tid="t25" type="TIME" value="2017-07-27TMO">kemarin pagi</TIMEX3> telah diselimuti mendung tebal disertai gerimis hingga jelang <TIMEX3 tid="t26" type="TIME" value="2017-07-27TAF">sore</TIMEX3>. 
+
+Sedangkan hujan deras sempat mengguyur kawasan itu sekitar pukul 06.00-08.00 <TIMEX3 tid="t27" type="TIME" value="UNKNOWN">WIB</TIMEX3>. 
+
+Kita berharap agar dalam <TIMEX3 tid="t28" type="DURATION" value="PXD">beberapa hari ke depan</TIMEX3> Aceh Jaya terus diguyur hujan supaya kondisi kemarau yang mencemaskan warga berakhir, harap Ismail. 
+
+(riz/edi/c45/dik) 
+</TEXT>
+
+</TimeML>

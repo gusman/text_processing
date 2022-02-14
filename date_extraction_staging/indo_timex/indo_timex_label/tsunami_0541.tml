@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0541</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-01</TIMEX3></DCT>
+
+<TITLE>Biddokkes Polda Kalsel Kirim Tim Kesehatan dan DVI ke Donggala-Palu</TITLE>
+
+<TEXT>
+Kepolisian Daerah Kalimantan Selatan (Polda Kalsel) mengirimkan Tim Dokkes untuk penanganan korban gempa bumi dan tsunami yang terjadi di Palu Donggala, Provinsi Sulawesi Tengah, Jum at <TIMEX3 tid="t1" type="DATE" value="2018-09-28">28 September 2018 yang lalu</TIMEX3>. 
+
+Anggota Biddokkes Polda Kalsel yang diberangkatkan berjumlah 5 (lima) orang diantaranya AKBP Dr Bambang Prasetiya, Sp. 
+
+B, Bripka H. 
+
+Sutrisno, SH, Bripda Eriq Darmawan, Bripda Wahyu Noor Akbar, dan Bripda Adiat Widiatmoko. 
+
+Pemberangkatkan kelima anggota Dokkes ini dipimpin Kapolda Kalsel Irjen Pol Drs. 
+
+Yazid Fanani, M. 
+
+Si diwakili Kabid Dokkes Polda Kalsel AKBP dr Erwinn Zainul Hakim, MARS. 
+
+, MH. 
+
+Kes. 
+
+, didampingi Karumkit RS HIS Bhayangkara Banjarmasin AKBP dr Bambang Pitoyo, Sp. 
+
+S. 
+
+, dengan dihadiri sejumlah personel Biddokkes Polda Kalsel dan RS HIS Bhayangkara Banjarmasin, <TIMEX3 tid="t2" type="TIME" value="2018-10-01">Senin (1/10/2018) pagi</TIMEX3>. 
+
+Anggota Dokkes Polda Kalsel berangkat <TIMEX3 tid="t3" type="TIME" value="2018-09-30T07:00">pukul 07.00</TIMEX3> wita dari Bandara Syamsuddin Noor menggunakan maskapai Wing Air menuju Mamuju Sulawesi Barat (Sulbar) namun sebelumnya lebih dulu transit di Makassar Sulawesi Selatan (Sulsel). 
+
+Sesampainya di Mamuju anggota akan melanjutkan perjalanan ke Palu lewat darat.Keberangkatan Tim Kesehatan Polda Kalsel sesuai TR Kapolri nomor: STR / 689 / IX / OPS.2.1./ <TIMEX3 tid="t4" type="DATE" value="2018">2018</TIMEX3> TMT <TIMEX3 tid="t5" type="DATE" value="2018-09-30">30 September 2018</TIMEX3> sd <TIMEX3 tid="t6" type="DATE" value="2018-10-31">31 Oktober 2018 ini</TIMEX3> dalam rangka BKO Kemanusiaan ke Palu Sulteng dengan tujuan pelayanan kesehatan korban hidup, evakuasi pasien, serta identifikasi korban meninggal akibat bencana alam yang dipusatkan di Rumkit Bhayangkara Palu.Setibanya di Palu, kelima personel Kesehatan Polda Kalsel yang di ketuai oleh AKBP Dr Bambang Prasetiya, Sp.B yang membawa bantuan obat obatan dari RS HIS Bhayangkara Banjarmasin akan bergabung dengan Tim Kesehatan dari Pusdokkes Polri yang berjumlah 15 personel dan Tim Kesehatan Polda Kaltim 6 personel. 
+
+rel/hms 
+</TEXT>
+
+</TimeML>

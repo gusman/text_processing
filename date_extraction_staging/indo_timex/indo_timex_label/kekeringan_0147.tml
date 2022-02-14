@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0147</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-07" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-07</TIMEX3></DCT>
+
+<TITLE>Warga Perumahan Sudirman Krisis Air, Butuh Saluran PDAM</TITLE>
+
+<TEXT>
+Sumur tanah milik warga di Perumahan Sudirman Indah, Kecamatan Tigaraksa, Kabupaten Tangerang mulai mengering. 
+
+Warga di RT 004/012, Perumahan Sudirman, Desa Pasir Nangka, sebanyak 64 kepala keluarga bergantung pada pengiriman air bersih dari Pemkab Tangerang. 
+
+Seperti yang dikemukakan, Ketua RT 004/012 Enjen Jaelani, mengaku, sumur tanah di rumah warga sudah mengering <TIMEX3 tid="t1" type="DURATION" value="P1M">sekitar satu bulan</TIMEX3> terakhir. 
+
+Hal ini disebabkan tidak adanya hujan selama <TIMEX3 tid="t2" type="DURATION" value="P4M">hampir empat bulan</TIMEX3>. 
+
+Adapun, sumur bor yang dmenjadi alternatif sumber air tanah tidak dapat diandalkan. 
+
+Sebab, diperlukan pengeboran hingga 50 meter lebih untuk mendapatkan sumber air. 
+
+Betul sudah <TIMEX3 tid="t3" type="DURATION" value="P3M">tiga bulan</TIMEX3> ke belakang kekurangan air. 
+
+Ini memang akibat kemarau panjang. 
+
+Faktor kedua, di lingkungan kami untuk pengeboran sudah tidak lagi keluar air. 
+
+Mesti puluhan meter dan untung-untungan keluar air atau tidak, ujarnya kepada Tangerang Ekspres, <TIMEX3 tid="t4" type="DATE" value="2019-08-06">(6/8)</TIMEX3>. 
+
+Ia mengaku, bantuan pengiriman air bersih dari Pemkab Tangerang hingga mencapai dua kali dalam <TIMEX3 tid="t5" type="DURATION" value="P1W">seminggu</TIMEX3>. 
+
+Walaupun, bantuan air sudah cukup untuk keperluan memasak dan mandi cuci kakus (MCK). 
+
+Ia mengungkapkan, perlunya saluran dari Perusahaan Daerah Air Minum (PDAM) sehingga tidak ada lagi kekeringan. 
+
+Kalau minum kita beli galon isi ulang. 
+
+Kita berharap untuk air PAM segera masuk. 
+
+Memang cukup meresahkan kekeringan ini walaupun pengiriman air sudah mencukupi. 
+
+Dimana, tiba-tiba gerimis atau hujan, warga menampung air hujan di ember sehingga banyak jentik nyamuk berkembang biak. 
+
+Saya berjuang untuk warga saya, sebutnya. 
+
+Ia mengungkapkan, mengajukan sebanyak dua kali kepada ketua RW untuk berlangganan air dari PDAM. 
+
+Namun, hingga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">kini</TIMEX3> belum ada tindak lanjutnya. 
+
+Padahal, kata dia, saluran air milik PDAM sudah terpasang di pintu gerbang perumahan. 
+
+Kita sudah mengajukan ke RW sudah dua kali sejak <TIMEX3 tid="t7" type="DATE" value="2015-08-07">empat tahun lalu</TIMEX3>. 
+
+Kalau tanggapan masih diproses. 
+
+Kalau kekeringan dari RT saya saja ada sekira 64 kepala keluarga. 
+
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kita bergantung pada pengiriman dari pemerintah, terangnya. 
+
+Sementara, ibu rumah tangga, Mayangsari mengaku, kesulitan air karena kekeringan akibat <TIMEX3 tid="t9" type="DATE" value="2019-SU">musim kemarau</TIMEX3> berkepanjangan. 
+
+Sebab, air terkadang hanya cukup untuk MCK serta kekurangan ketika masak. 
+
+Untuk itu, Mayang, berharap, adanya upaya dari pemerintah untuk mengatasi kekeringan agar tidak terulang. 
+
+Kita butuhnya ada sambungan air dari PDAM ke rumah dimana pasokan air tidak kekurangan saat kemarau. 
+
+Kalau air bantuan dari pemerintah kadang kurang dan harus menunggu hingga <TIMEX3 tid="t10" type="DURATION" value="PXD">berhari-hari</TIMEX3>, tukasnya. 
+
+(mg-10/mas) 
+</TEXT>
+
+</TimeML>

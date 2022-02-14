@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1080</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-03-23" temporalFunction="false" functionInDocument="CREATION_TIME">2020-03-23</TIMEX3></DCT>
+
+<TITLE>Masuk Kemarau, Mulai Terjadi Karhutla</TITLE>
+
+<TEXT>
+Kebakaran hutan dan lahan (Karhutla) di wilayah Kabupaten Empat Lawang sudah mulai terjadi. 
+
+Cuaca kemarau menyebabkan api cepat merambat ke lahan sekitar. 
+
+Karhutla itu terjadi <TIMEX3 tid="t1" type="DATE" value="2020-03-21">Sabtu (21/3)</TIMEX3> sekitar <TIMEX3 tid="t2" type="TIME" value="2020-03-22T15:00">pukul 15.00</TIMEX3> Wib di lahan pinggir jalan Noerdin Panji, Km 8, Kecamatan Tebing Tinggi. 
+
+Informasi yang dihimpun, kebakaran tersebut menghanguskan lahan kurang lebih 2 hektar. 
+
+Pihak kepolisian, TNI dan BPBD Empat Lawang berusaha memadamkan api dengan menggunakan 2 unit mobil kebakaran. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Empat Lawang Kuswinarto saat dikonfirmasi membenarkan adanya Karhutla di kawasan Jalan Noerdin Panji. 
+
+Ya benar ada kebakaran lahan. 
+
+Petugas pemadam kebakaran dibantu Polisi dan TNI berhasil memadamkannya. 
+
+Untuk penyebabnya belum tahu, katanya, <TIMEX3 tid="t3" type="DATE" value="2020-03-22">kemarin</TIMEX3>. 
+
+Pihaknya menghimbau kepada masyarakat untuk jangan membakar lahan sembarangan. 
+
+Serta jangan membuang puntung rokok sembarangan. 
+
+Karena <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah masuk <TIMEX3 tid="t5" type="DATE" value="2019-SU">musim kemarau</TIMEX3>. 
+
+<TIMEX3 tid="t6" type="DATE" value="2019-SU">Musim kemarau</TIMEX3> sangat rentan Karhutla warga dihimbau untuk jangan membuka lahan dengan dibakar, <TIMEX3 tid="t7" type="DATE" value="FUTURE_REF">nanti</TIMEX3> bisa merambat ke lahan yang lain dan susah untuk dipadamkan, himbaunya. 
+
+(eno) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0613</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-04-20" temporalFunction="false" functionInDocument="CREATION_TIME">2018-04-20</TIMEX3></DCT>
+
+<TITLE>ANEH! Hampir Seluruh Kabupaten ini Dilanda Kekeringan tapi Belum ada Kepala Desa yang Melapor</TITLE>
+
+<TEXT>
+Kabupaten Nagekeo mulai dilanda kekeringan. 
+
+Sampai dengan <TIMEX3 tid="t1" type="DATE" value="2018-W16">pekan ini</TIMEX3>, sudah enam dari tujuh kecamatan yang mulai dilanda kekeringan. 
+
+Meski demikian belum ada kepala desa/ lurah yang melaporkan kekeringan ke Pemkab Nagekeo. 
+
+Hal itu disampaikan Kepala Pelaksana Badan Penanggulangan Bencana (BPBD) Kabupaten Nagekeo, Bernabas Lambar ketika ditemui di Hotel Stela Sasandi Mbay, <TIMEX3 tid="t2" type="DATE" value="2018-04-20">Jumat (20/4/2018)</TIMEX3>. 
+
+Kondisi ini mengancam ketahanan pangan dan ketersediaan air bersih di daerah itu. 
+
+. 
+
+Dampaknya, tanaman pangan terutama di areal sawah tadah hujan mulai kering. 
+
+Kita sedang koordibasi dengan instansi terkait untuk segera melakukan pendataan dampak dari kekeringan yang terjadi <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, " kata Bernabas. 
+
+Bernabas mengatakan, kekeringan di enam kecamatan di Nagekeo menyebabkan gagal panen di sebagian wilayah di daerah itu. 
+
+// Bernabas menjelaskan, enam dari tujuh kecamatan di Kabupaten Nagekeo yang mengalami kekeringan yakni Kecamatan Boawae. 
+
+. 
+
+Di Kecamatan Aesesa, kekeringan melanda Desa Nggolonio, Desa Waekokak, Desa Ngegedhawe, Desa Olaia, Desa Aeramo, Desa Tedakisa, Desa Tedamude, Desa Labolewa. 
+
+Berikutnya Kelurahan Dhawe, Kelurahan Mbay I, Kelurahan Towak, Kelurahan Danga, dan Kelurahan Mbay II. 
+
+Di Kecamatan Wolowae, kata Bernabas, kekeringan terjadi di Desa Anakoli, Desa Totomala, Desa Tendakinde, Desa Tendatoto, dan Desa Natatoto. 
+
+. 
+
+Kecamatan Mauponggo menjadi satu-satunya kecamatan yang masih belum dilanda kekeringan. 
+
+" <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> kita masih menyusun rencana pendataan, " kata Bernabas. 
+
+(*) 
+</TEXT>
+
+</TimeML>

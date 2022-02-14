@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0708</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-13" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-13</TIMEX3></DCT>
+
+<TITLE>Pemerintah Salurkan Air Bersih ke Daerah Terdampak Kekeringan</TITLE>
+
+<TEXT>
+Pemerintah Kabupaten (Pemkab) Bolaang Mongondow (Bolmong), Sulawesi Utara, menyalurkan air bersih kepada warga yang terdampak bencana kekeringan. 
+
+Penyaluran air dimulai <TIMEX3 tid="t1" type="DATE" value="2019-09-12">Kamis</TIMEX3> dan akan berlangsung bergantian di sejumlah lokasi terdampak. 
+
+Kepala Badan Penanggulangan Bencana Daerah (BPBD) Bolmong Harris Dilapanga mengatakan penyaluran, <TIMEX3 tid="t2" type="DATE" value="2019-09-12">Kamis</TIMEX3>, berlangsung di Desa Bolangat, Kecamatan Sangtombolang. 
+
+" Lebih dulu disana karena masyarakat sangat memerlukan air bersih, " kata dia, <TIMEX3 tid="t3" type="DATE" value="2019-09-13">Jumat (13/09/2019)</TIMEX3>. 
+
+Sebut dia, penyaluran berlangsung sejak <TIMEX3 tid="t4" type="TIME" value="2019-09-12T10:30">pukul 10.30</TIMEX3> Wita, selama <TIMEX3 tid="t5" type="DURATION" value="PT2H">2 jam</TIMEX3>. 
+
+Penyaluran dibantu oleh PDAM. 
+
+" Dipakai dua mobil tangki masing masing kapasitas 5.000 liter, " kata dia.Diketahui Kabupaten Bolmong resmi menyandang status siaga darurat bencana kekeringan, karhutla dan angin kencang.Penetapan itu dilakukan lewat Rapat Koordinasi (Rakor) kekeringan, Kebakaran Hutan dan Lahan (Karhutla) dan angin kencang di aula lantai dua Kantor Bupati Bolmong, <TIMEX3 tid="t6" type="TIME" value="2019-09-02">Senin (02/09/2019) pagi</TIMEX3>.Rapat dipimpin Sekda Bolmong Tahlis Gallang. 
+
+// Hadir dari Polres Kotamobagu, Koramil, pimpinan Organisasi Perangkat Daerah (OPD) Bolmong serta para camat wilayah Pantai Utara (Pantura). 
+
+Kasie Tanggap Darurat BPBD Bolmong Abdul Muin Paputungan mengatakan, status siaga darurat tersebut bakal berlangsung selama <TIMEX3 tid="t7" type="DURATION" value="P45D">45 hari</TIMEX3>. 
+
+" Sejak <TIMEX3 tid="t8" type="DATE" value="2019-09-02">2 September</TIMEX3> hingga <TIMEX3 tid="t9" type="DATE" value="2019-10-16">16 Oktober 2019</TIMEX3>, " kata dia. 
+
+Ungkap dia, status siaga ditetapkan lantaran intensita kebakaran lahan dan hutan yang tinggi. 
+
+Angin kencang pun terus menyerang sejumlah rumah. 
+
+" Sementara sawah di sejumlah daerah alami kekeringan, " kata dia. 
+
+Menurut dia, berdasarkan laporan BMKG, kemarau masih akan terjadi pada <TIMEX3 tid="t10" type="DURATION" value="PXM">beberapa bulan ke depan</TIMEX3>. 
+
+(Tribunmanado. 
+
+co.id/Arthur Rompis) 
+</TEXT>
+
+</TimeML>

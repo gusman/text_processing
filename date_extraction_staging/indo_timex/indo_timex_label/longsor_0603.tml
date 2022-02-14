@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0603</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-04-11" temporalFunction="false" functionInDocument="CREATION_TIME">2018-04-11</TIMEX3></DCT>
+
+<TITLE>Longsor, 20 Rumah Warga Desa Telemow Ambruk</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="TIME" value="2018-04-10TMO">Dini hari tadi</TIMEX3>, bencana tanah longsor terjadi di Desa Telemow Kecamatan Sepaku Kabupaten Penajam Paser Utara Bupati Penajam Paser Utara (PPU). 
+
+Dalam musibah ini diperkirakan sebanyak 20 unit rumah warga di RT 06 dan RT 07 Desa Telemow ambruk karena bencana longsor, <TIMEX3 tid="t2" type="DATE" value="2018-04-11">Rabu</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2018-04-11">(11/4)</TIMEX3> sekira <TIMEX3 tid="t4" type="TIME" value="2018-04-10T04:00">pukul 04.00</TIMEX3> Wita. 
+
+Memperoleh laporan ini, Bupati PPU Yusran Aspar bersama jajaran terkait dilingkungan Pemkab PPU langsung menggelar pertemuan dalam rangka penanganan bencana tersebut. 
+
+Dalam kesempatan itu Bupati juga menetapkan tanggap darurat selama <TIMEX3 tid="t5" type="DURATION" value="P14D">14 hari</TIMEX3> di Desa Telemow, Kecamatan Sepaku yang terkena longsor. 
+
+Pertemuan ini juga diikuti oleh Sekkab PPU, Tohar, Kepala BPBD PPU, Andi Darul dan sejumlah pejabat terkait. 
+
+Disebutkan bahwa dalam status tanggap darurat yang ditetapkan oleh Bupati PPU, bahwa akan dilakukan langkah-langkah seperti penyediaan bahan pokok untuk pemenuhan kebutuhan pokok para korban bencana. 
+
+Untuk bantuan ini, Dinas Sosial akan menyiapkan 200 ton beras dari stok beras di Bulog. 
+
+Bupati Yusran Aspar mengatakan, untuk tanggap darurat ini akan dilakukan langkah-langkah untuk membantu para korban bencana mulai penangan kesehatan, bantuan makanan hingga penangan pengungsian bagi para korban bencana. 
+
+Kita upayakan relokasi bagi korban bencana ini harus segera dilakukan. 
+
+Kalau mereka mau kami siapkan di Trunen yang akan dibangunkan rumah-rumah sementara ini, jelasnya. 
+
+Dalam pertemuan ini, Yusran juga meminta agar segera diselesaikan surat keputusan mengenai tanggap darurat agar bisa segera dilakukan penanganan. 
+
+Dia menegaskan jangan sampai penanganan bencana lamban hanya karena persoalanan surat atau hal lain yang tidak cepat. 
+
+Penanganan bagi korban bencana ini harus segera mungkin jangan sampai terlambat, kasihan para korban, kata Yusran Aspar. 
+
+Dalam kesempatan itu, Yusran Aspar juga berterimakasih kepada jajaran BPBD PPU yang telah sigap dalam penanganan bencana di daerah. 
+
+Ia mengaku bersyukur karena dalam bencana longsor ini tidak menelan korban jiwa karena BPBD sudah tanggap dalam mengungsikan warga yang rumahnya terkena longsor. 
+
+Kami patut berikan apresiasi kepada jajaran BPBD PPU yang telah tanggap terhadap musibah ini dilapangan. 
+
+Bahkan sebelum kejadian BPBD kita telah mengetahui tanda-tanda akan terjadinya longsor di wilayah itu, sehingga pihaknya telah mengungsikan warga setempat ketempat lain, jelasnya. 
+
+Dijelaskan juga bahwa tanggap darurat ini untuk sementara ditangani Pemkab PPU. 
+
+Namun bila <TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">nanti</TIMEX3> masih perlu dilakukan penanganan sanpai <TIMEX3 tid="t7" type="DURATION" value="P14D">14 hari</TIMEX3>, maka akan disampaikan kepada Pemprov Kaltim untuk ditetapkan tanggap darurat provinsi. 
+
+Untuk <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, ia meminta agar pemenuhan kebutuhan untuk warga yang berdampak longsor ini bisa disiapkan termasuk beras dan kebutuhan lainnya, pungkasnya. 
+
+Diakhir pertemuan ini, Yusran Aspar dan jajarannya juga langsung bergegas melakukan peninjauan lapangan tempat terjadinya bencana tanah longsor di Desa Telemow Kecamatan Sepaku dengan menggunakan transportasi laut. 
+
+(Humas6/ervan/nk). 
+
+Data rumah warga korban tanah longsorI. 
+
+Lokasi RT 06Jumlah rumah 13 unit kondisi rusakJumlah Kepala keluarga 20 KKJumlah jiwa 35 JiwaII. 
+
+Lokasi RT 07Jumlah rumah 7 unit kondisi rusakJumlah Kepala Keluarga 10 KKJumlah jiwa 25 JiwaIII. 
+
+Total RT 06 dan RT 07 Jumlah rumah 20 unitJumlah Kepala Keluarga 30 KKJumlah jiwa 60 JiwaTerdapat dua sarana dan prasarana rusak berupa, satu bangunan musholla rusak berat dan satu bangunan sarana pendidikan berupa gedung TK terancam rusak berat, karena berada pada lokasi pergeseran jika terjadi longsor susulan. 
+</TEXT>
+
+</TimeML>

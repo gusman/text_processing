@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0145</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-02-09" temporalFunction="false" functionInDocument="CREATION_TIME">2015-02-09</TIMEX3></DCT>
+
+<TITLE>Jakarta Dikepung Banjir, Ini 3 Alasan Ahok</TITLE>
+
+<TEXT>
+Gubernur DKI Jakarta, Basuki Tjahaja Purnama <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">kini</TIMEX3> menjadi sasaran dan tempat mengeluh terhadap banjir yang mengepung Jakarta. 
+
+Sebagai orang nomor satu di JAKARTA yang menggantikan Jokowi yang terpilih jadi presiden, pria yang karib disapa Ahok ini tentu tidak bisa mengelak. 
+
+Seperti apa reaksi Ahok melihat hampir setiap sudut Jakarta terendam banjir? Menurutnya, ada tiga alasan yang mengakibatkan air mengenangi ibu kota. 
+
+Pertama hujan begitu lebat sehingga volume air di luar dari dugaan. 
+
+Kita tidak sangka, hujan begitu besar volumenya, kata Basuki Tjahaja Purnama, Gubernur DKI Jakarta di Balaikota, <TIMEX3 tid="t2" type="DATE" value="2015-02-09">Senin (9/2)</TIMEX3>. 
+
+Kedua adalah sejumlah pompa yang dipergunakan menyedot air tidak mencukupi. 
+
+Pompa kapasitas nggak cukup, terus pompanya ngambek ibaratnya sudah mampet. 
+
+Dia (pompa) terus dari <TIMEX3 tid="t3" type="TIME" value="UNKNOWN">jam delapan malam</TIMEX3>, terlalu panas. 
+
+Dia nggak kuat lagi. 
+
+Itu yang menyebabkan pompa kurang, langsung kerendam protokol (jalan), ungkapnya. 
+
+Yang ketiga adalah genangan air terus bertambah karena adanya rob yang ketinggiannya mencapai 210 cm. 
+
+Namun, ia juga telah menginstruksikan Dinas Tata Air DKI untuk segera memperbaiki pompa penyedot air. 
+
+Servis. 
+
+Tapi, intinya rob mesti diberesin sama di utara. 
+
+Ini mesti pasang pompa besar, jelasnya. 
+
+pungkas Ahok. 
+
+(awa/jpnn) 
+</TEXT>
+
+</TimeML>

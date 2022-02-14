@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0304</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-06-05" temporalFunction="false" functionInDocument="CREATION_TIME">2017-06-05</TIMEX3></DCT>
+
+<TITLE>Penyakit Menular Intai Korban Banjir</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DURATION" value="PXD">Beberapa hari</TIMEX3> terakhir, sejumlah wilayah di Provinsi Gorontalo direndam banjir. 
+
+Ratusan kecamatan hingga ribuan rumah terendam di sejumlah kabupaten/kota. 
+
+Pasca banjir, masyarakat dihadapkan dengan ancaman penyakit menular. 
+
+Mulai penyakit kulit, hingga penyakit paru-paru. 
+
+Di Kota Gorontalo sendiri, Dinas Kesehatan telah melakukan pemantauan dan pemeriksaan kesehatan kepada warga. 
+
+Hasilnya kata Kadis dr. 
+
+Nur Albar Finasim, banyak masyarakat yang menderita penyakit menular, seperti gatal-gatal, demam tinggi bahkan paru-paru basah. 
+
+Dan upaya yang telah dilakukan Dikes Kota Gorontalo, memberkan penanganan secara medis dalam hal ini memberikan obat dan vitamin. 
+
+Terlebih bagi ibu hamil dan anak-anak serta balita, yang diketahui sangat rentan terkena penyakit. 
+
+Jika ini tidak ditangani secepatnya, maka dampaknya tidak baik bagi kesehatan masyarakat, ujar Nur Albar. 
+
+Selain itu pihaknya juga terus mengingatkan masyarakat korban banjir, untuk menjaga kesehatan mereka. 
+
+Minimal kaki mereka tidak terendam lama di dalam air. 
+
+Masyarakat bisa terserang penyakit kulit dan paru-paru basah. 
+
+Dan ia berharap, masyarakat bisa mencari tempat yang kering, serta dianjurkan jangan mengonsumsi air. 
+
+Khsusnya berasal dari sumur suntik, terangnya. 
+
+Pelayanan yang diberikan Dikes Kota Gorontalo sampai dengan <TIMEX3 tid="t2" type="DATE" value="2017-06-04">Minggu kemarin</TIMEX3>, yakni pelayanan mobile atau berkunjung ke lokasi bencana. 
+
+Pertama kami melakukan pelayanan langsung dan membuat pokso, serta pelayana mobile. 
+
+Memang saya sudah minta pada petugas untuk menyediakan obat lengkap di mobil. 
+
+Sehingga saat masyarakat butuh langsung dilayanani, dan sejauh ini banyak ratusan masyarakat sudah melakukan cek up kesehatan, tutur Nur Albar. 
+
+Ribuan Rumah di 16 Kelurahan TerendamSementara itu, dari data yang diperoleh sejak <TIMEX3 tid="t3" type="DATE" value="2017-06-02">Jumat</TIMEX3> hingga <TIMEX3 tid="t4" type="DATE" value="2017-06-03">Sabtu (3/6)</TIMEX3> akhir <TIMEX3 tid="t5" type="DATE" value="2017-W22">pekan kemarin</TIMEX3>, tercatat di Kota Gorontalo, ada 16 Kelurahan yang terdampak bencana banjir. 
+
+yakni Keluarahan Siendeng, Tenda dan Donggala di Kecamatan Hulonthalangi, Kelurahan Talumolo, Bugis dan Bitu di Kecamatan Dumbo Raya. 
+
+Dan Kelurahan Bulado, Pilolodaa juga Lekobalo di Kecamatan Kota Barat, Kelurahan Tuladenggi dan Tamulabutao di Kecamatan Dungingi. 
+
+Kemudian di Kecamatan Kota Selatan ada Kelurahan Limba B, Biawu, Biawao, selanjutnya Kelurahan Tapa di Kecamatan Sipatana, dan terakhir Kelurahan Padebuolo di Kecamatan Kota Timur. 
+
+Dari data yang dihimpun media ini melalui posko SMART City, pada awal kejadian bencana ini <TIMEX3 tid="t6" type="DATE" value="2017-06-02">Jumat kemarin</TIMEX3>, ada sekitar 8.350 jiwa yang menjadi korban dari total jumlah kepala keluarga (KK) sebanyak 3.193. 
+
+Sedangkan pada <TIMEX3 tid="t7" type="DATE" value="UNKNOWN">hari kedua</TIMEX3> Sabtu <TIMEX3 tid="t8" type="DATE" value="2017-W22">akhir pekan kemarin</TIMEX3>, menurun sampai 1.416 jiwa dari total jumlah KK sebanyak 420. 
+
+Kepala BPBD Kota Gorontalo Ir. 
+
+H. 
+
+Rustam Rahman menjelaskan, untuk Kecamatan Hulonthalngi pada hari pertama hingga <TIMEX3 tid="t9" type="DATE" value="2017-06-03">Sabtu kemarin</TIMEX3>, dominan menelan korban. 
+
+Dengan rincian Kelurahan Siendeng 2.667 jiwa, Tenda 1.904 jiwa dan Donggal 226 jiwa. 
+
+Sedangkan dari segi bantuan, Kepala Dinas Sosial (Dinsos) Kota Gorontalo Nixon Rahman menjelaskan, pada awal kejadian ada sebanyak <TIMEX3 tid="t10" type="DATE" value="2000">2000</TIMEX3> lebih makanan siap saji yang diberikan pada korban banjir. 
+
+Dan sampai dengan <TIMEX3 tid="t11" type="DATE" value="2017-06-03">Sabtu</TIMEX3> akhir <TIMEX3 tid="t12" type="DATE" value="2017-W22">pekan kemarin</TIMEX3> hingga <TIMEX3 tid="t13" type="DATE" value="2017-06-04">Minggu kemarin</TIMEX3>, sudah <TIMEX3 tid="t14" type="DATE" value="4000">sekitar 4000</TIMEX3> lebih yang disalurkan pada korban banjir. 
+
+(rg-62) 
+</TEXT>
+
+</TimeML>

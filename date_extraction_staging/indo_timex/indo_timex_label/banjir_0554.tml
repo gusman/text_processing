@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0554</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-14" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-14</TIMEX3></DCT>
+
+<TITLE>Bank Kalsel Cabang Amuntai Salurkan Bantuan Bencana Banjir</TITLE>
+
+<TEXT>
+Bencana banjir di <TIMEX3 tid="t1" type="DATE" value="2020-WI">musim penghujan ini</TIMEX3> juga melanda sejumlah wilayah di Kabupaten Hulu Sungai Utara (HSU). 
+
+Kondisi ini pun memantik kepedulian Bank Kalsel. 
+
+Melalui kantor cabangnya di Kota Amuntai, Bank Kalsel langsung turun tangan menyalurkan bantuan kepada korban banjir. 
+
+Bantuan dana yang digelontorkan sebesar Rp10 juta. 
+
+Kepala Bank Kalsel Cabang Amuntai, Pachriza Nor Asli berharap bantuan yang diberikan Bank Kalsel ini dapat meringankan beban masyarakat di HSU, khususnya yang terkena musibah banjir. 
+
+Semoga bantuan yang diberikan dapat dimanfaatkan para korban untuk membeli beragam kebutuhan yang mereka perlukan. 
+
+Ini juga agar mereka dapat beraktivitas normal kembali, kata Pachriza, <TIMEX3 tid="t2" type="DATE" value="2020-02-14">Jumat (14/02/2020)</TIMEX3>. 
+
+t luapan sungai yang ada di HSU bisa segera surut. 
+
+Ini tak lain agar warga bisa segera beraktivitas kembali seperti biasa. 
+
+Sementara itu, Wakil Bupati HSU, H Husairi Abdi Lc mengucapkan terima kasih kepada Bank Kalsel yang telah peduli terhadap korban banjir yang ada di HSU. 
+
+epedulian pihak ketiga dalam ikut membantu korban banjir di HSU, lanjutnya, sangat penting. 
+
+Karena pemkab HSU tidak bisa sendiri dalam menangani musibah banjir ini. 
+
+Semoga nantinya banyak perusahaan lainnya yang juga ikut memberikan bantuan kepada korban banjir yang ada di Kabupaten HSU, katanya. 
+
+Rel/IB 
+</TEXT>
+
+</TimeML>

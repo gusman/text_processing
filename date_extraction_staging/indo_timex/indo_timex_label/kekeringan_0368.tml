@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0368</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-24" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-24</TIMEX3></DCT>
+
+<TITLE>Data Sementara, 844 Jiwa Warga Jakarta Timur Kesulitan Air Bersih</TITLE>
+
+<TEXT>
+Sedikitnya 844 jiwa warga Jakarta Timur terdampak kekeringan dan harus bergantung kepada bantuan pasokan air dari pemerintah untuk memenuhi kebutuhan <TIMEX3 tid="t1" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+Kepala Pusat Data dan Informasi Badan Penanggulangan Bencana Daerah (BPBD), DKI Iwan Ibrahim mengatakan belum dapat memastikan jumlah jiwa yang karena masih pendataan. 
+
+Namun data sementara yang diterima BPBD DKI tercatat warga RT 02, 05, 08, 09, 11,14/RW 03 dan warga di RT 01, 02/RW 05 Kelurahan Bambu Apus sudah terdampak kekeringan. 
+
+" Di Kelurahan Bambu Apus ada 169 kepala keluarga (KK) dengan total 571 jiwa yang terdampak. 
+
+Di Kelurahan Dukuh tujuh KK warga dengan total 28 jiwa warga RT 12/RW 04 terdampak, " kata Iwan saat dikonfirmasi, <TIMEX3 tid="t2" type="DATE" value="2019-10-24">Kamis (24/10/2019)</TIMEX3>. 
+
+Dibanding warga Kelurahan Bambu Apus, warga Kelurahan Dukuh, Kecamatan Kramat Jati lebih dulu meminta bantuan kepada pemerintah. 
+
+Sejak <TIMEX3 tid="t3" type="DATE" value="2019-10-07">Senin (7/10/2019)</TIMEX3> warga RW 04 sudah menerima bantuan 14.000 liter air bersih dari pengiriman dua tangki air dari PAM dan pihak lainnya. 
+
+" Selanjutnya <TIMEX3 tid="t4" type="DATE" value="2019-10-16">tanggal 16 Oktober</TIMEX3> warga mendapat bantuan 5.000 liter air bersih dari pengiriman satu truk tangki air. 
+
+Untuk wilayah lainnya kami masih akan konfirmasi ke Kelurahan lain, " ujarnya.Lurah Cilangkap Nasir Sugiar mengatakan 90 kepala keluarga (KK) dengan total 245 jiwa yang terdampak kekeringan dan butuh bantuan air bersih.Sejak <TIMEX3 tid="t5" type="DATE" value="2019-10-22">Selasa (22/10/2019)</TIMEX3>, warganya di RT 02, RT 05, RT 06, dan RT 07 mendapat suplai bantuan air bersih dari jajaran Sudin PKP Jakarta Timur. 
+
+. 
+
+<TIMEX3 tid="t6" type="DATE" value="2019-10-22">Hari Selasa</TIMEX3> dapat bantuan air bersih 2.500 liter, dan <TIMEX3 tid="t7" type="DATE" value="2019-10-23">hari Rabu</TIMEX3> dapat bantuan 4.000 liter dari pemadam, " tutur Nasir.Bila ditotal, jumlah warga Jakarta Timur dari tiga Kelurahan yang mengalami kesulitan air bersih tercatat sebanyak 844 jiwa.TribunJakarta.com telah berupaya mengonfirmasi jumlah warga yang terdampak kekeringan kepada Wali Kota Jakarta Timur M. 
+
+Anwar dan Wakil Wali Kota Jakarta Timur Uus Kuswanto.Namun hingga berita ditulis upaya konfirmasi yang dilakukan kepada dua pimpinan Kota Jakarta Timur urung membuahkan hasil. 
+</TEXT>
+
+</TimeML>

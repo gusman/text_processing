@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0897</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-02-17" temporalFunction="false" functionInDocument="CREATION_TIME">2016-02-17</TIMEX3></DCT>
+
+<TITLE>Jalan Lintas Pegunungan Tengah Kembali Normal</TITLE>
+
+<TEXT>
+Ruas jalan menuju pegunungan tengah Papua khususnya yang melewati Tolikara, sejak <TIMEX3 tid="t1" type="TIME" value="2016-02-15TNI">Senin (15/2) malam</TIMEX3> kembali normal, setelah dilakukan perbaikan pada ruas KM 75 atau titik 71.500. 
+
+Kepala Balai Jalan Nasional Papua Oesman Harianto Marbun kepada Antara di Jayapura, <TIMEX3 tid="t2" type="DATE" value="2016-02-17">Rabu (17/2/2016)</TIMEX3> mengakui, <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> ruas jalan yang menjadi penghubung hingga ke Kabupaten Puncak Jaya memang sempat terputus akibat terjadi longsor di badan jalan. 
+
+Hujan deras yang melanda kawasan itu menyebabkan badan jalan yang menghubungkan Wamena-Tolikara longsor. 
+
+Namun setelah dilakukan perbaikan dengan mengalihkan jalan melewati bagian bawah badan jalan yang mengalami longsor maka <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3> sudah dapat dilalui walaupun hanya dapat dilewati satu arah secara bergantian. 
+
+Yang terpenting jalan tersebut sudah dapat dilewati karena ruas jalan tersebut merupakan jalan penghubung hingga ke Kabupaten Puncak Jaya, jelas Oesman Marbun. 
+
+Menurutnya, untuk mengerjakan ruas jalan yang badan jalannya longsor itu pihaknya mengerahkan masyarakat dan TNI untuk membantu mengerjakannya mengingat jalan tersebut merupakan satu satunya jalan menuju dua kabupaten lainnya di pegunungan tengah. 
+
+Bila tidak segera ditangani maka dikhawatirkan akan berdampak bagi persediaan sembako baik itu untuk Kabupaten Tolikara, Puncak maupun Kabupaten Puncak Jaya, karena <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> berbagai kebutuhan dibawa dengan menggunakan jalan darat. 
+
+Lebih murah mengangkut dengan menggunakan kendaraan roda empat dibanding pesawat yang harganya mahal juga daya angkut terbatas, kata Oesman Marbun. 
+
+Wamena-Tolikara dalam kondisi normal dapat ditempuh <TIMEX3 tid="t6" type="DURATION" value="PT4H">sekitar empat jam</TIMEX3> perjalanan, sedangkan Wamena-Puncak Jaya <TIMEX3 tid="t7" type="DURATION" value="PT10H">sekitar 10 jam</TIMEX3>. 
+
+
+</TEXT>
+
+</TimeML>

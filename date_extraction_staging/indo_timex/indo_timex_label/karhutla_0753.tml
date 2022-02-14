@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0753</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-03</TIMEX3></DCT>
+
+<TITLE>(VIDEO) Bukit Teletubbies Gunung Bromo Terbakar, Puluhan Hektare Lahan Hangus</TITLE>
+
+<TEXT>
+Kebakaran hutan melanda kawasan Taman Nasional Bromo Tengger Semeru (TNBTS) Jawa Timur, tepatnya di Blok Plentongan, Resort Tengger Laut Pasir, <TIMEX3 tid="t1" type="DATE" value="2018-09-01">Sabtu (01/09/2018)</TIMEX3>. 
+
+Dilansir Tribun-Video. 
+
+com dari Kompas. 
+
+com, padang rumput atau sabana di Gunung Bromo, yang juga dikenal sebagai 'Bukit Teletubbies', terbakar sejak <TIMEX3 tid="t2" type="TIME" value="2018-09-02T09:45">pukul 09.45 WIB</TIMEX3>. 
+
+Menurut keterangan Kepala TNBTS John Kennedie, luas kawasan yang dilahap api mencapai puluhan hektar. 
+
+" Diperkirakan kawasan yang terbakar seluas 65 hektar, " kata John melalui keterangan tertulis kepada Kompas. 
+
+com, <TIMEX3 tid="t3" type="TIME" value="2018-09-02TNI">Minggu (2/9/2018) malam</TIMEX3>. 
+
+Berdasarkan keterangan darinya, lokasi kebakaran berada pada elevasi 45 hingga 60 derajat.Dari kebakaran tersebut, 85 persen lahan yang hangus adalah sabana dengan ketebalan 85-150 cm.Sebanyak 15 petugas TNBTS kemudian melakukan pemadaman awal dan disusul Polsek Poncokusumo serta warga.Diketahui, di lokasi kebakaran itu tumbuh alang-alang dan terdapat serasah cemara kering.Saat ini John menyatakan pihaknya masih menyelidiki penyebab kebakaran. " Penyebab kebakaran masih dalam proses penyelidikan, " katanya. 
+
+// Kabar soal kebakaran ini disoroti publik di media sosial. 
+
+Satu di antaranya diunggah pengguna akun Facebook Rizky Alfitra Salam. 
+
+" Savana bromo terbakar. 
+
+Hati. 
+
+. 
+
+hati jika berkunjung ke bromo, <TIMEX3 tid="t4" type="DATE" value="2018-SU">musim kemarau</TIMEX3> rawan kebakaran, " tulisnya sebagai keterangan video yang diunggah. 
+
+Akun Twitter Badan Penanggulangan Bencana Daerah Kabupaten Malang juga telah mengunggah sejumlah foto saat pemadaman. 
+
+" Tim BPBD kabupaten malang membantu dalam penanganan kebakaran di savana/bukit teletubies gunung bromo, " cuit bpbdkabmalang, <TIMEX3 tid="t5" type="DATE" value="2018-09-02">Minggu (2/9/2018)</TIMEX3> dini hari. 
+
+Simak video di atas. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_1113</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-05-13" temporalFunction="false" functionInDocument="CREATION_TIME">2017-05-13</TIMEX3></DCT>
+
+<TITLE>Longsor di Sijunjung, Jalan di Nagari Pulasan Terputus 10 Jam</TITLE>
+
+<TEXT>
+Hujan deras yang mengguyur wilayah Sijunjung dan sekitarnya pada <TIMEX3 tid="t1" type="TIME" value="2017-05-12TNI">Jumat (12/5) malam</TIMEX3> menyebabkan sejumlah ruas jalan di Kabupaten tersebut, salah satunya di Nagari Pulasan tertimbun material longsor dan menyebabkan jalan tersebut tidak dapat diakses hingga <TIMEX3 tid="t2" type="DURATION" value="PT10H">sepuluh jam</TIMEX3>. 
+
+Disebutkan, butuh waktu sepuluh jam untuk menerobos material longsor. 
+
+Segala sumber daya dikerahkan agar jalan tersebut dapat di akses. 
+
+Selain menimbun jalan, sebuah rumah disebutkan juga tertimbun longsor. 
+
+Selain jalan juga ada satu buah rumah warga tertimbun longsor, sebut Hardiwan. 
+
+Jalan longsor di tujuh titik membuat akses dari dan ke Pulasan terputus hingga <TIMEX3 tid="t3" type="DURATION" value="PT10H">10 jam</TIMEX3>. 
+
+Baru <TIMEX3 tid="t4" type="TIME" value="2017-05-12TAF">siang</TIMEX3> jalan itu bisa dilewati. 
+
+Saptarius 
+</TEXT>
+
+</TimeML>

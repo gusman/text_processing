@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0208</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-24</TIMEX3></DCT>
+
+<TITLE>Kisah Willy yang Digulung Ombak ke Lautan, 3 Jam Terombang-ambing dan Sempat Tolong 2 Bocah</TITLE>
+
+<TEXT>
+Willy Siska, seorang korban selamat dari bencana tsunami di Banten menceritakan detik-detik kengerian saat musibah itu terjadi. 
+
+Willy Siska adalah warga Cipinang Lontar RT <TIMEX3 tid="t1" type="DATE" value="2018-09-01">01/09</TIMEX3> Pulogadung, Jakarta Timur yang saat tsunami terjadi, tubuhnya digulung gelombang tsunami. 
+
+Meski selamat, Willy Siska tetap dirundung duka karena istri dan kedua anaknya meninggal akibat peristiwa tersebut. 
+
+Menurut Willy, <TIMEX3 tid="t2" type="DATE" value="PAST_REF">saat itu</TIMEX3> ia sedang mengikuti acara gathering PLN di Pantai Tanjung Lesung dengan grup band Seventeen sebagai pengisi acaranya. 
+
+Saat Seventeen menyanyikan lagu keduanya, ketika itulah gelombang tsunami menerjang dan memporak-porandakan panggung serta orang-orang yang berada di sekitarnya. 
+
+Beberapa di antaranya terseret ke laut. 
+
+Ketika gelombang tsunami menerjang pesisir pantai, Willy mengaku tak mendengar adanya tanda-tanda sebelumnya. 
+
+Seperti gempa atau tanda yang lainnya. 
+
+Jadi tsunami itu datangnya dari arah kiri, makanya sebagian temen-temen kita termasuk saya dan istri saya terseret ke laut, sedangkan anak saya terseret ke daratan " kata Willy. 
+
+Willy pun terpisah dari anak dan istrinya. 
+
+// <TIMEX3 tid="t3" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, Willy yang telah terseret ke laut mencoba untuk berenang ke pesisir pantai. 
+
+Namun ternyata gelombang tsunami kembali terjadi hingga ia terseret sejauh 2 kilometer dari tepi pantai. 
+
+Menurut Willy, di lautan ia melihat beberapa kelompok orang berupaya menyelamatkan diri dengan mengapung menggunakan kotak crew dari personel band. 
+
+<TIMEX3 tid="t4" type="DATE" value="PAST_REF">Saat itu</TIMEX3> suasana mencekam dan gelap, beberapa orang mencoba untuk menggapai kotak kayu tersebut untuk mengapung. 
+
+" Saya <TIMEX3 tid="t5" type="DATE" value="UNKNOWN">waktu itu</TIMEX3> pasrah aja mungkin ajal saya sudah sampai di sini tapi tetap saya berusaha untuk naik ke permukaan tapi datang lagi ombak besar dihantam lagi kita, tenggelam. 
+
+Kita terseret lagi dan berusaha muncul lagi mungkin sekitar 2 kilometer dari pesisir pantai. 
+
+<TIMEX3 tid="t6" type="DATE" value="UNKNOWN">Waktu itu</TIMEX3> kita berkelompok termasuk salah satunya crew Seventeen itu, tapi saya lupa siapa, " katanya. 
+
+Willy pun terus berusaha untuk tenang dan berenang ke tepi pantai. 
+
+Ketika ia bergabung dengan dua kelompok yang tengah terapung di laut dengan alat bantu kotak ayu, Willy melihat dua anak kecil yang juga terapung dengan memegangi papan kayu. 
+
+Willy pun tergugah untuk menyelamatkan dua anak tersebut. 
+
+" <TIMEX3 tid="t7" type="DATE" value="PAST_REF">Saat itu</TIMEX3> dari belakang ada dua anak kecil tengah mengapung memegangi kayu, saya langsung pindah dan menyelamatkan dia. 
+
+Saya ke arah selatan meninggalkan dua kelompok tadi yang terapung ke utara dan saya ngak tahu apakah yang di kotak itu selamat atau tidak. 
+
+Kami pun berusaha. 
+
+Setelah <TIMEX3 tid="t8" type="DURATION" value="PT3H">hampir tiga jam</TIMEX3> berenang di lautan untuk menuju pantai dan kembali diterjang ombak, Willy dan dua anak yang diselamatkan tadi akhirnya berhasil selamat sampai di pesisir pantai. 
+
+// <TIMEX3 tid="t9" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, kondisi pantai sudah cukup mencekam, beberapa pohon juga roboh. 
+
+" <TIMEX3 tid="t10" type="DURATION" value="PT3H">Hampir tiga jam</TIMEX3> berenang tapi nggak berasa capek. 
+
+Mungkin ini kehendak Allah belum saatnya termasuk dua anak kecil tadi yang akhirnya dapat selamat di pesisir pantai tadi, " ujarnya. 
+
+Seperti yang diberitakan sebelumnya, gelombang tsunami menerjang pantai-pantai di area Selat Sunda pada <TIMEX3 tid="t11" type="TIME" value="2018-12-22TNI">Sabtu (22/12/2018) malam</TIMEX3>. 
+
+Dilansir dari cuitan Sutopo di kaun Twitternya Sutopo_PN, hingga <TIMEX3 tid="t12" type="TIME" value="2018-12-24T07:00">Senin (24/12/2018) pukul 07.00 WIB</TIMEX3>, tercatat 281 orang tewas, 1.016 orang luka-luka, 57 orang hilang dan lebih dari 11 ribu orang mengungsi. 
+
+Sementara itu untuk kerusakan fisik Humas BNPB itu mencatat sebanyak 611 unit rumah rusak, 69 bangunan hotel dan vila rusak, 60 warung toko rusak dan sebanyak 420 perahu juga rusak. 
+
+Hingga <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">kini</TIMEX3>, PLN terus melakukan perbaikan jaringan listrik yang padam akibat tsunami di daerah terdampak. 
+
+PLN terus melakukan perbaikan jaringan listrik yang padam akibat tsunami di daerah terdampak. 
+
+Petugas PLN masih melakukan perbaikan listrik di daerah Pantai Batu Hideung Desa Tanjung Jaya, jalur menuju Kecamatan Sumur Pandeglang. 
+
+Seperti Pantai Batu Hideung Desa Tanjung Jaya, jalur menuju Kecamatan Sumur Pandeglang. 
+</TEXT>
+
+</TimeML>

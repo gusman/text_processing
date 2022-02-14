@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0201</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-05-03" temporalFunction="false" functionInDocument="CREATION_TIME">2017-05-03</TIMEX3></DCT>
+
+<TITLE>NEWSVIDEO.
+
+Tinjau Korban Puting Beliung.
+
+Nurdin Minta Segera Kirimkan Bahan Bangunan</TITLE>
+
+<TEXT>
+Gubernur Kepri H Nurdin Basirun meninjau korban bencana angin puting beliung di Tanjungriau, Batam, <TIMEX3 tid="t1" type="DATE" value="2017-05-03">Rabu (3/5/2017)</TIMEX3>. 
+
+Setelah melihat seluruh rumah dan berdialog dengan para korban, Nurdin langsung memerintahkan stafnya untuk mengirim kebutuhan material bangunan untuk korban. 
+
+" Mulai dari seng, seng, kayu, paku dan lainnya. 
+
+Biar masyarakat cepat tidur di rumahnya, kata Nurdin. 
+
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, beberapa kebutuhan material bahan bangunan dari donatur memang sudah terlihat di lokasi, tetapi jumlahnya jauh mencukupi. 
+
+Serangan angin puting beliun itu merusak 24 rumah warga, sembilan di antaranya rusak parah. 
+
+Bahkan, empat rumah hancur-lebur. 
+
+Nurdin bahkan menghitung langsung kebutuhan setiap rumah. 
+
+" Rumah ini perlu empat kodi seng. 
+
+Antar segera, " kata Nurdin kepada stafnya. 
+
+Nurdin memang hanya memberi bantuan material.Dia berharap masyarakat bergotong royong ikut membangun rumah-rumah penduduk yang terkena puting beliung. " Kita gotong-royong bersama-sama. 
+
+Harus kuta bangun kebersamaan, " kata Nurdin.Nurdin juga meminta penataan kawasan pelantar di Tanjungriau.Dalam <TIMEX3 tid="t3" type="DATE" value="2017-05-10">pekan depan</TIMEX3>, Nurdin memerintahkan Dinas Pekerjaan Umum untuk mempelajari pelantar tersebut. 
+</TEXT>
+
+</TimeML>

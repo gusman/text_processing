@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0449</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-11-17" temporalFunction="false" functionInDocument="CREATION_TIME">2017-11-17</TIMEX3></DCT>
+
+<TITLE>Hujan Ekstrem Picu Longsor dan Rumah Ambruk di Cilacap</TITLE>
+
+<TEXT>
+Terjadi longsor di beberapa wilayah di Cilacap setelah hujan lebat <TIMEX3 tid="t1" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir. 
+
+Di dusun Banjarwaru Desa Sindangbarang, Karangpucung, longsor tebing setinggi 5 meter menimpa dapur rumah milik Sutirah, warga Rt 01 Rw 09 Dusun Banjarwaru hingga mengalami kerusakan. 
+
+Sementara tiga rumah lainnya milik Tarmono di Rt 01 Rw 02, Sukamto di Rt 01 Rw 01, serta Wasimin di Rt 1 Rw 10 Desa Sindangbarang terancam longsor. 
+
+Selain memicu pergerakan tanah, hujan berintensitas tinggi di wilayah itu juga menyebabkan dua rumah di desa tersebut ambruk. 
+
+Pemilik rumah mengalami kerugian puluhan juta rupiah karena tempat tinggal mereka roboh. 
+
+Para penghuni rumah <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">kini</TIMEX3> harus mengungsi ke rumah famili terdekat karena tak punya tempat tinggal. 
+
+" Petugas dan warga <TIMEX3 tid="t3" type="DATE" value="2017-11-17">hari ini</TIMEX3> bersihkan puing-puing rumah yang ambruk. 
+
+Sementara korban sudah mengungsi, " kata Petugas Pusat Pengendali Operasi Penanganan Bencana (Pusdalops) BPBD Cilacap Budiyono, <TIMEX3 tid="t4" type="DATE" value="2017-11-17">Jumat (17/11)</TIMEX3>. 
+
+Sebelumnya, <TIMEX3 tid="t5" type="TIME" value="2017-11-14TNI">Selasa malam</TIMEX3> (14/11), peristiwa longsor juga melanda wilayah Desa Panulisan Timur Kecamatan Dayeuhluhur usai diguyur hujan lebat. 
+
+Di Dusun Neglasari Rt 03 Rw 07 desa Panulisan Timur, longsor terjadi di dua titik. 
+
+Pada titik pertama, longsor tebing setinggi 8 meter sempat menimbun badan jalan desa dengan ketebalan 1,5 meter. 
+
+// Di titik lain, longsor tebing di wilayah dusun itu sampai menimpa bagian samping rumah milik Kusmono hingga menyebabkan dinding kalsiboard ambrol. 
+
+Pergerakan tanah juga terjadi di dusun lain desa yang sama. 
+
+<TIMEX3 tid="t6" type="DATE" value="2017-11-14">Selasa</TIMEX3> tengah <TIMEX3 tid="t7" type="TIME" value="2017-11-16TNI">malam</TIMEX3> (14/11), pergerakan tanah terjadi di Dusun Cirungkun desa Panulisan Timur. 
+
+Di wilayah dusun tersebut, panjang retakan pada mahkota longsor berkisar 100 meter dengan lebar rekahan 3 hingga 7 cm. 
+
+Area retakan pun cukup luas, sekitar 15 hektar di areal perkebunan hingga pemukiman dengan sudut kemiringan tanah rata-rata 45 derajat. 
+
+Akibat pergerakan tanah itu, sebanyak 21 rumah di Rt 1 Rw 4, Rt 2 Rw 5, dan Rt 3 Rw 5, terancam. 
+
+Rumah milik Ujang Tarsam yang dihuni dua Kepala Keluarga (KK) di Rt 1 Rw 4 bahkan mengalami rusak berat karena tanah bergerak. 
+
+Rumah itu pun akhirnya dibongkar untuk keselamatan penghuninya. 
+
+Warga diimbau bekerja bakti untuk menutup rekahan tanah serta memasang alat pantau pergerakan tanah secara sederhana. 
+
+" Warga yang rumahnya terdampak atau terancam dimohon meningkatkan kewaspadaan dan mengadakan kerja bakti untuk menutup retakan, " katanya (*) 
+</TEXT>
+
+</TimeML>

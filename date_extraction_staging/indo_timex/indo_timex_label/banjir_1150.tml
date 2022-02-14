@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_1150</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-05-10" temporalFunction="false" functionInDocument="CREATION_TIME">2015-05-10</TIMEX3></DCT>
+
+<TITLE>Kerugian Banjir Suliki Tembus Rp3 Miliar</TITLE>
+
+<TEXT>
+Bencana banjir bandang alias galodo yang menerjang 3 kampung bertetangga di Jorong Mudiak Liki, Nagari Kurai, Kecamatan Suliki, Kabupaten Limapuluh Kota, <TIMEX3 tid="t1" type="DATE" value="2015-05-07">Kamis (7/5) lalu</TIMEX3>, mengakibatkan kerugian material mencapai Rp3 miliar. 
+
+Kerugiannya lebih kurang Rp2,5 miliar sampai Rp3 miliar, sebut Kabid Kedaruratan di Badan Penanggulangan Bencana Daerah (BPBD) Limapuluh Kota, Edi kepada Singgalang <TIMEX3 tid="t2" type="TIME" value="2014-05-10TAF">Minggu (10/5) sore</TIMEX3>. 
+
+Tapi, data pastinya baru kami hitung <TIMEX3 tid="t3" type="TIME" value="UNKNOWN">nanti malam</TIMEX3>, sambung dia. 
+
+Menurut Edi, kerugian material paling besar, selain akibat kerusakan belasan unit bangunan warga, hanyut dan rusaknya 5 unit jembatan, juga dipicu karena gagal panen masyarakat. 
+
+Ada 300-an areal pertanian warga yang rusak dihantam banjir bandang. 
+
+Selain tanaman sawah, juga kebun, imbuhnya. 
+
+Hingga <TIMEX3 tid="t4" type="DATE" value="2015-05-09">kemarin</TIMEX3>, korban pemilik bangunan yang rusak akibat terjangan material galodo berupa kayu-kayu dan bebatuan, masih mengungsi ke rumah tetangga dan sanak famili. 
+
+Ada 4 KK yang rumahnya benar-benar tak bisa dihuni, itu masih mengungsi, pungkas Edi. 
+
+(bayu) 
+</TEXT>
+
+</TimeML>

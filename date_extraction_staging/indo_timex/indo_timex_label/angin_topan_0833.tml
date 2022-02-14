@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0833</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-02-12" temporalFunction="false" functionInDocument="CREATION_TIME">2018-02-12</TIMEX3></DCT>
+
+<TITLE>Pemkab Lampung Timur Salurkan Bantuan Korban Puting Beliung</TITLE>
+
+<TEXT>
+Korban musibah angin puting beliung di Lampung Timur, <TIMEX3 tid="t1" type="TIME" value="2018-02-05TAF">Senin siang</TIMEX3> (12/02/2018) mendapatkan bantuan berupa makanan siap saji/selimut dan bahan makanan dari pemerintah setempat. 
+
+Bantuan disalurkan langsung Kepala Badan Penanggulangan Bencana Daerah Lampung Timur Tri Pranoto kepada korban Budiono yang rumahnya rusak berat akibat tertimpa pohon tumbang. 
+
+Dalam musibah angin puting beliung ini terdapat tiga rumah rusak. 
+
+Satu rumah rusak berat milik Budiono tertimpa pohon kelapa. 
+
+Sedangkan Budiono dan keluarganya mengalami luka- luka masih menjalani perawatan di puskesmas setempat. 
+
+Sementara satu orang Ahmad Riskin warga Desa Nibung, Kecamatan Gunung Pelindung meninggal dunia akibat tersambar petir. 
+
+Kepala BPBD Lampung Timur Tri Pranoto meminta warga mewaspadai peristiwa serupa, karena potensinya masih terjadi. 
+
+Sebab kawasan Lampung Timur merupakan daerah rawan bencana angin puting beliung. 
+
+Sesuai perkiraan BMKG cuaca ekstrem disertai angin kencang, hujan lebat disertai petir masih akan terjadi untuk <TIMEX3 tid="t2" type="DURATION" value="PXW">beberapa pekan</TIMEX3> kedepan. 
+
+Masyarakat juga diminta segera melakukan pemotongan pohon besar yang tumbuh sekitar pemukiman. 
+
+Sebab pohon besar, sangat membahayakan keselamatan warga saat angin kencang terjadi. 
+
+(sms) 
+</TEXT>
+
+</TimeML>

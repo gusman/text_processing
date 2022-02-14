@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0948</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-08-25" temporalFunction="false" functionInDocument="CREATION_TIME">2018-08-25</TIMEX3></DCT>
+
+<TITLE>VIDEO: Wali Kota Dumai Ajak Semua Elemen Masyarakat Himpun Donasi bagi korban Gempa di Lombok</TITLE>
+
+<TEXT>
+Wali Kota Dumai, Zulkifli AS mengajak masyarakat untuk mendonasikan bantuan bagi korban gempa Lombok. 
+
+Ia mengajak memberi donasi sebagai kepedulian terhadap korban gempa di sana. 
+
+Zul AS mengajak bisa donasikan dana untuk korban gempa. 
+
+Wali Kota Dumai mengajak aksi donasi ini melalui seluruh komponen masyarakat. 
+
+Ia berencana melibatkan sarana rumah ibadah untuk menghimpun donasi bagi korban gempa Lombok. 
+
+
+</TEXT>
+
+</TimeML>

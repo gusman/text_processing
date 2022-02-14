@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1126</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-07-03" temporalFunction="false" functionInDocument="CREATION_TIME">2016-07-03</TIMEX3></DCT>
+
+<TITLE>288 Hotspot Karhutla Terpantau Satelit Modis Nasa, Termasuk Riau dan Sumbar</TITLE>
+
+<TEXT>
+Libur panjang menjelang lebaran ternyata diikuti dengan meningkatnya jumlah titik panas (hotspot) kebakaran hutan dan lahan (karhutla). 
+
+Berdasarkan pantauan Lapan dari satelit Modis dengan sensor Terra Aqua dari NASA, terdeteksi ada 288 hotspot dengan tingkat kepercayaan sedang (30-79) dan tinggi (lebih dari 80) pada <TIMEX3 tid="t1" type="TIME" value="2016-07-03T06:00">Minggu (3/7/2016) pukul 06.00 WIB</TIMEX3>. 
+
+Dari 288 hotspot tersebut 245 hotspot di Sumatera dan 43 hotspot di Kalimantan. 
+
+Sebagian besar hotspot tersebut disengaja atau dibakar. 
+
+Pada tingkat kepercayaan sedang (lebih dari 30) di Sumatera terdapat 245 hotspot dengan sebaran Aceh 29, Sumatera Utara 112, Sumbar 47, Riau 26, Bengkulu 15, Jambi 10, Lampung 2, dan Sumsel 4. 
+
+Di Riau hotspot terdapat di Kampar 1, Pelalawan 2, Rohil 8, Dumai 1, Kuansing 1 dan Inhu 1. 
+
+Upaya pemadaman karhutla terus dilakukan oleh Satgas Terpadu Siaga Karhutla di Riau. 
+
+BNPB menempatkan 2 helikopter water bombing jenis MI-8 dan MI-171, serta 2 pesawat Air Tractor water bombing. 
+
+<TIMEX3 tid="t2" type="SET" value="P1D">Setiap hari</TIMEX3> heli dan pesawat tersebut memadamkan api dari udara. 
+
+Sementara itu satgas darat dari TNI, Polri, Manggala Agni, Damkar, BPBD, Masyarakat Peduli Api dan karyawan perusahaan memadamkan api dari darat. 
+
+Indeks Standar Pencemaran Udara di Lido Kab Rokan Hilir pada level sedanf hingga tidak sehat. 
+
+Kepulan asap banyak ditemukan di Kec Pasir Limau Kapas Kab Rohil yang dilakukan oleh warga dari luar Rohil. 
+
+Sementara itu pemadaman karhutla di Desa Sungai Solok Kec Kuala Kampar Kab Kampar masih dilakukan petugas. 
+
+Luas lahan terbakar 9 hektar. 
+
+Di Desa Kapau Kec Kerumutan terbakar 1,5 hektar. 
+
+Petugas masih terus memadamkan api Taman Nasional Tesso Nelo, Desa Sungai Solok Kec Kuala Kampar di Kabupaten Pelalawan Provinsi Riau. 
+
+Di wilayah Kab Lima Puluh Koto Prov Sumbar lokasi terbakar sulit dijangkau dan sudah terbakar <TIMEX3 tid="t3" type="DURATION" value="P2D">2 hari</TIMEX3>. 
+
+(rls) 
+</TEXT>
+
+</TimeML>

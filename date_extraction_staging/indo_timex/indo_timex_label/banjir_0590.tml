@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0590</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-03-19" temporalFunction="false" functionInDocument="CREATION_TIME">2017-03-19</TIMEX3></DCT>
+
+<TITLE>Petugas BPBD Meniti Batang Kayu Antarkan Bantuan untuk Lebih 100 KK Korban Banjir</TITLE>
+
+<TEXT>
+Sebanyak 192 Kepala Keluarga atau KK yang menjadi korban banjir di dua desa, mendapatkan bantuan sembako logistik dari BPBD Kabupaten Kapuas Kalteng. 
+
+Dua desa itu yakni Desa Tumbang Bukoi berjumlah 90 KK dan Desa Jakatan Masaha sebanyak 102 KK. 
+
+Keduanya berada di Wilayah Kecamatan Mandau Telawang, Kabupaten Kapuas Kalteng. 
+
+Untuk penyerahan bantuan dilaksanakan <TIMEX3 tid="t1" type="DATE" value="2017-03-18">Sabtu (18/3/2017)</TIMEX3>. 
+
+Untuk membawa logistik menuju ke lokasi ada yang melalui jalan darat dan ada juga melalui jalur DAS Kapuas dengan memakan waktu lebih <TIMEX3 tid="t2" type="DURATION" value="PT4H">4 jam</TIMEX3>. 
+
+Mereka juga meniti batang kayu log untuk naik ke daratan. 
+
+Plt Kepala BPBD P Sinaga, <TIMEX3 tid="t3" type="DATE" value="2017-03-19">Minggu (19/3/2017)</TIMEX3> membenarkan pihaknya telah menyerahkan bantuan logistik ke dua desa yang mengalami banjir <TIMEX3 tid="t4" type="DATE" value="PXD">beberapa hari lalu</TIMEX3>. 
+
+Jumlah logistik yang diserahkan sesuai dengan jumlah korban per kepala keluarga. 
+
+Menurutnya, penyaluran bantuan logistik ini bersumber dari APBD Kabupaten Kapuas. 
+
+(*) 
+</TEXT>
+
+</TimeML>

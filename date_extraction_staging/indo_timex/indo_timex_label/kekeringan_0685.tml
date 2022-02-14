@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0685</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-11-02" temporalFunction="false" functionInDocument="CREATION_TIME">2015-11-02</TIMEX3></DCT>
+
+<TITLE>Ya Allah, Warga Desa ini Minum Air Kubangan Selama Kemarau Panjang</TITLE>
+
+<TEXT>
+Dampak kemarau panjang sangat dirasakan masyarakat di Kabupaten Nganjuk, Jawa Timur. 
+
+Malahan ada 13 desa yang harus mendapatkan pasokan air bersih karena sumber air sudah mengering. 
+
+" Desa-desa yang butuh droping air bersih <TIMEX3 tid="t1" type="SET" value="P1D">setiap hari</TIMEX3> mencapai 13 desa. 
+
+Malahan ada desa <TIMEX3 tid="t2" type="SET" value="P1D">setiap hari</TIMEX3> butuh droping 5 tangki, " ungkap Sukonyono, Kepala Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Nganjuk kepada Surya, <TIMEX3 tid="t3" type="DATE" value="2015-11-02">Senin (2/11/2015)</TIMEX3>. 
+
+Dijelaskan, desa yang membutuhkan droping air bersih tersebar di Kecamatan Ngluyu, Ngetos dan Lengkong. 
+
+" Kalau masyarakat yang terdampak kekeringan jumlahnya banyak <TIMEX3 tid="t4" type="SET" value="P1D">setiap hari</TIMEX3> kami droping 5 tangki air, " jelasnya. 
+
+Jika warga yang terdampak sedikit, biasanya hanya mendapat kiriman 1 - 2 tangki air. 
+
+" Droping air diberikan karena ada permintaan dari kepala desa, " jelasnya. 
+
+Sukonyono menghimbau warga yang terdampak kekeringan supaya meminta kepala desanya mengajukan permintaan droping air bersih kepada Bupati Nganjuk. " Sejauh ini baru 13 desa yang secara resmi sudah mengajukan droping air, " jelasnya.Jika <TIMEX3 tid="t5" type="DATE" value="2014-WI">musim hujan</TIMEX3> tidak segera tiba, diperkirakan bakal bertambah lagi desa-desa yang kesulitan mendapatkan air bersih. " Sebagian besar sumber air sudah banyak yang mengering, " tambahnya.Sementara warga desa di Kecamatan Ngetos mulai memanfaatkan kubangan air untuk kebutuhan <TIMEX3 tid="t6" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+Kubangan air ini berasal dari aliran air di sungai yang dibendung.Warga terdampak kekeringan ini memanfaatkan air dari kubangan untuk kebutuhan <TIMEX3 tid="t7" type="SET" value="P1D">setiap hari</TIMEX3>. 
+
+Masalahnya sudah tidak ada lagi sumber air yang dapat dimanfaatkan.Aliran air dari Sungai Kucir ini dipergunakan keperluan <TIMEX3 tid="t8" type="SET" value="P1D">setiap hari</TIMEX3> mulai memasak, mencuci dan mandi. 
+
+Namun sebelum dipergunakan memasak, warga terlebih <TIMEX3 tid="t9" type="DATE" value="PAST_REF">dahulu</TIMEX3> mengendapkan <TIMEX3 tid="t10" type="DURATION" value="2015-11-01TNI">semalam</TIMEX3>.Warga berharap mendapatkan droping air bersih dari Pemkab Nganjuk. 
+</TEXT>
+
+</TimeML>

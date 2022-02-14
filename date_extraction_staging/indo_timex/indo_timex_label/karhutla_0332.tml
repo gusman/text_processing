@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0332</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-09-01" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-01</TIMEX3></DCT>
+
+<TITLE>BREAKING NEWS: Bara Api Sebabkan Hutan Gunung Burangrang Terbakar</TITLE>
+
+<TEXT>
+Lahan hutan seluas kurang lebih tiga hektare di Gunung Burangrang terbakar sejak <TIMEX3 tid="t1" type="TIME" value="2015-08-29TNI">Sabtu (29/8) malam</TIMEX3> hingga <TIMEX3 tid="t2" type="DATE" value="2014-09-02">Selasa (2/9)</TIMEX3>. 
+
+" Kebakaran hutan ada di dua titik di Blok Ciherang dan Cijalu, yang Cijalu sudah padam tinggal Blok Ciherang sampai <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> masih dilakukan pemadaman, " ujar Aep Priatna selaku Kabid Konservasi Sumber Daya Alam (KSDA) Wilayah II pada BKSDA Jabar, melalui ponselnya <TIMEX3 tid="t4" type="DATE" value="2014-09-02">Selasa (2/9)</TIMEX3>. 
+
+Ia mengatakan, penyebab kebakaran pada ketinggian <TIMEX3 tid="t5" type="DATE" value="1360">1360</TIMEX3> mdpl itu diduga akibat adanya sejumlah orang yang masuk hutan dan membuang bara api. 
+
+" Kemungkinan seperti itu. 
+
+Kalau penyebab kebakaran karena gesekkan antar pohon itu kemungkinannya sangat kecil karena di ketinggian itu udara sudah dingin, " ujar Aep. 
+
+Secara administratif, dua titik kebakaran itu berada di Kampung Tajur Desa Pasanggrahan Kecamatan Bojong Kabupaten Purwakarta. 
+
+(men) 
+</TEXT>
+
+</TimeML>

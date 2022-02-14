@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0024</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-10" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-10</TIMEX3></DCT>
+
+<TITLE>Transportasi Abdya-Gayo Lues Lumpuh Total, Tanah Longsor dan Batu Gunung Timbun Badan Jalan di KM 22</TITLE>
+
+<TEXT>
+Arus transportasi darat dari Kabupaten Aceh Barat Daya (Abdya) menuju Kabupaten Gayo Lues (Galus) dan sebaliknya, dilaporkan lumpuh total. 
+
+Lintas tengah antarkabupaten tersebut putus setelah tanah longsor, batang-batang kayu, dan bongkahan batu gunung menimbun badan jalan di lokasi KM 22 atau setelah jembatan Pucok Krueng Sapi, sejak <TIMEX3 tid="t1" type="TIME" value="2018-12-09TNI">Minggu (9/12/2018) malam</TIMEX3>. 
+
+Tebing gunung longsor akibat tingginya curah hujan selama <TIMEX3 tid="t2" type="DURATION" value="PXD">beberapa hari</TIMEX3> belakangan. 
+
+Mendapat informasi tersebut, petugas dari Badan Penanggulangan Bencana Kabupaten (BPBK) dan aparat kepolisian segera bertolak ke lokasi. 
+
+Tak kurang empat mobil angkutan ukuran kecil dan 20 unit sepeda motor (sepmor) dari arah Terangun, Galus terjebak di lokasi longsor, kata Kepala BPBK Abdya, Amiruddin kepada Serambinews. 
+
+com ketika menuju titik lokasi longsor, <TIMEX3 tid="t3" type="TIME" value="2018-12-10TAF">Senin (10/12/2018) siang</TIMEX3>. 
+
+Polisi Perkirakan Banyak Napi Kabur ke Luar Aceh, Hampir 80 Persen Terkait Kasus NarkobaFadli Zon: Jalan Hancur dan Berlumpur Menuju Makam Pahlawan Nasional Cut Meutia di Aceh UtaraMassa Gelar Aksi Teatrikal Shalat Jenazah Pakai Maneken Bergambar Wajah Plt Gubernur AcehPeristiwa longsor yang terjadi <TIMEX3 tid="t4" type="TIME" value="2018-12-09TNI">Minggu malam</TIMEX3> akibat tingginya curah hujan selama <TIMEX3 tid="t5" type="DURATION" value="P3D">tiga hari</TIMEX3> belakangan, termasuk hujan lebat yang mengguyur lokasi, <TIMEX3 tid="t6" type="TIME" value="2018-12-09TNI">Minggu malam</TIMEX3>. 
+
+Tanah tebing gunung mengalami longsor dan menyeret batang kayu, termasuk bongkahan batu gunung kemudian menutup badan jalan, " katanya. 
+
+Badan jalan yang tertimbun material longsor sepanjang belasan meter sehingga tidak banyak kendaraan dari arah Terangun, Kabupaten Galus terjebak di lokasi sampai <TIMEX3 tid="t7" type="TIME" value="2018-12-03TAF">Senin siang</TIMEX3>. 
+
+Ribuan E-KTP Tercecer di Area Sawah Pondok Kopi, Polisi Periksa Warga hingga Staf DukcapilPolri Tegaskan Tak Ada Operasi Militer di Papua, Hanya Tumpas KKB di Bawah Pimpinan Egianus KogoyaPemuda Langsa Ditemukan tak Bernyawa di Tanggul TPI Lampulo, Banyak Darah Keluar dari KepalanyaAmiruddin mengatakan pihaknya sedang mengupayakan alat berat dikerahkan ke lokasi untuk membersihkan material longsor, termasuk batang kayu dan bebatuan yang menimbun badan jalan. 
+
+Seperti diketahui lintas Ie Mirah, Abdya-Terangun, Galus sepanjang 119 km, selain dikenal banyak tanjakan tinggi dan curam dan rawan longsor di sejumlah titik, terutama ketika <TIMEX3 tid="t8" type="DATE" value="2017-WI">musim hujan</TIMEX3>.(*) 
+</TEXT>
+
+</TimeML>

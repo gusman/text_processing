@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0728</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-09-22" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-22</TIMEX3></DCT>
+
+<TITLE>Dishut Pantau Tiga Titik Api di Pulau Buru</TITLE>
+
+<TEXT>
+Dinas Kehutanan (Dishut) Maluku menemukan tiga titik api di pulau Buru akibat fenomena alam terkait kenaikan suhu permukaan laut melebihi rata-rata yang biasa disebut El Nino. 
+
+Pantauan satelit pada <TIMEX3 tid="t1" type="DATE" value="2015-09-19">19 September 2015</TIMEX3> menunjukkan dua titik api di Kabupaten Buru dan satu lainnya Buru Selatan, kata Kepala Dishut Maluku Adzam Bandjar di Ambon, <TIMEX3 tid="t2" type="DATE" value="2015-09-22">Selasa (22/9)</TIMEX3>. 
+
+Kebakaran tersebut diakibatkan pembakaran lahan untuk pengembangan perkebunan masyarakat secara tradisional. 
+
+Kami telah menyurati Bupati Buru Ramly Umasugi dan Bupati Buru Selatan Tagop Sudarsono Soulissa agar melakukan pemadaman maupun pencegahan agar kebakaran tidak meluas, ujarnya. 
+
+Sebelumnya, Gubernur Maluku Said Assagaff telah menyurati sembilan Bupati dan dua Wali Kota agar mengantisipasi dampak El Nino. 
+
+Dishut Maluku juga telah mengarahkan para Kadis Kehutanan di Kabupaten/Kota untuk mencegah terjadinya kebakaran lahan akibat El Nino yang berkepanjangan. 
+
+Sosialisasi dampak El Nino juga intensif digalakkan dengan melibatkan para pemangku kepentingan agar sejak dini mengantisipasi kebakaran dan mencegah meluasnya lahan terbakar, kata Adzam. 
+
+Dishut Maluku juga telah membentuk kelompok-kelompok pencegah dan pemadaman lahan hingga tingkat desa/kelurahan dalam rangka memelihara kelestarian lingkungan. 
+
+Jadi dampak El Nino maupun ancaman kebakaran lahan di Maluku telah diantisipasi sejak dini sehingga tidak bermasalah sebagaimana di daerah lainnya, tegas Adzam. 
+
+
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0667</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-23" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-23</TIMEX3></DCT>
+
+<TITLE>Kebakaran Lahan di Kupang Teba, 1 Orang Tewas, di Mesuji Lahan Gambut Terbakar Tak Padam 2 Hari</TITLE>
+
+<TEXT>
+Kebakaran lahan terjadi di Mesuji dan Bandar Lampung pada Sabut-Minggu <TIMEX3 tid="t1" type="DATE" value="2019-09-22">(22/9/2019)</TIMEX3>. 
+
+Di Mesuji, ada 10 hektare kebun sawit yang terbakar. 
+
+Sementara di Bandar Lampung, lahan kosong yang ditumbuhi ilalang terbakar. 
+
+Dari dua peristiwa ini, kebakaran di Bandar Lampung tepatnya di Jalan KH Ahmad Dahlan Kupang Raya Kupang Teba Telukbetung Utara, menimbulkan satu korban jiwa. 
+
+Pemilik lahan meninggal dunia di lokasi. 
+
+Diduga korban kehabisan oksigen saat api membakar alang-alang yang ada di sekitar rumahnya. 
+
+" Kebakaran terjadi <TIMEX3 tid="t2" type="TIME" value="2019-09-22T15:30">sekitar pukul 15.30 WIB</TIMEX3>. 
+
+Korban bernama Koh Awik (67). 
+
+Kebetulan rumah saya di belakang ini. 
+
+Begitu ada asap, saya kaget dan langsung lihat, ternyata api sudah gede, " tutur Ujang, tetangga korban. 
+
+Ujang meneruskan, dirinya berusaha memadamkan api bersama warga lainnya.Namun sebelum warga berdatangan, Koh Awik sudah tergeletak di areal lahan yang terbakar. " Katanya sih dia baru bakar-bakar sampah. 
+
+Mungkin apinya gede terus dia kaget, jantungan, akhirnya jatuh meninggal dunia. 
+
+Tubuhnya masih utuh sama bajunya, " tambah dia. 
+
+// Ketua RT 012 Kupang Raya, Kelurahan Kupang Tebak, Narwanti menambahkan, korban meninggal dunia diduga panik saat api membesar. 
+
+" Saya kebetulan tinggal di depan. 
+
+Jadi tahu aktivitas Koh Awi. 
+
+Dia itu rajin nyapu bersih-bersih, dan bakar sampah, " terangnya, di lokasi kejadian, <TIMEX3 tid="t3" type="DATE" value="2019-09-22">kemarin</TIMEX3>. 
+
+Lanjutnya, dimungkinkan karena api besar korban kaget dan terjatuh. 
+
+" Mungkin jantungan. 
+
+Koh Awi sudah tua, dan memang tinggal sendiri. 
+
+Keluarga di Kebon Jeruk Jakarta, " terangnya. 
+
+Narwanti pun mengetahui jika api membakar lahan Koh Awik bermula saat mendengar kegaduhan dua orang pria yang menggedor pintu gudang eks Dinasti Tour. 
+
+" <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Sekarang</TIMEX3> jasa paket BNR, nah pas gedor-gedor itu saya keluar, saya tanya ada apa, rupanya api sudah membesar, " ujarnya. 
+
+Narwanti pun mengaku memerintahkan warganya untuk menjebol salah satu pintu gudang tersebut. 
+
+" Begitu dibuka, kita cari air <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dulu</TIMEX3>, buat madamin, eh orangnya tergeletak di sini meninggal, " tandasnya.Kebun SawitSementara kebun sawit yang terbakar di Mesuji merupakan milik PT BSMI. 
+
+// Kebakaran terjadi sejak <TIMEX3 tid="t6" type="DATE" value="2019-09-21">Sabtu</TIMEX3>, namun api kembali muncul pada <TIMEX3 tid="t7" type="DATE" value="2019-09-22">Minggu</TIMEX3> karena kebun sawit merupakan lahan gambut. 
+
+Ada sekitar 50 personel gabungan Polres Mesuji dan Koramil Simpang Pematang berjibaku memadamkan api di areal Perkebunan PT LIV / PT BSMI Kecamatan Tanjung Raya <TIMEX3 tid="t8" type="DATE" value="2019-09-22">kemarin</TIMEX3>. 
+
+Kapolres Mesuji AKBP Edi Purnomo mengatakan, pihaknya belum dapat memastikan penyebab kebakaran tanaman sawit milik PT BSMI itu. 
+
+Sebab, lahannya gambut. 
+
+Ia memastikan, pihaknya akan terus memantau kondisi lahan yang terbakar kendati api telah berhasil dipadamkan. 
+
+Sebab, dikhawatirkan api kembali membara karena areal kebun sawit BSMI itu lahan gambut. 
+
+Untuk mencegah terjadinya kebakaran hutan dan lahan, Kapolres mengimbau masyarakat tidak membakar hutan serta tidak membuang puntung rokok sembarangan. 
+
+" Bila ada masyarakat melihat seseorang atau kelompok yang sengaja membakar hutan atau lahan segera melaporkan ke kami. 
+
+Kami tidak akan segan-segan menindak tegas pelaku, " tegas Kapolres. 
+
+Rutin PatroliKepala BPBD Mesuji Syahril mengatakan, di Mesuji sendiri sudah ada empat kasus kebakaran lahan. 
+
+Untuk kebakaran lahan PT BSMI, dirinya justru belum mengetahui. 
+
+// Meski begitu, Syahril mengaku pihaknya telah melakukan langkah antisipasi agar tidak terjadi kebakaran lahan dan hutan (Karhutla) di Mesuji. 
+
+Salah satunya, dengan menggelar patroli rutin bersama Satgas Karhutla Mesuji yang dipimpin Danramil. 
+
+" Untuk distribusi air bersih kita siagakan sebanyak tiga armada Damkar. 
+
+Tim satgas <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> dalam kondisi siaga jika sewaktu-waktu terjadi kebakaran hutan dan lahan, " tandas Syahril. 
+
+Titik PanasTerpisah, Kepala Seksi Data dan Informasi BMKG Raden Inten Lampung, Rudi Haryanto mengatakan, masyarakat harus tetap waspada terkait kebakaran lahan ataupun hutan. 
+
+Sebab, titik panas (hotspot) masih cenderung naik. 
+
+" Jadi <TIMEX3 tid="t10" type="SET" value="P1D">setiap hari</TIMEX3> ya beda-beda jumlahnya, tetapi untuk terakhir ini mencapai 30 titik panas menyebar di Way Kanan Tulang Bawang, Tulangbawang Barat, Mesuji dan Lampung Timur, " katanya, <TIMEX3 tid="t11" type="DATE" value="2019-09-22">kemarin</TIMEX3>. 
+
+Ia meneruskan, <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> di Lampung status masih kemarau dengan suhu panas mencapai 35 derajat. 
+
+" Prediksi hujan perkiraan kita <TIMEX3 tid="t13" type="DATE" value="2018-11">awal November</TIMEX3>. 
+
+Untuk kecepatan angin <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> 5 sampai 15 knot, kisaran normal tapi memang ada peningkatan 18 knot pada <TIMEX3 tid="t15" type="TIME" value="2019-09-22TAF">sore hari</TIMEX3>, " bebernya. 
+
+(tribunlampung.co.id hanif mustafa/endra zulkarnain) 
+</TEXT>
+
+</TimeML>

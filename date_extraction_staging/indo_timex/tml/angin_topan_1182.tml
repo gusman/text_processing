@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1182</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-08-11" temporalFunction="false" functionInDocument="CREATION_TIME">2016-08-11</TIMEX3></DCT>
+
+<TITLE>1 Rumah di Medan Rusak Diterjang Angin Kencang</TITLE>
+
+<TEXT>
+Hujan deras disertai angin kencang yang melanda beberapa kawasan di Kota Medan, Rabu (10/08/2016) kemarin, membuat satu rumah di Jalan Garu II, Gang Taqwa Nomor 25F, Keluharan Harjosri 1, Kecamatan Medan Amplas, rusak diterjang angin kencang.
+
+
+</TEXT>
+
+</TimeML>
+

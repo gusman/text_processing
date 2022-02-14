@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0028</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-12" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-12</TIMEX3></DCT>
+
+<TITLE>Objek Wisata Pulau Panjang Singkil Porakporanda Dihantam Angin Kencang</TITLE>
+
+<TEXT>
+Angin kencang yang menerpa wilayah selatan Aceh dalam <TIMEX3 tid="t1" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir turut memporakporandakan sarana pendukung pariwisata di Singkil. 
+
+Seperti fasilitas milik Badan Usaha Milik Desa (BUMDes) Karya Mandiri, di objek wisata Pulau Panjang, Desa Pulau Baguk, Kecamatan Pulau Banyak, Aceh Singkil, rusak digulung angin, <TIMEX3 tid="t2" type="DATE" value="2019-08-11">Minggu (11/8/2019)</TIMEX3> sekitar <TIMEX3 tid="t3" type="TIME" value="2019-08-11T23:50">pukul 23.50 WIB</TIMEX3>. 
+
+Akibat angin kencang, plang nama selamat datang di objek wisata BUMDes yang terbuat dari papan, rusak parah. 
+
+Kemudian gazebo di lokasi itu juga tertimpa pohon tumbang, " kata Hardi, Kepala Desa Pulau Baguk, <TIMEX3 tid="t4" type="DATE" value="2019-08-12">Senin (12/8/2019)</TIMEX3>. 
+
+Sebelumnya, amukan angin putting beliung juga merusak tujuh rumah, masing-masing dua unit di Desa Gosong Telaga Barat, Singkil Utara, dan empat unit di Desa Pulau Baguk dan satu unit di Desa Teluk Nibung, Kecamatan Pulau Banyak. 
+
+Jelang <TIMEX3 tid="t5" type="TIME" value="2019-08-11TNI">tengah malam</TIMEX3>, Serambinews. 
+
+com, turut merasakan ketegangan saat angin berembus kencang hingga rumah terasa bergetar. 
+
+Warga tidak ada yang berani ke luar rumah, sebab listrik mati disertai hujan deras. 
+
+(*) 
+</TEXT>
+
+</TimeML>

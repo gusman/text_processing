@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0700</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-03-22" temporalFunction="false" functionInDocument="CREATION_TIME">2019-03-22</TIMEX3></DCT>
+
+<TITLE>Hybrid Terjadi 31 Kali dan Lelehan Lava dari Gunung Karangetang</TITLE>
+
+<TEXT>
+Aktivitas kegempaan Gunung Karangetang, Sitaro, Sulawesi Utara, semakin meningkat. 
+
+Khususnya hybrid yang mencapai 31 kali pada <TIMEX3 tid="t1" type="TIME" value="2019-03-21TAF">siang</TIMEX3> dan <TIMEX3 tid="t2" type="TIME" value="2019-03-21TAF">sore hari</TIMEX3>, <TIMEX3 tid="t3" type="DATE" value="2019-03-22">Jumat (22/03/2019)</TIMEX3>. 
+
+Pada <TIMEX3 tid="t4" type="TIME" value="2019-03-21TAF">siang hari</TIMEX3> secara visual tidak terlihat lantaran tertutup kabut tebal. 
+
+" Tadi sempat terjadi guguran lava dari kawah utama (selatan) mengarah ke arah lereng barat yaitu kali beha barat dan kali batang, " jelas Yudia Tatipang Kepala pos PGA Karangetang. 
+
+Secara kegempaan tercatat ada satu kali guguran dengan amplitudo 42 mm dengan durasi <TIMEX3 tid="t5" type="DURATION" value="PT145S">145 detik</TIMEX3>, hembusan juga sekali dengan amplitudo 5 mm, durasi <TIMEX3 tid="t6" type="DURATION" value="PT32S">32 detik</TIMEX3>. 
+
+Hybrid terjadi 12 kali dengan amplitudo:4-12 mm, S-P <TIMEX3 tid="t7" type="DURATION" value="PT">0 detik</TIMEX3>, durasi 7-15 detik, tektonik jauh sekali dengan amplitudo 19 mm, S-P <TIMEX3 tid="t8" type="DURATION" value="PT53S">53 detik</TIMEX3>, durasi <TIMEX3 tid="t9" type="DURATION" value="PT28S">28 detik</TIMEX3>, serta microtremor terekam dengan amplitudo <TIMEX3 tid="t10" type="TIME" value="2019-03-21T00:25">0.25</TIMEX3> mm (dominan <TIMEX3 tid="t11" type="TIME" value="2019-03-21T00:25">0.25</TIMEX3> mm). 
+
+Sedangkan pada <TIMEX3 tid="t12" type="TIME" value="2019-03-21TAF">sore hari</TIMEX3> terlihat asap kawah bertekanan kuat berwarna putih dengan intensitas tebal dan tinggi 75-100 m di atas puncak kawah. 
+
+Juga asap kawah 2 putih sedang tinggi 25-50m. 
+
+Secara kegempaan terjadi dua kali gempa hembusan dengan amplitudo <TIMEX3 tid="t13" type="DATE" value="2018-06-03">3-6</TIMEX3> mm, durasi 16-26 detik, hybrid19 kali, dengan amplitudo 3-17 mm, S-P <TIMEX3 tid="t14" type="DURATION" value="PT">0 detik</TIMEX3>, durasi 3-14 detik. 
+
+Vulkanik dangkal sekali dengan 4 mm, durasi <TIMEX3 tid="t15" type="DURATION" value="PT7S">7 detik</TIMEX3>. 
+
+Microtremor terekam dengan amplitudo <TIMEX3 tid="t16" type="TIME" value="2019-03-21T00:25">0.25</TIMEX3> mm (dominan <TIMEX3 tid="t17" type="TIME" value="2019-03-21T00:25">0.25</TIMEX3> mm) " Sampaikan <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, status aktivitas gunung Karangetang masih pada level III atau siaga, " ujarnya. 
+
+// Sedangkan rekomendasi PVMBG Bandung pun belum berubah, masih tetap yaitu warga dilarang mendekati, melakukan pendakian atau beraktivitas di dalam zona bahaya yaitu radius 2.5 km dari puncak kawah dua (Kawah Utara) dan kawah utama (selatan) serta area perluasan sektoral dari Kawah Dua ke arah Barat-Baratlaut sejauh 3 km dan ke arah Baratlaut-Utara sejauh 4 km. 
+
+Warga yang berada di area Baratlaut-Utara dari Kawah Dua, di antaranya Kampung Niambangeng, Beba dan Batubulan agar dievakuasi ke tempat yang aman dari ancaman guguran lava atau awan panas guguran gunung Karangetang yaitu di luar zona bahaya. 
+
+Masyarakat tetap dianjurkan agar menyiapkan masker penutup hidung dan mulut, guna mengantisipasi potensi bahaya gangguan saluran pernapasan jika terjadi hujan abu. 
+
+Masyarakat yang tinggal di sekitar bantaran sungai-sungai yang berhulu dari puncak gunung Karangetang agar meningkatkan kesiapsiagaan dari potensi ancaman lahar hujan dan banjir bandang yang dapat mengalir hingga ke pantai. 
+
+(Tribun Manado/Alpen Martinus)BERITA POPULER: 
+</TEXT>
+
+</TimeML>

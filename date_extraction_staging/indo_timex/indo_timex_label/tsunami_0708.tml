@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0708</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-12" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-12</TIMEX3></DCT>
+
+<TITLE>Ternyata Hal Ini yang Membuat 22 Relawan Asing Harus Dipulangkan Dari Palu, Simak Baik-Baik</TITLE>
+
+<TEXT>
+Semenjak Palu dan Donggala Sulawesi Tengah didera bencana alam dan Tsunami <TIMEX3 tid="t1" type="DATE" value="2018-09">akhir September lalu</TIMEX3>, berbagai bala bantuan berdatangan dari berbagai penjuru tanah air bahkan dunia. 
+
+Tanpa di komando, para relawan langsung berdatangan untuk mencari korban yang masih tertimbun bangunan ataupun tanah. 
+
+Bahkan banyak dari relawan asing yang ikut membantu mencari korban yang belum ditemukan dan membantu kebutuhan para korban di tenda-tenda pengungsian. 
+
+Namun sayangnya, sempat beredar kabar tak sedap bahwa banyak relawan asing yang dipulangkan dari Palu <TIMEX3 tid="t2" type="DATE" value="PAST_REF">beberapa waktu yang lalu</TIMEX3>. 
+
+Hal itu sempat dipertanyakan oleh para relawan dan juga oleh masyarakat Indonesia yang mengetahui kabar tersebut. 
+
+Dilansir dari Tribunnews. 
+
+com dalam artikel " Alasan di Balik Pemulangan 22 Relawan Asing dari Palu, Ternyata Sudah Diatur dalam Undang-Undang " <TIMEX3 tid="t3" type="DATE" value="2018-10-12">Jumat (12/10/2018)</TIMEX3> Para relawan asing tersebut dilarang untuk memasuki daerah bencana alam. 
+
+Hal itu itu disampaikan oleh Salah seorang relawan yang tergabung dalam LSM Afrika Selatan, Give of Givers, Ahmed Bham. 
+
+Ahmed Bham mengatakan bahwa ia mendengar kabar relawan asing dari Urban Search and Rescue Team (USAR) mendapat pesan dari pemerintah untuk tidak memasuki daerah bencana dan menghentikan aktivitas pencarian korban. 
+
+" Semuanya akan dilakukan oleh tim dari dalam negeri dan semua relawan asing diminta kembali ke negaranya masing-masing karena tidak dibutuhkan Indonesia ", kata Bham <TIMEX3 tid="t4" type="DATE" value="2018-10-11">(11/10/2018)</TIMEX3>.Padahal, menurut Agus Salim, relawan asal Indonesia yang tergabung dalam LSM Strong Together mengatakan jika masyarakat di wilayah terdampak bencana masih sangat membutuhkan bantuan. 
+
+// Mulai dari makanan, obat-obatan hingga dukungan moral. 
+
+Sementara itu, dilansir dari Grid. 
+
+id dalam artikel " Sebelum Nyinyir, Ketahui Alasan-alasan di Balik Pemulangan 22 Relawan Asing dari Palu, Ternyata Sudah Diatur Undang-Undang " <TIMEX3 tid="t5" type="DATE" value="2018-10-12">Jumat (12/10/2018)</TIMEX3> total ada 22 relawan asing dari Australia, Tiongkok, Nepal dan Meksiko dipulangkan dari Indonesia. 
+
+Melihat kenyataan tersebut, banyak dari masyarakat yang bertanya-tanya bagaimana mungkin Indonesia bisa menolak bantuan dari negara lain di tengah situasi tanggap darurat bencana seperti <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>? Apa sebenarnya yang menjadi alasan Pemerintah menolak bantuan relawan dari luar negeri? Berikut alasannya dan simak baik-baik:Beredar Surat Palsu yang mengundang para relawan asingAda 8 relawan asal Tiongkok yang mengaku mendapat undangan tertulis dari Bupati Sigi. 
+
+Namun disinyalir surat tersebut adalah surat palsu sehingga petugas tetap menolak mereka masuk ke Palu. 
+
+Bahkan ada laporan yang mengatakan bahwa 3 dari 8 relawan asal Tiongkok itu sempat nekat memasuki wilayah Palu. 
+
+Sementara untuk 14 relawan lainnya yang juga ditolak masuk ke daerah bencana <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">kini</TIMEX3> telah difasilitasi untuk kembali ke Balikpapan dengan menggunakan pesawat Hercules Malaysia. 
+
+// Sutopo selaku Kepala Humas BNPB telah mengarahkan para relawan asing tersebut untuk menghubungi Tim Kemlu Posko Balikpapan. 
+
+Proses pemberian bantuan harus sesuai aturanMeski demikian, petugas tetap berterima kasih kepada para relawan asing atas keinginan mereka untuk membantu proses penanggulangan bencana di Sulawesi Tengah. 
+
+Sutopo hanya ingin menegaskan bahwa proses pemberian bantuan harus tetap sesuai dengan aturan. 
+
+Karena hal ini juga berlaku di setiap negaradan sudah diatur dalam Undang-undangTentunya, cukup banyak pihak yang menyayangkan tindakan pemerintah ini. 
+
+Mengingat banyaknya korban akibat gempa 7,4 SR yang mengguncang wilayah Donggala, Sulawesi Tengah pada <TIMEX3 tid="t8" type="DATE" value="2018-09">akhir September lalu</TIMEX3>. 
+
+Namun, ternyata bantuan internasional atau relawan asing memang tidak bisa sembarangan masuk ke wilayah Indonesia yang dilanda bencana. 
+
+Sudah Diatur Oleh Undang-UndangDi Indonesia, bantuan lembaga internasional diatur dalam UU Nomor <TIMEX3 tid="t9" type="DURATION" value="P24Y">24 Tahun</TIMEX3> 2007 tentang Penanggulangan Bencana. 
+
+// Dalam Pasal 7 Ayat (1c) Undang-Undang Penanggulangan Bencana disebutkan, bahwa Pemerintah, dalam hal ini BNPB, memiliki wewenang untuk membentuk kerja sama dengan badan internasional dalam rangka penanganan suatu bencana. 
+
+Di pasal selanjutnya disebutkan, bahwa keberadaan relawan dari badan internasional yang membantu penanganan bencana di Indonesia ada di bawah kontrol dan menjadi tanggung jawab BNPB. 
+
+Badan-badan internasional ini nantinya dapat bekerja secara mandiri, bisa juga bekerja sama dengan badan lainnya. 
+
+Baik dari dalam atau luar negeri. 
+
+
+</TEXT>
+
+</TimeML>

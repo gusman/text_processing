@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1123</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-08-12" temporalFunction="false" functionInDocument="CREATION_TIME">2019-08-12</TIMEX3></DCT>
+
+<TITLE>Padamkan Api Karhutla, Oktober Mendatang Panglima TNI Siap Tabur Garam di Langit Riau</TITLE>
+
+<TEXT>
+Guna mengatasi kebakaran hutan dan lahan di Riau, Pemerintah berencana membuat hujan buatan. 
+
+Hal ini dipaparkan Panglima TNI Hadi Tjahjanto, usai menerima penjelasan dari BMKG wilayah Riau, <TIMEX3 tid="t1" type="DATE" value="2019-08-12">Minggu (12/8/2019)</TIMEX3>. 
+
+Kemungkinan untuk membuat hujan buatan pada <TIMEX3 tid="t2" type="DATE" value="2019-10">Oktober mendatang</TIMEX3> kata Panglima, akan menjadi solusi dalam mengatasi kebakaran lahan di Riau. 
+
+" Curah hujan akan kita kelola, kemungkinan ada potensi pembuatan modifikasi cuaca hujan pada bulan awal <TIMEX3 tid="t3" type="DATE" value="2018-10">oktober</TIMEX3>, " tandasnya. 
+
+Artinya kata Panglima, <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih diupayakan pemadaman dengan berbagai alat manual dan menggunakan water bombing. 
+
+" Jadi sambil menunggu <TIMEX3 tid="t5" type="DATE" value="2018-10">Oktober</TIMEX3>, kita masih melakukan pemadaman dengan pengeboman air. 
+
+Tapi kita ada sedikit kendala, karena lokasi kebakaran dan pengambilan air itu cukup jauh, jadi kita upayakan juga pengeboman air dengan menggunakan pesawat hercules, " tegasnya. 
+
+Untuk diketahui, pembuatan hujan buatan dengan cara menebar garam, juga sudah disiakan Badan Pengkajian dan Penerapan Teknologi. 
+
+Setidaknya, menurut informasi yang dihimpun GoNews. 
+
+co, ada sekitar 17 ton garam untuk melaksanakan operasi Teknologi Modifikasi Cuaca (TMC) untuk penanganan Siaga Darurat Kebakaran Hutan dan Lahan di Provinsi Riau. 
+
+Kepala BPPT, Hammam Riza mengatakan, pemanfaatan TMC atau dikenal dengan hujan buatan, merupakan salah satu upaya dari pemerintah untuk mencegah timbulnya jerebu atau asap akibat kebakaran hutan dan lahan (Karhutla). 
+
+" Kami siapkan 17 ton garam, " katanya. 
+
+BPPT berkoordinasi dengan Badan Nasional Penanggulangan Bencana (BNPB) serta dukungan TNI AU, guna mengoptimalkan pemanfaatan teknologi hujan buatan untuk memadamkan titik api di wilayah Riau. 
+
+Operasi TMC menggunakan satu pesawat Cassa 212 TNI AU. 
+
+Pesawat ini bisa menampung garam hingga 800 kilogram sekali terbang. 
+
+Operasi TMC ini membantu Satgas darat dan udara, yang hingga <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">kini</TIMEX3> berjibaku melakukan pemadaman Karhutla. 
+
+Sementara itu, Kepala BNPB Doni Monardo, menuturkan, pemerintah berharap dengan adanya upaya modifikasi cuaca ini, dampak polusi jerebu yang diakibatkan oleh Karhutla di Riau bisa segera diatasi. 
+
+" Kami akan terus berkoordinasi dengan pihak BPPT dan TNI Angkatan Udara melakukan modifikasi cuaca. 
+
+Kami harap dukungan teknologi modifikasi cuaca ini mampu mengatasai kabut asap akibat Karhutla ini, " ujarnya. 
+
+Dan <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, Provinsi Riau sendiri sudah berstatus Siaga Darurat Karhutla hingga <TIMEX3 tid="t8" type="DATE" value="2019-10">akhir Oktober 2019</TIMEX3>. 
+
+*** 
+</TEXT>
+
+</TimeML>

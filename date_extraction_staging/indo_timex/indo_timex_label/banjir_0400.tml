@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0400</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-12-19" temporalFunction="false" functionInDocument="CREATION_TIME">2019-12-19</TIMEX3></DCT>
+
+<TITLE>Jokowi Tegur Anies Baswedan Terkait Banjir, Taufik: Waduknya Didiemin dari Zaman Pak Jokowi</TITLE>
+
+<TEXT>
+Wakil Ketua Dewan Perwakilan Rakyat Daerah (DPRD) DKI Jakarta Mohammad Taufik merespons komentar Presiden Joko Widodo soal genangan yang muncul akibat hujan di DKI Jakarta, <TIMEX3 tid="t1" type="DATE" value="2019-12-17">Selasa (17/12/2019) lalu</TIMEX3>. 
+
+<TIMEX3 tid="t2" type="DATE" value="PAST_REF">Saat itu</TIMEX3>, Jokowi meminta Gubernur DKI Jakarta Anies Baswedan untuk terus melakukan pencegahan banjir dengan membersihkan selokan dan pelebaran Ciliwung. 
+
+Padahal, kata Taufik, waduk juga sering tak dikeruk saat Jokowi masih menjabat sebagai Gubernur DKI Jakarta. 
+
+" Waduk kan dari zaman pak Jokowi didiemin juga, " ucap Taufik di Balai Kota, Jakarta Pusat, <TIMEX3 tid="t3" type="DATE" value="2019-12-19">Kamis (19/12/2019)</TIMEX3>. 
+
+Taufik mencontohkan waduk di sekitar rumahnya, yakni di Pondok Rangon yang juga tak kunjung dikeruk sejak <TIMEX3 tid="t4" type="DATE" value="PAST_REF">dulu</TIMEX3>. 
+
+" Sama saja. 
+
+Depan rumah saya enggak dibikin-bikin, " tutur dia. 
+
+Terkait pendapat Fraksi PDI-P DKI Jakarta yang menyebutkan bahwa Anies " cuci tangan " atas masalah banjir Jakarta, Taufik membantah hal tersebut. 
+
+Ia membela bahwa banjir juga surut dalam waktu yang singkat. " Tapi kan <TIMEX3 tid="t5" type="TIME" value="2019-12-19T01:00:00">1 jam kemudian</TIMEX3> langsung surut, jadi enggak ada masalah biasa saja itu. 
+
+Kok jadi ribet, orang dari <TIMEX3 tid="t6" type="DATE" value="PAST_REF">dulu</TIMEX3> juga banjir. 
+
+Itu mah, masih belum move on terus yang ribet, " tandas Taufik.Sebelumnya diberitakan, sejumlah ruas jalan di Jakarta tergenang saat hujan, <TIMEX3 tid="t7" type="DATE" value="2019-12-17">Selasa (17/12/2019) lalu</TIMEX3>. 
+
+// Data Badan Penanggulangan Bencana Daerah (BPBD) Jakarta pada <TIMEX3 tid="t8" type="DATE" value="2019-12-17">Selasa</TIMEX3>, <TIMEX3 tid="t9" type="TIME" value="2019-12-18T15:00">pukul 15.00 WIB</TIMEX3>, ada 19 ruas jalan yang tergenang air. 
+
+Ruas jalan yang tergenang di Jakarta Selatan, yakni Jalan Prof Dr Satrio, Jalan Jenderal Sudirman, Jalan Gatot Subroto, Jalan Kapten Tendean, Jalan HR Rasuna Said, Jalan Denpasar Raya, dan Jalan Pasar Kebayoran Lama. 
+
+Sementara genangan di Jakarta Pusat berlokasi di Jalan Gerbang Pemuda, Jalan Gelora, Jalan Asia Afrika, dan Jalan Pangeran Diponegoro. 
+
+Di Jakarta Timur, genangan terjadi di Jalan Raya Lapangan Tembak Cibubur, Jalan Pulomas Raya, Jalan Pemuda Raya, Jalan Komodor Halim, dan Jalan Bojana Tirta. 
+
+Terakhir, di Jakarta Barat, ruas jalan yang tergenang, yakni Jalan Letjen S Parman, Jalan Tanjung Duren Raya, dan Jalan Tubagus Angke. 
+
+Artikel ini telah tayang di Kompas. 
+
+com dengan judul " Tanggapi Jokowi soal Banjir Jakarta, Taufik: Waduknya Didiemin dari Zaman Pak Jokowi " 
+</TEXT>
+
+</TimeML>

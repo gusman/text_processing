@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1018</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-16" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-16</TIMEX3></DCT>
+
+<TITLE>Berkunjung ke Riau, Presiden Jokowi Disambut Pekatnya  Kabut Asap</TITLE>
+
+<TEXT>
+Di tengah kabut asap kebakaran hutan dan lahan yang cukup pekat, Pesawat Kepresidenan yang membawa Presiden RI Joko Widodo (Jokowi) mendarat di Bandara Sultan SyarifKasim II, Kota Pekanbaru, pada <TIMEX3 tid="t1" type="TIME" value="2019-09-15T18:30">pukul 18.30 WIB</TIMEX3>, Senin(<TIMEX3 tid="t2" type="DATE" value="2019-09-16">16/9)</TIMEX3>. 
+
+Presiden Jokowi melakukan kunjungan dadakan untuk meninjau kondisi kabut asap dan penanganan kebakaran hutan dan lahan di Riau. 
+
+Saat memimpin rapat terbatas di Novotel Pekanbaru, <TIMEX3 tid="t3" type="TIME" value="2019-09-09TNI">Senin malam</TIMEX3>, Presiden Jokowi menekankan pentingnya pencegahan kebakaran hutan dan lahan (karhutla). 
+
+Jokowi menyinggung para aparat di daerah yang belum optimal menangani jika terjadi karhutla. 
+
+" Kita tahu, gubernur memiliki perangkat-perangkat sampai ke bawah, bupati dan wali kota, camat, kepala desa, pangdam, juga punya perangkat, danrem, dandim, ada koramil, babinsa, semuanya ada. 
+
+Kapolda juga punya perangkat, baik kapolres, kapolsek, sampai bhabinkamtibnas. 
+
+Semuanya ada. 
+
+Belum yang di BNPB, belum yang di (kementerian) kehutanan. 
+
+Kita memiliki semuanya. 
+
+Tapi perangkat-perangkat ini tidak diaktifkan secara baik, " ujarnya seoerti dikutip dari detik. 
+
+com. 
+
+Presiden berharap aparat daerah dioptimalkan untuk menangani karhutla. 
+
+Jokowi tidak ingin kebakaran di lahan gambut semakin menjalar. 
+
+Presiden Jokowi menyebutkan, <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> Provinsi Riau dinyatakan status siaga darurat akibat karhutla. 
+
+Jokowi tidak ingin peristiwa ini menganggu aktivitas masyarakat. 
+
+" Riau telah dinyatakan status siaga darurat. 
+
+Luas lahan yang terbakar juga mencapai puluhan ribu hektare. 
+
+Jangan sampai ini menganggu aktivitas penerbangan, sehingga berimbas kepada pertumbuhan ekonomi, aktivitas ekonomi di provinsi Riau, " ujarnya. 
+
+(dtc/ant) 
+</TEXT>
+
+</TimeML>

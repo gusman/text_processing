@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0423</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-13" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-13</TIMEX3></DCT>
+
+<TITLE>Kebakaran Hutan, 5 Jalur Pendakian Gunung Merbabu Masih Ditutup Sementara</TITLE>
+
+<TEXT>
+Sejak <TIMEX3 tid="t1" type="DATE" value="2019-09-12">Kamis (12/9/2019)</TIMEX3>, akibat kebakaran hutan lima jalur pendakian Gunung Merbabu masih ditutup sementara. 
+
+Kebakaran hutan di sekitar puncak gunung ini terjadi sejak <TIMEX3 tid="t2" type="TIME" value="2019-09-11TNI">Rabu malam</TIMEX3>. 
+
+Akibat kebakaran tersebut, Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Magelang melaporkan jalur pendakian yang ditutup melalui wilayah Wekas, Getasan, Salatiga, Magelang dan Boyolali. 
+
+" BPBD setempat mencatat bahwa lokasi kebakaran berada di wilayah hutan Gunung Merbabu. 
+
+Tepatnya di Dusun Malang, Desa Wonolelo, Kecamatan Sawangan, Magelang, " terang Agus WibowoPlt. 
+
+Kepala Pusat Data Informasi dan Humas BNPB dalam keterangan tertulis. 
+
+Waktu kebakaran dilaporkan terjadi pada <TIMEX3 tid="t3" type="TIME" value="2019-09-11T19:17">Rabu (11/9/2019) pukul 19.17 WIB</TIMEX3>. 
+
+Menurutnya, penyebab terjadinya kebakaran masih dalam tahap investigasi hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">kini</TIMEX3>. 
+
+Berdasarkan pantauan lapangan, api kebakaran membesar <TIMEX3 tid="t5" type="TIME" value="2019-09-12T22:25">sekitar pukul 22.25 WIB</TIMEX3> pada <TIMEX3 tid="t6" type="TIME" value="2019-09-11TNI">Rabu malam</TIMEX3>. 
+
+Api merambat ke arah puncak gunung dan terpantau dari Dusun Batur, Desa Wonolelo, Kecamatan Sawangan. 
+
+Kebakaran di gunung yang berjenis strato tersebut masih berlangsung hingga <TIMEX3 tid="t7" type="DATE" value="2019-09-12">Kamis</TIMEX3> dini hari sekitar <TIMEX3 tid="t8" type="TIME" value="2019-09-12T00:15">pukul 00.15 WIB</TIMEX3>.Kemudian <TIMEX3 tid="t9" type="DATE" value="2019-09-12">Kamis</TIMEX3> dini hari sekitar <TIMEX3 tid="t10" type="TIME" value="2019-09-12T05:45">pukul 05.45</TIMEX3>, api terjadi di Desa Banyuroto, Magelang. 
+
+// Sementara itu, kepulan asap terlihat dari Dusun Malang, masih di Desa Wonolelo. 
+
+Sejumlah 100 personel dari tim gabungan melakukan upaya pemadaman hingga <TIMEX3 tid="t11" type="TIME" value="2019-09-12TAF">Kamis sore</TIMEX3> pukul <TIMEX3 tid="t12" type="TIME" value="2019-09-12T17:30">17.30</TIMEX3>. 
+
+Pihak aparat setempat memastikan kawasan terdampak sudah steril dari pendaki. 
+
+Selanjutnya BPBD Kabupaten Magelang masih menunggu keputusan dari pihak Taman Nasional Gunung Merabu terkait penggunaan helikopter untuk pengeboman air. 
+
+Upaya tersebut dibutuhkan mengingat kebakaran hutan meluas sangat cepat karena angin kencang. 
+
+Gunung Merbabu dengan ketinggian 3.145 meter ini berada dua wilayah kabupaten, yaitu Kabupaten Magelang dan Boyolali, Jawa Tengah. 
+
+(*) 
+</TEXT>
+
+</TimeML>

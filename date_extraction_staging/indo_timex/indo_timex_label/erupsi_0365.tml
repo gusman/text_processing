@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_0365</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-05-11" temporalFunction="false" functionInDocument="CREATION_TIME">2018-05-11</TIMEX3></DCT>
+
+<TITLE>Pasca-Erupsi Gunung Merapi, Lion Air ke Yogya Dihentikan Sementara</TITLE>
+
+<TEXT>
+Pascaletusan erupsi Gunung Merapi <TIMEX3 tid="t1" type="TIME" value="2018-05-11TMO">pagi ini</TIMEX3>, Lion Air Group menghentikan sementara penerbangan dari dan ke Yogyakarta sampai dinyatakan aman. 
+
+Lion Air Group yang membawahi maskapai di Indonesia Lion Air, Batik Air, dan Wings Air menutup penerbangan sesuai pengumuman resmi dari otoritas bandar udara, yaitu berupa penutupan operasional bandar udara hingga <TIMEX3 tid="t2" type="TIME" value="2018-05-10T11:40">pukul 11.40 WIB</TIMEX3>. 
+
+. 
+
+" Untuk menjamin keselamatan dan keamanan penerbangan, operasional Lion Air Group mengalami penyesuaian. 
+
+Hal ini berpotensi menyebabkan keterlambatan atau penundaan waktu terbang, " ujar Danang Mandala Prihantoro, Corporate Communications Strategic of Lion Air di Tangerang, <TIMEX3 tid="t3" type="DATE" value="2018-05-11">Jumat (11/5/2018)</TIMEX3>. 
+
+Dari data yang TribunJakarta. 
+
+com dapatkan, hingga <TIMEX3 tid="t4" type="TIME" value="2018-05-10T11:40">pukul 11.40 WIB</TIMEX3>, jaringan penerbangan Lion Air Group yang terkena dampak, yaitu:. 
+
+. 
+
+. 
+
+. 
+
+//. 
+
+. 
+
+Hingga <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, menurut Danang, pihaknya sedang menunggu surat perintah dari pusat mengenai jadwal penerbangan normal kembali. 
+
+" Operasional Lion Air Group akan berjalan normal setelah bandar udara di Yogyakarta dinyatakan aman untuk penerbangan, " ujarnya. 
+
+Penutupan jalur penerbangan ke Yogyakarta oleh Lion Air Group dikarenakan material abu vulkanik dapat merusak pesawat, sehingga membahayakan penerbangan. 
+
+" Lion Air Group harus patuh dan menjalankan kebijakan bandar udara, dan pemerintah, selaku regulator dan standar prosedur operasi (SOP) Grup Lion Air serta ketentuan internasional dalam menjalankan seluruh jaringan operasional, " imbuh Danang. 
+
+Pihak Lion Air Group menyatakan akan segera menginformasikan perkembangan lebih lanjut perihal penerbangan dari dan ke Yogyakarta. 
+
+
+</TEXT>
+
+</TimeML>

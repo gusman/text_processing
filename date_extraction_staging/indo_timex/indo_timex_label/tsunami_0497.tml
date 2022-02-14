@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0497</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-24" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-24</TIMEX3></DCT>
+
+<TITLE>VIDEO - Bocah 5 Tahun Selamat Setelah 11 Jam Bertahan di Bawah Puing-puing Tsunami Banten</TITLE>
+
+<TEXT>
+Sebuah video penyelamatan bocah korban tsunami Banten yang ditemukan tertimbun puing-puing kayu, beredar di masyarakat. 
+
+Video tersebut diunggah akun Instagram reezaherasbudi pada <TIMEX3 tid="t1" type="DATE" value="2018-12-23">Minggu (23/12/2018)</TIMEX3>. 
+
+Bocah yang diketahui bernama Ali tersebut ditemukan dalam kondisi selamat <TIMEX3 tid="t2" type="TIME" value="2018-12-23T08:30">sekitar pukul 08.30 WIB</TIMEX3> atau sekitar belasan jam setelah tsunami menghantam sebagian kawasan Banten. 
+
+Bocah berumur <TIMEX3 tid="t3" type="DATE" value="UNKNOWN">lima tahun itu</TIMEX3> ditemukan di lokasi terdampak tsunami Mutiara Resort di Pantai Carita. 
+
+Ali ditemukan setelah bertahan selama <TIMEX3 tid="t4" type="DURATION" value="PT11H">11 jam</TIMEX3> di tempat penemuannya tersebut. 
+
+Ali langsung mendapat pertolongan dan ditangani oleh Bid Dikes Polda Banten. 
+
+Pertolongan terhadap Ali dipimpin langsung oleh Dansat Brimob Polda Banten Kombes Pol. 
+
+Simak detik-detik penyelamatan Ali dalam video berikut. 
+
+(tribunnews. 
+
+com) 
+</TEXT>
+
+</TimeML>

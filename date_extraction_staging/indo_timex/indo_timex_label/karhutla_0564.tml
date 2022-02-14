@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0564</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-06" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-06</TIMEX3></DCT>
+
+<TITLE>Kabut Asap dari Kebakaran Lahan Kembali Parah, Penderita ISPA Meningkat</TITLE>
+
+<TEXT>
+Kebakaran lahan yang terjadi di Kabupaten Kotawaringin Timur dan Kota Palangkaraya, Kalimantan Tengah, makin parah. 
+
+Asap tebal dampak kebarakan lahan menyelimuti dua daerah ini sehingga sangat mengganggu aktifitas warga. 
+
+Hujan tidak tidak tampak mengguyur sejak <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">dua minggu ini</TIMEX3>, mengakibatkan lahan gambut dua daerah tersebut mengering dan terbakar secara sporadis. 
+
+Parahnya lagi, kebakaran lahan tidak terjadi hanya pada lahan milik masyarakat tetapi juga ada beberapa lahan koorporasi atau perusahaan yang terbakar. 
+
+Kabut asap juga telah mengakibatkan, penerbangan di Bandara Tjilik Riwut dan Bandara H Asan Sampit terganggu. 
+
+Jarak pandang di landasan pacu bandara pendek, pilot pesawat tidak berani landing sehingga jadwal penerbanganpun terganggu. 
+
+. 
+
+Banyak organisasi dan lembaga yang secara sukarela membagikan masker atau penutup muka secara gratis di jalan umum untuk menghindari menghisap secara langsung kabut asap. 
+
+Demikian juga dengan Dinas Kesehatan membagikan masker secara gratis di jalan mapun lewat puskesmas dan pustu. 
+
+Pemadaman kebakaran lahan terus dilakukan oleh petugas melalui jalur darat dan udara dengan helikopter waterboombing namun tidak menghasilkan dampak yang optimal untuk meredakan kebakaran dan kabut asap sehingga kebakaran yang terjadi makin parah menimbulkan asap tebal. 
+
+" Kabut asap sangat tebal mengakibatkan jarak pandang semakin pendek dalam <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">tiga hari ini</TIMEX3>. 
+
+Kondisi asap di Kotim dan Palangkaraya hampir sama saja, kami memilih tinggal di rumah saja, untuk menghindari kabut asap yang menyesakkan dada, " ujar M Yusuf warga Palangkaraya.Kepala Dinas Kesehatan Kalteng, Suyuti Syamsul, mengatakan, dalam kondisi kabut asap seperti <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> warga diminta jangan banyak keluar rumah jika dalam kondisi tidak penting untuk menghindari menghirup asap secara langsung. " Jikapun ingin keluar gunakan masker, banyak minum air puih dan konsumsi buah, agar kondisi tubuh tetap terjaga, " ujarnya.(Tribunkalteng.com/ faturahman) 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0108</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-08" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-08</TIMEX3></DCT>
+
+<TITLE>Wali Kota Ingin Ada Pembatasan Waktu Penggalangan Dana Korban Gempa dan Tsunami, Ini Alasannya</TITLE>
+
+<TEXT>
+Pasca kejadian gempa bumi dan tsunami di Donggala dan Palu Provinsi Sulawesi Tengah pada <TIMEX3 tid="t1" type="DATE" value="2018-09-29">Jumat (29/9) lalu</TIMEX3>, hingga <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> banyak lembaga sosial, organisasi, maupun mahasiswa yang meminta sumbangan di pertigaan maupun bundaran di Banjarmasin. 
+
+Untuk menggalang dana di Banjarmasin, ternyata perlu izin. 
+
+Wali Kota Banjarmasin, Ibnu Sina, mengatakan ada 25 komunitas dan BPK datang kepadanya untuk meminta izin untuk penggalangan dana. 
+
+Agar tertib dan tak menyalahi aturan, pihaknya pun merekomendasikan agar penggalangan dana korban bencana gempa dan tsunami Donggala dan Palu Sulteng harus berizin dari Dinas Sosial Kota Banjarmasin. 
+
+Menurutnya, perizinan ini perlu agar resmi dan tidak disalahgunakan. 
+
+Kami juga membatasi waktunya, ini penting agar tertib. 
+
+Kami paham betul jika mereka ingin membantu saudara yang terkena musibah apalagi ini bentuk rasa simpati. 
+
+Namun, kami juga perlu menertibkan jangan sampai marak lagi dijalan-jalan, ujarnya. 
+
+(Banjarmasinpost. 
+
+co. 
+
+id/Eka Pertiwi) 
+</TEXT>
+
+</TimeML>

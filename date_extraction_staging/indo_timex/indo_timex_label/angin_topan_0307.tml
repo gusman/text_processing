@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0307</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-05" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-05</TIMEX3></DCT>
+
+<TITLE>Lansia Rumahnya Ambruk, Terima  Rantang Simpati</TITLE>
+
+<TEXT>
+Plt. 
+
+Camat Pamulihan, Mamat Hadi Syaputra didampingi Kades Ciptasari, Lasmena SE, menyerahkan Rantang Simpati kepada warga usia lanjut (lansia) sebatang kara dan terlantar di Pamulihan. 
+
+Terpantau, Rantang Simpati diserahkan kepada Ny. 
+
+Empat (80) yang merupakan lansia warga RT 2 RW 1, Desa Ciptasari, Kec. 
+
+Pamulihan. 
+
+Mamat Hadi Syaputra mengatakan, Rantang Simpati bagian dari program Rumah Besar Simpati, program penanganan fakir miskin lansia serta orang tidak mampu, sebagai bentuk tanggungjawab pemerintah. 
+
+Dikatakan, Pemkab Sumedang memiliki program Rantang Simpati yakni memberi makan <TIMEX3 tid="t1" type="DATE" value="P1D">sehari</TIMEX3> dua kali untuk lansia yang tinggal sebatang kara dan terlantar. 
+
+Pemanfaat Rantang Simpati ini, benar-benar hidup sebatang kara yang juga rumahnya ambruk faktor alam sekira <TIMEX3 tid="t2" type="DATE" value="2020-01-05">sebulan lalu</TIMEX3>, kata Mamat, <TIMEX3 tid="t3" type="DATE" value="2020-02-05">Rabu 5 Februari 2020</TIMEX3>. 
+
+Sementara, Kades Ciptasari Lasmena SE mengapresiasi realisasi program Rantang Simpati tersebut. 
+
+Alhamdulillah, ini merupakan program baik dalam upaya berbagi terhadap sesama khususnya lansia yang hidup sebatang kara, ucapnya. 
+
+Warga setempat, Rosnani (40) membenarkan jika bangunan rumah panggung milik Ny. 
+
+Empat rata dengan tanah akibat hujan deras dan angin kencang. 
+
+Ny. 
+
+Empat hidup seorang diri dan biaya hidup sehari-hariya pun dari anaknya yang diketahui hanya pedagang awug, kata dia. 
+
+Warga ikut bersyukur jika Ny. 
+
+Empat menjadi pemanfaat program Rantang Simpati yang <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">sekarang</TIMEX3> tinggal bersama anaknya. 
+
+*** 
+</TEXT>
+
+</TimeML>

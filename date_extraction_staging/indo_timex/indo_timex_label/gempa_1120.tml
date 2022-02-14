@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1120</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-16" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-16</TIMEX3></DCT>
+
+<TITLE>Kar Powership Distribusikan Bantuan Korban Gempa Sulteng melalui Baznas</TITLE>
+
+<TEXT>
+Untuk kepeduliannya pada bencana gempa dan tsunami Palu, Donggala dan Sigi, PT Kar Powership Indonesia (KPI) menyediakan bantuan kepada korban gempa dan tsunami di Sulawesi Tengah. 
+
+Dalam melaksanakan program bantuan tersebut, KPI berkolaborasi dengan Badan Amil Zakat Nasional (Baznas) untuk mendistribusikan bantuan ke titik-titik sekitar Palu dan Donggala, Sulawesi Tengah. 
+
+Bantuan kebutuhan yang diberikan oleh PT Kar Powership Indonesia melalui Baznas, berupa tenda, velbed, matras, selimut, perlengkapan kebersihan, makanan, dan air mineral dengan total kurang lebih satu miliar rupiah. 
+
+Bantuan ini nantinya akan didistribusikan oleh Baznas yang tersebar di 10 posko di Sulawesi Tengah dan sekitarnya. 
+
+Program bantuan ini adalah bentuk dari kepedulian PT Kar Powership Indonesia terhadap bencana di Indonesia, terutama di Palu, Donggala, dan Sigi. 
+
+KPI berharap bantuan yang diberikan dapat segera tersalur ke saudara-saudara kita di Sulawesi Tengah. 
+
+Berharap bantuan yang diberikan dapat segera menjangkau para korban yang membutuhkan, kata Direktur Regional Karpowership Indonesia, Mehmet Ufuk Berk, kepada di Jakarta, <TIMEX3 tid="t1" type="DATE" value="2018-10-16">Selasa (16/10)</TIMEX3>. 
+
+Acara Serah Terima diselenggarakan di Bandara Halim Perdanakusuma yang dipimpin oleh Ufuk Berk dari PT Kar Powership Indonesia kepada Ir. 
+
+Nana Mintarti dari Badan Amil Zakat Nasional (Baznas) sebagai mitra untuk pengiriman dan pendistribusian donasi ke titik-titik bencana di Sulawesi Tengah. 
+
+Disampaikan Nana Mintarti dari Baznas, kami sangat gembira menerima bantuan dari Kar Powership Indonesia untuk korban gempa di Palu. 
+
+Tentu akan sangat membantu bagi pengungsi di sana karena <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih sangat membutuhkan tiker, tenta dan perlengkapan kebersihan terutama bagi kaum rentan seperti, bayi dan lansia. 
+
+
+</TEXT>
+
+</TimeML>

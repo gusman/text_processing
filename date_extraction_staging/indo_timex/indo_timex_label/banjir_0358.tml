@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0358</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-01</TIMEX3></DCT>
+
+<TITLE>150 Rumah di Perumahan Cimareme Indah KBB Diterjang Banjir Bandang, 8 Rumah Jebol</TITLE>
+
+<TEXT>
+Sebanyak 150 rumah di Perumahan Cimareme Indah, Blok D RT <TIMEX3 tid="t1" type="DATE" value="2019-03-04">04/03</TIMEX3>, Desa Margajaya, Kecamatan Ngamprah, Kabupaten Bandung Barat (KBB) diterjang banjir bandang yang terjadi pada <TIMEX3 tid="t2" type="DATE" value="2019-12-31">Selasa (31/12/2019)</TIMEX3>. 
+
+Hingga <TIMEX3 tid="t3" type="DATE" value="2020-01-01">Rabu (1/1/2020)</TIMEX3>, rumah mereka masih terendam lumpur, bahkan mereka harus mengeluarkan semua peralatan rumah tangga semisal lemari, kursi, dan alat elektronik yang lainnya. 
+
+Ketua RT 04, Yayat Ruhyat, mengatakan bahwa selain terendam lumpur, ada rumah warga di perumahan tersebut yang rusak parah hingga bagian dindingnya jebol akibat diterjang banjir bandang setelah tanggul irigasi di sekitar perumahan jebol. 
+
+" Dari 150 rumah yang terdampak banjir bandang, 8 rumah yang lainnya jebol, " ujar Yayat saat ditemui di di Perumahan Cimareme Indah. 
+
+. 
+
+Tetapi, yang paling penting warga akan membetulkan tanggul yang jebol. 
+
+" Karena <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih terjadi hujan deras, kami khawatir ada banjir susulan yang airnya membawa lumpur dan sampah, " katanya. 
+
+Hendra (51) warga setempat mengatakan, akibat banjir bandang tersebut, membuat dinding rumahnya retak-retak dan sebagian ruangan jebol. 
+
+" Makanya saya ini meminta ke pemerintah untuk penanganan <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dulu</TIMEX3> rumah saya yang sudah retak-retak karena sudah ada ruangan yang jebol, " katanya.Atas hal tersebut, anak-anaknya harus diungsikan <TIMEX3 tid="t6" type="DATE" value="PAST_REF">dulu</TIMEX3> ke masjid di sekitar perumahan itu, sementara dia membersihkan rumah yang terendam lumpur. 
+</TEXT>
+
+</TimeML>

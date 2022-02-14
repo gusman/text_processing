@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1016</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-08-29" temporalFunction="false" functionInDocument="CREATION_TIME">2016-08-29</TIMEX3></DCT>
+
+<TITLE>Kabut Asap Kian Memburuk</TITLE>
+
+<TEXT>
+
+
+Sejak <TIMEX3 tid="t1" type="DATE" value="UNKNOWN">sepekan ini</TIMEX3> Provinsi Riau masih menjadi penyumbang hotspot atau titik panas di Sumatera. 
+
+Data Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Stasiun Pekanbaru mencatat ada 61 hotspot di Riau. 
+
+
+Seperti yang disampaikan Kepala BMKG Stasiun Pe kanbaru, Sugarin melalui Kepala Seksi (Kasi) In for masi, Slamet Riyadi. 
+
+Ada 65 hotspot yang memiliki tingkat kepercayaan di atas 70 per sen. 
+
+Dengan sebaran Lampung 3 titik, Sumbar (Sumatera Barat) 1 titik, dan Riau 61 titik, katanya, <TIMEX3 tid="t2" type="DATE" value="2016-08-27">Sabtu (27/08) kemarin</TIMEX3>. 
+
+
+Hotspot di Riau paling banyak masih disumbang Kabupaten Rokan Hilir (Rohil) dengan 36 titik. 
+
+Kemudian Siak 13 titik, Bengkalis 9 titik, Rokan Hulu 2 titik, dan Kampar 1 titik. 
+
+
+Sehingga visibility atau jarak pandang di Bandara Internasional Sultan Syarif Kasim (SSK) II Pekanbaru <TIMEX3 tid="t3" type="DATE" value="2500">2500</TIMEX3> meter berasap, Rengat 5 kilometer, Dumai 1.500 meter, dan Pelalawan 7 kilometer. 
+
+
+Secara umum cuaca di Riau berpeluang hujan dengan intensitas ringan tidak merata yang dapat disertai petir dan kilat serta angin kencang diprakirakan terjadi di wilayah Riau bagian barat dan tengah pada <TIMEX3 tid="t4" type="TIME" value="2016-08-28TAF">sore</TIMEX3> atau <TIMEX3 tid="t5" type="TIME" value="2016-08-28TNI">malam</TIMEX3> dini hari. 
+
+
+Prakiraan cuaca di <TIMEX3 tid="t6" type="TIME" value="2016-08-28TAF">siang hari</TIMEX3> cukup terik dengan temperatur maksimal 32.5 - 35.0 derajat celcius. 
+
+Dengan kelembaban maksimal 90 - 96 persen. 
+
+Angin secara umum dari arah Tenggara - Barat dengan kecepatan 05 15 knots (10 27 Km/jam). 
+
+
+Prakiraan tinggi gelombang laut berlaku mulai <TIMEX3 tid="t7" type="TIME" value="2016-08-28T07:00">pukul 07.00 WIB</TIMEX3> sampai <TIMEX3 tid="t8" type="TIME" value="2016-08-28T19:00">19.00 WIB</TIMEX3>, Rohil <TIMEX3 tid="t9" type="TIME" value="2016-08-28T00:25">0.25</TIMEX3> - 0.5 meter, Dumai <TIMEX3 tid="t10" type="TIME" value="2016-08-28T00:25">0.25</TIMEX3> - 0.5 meter, Bengkalis <TIMEX3 tid="t11" type="TIME" value="2016-08-28T00:25">0.25</TIMEX3> - 0.5 meter, Inhil <TIMEX3 tid="t12" type="TIME" value="2016-08-28T00:25">0.25</TIMEX3> - 0.5 meter, dan Kepulaua Meranti <TIMEX3 tid="t13" type="TIME" value="2016-08-28T00:25">0.25</TIMEX3> - 0.5 meter. 
+
+
+
+Dampak kebakaran lahan dan hutan (Karlahut) di Provinsi Riau kembali dirasakan oleh masyarakat. 
+
+Dimana, kabut asap tipis kembali menyelimuti Kota Pekanbaru, <TIMEX3 tid="t14" type="TIME" value="2016-08-28TMO">Minggu (28/8) pagi</TIMEX3>. 
+
+
+Pantauan di lokasi Jalan Cut Nyak Dien, Pekanbaru, sejumlah gedung pencakar langit di Pekanbaru tampak tertutup kabut asap. 
+
+Aktivitas masyarakat yang sering menghabiskan waktu olahraga di <TIMEX3 tid="t15" type="DATE" value="2016-08-28">hari Minggu</TIMEX3> pun sedikit terganggu. 
+
+Mereka menggunakan masker untuk menetralisir udara yang mulai bercampur dengan asap. 
+
+
+
+Kabut Asap di Kota Dumai cukup pekat, sehingga membuat jarak pandang menurun drastis. 
+
+Bahkan terbatasnya jarak pandang mulai menganggu penerbangan di Bandara Pinang Kampai. 
+
+
+Seperti pesawat Pelita Air jenis ATR 72 dari Halim tujuan Dumai terpaksa divert (dialihkan) ke Bandara Sultan Syarif Kasim (SSK) II Pekanbaru karena tidak bisa mendarat di Dumai diakibatkan asap. 
+
+
+Ya, tadi Pelita Air mendarat di Pekanbaru <TIMEX3 tid="t16" type="TIME" value="2016-08-28T09:50">pukul 09.50 WIB</TIMEX3>. 
+
+Maskapai dari Halim Perdana Kusuma Jakarta ini harusnya mendarat di Pinang Kampai Dumai, tapi karena kabut asap mengganggu jarak pandang ke Pekanbaru, jelas Airport Duty Manager Bandara SSK II, Bambang Setiawan, <TIMEX3 tid="t17" type="DATE" value="2016-08-27">Minggu (27/8)</TIMEX3>. 
+Sementara di Pekanbaru sendiri kata Bambang, visibility atau jarak pandang masih diatas batas minimal untuk penerbangan, meskipun diselimuti kabut asap tipis. 
+Jarak pandang di SSK II 5.000 meter jadi belum mengganggu penerbangan. 
+
+<TIMEX3 tid="t18" type="TIME" value="2016-08-28TMO">Pagi tadi</TIMEX3> penerbangan citilink normal, tuturnya. 
+
+
+</TEXT>
+
+</TimeML>

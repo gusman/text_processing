@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0296</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-03</TIMEX3></DCT>
+
+<TITLE>10 Bus Untuk Pemulangan Warga Gorontalo</TITLE>
+
+<TEXT>
+Pemerintah Provinsi Gorontalo <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> sudah menyiapkan 10 unit bus untuk proses evakuasi warga Gorontalo yang menjadi korban gempa dan tsunami di Palu dan Donggala Sulteng. 
+
+Rencananya Gubernur Gorontalo Rusli Habibie akan memimpin langsung proses evakuasi tersebut pada <TIMEX3 tid="t2" type="DATE" value="2018-10-03">Rabu</TIMEX3> atau <TIMEX3 tid="t3" type="DATE" value="2018-10-04">Kamis besok</TIMEX3>. 
+
+Kepala Bapppeda Provinsi Gorontalo Budiyanto Sidiki di Gorontalo, menjelaskan bahwa tadinya proses evakuasi akan dilakukan melalui jalur udara, dimana pemerintah telah melayangkan surat kepada TNI untuk peminjaman pesawat Hercules. 
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> suasana evakuasi Hercules tidak memungkinkan, karena kita dapat informasi bandara Palu dipenuhi oleh warga yang ingin keluar. 
+
+Ada alternatif untuk mengevakuasi warga menggunakan bus melalui jalur darat, imbuhnya. 
+
+Dijelaskan lagi bahwa warga Gorontalo di Palu yang terdampak diminta untuk berkumpul dan mendata diri di Posko BPBD Pemprov Gorontalo yang sudah berada di Palu. 
+
+Dimana mereka yang akan dievakuasi adalah benar benar warga yang ingin ke Gorontalo dan memiliki sanak saudara atau famili di Gorontalo yang bisa menampung mereka <TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">nanti</TIMEX3>. 
+
+Kami tegaskan sekali lagi bahwa yang akan dievakuasi hanyalah mereka yang benar benar ingin kembali, dan memiliki sanak famili di Gorontalo. 
+
+Karena Pemprov Gorontalo tidak menyiapkan posko penampungan di Gorontalo, sebab semua terkonsentrasi di Palu. 
+
+Dibuka kesempatan bagi warga Gorontalo untuk menampung pengungsi Palu yang tidak memiliki keluarga di Gorontalo, tutupnya. 
+
+Rencananya <TIMEX3 tid="t6" type="DATE" value="2018-10-03">hari ini</TIMEX3> tim evakuasi akan bertolak ke Sulteng, dilepas langsung oleh Gubernur Rusli Habibie. 
+
+(RG-25) 
+</TEXT>
+
+</TimeML>

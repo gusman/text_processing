@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0829</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-11-20" temporalFunction="false" functionInDocument="CREATION_TIME">2015-11-20</TIMEX3></DCT>
+
+<TITLE>60 Persen Lahan Pertanian di Distrik Semangga Gagal Panen</TITLE>
+
+<TEXT>
+Kepala Distrik Semangga, Rekianus Samkakai mengatakan, setelah terjadi kemarau panjang <TIMEX3 tid="t1" type="DURATION" value="PXM">beberapa bulan</TIMEX3> terakhir, mengakibatkan tanaman padi milik petani di 10 kampung, mengalami gagal panen akibat kekeringan. 
+
+Hal itu disampaikan Rekianus kepada Jubi di Kampung Marga Mulya <TIMEX3 tid="t2" type="DATE" value="2015-11-19">Kamis (19/11/2015)</TIMEX3>. 
+
+Dikatakan, Hanya 40 persen areal persawahan petani bisa memberikan hasil padi. 
+
+Itupun tidak maksimal, akibat kekurangan air. 
+
+Sedangkan 60 gagal total, akibat kekurangan air dan panas berkepanjangan. 
+
+Hasil pantauan saya yang bisa panen dalam musim tanam kedua adalah di Kampung Muram Sari, Marga Mulya serta Semangga Jaya. 
+
+Sedangkan tujuh kampung lain, sama sekali terjadi kekeringan dan tanaman mati, tuturnya. 
+
+Pemerintah Kabupaten (Pemkab) Merauke, demikian Rekianus, telah melakukan berbagai upaya normalisasi saluran drainase yang ada. 
+
+Namun, kenyataannya debit air sangat kurang, sehingga semua areal persawahan tak mendapatkan jatah air. 
+
+Ya, pemerintah sudah berusaha semaksimal dengan menurunkan alat berat guna melakukan normalisasi drainase yang ada, tetapi kondisinya tidak berubah juga. 
+
+Hanya beberapa kampung bisa memanen, tetapi hasilnya-pun tidak maksimal, katanya. 
+
+Rekianus mengaku tidak mengetahui secara pasti berapa hektar lahan yang gagal. 
+
+Memang ada datanya, tetapi ada di kantor. 
+
+Sehingga saya tak bisa merincikan secara detail, tuturnya. 
+
+Salah seorang warga di Kampung Kuprik, Distrik Semangga, Marlina menuturkan, lahannya seluas empat hektar lahan padi semuanya mati akibat kemarau panjang. 
+
+Kami sedang mengalami kesulitan <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>. 
+
+Sehingga mau tidak mau, harus membeli raskin juga untuk memenuhi kebutuhan hidup <TIMEX3 tid="t4" type="SET" value="P1D">setiap hari</TIMEX3>, tuturnya. 
+
+(Frans L Kobun). 
+</TEXT>
+
+</TimeML>

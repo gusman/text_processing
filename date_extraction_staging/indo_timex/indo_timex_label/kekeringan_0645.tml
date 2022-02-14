@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0645</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-09-10" temporalFunction="false" functionInDocument="CREATION_TIME">2015-09-10</TIMEX3></DCT>
+
+<TITLE>Semoga Allah Segera Menurunkan Hujan</TITLE>
+
+<TEXT>
+Wakil Wali Kota Bekasi Achmad Syaikhu mengajak warga Kota Bekasi untuk bersama-sama melaksanakan Shalat Istiqsa atau shalat minta hujan pada <TIMEX3 tid="t1" type="DATE" value="2015-W37">akhir pekan ini</TIMEX3>. 
+
+Hal ini disebabkan cuaca panas serta kekeringan yang melanda beberapa wilayah di Kota Bekasi. 
+
+" Mungkin kita merasa cuaca semakin panas, sebagian wilayah mulai kekeringan khususnya Bekasi Utara, Teluk Pucung. 
+
+Oleh karena itu ada masukan dari MUI untuk bersama-sama menyelenggarakan Shalat istiqso. 
+
+Insya Allah dilakukan <TIMEX3 tid="t2" type="DATE" value="UNKNOWN">tanggal 12 besok</TIMEX3>, " ujar Achmad Syaikhu ketika dihubungi, <TIMEX3 tid="t3" type="DATE" value="2015-09-02">Rabu (9/9/2015)</TIMEX3>. 
+
+Syaikhu menjelaskan, <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, Badan Penanggulangan Bencana Daerah (BPBD) Kota Bekasi sudah banyak menyebarkan bantuan air bersih ke wilayah-wilayah yang kekeringan. 
+
+Jam layanan sumur artesis di Bantargebang juga bertambah. 
+
+Awalnya hanya bisa digunakan <TIMEX3 tid="t5" type="DURATION" value="PT1H">satu jam</TIMEX3> oleh warga, <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">kini</TIMEX3> ditambah menjadi <TIMEX3 tid="t7" type="DURATION" value="PT2H">dua jam</TIMEX3>. 
+
+Hal tersebut, kata Syaikhu, menunjukan bahwa Kota Bekasi sedang kemarau. 
+
+<TIMEX3 tid="t8" type="DATE" value="2015-09-09">Kemarin</TIMEX3>, Pemerintah Kota Bekasi telah melakukan rapat bersama dengan Majelis Ulama Indonesia untuk membahas rencana shalat minta hujan ini. 
+
+Berdasarkan rapat tersebut, shalat akan dilaksanakan pada <TIMEX3 tid="t9" type="DATE" value="2015-09-12">Sabtu (12/9/2015)</TIMEX3> mulai <TIMEX3 tid="t10" type="TIME" value="2015-09-09T06:30">pukul 06.30 WIB</TIMEX3> di Alun-alun Kota Bekasi. 
+
+Rencananya, shalat ini akan diikuti oleh 3.000 warga Kota Bekasi. 
+
+<TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3>, surat pemberitahuan mengenai shalat tersebut juga sudah disebarkan ke masjid-masjid yang ada di 12 kecamatan di Kota Bekasi. 
+
+Syaikhu berharap semoga upaya ini bisa menyudahi kemarau di Kota Bekasi. 
+
+" Bersama-sama, semoga Allah segera menurunkan hujan, " ujar Syaikhu. 
+</TEXT>
+
+</TimeML>

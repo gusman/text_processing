@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_0206</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-09-14" temporalFunction="false" functionInDocument="CREATION_TIME">2019-09-14</TIMEX3></DCT>
+
+<TITLE>Parahnya Kabut Asap di Sumsel, Jembatan Ikon Ogan Ilir Pun Sampai Tak Terlihat</TITLE>
+
+<TEXT>
+Kabut asap sisa kebakaran lahan di Ogan Ilir, Sumatera Selatan (Sumsel) <TIMEX3 tid="t1" type="TIME" value="UNKNOWN">pagi ini Jumat</TIMEX3> (13/9/2019) terpantau makin pekat. 
+
+Kabut asap berwarna putih pekat itu membuat jarak pandang menjadi terbatas. 
+
+Kabut asap itu juga membuat Komplek Perkantoran Pemkab Ogan Ilir di Tanjung Senai menjadi tak terlihat sama sekali tertutup asap. 
+
+Kabut asap juga membuat jembatan Pesona Tanjung Senai yang merupakan ikon Kabupaten Ogan Ilir juga nyaris tak terlihat. 
+
+Kabut asap menutupi jembatan yang besar dan tinggi itu sehingga hanya bagian atasnya saja yang terlihat. 
+
+Kendaraan yang melintaspun tampak menyalakan lampu kendarannya agar tak terjadi tabrakan sebab jarak pandang menjadi terbatasa tertutup kabut asap. 
+
+Kabut asap yang tebal itu juga menutupi sebuah komplek balai benih milik Pemkab Ogan Ilir. 
+
+Komplek itu terlihat hanya samar dari kejauhan. 
+
+Sungai Kelekar yang membentang tak jauh dari Kompek perkantoran Pemkab Ogan Ilir itupun terutup kabut asap membuat beberapa pencari ikan tampak samar tertutup kabut asap. 
+
+Aktivitas warga tergangguDenny, salah seorang warga mengatakan, kabut asap <TIMEX3 tid="t2" type="TIME" value="2019-09-14TMO">pagi ini</TIMEX3> lebih tebal dibanding <TIMEX3 tid="t3" type="DATE" value="PXD">beberapa hari sebelumnya</TIMEX3>. 
+
+// Denny mengaku terganggu oleh kabut asap terutama jarak pandang yang terbatas dan bahaya dampak penyakit dari yang ditimbukannya. 
+
+Lebih tebal dari sebelumnya pak, jarak pandang juga jadi pendek. 
+
+Yang saya khawatirkan dampaknya pada kesehatan terutama pernapasan, katanya Aswari seorang pekerja kebersihan Pemkab Ogan Ilir juga merasakan kabut asap <TIMEX3 tid="t4" type="DATE" value="2019-09-14">hari ini</TIMEX3> lebih tebal dari sebelumnya. 
+
+Aswari berharap agar kebakaran lahan dapat dihentikan sehingga udara menjadi kembali bersih. 
+
+Iya pak lebih tebal, semoga kebakaran lahan cepat diatasi sehingga udara menjadi bersih kembali, katanya. 
+
+Terjunkan 7 heli water bombingSementara dari data pihak BPBD Sumsel <TIMEX3 tid="t5" type="DATE" value="2019-09-14">hari ini</TIMEX3> tercatat sedikitnya ada 18 titik panas atau hot spot dengan tingkat kepercayaan 80-100 persen di wilayah Sumatera Selatan. 
+
+Sebelumnya Pangdam 2 Sriwijaya Mayjen Irwan saat meninjau lokasi Kebun Raya Sumatera Selatan di Desa Bakung Ogan Ilir yang terbakar pada <TIMEX3 tid="t6" type="DATE" value="2019-09-13">Kamis (13/9/2019)</TIMEX3>. 
+
+Ia mengatakan, pihaknya akan mengoptimalkan 7 buah helikopter water bombing yang ada untuk melakukan pemadaman kebakaran lahan di Sumatera Selatan. 
+
+Saya juga sudah mengerahkan 1.500 personel TNI-Polri tinggal di desa-desa bersama warga untuk menyosialisasikan bahaya kebakaran lahan dan pencegahannya, katanya. 
+</TEXT>
+
+</TimeML>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0070</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-10-23" temporalFunction="false" functionInDocument="CREATION_TIME">2019-10-23</TIMEX3></DCT>
+
+<TITLE>Warga Alirkan Air ke Kebun Cengkih, Perparah Kekeringan di Desa Pangkung Paruk</TITLE>
+
+<TEXT>
+<TIMEX3 tid="t1" type="DATE" value="2019-SU">Musim kemarau</TIMEX3> berkepanjangan membuat volume air bersih di wilayah Desa Pangkung Paruk, Kecamatan Seririt, Buleleng mengecil. 
+
+Warga yang ada di wilayah Dusun Laba Amerta, Pangkung Paruk, dan Laba Nangka di desa setempat terpaksa mengambil air dari desa tetangga untuk keperluan Mandi Cuci dan Kakus (MCK). 
+
+Perbekel Desa Pangkung Paruk, Ketut Sudiarsana mengatakan, sumber mata air untuk warga di Desa Pangkung Paruk selama ini diambil dari kawasan Hutan Yeh Selem, menggunakan pipa berukuran 3,5 dim. 
+
+Namun dengan kondisi cuaca seperti <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, air bersih tidak dapat disalurkan ke seluruh rumah warga. 
+
+" <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> hanya bisa dialirkan ke keran umum, karena debitnya menurun, " jelasnya, <TIMEX3 tid="t4" type="DATE" value="2019-10-22">Selasa (22/10/2019)</TIMEX3>. 
+
+Pihak desa bahkan sebut Sudiarsana sudah berupaya menambah debit air dengan sumur bor serta mengambil air sungai yang ada di desa setempat menggunakan mesin pompa. 
+
+. 
+
+Hal ini dikarenakan, ada beberapa warga yang tinggal di dekat sumber mata air, justru mengalirkan air untuk perkebunan cengkihnya. 
+
+" Ada beberapa warga pakai pipa ukuran satu dim, untuk mengaliri kebun cengkihnya. 
+
+Kami sudah melarang tindakan beberapa warga, dan akan dilakukan pengawasan bersama pihak kepolisian. 
+
+Karena pengambilan tanpa izin ini telah merugikan warga yang lebih banyak, " jelasnya. 
+
+// Krisis air bersih juga terjadi di Desa Pedawa dan Desa Tigawasa, Kecamatan Banjar, Buleleng. 
+
+Dinas PUPR Buleleng mulai menyusuri sumber air yang ada di tebing Dusun Marga Langu, Desa Gobleg, Kecamatan Banjar, untuk membantu menambah penyediaan air yang ada di dua desa tersebut. 
+
+. 
+
+Atas temuan ini, Suparta mengaku akan menentukan konsep struktur jaringannya terlebih <TIMEX3 tid="t5" type="DATE" value="PAST_REF">dahulu</TIMEX3>, mengingat lokasi sumber air ada di tebing bukit. 
+
+Sehingga ditargetkan sumber air itu dapat dimanfaatkan untuk memenuhi kebutuhan air di Desa Tigawasa dan Desa Pedawa pada <TIMEX3 tid="t6" type="DATE" value="2020">2020 mendatang</TIMEX3>. 
+
+Setelah melihat besaran debet dan titik lokasinya seperti apa, <TIMEX3 tid="t7" type="DATE" value="FUTURE_REF">nanti</TIMEX3> anggaran biaya yang diperlukan akan terlihat, baru kita lakukan tahap selanjutnya, " katanya. 
+
+(*) 
+</TEXT>
+
+</TimeML>

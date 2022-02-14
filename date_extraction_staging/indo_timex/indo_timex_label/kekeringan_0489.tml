@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>kekeringan_0489</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2012-09-04" temporalFunction="false" functionInDocument="CREATION_TIME">2012-09-04</TIMEX3></DCT>
+
+<TITLE>Kemarau, Empat Desa di Magelang Langka Air</TITLE>
+
+<TEXT>
+Kemarau panjang yang terjadi <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">sekarang ini</TIMEX3> menyebabkan sejumlah desa di Kabupaten Magelang mengalami kekeringan. 
+
+Warga juga mengaku kesulitan mendapatkan air bersih untuk kebutuhan <TIMEX3 tid="t2" type="SET" value="P1D">sehari-hari</TIMEX3>. 
+
+Karenanya, Badan Penanggulanagn Bendana Daerah (BPBD) Kabupaten Magelang pun melakukan dropping air bersih ke beberapa desa yang melaporkan mengalamai kekeringan. 
+
+Menurut Kepala Bidang Kedaruratan dan Logistik BPBD Kabupaten Magelang, Joko Sudibyo, pihaknya sudah melakukan dropping air sejak <TIMEX3 tid="t3" type="DATE" value="2012-07-21">21 Juli lalu</TIMEX3>. 
+
+Menurutynya, sebanyak empat desa sudah mengajukan permohonan untuk diikirimkan air bersih. 
+
+Empat desa tersebut adalah desa Kenalan, Ringinputih, dan Kembanglimus di kecamatan Borobudur serta desa Banyudono di kecamatan Dukun. 
+
+Pihaknya memang melakukan dropping air berdasarkan pada pengajuan pihak desa. 
+
+Setelah ada pengajuan, pihaknya kemudian melakukan survey wilayah dan memasang tandon air di sana terlebih <TIMEX3 tid="t4" type="DATE" value="PAST_REF">dahulu</TIMEX3>. 
+
+Jadi <TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">nanti</TIMEX3> mobil tangki tinggal mengalirkan air ke tandon-tandon tersebut dan warga bisa mengambil air di situ. 
+
+Kalau warga harus antri dikasih air langsung dari tangki kan kasihan, ujarnya, <TIMEX3 tid="t6" type="DATE" value="UNKNOWN">kemarin (3/9/2012)</TIMEX3>. 
+
+Dijelaskannya, desa yang sudah menerima dropping air adalah Kembanglimus di kecamatan Borobudur sebanyak dua tangki. 
+
+Sementara pada <TIMEX3 tid="t7" type="DATE" value="2012-09-03">kemarin</TIMEX3>, dropping air tiga tangki dilakukan ke desa Kenalan kecamatan Borobudur dan dua tangki desa Banyudono di kecamatan Dukun. 
+
+Masing-masing tangki itu berkapasitas sekitar 5 ribu liter air. 
+
+<TIMEX3 tid="t8" type="DATE" value="UNKNOWN">Sementara hari ini</TIMEX3>, rencananya dropping akan dilakukan di Ringinputih sebanyak dua tangki. 
+
+Menurutnya, pihaknya tak bisa secara penuh melakukan dropping air bersih selama <TIMEX3 tid="t9" type="DATE" value="2012-SU">musim kemarau ini</TIMEX3>. 
+
+Dropping menurutnya hanya dilaksanakan secara tentatif, sesuai kebutuhan masyarakat. 
+
+Minimal karena kedaruratan, kami hanya memasok air untuk kebutuhan minum dan masak, kata Joko. 
+
+Dijelaskannya, kondisi geografis di tiga desa di kecamatan Baorobudur itu memang rawan kekeringan pada <TIMEX3 tid="t10" type="DATE" value="2012-SU">musim kemarau</TIMEX3> seperti <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">sekarang ini</TIMEX3>. 
+
+Sementara di Banyudono kecamatan Dukun, lanjut Joko, warga mengalami kesulitan air bersih karena jalur air tanah di wilayah tersebut rusak akibat banjir lahar dingin <TIMEX3 tid="t12" type="DATE" value="PAST_REF">beberapa waktu lalu</TIMEX3>. 
+
+Menurutnya, dropping akan terus dilakukan selama masih ada laporan warga kesulitan mendapatkan pasokan air bersih. 
+
+Sementara itu, diunbgkapkan Suminah (65), warga dusun Wonolelo, desa Kenalan, kecamatan Borobudur, sumur-sumur di wilayahnya memang mengering dan tak banyak mengeluarkan air pada <TIMEX3 tid="t13" type="DATE" value="2012-SU">musim kemarau</TIMEX3> seperti <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>. 
+
+Kalaupun keluar air, tetap tak bisa digunakan untuk minum atauipun memasak. 
+
+Karena itu, dirinya sangat mengharapakan kiriman air dari pemerintah. 
+
+Air dari sumur kalau <TIMEX3 tid="t15" type="DATE" value="2012-SU">musim kemarau</TIMEX3> begini ngga bisa digunakan untuk minum karena keruh dan campur lendut (lumpur). 
+
+Paling ya cuma bisa buat nyuci, ujarnya. 
+
+(ing) 
+</TEXT>
+
+</TimeML>

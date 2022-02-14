@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>karhutla_1017</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-10-13" temporalFunction="false" functionInDocument="CREATION_TIME">2016-10-13</TIMEX3></DCT>
+
+<TITLE>Karhutla Terjadi  di Tujuh Kecamatan</TITLE>
+
+<TEXT>
+
+
+Kemarau panjang yang melanda sebagian wilayah di Kabupaten Tanah Datar <TIMEX3 tid="t1" type="DURATION" value="P6M">enam bulan</TIMEX3> terakhir menyebabkan terjadinya kebakaran hutan dan lahan (Karhutla). 
+
+
+Api menyebar pada se jumlah titik di wilayah Keca matan Tanjung Emas, Padang Gantiang, Lima Kaum, Sungai Tarab, Pariangan, Rambatan, Salimpaung dan Lintau Buo. 
+
+
+Lokasi titik api sebagian besar muncul pada wilayah perbukitan yang sulit dijangkau oleh armada Pemadam Ke bakaran. 
+
+Upaya pemadaman hanya bisa dilakukan secara manual oleh masyarakat diba wah koordinasi Badan Penang gulangan Bencana Daerah (BPBD) Kabupaten Tanah Datar. 
+
+
+Titik api muncul jauh di dalam hutan pinus, seperti yang terjadi di wilayah Nagari Pa dang Gantiang. 
+
+Pemadaman jelas tak bisa dilakukan dengan menggunakan armada Damkar, hanya mampu dijangkau secara manual, tutur Kepala UPT Damkar Tanah Datar, Sunaryo kepada <TIMEX3 tid="t2" type="DATE" value="2016-10-11">Selasa (11/10)</TIMEX3>. 
+
+
+Kebakaran hutan dan lahan yang disinyalir terjadi akibat cuaca panas yang berke panjangan, rerumputan sudah mengering dan sangat rentan dijilat si jago merah. 
+
+Ini terjadi pada lahan hutan pinus yang ada di wilayah kecamatan Tanjung Emas, Padang Ganting, Rambatan dan Lintau Buo. 
+
+
+Menurut Sunaryo, dalam <TIMEX3 tid="t3" type="DURATION" value="PXM">beberapa bulan</TIMEX3> terakhir operasional pemadaman api sebagian besar berlangsung diwilayah hutan dan lahan pertanian masyarakat yang berjarak tempuh cukup jauh dari pinggir ruas jalan raya. 
+
+
+Kita berupaya menyambung selang air bila jarak titik api dari ruas jalan raya sekitar 50 hingga 100 meter, Namun bila lebih, pemadaman sulit dilakukan. 
+
+Kita juga mengupayakan melakukan pemadaman secara manual memakai tenaga relawan yang ada di Pusdal Ops Penanggulangan Bencana, tuturnya lagi. 
+
+
+Kepala BPBD Tanah Datar, Mukhlis kepada saat di lokasi kebakaran lahan Nagari Padang Gantiang menyebutkan, seluruh lapisan warga yang bermukim di wilayah nagari terutama para petani, diharapkan untuk tidak membuang puntung rokok pada lahan yang sudah mengering. 
+
+
+Kita harus mencegah secara dini. 
+
+Api kecil bisa menjadi pemicu kebakaran hutan yang bisa merembes ke wilayah pemukiman, terutama pemukiman warga yang berdekatan dengan lokasi hutan, seperti di wilayah Kecamatan Rambatan, Nagari Atar, Lintau Buo dan Salimpaung tersebut, pungkasnya. 
+Senada dengan itu, Bupati Irdinansyah Tarmizi mengimbau masyarakat untuk berhati-hati dengan potensi kebakaran terutama kebakaran lahan dan hutan. 
+
+Alhamdulillah, dengan kesigapan BPBD dibantu Kodim <TIMEX3 tid="t4" type="DATE" value="UNKNOWN">0307</TIMEX3> Tanah Datar, Polres Tanah Datar dan masyarakat setempat dapat cepat kita tanggulangi sebelum menyebar luas, ucap Irdinansyah saat acara, <TIMEX3 tid="t5" type="DATE" value="2016-10-03">Senin (10/10)</TIMEX3>. 
+Kepada masyarakat, bupati berpesan agar masyarakat jangan sembarangan membuang puntung rokok atau membakar sampah sembarangan. 
+
+Kalau terpaksa membakar sampah tolong ditunggui sampai padam, jangan dibiarkan saja, kita khawatir dengan cuaca yang panas, rumput yang kering ditambah angin yang berhembus kencang bisa mengobarkan api yang besar, pesan bupati. 
+
+
+</TEXT>
+
+</TimeML>

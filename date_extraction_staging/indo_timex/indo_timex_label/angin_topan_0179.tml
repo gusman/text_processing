@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0179</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-05-30" temporalFunction="false" functionInDocument="CREATION_TIME">2017-05-30</TIMEX3></DCT>
+
+<TITLE>Pohon Tumbang, Arus Listrik Alami Gangguan</TITLE>
+
+<TEXT>
+Hujan selama <TIMEX3 tid="t1" type="DATE" value="P2D">dua hari</TIMEX3> yang melanda Tanjungbalai Karimun dan diikuti dengan badai angin telah mengakibatkan gangguan suplai atau pasokan listrik PLN di beberapa lokasi. 
+
+Gangguan ini dalam bentuk menurunnya voltase atau arus listrik yang masuk ke pelanggan. 
+
+Bersamaan dengan itu juga ada badai angin. 
+
+Sehingga, telah menyebabkan ada pohon-pohon yang tumbang dan terkena dengan kabel listrik. 
+
+Memang, menyebabkan voltase menjadi terganggu. 
+
+Hanya saja, setelah pohon tumbang berhasil dipindahkan, kondisi listrik sudah normal kembali, ujar Manajer PLN Ranting Tanjungbalai Karimun, Fauzan kepada Batam Pos, Sebinb <TIMEX3 tid="t2" type="DATE" value="2017-05-29">(29/5)</TIMEX3>. 
+
+Hujan dan angin kencang tak hanya mengganggu aliran listrik ke pelanggan yang berasal dari mesin PLTU, tapi juga yang berasal dari mesin PLTD. 
+
+Artinya, meski lokasi mesin PLTU dan PLTD terletak dim lokasi yang berbedam, satu di tepi laut dan satu di bukit, tetap saja bisa terganggu. 
+
+Sebab, jaringan listriknya sama. 
+
+Menyinggung tentang pemasangan kabel bawah laut yang pernah direncanakan oleh PLN Tanjungbalai Karimun <TIMEX3 tid="t3" type="DATE" value="PXY">beberapa tahun lalu</TIMEX3>, Fauzan menyebutkan, bahwa rencana tersebut memang sempat ada, khususnya pemasangan kabel bawah laut dari Pulau Parit ke Pulau Karimun. 
+
+Tapi, hal ini sifatnya hanya wacana. 
+
+Karena, <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih dalam proses pengkajian. 
+
+Apalagi, lokasi yang akan dipasang kabel bawah laut padat dengan jalur lalu kapal. 
+
+Sehingga, untuk <TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada realisasinya dari pusat, jelasnya. 
+
+(san) 
+</TEXT>
+
+</TimeML>

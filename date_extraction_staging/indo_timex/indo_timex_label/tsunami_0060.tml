@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0060</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-15" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-15</TIMEX3></DCT>
+
+<TITLE>Korban Gempa Palu Asal Kelating Masih Trauma</TITLE>
+
+<TEXT>
+Bencana gempa dan tsunami di Palu, Sulawesi Selatan menyisakan cerita tersendiri bagi korban selamat Ni Wayan Sari (48), warga asal banjar Pande, desa Kelating, kecamatan Kerambitan. 
+
+Meski sudah pulang ke kampung halamannya dan berkumpul dengan sanak saudara, namun bayangan kejadian gempa dahsyat itu masih terus melekat di pikirannya, dan perlu waktu lama untuk menyembuhkan trauma yang dialaminya. 
+
+Bahkan, ayahnya yang bernama Wayan Redes juga tampak duduk termenung. 
+
+Meski dalam kondisi sakit tidak bisa mendengar, namun Wayan Redes juga memiliki cerita tersendiri saat kejadian di Palu. 
+
+Ditemui dirumahnya, Ni Wayan Sari menceritakan, ia beserta keluarganya memang sudah lama merantau (transmigran, red) ke Palu sejak <TIMEX3 tid="t1" type="DATE" value="197">tahun 70-an</TIMEX3>. 
+
+Dan sudah <TIMEX3 tid="t2" type="DURATION" value="P39Y">hampir 39 tahun</TIMEX3> bekerja di perusahaan pembuat kacamata di kota Palu. 
+
+Bahkan saat kejadian, ia tengah melakukan pekerjaannya. 
+
+Saat gempa besar, saya dan teman teman pekerja lainnya lari menyelamatkan diri keluar gedung, bahkan saya harus merangkak agar tidak sampai tertimpa almari, bahkan ada teman yang telanjang bulat lari, karena saat kejadian tengah mandi di asrama dekat toko, ucapnya, <TIMEX3 tid="t3" type="DATE" value="2018-10-15">Senin (15/10)</TIMEX3>. 
+
+Tak hanya itu, usai gempa ia harus melihat banyak jenasah bergelimpangan dijalan. 
+
+Sampai <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> saya masih ingat kejadian itu, bahkan sampai tidak bisa tidur, ucapnya. 
+
+Setelah dirasa cukup kondusif, ia baru mencari keberadaan ayahnya yang tinggal dengan adik iparnya. 
+
+Dan sama sama mencari tempat pengungsian yang aman di posko TNI. 
+
+Selama <TIMEX3 tid="t5" type="DURATION" value="P1W">seminggu</TIMEX3> waktu itu kami tidak makan, karena belum ada bantuan yang datang, hanya bertahan dengan minum air putih saja, ucapnya. 
+
+. 
+
+Sudah <TIMEX3 tid="t6" type="DATE" value="2018-10-01">dua minggu lalu</TIMEX3> saya tiba di Bali, awalnya ke rumah adik <TIMEX3 tid="t7" type="DATE" value="PAST_REF">dulu</TIMEX3> di Gianyar, disana tinggal selama <TIMEX3 tid="t8" type="DURATION" value="P1W">seminggu</TIMEX3> barulah pulang ke kampung halaman di Tabanan, terangnya. 
+
+Terkait keberadaan salah satu warga pengungsi dari Palu di Kabupaten Tabanan lanjut diatensi Kepala Dinas Sosial Kabupaten Tabanan, I Nyoman Gede Gunawan yang datang langsung ke rumah warga tersebut didampingi Perbekel Kelating I Made Suama. 
+
+Bahkan, dari disos juga menyerahkan bantuan berupa sembako untuk meringankan beban keluarga yang ditinggali oleh warga pengungsi tersebut. 
+
+Jadi warga ini ingin mencari ketenangan <TIMEX3 tid="t9" type="DATE" value="PAST_REF">dulu</TIMEX3> di kampung halaman, dan berencana akan kembali pulang ke Palu setelah kondisi disana kondusif, sementara bantuan sembako ini kami berikan untuk meringankan keluarga tempat mereka tinggal, ucapnya. 
+
+Disisi lain, perbekel Kelating Made Suama juga mengharapkan jika nantinya warga bersangkutan memutuskan untuk kembali ke Palu agar melaporkan diri ke pihak desa. 
+
+Dan berharap agar pemerintah daerah khususnya dinas terkait bisa memfasilitasi biaya tiket kepulangan mereka kembali ke Palu. 
+
+(puspawati/balipost) 
+</TEXT>
+
+</TimeML>

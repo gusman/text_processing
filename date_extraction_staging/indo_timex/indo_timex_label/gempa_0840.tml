@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0840</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-08" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-08</TIMEX3></DCT>
+
+<TITLE>Data Sementara, Gempa Sinabang Rusak 7 Kantor Pemerintah Simeuleu Aceh</TITLE>
+
+<TEXT>
+Badan Penggulangan Bencana Daerah Kabupaten Simeulue, Aceh, telah merilis data kerusakan yang terjadi pasca-gempa bumi magnitudo 6,1 (sebelumnya 6,4) yang melanda Sinabang, Aceh, <TIMEX3 tid="t1" type="DATE" value="2020-01-07">Selasa (7/1/2020)</TIMEX3>. 
+
+Berdasarkan data yang dikirim Sekretaris BPBD Simeulue, Zulfadli, hingga <TIMEX3 tid="t2" type="TIME" value="2020-01-07TNI">Selasa malam</TIMEX3> pukul <TIMEX3 tid="t3" type="TIME" value="2020-01-07T21:26">21.26 WIB</TIMEX3>, terdapat tujuh kantor pemerintahan dan pelayanan publik mengalami rusak ringan, di antaranya kantor Bupati Simeulue, Satpol PP dan Wilayatul Hisbah, kantor MPU Kabupaten Simelue, kantor Camat Teupah Tengah, Puskesmas Kecamatan Teupah Barat, kantor Desa Salur Kecamatan Teupah Barat dan kantor media center. 
+
+. 
+
+Lalu satu unit rumah penduduk di Desa Badegong, Kecamatan Teupah Selatan yang dihuni 1 kepala keluarga atau 3 jiwa juga mengalami rusak ringan. 
+
+Guncangan gempa bumi yang terjadi pada <TIMEX3 tid="t4" type="TIME" value="2020-01-07TAF">Selasa siang</TIMEX3> dirasakan di Tapak Tuan, Singkil, Nias Utara dan Gunung Sitoli III. 
+
+Getaran gempa terasa seakan-akan jalan dilalui truk. 
+
+Sejumlah orang di Medan, Nias Barat, serta Meulaboh merasakan getaran tanah seperti bergoyang. 
+
+Melalui pesan singkatnya, Zulfadli menjelaskan bahwa hasil pemodelan menunjukkan bahwa gempa bumi ini tidak berpotensi tsunami. 
+
+Berikutnya, kata dia, pada <TIMEX3 tid="t5" type="DATE" value="2020-01-08">hari yang sama</TIMEX3> sekitar <TIMEX3 tid="t6" type="TIME" value="2020-01-07T13:45">pukul 13.45 WIB</TIMEX3>, hasil monitoring BMKG menunjukkan, ada 1 aktivitas gempa bumi susulan atau dengan magnitudo 3,3. 
+
+. 
+
+Hingga <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, jumlah kerusakan dan kerugian masih dalam penghitungan oleh tim BPBD setempat. 
+
+
+</TEXT>
+
+</TimeML>

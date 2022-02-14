@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0541</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-05-31" temporalFunction="false" functionInDocument="CREATION_TIME">2019-05-31</TIMEX3></DCT>
+
+<TITLE>Sebuah Sekolah di Betok Jaya Disapu Longsor, Tak Ada Korban Jiwa, Tapi</TITLE>
+
+<TEXT>
+Tanah longsor terjadi di desa Betok Jaya, kecamatan Kepulauan Karimata, Kabupaten Kayong Utara, <TIMEX3 tid="t1" type="DATE" value="2019-05-30">Kamis (30/5)</TIMEX3>. 
+
+Musibah tersebut mengakibatkan sekolah dan sebuah rumah tersapu longsor. 
+
+Adalah SMPN 4 Kepulauan Karimata dan sebuah rumah warga setempat. 
+
+Bangunan sekolah mengalami kerusakan pada bagian tembok ruang guru yang jebol. 
+
+Termasuk dua ruangan kegiatan belajar mengajar digenangi tanah dari bukit yang berdekatan dengan sekolah tersebut. 
+
+Longsor terjadi dipicu hujan yang mendera Desa Betok Jaya, Kecamatan Kepulauan Karimata sejak <TIMEX3 tid="t2" type="TIME" value="2019-05-30TNI">tengah malam</TIMEX3> hingga <TIMEX3 tid="t3" type="TIME" value="2019-05-31TMO">pagi</TIMEX3>. 
+
+Rumah warga yang berdekatan dengan bukit yang longsor tersebut habis tertimbun tanah. 
+
+Tidak ada korban jiwa dari kejadian tersebut, namun kerugian ditaksir ratusan juta rupiah. 
+
+Curah hujan dari <TIMEX3 tid="t4" type="TIME" value="2019-05-30TNI">malam</TIMEX3> kemaren sangat tinggi di betok, sampailah <TIMEX3 tid="t5" type="TIME" value="2019-05-31TMO">pagi</TIMEX3> hal ini yg menyebabkan tanah di lereng bukit berdekatan dengan ruang SMP 4 Kepulauan Karimata tepatnya desa betok mengalami longsor, kata Kepala bidang pembinaan pendidikan dasar M. 
+
+Irvan melalui sambungan seluler, <TIMEX3 tid="t6" type="DATE" value="2019-05-30">Kamis</TIMEX3>, <TIMEX3 tid="t7" type="DATE" value="2019-05-30">(30/05)</TIMEX3>. 
+
+Menurutnya, beruntung kejadian tersebut, disaat sekolah telah diliburkan sejak <TIMEX3 tid="t8" type="DATE" value="2019-05-29">tanggal 29 mei 2019</TIMEX3> sehingga tidak ada kegiatan belajar mengajar saat kejadian. 
+
+Dengan kejadian ini 1 ruang kantor mengalami rusak berat karena dinding yg berhadapan langsung dg lereng bukit mengalami jebol dan 2 ruang kelas mengalami rusak ringan dan sampai <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> bangunan digenangi air lumpur. 
+
+Selain itu jamban sekolah yg terdiri dari 4 bilik juga mengalami rusak, Rincinya. 
+
+Untuk kerugian sendiri menurutnya, <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> masih diidentifikasi pihak sekolah namun untuk barang-barang elektronik yg menjadi aset sekolah seperti printer, alat pengeras suara dan lain-lain serta berkas penting sekolah mengalami rusak berat. 
+
+Dengan kejadian ini kami secepatnya menyampaikan laporan kepada bapak bupati agar beliau dapat memberikan arahan berkenaan dengan penanggulangan bencana ini, Jelasnya. 
+
+(lud) 
+</TEXT>
+
+</TimeML>

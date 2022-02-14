@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0990</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-08" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-08</TIMEX3></DCT>
+
+<TITLE>Obed Nego Tinjau Rumah Korban Angin Puting Beliung di Mamasa</TITLE>
+
+<TEXT>
+Angin puting beliung yang menghantam empat rumah warga di Dusun Kampung Baru Desa Buntubuda Kecamatan Mamasa Kabupaten Mamasa, <TIMEX3 tid="t1" type="TIME" value="2020-01-07TAF">Selasa (7/1/2020) siang</TIMEX3> mendapat perhatian dari salah seorang anggota DPRD Provinsi Sulbar, Obat Nego Depparinding. 
+
+Mendapat kabar atas musibah itu, utusan daerah pemilihan Kabupaten Mamasa ini langsung mendatangi rumah korban yang belakangan diketahui bernama Piter Amstrong, Arianus Mandadung, Marson, dan Ramba. 
+
+Selain atap hancur, juga tiang rumah milik korban rubuh ke tanah. 
+
+Obed Nego Depparinding yang tiba di lokasi sesaat setelah kejadian prihatin dan mengatakan, kejadian yang menimpa rumah empat keluarga di Desa Buntubuda tersebut merupakan bencana alam angin puting beliung. 
+
+Kami berharap agar para korban segera bisa mendapat perhatian dari pemerintah, terkhusus bagi korban yang rumahnya nyaris porak poranda, harap Obed. 
+
+Senada dengan harapan para korban, mereka minta supaya pemerintah turut berpartisipasi dalam membantu mengurangi beban atas kerugian materi yang mereka alami. 
+
+Dilaporkan, atap rumah jenis seng yang jumlahnya mencapai puluhan itu mendadak diterbangkan angin kencang <TIMEX3 tid="t2" type="TIME" value="2020-01-07">kemarin siang</TIMEX3>. 
+
+Nampak di tempat kejadian, atap para rumah korban hanya ditutup dengan menggunakan tarpal plastik. 
+
+(Anez) 
+</TEXT>
+
+</TimeML>

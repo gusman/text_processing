@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0987</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-12-19" temporalFunction="false" functionInDocument="CREATION_TIME">2018-12-19</TIMEX3></DCT>
+
+<TITLE>Tujuh Rumah Rusak Dihantam Angin Kencang</TITLE>
+
+<TEXT>
+Sedikitnya tujuh rumah di Lingkungan Labuang Kelurahan Mosso Kecamatan Sendana rusak akibat dihantam angin kencang disertai hujan, <TIMEX3 tid="t1" type="TIME" value="2018-12-19TMO">Rabu (19/12/2018) pagi tadi</TIMEX3>. 
+
+Tujuh rumah rusak ringan akibat angin kencang disertai hujan di Lingkungan Labuang Kelurahan Mosso Kecamatan Sendana foto: istMeskipun tidak ada korban jiwa dan rumah warga hanya mengalami rusak ringan, namun pihak kepolisian setempat mengimbau agar masyarakat berhati-hati disaat cuaca ekstrim seperti <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>. 
+
+Usai medapat laporan warga, personel Polres Majene dari Satuan Reskrim bersama Bahabinkamtibmas turun ke lokasi kejadian mendata dan melihat kondisi rumah warga yang mengalami kerusakan. 
+
+Mereka menghimbau warga setempat agar selalu waspada dan menyarankan kepada para nelayan kecil supaya untuk <TIMEX3 tid="t3" type="DURATION" value="PXX">sementara waktu</TIMEX3> tidak melakukan aktivitas melaut mengingat cuaca yang kurang bersahabat. 
+
+Dilaporkan nama-nama pemilik rumah yang mengalami kerusakan; 1. 
+
+Mansur (papa Bu li), umur 30 th, nelayan, Lingk. 
+
+Labuang Kel. 
+
+Mosso Kec. 
+
+Sendana Kab. 
+
+Majene2. 
+
+Dalipa, 45 th, IRT, Lingk. 
+
+Labuang Kel. 
+
+Mosso Kec. 
+
+Sendana Kab. 
+
+Majene3. 
+
+Acong (papa Indah) umur 40 th, nelayan, Lingk. 
+
+Labuang Kel. 
+
+Mosso Kec. 
+
+Sendana Kab. 
+
+Majene4. 
+
+Bu li (papa ippan), umur 25 th, pekerjaan nelayan, Lingk. 
+
+Labuang Kel. 
+
+Mosso Kec. 
+
+Sendana Kab. 
+
+Majene.5. 
+
+Indo Mira, umur 62 th, pekerjaan tidak ada, Lingk. 
+
+Labuang Kel. 
+
+Mosso Kec. 
+
+Sendana Kab. 
+
+Majene.6. 
+
+Indo Darmi, umur 71 th, pekerjaan tidak ada, Lingk. 
+
+Labuang Kel. 
+
+Mosso Kec. 
+
+Sendana Kab. 
+
+Majene.7. 
+
+Papa Anti, umur 45 th, pekerjaan nelayan Lingk. 
+
+Labuang Kel. 
+
+Mosso Kec. 
+
+Sendana Kab. 
+
+Majene. 
+
+(ipunk) 
+</TEXT>
+
+</TimeML>

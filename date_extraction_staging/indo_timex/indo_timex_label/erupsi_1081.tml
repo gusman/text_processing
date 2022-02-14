@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>erupsi_1081</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2015-07-14" temporalFunction="false" functionInDocument="CREATION_TIME">2015-07-14</TIMEX3></DCT>
+
+<TITLE>Musim Mudik, Pesawat di Bandara Jember Batal Terbang</TITLE>
+
+<TEXT>
+Bandara Notohadinegoro Jember untuk kali ketiga ditutupkembali, <TIMEX3 tid="t1" type="DATE" value="2015-07-14">Selasa (14/7/2015)</TIMEX3>. 
+
+Penutupan kali ini dimulai <TIMEX3 tid="t2" type="TIME" value="2015-07-13T06:00">pukul 06.00</TIMEX3> - <TIMEX3 tid="t3" type="TIME" value="2015-07-13T16:00">16.00</TIMEX3> wib. 
+
+Penutupan ini masih terkait erupsi Gunung Raung. 
+
+Bahkan kali ini, abu Raung sudah mengguyur landasan pacu bandara. 
+
+Menurut Kepala UPT Bandara Notohadinegoro Jember Edy Purnomo, guyuran abu terbilang deras sejak <TIMEX3 tid="t4" type="TIME" value="2015-07-13T22:00">Senin (13/7/2015) pukul 22.00</TIMEX3> wib. 
+
+" Tadi <TIMEX3 tid="t5" type="TIME" value="2015-07-13TNI">malam</TIMEX3> yang paling deras <TIMEX3 tid="t6" type="TIME" value="2015-07-13T22">sekitar jam 10 malam</TIMEX3>. 
+
+<TIMEX3 tid="t7" type="TIME" value="2015-07-14TMO">Pagi ini</TIMEX3> masih ada, meskipun samar. 
+
+Landasan masih ada abunya, begitu juga lintasan di udara, " ujar Edy. 
+
+Pihaknya mendapatkan NOTAM (Notice to Airmen) sejak <TIMEX3 tid="t8" type="TIME" value="2015-07-13">kemarin sore</TIMEX3>. 
+
+Karenanya, pihak bandara meneruskan hal itu kepada pihak maskapai yakni Garuda Indonesia. 
+
+" Kami terus memantau cuaca. 
+
+Kami berkomunikasi dengan BMKG Banyuwangi dan Jember. 
+
+Untuk kondisi <TIMEX3 tid="t9" type="DATE" value="2015-07-15">besok</TIMEX3>, kami masih terus memantau, " ujar Edy. 
+
+Semenjak Raung berstatus Siaga, tiga kali bandara Jember ditutup. 
+
+Selama rentang <TIMEX3 tid="t10" type="DATE" value="UNKNOWN">waktu itu</TIMEX3>, dua kali penerbangan trayek Surabaya - Jember batal (canceled).Hal ini membuat satu-satunya maskapai penerbangan yang melayani rute itu, Garuda Indonesia, kehilangan pendapatan.Padahal kali ini sudah memasuki masa mudik lebaran. 
+
+Setidaknya 70 orang penumpang dari Surabaya ke Jember batal terbang, <TIMEX3 tid="t11" type="DATE" value="2015-07-14">Selasa (14/7/2015)</TIMEX3>. 
+
+// Padahal pihak maskapi menetapkan tarif atas di masa mudik ini, yakni Rp 650.000 untuk Surabaya - Jember dan sebaliknya. 
+
+'Hari ini penerbangan batal lagi. 
+
+Penumpang dari Surabaya ke Jember penuh, kalau dari Jember ke Surabaya tidak penuh, " ujar General Manager PT Garuda Indonesia Tbk Area Jember Syamsul Adnan. 
+
+Animo penumpang di masa angkutan mudik kali ini sebenarnya tidak kalah dengan <TIMEX3 tid="t12" type="DATE" value="2014-07-14">tahun lalu</TIMEX3>. 
+
+Karena terjadi beberapa kali pembatalan, maka pihak maskapai kehilangan pendapatan. 
+
+Namun Adnan tidak menyebutkan berapa potensi hilangnya pendapatan itu akibat pembatalan tersebut. 
+
+Berdasarkan data penjualan yang didapatkan Surya, selain <TIMEX3 tid="t13" type="DATE" value="2015-07-14">hari ini</TIMEX3>, kursi Garuda rute Surabaya - Jember sudah terjual habis untuk keberangkatan <TIMEX3 tid="t14" type="DATE" value="2014-07-15">15 Juli</TIMEX3> dan <TIMEX3 tid="t15" type="DATE" value="2014-07-16">16 Juli</TIMEX3>. 
+
+Sedangkan rute Jember - Surabaya yang sudah terjual habis di <TIMEX3 tid="t16" type="DATE" value="2014-07-20">tanggal 20 Juli</TIMEX3> dan <TIMEX3 tid="t17" type="DATE" value="2014-07-21">21 Juli</TIMEX3>. 
+
+. 
+
+com/SURYAonline FOLLOW Twitter Surya - http://twitter. 
+
+com/portalSURYA 
+</TEXT>
+
+</TimeML>

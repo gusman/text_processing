@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_0282</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-10-05" temporalFunction="false" functionInDocument="CREATION_TIME">2018-10-05</TIMEX3></DCT>
+
+<TITLE>Cerita Bocah Korban Gempa Palu, Pilih Selesaikan Salat Magrib Meski Bangunan Masjid Bergetar</TITLE>
+
+<TEXT>
+Tragedi Gempa Palu hingga <TIMEX3 tid="t1" type="DATE" value="2018-10-05">Jumat (5/10/2018)</TIMEX3> telah menelan korban meninggal lebih dari 1.500 jiwa. 
+
+Tragedi Gempa Palu ini pun membuat seluruh rakyat Indonesia berduka. 
+
+Dari tragedi Gempa Palu ini pula, terdapat kisah-kisah haru. 
+
+Meski, Gempa Palu membuat Sihab terluka dan harus menjalani operasi. 
+
+Kaki Sihab, harus dioperasi akibat tertimpa reruntuhan bangunan yang ambruk karena Gempa Palu bermagnitudo 7,4, pada <TIMEX3 tid="t2" type="DATE" value="2018-09-28">28 September 2018 lalu</TIMEX3>. 
+
+Sihab memilih menyelesaikan shalatnya, meski bangunan masjid disebut telah bergoncang akibat gempa. 
+
+Anak saya posisinya lagi shalat, dia pas gempa dia tertimpa pagar bangunan masjid <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3>, ucap Wahyuni, di Rumah Sakit Wirabuana, Jalan Sisimangaraja, Kecamatan Palu Timur, Sulawesi Tengah, <TIMEX3 tid="t4" type="DATE" value="2018-10-05">Jumat (5/10/2018)</TIMEX3>. 
+
+Setelah gempa itu terjadi, ia sempat panik mencari-cari anaknya dari satu posko ke posko lainnya. 
+
+Anak saya lagi shalat, sedangkan saya lagi di luar cari makan, saya cari anak saya <TIMEX3 tid="t5" type="DURATION" value="UNKNOWN">semalaman</TIMEX3> di posko tidak ada, cerita Wahyuni. 
+
+Saya minta tolong tim (petugas) untuk cari anak saya di rumah saya, saya takut anak saya terjepit kan, dan sesuatu terjadi pada anak saya. 
+
+Sambil menangis, kata Wahyuni. 
+
+// Setelah dilakukan pencarian <TIMEX3 tid="t6" type="DURATION" value="UNKNOWN">semalaman</TIMEX3>, pada <TIMEX3 tid="t7" type="TIME" value="2018-09-29T09:00">Sabtu (29/9/2018) pukul 09.00</TIMEX3> Wita, akhirnya ia menemukan anaknya sedang berbaring lemah di salah satu tempat pengungsian. 
+
+Ternyata saya diinfokan anak saya masih hidup di pengungsian. 
+
+Saya langsung ke sana anak saya belum diobati, ujar Wahyuni. 
+
+Ia langsung membawa anaknya ke Rumah Sakit Wirabuana, untuk mengobati kaki anaknya. 
+
+Kaki Sihab <TIMEX3 tid="t8" type="DATE" value="PAST_REF">saat itu</TIMEX3> tidak bisa digerakkan. 
+
+Sampai di rumah sakit, Sihab <TIMEX3 tid="t9" type="DATE" value="PAST_REF">saat itu</TIMEX3> ditangani sementara dengan alat seadanya di tenda darurat yang didirikan depan rumah sakit. 
+
+Untuk sementara kaki anak saya dibungkus dengan kayu agar tidak bengkok, kemudian <TIMEX3 tid="t10" type="DATE" value="UNKNOWN">hari ini baru</TIMEX3> anak saya dioperasi karena kata dokternya tadi, kaki anak saya patah dan harus dioperasi, diletakkan pen di kakinya agar tidak pendek sebelah, tutur Wahyuni. 
+
+(*) 
+</TEXT>
+
+</TimeML>

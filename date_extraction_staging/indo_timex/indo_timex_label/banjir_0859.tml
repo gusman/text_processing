@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0859</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2016-01-24" temporalFunction="false" functionInDocument="CREATION_TIME">2016-01-24</TIMEX3></DCT>
+
+<TITLE>Banjir Hantam Lahat, Empat Rumah Hanyut Sebilan Rusak Berat</TITLE>
+
+<TEXT>
+Tingginya curah hujan sejak <TIMEX3 tid="t1" type="DURATION" value="PXD">beberapa hari</TIMEX3> terakhir, menyebabkan bencana banjir di Kabupaten Lahat Sumatera Selatan, <TIMEX3 tid="t2" type="DATE" value="2016-01-23">Sabtu 23 Januari 2016</TIMEX3>. 
+
+Menurut catatan BNPB pusat, benjair terjadi di Desa Gunung Kembang, Kecamatan Klikim Timur dan Desa Batai, Kecamatan Gumai Talang. 
+
+Akibat banjir tersebut, Puluhan Kepala Keluarga harus mengungsi ke tempat aman. 
+
+Meski tidak ada korban jiwa, namun empat rumah warga di Desa Gunung kembang dilaporkan hanyut serta sembilan rumah rusak berat. 
+
+" <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">Saat ini</TIMEX3> BPBD setempat bersama dinas sosial telah melakukan evakuasi dan memberikan bantuan pada para pengungsi berupa makanan cepat saji dan selimut, " ujar Sutopo, Kepala Pusat Data Informasi dan Humas BNPB. 
+
+(nag) 
+</TEXT>
+
+</TimeML>

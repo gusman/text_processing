@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>gempa_1161</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>Update Terbaru Gempa dan Tsunami Palu-Donggala, Jumlah 48 Tewas, 356 Luka, Ribuan Rumah Rusak</TITLE>
+
+<TEXT>
+Update info gempa bumi dan tsunami Palu dan Donggala, Sulawesi Tengah. 
+
+Badan Nasional Penanggulangan Bencana (BNPB) merilis data korban gempa bumi dan tsunami Kota Palu dan Kabupaten Donggala. 
+
+Sementara itu, jumlah korban luka-luka mencapai 356 orang, dan ribuan rumah rusak. 
+
+Disampaikan Sutopo, korban meninggal paling banyak karena terdampak gempa bumi. 
+
+Sementara korban terdampak tsunami banyak berjatuhan di pinggir-pinggir pantai. 
+
+Namun demikian, hingga <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> belum ada informasi mengenai identitas korban. 
+
+" Dari total korban, kami belum mendapat laporan mengenai identitas sampai nama, alamat, usia. 
+
+Tapi kami sudah dapat informasi resmi dari rumah sakit mengenai total korban, " kata Sutopo di kantor BNPB, Utan Kayu, Jakarta Timur, <TIMEX3 tid="t2" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3>. 
+
+Sementara itu, BNPB belum bisa menyampaikan jumlah korban terdampak gempa dan tsunami di Kabupaten Donggala. 
+
+Sebab, hingga <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> listrik di wilayah tersebut masih padam sehingga menghambat komunikasi. " (Data) ini baru di Kota Palu. 
+
+(Di Donggala) korbannya ada, tapi pendataan secara resmi belum dilaporkan ke BNPB. 
+
+Kabupaten Donggala kami belum mendapat laporan, " ujar Sutopo. 
+
+// Sutopo mengatakan, pihaknya masih terus melakukan pendataan korban sekaligus jumlah kerusakan bangunan. 
+
+Diperkirakan, jumlah korban maupun kerusakan masih akan terus bertambah. 
+
+" Kita bisa memperkirakan jumlah korban masih akan terus bertambah, " ujar Sutopo. 
+
+Gempa berkekuatan magnitudo 7,4 mengguncang kawasan Donggala, Sulawesi Tengah pada <TIMEX3 tid="t4" type="TIME" value="2018-09-28TAF">Jumat (28/9/2018) sore</TIMEX3>. 
+
+Pusat gempa berkedalaman 10 kilometer itu berada pada 27 kilometer Timur Laut Donggala. 
+
+Pasca-gempa, Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengeluarkan peringatan dini tsunami. 
+
+BMKG kemudian mencabut peringatan dini tsunami pada <TIMEX3 tid="t5" type="TIME" value="2018-09-28T17:37">pukul 17.37 WIB</TIMEX3>. 
+
+Meski peringatan dini dicabut, tsunami diketahui melanda sejumlah wilayah, antara lain Palu, Donggala, Mamuju. 
+
+Setelah tsunami surut, BMKG kemudian mencabut peringatan dini tsunami pada <TIMEX3 tid="t6" type="TIME" value="2018-09-28T17:36">Jumat (28/9/2018) pukul 17.36 WIB</TIMEX3>. 
+
+Wilayah pantai barat Sulawesi Tengah memang dilanda sejumlah gempa besar sepanjang <TIMEX3 tid="t7" type="TIME" value="2018-09-28TAF">Jumat sore</TIMEX3> hingga <TIMEX3 tid="t8" type="TIME" value="2018-09-28TNI">malam</TIMEX3>. 
+</TEXT>
+
+</TimeML>

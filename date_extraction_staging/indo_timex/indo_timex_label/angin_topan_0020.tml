@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0020</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-02-25" temporalFunction="false" functionInDocument="CREATION_TIME">2019-02-25</TIMEX3></DCT>
+
+<TITLE>Satu Rumah di Abdya Roboh Tertimpa Pohon</TITLE>
+
+<TEXT>
+Hujan deras dan angin kencang yang terjadi di kawasan Abdya dan sekitarnya pada <TIMEX3 tid="t1" type="TIME" value="2019-02-23TAF">Sabtu (23/2) kemarin sore</TIMEX3>, mengakibatkan satu rumah di Desa Tokoh Kecamatan Manggeng, rusak parah akibat tertimpa pohon jengkol berukuran besar. 
+
+Beruntungnya tidak ada korban jiwa dalam peristiwa tersebut. 
+
+Namun, penghuni rumah Nurmala, yang merupakan janda cerai beranak satu, terpaksa harus mengungsi ke rumah saudaranya. 
+
+Camat Manggeng, Hamdani, <TIMEX3 tid="t2" type="TIME" value="2019-02-23TNI">Sabtu (23/2) malam</TIMEX3> saat meninjau lokasi tersebut mengatakan, karena hujan deras disertai angin kencang menyebabkan tumbang sebatang pohon jengkol yang berada di samping rumah warga. 
+
+Pohon jengkol itu berada pas di samping rumah Nurmala, katanya. 
+
+Selain kejadian menimpa rumah Nurmala, musibah badai itu juga menyebabkan sebuah rumah di Gampong Paya, milik Anwar seluruh atapnya lepas diterbangkan angin. 
+
+Kemudian dapur rumah Firdaus di Gampong Padang juga rusak dan atap MIN 9 Abdya di Gampong Tokoh juga ditimpa pohon Pinang. 
+
+Jadi banyak yang rusak saat terjadi badai hujan dan angin <TIMEX3 tid="t3" type="DATE" value="PAST_REF">saat itu</TIMEX3>, seperti di Gampong Paya, Gampong Padang dan Sekolah MIN 9 Abdya hanya rusak ringan pada bagian atap, katanya. 
+
+(mag-80/han) 
+</TEXT>
+
+</TimeML>

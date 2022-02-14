@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_0220</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-05-03" temporalFunction="false" functionInDocument="CREATION_TIME">2018-05-03</TIMEX3></DCT>
+
+<TITLE>Badai Debu Serang India, 77 Tewas 143 Luka-luka</TITLE>
+
+<TEXT>
+Badai debu yang menyerang wilayah India Utara menewaskan sedikitnya 77 orang, Karena badai ini, 143 orang juga mengalami luka-luka akibat tertimpa pohon dan dinding yang roboh oleh angin kencang, Menurut pemerintah setempat pada <TIMEX3 tid="t1" type="DATE" value="2018-05-03">Kamis</TIMEX3> (3 <TIMEX3 tid="t2" type="DATE" value="2018-05">Mei</TIMEX3>), badai <TIMEX3 tid="t3" type="DURATION" value="2018-05-01TNI">semalam</TIMEX3> menghancurkan Uttar Pradesh dan Rajasthan. 
+
+Mereka menambahkan jumlah korban tewas diperkirakan akan terus meningkat. 
+
+Ada 46 orang tewas di Uttar Pradesh di wilayah utara dan 31 orang tewas di Rajasthan yang berada di sebelah barat dan merupakan wilayah gurun. 
+
+Distrik Agra di Uttar Pradesh adalah salah satu yang paling parah terkena dampaknya, dengan lebih dari 30 orang tewas. 
+
+Taj Mahal berada di kota Agra tetapi dilaporkan monumen itu tak mengalami kerusakan. 
+
+Sebagian besar korban tewas dan luka akibat tertimpa tembok, pepohonan dan tiang listrik serta rumah-rumah yang rubuh. 
+
+" Kami dapat mengkonfirmasi ada 46 korban tewas, 41 cedera dari sekitar 40 distrik di India " kata T. 
+
+P. 
+
+Gupta dari kantor komisi bantuan bencana Uttar Pradesh, dilansir TribunWow.com dari AsiaOne.Dia mengatakan ada 36 kematian di distrik Agra. 
+
+// Pemerintah juga mengatakan 157 hewan terbunuh karena bencana ini. 
+
+Tiga distrik di Rajasthan mengalami dampak paling parah. 
+
+Padahal Rajashtan merupakan wilayah yang populer bagi turis karena terdapat istana-istana peninggalan dan beragam budaya. 
+
+" Sebagian besar korban tewas dan cidera berasal dari tiga distrik, yakni Alwar, Dholpur dan Bharatpur Ada sekitar 31 orang tewas dan 102 terluka, " kata Hemant Gera, sekretaris Departemen Penanggulangan Bencana Rajasthan, saat diwawancara AFP. 
+
+Pasokan listrik terputus di Bharatpur karena lebih dari 1.000 tiang listrik hancur akibat badai. 
+
+Pemerintah mengatakan butuh <TIMEX3 tid="t4" type="DURATION" value="P2D">lebih dari dua hari</TIMEX3> untuk memulihkan pasokan listrik. 
+
+Pemerintah negara bagian tersebut pun langsung memberi kompensasi kepada keluarga mereka yang terbunuh atau mengalami kerusakan. 
+
+Perdana Menteri India, Narendra Modi mengucapkan belasungkawa pada keluarga korban lewat unggahan twitternya. 
+
+" Merasa sedih karena kehilangan banyak nyawa akibat badai debu di berbagai bagian India. 
+
+Belasungkawa bagi keluarga yang berduka. 
+
+Semoga yang cedera segera pulih, " tulis Perdana Menteri Narendra Modi di Twitter. " Kami telah meminta para petugas untuk berkoordinasi dengan pemerintah negara bagian masing-masing dan bekerja untuk membantu mereka yang telah terkena dampaknya, " tambahnya.Bulan lalu, badai debu juga menewaskan sedikitnya 15 orang di Uttar Pradesh dan menghancurkan dua pilar kuno di pintu masuk Taj Mahal. 
+
+(TribunWow.com/Ekarista R.P) 
+</TEXT>
+
+</TimeML>

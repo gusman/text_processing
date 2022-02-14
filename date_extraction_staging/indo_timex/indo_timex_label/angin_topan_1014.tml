@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>angin_topan_1014</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-01-05" temporalFunction="false" functionInDocument="CREATION_TIME">2020-01-05</TIMEX3></DCT>
+
+<TITLE>Angin Kencang Disertai Hujan Deras Landa Parepare, Puluhan Rumah Rusak</TITLE>
+
+<TEXT>
+Hujan deras disertai angin kencang melanda Kota Parepare, akibatnya sejumlah rumah milik warga rusak dan beberapa pohon juga tumbang. 
+
+Kejadian itu terjadi, <TIMEX3 tid="t1" type="DATE" value="2020-01-05">Minggu (5/1)</TIMEX3>. 
+
+Akibat dari hujan badai tersebut, sebanyak 28 rumah rusak dan 39 pohon tumbang yang terdata <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> dari BPBD Parepare. 
+
+Salah satu warga di jalan Jenderal Sudirman Parepare, Munir mengatakan, rumah kakaknya diterpa atap seng dan batako yang berasal dari toko perabotan rumah yang digunakan sebagai sarang walet. 
+
+Itu atapnya sarang walet. 
+
+Terbang diterpa angin dengan rangka bajanya. 
+
+Bahkan semen dan batakonya juga ikut jatuh menimpa rumah kakak saya, ujarnya. 
+
+Sementara itu Kepala Pelaksana BPBD Parepare, Rusli saat dikonfirmasi membeberkan jumlah sementara 39 pohon tumbang dan 28 rumah rusak. 
+
+Sementara pihak pemerintahan kelurahan masih melakukan pendataan dan kita dihambat dengan hujan, ucap dia. 
+
+Saat ditemui di salah satu titik pohon tumbang, Legislator Gerindra Parepare, Kamaluddin Kadir mengimbau warga untuk tetap waspada. 
+
+Kami harap Pemkot segera melakukan pendataan terutama data rumah warga yang rusak diterpa angin. 
+
+Selanjutnya, dapat difasilitasi bantuan, ujar Kamaluddin usai ikut membantu mengangkat pohon tumbang. 
+
+Tim BPBD Parepare tampak sigap turun melakukan pembersihan di sejumlah titik. 
+
+Tak hanya pohon dan rumah warga yang rusak, juga tiang listrik ikut roboh. 
+
+Akibatnya listrik padam. 
+
+Reporter: Editor: Fritz V Wongkar 
+</TEXT>
+
+</TimeML>

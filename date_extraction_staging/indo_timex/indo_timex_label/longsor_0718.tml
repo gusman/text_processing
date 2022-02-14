@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0718</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2020-02-07" temporalFunction="false" functionInDocument="CREATION_TIME">2020-02-07</TIMEX3></DCT>
+
+<TITLE>Mojokerto Diguyur Hujan Deras selama 4 Jam, Sejumlah Wilayah Alami Banjir hingga Tanah Longsor</TITLE>
+
+<TEXT>
+Hujan deras yang menjadi penyebab adanya bencana di sejumlah wilayah Kabupaten Mojokerto berlangsung selama <TIMEX3 tid="t1" type="DURATION" value="PT4H">4 jam</TIMEX3>. 
+
+Dari data BPBD Kabupaten Mojokerto, laporan bencana alam banjir dan tanah longsor melanda empat kecamatan di Kabupaten Mojokerto. 
+
+Dampak hujan deras dengan durasi <TIMEX3 tid="t2" type="TIME" value="UNKNOWN">4 jam itu</TIMEX3> mengakibatkan tamah longsor di Dusun Mligi, Desa Claket, Kecamatan Pacet. 
+
+. 
+
+Banjur juga terjadi di Desa Sumberjati Kecamatan Jatirejo. 
+
+Di Jalan Gajahmada Kecamatan Mojoasari Depan Klenteng, terjadi pohon tumbang. 
+
+Desa Jabon Tegal, Kecamatan Pungging bencana banjir. 
+
+Lalu, di Jalan Raya Desa Lebaksono, Kecamatan Pungging, terjadi pohon tumbang. 
+
+Kepala BPBD Kabupaten Mojokerto, Muhammad Zaini menjelaskan, bedasarkan pantauan satelit citra radar BMKG dan SIMONA di wilayah hulu Kabupaten Mojokerto telah diguyur hujan. 
+
+// Muhammad Zaini mengatakan, hujan deras dengan intensitas lebat selama <TIMEX3 tid="t3" type="DURATION" value="PT3H">3 jam</TIMEX3> sampai <TIMEX3 tid="t4" type="TIME" value="PT4H">4 jam</TIMEX3> yang disertai angin kencang sesaat. 
+
+" Dampaknya menyebabkan debit air di beberapa titik sungai meningkat, " kata Muhammad Zaini aat dikonfirmasi Surya (grup TribunMadura. 
+
+com), <TIMEX3 tid="t5" type="DATE" value="2020-02-07">Jumat (7/2/2020)</TIMEX3>. 
+
+" Dan menyebabkan luapan air sungai di permukima, jalan raya dan longsor di Kecamatan Pacet, " sambung dia. 
+
+Ia mengatakan, adapun lokasi terdampak bencana alam akibat hujan deras yakni tebing setinggi 30 meter longsor di Desa Claket, Kecamatan Pacet. 
+
+Kemudian, banjir merendam kawasan Ponpes Amanatul Ummah di Desa Kembang Belor dan <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> luapan air sudah surut. 
+
+" Pohon tumbang yang sempat menutup akses jalan sudah berhasil dievakuasi, " ungkapnya. 
+
+. 
+
+" Banjir masih mengenangi permukiman warga dengan ketinggian air di jalan setinggi 20 sentimeter hingga 30 sentimeter, " terangnya. 
+
+(don/ Mohammad Romadoni). 
+
+Data bencana alam dampak Hujan Deras selama <TIMEX3 tid="t7" type="DATE" value="2019-04-03">3-4</TIMEX3> jam di Kabupaten Mojokerto:1. 
+
+Dusun Mligi Ds. 
+
+Claket Kec. 
+
+Pacet (Longsor) berupa Material Tanah amp; Bebatuan panjang sekitar 15 meter.2. 
+
+Ponpes Amanatul Ummah Desa Kembang Belor Kecamatan Pacet, Luapan air sudah surut // 3. 
+
+Desa Sumberjati Kec. 
+
+Jatirejo (Banjir Bandang Namun Tidak Membawa Material) untuk Luapan air sudah surut4. 
+
+Jalan Gajahmada Kec. 
+
+Mojoasari Depan Klenteng (Pohon Tumbang).5. 
+
+Desa Jabon Tegal Kec. 
+
+Pungging (Banjir Luapan) ketinggian air dijalan sekitar 20 sentimeter sampai 30 sentimeter 6. 
+
+Jalan Raya Desa Lebaksono, Kecamatan Pungging (pohon tumbang) 
+</TEXT>
+
+</TimeML>

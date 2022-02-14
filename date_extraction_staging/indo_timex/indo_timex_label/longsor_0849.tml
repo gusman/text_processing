@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>longsor_0849</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2017-02-18" temporalFunction="false" functionInDocument="CREATION_TIME">2017-02-18</TIMEX3></DCT>
+
+<TITLE>Tergerus Banjir Bandang, Jalan Desa Ambles</TITLE>
+
+<TEXT>
+Jalan poros Desa Gondanglor di Kecamatan Sugio, Kabupaten Lamongan, Jawa Timur, longsor tergerus banjir bandang. 
+
+Akibat longsor, kendaraan yang melintas jalan tersebut harus bergantian karena hanya bisa dilalui satu jalur. 
+
+Jalan Desa Gondanglor longsor sepanjang 7 meter dengan lebar lebih dari 2 meter. 
+
+Longor disebabkan kuatnya arus banjir yang terjadi pada <TIMEX3 tid="t1" type="DATE" value="2017-02-18">Sabtu (18/2/2017)</TIMEX3> dini hari. 
+
+Selain merusak jalan, longsor juga menyebabkan jembatan desa rusak. 
+
+Penyangga jembatan retak-retak dan nyaris ambruk sehingga membahayakan pengguna jalan. 
+
+Longsor memakan separuh jalan, jadi sejumlah kendaraan yang melintas jalan tersebut harus bergantian satu arah. 
+
+Warga sekitar lokasi membantu mengatur lalu lintas, agar tidak terjadi kemacetan akibat longsor tersebut, kata Singgih Nugroho, warga Desa Gondanglor. 
+
+Selain di Desa Gondanglor, longsor juga terjadi di Desa Sekarbagus, Kecamatan Sugio. 
+
+Di desa ini longsor juga menyebabkan bahu jalan desa setempat rusak. 
+
+(wib) 
+</TEXT>
+
+</TimeML>

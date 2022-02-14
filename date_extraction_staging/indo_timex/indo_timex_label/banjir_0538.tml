@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>banjir_0538</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2019-06-10" temporalFunction="false" functionInDocument="CREATION_TIME">2019-06-10</TIMEX3></DCT>
+
+<TITLE>Seorang Warga Mandor Meninggal</TITLE>
+
+<TEXT>
+Banjir yang merendam tiga dusun di Desa Mandor, Kecamatan Mandor sejak <TIMEX3 tid="t1" type="TIME" value="2019-06-07TNI">Jumat (7/6) malam</TIMEX3> mulai surut. 
+
+Sebanyak 1.048 jiwa atau 268 Kepala Keluarga (KK) terdampak banjir. 
+
+Bencana tersebut juga menelan korban jiwa, Heru Gunawan, 19. 
+
+Warga mulai membersihkan rumah dari sampah dan lumpur. 
+
+<TIMEX3 tid="t2" type="DATE" value="2019-06-09">Minggu (9/6)</TIMEX3>, ketinggian air mulai surut. 
+
+Sehingga warga bisa menjemur semua perabot dan barang-barang yang terendam banjir di depan rumah masing-masing. 
+
+Sebelumnya ratusan rumah warga di sekitar Pasar Mandor direndam banjir. 
+
+Banjir kali ini merupakan kiriman dari daerah hulu sungai. 
+
+Ketinggian air di Jalan Raya Desa Mandor mencapai selutut orang dewasa. 
+
+Sedangkan di Pasar Lintang, tepatnya di Gang Selebong Desa Mandor, ketinggian air hingga setengah dinding atau 2 meter. 
+
+Sekdes Mandor, Kartodi mengatakan, hujan di wilayah Desa Mandor sejak <TIMEX3 tid="t3" type="TIME" value="2019-06-07T17:00">Jumat (7/6) pukul 17:00 WIB</TIMEX3> hingga <TIMEX3 tid="t4" type="TIME" value="2019-06-09TNI">malam</TIMEX3>. 
+
+Air mulai naik ke jalan raya hingga ke rumah warga, diperkirakan <TIMEX3 tid="t5" type="TIME" value="2019-06-09T03:00">pukul 03:00</TIMEX3> dinihari. 
+
+Sebagian warga menyelamatkan barang-barang atau perabot rumah tangga mereka. 
+
+Sedangkan sebagian yang lain tidak sempat diselamatkan lagi. 
+
+<TIMEX3 tid="t6" type="DATE" value="PAST_REF">Saat itu</TIMEX3> masih banyak barang-barang yang terendam banjir dibiarkan, karena tidak mampu mengemasnya, ujar Kartodi. 
+
+Menurutnya, banjir kali ini merupakan yang terparah di Desa Mandor. 
+
+Selama ini sering banjir, tapi tidak sampai masuk ke dalam rumah. 
+
+Kalau banjir <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>, ratusan rumah di daerah Gang Salebong sampai setengah dinding, katanya. 
+
+Sementara Ayu, korban banjir mengaku sudah pasrah dengan kondisi banjir yang terjadi. 
+
+Awalnya, dia tidak menyangka kalau banjir hingga setengah dinding di rumahnya. 
+
+Banjir memang sudah biasa terjadi, namun tidak seperti <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">sekarang</TIMEX3>. 
+
+Selama tinggal di Mandor, baru ini banjir sampai setinggi setengah dinding rumah, aku Ayu. 
+
+Biasanya lanjut Ayu, banjir tidak sampai masuk kedalam rumah, paling sampai di depan tangga. 
+
+Makanya, warga tidak menduga kalau banjir terus naik. 
+
+Saya berharap tidak lagi terjadi hujan deras lagi, khawatir air semakin naik. 
+
+Karena semua perabot rumah tangga sudah terendam banjir, pungkas Ayu. 
+
+Sementara itu, Bupati Landak, Karolin Margret Natasa mengunjungi korban banjir di Desa Mandor, Kecamatan Mandor didampingi Sekretaris Daerah Landak, Kasdim 1201/Mempawah, Kepala Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Landak, Camat Mandor, Kepala Kepolisian Sektor (Kapolsek) Mandor, dan Kepala Desa Mandor ke Posko Pengungsian di Kantor Desa Mandor, <TIMEX3 tid="t9" type="TIME" value="2019-06-08TNI">Sabtu (8/6) malam</TIMEX3>.Kunjungan tersebut bertujuan untuk melihat kondisi masyarakat dan mengunjungi kediaman orangtua korban yang meninggal dunia. 
+
+Untuk <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">saat ini</TIMEX3> kondisi kedalaman air sudah mulai berkurang, namun hanya rumah yang berada di bantaran sungai masih terendam banjir, tetapi kita masih meminta masyarakat untuk tetap mengungsi di posko pengungsian, mengingat kondisi cuaca yang masih berpotensi hujan, yang dikhawatirkan mengakibatkan banjir kembali lagi, ucap Karolin.Berdasarkan data BPBD Kabupaten Landak, ada tiga dusun yang terkena banjir, yakni Dusun Mandor dengan jumlah korban yang terkena dampak banjir 983 jiwa atau 250 KK, Dusun Kopiang 47 jiwa atau 13 KK dan Dusun Liansipi 18 jiwa atau 5 KK dengan menelan satu orang korban jiwa, Heru Gunawan. 
+
+Jumlah keseluruhan korban banjir sebanyak 1.048 jiwa atau 268 KK. 
+
+Saya mengimbau seluruh masyarakat Kabupaten Landak dalam situasi bencana dan musibah ini, agar berhati-hati serta saling menjaga, apabila kondisi tempat masyarakat sudah terendam banjir dan tidak bisa ditempati sebaiknya mengutamakan keselamatan jiwa, dengan mengungsi di posko pengungsian yang berada di Kantor Desa Mandor, imbau Bupati Landak.Karolin juga menyerahkan bantuan kepada masyarakat yang terdampak banjir di Kecamatan Mandor. 
+
+Di Desa Mandor, didirikan posko pengunsian, posko kesehatan, dapur umum dan bantuan sembako serta memberikan pertolongan evakuasi kepada masyarakat yang masih berada ditempat tinggal mereka dengan menurunkan personel BPBD Kabupaten Landak dibantu personel TNI dan Polri. 
+
+Mereka yang sakit sudah dirawat di Puskesmas, yakni satu orang akan melahirkan dan satu orang lumpuh. 
+
+Kita juga bekerjasama dengan Kodim 1201/Mempawah dan Polres Landak untuk membantu BPBD Kabupaten Landak mengevakuasi masyarakat yang masih berada ditempat tinggal mereka, terang Karolin. 
+
+Laporan: AntoniusEditor: Yuni Kurniyanto 
+</TEXT>
+
+</TimeML>

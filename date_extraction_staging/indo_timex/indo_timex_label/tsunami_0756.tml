@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+
+<DOCID>tsunami_0756</DOCID>
+
+<DCT><TIMEX3 tid="t0" type="TIME" value="2018-09-29" temporalFunction="false" functionInDocument="CREATION_TIME">2018-09-29</TIMEX3></DCT>
+
+<TITLE>124 Gempa Susulan Mengguncang Sulteng Sejak Gempa Bermagnitudo 7,4</TITLE>
+
+<TEXT>
+Gempa bermagnitudo 7,4 (sebelumnya 7,7) mengguncang wilayah Donggala, Sulawesi Tengah pada <TIMEX3 tid="t1" type="TIME" value="2018-09-28T17:02">Jumat (28/9/2018) pukul 17.02 WIB</TIMEX3>. 
+
+Gempa besar ini kemudian disusul dengan gelombang tsunami yang menyebabkan permukiman di sekitar Pantai Palu porak-poranda terbawa gelombang air laut. 
+
+Gempa susulan terjadi setelah gempa besar dan tsunami ini. 
+
+Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) melalui akun resmi Twitter InfoHumasBMKG menyatakan, hingga <TIMEX3 tid="t2" type="TIME" value="2018-09-28T11:33">pukul 11.33 WIB</TIMEX3> setelah gempa bermagnitudo 7.4 ini, diikuti gempa susulan sebanyak 124 kali. 
+
+Saat dikonfirmasi, Kepala Humas BMKG Hary Tirto Djatmiko membenarkan informasi itu. 
+
+" Yup (124 gempa susulan terjadi setelah gempa bermagnitudo 7,4). 
+
+Yang terkecil magnitudo 2,9 dan yang terbesar magnitudo 6,3, " kata Hary, saat dihubungi Kompas. 
+
+com, <TIMEX3 tid="t3" type="DATE" value="2018-09-29">Sabtu (29/9/2018)</TIMEX3>. 
+
+Seperti diketahui, banyak bangunan roboh hingga jalan raya rusak parah akibat bencana ini.Pasokan listrik pun sempat terhenti, sehingga menyebabkan jaringan telekomunikasi terganggu. 
+
+Hingga <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">saat ini</TIMEX3>, evakuasi terhadap korban terus dilakukan oleh pemerintah. 
+</TEXT>
+
+</TimeML>
