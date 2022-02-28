@@ -18,14 +18,30 @@ if __name__ == "__main__":
 
     df = pd.read_json(f_in)
 
+    dct_preproc = {
+        'angin_topan'   : ['tc_swrem', 'tfidf' ],
+        'banjir'        : ['tc_swrem', 'tfidf' ],
+        'erupsi'        : ['tc_swrem', 'bow' ],
+        'gempa'         : ['tc_swrem', 'bow' ],
+        'karhutla'      : ['tc_swrem', 'bow' ], 
+        'kekeringan'    : ['tc_swrem', 'tfidf' ], 
+        'longsor'       : ['tc_swrem_stem', 'bow' ],
+        'tsunami'       : ['tc_swrem', 'bow' ],
+    }
+
+    text_preproc = dct_preproc[bencana][0]
+    text_feature = dct_preproc[bencana][1]
+ 
     # default feature
     feat_uni = tool.construct_bow_unigrams
     feat_bi = tool.construct_bow_bigrams
     feat_unibi = tool.construct_bow_uni_and_bigrams
     feature = 'BOW'
 
+    print(text_feature)
     # if there feature type param
-    if 2 < len(sys.argv) and 'tfidf'.lower() == sys.argv[2].lower():
+    #if 2 < len(sys.argv) and 'tfidf'.lower() == sys.argv[2].lower():
+    if text_feature.lower() == 'tfidf'.lower():
         feat_uni = tool.construct_tfidf_unigrams
         feat_bi = tool.construct_tfidf_bigrams
         feat_unibi = tool.construct_tfidf_uni_and_bigrams
@@ -35,14 +51,14 @@ if __name__ == "__main__":
     print("Selection of gram")
     print("feature selection: uni, bi, uni-bi")
     print("Algorithm:  Multinomial NB")
-    print("Repr: tc_swrem")
+    print("Repr: " + text_preproc)
     print(f"Feature: {feature}")
 
     clf = MultinomialNB()
     y = df['label'].to_numpy()
     df_result = pd.DataFrame()
 
-    X, vectorizer = feat_uni(df['tc_swrem'])
+    X, vectorizer = feat_uni(df[text_preproc])
     report, dict_result = tool.eval_cv(X, y, clf, bencana)
     sr_uni = pd.Series(dict_result).sort_index()
     
@@ -50,7 +66,7 @@ if __name__ == "__main__":
     df_result['uni_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['uni_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = feat_bi(df['tc_swrem'])
+    X, vectorizer = feat_bi(df[text_preproc])
     report, dict_result = tool.eval_cv(X, y, clf, bencana)
     sr_bi = pd.Series(dict_result).sort_index()
     
@@ -58,7 +74,7 @@ if __name__ == "__main__":
     df_result['bi_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['bi_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
    
-    X, vectorizer = feat_unibi(df['tc_swrem'])
+    X, vectorizer = feat_unibi(df[text_preproc])
     report, dict_result = tool.eval_cv(X, y, clf, bencana)
     sr_unibi = pd.Series(dict_result).sort_index()
     
@@ -119,8 +135,8 @@ if __name__ == "__main__":
                 y_model1 = v0, 
                 y_model2 = v1)
             chi2, p = mcnemar(ary=tb, corrected=True)
-            l_mcnemar_rslt.append("{chi2:.5f}".format(chi2=chi2))
-            l_mcnemar_rslt.append("{p:.5f}".format(p=p))
+            l_mcnemar_rslt.append("{chi2:.3f}".format(chi2=chi2))
+            l_mcnemar_rslt.append("{p:.3f}".format(p=p))
             print(f"McNemar %s v %s:  chi2 : %0.3f, p_value: %0.3f" 
                     % (k0, k1, chi2, p))
     print(" ".join(l_mcnemar_rslt))

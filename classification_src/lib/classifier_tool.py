@@ -10,29 +10,31 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.pipeline import FeatureUnion
 
 from . import misc
+bow_max_features = 1200
+tfidf_max_features = 600
 
 def construct_tfidf_unigrams(corpus_text):
-    vectorizer = TfidfVectorizer(ngram_range=(1,1), max_features=500)
+    vectorizer = TfidfVectorizer(ngram_range=(1,1), max_features=tfidf_max_features)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_tfidf_bigrams(corpus_text):
-    vectorizer = TfidfVectorizer(ngram_range=(2,2), max_features=500)
+    vectorizer = TfidfVectorizer(ngram_range=(2,2), max_features=tfidf_max_features)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_tfidf_uni_and_bigrams(corpus_text):
-    vectorizer = TfidfVectorizer(ngram_range=(1,2), max_features=500)
+    vectorizer = TfidfVectorizer(ngram_range=(1,2), max_features=tfidf_max_features)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_bow_unigrams(corpus_text):
-    vectorizer = CountVectorizer(ngram_range=(1,1), max_features=1200)
+    vectorizer = CountVectorizer(ngram_range=(1,1), max_features=bow_max_features)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_bow_bigrams(corpus_text):
-    vectorizer = CountVectorizer(ngram_range=(2,2), max_features=1200)
+    vectorizer = CountVectorizer(ngram_range=(2,2), max_features=bow_max_features)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def construct_bow_uni_and_bigrams(corpus_text):
-    vectorizer = CountVectorizer(ngram_range=(1,2), max_features=1200)
+    vectorizer = CountVectorizer(ngram_range=(1,2), max_features=bow_max_features)
     return vectorizer.fit_transform(corpus_text), vectorizer
 
 def eval_cv(X, y, clf, bencana):

@@ -16,18 +16,30 @@ if __name__ == "__main__":
     if None == bencana:
         sys.exit('>> Bencana name is not found ')
 
+    dct_preproc = {
+        'angin_topan' : 'tc_swrem', 
+        'banjir' : 'tc_swrem', 
+        'erupsi' : 'tc_swrem', 
+        'gempa' : 'tc_swrem', 
+        'karhutla' : 'tc_swrem', 
+        'kekeringan' : 'tc_swrem', 
+        'longsor' : 'tc_swrem_stem', 
+        'tsunami' : 'tc_swrem', 
+    }
+
+    text_preproc = dct_preproc[bencana]
     df = pd.read_json(f_in)
 
     print("Selection of feature")
     print("feature selection: BOW vs TFIDF")
     print("Algorithm:  Multinomial NB")
-    print("Repr: tc_swrem")
+    print("Repr: " + text_preproc)
 
     clf = MultinomialNB()
     y = df['label'].to_numpy()
     df_result = pd.DataFrame()
 
-    X, vectorizer = tool.construct_bow_unigrams(df['tc_swrem'])
+    X, vectorizer = tool.construct_bow_unigrams(df[text_preproc])
     report, dict_result = tool.eval_cv(X, y, clf, bencana)
     sr_bow_uni = pd.Series(dict_result).sort_index()
     
@@ -35,7 +47,7 @@ if __name__ == "__main__":
     df_result['bow_uni_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['bow_uni_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = tool.construct_tfidf_unigrams(df['tc_swrem'])
+    X, vectorizer = tool.construct_tfidf_unigrams(df[text_preproc])
     report, dict_result = tool.eval_cv(X, y, clf, bencana)
     sr_tfidf_uni = pd.Series(dict_result).sort_index()
     
@@ -84,7 +96,7 @@ if __name__ == "__main__":
             y_model2 = y_tfidf_uni)
     chi2, p = mcnemar(ary=tb, corrected=True)
     print(tb)
-    print("Mcnemar: chi2: %0.3f %0.3f" % (chi2, p))
+    print("Mcnemar: chi2, p: %0.3f %0.3f" % (chi2, p))
 
 #    print("T_STAT: ", ' '.join(l_stat))
 #    print("P_VAL: ", ' '.join(l_pval))

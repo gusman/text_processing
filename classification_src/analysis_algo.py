@@ -26,22 +26,40 @@ if __name__ == "__main__":
 
     df = pd.read_json(f_in)
 
+    dct_preproc = {
+        'angin_topan'   : ['tc_swrem', 'tfidf', 'unibi' ],
+        'banjir'        : ['tc_swrem', 'tfidf', 'unibi' ],
+        'erupsi'        : ['tc_swrem', 'bow', 'unibi' ],
+        'gempa'         : ['tc_swrem', 'bow', 'unibi' ],
+        'karhutla'      : ['tc_swrem', 'bow', 'unibi' ], 
+        'kekeringan'    : ['tc_swrem', 'tfidf', 'unibi' ], 
+        'longsor'       : ['tc_swrem_stem', 'bow', 'unibi' ],
+        'tsunami'       : ['tc_swrem', 'bow', 'uni' ],
+    }
+
+
+    text_preproc = dct_preproc[bencana][0]
+    text_feature = dct_preproc[bencana][1]
+    text_gram = dct_preproc[bencana][2]
+ 
+
+
     # default feature
     feat = tool.construct_bow_uni_and_bigrams
     feature = 'BOW'
     ngrams = 'UNIBI'
 
     # if there feature type param
-    if 2 < len(sys.argv) and 'tfidf'.lower() == sys.argv[2].lower():
-        if 3 < len(sys.argv) and 'uni'.lower() == sys.argv[3].lower():
+    if 'tfidf'.lower() == text_feature.lower():
+        if 'uni'.lower() == text_gram.lower():
                 feat = tool.construct_tfidf_unigrams
                 ngrams = 'UNI'
 
-        elif 3 < len(sys.argv) and 'bi'.lower() == sys.argv[3].lower():
+        elif 'bi'.lower() == text_gram.lower():
                 feat = tool.construct_tfidf_bigrams
                 ngrams = 'BI'
 
-        elif 3 < len(sys.argv) and 'unibi'.lower() == sys.argv[3].lower():
+        elif 'unibi'.lower() == text_gram.lower():
                 feat = tool.construct_tfidf_uni_and_bigrams
                 ngrams = 'UNIBI'
 
@@ -51,16 +69,16 @@ if __name__ == "__main__":
 
         feature = 'TFIDF'
 
-    if 2 < len(sys.argv) and 'bow'.lower() == sys.argv[2].lower():
-        if 3 < len(sys.argv) and 'uni'.lower() == sys.argv[3].lower():
+    if 'bow'.lower() == text_feature.lower():
+        if 'uni'.lower() == text_gram.lower():
                 feat = tool.construct_bow_unigrams
                 ngrams = 'UNI'
 
-        elif 3 < len(sys.argv) and 'bi'.lower() == sys.argv[3].lower():
+        elif 'bi'.lower() == text_gram.lower():
                 feat = tool.construct_bow_bigrams
                 ngrams = 'BI'
 
-        elif 3 < len(sys.argv) and 'unibi'.lower() == sys.argv[3].lower():
+        elif 'unibi'.lower() == text_gram.lower():
                 feat = tool.construct_bow_uni_and_bigrams
                 ngrams = 'UNIBI'
 
@@ -72,14 +90,14 @@ if __name__ == "__main__":
 
 
     print("Selection of algo")
-    print("Repr: tc_swrem")
+    print(f"Repr: {text_preproc}")
     print(f"Feature: {feature}")
     print(f"N-gram: {ngrams}")
 
     y = df['label'].to_numpy()
     df_result = pd.DataFrame()
 
-    X, vectorizer = feat(df['tc_swrem'])
+    X, vectorizer = feat(df[text_preproc])
     clf = MultinomialNB()
     report, dict_result = tool.eval_cv(X, y, clf, bencana)
     sr_multi_nb = pd.Series(dict_result).sort_index()
@@ -87,7 +105,7 @@ if __name__ == "__main__":
     df_result['multi_nb_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['multi_nb_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = feat(df['tc_swrem'])
+    X, vectorizer = feat(df[text_preproc])
     clf = SVC()
     report, dict_result = tool.eval_cv(X, y, clf, bencana)
     sr_svc = pd.Series(dict_result).sort_index()
@@ -95,7 +113,7 @@ if __name__ == "__main__":
     df_result['svc_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['svc_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
     
-    X, vectorizer = feat(df['tc_swrem'])
+    X, vectorizer = feat(df[text_preproc])
     clf = LinearSVC(max_iter=20000, dual=True)
     report, dict_result = tool.eval_cv(X, y, clf, bencana)
     sr_lsvc = pd.Series(dict_result).sort_index()
@@ -103,7 +121,7 @@ if __name__ == "__main__":
     df_result['lsvc_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['lsvc_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = feat(df['tc_swrem'])
+    X, vectorizer = feat(df[text_preproc])
     clf = RandomForestClassifier(max_depth=100, random_state=0, n_estimators=100)
     report, dict_result = tool.eval_cv(X, y, clf, bencana)
     sr_rf = pd.Series(dict_result).sort_index()
@@ -111,7 +129,7 @@ if __name__ == "__main__":
     df_result['rf_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['rf_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
     
-    X, vectorizer = feat(df['tc_swrem'])
+    X, vectorizer = feat(df[text_preproc])
     clf = LogisticRegression(max_iter=20000)
     report, dict_result = tool.eval_cv(X, y, clf, bencana)
     sr_lr = pd.Series(dict_result).sort_index()
@@ -119,7 +137,7 @@ if __name__ == "__main__":
     df_result['lr_R'] = pd.Series([ t['Y']['recall'] for t in report ])
     df_result['lr_F1'] = pd.Series([ t['Y']['f1-score'] for t in report ])
 
-    X, vectorizer = feat(df['tc_swrem'])
+    X, vectorizer = feat(df[text_preproc])
     clf = AdaBoostClassifier()
     report, dict_result = tool.eval_cv(X, y, clf, bencana)
     sr_ada = pd.Series(dict_result).sort_index()
@@ -209,4 +227,5 @@ if __name__ == "__main__":
                     % (k0, k1, chi2, p))
 
     for i in l_mcnemar_rslt:
-        print("%0.3f %0.3f" % i)
+        print("%0.3f %0.3f" % i, end=' ')
+    print("")
